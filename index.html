@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SWGEmu Conversation Editor</title>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+    <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.0/themes/base/jquery-ui.css" />
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery-ui.js"></script>
+    <script type="text/javascript" src="lib/jquery.jsplumb.js"></script>
+    <script type="text/javascript" src="lib/lua.js"></script>
+</head>
+<body>
+    <div id="toolbar">
+        <h1>SWGEmu Conversation Editor<small>v1.0.0</small></h1>
+        <div class="fieldContainer" id="scriptName">
+            <small>Script Name</small>
+            <div contenteditable="true"></div>
+        </div>
+        <ul>
+            <li><a href="javascript:void(0)">Demo</a></li>
+            <li><a href="javascript:void(0)">Move All To Canvas</a>
+            <li><a href="javascript:void(0)">Reset Canvas</a></li>
+            <li><a href="javascript:void(0)">Clear All Connections</a></li>
+            <li><a href="javascript:void(0)">Generate Lua</a></li>
+            <li><a href="javascript:void(0)">About</a></li>
+        </ul>
+    </div>
+    
+    <div id="repository">
+        <ul class="lang">
+            <li>EN</li>
+        </ul>
+        <a href="javascript:void(0)" class="searchStf">LOAD</a>
+        <div contenteditable="true" class="stfChooser"></div>
+        <div class="container"></div>
+    </div>
+    
+    <div id="canvas"></div>
+    
+    <div id="script" class="dialog"><pre ></pre></div>
+    
+    <div id="about" class="dialog">
+        <h1>SWGEmu Conversation Editor<small>Version 1.0.0</small></h1>
+        <p>This software is intended to assist with the process of creating Conversation templates for use with SWGEmu's server daemon.</p>
+        <h2>Technologies</h2>
+        <ul>
+            <li>jQuery</li>
+            <li>jsPlumb</li>
+        </ul>
+        <h2>Authors</h2>
+        <ul>
+            <li>Chris Rush<small>crush@swgemu.com</small></li>
+        </ul>
+    </div>
+    <div id="overlay"></div>
+    <div id="stfChooserResults"></div>
+    
+    <script type="text/javascript" src="inc/conversationEditor.js"></script>
+    <script type="text/javascript">
+    ;(function() {
+        //Add startsWith() to String.
+        if (typeof String.prototype.startsWith != 'function') {
+            String.prototype.startsWith = function(str) {
+                return this.substring(0, str.length) === str;
+            };
+        }
+        
+        var files = [];
+        var cache = [];
+        var lastSearch = "";
+        
+        var stfChooser = $("#repository .stfChooser");
+        var stfChooserResults = $("#stfChooserResults").width(stfChooser.width()).hide();
+
+        $(document).on("click", "#stfChooserResults A", function(e) {
+            stfChooser.text(this.innerText);
+            $(this).parent().hide();
+        });
+
+        $(document).on("click", ".searchStf", function(e) {
+            $.post("inc/getstf.php", {stfFile: stfChooser.text()}, function(data) {
+                //Now we want to populate the #repository with the entries.
+                conversationEditor.fillRepository(data);
+            });
+        });
+        
+        $.post("inc/getfiles.php", function(data) {
+            files = data.files;
+            cache = data.files;
+        });
+
+        stfChooser.keyup(function(e) {
+            var val = $(this).text();
+
+            if (val.length < 3)
+                return;
+
+            if (!val.startsWith(lastSearch))
+                cache = files; //Reset the cache to all files...
+
+            var offset = stfChooser.offset();
+            stfChooserResults.empty();
+            
+            var results = [];
+            for (var i = 0; i < cache.length; ++i) {
+                var file = cache[i];
+
+                if (file.startsWith(val)) {
+                    results.push(file);
+                    stfChooserResults.append('<a href="javascript:void(0)">' + file + '</a>');
+                }
+            }
+
+            cache = results;
+            lastSearch = val;
+
+            if (results.length > 0) {
+                stfChooserResults.show().offset({
+                    left: offset.left,
+                    top: offset.top + stfChooser.outerHeight() + 2
+                });
+            }
+        });
+
+        $("#canvas").droppable({
+            drop: function(e, ui) {
+                if (ui.draggable.parent().parent().attr("id") == "repository") {
+                    var obj = ui.helper.clone();
+                    obj.attr("data-stf", ui.draggable.attr("data-stf"));
+
+                    conversationEditor.addCanvasObject(obj, ui.position);
+                }
+            }
+        });
+
+        conversationEditor.init();
+    })();
+    </script>
+</body>
+</html>
