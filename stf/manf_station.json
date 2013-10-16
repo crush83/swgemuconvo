@@ -1,18 +1,5 @@
-[
-'17':'no_valid_schematic',
-'16':'deactivated',
-'15':'activated',
-'14':'ingredients',
-'13':'schematic_not_removed',
-'12':'schematic_removed',
-'11':'schematic_not_added',
-'10':'schematic_added',
-'9':'output_hopper',
-'8':'input_hopper',
-'7':'deactivate',
-'6':'activate',
-'5':'examine_prompt',
-'4':'no_schematic_examine_prompt',
-'3':'schematic',
-'2':'options',
-]
+{
+	"stfFile":"manf_station",
+	"entries": {
+		"no_valid_schematic":"Warning: you do not have a draft schematic that can be used in this station.",		"deactivated":"Station deactivated",		"activated":"Station activated",		"ingredients":"List ingredients needed for station",		"schematic_not_removed":"Schematic %TT was not removed from the station.",		"schematic_removed":"Schematic %TT has been removed from the station and been placed in your datapad. Have a nice day!",		"schematic_not_added":"Schematic %TT was not added to the station.",		"schematic_added":"Schematic %TT has been inserted into the station. The station is now ready to manufacture items.",		"output_hopper":"Access station output hopper",		"input_hopper":"Access station ingredient hopper",		"deactivate":"Stop manufacturing objects.",		"activate":"Start manufacturing objects.",		"examine_prompt":"Ingredients required to manufacture an item at this station.",		"no_schematic_examine_prompt":"There is no schematic being used in this station.",		"schematic":"Access schematic slot.",		"options":"Options"
+}}

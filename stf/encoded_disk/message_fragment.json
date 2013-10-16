@@ -1,71 +1,27 @@
-[
-'118':'response_eventreb1_rebel',
-'117':'response_eventreb1_imperial',
-'116':'response_eventimp1_rebel',
-'115':'response_eventimp1_imperial',
-'114':'complete_eventreb1',
-'113':'complete_eventimp1',
-'112':'frag_eventreb1_20',
-'111':'frag_eventreb1_19',
-'110':'frag_eventreb1_18',
-'109':'frag_eventreb1_17',
-'108':'frag_eventreb1_16',
-'107':'frag_eventreb1_15',
-'106':'frag_eventreb1_14',
-'105':'frag_eventreb1_13',
-'104':'frag_eventreb1_12',
-'103':'frag_eventreb1_11',
-'102':'frag_eventreb1_10',
-'101':'frag_eventreb1_9',
-'100':'frag_eventreb1_8',
-'99':'frag_eventreb1_7',
-'98':'frag_eventreb1_6',
-'97':'frag_eventreb1_5',
-'96':'frag_eventreb1_4',
-'95':'frag_eventreb1_3',
-'94':'frag_eventreb1_2',
-'93':'frag_eventreb1_1',
-'92':'frag_eventimp1_20',
-'91':'frag_eventimp1_19',
-'90':'frag_eventimp1_18',
-'89':'frag_eventimp1_17',
-'88':'frag_eventimp1_16',
-'87':'frag_eventimp1_15',
-'86':'frag_eventimp1_14',
-'85':'frag_eventimp1_13',
-'84':'frag_eventimp1_12',
-'83':'frag_eventimp1_11',
-'82':'frag_eventimp1_10',
-'81':'frag_eventimp1_9',
-'80':'frag_eventimp1_8',
-'79':'frag_eventimp1_7',
-'78':'frag_eventimp1_6',
-'77':'frag_eventimp1_5',
-'76':'frag_eventimp1_4',
-'75':'frag_eventimp1_3',
-'74':'frag_eventimp1_2',
-'73':'frag_eventimp1_1',
-'72':'text_eventreb1',
-'71':'text_eventimp1',
-'70':'name_eventreb1',
-'69':'name_eventimp1',
-'68':'response_rebel2_rebel',
-'67':'response_rebel2_imperial',
-'66':'response_rebel1_rebel',
-'65':'response_rebel1_imperial',
-'64':'response_imperial1_rebel',
-'63':'response_imperial1_imperial',
-'62':'complete_imperial1',
-'61':'complete_rebel2',
-'60':'complete_rebel1',
-'56':'sys_message_assembled',
-'55':'sys_not_all_parts',
-'54':'sys_not_in_inv',
-'53':'combine',
-'52':'text_imperial1',
-'51':'text_rebel2',
-'50':'text_rebel1',
-'38':'name_imperial1',
-'37':'name_rebel2',
-'1':'name_rebel1',
-]
+{
+	"stfFile":"encoded_disk/message_fragment",
+	"entries": {
+		"response_eventreb1_rebel":"Where did you find this?  This is a highest channel transmission.  I can't believe that you were able to happen upon it.  There must be a leak in our spy network...  Thank you for turning in this information.  If the Empire had gotten their hands on this, many important operatives would have been placed at risk.",		"response_eventreb1_imperial":"Interesting.  This encoded Rebel message refers to a top secret project.  The Rebel spies are more skilled than I had suspected.  Thank you for turning this in.  Maybe with the names in this transmission, my security team will be able to track down the spies involved.",		"response_eventimp1_rebel":"Hmm...an Imperial transmission...encoded...  I'll have a team begin work on this right away.  It appears to have originated from Moff Jerjerrod.  Very interesting.  Thank you for assisting the Rebellion.  Without dedicated work from those such as yourself, we wouldn't have much of a chance.",		"response_eventimp1_imperial":"How did you manage to get this information?  This is a top secret transmission...it must have been intercepted by the Rebellion at some point.  Thank you for finding this and returning it to me, your dedication to ensuring the security of the Empire will be remembered.",		"complete_eventreb1":"Turn this in to a faction by dragging and dropping it on a faction recruiter.
+
+This disk contains a partial file titled 'Project Dead Eye' containing an ordinally encoded message fragment:
+
+",		"complete_eventimp1":"Turn this in to a faction by dragging and dropping it on a faction recruiter.
+
+This disk contains a partial file titled 'Project Dead Eye' containing an ordinally encoded message fragment:
+
+",		"frag_eventreb1_20":"UTTnlmuTjnitttTuft,TTmjTYyycUnhnuTTpotTTiTTy.TuThTc*00001111*ywJlyybyaiTyitiyyyIxuTc-t",		"frag_eventreb1_19":"BsxgxkfxigkSSS*#00000A*MIxSkssSSwSfmeShtSvxxxSSlaSeskaeSsteSfbSizkmagismpSrakcGtSsfSS",		"frag_eventreb1_18":"JRvwuweuswH,,.JRtqwRRrrwrmhw*3!*rfwrRzzjrqdlrsRhhsrRRdrqnrRjRRlafRgRqRlmgRNrRRrr",		"frag_eventreb1_17":"V.fkzulejdQv)vVqvcdujQQdQtpsQQdQqkkQQe*5*vzQzuQrzQxqzQfQQqvqqQur.eqyqQkiqQQ,qQQ",		"frag_eventreb1_16":"FDsjvhIqykpohsBPHrcujqxqtehPupPjPPPpiqrmohuphhud*2^2*PmubpuPcPPpucxPPjPpqfPpuiP.t",		"frag_eventreb1_15":"BDOPudOxbrOTdcPIOxxccOrcpsrowOoetooOxOtOgtiOvtgx,OqeOwstacOt*pi*OeonaiOcOIOkswwd",		"frag_eventreb1_14":"WW*3*nNcNnzNc:NhoNFngywsnfssNbNhgNmkNNsNnFnshosodoronNsshzNswtbnoNowikNnGfoohdf",		"frag_eventreb1_13":"MFMmMmMymqfmpvmRMfFnzMnqQmrrMrreMggomMMMinazez*e*MepMmQuMhmaMbMMeyzsobmMHburvne",		"frag_eventreb1_12":"lEzLlL.MLLpLaxLXMaLf*sqrt(5)*gaqaLLLilatolumLLflpuyuqmUlmokLLflaLzlLlpsmLLLzLeYLLtidq",		"frag_eventreb1_11":"KTz.KeoKd*2*kcoOw.LKakmnednkpkKKoepKxskelKpwKxcAKKflezkKKsczKkKplxkkkvwtKkkKKru",		"frag_eventreb1_10":"NWsAvxojkJyk(KrJjJJyyJoJJcJjdJJndbdJSrvdojbdJjcqFsdJjpcyccJdcbbJJJJkrjJJ*sqrt(2)*jjkb",		"frag_eventreb1_9":"NBc6unbIqmfnIIyiIinImiaicn*zeta(3)*nIjiiIdnIcIcujmIngiIaIIaI.IxIoawcljjxjq,ilcI,uIIan",		"frag_eventreb1_8":"LVi8iowvHmgLhhiH.HuhHHHHkpzlpHHhjxhkhHiqHabmHtmhhc*1*hlvHhHmwvmmXnkbaHqHBXtzoiR",		"frag_eventreb1_7":"VHtHGyshgalGG*phi*GyAo,hGgkg,lAhuallGGGGlGgGjgpGG.hjGGjGlpgGgwplqyGujpnsagPPpbuWG",		"frag_eventreb1_6":"IXx-fAiFFgQfgrmXvetyFkFzpFFgFibuffqp.FfuFnffkeoexkjyFFzFF*gamma*zbuifogcgroFFRcuoFf",		"frag_eventreb1_5":"SYn5EEsednEEhjfJf*cos(1)*ujfqyyhteeEesfyEExtiyExjyEEhtkitxjfedhjenjwsEEAEgfwkeXEEyeE",		"frag_eventreb1_4":"IDj1,diDtvdxgfvPvwhleeiivDDdDelD,xmvirh*arctan(1/2)*wlDilmPjexDiiDxivDwDTm.dDdvDgsDDddvDj",		"frag_eventreb1_3":"-cq#qCC:vsCfdhdDjCrCwoumS.vChlCcprusohqdwcewgCrhfcqu*sin(1)*vlmdblcCCuCcCxcCC.cCCd.i",		"frag_eventreb1_2":"-BqBq.baBq*0*.gXTRBcbEbkgeqBgv,xnbBgpBBcicBBBBkwbBtqBBevpqrewBbbgpBmhBbbvBtnvgq",		"frag_eventreb1_1":"-MDajtAsastkAAAasAAAwsfsazo*i*efmAtioaafsAaagaxkAamEeaoojsforfAAxB:sAvAAdUfmtoN",		"frag_eventimp1_20":"UuufinCUvquUMuuUUsylUoxuhmUUU.UUiuyuUjsoUuuUgPyiuUUnUqmfUuUXUiUmUh:00001111:myUuunuunmyyuUgylbUUuyUubUUnUCu",		"frag_eventimp1_19":"tTghinTtfhTeTT:#00000A:TmtgTxrhTTTTkttrttTTgTmiXhtfTtnTdTT,xTthtlxTtTxe.btbbutTTTTTTbkuTthpxLatTmzwTtkxtET",		"frag_eventimp1_18":"SwszegsSmFjdsxogSSszjqs,sswSSlSSswGwwsSqSjSSzsasfgksSfSSOwSsfSvSSSzqSfsswksSlSsSeSzSyS:3!:vzfqsSsDSJL
+",		"frag_eventimp1_17":"JydRzsRkiRvrRzfxcRRRkRRuRRmlvz,vRjRdiRrRgfruRRcRrxiRuRrrRyvRfrirjrk:5:rkrRRyxRrjrRcRrRrlkexzCRiwRcVL",		"frag_eventimp1_16":"UjQqQqjsQqjsuQxQqqdqQquduuue:2^2:ljeituqqsqQqkvQuqtQtqqkchqQQqjmjoQqQiQQcusvbjdtQQQkbqQqQeiqkaQouQqkTE",		"frag_eventimp1_15":"NPpPpPttpPuPbpPptPpPpPcjkginxchacwPctPsPPc.tPtptgPddpPtiPPPjctwstnpPvPapPxti:pi:psd'PuP.cpPphppwpPuPP
+",		"frag_eventimp1_14":"SoOhOofxO.oooOoOf.OfOhccosoOuszswh.sggotowhboaOv:3:soqfvmvo.oopofOfqzOoOosrozssOsMhgwhsszorwOaOO.soo",		"frag_eventimp1_13":"NNnrrNpbqgNNa,NlNxnbgpteuuunNqNNsNfqNvrvNNvNNnffqNNsNogu)NNN:e:N'nbayaNnNfrNcatbrNv'NrsNNNNe.NnbreNN",		"frag_eventimp1_12":"mepsyaqddgmkqmiqmmMrtmMs:sqrt(5):MiIMmuMmMmsamMPMsmMmmzwuxemMmMMfzxzmmgMIumuaMgdyqgMpfzmMmmsmmm,mMwmMaym.S",		"frag_eventimp1_11":"LdjLzqdalzLpospsLpaLrelclLL,LLlLlLynLl'ltLlLLLzyLcLlLllLtwzLLzzLcyLdfzf:2:LdzlfLLLloLLdLLdLlnLyetnpY",		"frag_eventimp1_10":"OkVkcxKKoloryKxdbboksxKoKkkyDkKdKdsKoKKKnoKoxk:sqrt(2):ykKkpKoKKkuks,diykZykKyiykkmKlkk.KidkKdobbKouoKdKbS
+",		"frag_eventimp1_9":"LYJJJrjjqjaCLjtJnKnJvxbmnJJmXJ.jwdqjqcjnJawfxJUejnxbannJaJccnJcJJbJjhJhJnJd:zeta(3):JJJtfUaJjbqjnowwtjJjnW
+",		"frag_eventimp1_8":"VIiwiIIIII'IIIIipIsbIk'vei.IVzspiwbIb:1:kImiwwIIkIIIgIliuaniiimtiI.izlIIiIgziwioniwIibIwbmpnIciIiIpO
+",		"frag_eventimp1_7":"HhHa:phi:Hhashhfhh,hHHhHbhHlbHlzhHlhdjiHlHlfzHtHhhvhhmHhyHvyvAHtnHHhrHll,hHhuNHfHupluhl'lsHfHvhwaaHlaP",		"frag_eventimp1_6":"OG.GlGggGGkGGxGkgGguGgnGgjoGgnkGGggngprGt:gamma:GgGGjGGugGugiaGGjxGgcGgkvzkG,GoGxGkoGxqGntsGgGgGGyGoyhGY
+",		"frag_eventimp1_5":"Q.iftymnjxm.wjdxF!FFjFXfFnFzFFwffFFyFtyfffF,qF.jFFihFFhffjt:cos(1):fFtljmFxskdsmfjfmtfGFpFftfFfFfwFfgnFfF",		"frag_eventimp1_4":"PCvEErxvzkxviqissi,elsEEhEesXeFEEesEvvrEgErsieelerriie(EEijEXrrvxeismovwEaExkEEeeeglErEaEieEEl:arctan(1/2):eEe",		"frag_eventimp1_3":"DOrgddDh'qDhkpkowpbDvwdsqdDbVDDhxDz:sin(1):drsh;DbrzwDfDDhduuDDvhqqq'nlEDDuDDfdD.ri-DkdDhDDDvlzrvkDhdwDwD
+",		"frag_eventimp1_2":"-PygCvcrgkcjCkveCccg-CCgcCgCWrcgqvvChCt'cpkVppechvCCgqcgoCkcPCmCcugccwgcqrk-ce:0:Cntucc'Cgp'CuxCCuw,
+",		"frag_eventimp1_1":"-PBhesBnxmBBblBBboxz-b.fBpibNvBtzvB,:i:BbbfBbuBjbbBgBbbiuBijbBdPbpbBjuBBmBBpBBpBu.mc'BBfbgBsb'bbb'pO",		"text_eventreb1":"This disk appears to contain a fragment of an ordinally encrypted Rebel transmission in a file titled 'Project Dead Eye'.  You won't be able to read the fragment without the other disks.  If you have the full set of disks, press the Assemble button to compile a complete version of the file.",		"text_eventimp1":"This disk appears to contain a fragment of an ordinally encrypted Imperial transmission in a file titled 'Project Dead Eye'.  You won't be able to read the fragment without the other disks.  If you have the full set of disks, press the Assemble button to compile a complete version of the file.",		"name_eventreb1":"Encoded Rebel Transmission",		"name_eventimp1":"Encoded Imperial Transmission",		"response_rebel2_rebel":"These plans are incredible.  This ship would be capable of...  I should get this to my superiors at once.  If we act quickly, we might be able to destroy the Imperial prototype or build a similar ship.  Thank you for aiding the Rebellion.",		"response_rebel2_imperial":"These plans can't be real.  I'll check the security codes and...ah...well...  It seems these are legitimate after all.  You could be imprisoned just for having seen this.  By law I should have you interrogated.  On the other hand, I wouldn't want information like this to fall into Rebel hands.  Keep quiet and make sure all the copies disappear.",		"response_rebel1_rebel":"With these troop movement details we should be able to get supplies and people into this sector easily.  Thank you for assisting the Rebellion.  Here is compensation for any losses you took getting us this information.",		"response_rebel1_imperial":"This...information...how...?  Ahem.  The accuracy of the information gathered by these spies is surprising.  I'll make sure this disk disappears immediately.  You could have given this to the Rebels, I imagine.  Thank you for choosing to aid the Empire.",		"response_imperial1_rebel":"How did you get these orders?  Nevermind, I don't want to know.  I understand that you could have given this to the Empire just as easily.  While I would hope you did this out of faith in the Rebellion, I understand that faith doesn't pay debts.",		"response_imperial1_imperial":"I don't know how you got this information, but it appears to be real.  My superiors will find this quite informative.  Here is a little something to incentivise further loyalty to the Empire.",		"complete_imperial1":"Turn this in to a faction by dragging and dropping it on a faction recruiter.
+
+The disk contains a series of complex orders from a Rebel Alliance commander to his subordinates.  The unit and location code names mean little to you, but the Galactic Empire might be able to act on this information.  You could probably turn this information over to an Imperial operative for a sizable reward.",		"complete_rebel2":"Turn this in to a faction by dragging and dropping it on a faction recruiter.
+
+The disk contains extensive plans on a prototype Imperial starship.  According to the documents, the ship has just recently entered into the preproduction phase and only exists in limited quantities.  If the Rebel Alliance had this information, they might be able to sabotage the prototypes or build ships of similar capability.  If you turn these documents over to a rebel operative, you should get a nice reward.",		"complete_rebel1":"Turn this in to a faction by dragging and dropping it on a faction recruiter.
+
+The disk contains a transmission from rebel spies that have been operating in Imperial controlled areas.  The spies have provided extensive information on Imperial troop movements and force compositions.  This information is highly valuable to the Rebel Alliance.  If you turn it in to a rebel operative, you might receive a handsome reward.",		"sys_message_assembled":"You successfully assemble the fragments into a single file.",		"sys_not_all_parts":"You don't have all of the fragments of this message.",		"sys_not_in_inv":"The disk can't be used unless it is in your inventory!",		"combine":"Assemble",		"text_imperial1":"The disk contains a fragment of orders apparently addressed to a commanding officer of the rebellion.  You aren't able to determine the nature of the orders from this piece alone.  If you gather the other three parts of the message, you should be able to assemble the complete set of orders.",		"text_rebel2":"This disk appears to contains partial plans to a new type of Imperial starship.  Unfortunately, the data is incomplete.  The disk's file index indicates there are three more parts to the plans.  If you gather all three of those parts, you should be able to assemble the complete set of plans.",		"text_rebel1":"This disk appears to contain a fragment of a rebel transmission.  The nature of the transmission isn't clear.  You will need to gather all four parts and combine them in order to determine the contents of the transmission.",		"name_imperial1":"Rebel Orders",		"name_rebel2":"Imperial Plans",		"name_rebel1":"Rebel Transmission"
+}}

@@ -1,21 +1,5 @@
-[
-'19':'npc_msn_01_decline',
-'18':'npc_msn_01_greeting_onothermission',
-'17':'npc_msn_01_friend_work_01',
-'16':'npc_msn_01_friend_greeting_onmission',
-'15':'npc_msn_01_friend_greeting_02',
-'14':'npc_msn_01_greeting_onmission',
-'13':'npc_msn_01_greeting_02',
-'12':'npc_msn_01_friend_greeting_01',
-'11':'npc_msn_01_presp_getmission_05',
-'10':'npc_msn_01_presp_getmission_04',
-'9':'npc_msn_01_presp_getmission_03',
-'8':'npc_msn_01_work_01',
-'7':'npc_msn_01_presp_getmission_02',
-'6':'npc_msn_01_presp_getmission_01',
-'5':'npc_msn_01_work_02',
-'4':'npc_msn_01_busy_01',
-'3':'npc_msn_01_presp_greeting_02',
-'2':'npc_msn_01_presp_greeting_01',
-'1':'npc_msn_01_greeting_01',
-]
+{
+	"stfFile":"npc_mission/npc_mission_01",
+	"entries": {
+		"npc_msn_01_decline":"Well fine. I didn't want your help anyways. ",		"npc_msn_01_greeting_onothermission":"You need to finish all of your other tasks before we can talk.",		"npc_msn_01_friend_work_01":"You should speak to my friend. There's work to be done, but it's far too dangerous for me!",		"npc_msn_01_friend_greeting_onmission":"Aren't you supposed to be helping my friend, here?",		"npc_msn_01_friend_greeting_02":"Nice to see you again.",		"npc_msn_01_greeting_onmission":"I don't want to talk again until you've finished what I've asked you to do.",		"npc_msn_01_greeting_02":"You again.",		"npc_msn_01_friend_greeting_01":"Well, hello!",		"npc_msn_01_presp_getmission_05":"I want a job. Don't you have something that you need done?",		"npc_msn_01_presp_getmission_04":"I'm not looking for trouble, just a job.",		"npc_msn_01_presp_getmission_03":"Can we skip the hassle and talk about the job, please?",		"npc_msn_01_work_01":"That's nothing new. Your kind is always looking for odd jobs, aren't they?",		"npc_msn_01_presp_getmission_02":"I would be happy to help you out. What can I do?",		"npc_msn_01_presp_getmission_01":"I'm ready for some action. What do you have for me?",		"npc_msn_01_work_02":"Hmmm.... Now that I think about it, you might be able to help me out.",		"npc_msn_01_busy_01":"What would you know about it? Tell me what you want or get out of here!",		"npc_msn_01_presp_greeting_02":"You don't look busy to me.",		"npc_msn_01_presp_greeting_01":"I'm looking for work.",		"npc_msn_01_greeting_01":"Yes? You know this isn't exactly the BEST time to interrupt me."
+}}

@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_rebel_tier3_4_b",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"This elite ambush squadron must be what happened to Magenta squadron. We pray that you will be able to prevail where they didn't. Avenge the Magenta squadron pilot!",		"title":"Endor system: Defeat the Elite Imperial Ambush patrol.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Fleet Command: < You keep surprising me pilot, I didn't think you would make it out of that alive. Head to these coordinates to help Blue squadron. >",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

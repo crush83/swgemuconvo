@@ -1,6 +1,5 @@
-[
-'4':'hair',
-'3':'frills',
-'2':'ridges',
-'1':'lekku',
-]
+{
+	"stfFile":"hair_name",
+	"entries": {
+		"hair":"hair",		"frills":"frills",		"ridges":"ridges",		"lekku":"lekku"
+}}

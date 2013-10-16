@@ -1,12 +1,5 @@
-[
-'10':'unused2_t',
-'9':'unused2_d',
-'8':'unused1_t',
-'7':'unused1_d',
-'6':'title_d',
-'5':'title',
-'4':'split_quest_alert_fail',
-'3':'split_quest_alert',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/poi_tatooine_privateer_2_a",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"At this point, the Valarians are quickly topping your list of favorite enemies. With the continued attacks every step of the way, you begin to wonder exactly who is the spy informing the Valarians about your mission. Or it could be your undeniable charm. Maybe.",		"title":"Tatoo System: Valarians Attack!",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 Hutt Informant:\#pcontrast3 < It's high time we see what the Valarians are up to and how they know every step we take. Disable and inspect several Valarian lackeys to see what they know. >",		"complete":"\#pcontrast1 Hutt Informant:\#pcontrast3 < I'm very impressed with your flying skills, pilot. >",		"assigned_delayed":""
+}}

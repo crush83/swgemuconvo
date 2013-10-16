@@ -1,22 +1,196 @@
-[
-'20':'desc_sullustan',
-'19':'desc_ithorian',
-'18':'name_sullustan',
-'17':'name_ithorian',
-'16':'name_zabrak',
-'15':'name_wookiee',
-'14':'name_twilek',
-'13':'name_trandoshan',
-'12':'name_rodian',
-'11':'name_moncal',
-'10':'name_human',
-'9':'name_bothan',
-'8':'desc_zabrak',
-'7':'desc_wookiee',
-'6':'desc_twilek',
-'5':'desc_trandoshan',
-'4':'desc_rodian',
-'3':'desc_moncal',
-'2':'desc_human',
-'1':'desc_bothan',
-]
+{
+	"stfFile":"player_species",
+	"entries": {
+		"desc_sullustan":"Sullustans are affable, gregarious creatures known for their jowled faces and chattering language. Planet Sullust is a barren, volcanic world smothered by a heavy toxic cloud. Sullustans thrive in tunnels deep beneath the planet surface where they have constructed highly advanced, startlingly beautiful cities. Wealthy sightseers from halfway across the galaxy tour the hot-springs of Sullust and enjoy exotic delicacies such as "drutash grubs" (which are best served with omaton sauce).
+
+Evolving in a network of dark, mazelike warrens imbued the species with an unfailing sense of direction. Once a Sullustan has traveled a path, the way is never forgotten. This innate skill even extends to hyperspace, making Sullustans prized as star navigators and explorers.
+
+SoroSuub, one of the galaxy's largest manufacturing conglomerates, is based on Sullust and employs half of the population in its mining, production and packaging departments. The company makes hundreds of products, from injecto-kit shoes and battle armor to the XP-38 landspeeder. SoroSuub is an ardent supporter of the Galactic Empire, and has taken great pains to ensure that its legion of Sullustan workers never breathes a word of dissent. Even so, many Sullustans have taken issue with this policy, and have shared their loyalty with the Rebel Alliance...
+
+  ATTRIBUTES
+
+\>024Health: \>128+200\>000
+\>024Strength: \>128+0\>000
+\>024Constitution: \>128+0\>000
+\>024Action: \>128+300\>000
+\>024Quickness: \>128+0\>000
+\>024Stamina: \>128+0\>000
+\>024Mind: \>128+0\>000
+\>024Focus: \>128+0\>000
+\>024Willpower: \>128+400\>000
+",		"desc_ithorian":"Ithorians are herbivorous pacifists often called "Meerian Hammer-heads" by those fascinated by their bizarre, ladle-shaped necks and wide-set eyes. Ithorians also have mouths on both sides of their curved necks, which results in a unique 'stereophonic' speaking voice.
+
+Planet Ithor is a stunning paradise characterized by ample sunlight, glistening waterfalls, thriving rain forests, and gentle breezes. Ithor is easily the most popular tourist destination for newly-weds and young lovers. Since the dawn of their civilization, the quiet Ithorians have worshipped the "Mother Jungle," and have lived in complete harmony with their surroundings. For every vegetable plucked from the ground, the wise Ithorian plants two replacements.
+
+The Ithorians moved to the sky relatively early in their societal development, gliding casually above the baffor treetops in "herd cities" equipped with powerful, yet environmentally-friendly, repulsorlift systems. Most Ithorians live in "herds" that migrate about Ithor's three civilized continents. Still others travel throughout the galaxy in space-faring "herds" to sell unusual merchandise. 
+
+Ithorian horticultural and cloning expertise is second to none. This fact has, unfortunately, focused considerable unwanted attention from the Empire onto planet Ithor and its peaceful species. The gentle, optimistic Ithorians prefer work in agricultural, artistic, diplomatic, mercantile or space-faring fields. A select number choose to take on the mantle of ecological priests, keeping the "Mother Jungle" safe from danger.
+
+  ATTRIBUTES
+
+\>024Health: \>128+0\>000
+\>024Strength: \>128+0\>000
+\>024Constitution: \>128+0\>000
+\>024Action: \>128+0\>000
+\>024Quickness: \>128+0\>000
+\>024Stamina: \>128+150\>000
+\>024Mind: \>128+300\>000
+\>024Focus: \>128+300\>000
+\>024Willpower: \>128+150\>000",		"name_sullustan":"Sullustan",		"name_ithorian":"Ithorian",		"name_zabrak":"Zabrak",		"name_wookiee":"Wookiee",		"name_twilek":"Twi'lek",		"name_trandoshan":"Trandoshan",		"name_rodian":"Rodian",		"name_moncal":"Mon Calamari",		"name_human":"Human",		"name_bothan":"Bothan",		"desc_zabrak":"Zabrak are humanoids with prominent vestigial horns and well-developed mental willpower. The species is divided into a number of different races, each exhibiting different horn patterns. Zabrak are also fond of intricate facial tattoos designed to reflect their individual personalities.
+
+Zabrak were one of the earliest spacefaring species and they have explored large sections of the galaxy. Their homeworld of Iridonia is a frighteningly harsh planet, which has led many Zabrak to settle on other worlds, including Talus and Corellia. The Zabrak also maintain eight colonies throughout the Mid Rim region of space, and most Zabrak actually identify themselves by their colony first and foremost. All members of the species speak Zabraki and Basic, but they may adopt local languages as well.
+
+As fitting with their pioneer spirit, Zabrak are viewed as independent and strong-willed. Iridonia and the major colonies have steadfastly resisted Imperial control, although some individual Zabrak have become servants of the Empire. In response to general Zabrak defiance, the Empire is in the process of garrisoning the Zabrak colony worlds and Imperializing the species' companies. This has forced many Zabrak back into the spacelanes. 
+
+Zabrak are proud, strong, and confident beings. They believe that nothing is truly impossible and will strive to prove skeptics wrong at every turn. Some Zabrak carry themselves with an air of superiority, and they frequently discuss the achievements of their species and home colonies with a pride that can border on arrogance. As warriors or adventurers, Zabrak tend to be dedicated, intense, and extremely focused. 
+
+Zabrak are still considered among the galaxy's most prominent explorers, but their personalities, survival instincts, and incredible willpower also make Zabrak well-suited to nearly any adventuring profession.
+
+  ATTRIBUTES
+
+\>024Health: \>128+200\>000
+\>024Strength: \>128+0\>000
+\>024Constitution: \>128+0\>000
+\>024Action: \>128+300\>000
+\>024Quickness: \>128+0\>000
+\>024Stamina: \>128+0\>000
+\>024Mind: \>128+0\>000
+\>024Focus: \>128+0\>000
+\>024Willpower: \>128+400\>000",		"desc_wookiee":"Towering, fur-covered humanoids native to the planet Kashyyyk, Wookiees are one of the most recognizable species in the galaxy. They are strong and prone to fits of bestial rage, but are also intelligent, loyal, and trusting. 
+
+Among the Wookiees, bravery and honor are considered paramount. Though Wookiees are not warlike, they do make fierce warriors and deadly opponents when angered or threatened. The tales of so-called "Wookiee Berserkers" are legendary. But while Wookiees may appear primitive and even barbaric, they are actually quite comfortable with technology and can easily learn to pilot starships, repair machines, and wield advanced weaponry.
+
+An average Wookiee grows to more than two meters tall and lives several times the lifetime of a human. Aside from their great strength and keen senses, they possess regenerative powers and can recover from serious wounds within days. In many ways, Wookiees are still mysterious to outsiders; for example, how Wookiees handle their dead remains a closely guarded secret. 
+
+Wookiees speak Shyriiwook, a language consisting of grunts, growls, roars, hoots, and screeches. They can understand other languages, including Basic, but have limited vocal capability and can only speak their own tongue.
+
+The Wookiee species is psychologically stable and has a deep connection to nature. They love their homeworld and have a strong connection with animals, plants, and other components of the natural world. Wookiees place great value on morality, courage, compassion, and loyalty. Very few Wookiees willingly betray their friends or families. Typical of their beliefs is the Wookiee life debt, an oath of fealty extended to anyone who saves the life of a Wookiee. Finally, Wookiees feel that they are honored by their own deeds alone, and thus they do not care for medals or other material symbols of bravery or achievement.
+
+  ATTRIBUTES
+
+\>024Health: \>128+350\>000
+\>024Strength: \>128+350\>000
+\>024Constitution: \>128+150\>000
+\>024Action: \>128+200\>000
+\>024Quickness: \>128+100\>000
+\>024Stamina: \>128+100\>000
+\>024Mind: \>128+100\>000
+\>024Focus: \>128+150\>000
+\>024Willpower: \>128+100\>000",		"desc_twilek":"Twi'leks are humanoids easily distinguished by the twin tentacles that grow from their skulls. These prehensile appendages, known as "lekku" or "tchun-tchin," are advanced organs used for communication and cognitive functions. Like humans, Twi'leks vary greatly in appearance and have a wide variety of skin colors ranging from pale white to bright green, blue or red. 
+
+Twi'leks speak Twi'leki, a language that combines verbal components with subtle head-tail movements. When they wish, they can even communicate in complete secrecy using their versatile head-tails. 
+
+Twi'leks are native to mountainous Ryloth in the Outer Rim. Because of Ryloth's strange orbit, half of the world is trapped in perpetual darkness, while the other half remains scorched by the sun. The Twi'leks inhabit a thin band of twilight between these two extremes, living in sprawling catacomb cities just below the planet's surface. They have a relatively primitive industrial civilization, and survive on a diet of raw fungi and cow-like rycrits. Because Ryloth is relatively defenseless, the planet has long been the target of off-world slavers. 
+
+Twi'leks adhere to a familial clan government organized around a series of head clans, each consisting of five members who are born into the position. Head clans are responsible for all community decisions, but the position also has a heavy price: When one member of a clan government dies, the remaining four leaders are exiled to Ryloth's uninhabitable Bright Lands, allowing the next generation of clan leaders to assume their rightful place. Religiously, the species worships a single female deity.
+
+Ryloth's harsh environment and turbulent history have forged Twi'leks into tough survivors. Generally nonviolent, they typically use their intelligence and cunning to achieve their goals or resolve conflicts. Noble Twi'leks may seem stoic or even aloof, while less scrupulous members of the species can be considered ruthless and manipulative.  
+
+  ATTRIBUTES
+
+\>024Health: \>128+0\>000
+\>024Strength: \>128+0\>000
+\>024Constitution: \>128+250\>000
+\>024Action: \>128+250\>000
+\>024Quickness: \>128+300\>000
+\>024Stamina: \>128+0\>000
+\>024Mind: \>128+100\>000
+\>024Focus: \>128+0\>000
+\>024Willpower: \>128+0\>000",		"desc_trandoshan":"Among the galaxy's most fearsome species, Trandoshans are large, threatening reptilians from the planet Trandosha (or Dosha). Trandoshans are physically powerful, very difficult to injure, and capable of recovering quickly from even the most serious injuries. Like many reptiles, Trandoshans hatch from eggs and have thick, scaly skin. Their three-fingered hands are armed with sharp claws, which can be deadly weapons in combat. They also have supersensitive eyes that can see into the infrared range.  
+
+Trandoshans live in a warlike society that honors hunting above all else. In fact, Trandoshans worship a female deity known as the Scorekeeper, who awards "jagannath points" to her followers based on successful kills. The number of jagannath points a Trandoshan accumulates supposedly determines his or her position in the afterlife. 
+
+Many Trandoshans channel their society's values into roles as bounty hunters, soldiers, or rangers. A handful of the most violent and immoral Trandoshans serve the Empire as slavers who target other species, including Wookiees. But, Trandoshans are also independent and may rebel against their culture. A scientifically-minded Trandoshan might become a peaceful "hunter," working as a xenobiologist who merely tracks and studies other creatures. Even on Dosha, Trandoshan society relies on its own engineers, merchants, and even farmers. 
+
+Trandoshans are widely distrusted throughout the galaxy, in part because of their frightening appearance. And, in fact, many Trandoshans are gruff, unpredictable, and even dangerous. They rarely form long-lasting emotional bonds, even with other Trandoshans, and may be more likely to join forces with others for personal gain rather than friendship. But those who have allied themselves with Trandoshans are always impressed by the species' uncanny fortitude, unflagging resolve, and unshakeable calm even in the face of certain death.
+
+  ATTRIBUTES
+
+\>024Health: \>128+250\>000
+\>024Strength: \>128+300\>000
+\>024Constitution: \>128+400\>000
+\>024Action: \>128+0\>000
+\>024Quickness: \>128+0\>000
+\>024Stamina: \>128+0\>000
+\>024Mind: \>128+0\>000
+\>024Focus: \>128+0\>000
+\>024Willpower: \>128+100\>000",		"desc_rodian":"Rodians are slight humanoids with large, multifaceted eyes, flexible snouts, and short antennae. They typically have greenish skin, although some members of the species may be blue, purple or even pale white. Rodians are native to Rodia, an industrial planet in the Tyrius system.
+
+Rodians are widely distrusted by other species, who consider the Rodians to be generally greedy, immoral, and violent. Much of this reputation stems from Rodian culture, which romanticizes death and the hunt. In addition, the species reveres bounty hunters. The most successful hunters are presented with an array of rewards, including such coveted awards as "Best Capture," "Longest Hunt," and "Most Kills." 
+
+On Rodia, the species lives in violent clans that wage long and devastating wars against one another. Immense gladiator games are also a frequent occurrence. To support their constant warfare, Rodian industry revolves around building weapons, armors, and vehicles. Manufacturing facilities dominate the landscape, devastating the once lush and tropical Rodian ecology. Many life-forms have become extinct on Rodia and most food and material goods must be imported to the planet.  
+
+Surprisingly, Rodians are skilled dramatists and their theatrical work is respected throughout the galaxy. After realizing that they were driving themselves toward extinction, the species developed drama in order to enact violence without actually killing one another. Their early plays were nothing more than mock battles, but later generations began converting Rodian drama into a true art form. All Rodian drama, however, contains a great deal of bloodshed and death.
+
+Rodians speak Rodese, although those who leave the planet quickly learn Basic as well. In the Outer Rim, where many expatriate Rodians have settled, the species has mastered Huttese and uses it almost exclusively.
+
+Traditionally, Rodian society has been tightly controlled by the Rodian Grand Protector, with only the most accomplished hunters allowed to leave their planet. However, Rodians are becoming increasingly independent. A number of "peaceful" clans actually exist, although such clans are usually exiled from Rodia when they are discovered. In addition, those Rodians who chafe under the Grand Protector's rule or become weary of the constant bloodshed on their homeworld can almost always find a way to escape the planet.
+
+Rodians encountered abroad tend to be much more introspective and well-rounded than their brethren. They are still quick and agile, but are not necessarily prone to extreme violence. While many still become bounty hunters or mercenaries, Rodians can be found in all professions. Some of the most successful Rodians are dramatic actors, while others become famous musicians, dancers, and other entertainers.
+
+  ATTRIBUTES
+
+\>024Health: \>128+0\>000
+\>024Strength: \>128+0\>000
+\>024Constitution: \>128+0\>000
+\>024Action: \>128+200\>000
+\>024Quickness: \>128+200\>000
+\>024Stamina: \>128+450\>000
+\>024Mind: \>128+0\>000
+\>024Focus: \>128+00\>000
+\>024Willpower: \>128+50\>000",		"desc_moncal":"An amphibious species with fishlike faces and huge eyes, the Mon Calamari are among the galaxy's most peaceful and intelligent beings. They are a colorful species, with skin tones ranging the full spectrum of known hues. Many Mon Cal are also marked by vibrant spots or stripes. 
+
+The Mon Calamari are native to a watery world of the same name. They can survive underwater for long periods of time and are powerful swimmers. The Mon Cal are also psychologically attuned to their environment. When visiting wet, cool planets they become very energetic and cheerful; in contrast, they may be quite depressed and languid on hot, dry worlds. 
+
+The idealistic Mon Cal enjoy a progressive society that promotes the values of justice and peace. They are tireless explorers, but seek out other planets for knowledge rather than conquest. As individuals, they may seem soft-spoken, gentle, determined, and generous. They control their emotions well and have a nearly superhuman capacity for intense concentration. More impulsive species may view the Mon Cal as extremely stubborn. Mon Cal speak Basic and Mon Calamari. 
+
+The Mon Cal are one of the many species victimized by the Galactic Empire. Many Mon Cal have been forced to build weapons and starships for the Imperial forces while others serve as personal assistants to high-ranking Imperial officers. In defiance of the Empire, those Mon Cal who still travel the galaxy often find themselves working for the Rebel Alliance.
+
+Throughout the galaxy, Mon Cal are probably best-known for their great scientific knowledge and mechanical aptitude. In particular, they are widely respected for their striking starships, each a unique fusion of art and engineering. But Mon Cal certainly aren't limited to intellectual pursuits; they can also apply their great intelligence to exploration, tactical combat, and even complete mastery of weapons.
+
+  ATTRIBUTES
+
+\>024Health: \>128+0\>000
+\>024Strength: \>128+0\>000
+\>024Constitution: \>128+0\>000
+\>024Action: \>128+0\>000
+\>024Quickness: \>128+0\>000
+\>024Stamina: \>128+150\>000
+\>024Mind: \>128+300\>000
+\>024Focus: \>128+300\>000
+\>024Willpower: \>128+150\>000",		"desc_human":"The predominant species in the galaxy, humans can be found in virtually all walks of life and on most habitable worlds. All humans are bipedal, intelligent beings. They speak Basic, which has become the galaxy's official language. Humans are generally considered adaptable, curious, innovative, resilient, and ambitious. 
+
+Humanity's incredible diversity is perhaps its greatest strength. No two humans look or behave exactly alike, and humans represent many of history's greatest heroes (along with its most despicable villains). Humanity is also credited with discovering hyperspace travel, founding the first galactic governments, and colonizing hundreds of treacherous worlds. Humans dominate the current political landscape, comprising most of the Galactic Empire.
+
+Unlike many other species, humans do not have an identifiable planet of origin. Some scholars believe that humans first appeared on Coruscant, which is now the Imperial capital, but this theory has never been substantiated. Regardless, humans have settled in nearly every corner of the galaxy. Because humans are so widespread, they are often categorized by homeworld. Thus, humans born on Corellia are widely known as Corellians while the humans found on Naboo are often called simply "the Naboo." On some worlds, humanity gave rise to genetic offshoots which are referred to as "near-humans."
+
+  ATTRIBUTES
+
+\>024Health: \>128+100\>000
+\>024Strength: \>128+100\>000
+\>024Constitution: \>128+100\>000
+\>024Action: \>128+100\>000
+\>024Quickness: \>128+100\>000
+\>024Stamina: \>128+100\>000
+\>024Mind: \>128+100\>000
+\>024Focus: \>128+100\>000
+\>024Willpower: \>128+100\>000",		"desc_bothan":"A humanoid species identified by their short builds and fur-covered faces, Bothans are widely known as proficient and intrepid spies. However, members of the species have also become fearless leaders, relentless warriors, courageous pilots, and brilliant scientists. 
+
+As a species, Bothans have been mastering the art of information-gathering for nearly 300 years. The resulting Bothan spynet is among the largest and most renowned intelligence organizations, with operatives stationed throughout the galaxy. In fact, spying has become the Bothans primary industry. Since the outbreak of the Galactic Civil War, the Bothan spynet has primarily benefited the Rebel Alliance, although both the Empire and the criminal underworld occasionally make use of Bothan spies as well. 
+
+Due largely to their reputation as spies, Bothans are often regarded as power hungry, manipulative, cunning and paranoid. But Bothans are also well-organized, keenly intelligent, and very loyal. They live orderly lives, place great emphasis on family bonds, and are extremely protective of their allies. In addition, Bothans can be passionate and surprisingly eloquent orators, poets, and politicians.
+
+Bothans hail from Bothawui, a clean, cosmopolitan planet. They live in tight-knit clans and are ruled by a democratic Bothan Council. Bothans speak both Basic and their own native tongue.
+
+  ATTRIBUTES
+
+\>024Health: \>128+0\>000
+\>024Strength: \>128+0\>000
+\>024Constitution: \>128+0\>000
+\>024Action: \>128+300\>000
+\>024Quickness: \>128+300\>000
+\>024Stamina: \>128+100\>000
+\>024Mind: \>128+100\>000
+\>024Focus: \>128+100\>000
+\>024Willpower: \>128+0\>000"
+}}

@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/naboo_imperial_tier4_1_a",
+	"entries": {
+		"title_d":"A vessel's signature has been spotted leaving the surface of Dathomir. Capture and inspect this vessel. The Inquisition is very interested to find out what is on board.",		"title":"Dathomir System: Inspect the Crystal Smuggler",		"split_quest_alert_fail":"",		"split_quest_alert":"Hold current position for further instructions.",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"The ship has just left Dathomir's surface. Intercept it before it is able to leave the system. A navigation waypoint to its most recent location will be supplied to you.",		"quest_inspect_t":"Inspect the Crystal Smuggler",		"quest_inspect_d":"Disable and inspect the smuggler's cargo.",		"quest_dock_t":"Transfer the Glowing Crystals",		"quest_dock_d":"Once you have discovered what the smuggler was carrying, dock with his ship and transfer the cargo to your ship.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

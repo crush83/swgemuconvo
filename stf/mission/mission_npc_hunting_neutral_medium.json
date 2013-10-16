@@ -1,19 +1,22 @@
-[
-'17':'m8t',
-'16':'m8o',
-'15':'m7t',
-'14':'m7o',
-'13':'m6t',
-'12':'m6o',
-'11':'m5t',
-'10':'m5o',
-'9':'m4t',
-'8':'m4o',
-'7':'m3t',
-'6':'m3o',
-'5':'m2t',
-'4':'m2o',
-'3':'m1o',
-'2':'m1t',
-'1':'number_of_entries',
-]
+{
+	"stfFile":"mission/mission_npc_hunting_neutral_medium",
+	"entries": {
+		"m8t":"Restore marriage harmony",		"m8o":"I married the most horrible slob of a husband.  He is literally the most useless human in the galaxy.  I bust my but down at the shipyard factory day in and day out.  I have grease stuck in my hair.  I have clothes that always need a wash.  I feel like I always need a bath.  And for what?  So that slug of a husband can sit at home and do what?  Nothing!  His latest adventure is sitting in the room trying to move things with his mind.  That wacko is convinced he can feel the force.  Now I haven't seen everything, but I wasn't born yesterday.  I've been all around and never seen any 'evidence' of some all powerful energy field controlling everything.  It's kids stuff, that force nonsense.  
+
+My slob of a husband now complains on a regular basis about the animals, making noise, disturbing his mental concentration, etc.  This Jedi thing of his is a fad, just like all his other crazy ideas.  Go ahead and round up 30 animals so I don't have to hear his whining anymore.  
+",		"m7t":"Help a tired man get some rest",		"m7o":"Let me tell you what it's like to live with a woman who is scared of everything when you work all the time.  It's not fun, ok?  Day in and day out I get calls about this little hurt, this latest injury, or random who knows what kind of event.  Blah, blah, blah, I'm sick of it, ok?  
+
+Her latest problem is an infestation of critters on our land.  Now, they aren't actually a problem.  I've already had an exterminator check out the place, and he couldn't find anything.  I'm hiring you to get me some insurance, ok?
+
+It doesn't matter where you get these corpses from, I really don't care.  If I can get her to shut up for a minute about it, I might have a chance at getting some sleep.  Just go out there and eliminate 30 of the critters.  That will show her my 'true' love and devotion.  I need some sleep, help me out, ok?",		"m6t":"Take vengeance for a bitter old man",		"m6o":"When I was younger, these awful creatures attacked and mutilated me.  Some call me bitter, but I don't care!  I have sworn revenge on these nasty brutes.  I now offer a handsome price to anyone who goes out and takes care of these critters in the most brutal way.  
+
+I want them to hurt.  I want them to suffer.  I want them to pay!  Go out there and kill them all!  I pay in 30 critter lots, so don't come back until 15 are eliminated.  15 I say! 
+",		"m5t":"Kill meddlesome creatures",		"m5o":"I can't stand these pests!  They get into everything and are everywhere!  I'll pay anyone who can figure out a way to keep these horrible, horrible…THINGS away!  If you have the stomach to deal with these meddlesome things, I will pay.  You must kill at least 30 creatures.  I'll accept no less!",		"m4t":"Wipe out critter pets",		"m4o":"I'm part of the Empire, and am often away from home for long periods of time.  I sent my little sister a couple critters to play with and remind her of me.  Little did I know the reproductive menace they would become.  
+
+These things have spread out of control.  My parents have completely lost it and don't know what to do.  I think the right thing for the family is to hire someone to eliminate these overly reproductive pets.  They are out of town for the weekend so now is the time.  Be sure you get all 30, ok?
+",		"m3t":"Eliminate reproductive menace",		"m3o":"All right, all right, I admit it was a terrible idea.  I had a durni problem around the farm, and I thought introducing a new type of critter would take care of the problem.  What a disaster!
+
+There isn't much I can do at this point other than kill them off.  There are about 30 out there.  For a big time hunter like you this should be no problem.  ",		"m2t":"Help an old trapper",		"m2o":"I've spent 40 years of my life working as a trapper, and I've run into hard times my friend.  Lately, these knees aren't happy at getting up in the morning, my speeder broke down, and the last treatment from the driod doc emptied out my savings.  
+
+My boss pays top dollar, but I've got to make a payment soon if I want to keep my house.  If you can head out there and collect 30 pelts for me, I'll split the profits with you.  I can take a few days off to give my tired body a rest, and you get some easy cash.  We all come out winners.  Whadyasay?  ",		"m1o":"I've had it. These vermin have been bothering my family for a long time. Go thin out their herd. Kill 30 of these creatures.",		"m1t":"Exterminate these pests!",		"number_of_entries":"8"
+}}

@@ -1,7 +1,5 @@
-[
-'5':'destroy_hutt_easy_creature_5',
-'4':'destroy_hutt_easy_creature_4',
-'3':'destroy_hutt_easy_creature_3',
-'2':'destroy_hutt_easy_creature_2',
-'1':'destroy_hutt_easy_creature_1',
-]
+{
+	"stfFile":"mission_destroy_hutt_easy_creature",
+	"entries": {
+		"destroy_hutt_easy_creature_5":"This location is to be wiped of animals in order to begin construction of an underground escape tunnel.  All creatures must be eliminated in this area before construction can begin.",		"destroy_hutt_easy_creature_4":"To drive up the prices of research animals we need to eliminate the wildlife in this area.  All creatures are to be destroyed thoroughly so that no parts of their corpses can be used for any type of research.",		"destroy_hutt_easy_creature_3":"Due to the minor wounds inflicted on one of our bounty hunters by the wildlife in this area we are currently initializing a plan of destroying their nests and driving them from the area.  This is to be done immediately.",		"destroy_hutt_easy_creature_2":"As a favor to a local politician we're cleaning this area of pests.  Be advised, there may be a lair or nest nearby that will have to be eliminated to keep the population down permanently.  This mission is to be concluded without delay.",		"destroy_hutt_easy_creature_1":"This location has long been a stopping point for spices being moved around the planet.  An infestation of animals that were attracted to the spices is causing problems for our smugglers.  Exterminate this wildlife right now."
+}}

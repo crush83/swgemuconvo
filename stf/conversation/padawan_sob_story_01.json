@@ -1,50 +1,19 @@
-[
-'48':'s_f89b1ce4',
-'47':'s_f8143d38',
-'46':'s_ed0b42f4',
-'45':'s_e6ae286a',
-'44':'s_e2b8c011',
-'43':'s_dbff867f',
-'42':'s_da7087d0',
-'41':'s_d4cfb5b8',
-'40':'s_d3249f0b',
-'39':'s_be83966b',
-'38':'s_b7139d72',
-'37':'s_b7015989',
-'36':'s_b6e31aa4',
-'35':'s_ae1fd723',
-'34':'s_ab866ec6',
-'33':'s_a128b86a',
-'32':'s_9a6c3b2a',
-'31':'s_986473',
-'30':'s_9525d947',
-'29':'s_94c910a4',
-'28':'s_91b4a77f',
-'27':'s_8de1965a',
-'26':'s_83d29997',
-'25':'s_72071926',
-'24':'s_6f0025f1',
-'23':'s_6845d2f7',
-'22':'s_5bdbb8de',
-'21':'s_5bd31ce',
-'20':'s_4f7b1e26',
-'19':'s_4c1008a4',
-'18':'s_45240d04',
-'17':'s_3d146002',
-'16':'s_390df542',
-'15':'s_36a4e374',
-'14':'s_360d601b',
-'13':'s_2e220ef9',
-'12':'s_297f30e9',
-'11':'s_291d0c7a',
-'10':'s_290ad18b',
-'9':'s_2438dea0',
-'8':'s_202dc610',
-'7':'s_1f8a26f8',
-'6':'s_1cf278e9',
-'5':'s_182378be',
-'4':'s_164cf4c2',
-'3':'s_10163a72',
-'2':'s_0',
-'1':'do_not_edit',
-]
+{
+	"stfFile":"conversation/padawan_sob_story_01",
+	"entries": {
+		"s_f89b1ce4":"No, not exactly.",		"s_f8143d38":"Good,. My brother and his friends were talking all last week about going camping somewhere in the wild.
+
+My brother, or his corpse, should be somewhere in the area where they were camping. The blaster should be with him. Get it and bring it back to me.",		"s_ed0b42f4":"I figured as much, well, you are smarter than you look.
+
+See you around.",		"s_e6ae286a":"I'm working on it. Not quite finished yet.",		"s_e2b8c011":"Just hurry up and get me that blaster before someone else makes off with it.",		"s_dbff867f":"You are here to help find my brother right?",		"s_da7087d0":"Yes, I found his remains and the blaster in the area you expected.",		"s_d4cfb5b8":"I will find your brother.",		"s_d3249f0b":"I'm here, but why would I want to help you. Jump off.",		"s_be83966b":"Good. My brother and his friends were talking all last week about going camping somewhere in the wild.
+
+My brother, or his corpse, should be somewhere in the area where they were camping. The blaster should be with him. Get it and bring it back to me.",		"s_b7139d72":"Where else would I be?",		"s_b7015989":"My brother and his friends were talking all last week about going camping somewhere in the wild.
+
+My brother, or his corpse, should be somewhere in the area where they were camping. The blaster should be with him. Get it and bring it back to me.",		"s_b6e31aa4":"Believe me, I would if I could.  Sadly I have other obligations, like standing here sending smart mouthed adventurers out to their most certain doom.
+
+You going to help?  Or just continue to grace me with your, oh so precious presence... and stench.",		"s_ae1fd723":"My brother went out with a group of his friends last week, and has yet to return.  Neither have any of his friends.",		"s_ab866ec6":"Now I'm confused.",		"s_a128b86a":"Your charm has won me over, how can I help?",		"s_9a6c3b2a":"Sounds like he's dead.  Sorry to break the news to you.",		"s_986473":"My brother went out with a group of his friends last week, and has yet to return.  Neither has any of his friends.",		"s_9525d947":"So go and get it.",		"s_94c910a4":"I would rather kiss a Gamorrean.",		"s_91b4a77f":"Good. Good. I... thank you. This is hitting me harder than I thought it would. Please excuse me.",		"s_8de1965a":"That's a shame, but I'm off.  I have things to do that I actually care about.",		"s_83d29997":"Lies don't score you any points.",		"s_72071926":"Good, because I could care less about that wasted soul.  I just want the blaster he stole from me back.  
+
+You willing to help?",		"s_6f0025f1":"So are you, or are you not, here to help me.",		"s_6845d2f7":"Yeah, I have some time to spare.",		"s_5bdbb8de":"Where can I find him?",		"s_5bd31ce":"I see. Then go. And thanks for nothing.",		"s_4f7b1e26":"That's not what I'm worried about.  He took my father's blaster with him.  I want that thing back.",		"s_4c1008a4":"Oh good, you are already here.",		"s_45240d04":"Why are you back without the blaster?",		"s_3d146002":"Do you have the blaster? Were you able to find it?",		"s_390df542":"Um.. yeah.  That is exactly why I'm here.",		"s_36a4e374":"Yes, I am.",		"s_360d601b":"That could be arranged.  Forget I asked.",		"s_2e220ef9":"You are not the only one.",		"s_297f30e9":"I'm here, and yes, willing to help you.",		"s_291d0c7a":"Well, if that's the case, what are you talking about?",		"s_290ad18b":"No, I'm afraid I've had enough of you as well.  Good bye.",		"s_2438dea0":"I've decided you're a lunatic, lady, and probably don't even have a brother.",		"s_202dc610":"More the fool am I. I should have stopped him. Or something. Now he's gone and he took it with him. Yes, quite the fool.",		"s_1f8a26f8":"This means quite a lot to me. Thank you.",		"s_1cf278e9":"I will help you find your brother.",		"s_182378be":"Please, I could care less about that waste of space.  I just want the blaster he took back.  
+
+The blaster belonged to my father and he had no right to take it with him, the thing was an antique and didn't even work.  To tell you the truth, I would be more surprised if my brother was still alive.",		"s_164cf4c2":"Right, I'm sure you do.",		"s_10163a72":"You will not be missed.",		"s_0":"",		"do_not_edit":"The English version of this file (padawan_sob_story_01.stf) is automatically generated by the SwgConversationEditor."
+}}

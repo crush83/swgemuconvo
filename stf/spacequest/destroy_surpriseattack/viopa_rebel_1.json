@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'quest_update',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/viopa_rebel_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The area is crawling with Imperial fighters, it's an ambush you have to fight your way out of. Terminate the Imperial filth!",		"title":"Lok system: Destroy Imperial ambush.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Rebel Command: < %TO >",		"complete":"Rebel Command: < Great work up there pilot, you took care of the Imperial filth. Return to base. >",		"assigned_delayed":""
+}}

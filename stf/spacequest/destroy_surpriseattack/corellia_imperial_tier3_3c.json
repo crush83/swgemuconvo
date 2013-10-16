@@ -1,11 +1,5 @@
-[
-'9':'unused2_t',
-'8':'unused2_d',
-'7':'unused1_t',
-'6':'unused1_d',
-'5':'title_d',
-'4':'title',
-'3':'split_quest_alert',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_imperial_tier3_3c",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"",		"title":"Ambush",		"split_quest_alert":"Stand by for another mission incoming.",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"Enemy craft on attack vector"
+}}

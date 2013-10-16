@@ -1,24 +1,5 @@
-[
-'22':'no_entry',
-'21':'gasmask',
-'20':'trash_full',
-'19':'trash_empty',
-'18':'electric_trash',
-'17':'gas_already_off',
-'16':'gas_off',
-'15':'relock',
-'14':'hack_fail',
-'13':'hack_success',
-'12':'bad_code',
-'11':'power_already_off',
-'10':'power_off',
-'9':'shock',
-'8':'right_code',
-'7':'keycard_success',
-'6':'too_big',
-'5':'clean',
-'4':'stabilizer',
-'3':'wrong_chem',
-'2':'toxic_fumes',
-'1':'door_locked',
-]
+{
+	"stfFile":"dungeon/geonosian_madbio",
+	"entries": {
+		"no_entry":"An invisible wall keeps you from entering this cave...",		"gasmask":"Your gasmask diffuses the poison gas and you are able to breathe with no difficulty.",		"trash_full":"You dig through the trash and find something interesting...",		"trash_empty":"You dig through the trash but find nothing of value...",		"electric_trash":"You were electrified by the trash heap!",		"gas_already_off":"The gas leak has already been repaired...",		"gas_off":"You have shut off the gas leak.",		"relock":"Security systems at this facility have been cycled and reset.",		"hack_fail":"Unable to successfully slice the keypad, you realize that the only way to reset it is to carefully repair what damage you have done.",		"hack_success":"You have successfully hacked this terminal.",		"bad_code":"The number that you entered is not a valid code for this door.",		"power_already_off":"The power is already off.",		"power_off":"You have shut off the power.",		"shock":"You feel electricity coursing through your body!",		"right_code":"You have successfully entered the code for this door.",		"keycard_success":"You have successfully used a keycard on this door.",		"too_big":"That won't fit...",		"clean":"The chemicals are already clean.",		"stabilizer":"The stabilizer mixes with the chemicals, removing the poison, but it looks like it will only be temporary...",		"wrong_chem":"It looks like you need to put a beaker of liquid in there...",		"toxic_fumes":"You breathe in toxic fumes!",		"door_locked":"This door is locked."
+}}

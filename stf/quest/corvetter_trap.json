@@ -1,3 +1,5 @@
-[
-'1':'shocked',
-]
+{
+	"stfFile":"quest/corvetter_trap",
+	"entries": {
+		"shocked":"You feel electricity coursing through your body!"
+}}

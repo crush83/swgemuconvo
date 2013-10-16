@@ -1,13 +1,5 @@
-[
-'11':'getonwithit',
-'10':'sorry',
-'9':'onthisquest',
-'8':'noquest',
-'7':'no',
-'6':'goaway',
-'5':'lunatic',
-'4':'what',
-'3':'evil',
-'2':'why',
-'1':'opening',
-]
+{
+	"stfFile":"quest2",
+	"entries": {
+		"getonwithit":"Well.  Get on with whatever you're going to do then, but don't start bothering me again.",		"sorry":"Yeah, Sorry, you're right.  You did.",		"onthisquest":"Didn't I tell you I didn't want that thing already?",		"noquest":"I don't really have anything to say to you.",		"no":"Are you sure?",		"goaway":"Yep.  I'm pretty much done talking to you right now.",		"lunatic":"Take it to that wookiee over there.  She likes the cut of it, and I hear she's got a deed to a moisture vaporator she's been trying to trade for one.",		"what":"What should I do with it?",		"evil":"It stinks.  Plus, it's too hot on this planet for a jacket.",		"why":"Why not?",		"opening":"Gah!  You're not trying to give me that god-awful jacket are you?!?  I won't take it!"
+}}

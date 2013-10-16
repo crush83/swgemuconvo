@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_rebel_tier3_4",
+	"entries": {
+		"title_d":"We launched several successful attacks against the Empire but they are still coming strong. They have sent for one of their best fighter pilots and navy strategists from the Dathomir system. We are sending our best, you, to take care of him before he can do any damage.",		"title":"Dathomir system: Prevent Major Kroger from reaching the Endor sector.",		"split_quest_alert_fail":"",		"split_quest_alert":"Return to Endor immediately, the Empire is striking down on us hard!",		"quest_update":"Rebel Command: < %TO >",		"quest_target_t":"Major Kroger.",		"quest_target_d":"Major Kroger is a strategic genius when it comes to Navy warfare. On top of that he's an excellent pilot and he's flying one of the best fighters the Empire has, the prototype TIE advanced. We trust that if anyone can do this though, it's you.",		"quest_location_t":"Endor system.",		"quest_location_d":"The Endor system is now in a state of war. Imperial ships are everywhere and their main fleet has arrived, getting battle ready. We can't understand why the Empire are mobilising such enormous forces just to attack our small fleet but we need to get out of here!",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"He got away, this will make the Empires retaliation very dangerous. Return to base.",		"escort_wiped_out":"Nice! Only the Major left now, show him that you are the best!",		"escort_remaining":"Good job pilot!",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Fantastic! You showed the Empire that their best is not good enough!",		"arrival_phase_2":"Found him, proceed and intercept. Good luck pilot, you will need it.",		"arrival_phase_1":"We are pinpointing his location now, stand by.",		"Quest Log Data":"Text"
+}}

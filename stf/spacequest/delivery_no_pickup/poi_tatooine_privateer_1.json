@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_rendezvous2_t',
-'17':'quest_rendezvous2_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_dock2_t',
-'13':'quest_dock2_d',
-'12':'hello_d',
-'11':'found_loc_d',
-'10':'failed_destroyed',
-'9':'docking_started_delivery',
-'8':'docking_complete_delivery',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_delivery',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/poi_tatooine_privateer_1",
+	"entries": {
+		"title_d":"The Hutt Informant you found at Hutt Claims, Garett Erlskel, has instructed you to deliver 'secret codes' to Jabba's men at the Hutt's origin of control in the Tatoo System, Jabba's Star. You might as well keep your weapon systems alert. No doubt the Valarians, hated enemies of the Hutts, have stumbled onto the details of the pending attacks ahead. You figure you can find Jabba's Star by looking in your nifty little datapad under the nicely-catagorized POI tab.",		"title":"Tatoo System: Deliver Secret Code to Jabba's Star",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 Hutt Informant:\#pcontrast3 < Looks like they accepted the secret codes. Now, it's time to pick up the attack orders and bring them back to Hutt Claims. >",		"quest_update":"\#pcontrast1 Hutt Informant:\#pcontrast3 <%TO>",		"quest_rendezvous2_t":"Wait for Jabba's Spy",		"quest_rendezvous2_d":"Plan to wait at the waypoint you're given for Jabba's spy. He's probably just finishing his lunch or just getting up from taking a nap. Be patient.",		"quest_location_t":"Travel from Hutt Claims to Jabba's Star",		"quest_location_d":"To succeed in your task, you must take the secret codes from Garett Erlskel in Hutt Claims to one of Jabba's men in Jabba's Star. You can find locations to both places in your nifty little datapad, under the POI tab.",		"quest_dock2_t":"Transfer Secret Codes",		"quest_dock2_d":"Jabba's spy will want those secret codes pretty quickly. You begin to wonder if they're fake.. what would happen then? What if this is a set up? You tell yourself you probably shouldn't worry about such things, but decide to keep your weapon systems alert. Just in case. When the spy finally gets to the location, use /dock to transfer the orders. And be quick about it. Hutts like to shoot things.",		"hello_d":"'ey! I was notified that you have 'secret codes'. No funny business now. We're watching you.",		"found_loc_d":"One of Jabba's men will meet you there to receive and look over the secret codes. We will then be given further instructions.",		"failed_destroyed":"Pilot! The Hutt Informant has been destroyed! Mission Failed!",		"docking_started_delivery":"Beginning docking procedures to receive secret codes. Stand by.",		"docking_complete_delivery":"Secret codes, eh? Let me see these. Hm. Well... they don't look counterfeit. I guess I can clear these. I'll notify my superiors. You'll receive more instructions soon.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters eliminated.>",		"attack_notify":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Incoming enemy fighters.>",		"assigned_delayed":"",		"arrived_at_delivery":"\#pcontrast1 Hutt Informant:\#pcontrast3 < One of Jabba's men will be there soon. Keep an eye out and don't make any sudden moves. They're quick to fire at unknown vessels. >"
+}}

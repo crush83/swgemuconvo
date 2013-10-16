@@ -1,11 +1,518 @@
-[
-'9':'trouble',
-'8':'gameplay',
-'7':'faq',
-'6':'pa',
-'5':'cs',
-'4':'houses',
-'3':'servers',
-'2':'events',
-'1':'unity',
-]
+{
+	"stfFile":"kb/kb_faq_d",
+	"entries": {
+		"trouble":"- My crafting tool won't start because it says I'm crafting already. What should I do?
+ 
+Use the command "/stopcraft". This should allow you to start crafting again. You can also try logging out for 20 minutes and then use the command.
+
+
+- I've followed a new resource to a good concentration but I can't sample it. What is going on? 
+
+The newly introduced resource is still settling in. You should be able to sample it a few hours after it has been introduced. This also gives you time to pick out a few choice locations for harvesters before it becomes available.
+
+
+- I was harvesting a resource, but when I went back to check on my harvester the resource is gone. What happened?
+ 
+There are limited amounts of any given resource in the galaxy. Once a resource has been mined out it disappears from the galaxy. As resources are depleted, new resources are discovered and made available to be harvested. These new resources aren't always the exact same as the resources that were depleted, and may not appear on the same planet that just ran out of a resource.
+
+ 
+- I can't find any of a particular resource I need. Where can I find it?
+
+Not all resources exist at all times. The rarer resources only last for a short time before they are depleted. We recommend checking all of the planets in the galaxy until you can find it. Just because it wasn't there yesterday doesn't mean it hasn't appeared today. 
+
+
+- My pet won't grow.  How do I make it grow?
+
+Pets grow over time. Try giving it a couple of days. 
+
+
+- I can't call my pet out from my datapad.  What do I do?
+
+To call pets, you must have enough creature handler skills.  If you are a non-creature handler, a creature handler must teach the pet the /transfer command or you may not be able to successfully call your pet.  You can only call pets out when in a camp, in your place of residence, or while outside in a city.  You can only have one pet called out a time.  If you already have a pet out, you will need to store it before you can call another out.
+
+
+- I lost my badge.  What do I do?
+
+At this time, CSRs cannot restore lost badges.  Please use the command /bug to report that your badge has been lost.
+
+
+- I lost the waypoint to my structure in my data pad, how do I get it back?
+
+Unfortunately there is no way to retrieve a waypoint after it's been deleted from the data pad.  It's recommended that you write down the waypoints to each structure on a separate piece of paper so you'll have a back up in case the waypoints get deleted.
+ 
+
+- I put all my stuff in bags but my inventory still says it's full.  Why?
+
+Items in bags will still count individually towards your inventory unless that bag is equipped.  For example, if you have 13 things in a bag and 12 things not in your bag your total inventory will be 26.
+ 
+ 
+- I logged into game and saw that my name has changed.  What happened?
+ 
+It is possible that your name may have been in violation of our naming policy.  A CSR more than likely attempted to contact you regarding your name.  When you did not respond, the CSR proceeded to change your name.  If you do not like the name they gave you, you have 7 days to contact the CS department using a CSR ticket to request a new name.
+
+ 
+- I cannot create or delete any waypoints.  What do I do?
+ 
+This is a common bug that can be fixed with a simple workaround.  The most effective with the least amount of drawbacks is just logging out of the game for 20 minutes.  Any waypoints you attempted to delete before will be gone and you'll be able to make new ones.  The second most effective way is to clear out your profile (found in your SWG folder on your computer).  However, clearing out your profile can lead to the deletion of macros, UI settings, and friends' lists.
+  
+
+- My stats are not showing up correctly.  It says I'm at full health and yet I've just died.  What happened?
+ 
+This is merely a case of lag.  The servers are not communicating with one another.  A quick fix is to simply log out of the game for 20 minutes to allow the servers to get back in sync.
+
+ 
+- My stats are really low.  I can't do anything.  Please help!
+ 
+If you are suffering from permanent stat loss, you must remove all armor, enhancements, mods, and buffs.  Then log out of the game for 20 minutes.  This usually resets your character back to normal.
+
+ 
+- I just migrated my stats and I do not see any changes.  What do I do now?
+ 
+Stat migration can take a while to take affect.  Drugs, spices, food, armor, enhancements, mods, and buffs can actually hinder the progress of your stat migration.  Try to avoid using these items while your stats migrate.  Please be aware that there are minimums and maximums for each stat.  If you attempt to migrate your stats below the minimum or above the maximum, your stats might not migrate properly.  Each race has different minimums and maximums for their stats.  For more information, please visit the website at www.StarWarsGalaxies.com
+ 
+ 
+- I deleted my character and I wanted to use the same name.  When I tried, I kept getting the message that the name was already in use.  How is this possible?  Why can't I have the same name as my old character?
+ 
+Whenever you create a character, the name is stored in the database. This name remains even after you delete the character.  It is not known how often or when the database is cleared of unused names of deleted characters.  CSR's cannot change your name to your old name.
+ 
+
+- I cannot trade with this person.  What do I do?
+ 
+To start a secure trade, you can double click on the player you want to trade with.  You can also click on the player and a radial menu will show up.  Choose the option to trade.  Or you can use the command "/trade <player name>.  The other player will receive your trade request and must do one of the listed to accept your trade.  Then, you drag items out of your inventory into the trade window.  Or, you can type in the amount of credits you wish to trade.  Check on the box on the corner.  Then a button will appear that says Accept Trade.  Click on it and the trade will be done.  Please note that Overt Rebels can only trade with other Overt Rebels.  The same is true for Overt Imperials.  Neutrals can trade with other Neutrals and covert faction players.  If you have recently dueled the same player you are attempting to trade with, you will not be able to trade with that player.
+ 
+
+- My guild leader's gone. How do I remove myself from my guild?
+
+/guildRemove 
+
+  
+- I have an object that I have dropped in my house that I cannot pick up.  What do I do?
+
+If the object is stacked on top of other items, you will have to target it.  Once targeted, type the command "/move forward 5".  Move this object around until it is no longer stacked on anything.  Then, you will be able to pick it up.  You could also try using the command "/pickup <name of item>". 
+
+
+- I just tamed a pet and I do not see it in my inventory.  Where did it go?
+
+Pets control devices are found in your datapad.  Open up your datapad using CTRL+D.
+
+ 
+- Why can't I tame a baby creature? I can tame some but not others.
+
+Creatures that are aggressive are considered wild and have a different skill for being tamed. Creatures that use deathblow are considered vicious and are again on another skill. Additionally, you can only tame creatures that you have enough skill to tame. An example would be a Rancor Baby has a full grown challenge level of 50, and the player has skill only to tame creatures up to challenge level 45. Even though the Rancor Baby starts out at challenge level 1, you would not be able to control the creature when it is full grown.
+
+ 
+- How does the maintenance rate for vendors work?
+ 
+The more items you put in the vendors, the higher your maintenance rate will be.  Certain types of vendors have higher maintenance rates than others.  Additionally, if you have certain skills, you can actually get a discount on the maintenance rate.  You will still have to pay the maintenance, but it won't be as high as it was before.  Certain items in your vendor will also cause the maintenance rate on your vendor to go up.
+ 
+
+- I dropped all of my items in my house in one spot and now I can't pick them up, what do I do?
+
+Target one of the items and use the command "/move back 1" to remove the item from the stack and regain normal access to this item.
+
+
+- I had X amount of ~ Experience. I surrendered ~ 4, 3, and 2. The next time I killed something with my creature I lost experience./ I just tried to learn ~ 2 again and I lost all the experience I had.  Why?
+
+Your previous amount of experience was greater then your new cap. When you got more experience it refreshed this to come in line with your current cap.
+
+
+",		"gameplay":"- How do I get information on a mission I have heard about?
+
+Ask other players what they know about it. Also you can visit cantinas and see if anyone there has heard rumors. The forums on www.StarWarsGalaxies are also a good source of information.
+
+
+- Is AFK-macroing okay?
+
+Yes it is. Beware though, not all areas of the galaxy are as safe as they seem. 
+
+
+- How do I make a macro? What are the benefits of macros?  What kinds of macros are available?
+
+Macros are easily made.  Macros are beneficial in that they allow you to do long arduous actions without having to constantly use the commands.  For example, if you were an entertainer, you can make a macro that would make your character do flourishes and rest every once in a while.  Macros can be as short as one line or as long as 100 lines.  However, once a macro is started, it cannot end.  Therefore, if you have a dancing macro that goes on for 30 minutes, you would have to let it run the whole 30 minutes.  There are many types of macros out there.  Feel free to visit the website and scour the message boards for more information or suggestions on macros at www.StarWarsGalaxies.com.
+
+
+- I received a message that I can advance a skill. What does that mean?
+ 
+As you use the various skills in Star Wars Galaxies you earn experience towards learning how to do similar things. When you have enough experience you can find someone (either a player or an NPC trainer) with the appropriate skill to teach you. NPC trainers will want credits to share their skills with you. You will have to join a group with other players to train from them. They may want something for sharing their skills. To train someone else in a skill you know open their radial menu. If you know something you can teach them you will see an option to teach. Once you have been offered a skill by a player you can choose to learn it or not to. Please make sure it is the skill you wish to learn! If you are trying to learn a novice skill, you must learn it from an NPC trainer.
+
+
+- What do faction ranks do?
+
+Faction ranks let you store more faction points so you can afford the larger rewards.
+
+
+- I bought a pet in the bazaar, but I can't do anything with it.  Can you help me?
+
+Pets created by Bio-Engineers still need to be trained by a Creature Handler if they're to be able to learn to do anything.
+
+
+- How can I heal my pet's mind wounds?
+
+A pet needs to be taught to do tricks, which will heal mind wounds.
+
+
+- My pet is healing too slowly.  What do I do?
+
+Use a stimpack on it. Pet stimpacks in particular can be used by anyone and require no medical knowledge.
+
+
+- How do I take a screenshot?  Where are screenshots saved?
+
+To take a screenshot, use the PrintScreen button on your keyboard.  You may want to adjust some of the visuals on your screen to make the screenshot look as pure as possible.  To remove the chat box, type CTRL+ENTER.  To light up the screen, you can use your personal light with CTRL+L.  To remove everything from your screen (all the toolbars, the ham bars, the emails, the chat box, etc), use Shift+CTRL+H.  Once you take your screenshot, it can be found in your SWG folder on your computer.  You can send a screenshot to us in hopes that we put it up for everyone to view as the Player Screenshot of the Day on the website at www.StarWarsGalaxies.com.
+
+
+- How do I create a bio on my character sheet?
+
+Go to your community page by using CTRL+P.  Click on the tab that says "Personal".  There is a box there labeled "Bio".  Type in the box a short and sweet biography of yourself or your character.  When people use the option "Examine" on the radial menu after targeting you, they will be able to read what you wrote.
+
+
+-How do I get a mission?
+
+You can go to a mission terminal.  They are located in every city.  There are different types of mission terminal for the different types of professions.  There are also mission terminals that will give missions to aid the Rebel cause and there are missions terminals that will give missions to aid the Imperial cause.  There are also NPCs you can talk to who will give you missions as well.
+
+
+- How do I check what type of badges I have?
+
+To check your badges, you can look on your character sheet using CTRL+C.
+
+
+- Where do I get badges?
+
+Badges are given by completing certain missions.  Also the SWG Events Team will sometimes hand out certain badges for different reasons, such as having a well written biography or helping a new player.
+
+
+- What do badges do?
+
+Badges tell other players what missions you have completed.  The special badges given by the SWG Events Team tell players of the accomplishments you have made in the game.
+
+
+- I am an entertainer and I see there are some skills called Image Design.  What is that and what good can come from it?
+
+Image design is the skill to change the look of characters.  To change another character's look, you must be in a group with them.  Target the character and choose the option "Image Design" on their radial menu.  A menu will pop up with options like "Hair", "Face", and "Eyes".  Choose one of these and another menu will pop up.  It will be the different ways you can change the characters look.  Once you decide what to change, the other character must accept the suggestions.  If the other character accepts, then you would have successfully changed their look.  Certain players find in the game that the look they chose in the game is not the one that they actually want.  The higher the skills you get in the Image Design skill tree, the more options you will get.  It will be the Star Wars version of cosmetic surgery.
+
+
+- I used the "/dance" command and I dance around a little but it's nothing like what I see other players doing in the cantinas.  How can I dance like they do?
+
+The command "/dance" is a command that all players have.  It's just like an emote.  In order to dance like others in the cantina, you will need to get the novice entertainer skill.  This will give you the dance skill.  You will get two types of dances you can do.  The more entertainer and dance skills you earn the more dances you will be able to do.  To make your dance a little fancier, you can use the command "/flourish <1-8>".  There are 8 different types of flourishes that add a different type of feel to your dance.
+
+
+- What benefits do I gain from watching or listening to an entertainer?
+
+If you have battle fatigue (one type of damage), you can have this healed by watching or listening to an entertainer.  Certain higher skilled entertainers can also heal shock and give you mind buffs.
+
+
+- I'm a dancer.  Is there a way I can choose which players I want to heal?
+
+Target the player you do not want to heal and use the command /deny.  They will still be able to watch you, but they will not be able to reap the benefits of doing so.  However, if you use this command on a player, it can never be removed.
+
+
+- How can I do join chat channels?
+
+To join a chat channel, click on any of the tabs (Spatial, Combat, etc).  A menu should appear that includes "Create Chat Tab", "Join Chat Channel", and "Delete Chat Tab".  Click on "Join Chat Channel".  Upon doing so, another menu will appear of all the chat channels available.  You can click on any of them and click "Join".  You can create your own chat room using this method as well.
+
+
+- How do I get a pet?
+ 
+There are two ways to get a pet.  If you are a creature handler, you have the ability to actually tame creatures and train them.  When you train them, you can also give them names.  At certain levels in the skill tree, you will be able to train certain pets.  Please be aware that higher level creatures and more ferocious creatures will not be trainable unless you have the appropriate skills.  To tame a creature, find the baby creature.  You cannot tame adult creatures.  Target the baby creature and using the radial menu, click on the option "Tame".  Your character will then attempt to tame the creature.  You might not be able to tame the creature the first time you try.  To train a pet, click on the pet and using the radial men choose the option "Train".  Another menu will pop up with certain tricks you can tame your pet.  Click on one of them.  Give the pet a name.  Say the pet's name and any key word you choose.  When the pet learns the key word, any time you say the pet's name and the keyword, it will do that trick.  If you train the pet enough using its name, it will eventually learn its name.  Again, you may not be able to train your pet the first time you try.
+ 
+If you are not a creature handler, you can buy pets from someone who is.  However, you will not be able to tame or train any creatures.  You can see what tricks your pet has learned by examining it.  The keywords your pet will listen to will also be listed.  You cannot change the commands your pet has learned.  You cannot change the keywords your pet has learned.  You cannot change the name of your pet.
+  
+ 
+- What are the benefits of a droid?
+ 
+Each droid has its own unique benefit.  Some can be used as a portable crafting station.  Others can be used as a mobile Medical Center (by Novice Medics or higher).  To find the right droid, determine what you would want out of a droid and what you need out of a droid.  Then go to any Droid Engineer and tell them what you have come up with.  For the right fee, they will make a customized droid to fit all your needs and wants!
+
+ 
+- What are the race limitations for certain articles of clothing?
+ 
+Wookies cannot wear any normal articles of clothing or armor.  They have their own line of clothing and armor they can use.
+Twi'leks cannot use some normal hats or helmets.  
+Trandoshans cannot wear boots or gloves.
+
+
+- My character sheet says I'm a wanderer.  How do I get a hometown or place of residence?
+ 
+You need a house in order to declare a place of residence.  Once you have a house set up, go to the structure management terminal.  On its radial menu, you have the option to declare that house as your residence.  You can only declare one house to be your place of residence.  Even if you have 5 houses on different planets, only one can be declared as your place of residence.
+
+ 
+- How do I become a Jedi?
+ 
+Each individual player has the chance to become a Jedi in the game.  Additionally, each individual player has their own path they must follow to become a Jedi.  What one player must do to become a Jedi will be different from what another player must do.  The Jedi system will be changing in a future publish. For more information or updates, please go to the official website at http://www.StarWarsGalaxies.com.
+ 
+
+- There are a lot of people on my server who speak French/German/Spanish and it's hard to understand what they're saying.  What servers can I go on to play with people who speak English?
+ 
+Each server has a unique population.  Some servers have been deemed the unofficial servers for our European friends.  However, there are many people who are from the United States who still play on these servers.  Additionally, many of the European players also know some English so it is not too difficult for players who do not speak foreign languages to interact with them.  For more information on each server, please go to the official website at http://www.StarWarsGalaxies.com.
+
+
+- What are sockets and how do I use them?
+
+Sockets are extra spaces that can be found on certain items, usually those crafted by a skilled creator. These spaces hold power ups, which are also known as "jewels." Once the power ups have been put into the item's socket, they will confer special attributes (usually in the form of boosted stats) to the item. Putting of a power up into a item's socket is a lot like installing a souped-up engine part in a standard factory model car.
+
+
+- How long will an item stay up for sale on the vendors/bazaars?
+
+Items will be up for sale for 7 days.  If on the vendor, the item will be in the vendor's stockroom.  If on the bazaar, the item will be on your Available Items list.  You will then have 3 days to retrieve the item or the item will be deleted by the game.  These types of losses will not be reimbursed by the CSR team.
+
+
+- What is a TEF?  How do I get a TEF?  What can I do with a TEF?
+
+TEF stands for Temporary Enemy Flag.  This is an alert to you and other players.  Players of opposite faction can attack you in regular PvP combat when you have a TEF.  You can get TEF's when you attack certain people or NPCs.  You can get TEF's when you declare a faction.  TEF's last as long as they are needed.  As long as you are in combat, you will retain a TEF.
+
+
+- How do resource shifts work?
+
+Resources shift unpredictably.  This is similar to the way resources in real life get dried out and used up.  Just because one type of resource is gone, doesn't mean you're out of luck.  There will be another resource similar to it that will take its place.  Wind shifts because winds grow or die down due to seasons changing.  Solar energy will be plentiful during certain seasons.  Creatures will change their resources as well because of the environment around them or the stage of growth they are in.
+
+  
+- I joined a faction but I do not want to participate in PvP combat.  How do I prevent other players from attacking me?
+
+Unfortunately, by joining a faction, you open yourself for players of the opposite faction to attack you.  Even if you claim to be a covert, there are ways (that are not exploits or bugs) for players to determine what faction you are in.  There is no way to not participate in PvP combat other than not joining a faction.
+
+ 
+- How much experience can I gain in a skill?
+
+There is a limit to how much experience of one time you can gain. The limit is twice what it takes to get the next skill which requires the most experience. For example, a Novice Artisan can store up to 1000 points of General Crafting Experience. An Artisan with Engineering I and Domestic Arts I will be able to store up to 2000, twice what it takes to get to Engineering II or Domestic Arts II. If that artisan only had Domestic Arts I, the cap would still be Domestic Arts II. This is still in place when you surrender a skill... so if that Artisan had Domestic Arts I and 2000 experience points, and then surrendered Domestic Arts I, the stored experience would drop to 1000, the newly adjusted cap.
+
+
+- How do Explorer missions work?
+
+A waypoint will be given.  You must follow the waypoint.  Once in that area, you must "explore" to find your target(s) in order to complete the mission.
+
+
+- I see people using spices and drugs.  What are the benefits of using these items?
+
+Spices, drugs, and foods can give buff your stats.  They will give you extra mind, extra willpower, etc.  However, over time, they will wear off.  Some of them will even have a downer period where your stats are actually lower than before.  You may see your character throwing up or not feeling too well.  This too will wear off.  You can rebuff once the side affects are gone.
+
+",		"faq":"Provided for your convenience, a list of frequently asked questions (FAQ) has been included to further assist your needs. Should you have a question, feel free to come to the Frequently Asked Questions section and paruse the entries. The questions are broken down into categories through which you can easily navigate. The section on Customer Service issues is particularly useful if you need help from one of our Customer Service Representatives. Additionally, you'll find an in-game trouble-shooting section. If you have issues with your computer hardware, connection or graphics card, this isn't the section for you. Our trouble-shooting FAQ is for in-game issues. Should you require technical support, please look in the Customer Service tab for more information.
+
+
+",		"pa":"- How do we declare a new PA leader if the old one leaves?
+ 
+The same way they always set a new leader.  Set allegiances, a leader is determined once a week.
+
+
+- What permissions can a PA leader grant to other members?
+ 
+PA Leader can grant all permissions to members other than the ability to set permissions themselves. The PA Leader can allow members to:
+    - Mail
+    - Sponsor
+    - Title
+    - Accept
+    - Kick
+    - War
+    - Change Guild Name
+    - Disband Guild
+
+ 
+- What powers does a PA Leader have?
+ 
+ There are two main options that the PA Leader has on the PA Terminal:
+        1) Guild Management
+            - Change Name (Change the name of the PA, takes 7 days to change)
+            - Disband (Disband the PA. Instant)
+            - Guild Enemies (Add the names of a PA you wish to declare war on. The PA you declare war on must also declare war on you and either side can end the war at any time)
+            - Guild Info (Display basic information on the PA such as Name, Abreviation, Leader, and Member Count)
+        2) Member Management
+            - Guild Members (Display a list of all members of the PA, and all titles they have. Click on a member as the leader, Choose OK to edit the member's information. Set a title, change permissions, kick them, or set allegiance to them.)
+            - Sponsor For Membership (Type in the name of a person you wish to invite to the PA)
+            - Additonal options will be available to invite members that have accepted sponsorship when there are members pending acceptance to the PA.
+
+
+- How many people are allowed to be allowed in a PA?
+ 
+A PA can hold between 5 and 500 members.  Each week the server will check the membership of your PA. If you have fewer than 5 members your PA will be disbanded by the server.
+
+ 
+- What happens if my PA hall is destroyed, or we want to reclaim the deed after we create the PA?
+
+Nothing bad will happen. Your PA can last forever without a PA hall.  A PA hall which has been assigned to a guild, however, will be destroyed if the guild no longer exists.  This is checked every 2 hours.
+
+
+- What happens if I'm a member of a PA and want to put down my own PA Hall?
+
+All PA halls that are placed by anyone in a PA will automatically become assocaited with the PA of the person that placed it. If you belong to a PA named "Great PA" and place a hall then the PA terminal and the hall will be a "Great PA" terminal and hall, and act just like any other PA Hall anyone in the PA has put down.
+
+
+- What PA-related slash commands are available to players?
+
+The commands available are:
+/guildstatus (can only be performed while inside a PA hall that is associated with your PA)
+/guildremove
+/guild{say}
+
+
+",		"cs":"- If I cancel my account and then reactivate it later, will I still be able to play the same character?
+ 
+It is not known how long a character is saved after an account is cancelled.  Therefore, there is no guarantee that your character will still be available if you reactivate your account at a later date.
+
+
+- I am having some technical problems with the game.  What can I do to fix it?
+
+For issues relating to hardware problems, you will want to contact Technical Support at 1 (858) 790 - STAR or 1 (858) 790 - 7827.  The phone lines are open from Monday to Friday from 9 AM to 6 PM Pacific Time.  Also, you can request technical assistance on the website at www.StarWarsGalaxies.com/support.
+
+
+- I have some questions regarding my account.  Who do I call?
+
+For billing and account questions, please contact our Account and Billing Department at 1 (858) 790 - STAR or 1 (858) 790 -7827.  The phone lines are open from Monday to Friday from 9 AM to 6 PM Pacific Time.
+
+
+- I have been playing on this server for a while and my character is pretty skilled right now.  But, my friends are all playing on another server.  How can I transfer my character from this server to the other server?
+
+At this time we do not have a service available that can allow players to transfer characters from server to server, though in the future if such a service becomes available it will be posted at www.StarWarsGalaxies.com.
+
+
+- How do I make suggestions?
+
+You can submit ideas, suggestions, and feedback by emailing swgsupport@soe.sony.com.  You can also post them on the message boards at www.StarWarsGalaxies.com.  There is also an input form that goes directly to the development team.  It can be found at http://StarWarsGalaxies.station.sony.com/submit_feedback.jsp?page=Submit%20Feedback.
+
+
+- How do I lodge a complaint?
+
+Please e-mail complaints to swgsupport@soe.sony.com or post them in the appropriate forum on www.StarWarsGalaxies.com.
+
+
+- I logged into game and saw that my name has changed.  What happened?
+ 
+It is possible that your name may have been in violation of our naming policy.  A CSR more than likely attempted to contact you regarding your name.  When you did not respond, the CSR proceeded to change your name.  If you do not like the name they gave you, you have seven days to contact the Customer Service department using a CSR ticket to request a new name.
+
+
+- There is a person who keeps harassing me.  How do I get him to stop?
+
+To report players who are using foul language, exploiting, or harassing other players, use the command "/report <player name>".  This will record the last 100  lines of your chat box.  If you are getting the message "The name is invalid", use your own name.  Fill out a CSR ticket to accommodate your player report.  Be as detailed as possible in your CSR ticket.  If a player sends you unwanted emails, the CSR team will want a copy of them.  So, do not delete them.  When a CSR asks, forward it to them.  You can use the command "/ignore <player name>" to prevent getting messages or emails from a player who is harassing you.
+
+
+- I am stuck and I cannot move.  What can I do?
+
+If you are stuck in a place, try the command "/unstuck".  If that doesn't work, try "/eject".  If neither of these works, your best bet is to get into live chat.  Go to your launchpad and click on "Chat".  Tell the CSR in the chatroom that you are stuck.  Provide your character name, server, the planet and the coordinates of where you are stuck.  When the CSR says he will send someone, log back into the game and wait.  Be patient as it can take a while for a CSR to log into the game.  A CSR will then teleport you to a safe location.
+
+
+- I keep emailing and /telling the CSRs in game but they will not respond.  Why won't they help me?
+
+The CSR team has different groups.  There are groups of people who devoted to working on the CSR tickets.  There are the CSRs in the chatroom.  And there are CSRs in the game.  Your issue is just as important as everyone else's.  However, when a CSR goes in game, they already have a list of people they are assigned to help.  They would love to assist you as well, but many times the other players they are working with are taking up all their time.  The best way to get help is to use the ticket system.  If you are stuck, go into the live chatroom and talk to the CSR (*should be connected to I am stuck question*).  If you are being harassed, use the command "/report <player name>" and fill out a CSR ticket (*again, should be connected to harassment question*).
+  
+
+- I keep talking to the CSR in the chatroom, but they're not responding.  Why won't they help me?
+
+The CSRs in the chatroom will do what they can to assist you.  Some CSR's will ask for you to send them private messages.  Others will discourage them.  Many times, the CSRs are fielding questions from all sides and are trying hard to answer all the questions they can.  Spamming the room, using the profanity, or being disruptive in the chatroom will not get you help any faster.  Please be patient and when the CSR has a chance, they will try to answer your question.
+
+
+- How do I get my name changed?
+
+At this time, Star Wars Galaxies does not have a service to change first or last names for players who decide they didn't like the names they created.
+
+
+- What is the difference between the CSR ticket and a bug report?  Don't they go to the same place?
+
+Bug reports go to the development team and our testing department.  You will not receive a response for filling out a bug report.  Use "/bug" to relay information about things that are wrong in the game like spelling errors, broken missions, or missing NPC's.  A CSR ticket goes to the CSR team.  They will respond accordingly.  If you need a reimbursal, are stuck, or have a question about the game, fill out a CSR ticket.  There are some topics that they will not answer or they will tell you to go somewhere else.  The CSR team will not answer questions regarding in game information.  We don't want to spoil the fun for you!  Any technical questions and billing questions will also not be answered by our CSR team.  They will point you to the right direction, though.  If you report a bug, they will just ask you to use the command "/bug" to report it.
+
+
+- How do I fill out a CSR ticket?
+
+In your holocron, there is a button labeled "Customer Service".  Click on it and a form will appear.  Pick the topic of the questions you have for the CSR team.  Then, explain your situation.  Be as detailed as possible.  Include things like your planet and coordinates, the time, and the date.  Once you put in your ticket, a CSR will respond to it.  Within 48 hours, a CSR should have responded to your ticket.  If you get an email stating your ticket has been unread, a CSR has already responded to your ticket and you have yet to check it.  When your issue has been resolved, please delete your ticket by clicking on the button "Delete".
+
+",		"houses":"- What are the inventory limits on my character/bank/house?
+ 
+Your character can hold as many as 60 items.  Please note that if you put items in a bag that is not equipped, those items will still count individually towards your inventory.  Your bank can hold as many as 100 items.  Again, items in bags will still count individually towards the inventory count.  Different houses have different inventory limits.  The small Naboo style two house has the smallest inventory count at 75 items.  All other small houses can hold 150 items.  Medium houses can also hold 150 items.  PA halls and large houses can hold as much 250 items!
+
+ 
+- How many lots does my house/harvester/factory/guild hall take up?
+ 
+The small Naboo style two house takes up one lot.  All other small houses take up two lots.  All medium houses take up two lots.  All large houses take up six lots.  A Tatooine PA hall will take up seven lots while the Corellia PA hall, the Naboo PA hall, and the Generic PA hall all take up nine lots.  All harvesters regardless of size take up one lot.  The structure factory takes up two lots and all other factories take up one lot.  A player is given ten lots.  So, plan well or you may not have enough lots for all your structures!
+
+ 
+- How do I move things in my house?
+
+You can use the radial commands on an item to rotate and move items or you can target the item and use the furniture moving commands. There are two furniture moving commands. The first one is "/move <FORWARD/BACK/UP/DOWN> <number>". Moving the item back moves it towards you. Generally, it is recommended you start moving the item "/move BACK 1" until you are used to the command. Please avoid placing items in walls at that makes them inaccessible. The other furniture moving command is "/rotate <LEFT/RIGHT> <number>". This turns the object the number degrees to the left or right as appropriate. Using these commands, you should be able to arrange your furniture and other objects as you wish.
+
+
+- How do I pay maintenance on my house/factory/harvester?
+
+Using the radial menu, choose the option "Pay Maintenance".  If this option is not available to you, there is a line command /paymaintenance.
+
+
+- What are the line commands to manage my house/factory/harvester?
+
+/setpermission
+/setprivacy
+/transferStructure
+/declareresidence
+/paymaintenance
+/paWithdraw
+/structurestatus
+/placestructure
+/nameStructure
+
+
+- Why do I have to pay maintenance on my house/factory/harvester?
+
+If you do not pay the maintenance on your house/factory/harvester, it will be destroyed.  This type of losses will not be reimbursed by the CSR team.
+
+
+- I have an object that I have dropped in my house that I cannot pick up.  What do I do?
+
+If the object is stacked on top of other items, you will have to target it.  Once targeted, type the command "/move forward 5".  Move this object around until it is no longer stacked on anything.  Then, you will be able to pick it up.  You could also try using the command "/pickup <name of item>". 
+
+
+- I dropped all of my items in my house in one spot and now I can't pick them up, what do I do?
+
+Target one of the items and use the command "/move back 1" to remove the item from the stack and regain normal access to this item.
+
+
+- What are the maintenance, minimum cost to redeed, and decay rate for structures?
+
+Structure Maintenance; Rate per Hour
+
+Small Tatooine House (all styles); 16 credits
+Medium Tatooine House (all styles); 34 credits
+Large Tatooine House (all styles); 50 credits
+Small Corellia, Generic, Naboo Houses (all styles); 12 credits
+Medium Corellia, Generic, Naboo Houses (all styles); 26 credits
+Large Corellia, Generic, Naboo  Houses (all styles); 40 credits
+Tatooine Guild Hall; 100 credits
+Corellia, Generic, Naboo Guild Halls; 80 credits
+Small Harvesters (all types); 24 credits
+Medium Harvesters (all types); 48 credits
+Large Harvesters (all types); 72 credits
+Factory (all types); 40 credits
+Generator (all types); 48 credits
+
+",		"servers":"- Why do the servers go down every day in the morning?
+ 
+The servers have a daily maintenance time around 4 AM Pacific Standard Time. The servers are brought down at this time for maintenance and to be reset. This helps the game run more smoothly. Customer Service Representatives (CSRs) will announce in the game when the servers are going down. Once the announcement is made, use the "/logout" command to lower the risk of suffering from a rollback or any other issues that may be encountered while the server is reset.
+
+ 
+- Why do I have log out when the CSRs announce the server is coming down?
+ 
+Using the "/logout" command when the Customer Service Representatives announce that the server is coming down lowers the risk of your character being rolled back.  Additionally, any other bugs that could possibly be encounter because while the server is being brought down are less likely to occur if you use the "/logout" command immediately after the Customer Service Representatives (CSRs) announce that the servers will be coming down.
+
+ 
+- Do CSRs always announce when the server is coming down?
+ 
+As much as possible, we do try to warn players in chat and in game when a server is going down.  Many times, we are aware that the servers will be going down for maintenance or "hot fixes".  The Customer Service Representatives will then announce that the servers will go down.  When the Customer Service Representatives have further information, they will relay that information in the chatroom.  You can also find more information regarding server status on the website at www.StarWarsGalaxies.com.  There are times when a server comes down unexpectedly.  During these times, the Customer Service Representatives will not have ample time to announce the server downtime.  However, once more information is gathered, that information can be found at the website.
+
+
+",		"events":"- What events are there in the game?
+ 
+There are several types of events that can be found in the game. Some of them are hosted by players and some are hosted by the game (designers, developers, etc). The events include character weddings, mission quests, "Mall Openings" and many others. Some players have been very inventive in regards to these events. In fact, the player events can actually be more interesting and exciting than the game hosted events. You can always check the website at www.StarWarsGalaxies.com for more information on some of these events.
+
+
+- What benefits do I get from joining events in the game?
+ 
+Each event has its own rewards. Game events will give faction points, credits, a badge, or a souvenir. Player events may or may not give rewards. The players who host the player events will be the ones to do every aspect of the event, so if a reward will be given, it will be given by them. For more information on events, please go to the website at www.StarWarsGalaxies.com.
+
+  
+- How do I start my own player event?
+ 
+Players in the game have become very inventive. From doing character weddings to fireworks displays, there are a variety of things that players can organize and invite other players to participate in them. Some events have included a beauty pageant, a mission quest, a fashion show, and several "Mall Openings". Decide what you would like to do, ask other players to help you organize it, then use the message boards to advertise your player event at www.StarWarsGalaxies.com. 
+
+",		"unity":"- How do I break Unity (divorced) in the game?
+ 
+At this time, there is no method of breaking Unity (getting divorced) in the game.
+
+
+- How do I get married in game?  How do I get the last name of my spouse in game?
+
+To get married, you must get a unity ring.  These rings are player crafted items.  Using the radial menu on the ring, you can propose "Unity" to another player.  The player can then accept the proposal.  There isn't much in ceremony regarding marriages in the game.  However, players can get inventive and roleplay and create wonderful weddings.  Unfortunately, there is no way for married couples in game to have the same name unless they have already chosen the name when they created their characters.  Customer Service Representatives will not change last names for players at will.
+"
+}}

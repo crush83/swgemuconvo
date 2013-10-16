@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_imperial_tier4_3_b",
+	"entries": {
+		"title_d":"Destroy the Coynite Mothership inside of the Dathomir system. It is time for you to show the Coynite what it means to cross the Empire. We have a lock on the Coynite Mothership and you are to destroy it and all that fly with her.",		"title":"Dathomir System: Destroy the Coynite Mothership",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Mothership",		"quest_target_d":"Intercept and destroy the Coynite Mothership.",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"Remain in the Dathomir system and intercept the Coynite Mothership.",		"quest_escort_t":"Destroy the Escort",		"quest_escort_d":"Destroy the Coynite escort fighters as well as the Coynite Mothership.",		"failed_escape":"The mothership has eluded destruction. We are most unpleased with your performance. Return to your superior and make a report on this blunder.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy escorts eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"We still detect some of the escort vessels active. Send a clear message to our enemy and destroy them as well.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Very nice, pilot. You are a credit to the Empire. Return to your superior and make a full report.",		"arrival_phase_2":"Vessel located attempting to leave system. Destroy that ship and all escorts before it is able to make the jump.",		"arrival_phase_1":"Stand by for nav coordinates to the command vessel.",		"Quest Log Data":"Text"
+}}

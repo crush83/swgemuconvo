@@ -1,33 +1,5 @@
-[
-'31':'title_d',
-'30':'title',
-'29':'taunt_5',
-'28':'taunt_4',
-'27':'taunt_3',
-'26':'taunt_2',
-'25':'taunt_1',
-'24':'targets_detected',
-'23':'targets_behind',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_destroy_t',
-'19':'quest_destroy_d',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'duty_update',
-'13':'dd_boss_taunt_5',
-'12':'dd_boss_taunt_4',
-'11':'dd_boss_taunt_3',
-'10':'dd_boss_taunt_2',
-'9':'dd_boss_taunt_1',
-'8':'complete',
-'7':'boss_title_5',
-'6':'boss_title_4',
-'5':'boss_title_3',
-'4':'boss_title_2',
-'3':'boss_title_1',
-'2':'boss_detected',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_duty/rori_station_imp_destroy_duty_tier3",
+	"entries": {
+		"title_d":"Rebel activity in this area has increased, and they often seem to know too much about Imperial plans. Remain here in the Naboo System and destroy the Rebel fighters.",		"title":"Naboo System: Destroy the Rebel Fighters Duty",		"taunt_5":"Perhaps you wish to rethink your actions?",		"taunt_4":"You should not have done that.",		"taunt_3":"Prepare to be embraced by death.",		"taunt_2":"Go towards the light.",		"taunt_1":"For the Rebellion!",		"targets_detected":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Alert! Enemy ships engaging weapons and incoming at attack speeds.>",		"targets_behind":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Warning! Enemy ships detected. Incoming from the rear.>",		"quest_location_t":"Travel to the Naboo System",		"quest_location_d":"Travel to the Naboo system if you are not already in the Naboo System.",		"quest_destroy_t":"Destroy the Rebel Fighters",		"quest_destroy_d":"Destroy all Rebel ships you can find. If you do well enough the Rebels will send their best pilots after you.",		"level_increase":"Be alert! The Rebel pilots are become more aggressive.",		"level_boss_dead":"Very nice work. That should slow Rebel activity in this area.",		"level_boss":"%TO has been eliminated. Nice work, pilot.",		"found_loc":"Located another area of high enemy activity.",		"duty_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"dd_boss_taunt_5":"You shall have a noble death!",		"dd_boss_taunt_4":"For the Rebellion! For the Alliance!",		"dd_boss_taunt_3":"Don't worry, this won't take long.",		"dd_boss_taunt_2":"That was your final mistake!",		"dd_boss_taunt_1":"You dare challenge the might of the Alliance?",		"complete":"All waves destroyed. You have performed your duty well. Return to your superior officer for additional assignments.",		"boss_title_5":"Rebel Captain",		"boss_title_4":"Rebel Raid Leader",		"boss_title_3":"Rebel Elite",		"boss_title_2":"Rebel Raid Seeker",		"boss_title_1":"Rebel Veteran",		"boss_detected":"Wave completed. Wave leader detected.",		"Quest Log Data":"Text"
+}}

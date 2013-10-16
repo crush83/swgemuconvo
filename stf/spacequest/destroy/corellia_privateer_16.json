@@ -1,14 +1,5 @@
-[
-'12':'title_d',
-'11':'title',
-'10':'split_quest_alert_fail',
-'9':'split_quest_alert',
-'8':'quest_location_t',
-'7':'quest_location_d',
-'6':'quest_destroy_t',
-'5':'quest_destroy_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy/corellia_privateer_16",
+	"entries": {
+		"title_d":"Hunt down the Hutt Gunships",		"title":"Destroy Renegate Hutt Fighers",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Dantooine System",		"quest_location_d":"Search the system for Hutt Gunships",		"quest_destroy_t":"Search and Destroy",		"quest_destroy_d":"Exact location is not known for this particular mission",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

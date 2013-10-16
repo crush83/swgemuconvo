@@ -1,11 +1,5 @@
-[
-'9':'weapon_factory_crate',
-'8':'chemicals_crate',
-'7':'clothing_factory_crate',
-'6':'electronics_crate',
-'5':'furniture_crate',
-'4':'generic_items_crate',
-'3':'installation_crate',
-'2':'armor_crate',
-'1':'food_crate',
-]
+{
+	"stfFile":"factory_d",
+	"entries": {
+		"weapon_factory_crate":"This is a factory-produced crate of weapon-related items.",		"chemicals_crate":"This is a factory-produced crate of chemical-related items.",		"clothing_factory_crate":"This is a factory-produced crate of clothing-related items.",		"electronics_crate":"This is a factory-produced crate of electronic items.",		"furniture_crate":"This is a factory-produced crate of furniture items.",		"generic_items_crate":"This is a factory-produced crate of miscellaneous items.",		"installation_crate":"This is a factory-produced crate of structure and installation-related items.",		"armor_crate":"This is a factory-produced crate of armor-related items.",		"food_crate":"This is a factory-produced crate of foodstuffs."
+}}

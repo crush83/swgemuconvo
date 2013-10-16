@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/poi_tatooine_general_3",
+	"entries": {
+		"title_d":"Kelen seemed terribly bent on ridding the galaxy of the Black Nemesis, an entity that has been terrorizing many a freighter for months. You have been tasked with heading up this operation, fondly called the "BlackDawn Existence", and are expected to lead two Mis Eisley Officers into battle. Will you succeed? Only time will tell.",		"title":"Tatoo System: The BlackDawn Existence",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Mos Eisley Captain:\#pcontrast3 < %TO >",		"quest_location_t":"Travel to Tatoo System",		"quest_location_d":"Your mission takes place in the Tatoo System. Travel there and complete you mission.",		"quest_helpallies_t":"Help the Officers",		"quest_helpallies_d":"It is your duty to help the Mos Eisley Officers defeat the Black Nemesis and restore peace and safety to the Tatoo System.",		"quest_findbattle_t":"Find the Battle Site",		"quest_findbattle_d":"Kelen has transmitted the location at which the battle will take place.",		"found_loc":"I've transmitted the location at which the Black Nemesis has last been seen. Go there. The officers will meet you there.",		"enemies_win":"The Black Nemesis has defeated us! He will live on and continue to hunt our freighters until he's stopped! We won't give up just yet!",		"enemies_remain":"\#pcontrast1 Mos Eisley Captain:\#pcontrast3 < An enemy has been vanquished! There are %DI of them left! >",		"enemies_arrived":"The Black Nemesis has arrived at the designated battle point. My radar detects additional enemies, however. I advise being careful, my friend.",		"battle_started":"The battle has begun! Defeat the Black Nemesis and win the day, pilot. The officers I assigned to this mission are well-adept in flight and fighting. But they'll need to be guarded and protected regardless. I'm counting on you.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Finally the freighters can travel with ease and safety. Thank you, pilot. We've won this day.",		"allies_remain":"\#pcontrast1 Mos Eisley Captain:\#pcontrast3 < Pilot!! We've lost one of our officers! There's only %DI left! Defend him with all your efforts! >",		"allies_arrived":"The officers assigned to this task, the attack against the mysterious Black Nemesis, have arrived at the desginated attack point."
+}}

@@ -1,31 +1,5 @@
-[
-'29':'ticket_purchase_complete',
-'28':'wrong_shuttle',
-'27':'boarding_ticket_selection',
-'26':'no_ticket',
-'25':'boarding_what_shuttle',
-'24':'route_not_available',
-'23':'shuttle_not_available',
-'22':'boarding_too_far',
-'21':'no_pets',
-'20':'short_funds',
-'19':'too_far',
-'18':'already_there',
-'17':'no_location_found',
-'16':'travel_rori',
-'15':'travel_talus',
-'14':'travel_dantooine',
-'13':'travel_lok',
-'12':'travel_corellia',
-'11':'travel_naboo',
-'10':'travel_tatooine',
-'9':'base_ticket_d',
-'8':'travel_shuttle_d',
-'7':'ticket_collector_name',
-'6':'next_shuttle',
-'5':'purchase_ticket',
-'4':'travel_shuttle',
-'3':'base_ticket',
-'2':'travel_options',
-'1':'board_shuttle',
-]
+{
+	"stfFile":"travel",
+	"entries": {
+		"ticket_purchase_complete":"Ticket purchase complete",		"wrong_shuttle":"This ticket is not valid for the given shuttle.",		"boarding_ticket_selection":"You must select a ticket to use before boarding.",		"no_ticket":"You do not have a ticket to board this shuttle.",		"boarding_what_shuttle":"What shuttle do you wish to board?",		"route_not_available":"This ticket's route is no longer available",		"shuttle_not_available":"The shuttle is not available at this time.",		"boarding_too_far":"You are too far from the shuttle to board.",		"no_pets":"You cannot board the shuttle when you are riding on a pet or in a vehicle.",		"short_funds":"You do not have enough money to complete the ticket purchase.",		"too_far":"You are too far from the terminal to purchase a ticket.",		"already_there":"You are already on that planet.",		"no_location_found":"No location was found for your destination. ",		"travel_rori":"Travel to Rori",		"travel_talus":"Travel to Talus",		"travel_dantooine":"Travel to Dantooine",		"travel_lok":"Travel to Lok",		"travel_corellia":"Travel to Corellia",		"travel_naboo":"Travel to Naboo",		"travel_tatooine":"Travel to Tatooine",		"base_ticket_d":"This is a ticket for a transport shuttle flight.",		"travel_shuttle_d":"This shuttle can take you to other planets.",		"ticket_collector_name":"Ticket Collector",		"next_shuttle":"Shuttle Status",		"purchase_ticket":"Purchase Travel Ticket",		"travel_shuttle":"Transport Shuttle",		"base_ticket":"Travel Ticket",		"travel_options":"Purchase Travel Ticket",		"board_shuttle":"Board Shuttle"
+}}

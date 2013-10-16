@@ -1,21 +1,5 @@
-[
-'22':'convoy_9',
-'21':'convoy_8',
-'20':'convoy_4',
-'19':'convoy_7',
-'18':'convoy_6',
-'17':'convoy_5',
-'16':'convoy_3',
-'15':'convoy_2',
-'14':'convoy_1',
-'13':'convoy_0',
-'12':'heavy',
-'11':'hard',
-'10':'medium',
-'9':'light',
-'8':'tier5',
-'7':'tier4',
-'6':'tier3',
-'5':'tier2',
-'4':'tier1',
-]
+{
+	"stfFile":"space/space_difficulty",
+	"entries": {
+		"convoy_9":"10th Convoy Ship",		"convoy_8":"9th Convoy Ship",		"convoy_4":"5th Convoy Ship",		"convoy_7":"8th Convoy Ship",		"convoy_6":"7th Convoy Ship",		"convoy_5":"6th Convoy Ship",		"convoy_3":"4th Convoy Ship",		"convoy_2":"3rd Convoy Ship",		"convoy_1":"2nd Convoy Ship",		"convoy_0":"Convoy Leader",		"heavy":"Heavy",		"hard":"Hard",		"medium":"Medium",		"light":"Light",		"tier5":"Tier 5",		"tier4":"Tier 4",		"tier3":"Tier 3",		"tier2":"Tier 2",		"tier1":"Tier 1"
+}}

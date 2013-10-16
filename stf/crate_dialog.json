@@ -1,22 +1,5 @@
-[
-'20':'stormtrooper_crate_10',
-'19':'stormtrooper_crate_9',
-'18':'stormtrooper_crate_8',
-'17':'stormtrooper_crate_7',
-'16':'stormtrooper_crate_6',
-'15':'stormtrooper_crate_5',
-'14':'stormtrooper_crate_4',
-'13':'stormtrooper_crate_3',
-'12':'stormtrooper_crate_2',
-'11':'stormtrooper_crate_1',
-'10':'pirate_crate_10',
-'9':'pirate_crate_9',
-'8':'pirate_crate_8',
-'7':'pirate_crate_7',
-'6':'pirate_crate_6',
-'5':'pirate_crate_5',
-'4':'pirate_crate_4',
-'3':'pirate_crate_3',
-'2':'pirate_crate_2',
-'1':'pirate_crate_1',
-]
+{
+	"stfFile":"crate_dialog",
+	"entries": {
+		"stormtrooper_crate_10":"You will not touch this!",		"stormtrooper_crate_9":"Our orders are to make sure that no one moves this crate.",		"stormtrooper_crate_8":"There's a containment team on the way to haul this thing off.  I suggest you leave before you get arrested or shot.",		"stormtrooper_crate_7":"Can you think of any reason for us to believe you're not lying?",		"stormtrooper_crate_6":"I don't see any papers identifying this as your crate yet.",		"stormtrooper_crate_5":"No one is to touch that crate and that is an order.",		"stormtrooper_crate_4":"The serial code is burned off, that's a strict violation.  You'll have to wait here.",		"stormtrooper_crate_3":"You don't really expect us to believe that this is your crate do you?",		"stormtrooper_crate_2":"Just give us a minute to call it in, and if it's yours you can have it.",		"stormtrooper_crate_1":"This is imperial property.  Back away from the container please.",		"pirate_crate_10":"Nobody's taking our crate!",		"pirate_crate_9":"You'll have to kill us if you want it.",		"pirate_crate_8":"Isn't it obvious that it's not an imperial crate?  I mean it's not whining like a baby now is it?",		"pirate_crate_7":"We dropped it.  It fell out of our ship.  We're just here to pick it up.",		"pirate_crate_6":"Just another bunch of imperials trying to keep us down!",		"pirate_crate_5":"You can see where I scratched my name in it, right there on the side.  See?  See?",		"pirate_crate_4":"No, really, our friend will be along with the key any minute now...",		"pirate_crate_3":"There's no sense arguing til we open it up and see what's inside it.",		"pirate_crate_2":"You can't just say it's yours.  We already said it's ours.",		"pirate_crate_1":"It's ours.  We found it!"
+}}

@@ -1,9 +1,6 @@
-[
-'7':'bartender_7',
-'6':'bartender_6',
-'5':'bartender_5',
-'4':'bartender_4',
-'3':'bartender_3',
-'2':'bartender_2',
-'1':'bartender_1',
-]
+{
+	"stfFile":"bartender_e3_convo",
+	"entries": {
+		"bartender_7":"Yeah, well, I got to get back to packing up.",		"bartender_6":"Things are sure weird around here.",		"bartender_5":"They've cut a deal with Jabba.  He lets them pretend to be in charge and they let him smuggle spices.",		"bartender_4":"I dreamed I was being put out of business by a bunch of imperials who...oh, wait, that's happening isn't it?
+",		"bartender_3":"Tell me about these imperials outside of town.",		"bartender_2":"What was your dream about?",		"bartender_1":"I had the strangest dream last night."
+}}

@@ -75,7 +75,7 @@
 	    
 	    fillRepository: function (data) {
 	        var container = $(".container", repository).empty();
-	        
+
 	        for (key in data.entries) {
 	            var entry = data.entries[key];
 	            

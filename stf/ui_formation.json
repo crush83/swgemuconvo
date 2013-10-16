@@ -1,6 +1,5 @@
-[
-'345':'help_viewer',
-'344':'help_players',
-'343':'help_button_formations',
-'342':'cpt_formation',
-]
+{
+	"stfFile":"ui_formation",
+	"entries": {
+		"help_viewer":"-formation slots-",		"help_players":"-drag players onto formation slots-",		"help_button_formations":"-formation buttons-",		"cpt_formation":"Ship Formation Selection"
+}}

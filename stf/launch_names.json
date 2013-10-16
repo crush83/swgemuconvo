@@ -1,12 +1,5 @@
-[
-'10':'station_yavin4',
-'9':'station_tatooine',
-'8':'station_talus',
-'7':'station_rori',
-'6':'station_naboo',
-'5':'station_lok',
-'4':'station_endor',
-'3':'station_dathomir',
-'2':'station_dantooine',
-'1':'station_corellia',
-]
+{
+	"stfFile":"launch_names",
+	"entries": {
+		"station_yavin4":"Landing Station: Yavin IV Station",		"station_tatooine":"Landing Station: Tatooine Station",		"station_talus":"Landing Station: Talus Station",		"station_rori":"Landing Station: Rori Station",		"station_naboo":"Landing Station: Naboo Station",		"station_lok":"Landing Station: Lok Station",		"station_endor":"Landing Station: Endor Station",		"station_dathomir":"Landing Station: Dathomir Station",		"station_dantooine":"Landing Station: Dantooine Station",		"station_corellia":"Landing Station: Corellia Station"
+}}

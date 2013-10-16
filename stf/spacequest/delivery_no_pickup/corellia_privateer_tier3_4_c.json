@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_rendezvous2_t',
-'18':'quest_rendezvous2_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_dock2_t',
-'14':'quest_dock2_d',
-'13':'hello_d',
-'12':'found_loc_d',
-'11':'failed_destroyed',
-'10':'docking_started_delivery',
-'9':'docking_complete_delivery',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_delivery',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/corellia_privateer_tier3_4_c",
+	"entries": {
+		"title_d":"Transfer the recovered goods to a CorSec Lancer",		"title":"Endor System: Transfer the recovered goods to a CorSec Lancer",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_rendezvous2_t":"Rendezvous",		"quest_rendezvous2_d":"Travel to this point to meet with your designated contact",		"quest_location_t":"Endor System",		"quest_location_d":"A rendezvous in the Endor System with freindly craft",		"quest_dock2_t":"Dock",		"quest_dock2_d":"Use the /dock command to link up with and transfer the cargo",		"hello_d":"Hail Captain.  I need to get this information back to Intelligence on the double. ",		"found_loc_d":"\#pcontrast3 CorSec Command: < \#pcontrast3 Uploading a waypoint to your Nav Comptuer. Head over there and drop off your recovered cargo. \#pcontrast3 >",		"failed_destroyed":"",		"docking_started_delivery":"The dock looks good, transfer over the cargo now.",		"docking_complete_delivery":"Transfer is complete, pleasure doing business with you.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile activity has ceased. \#pcontrast3 >",		"attack_notify":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy craft detected on attack vector. \#pcontrast3 >",		"assigned_delayed":"",		"arrived_at_delivery":"\#pcontrast3 CorSec Command: < \#pcontrast1 Our man should be here soon. Just wait here. \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

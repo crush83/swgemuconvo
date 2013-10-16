@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_rebel_tier3_1_d",
+	"entries": {
+		"title_d":"The X-Wing squadron that's covering the rear of the fleet is being followed by Imperial fighters. Assist them in defeating the Imperial scum while the fleet escapes.",		"title":"Yavin system: Assist X-Wing squad in defeating Imperial patrols.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"X-Wing Squad Leader: < %TO >",		"quest_location_t":"Yavin system.",		"quest_location_d":"While flying over to the X-Wing squadron, be careful to not attract more Imperial fighters. The Yavin system is crawling with them.",		"quest_helpallies_t":"Assist the X-Wings.",		"quest_helpallies_d":"We would send in more reinforcements but the whole idea here is to not let the Empire know the amount of ship we have in transit right now. You and the X-Wing squadron will be on your own. Good luck!",		"quest_findbattle_t":"Coordinates of battle.",		"quest_findbattle_d":"The X-Wing squadron has set these coordinates as the location where they will perform their counter attack. Join up with them quickly.",		"found_loc":"Good to see you pilot. Proceed to these coordinates.",		"enemies_win":"My ship is burning up! Get out of he...",		"enemies_remain":"X-Wing Squad Leader: < Good job everyone, only %DI Imperial scum to go! >",		"enemies_arrived":"There they are, get ready guys!",		"battle_started":"Here they come, attack pattern Green 2! Give them a fight they won't forget!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Fantastic job pilot! If you ever look for a reassignment to a squad, look me up. Now lets get out of here.",		"allies_remain":"Rebel Pilot: < Critical system failure, my engines are burning! I nee... >",		"allies_arrived":"They started following us a while back, we can't let them reach the fleet.",		"Quest Log Data":"Text"
+}}

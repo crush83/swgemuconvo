@@ -1,17 +1,5 @@
-[
-'18':'ok',
-'17':'eg6_power_droid',
-'16':'mouse_droid',
-'14':'le_repair_droid',
-'13':'surgical_droid_21b',
-'12':'r2',
-'11':'protocol_droid_3po',
-'10':'probot',
-'7':'droideka',
-'6':'goodbye',
-'5':'toomany',
-'4':'choose',
-'3':'no',
-'2':'yes',
-'1':'start',
-]
+{
+	"stfFile":"beta/droid_vendor",
+	"entries": {
+		"ok":"Ok, here is your droid.  Take good care of it.  Come back and talk to me any time.  I sure do like talking to people.",		"eg6_power_droid":"Power Droid",		"mouse_droid":"Mouse Droid",		"le_repair_droid":"Repair Droid",		"surgical_droid_21b":"Surgical Droid",		"r2":"Astromech",		"protocol_droid_3po":"Protocol Droid",		"probot":"Imperial Probot",		"droideka":"Droideka",		"goodbye":"Ok goodbye!  Good luck!  Thank you for talking to me....  I'm so lonely.",		"toomany":"You have too many droids.  I thought you were my friend.  But you're just using me to get free droids.  No droids for you!",		"choose":"Which of these fine models would you like?",		"no":"No",		"yes":"Yes",		"start":"Psst.  Hey.... want a droid?  It's FREE!  No strings attached..."
+}}

@@ -1,11 +1,19 @@
-[
-'9':'default',
-'8':'help_value_bar',
-'7':'cpt_shipdetails',
-'6':'help_component_detail',
-'5':'help_shipinfo',
-'4':'help_disabled',
-'3':'help_unpowered',
-'2':'help_hitpoints',
-'1':'help_slots',
-]
+{
+	"stfFile":"ui_shipdetails",
+	"entries": {
+		"default":"",		"help_value_bar":"Ship Component Hitpoint Bar
+
+This shows the ship component's current hitpoint value.",		"cpt_shipdetails":"component details",		"help_component_detail":"Ship Component Details
+
+This shows details for the selected ship component in the ship component slot list.",		"help_shipinfo":"General Starship Information
+
+This is general information about your starship.",		"help_disabled":"Disabled
+
+This icon marks that the ship component loaded in the indicated slot is disabled.",		"help_unpowered":"Unpowered
+
+This icon marks that the ship component loaded in the indicated slot is not receiving enough power to operate. This usually means the the ship's main reactor is not functioning at a high enough level.",		"help_hitpoints":"Low Hitpoints
+
+This icon marks that the ship component loaded in the indicated slot has less then 25% of its maximum hitpoint value.",		"help_slots":"Ship Component Slots
+
+The list of slots available for ship components on a ship."
+}}

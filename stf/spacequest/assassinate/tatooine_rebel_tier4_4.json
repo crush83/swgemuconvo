@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_rebel_tier4_4",
+	"entries": {
+		"title_d":"Welcome as a full member of the Crimson Phoenix pilot. You are now one of the best the Alliance Navy has to offer, make sure you keep it that way. The attack in the Endor system didn't give us any useful information to the production of the new Imperial fighters and now it's too late anyway, they are spread through out the galaxy. For this mission, Intel has provided us with information that a TIE Bomber is carrying some important machinery to the surface of the moon of Endor. Let's make sure it never reaches its destination.",		"title":"Endor system: Terminate the TIE Bomber and its cargo.",		"split_quest_alert_fail":"General Ufwol: < You can't return to base just yet pilot. We have found another one of those big ships and we want to find out more about them. Stand by. >",		"split_quest_alert":"General Ufwol: < We are curious about this big ship you just took out and are sending a recovery team to pick up it's debris. Stand by. >",		"quest_update":"General Ufwol: < %TO >",		"quest_target_t":"'TIE Bomber'",		"quest_target_d":"What was supposed to be a TIE bomber has turned out to be something completely different. We have never seen this ship model before so approach with extreme caution. We still need it destroyed though pilot, no time to back out now.",		"quest_location_t":"Endor system.",		"quest_location_d":"Our successful attacks on the Empire in this system have made them increase their presence and their security measures. It's more dangerous here than ever so don't even begin to relax pilot.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"Maybe accepting you as a full member of the squad was a mistake pilot...",		"escort_wiped_out":"General Ufwol: < Excellent pilot, only the main bogey left! >",		"escort_remaining":"General Ufwol: < Good job pilot but don't let that big ship slip out of your grasp! >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"That turned out to be a lot tougher than expected but you came through for the squad pilot, good job!",		"arrival_phase_2":"Hmm, that's no TIE Bomber... I'm not sure what that ship is but either way, it has to be stopped. Intercept it pilot!",		"arrival_phase_1":"Our reconnaissance ship is transferring the location of the the target now, stand by.",		"Quest Log Data":"Text"
+}}

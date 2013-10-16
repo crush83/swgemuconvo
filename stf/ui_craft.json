@@ -1,159 +1,63 @@
-[
-'158':'err_read_only_draft_schematic',
-'157':'err_ingredient_not_in_inventory',
-'156':'cust_color_3',
-'155':'cust_color_2',
-'154':'draft_slot_option_req_item_generic_prose',
-'153':'draft_slot_option_req_item_factory_prose',
-'152':'err_ingredient_not_for_slot',
-'151':'check_draft_show_all',
-'150':'draft_attrib_misc',
-'149':'draft_attribs_waiting_data',
-'148':'complexity_level_2',
-'147':'complexity_level_1',
-'146':'complexity_level_0',
-'145':'err_datapad_full_prose',
-'144':'err_already_crafting',
-'143':'assembly_slots',
-'142':'help_cust_limit',
-'141':'help_cust_name',
-'140':'help_cust_viewer',
-'139':'help_cust_color',
-'138':'help_cust_combo',
-'137':'cpt_cust_help',
-'136':'help_option_experiment',
-'135':'help_option_schematic',
-'134':'help_option_prototype',
-'133':'cpt_option_help',
-'132':'help_summ_table',
-'131':'help_summ_desc',
-'130':'cpt_summ_help',
-'129':'help_assembly_info',
-'128':'help_assembly_slots',
-'127':'help_assembly_inventory',
-'126':'cpt_assembly_help',
-'125':'help_draft_ingredients',
-'123':'help_draft_tree',
-'122':'help_draft_tabs',
-'121':'cpt_draft_help',
-'120':'wait_send_customization_data',
-'119':'cpt_exp_help',
-'118':'help_exp_obj_attribs',
-'117':'help_exp_run',
-'116':'help_exp_risk',
-'115':'help_exp_attribs',
-'114':'help_exp_points',
-'113':'err_invalid_crafted_name',
-'112':'err_not_customize_stage',
-'111':'err_no_prototype',
-'110':'err_partial_slot_assembly',
-'109':'err_empty_slot_assembly',
-'108':'err_cant_create_resource_crate',
-'107':'err_empty_slot',
-'106':'err_bad_target_container',
-'105':'err_bad_target_hopper',
-'104':'err_no_inventory',
-'103':'err_wrong_component',
-'102':'err_cant_transfer_component',
-'101':'err_damaged_component',
-'100':'err_wrong_resource',
-'99':'err_cant_remove_resource',
-'98':'err_invalid_ingredient',
-'97':'err_slot_full',
-'96':'err_invalid_ingredient_size',
-'95':'err_invalid_slot_option',
-'94':'err_invalid_slot',
-'93':'err_no_manf_schematic',
-'92':'err_no_crafting_tool',
-'91':'err_no_draft_schematic',
-'90':'err_not_assembly_stage',
-'89':'err_no_owner',
-'88':'cust_cancel',
-'87':'hopper_input_unload',
-'86':'draft_ingredients',
-'85':'confirm_cancel',
-'84':'cust_color_1',
-'83':'cust_color_0',
-'82':'check_filter',
-'81':'confirm_exp_done_prose',
-'80':'session_ended',
-'79':'draft_slot_no_options',
-'78':'draft_slots_waiting_data',
-'77':'unload_into_inventory',
-'76':'tab_inv',
-'75':'tab_hop',
-'74':'cust_limit',
-'73':'err_cust_bad_limit',
-'72':'cust_reset',
-'71':'cust_create',
-'70':'cust_lock',
-'69':'cust_appearance',
-'68':'exp_done',
-'67':'completed_manf_schem',
-'66':'completed_prototype',
-'65':'wait_complete_manf_schem',
-'64':'cpt_slot_option',
-'63':'draft_input_item_usable',
-'62':'draft_input_item_unusable',
-'61':'assembly_slot_info',
-'60':'draft_slot_option_loaded_resclass_prose',
-'59':'draft_slot_option_req_resclass_prose',
-'58':'draft_slot_option_loaded_item_prose',
-'57':'draft_slot_option_req_item_prose',
-'56':'draft_slot_options_caption',
-'55':'unload_into_hopper',
-'54':'err_no_draft_schematic_category_selected',
-'53':'err_no_draft_schematic_selected',
-'52':'err_assembly_slots',
-'51':'exp_attribs',
-'50':'hopper_input',
-'49':'wait_manf_schem',
-'48':'exp_finish',
-'47':'wait_transfer',
-'46':'wait_start_crafting',
-'45':'wait_restart_crafting',
-'44':'wait_finish',
-'43':'wait_experiment',
-'42':'wait_draft_slots',
-'41':'wait_draft_schematic',
-'40':'wait_customize',
-'39':'wait_complete_prototype',
-'38':'wait_assemble',
-'37':'slot_info',
-'36':'obj_name',
-'35':'exp_risk',
-'34':'exp_points',
-'33':'exp_go',
-'32':'exp',
-'31':'err_transfer',
-'30':'err_start',
-'29':'err_restart',
-'28':'err_no_option_selected',
-'27':'err_no_name',
-'26':'err_no_draft_schematics',
-'25':'err_hopper_output_nonempty',
-'24':'err_finish',
-'23':'err_experiment',
-'22':'err_customize',
-'21':'err_complete',
-'20':'err_assembly',
-'19':'draft_schematics',
-'18':'draft_schematic_types',
-'17':'cust_name',
-'16':'create_prototype',
-'15':'create_manf_schem',
-'14':'confirm_destroy',
-'13':'confirm_complete',
-'12':'confirm_assemble',
-'11':'complexity',
-'10':'attrib_value_bar',
-'9':'attrib_value',
-'8':'attrib_name',
-'7':'cpt_crafting_completion',
-'6':'cpt_summ',
-'5':'cpt_exp',
-'4':'cpt_draft_schematics',
-'3':'cpt_cust',
-'2':'cpt_assembly',
-'1':'cpt_option',
-]
+{
+	"stfFile":"ui_craft",
+	"entries": {
+		"err_read_only_draft_schematic":"Schematic cannot be used to craft an item. It is for informational purposes only.",		"err_ingredient_not_in_inventory":"The ingredient is not in your inventory.",		"cust_color_3":"Color 4",		"cust_color_2":"Color 3",		"draft_slot_option_req_item_generic_prose":"Requires %DI similar %TU items.",		"draft_slot_option_req_item_factory_prose":"Requires %DI identical %TU from a factory crate.",		"err_ingredient_not_for_slot":"That Ingredient cannot be used in this Slot.",		"check_draft_show_all":"Show All Draft Schematics",		"draft_attrib_misc":"Misc",		"draft_attribs_waiting_data":"...Waiting for Attribute Data Download...",		"complexity_level_2":"Requires Specialized Crafting Tool and Crafting Station.",		"complexity_level_1":"Requires Specialized Crafting Tool.",		"complexity_level_0":"Requires Generic Crafting Tool.",		"err_datapad_full_prose":"You don't have enough room in your datapad to store the Manufacturing Schematic.
+
+The Schematic requires %DI units of data storage.",		"err_already_crafting":"You are already crafting.",		"assembly_slots":"Draft Schematic Slots",		"help_cust_limit":"You can limit the number of copies a Factory can produce of your Manufacturing Schematic.",		"help_cust_name":"Set the name of your Crafted Object here.",		"help_cust_viewer":"Review the appearance of your Crafted Object here.",		"help_cust_color":"You can customize the colors of your Crafted Object.",		"help_cust_combo":"You can choose the appearance of your Crafted Object.
+
+The number of choices depends on your skill level and the Draft Schematic used.",		"cpt_cust_help":"Customize your crafted object.",		"help_option_experiment":"This option allows you to experiment on the object.
+
+Experimentation allows you to improve your object's attributes, but can be risky.",		"help_option_schematic":"This option allows you to create a Manufacturing Schematic.
+
+The Manufacturing Schematic will be downloaded to your Datapad, and can be used in a Factory to mass produce many copies of the object you have crafted.",		"help_option_prototype":"This option allows you to construct a working Prototype.",		"cpt_option_help":"Choose how to proceed.",		"help_summ_table":"Here are the experimental attributes of your object.
+
+These have a direct effect on the actual attributes on your object.",		"help_summ_desc":"Here are the attributes of the object you have assembled.",		"cpt_summ_help":"This page presents a summary of the object you have assembled.",		"help_assembly_info":"Use the object attributes to assist in ingredient selection.",		"help_assembly_slots":"These are the Draft Schematic slots.
+
+You must choose an ingredient for each of the required slots.
+
+Required slots are colored green, and optional slots are colored orange.
+
+You can unload an ingredient from a slot by dragging it back to your inventory or input hopper, or double-clicking it.",		"help_assembly_inventory":"These are the items available for crafting.
+
+You can drag and drop items into the Draft Schematic slots to the right.
+
+If you craft at a private crafting station, this page will give you access to the Input Hopper of the station. ",		"cpt_assembly_help":"Assemble your item by choosing ingredients for the crafting slots.",		"help_draft_ingredients":"The ingredients required to craft the selected Draft Schematic are shown here.",		"help_draft_tree":"The Draft Schematics available to you are shown here, arranged by type.",		"help_draft_tabs":"These are the crafting categories currently available to you.
+
+You can gain access to more categories by improving your skill or using a crafting station.",		"cpt_draft_help":"Select your the Draft Schematic you wish to use in crafting.",		"wait_send_customization_data":"Uploading customization data...",		"cpt_exp_help":"Use experimentation to improve your prototype.",		"help_exp_obj_attribs":"As your experimental attributes change through experimentation, the actual attributes of your prototype will change, and will be displayed here.
+
+Good Luck!",		"help_exp_run":"When you have allocated experiment points to attributes as you wish, run the experiment by pressing this button.
+
+You can run several experiments on a prototype, as long as you have experiment points to spend.",		"help_exp_risk":"This is your risk indicator.
+
+The more experiment points you use, the higher the risk of failure.
+
+However, along with higher risk of failure comes higher potential for success.
+",		"help_exp_attribs":"These are the attributes with which you can experiment.
+
+Click on an attribute bar to commit experiment points to the attribute.",		"help_exp_points":"These are your experiment points.
+
+You can spend your experiment points to try to improve your prototype through experimentation.
+",		"err_invalid_crafted_name":"You have named your object a reserved word. Please try another name.",		"err_not_customize_stage":"Cannot customize item: not in crafting customization stage.",		"err_no_prototype":"Internal server error: no test prototype for assembly found.",		"err_partial_slot_assembly":"Error: trying to assemble object with partially full slot.",		"err_empty_slot_assembly":"Error: trying to assemble object with empty slot.",		"err_cant_create_resource_crate":"Internal server error: cannot create resource container.",		"err_empty_slot":"The slot you are trying to empty is already empty.",		"err_bad_target_container":"Internal server error: bad target container.",		"err_bad_target_hopper":"Internal server error: bad crafting station hopper.",		"err_no_inventory":"Internal server error: cannot find player inventory.",		"err_wrong_component":"Bad component chosen for slot. You should not be able to put that component here.",		"err_cant_transfer_component":"Internal server error: can't transfer component.",		"err_damaged_component":"Your component is too damaged to be useable for crafting.",		"err_wrong_resource":"Bad resource chosen for slot. You should not be able to put that resource here.",		"err_cant_remove_resource":"Internal server error: can't remove resource from crate.",		"err_invalid_ingredient":"Internal server error: invalid ingredient.",		"err_slot_full":"The slot you are trying to fill is already full.",		"err_invalid_ingredient_size":"Internal server error: invalid ingredient size for slot.",		"err_invalid_slot_option":"Invalid slot option chosen.",		"err_invalid_slot":"Invalid slot chosen.",		"err_no_manf_schematic":"Internal server error: no manufacturing schematic found.",		"err_no_crafting_tool":"Internal server error: no crafting tool found.",		"err_no_draft_schematic":"Internal server error: no draft schematic found.",		"err_not_assembly_stage":"Cannot add ingredient: not in crafting assembly stage.",		"err_no_owner":"Internal server error: no owner for player.",		"cust_cancel":"Cancel Customization",		"hopper_input_unload":"Unload Input Hopper",		"draft_ingredients":"Ingredients",		"confirm_cancel":"Really cancel crafting session?
+
+You will lose any materials you have used so far in the process!",		"cust_color_1":"Color 2",		"cust_color_0":"Color 1",		"check_filter":"Filter Items",		"confirm_exp_done_prose":"You have %DI experiment points remaining.
+Are you sure you want to stop experimenting?",		"session_ended":"The crafting session has ended!",		"draft_slot_no_options":"*** No options downloaded for this slot. ***",		"draft_slots_waiting_data":"...Waiting for Slot Data Download...",		"unload_into_inventory":"Drag ingredient into inventory to unload it from the assembly slot.",		"tab_inv":"Inventory",		"tab_hop":"Input Hopper",		"cust_limit":"Set the Manufacturing Limit",		"err_cust_bad_limit":"The manufacturing limit is invalid.
+Please enter a  number between 1 and 1000.",		"cust_reset":"Reset Customization",		"cust_create":"Create Object",		"cust_lock":"Lock Color",		"cust_appearance":"Choose Appearance",		"exp_done":"Done Experimenting",		"completed_manf_schem":"The new manufacturing schematic has been downloaded to your datapad.",		"completed_prototype":"Please wait while the crafting station produces the finished prototype.",		"wait_complete_manf_schem":"Transmitting manufacturing schematic to your datapad...",		"cpt_slot_option":"Select Slot Option",		"draft_input_item_usable":"This item is usable in these slots:",		"draft_input_item_unusable":"This item is not usable with this draft schematic.",		"assembly_slot_info":"Slot Information:",		"draft_slot_option_loaded_resclass_prose":"Loaded with %DI units of:
+\@01%TU.",		"draft_slot_option_req_resclass_prose":"Requires %DI units of %TU.",		"draft_slot_option_loaded_item_prose":"Loaded with %DI %TU.",		"draft_slot_option_req_item_prose":"Requires %DI %TU.",		"draft_slot_options_caption":"Draft slot options:",		"unload_into_hopper":"Drag ingredient into this hopper to unload it from the assembly slot.",		"err_no_draft_schematic_category_selected":"No draft schematic category selected.",		"err_no_draft_schematic_selected":"No draft schematic selected.",		"err_assembly_slots":"The schematic is not ready for assembly.
+The slot ingredient requirements have not been fulfilled.
+Make sure each of the required slots are configured correctly,
+and try again.",		"exp_attribs":"Attributes",		"hopper_input":"Input Hopper",		"wait_manf_schem":"Waiting for manufacturing schematic download...",		"exp_finish":"Finish",		"wait_transfer":"The crafting station hopper is analyzing 
+the item...",		"wait_start_crafting":"Booting the crafting station...",		"wait_restart_crafting":"Rebooting the crafting station...",		"wait_finish":"The crafting station is manufacturing the 
+requested item...",		"wait_experiment":"Running the experiment...",		"wait_draft_slots":"Downloading item blueprint data from 
+your datapad...",		"wait_draft_schematic":"Downloading draft schematics from 
+your datapad...",		"wait_customize":"Customizing the item...",		"wait_complete_prototype":"Depositing item into the output hopper...",		"wait_assemble":"Assembling the item...",		"slot_info":"Slot Information",		"obj_name":"Item Name",		"exp_risk":"Risk",		"exp_points":"Experimentation Points",		"exp_go":"Run Experiment!",		"exp":"Experiment",		"err_transfer":"Failed to transfer resources to the crafting
+station! Hey nonny nonny tra la la!",		"err_start":"Failed to start the crafting session!",		"err_restart":"Failed to restart the crafting session! ",		"err_no_option_selected":"You need to choose an assembly 
+option for this ingredient!",		"err_no_name":"You need to specify a name for the 
+item you have designed!",		"err_no_draft_schematics":"You don't have any draft schematics that can be used on this crafting station. 
+
+There  are several sorts of crafting stations; 
+if you have draft schematics you want to use, you  should locate a crafting station that takes the sort of draft schematics you have.",		"err_hopper_output_nonempty":"You need to empty the output hopper of this crafting tool.
+
+There's no room to manufacture anything!",		"err_finish":"Failed to finish the item!",		"err_experiment":"Failed to experiment with the item!",		"err_customize":"Failed to customize the item!",		"err_complete":"Failed to complete the item!",		"err_assembly":"Failed to assemble the item!",		"draft_schematics":"Draft Item Schematics",		"draft_schematic_types":"Types of Item",		"cust_name":"Name your new item",		"create_prototype":"Create a Prototype Item",		"create_manf_schem":"Create Manufacturing Schematic",		"confirm_destroy":"Are you sure you want to destroy this item?",		"confirm_complete":"Are you sure you are done with the item?",		"confirm_assemble":"Are you sure you want to assemble 
+the item? Once you take this step, you 
+cannot go back!",		"complexity":"Complexity",		"attrib_value_bar":"Value",		"attrib_value":"Value",		"attrib_name":"Attribute",		"cpt_crafting_completion":"Complete Your Item",		"cpt_summ":"Crafting Summary",		"cpt_exp":"Experimentation",		"cpt_draft_schematics":"Draft Schematics",		"cpt_cust":"Item Customization",		"cpt_assembly":"Item Assembly",		"cpt_option":"Finish Crafting"
+}}

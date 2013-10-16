@@ -1,385 +1,16849 @@
-[
-'402':'whatthe',
-'401':'worship',
-'399':'thumbsdown',
-'398':'thumbsup',
-'397':'thumbup',
-'396':'thumbdown',
-'395':'shoo',
-'394':'rude',
-'393':'paper',
-'392':'model',
-'391':'mock',
-'390':'loser',
-'389':'kisscheek',
-'388':'lives',
-'387':'dies',
-'386':'flipcoin',
-'385':'petlow',
-'384':'pethigh',
-'383':'wtg',
-'382':'payup',
-'381':'makeroom',
-'380':'cuckoo',
-'379':'choppedliver',
-'378':'bump',
-'377':'airguitar',
-'376':'hot',
-'375':'combarea',
-'374':'pshrug',
-'373':'callstop',
-'372':'slit',
-'371':'fistpalm',
-'370':'pound',
-'369':'chestpound',
-'368':'up',
-'367':'pointup',
-'366':'right',
-'365':'pointright',
-'364':'left',
-'363':'pointleft',
-'362':'pointat',
-'361':'down',
-'360':'pointdown',
-'359':'anxious',
-'357':'attend',
-'356':'demure',
-'355':'contemplate',
-'354':'closeeyes',
-'353':'knockwood',
-'352':'eyeroll',
-'351':'scowl',
-'350':'sneer',
-'348':'snog',
-'347':'yes',
-'346':'mercy',
-'345':'rubnose',
-'344':'bow3',
-'343':'bow2',
-'341':'bow4',
-'340':'zone',
-'339':'zip',
-'338':'yawn',
-'337':'wrinkle',
-'336':'wink',
-'335':'wince',
-'334':'whistle',
-'333':'whisper',
-'331':'whimper',
-'330':'whap',
-'329':'welcome',
-'328':'wave',
-'327':'ward',
-'326':'wait',
-'325':'waft',
-'324':'veto',
-'323':'uncle',
-'322':'twitch',
-'321':'twistarm',
-'320':'twirl',
-'319':'twiddle',
-'318':'twibble',
-'317':'tweak',
-'316':'tug',
-'315':'tsktsk',
-'314':'toss',
-'313':'tongue',
-'312':'tmi',
-'311':'tiptoe',
-'310':'tiphat',
-'309':'tiny',
-'308':'tickle',
-'307':'thxinfo',
-'306':'throwdown',
-'305':'throwat',
-'304':'thirst',
-'302':'thank',
-'301':'tease',
-'300':'provoke',
-'299':'tap',
-'298':'tantrum',
-'297':'tag',
-'296':'tackle',
-'295':'sweep',
-'294':'sweat',
-'293':'swat',
-'292':'surrenderself',
-'291':'surprised',
-'290':'summon',
-'289':'sulk',
-'288':'strut',
-'287':'stretch',
-'286':'strangle',
-'285':'stomp',
-'284':'stink',
-'283':'steam',
-'281':'stare',
-'280':'squirm',
-'279':'squeeze',
-'278':'spit',
-'277':'spin',
-'276':'speaknoevil',
-'275':'spam',
-'274':'softclap',
-'273':'soapbox',
-'272':'snort',
-'271':'snore',
-'270':'sniffle',
-'269':'sniff',
-'268':'snicker',
-'267':'sneeze',
-'266':'snarl',
-'265':'snap',
-'264':'smirk',
-'263':'smile',
-'262':'smell',
-'261':'small',
-'260':'slobber',
-'259':'slap',
-'258':'skip',
-'256':'sigh',
-'254':'shush',
-'253':'shudder',
-'252':'shrug',
-'251':'shower',
-'250':'shiver',
-'249':'sharpen',
-'248':'shake',
-'247':'seenoevil',
-'246':'scream',
-'245':'scratch',
-'244':'scold',
-'243':'scared',
-'242':'scare',
-'241':'salute',
-'240':'ruffle',
-'239':'rose',
-'238':'rolleyes',
-'237':'rofl',
-'236':'roar',
-'235':'callretreat',
-'234':'reassure',
-'233':'ready',
-'232':'raspberry',
-'231':'raise',
-'230':'quiet',
-'229':'question',
-'228':'puzzle',
-'227':'push',
-'226':'punch',
-'225':'pull',
-'224':'puke',
-'223':'pucker',
-'222':'protect',
-'221':'prod',
-'220':'primp',
-'219':'preen',
-'218':'pout',
-'217':'ponder',
-'216':'poke',
-'215':'plugnose',
-'214':'plugears',
-'213':'pinch',
-'212':'pillow',
-'211':'peyoo',
-'210':'pet',
-'209':'peptalk',
-'208':'peer',
-'207':'pat',
-'206':'pant',
-'205':'wildpanic',
-'204':'opossum',
-'203':'oneknee',
-'202':'omg',
-'201':'nuzzle',
-'200':'nudge',
-'199':'nose',
-'198':'noogie',
-'197':'nono',
-'196':'nod',
-'194':'nelson',
-'193':'nausea',
-'192':'nap',
-'191':'nails',
-'190':'mutter',
-'189':'mourn',
-'188':'mosh',
-'187':'mope',
-'186':'mirror',
-'185':'mimic',
-'184':'melt',
-'183':'medium',
-'182':'manual',
-'181':'luck',
-'180':'love',
-'179':'lost',
-'178':'lol',
-'176':'lick',
-'175':'legshake',
-'174':'leer',
-'173':'lean',
-'172':'laugh',
-'171':'large',
-'170':'lagging',
-'169':'kowtow',
-'167':'kiss',
-'166':'jump',
-'165':'jk',
-'164':'jas',
-'163':'jam',
-'162':'introduce',
-'160':'innocent',
-'159':'imitate',
-'158':'hunger',
-'157':'hum',
-'156':'huge',
-'155':'hug',
-'154':'hose',
-'153':'hop',
-'152':'holdon',
-'151':'hobble',
-'150':'hiss',
-'149':'hiccup',
-'148':'hi5',
-'147':'hero',
-'146':'helpme',
-'145':'hearnoevil',
-'144':'headlock',
-'143':'headache',
-'142':'handshake',
-'141':'hand',
-'140':'halo',
-'139':'halfnelson',
-'138':'hail',
-'137':'hack',
-'136':'gulp',
-'135':'grunt',
-'134':'grumble',
-'133':'growl',
-'132':'grovel',
-'131':'groan',
-'130':'grin',
-'129':'greet',
-'128':'going',
-'127':'glow',
-'126':'gloat',
-'125':'glare',
-'124':'giveup',
-'123':'giggle',
-'122':'gaze',
-'121':'gawk',
-'120':'gasp',
-'119':'gape',
-'118':'gag',
-'117':'fuzzy',
-'116':'fume',
-'115':'imfull',
-'114':'frown',
-'113':'fool',
-'112':'flutter',
-'111':'flower',
-'110':'flirt',
-'109':'flip',
-'108':'flex',
-'107':'flee',
-'106':'flame',
-'105':'flail',
-'104':'fidget',
-'103':'fiddle',
-'102':'feh',
-'101':'feel',
-'100':'fear',
-'99':'faq',
-'98':'false',
-'97':'faint',
-'96':'eyebrow',
-'95':'exhausted',
-'94':'evilgrin',
-'93':'encourage',
-'92':'embrace',
-'91':'elbow',
-'90':'eek',
-'89':'echuta',
-'88':'duck',
-'87':'drool',
-'85':'dream',
-'84':'doh',
-'82':'disagree',
-'81':'deride',
-'80':'defend',
-'79':'deepbow',
-'78':'dance',
-'77':'curtsey',
-'76':'curse',
-'74':'culater',
-'73':'cry',
-'72':'cringe',
-'71':'cower',
-'70':'covereyes',
-'69':'cover',
-'68':'cough',
-'67':'congratulate',
-'65':'comfort',
-'64':'combhair',
-'63':'claw',
-'62':'clap',
-'61':'chuckle',
-'60':'chortle',
-'59':'chestpuff',
-'58':'cheer',
-'57':'cheek',
-'56':'chase',
-'55':'censor',
-'54':'catchbreath',
-'53':'calm',
-'52':'cackle',
-'51':'bye',
-'50':'burp',
-'49':'brt',
-'48':'brb',
-'47':'brandish',
-'46':'bowhead',
-'45':'bow',
-'44':'bouquet',
-'43':'bounce',
-'42':'bored',
-'41':'boogie',
-'40':'bonk',
-'39':'boggle',
-'38':'bodyslam',
-'37':'bob',
-'36':'bmoc',
-'35':'blush',
-'34':'blowkiss',
-'33':'blow',
-'32':'blink',
-'31':'bleed',
-'30':'blame',
-'29':'bite',
-'28':'belch',
-'26':'beckon',
-'25':'wookieehug',
-'24':'beam',
-'23':'bbl',
-'22':'batlashes',
-'21':'bark',
-'20':'bang',
-'19':'bak',
-'18':'bah',
-'17':'badfeeling',
-'16':'bad',
-'15':'backhand',
-'14':'ayt',
-'12':'arch',
-'11':'applaud',
-'10':'apologize',
-'9':'amazing',
-'8':'agree',
-'7':'afk4food',
-'6':'afk4drink',
-'5':'isafk',
-'4':'adn',
-'3':'adjust',
-'2':'ache',
-'1':'accuse',
-]
+{
+	"stfFile":"socials",
+	"entries": {
+		"whatthe":"whatthe
+wtf
+wtf
+wtf
+~
+What the??
+~
+~
+%TU wonders what is going on!?
+~
+~
+What were you thinking??
+~
+~
+%TU doesn't know what is happening.  Can someone explain it?.
+~
+~
+You wonder what %OT was thinking.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wonders what %TT was thinking.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wonders what you were thinking.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"worship":"worship
+worship
+~
+worship
+~
+You are not worthy!
+~
+~
+%TU is not worthy!
+~
+~
+You are not worthy.
+~
+~
+%TU is not worthy.
+~
+~
+You worship %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU worships %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU worships you.
+~
+~
+~
+~
+~
+~
+~
+~",		"thumbsdown":"thumbsdown
+thumbs_down
+thumbs_down
+thumbs_down
+~
+You show your disapproval.
+~
+~
+%TU shows %PU disapproval.
+~
+~
+You should have known better!
+~
+~
+%TU decides against %PU own plan.
+~
+~
+You show %PT your disapproval.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shows %TT %PU disapproval.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shows you %PU disapproval.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"thumbsup":"thumbsup
+thumbs_up
+thumbs_up
+thumbs_up
+~
+You show your approval.
+~
+~
+%TU shows %PU approval.
+~
+~
+Life is pretty good after all!
+~
+~
+%TU decides that life is good after all!
+~
+~
+You show %PT your approval.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shows %TT %PU approval.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shows you %PU approval.
+~
+~
+~
+~
+~
+~
+~
+~",		"thumbup":"thumbup
+thumb_up
+thumb_up
+thumb_up
+~
+You show your approval.
+~
+~
+%TU shows %PU approval.
+~
+~
+Life is pretty good after all!
+~
+~
+%TU decides that life is good after all!
+~
+~
+You show %PT your approval.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shows %TT %PU approval.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shows you %PU approval.
+~
+~
+~
+~
+~
+~
+~
+~",		"thumbdown":"thumbdown
+thumb_down
+thumb_down
+thumb_down
+~
+You show your disapproval.
+~
+~
+%TU shows %PU disapproval.
+~
+~
+You should have known better!
+~
+~
+%TU decides against %PU own plan.
+~
+~
+You show %PT your disapproval.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shows %TT %PU disapproval.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shows you %PU disapproval.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"shoo":"shoo
+shoo
+~
+shoo
+~
+You ask everyone to just leave.
+~
+~
+%TU asks everyone to please leave!.
+~
+~
+You're asking yourself to leave?
+~
+~
+%TU asks %OUself to leave.
+~
+~
+You tell %OT to leave.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells %TT to leave immediately.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU would like you to leave immediately!.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"rude":"rude
+rude
+~
+rude
+~
+You offer an unknown salute.
+~
+~
+%TU produces an unknown salute.
+~
+~
+You give yourself a rude gesture.
+~
+~
+%TU gives %OUself a rude gesture.
+~
+~
+You give %TT an unknown salute.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT an unknown salute.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you an unknown salute.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"paper":"paper
+paper
+paper
+paper
+~
+You choose paper!.
+~
+~
+%TU chooses paper.
+~
+~
+You choose paper. Paper wins against nothing..
+~
+~
+%TU chooses paper.
+~
+~
+You choose paper.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU chooses paper.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU chooses paper.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"model":"model
+model
+model
+model
+~
+You model your new outfit- so nice!
+~
+~
+%TU models %OU outfit.  Very nice!
+~
+~
+You model your clothing for yourself, but there is no mirror here!
+~
+~
+%TU models for %OUself, wishing for a mirror.
+~
+~
+You model for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU models for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU models for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"mock":"mock
+mock
+mock
+mock
+~
+You mock the chattering of the crowd.
+~
+~
+%TU mocks the chattering of the crowd.
+~
+~
+You mock your own blabbering.
+~
+~
+%TU mocks %PU own blabbering.
+~
+~
+You mock %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mocks %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mocks you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"loser":"loser
+loser
+loser
+loser
+~
+You let everyone know that you are the champion, and they are not.
+~
+~
+%TU lifts %PU hand and declares everyone the loser.
+~
+~
+Oh no, you've lost again.
+~
+~
+%TU declares %OUself the loser.
+~
+~
+You think %TT is a loser.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks %TT is a loser.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks you are a loser.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"kisscheek":"kisscheek
+kisscheek
+hug_self
+kisscheek
+~
+You kiss anyone who might be in front of you.
+~
+~
+%TU kisses the general area on the cheek.
+~
+~
+You kiss yourself.
+~
+~
+%TU kisses %OUself.
+~
+~
+You give %TT a friendly kiss on the cheek.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU kisses %TT on the cheek.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a friendly kiss on the cheek.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"lives":"lives
+he_lives
+~
+he_lives
+~
+You decide to let them live.
+~
+~
+%TU declares that you will all live, for now.
+~
+~
+You contemplate the meaning of life.
+~
+~
+%TU contemplates the meaning of life.
+~
+~
+You decide that %TT will live, for now...
+~
+~
+~
+~
+~
+~
+~
+~
+%TU decides that %TT will live, for now...
+~
+~
+~
+~
+~
+~
+~
+~
+%TU allows you to live, for now...
+~
+~
+~
+~
+~
+~
+~
+~
+",		"dies":"dies
+he_dies
+~
+he_dies
+~
+Death to all of them!
+~
+~
+%TU declares that you all will die!
+~
+~
+You contemplate the meaning of life.
+~
+~
+%TU contemplates the meaning of life.
+~
+~
+You grimly dictate the fate of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grimly dictates the fate of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grimly dictates your fate.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flipcoin":"flipcoin
+flipcoin
+flipcoin
+flipcoin
+~
+You flip a coin.
+~
+~
+%TU flips a coin.
+~
+~
+You flip a coin.
+~
+~
+%TU flips a coin.
+~
+~
+You flip %TT for it.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flips %TT for it.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flips you for it.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"petlow":"petlow
+pet_creature_low
+~
+pet_low
+~
+You reach down and pet... what is that you're petting?.
+~
+~
+%TU reaches down and pets nothing.
+~
+~
+You pet yourself.
+~
+~
+%TU pets %OUself.
+~
+~
+You pet %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pets %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pets you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pethigh":"pethigh
+pet_creature_high
+~
+pet_high
+~
+You reach up and pet... what is that you're petting?.
+~
+~
+%TU reaches up and pets nothing.
+~
+~
+You pet yourself.
+~
+~
+%TU pets %OUself.
+~
+~
+You pet %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pets %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pets you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"wtg":"wtg
+shakefist
+pat
+fakepunch
+~
+Way to go!
+~
+~
+%TU cheers the group- way to go!.
+~
+~
+You think you did a great job.
+~
+~
+%TU pat's %OUself on the shoulder for a job well done.
+~
+~
+You tell %OT way to go!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU congratulates %TT for a job well done.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU congratulates you for a job well done- way to go!.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"payup":"payup
+expect_tip
+~
+expect_tip
+~
+You expect to be reimbursed!
+~
+~
+%TU wants to get paid!
+~
+~
+Did you really owe yourself?
+~
+~
+%TU owes %OUself some money.
+~
+~
+You ask %OT to pay up!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU asks %TT to pay up!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU would like you to pay what you owe.
+~
+~
+~
+~
+~
+~
+~
+~",		"makeroom":"makeroom
+makeroom
+makeroom
+makeroom
+~
+Hey everybody, make room!
+~
+~
+%TU wants everyone to make room!
+~
+~
+You make a little room for yourself.
+~
+~
+%TU makes a little room for %OUself. 
+~
+~
+You tell %TT to make some room!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells %TT to make some room.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wants you to make room.
+~
+~
+~
+~
+~
+~
+~
+~",		"cuckoo":"cuckoo
+cuckoo
+cuckoo
+cuckoo
+~
+These people are cuckoo.
+~
+~
+%TU thinks you people are cuckoo.
+~
+~
+You just realized that you are cuckoo.
+~
+~
+%TU calls %OUself cuckoo.
+~
+~
+You think %TT is cuckoo.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks %TT is completely cuckoo!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks you are cuckoo.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"choppedliver":"choppedliver
+~
+~
+~
+~
+You wonder what is wrong with you.  Are you chopped liver?
+~
+~
+%TU can't figure out what is wrong with %OUself.
+~
+~
+What am I?  Chopped liver?
+~
+~
+%TU wonders what is wrong with %OUself.
+~
+~
+You ask %TT if you are chopped liver.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU asks %TT something about chopped liver.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wonders  what  you think is wrong with %ST.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bump":"bump
+~
+~
+~
+~
+You offer an open invitation for bumping.
+~
+~
+%TU bumps the general area.
+~
+~
+You bump with yourself.
+~
+~
+%TU bumps with %OUself.
+~
+~
+You bump with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bumps with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bumps you lovingly
+~
+~
+~
+~
+~
+~
+~
+~
+",		"airguitar":"airguitar
+airguitar
+airguitar
+~
+~
+You rock the crowd.
+~
+~
+%TU rocks the room!
+~
+~
+You rock out.
+~
+~
+%TU rocks %OUself into a frenzy.
+~
+~
+You rock out for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rocks out for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rocks out for you!
+~
+~
+~
+~
+~
+~
+~
+~",		"hot":"hot
+2hot4u
+smackbottom
+point_accusingly
+~
+You are too hot!.
+~
+~
+%TU is too hot for this place!
+~
+~
+You're just too hot!
+~
+~
+%TU is having a moment with %OUself.
+~
+~
+You are too hot for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU is too hot for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU is too hot for you!
+~
+~
+~
+~
+~
+~
+~
+~",		"combarea":"combarea
+search
+search
+search
+~
+Looking for something? You comb the area.
+~
+~
+%TU combs the area. Apparently, %SU is searching for something.
+~
+~
+There you are!
+~
+~
+%TU combs the area searching for %OUself.
+~
+~
+You comb the area searching for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU combs the area searching for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU combs the area looking for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pshrug":"pshrug
+shrug_hands
+shrug_shoulders
+shrug_hands
+~
+You shrug philosophically.
+~
+~
+%TU shrugs philosophically.
+~
+~
+You shrug your shoulders philosophically.
+~
+~
+%TU shrugs %PU shoulders philosophically.
+~
+~
+You shrug philosophically at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shrugs philosophically at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shrugs philosophically at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"callstop":"callstop
+stop
+stop
+stop
+~
+Everybody stop!
+~
+~
+Everybody stop!
+~
+~
+You bravely try to stop the onrushing world.
+~
+~
+%TU bravely tries to stop the onrushing world.
+~
+~
+You order %TT to stop.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU orders %TT to stop.
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU orders you to stop.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"slit":"slit
+slit_throat
+slit_throat
+slit_throat
+~
+Someone's gonna die.
+~
+~
+%TU thinks someone's gonna die.
+~
+~
+You think you're not long for this world.
+~
+~
+%TU thinks %SU's not long for this world.
+~
+~
+You don't think %TT is long for this world.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU doesn't think %TT is long for this world.
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU doesn't think you're long for this world.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"fistpalm":"fistpalm
+pound_fist_palm
+pound_fist_palm
+pound_fist_palm
+~
+You pound your fist into your palm. Curses!
+~
+~
+%TU pounds %PU fist into %PU palm, cursing.
+~
+~
+You slam your palm with your fist, muttering under your breath.
+~
+~
+%TU slams %PU palm into %PU fist, muttering under %PU breath.
+~
+~
+You slam your palm with your fist, muttering under your breath about %TT's idiocy.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU slams %PU palm into %PU fist, muttering under %PU breath about %TT's idiocy.
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU slams %PU palm into %PU fist, muttering under %PU breath about your idiocy.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pound":"pound
+pound_fist_chest
+pound_fist_chest
+pound_fist_chest
+~
+You pound on your chest!
+~
+~
+%TU pounds on %PU chest!
+~
+~
+You pound on your chest, daring anyone to take you on.
+~
+~
+%TU pounds on %PU chest, daring anyone to take %OU on.
+~
+~
+You pound your chest. Will %TT take you on?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU turns to %TT and pounds %PU chest. Will %TT take %OU on? 
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU turns to you and pounds %PU chest. Will you take %OU on?.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"chestpound":"chestpound
+pound_fist_chest
+pound_fist_chest
+pound_fist_chest
+~
+You pound on your chest!
+~
+~
+%TU pounds on %PU chest!
+~
+~
+You pound on your chest, daring anyone to take you on.
+~
+~
+%TU pounds on %PU chest, daring anyone to take %OU on.
+~
+~
+You pound your chest. Will %TT take you on?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU turns to %TT and pounds %PU chest. Will %TT take %OU on? 
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU turns to you and pounds %PU chest. Will you take %OU on?.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"up":"up
+point_up
+point_up
+point_up
+~
+You point up.
+~
+~
+%TU points up.
+~
+~
+You point up.
+~
+~
+%TU points up.
+~
+~
+You turn to %TT and point up.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU turns to %TT and points up. 
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU turns to you and points up.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pointup":"pointup
+point_up
+point_up
+point_up
+~
+You point up.
+~
+~
+%TU points up.
+~
+~
+You point up.
+~
+~
+%TU points up.
+~
+~
+You turn to %TT and point up.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU turns to %TT and points up. 
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU turns to you and points up.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"right":"right
+point_right
+point_right
+point_right
+~
+You point right.
+~
+~
+%TU points right.
+~
+~
+You point right.
+~
+~
+%TU points right.
+~
+~
+You turn to %TT and point right.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU turns to %TT and points right. 
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU turns to you and points right.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pointright":"pointright
+point_right
+point_right
+point_right
+~
+You point right.
+~
+~
+%TU points right.
+~
+~
+You point right.
+~
+~
+%TU points right.
+~
+~
+You turn to %TT and point right.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU turns to %TT and points right. 
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU turns to you and points right.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"left":"left
+point_left
+point_left
+point_left
+~
+You point left.
+~
+~
+%TU points left.
+~
+~
+You point left.
+~
+~
+%TU points left.
+~
+~
+You turn to %TT and point left.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU turns to %TT and points left. 
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU turns to you and points left.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pointleft":"pointleft
+point_left
+point_left
+point_left
+~
+You point left.
+~
+~
+%TU points left.
+~
+~
+You point left.
+~
+~
+%TU points left.
+~
+~
+You turn to %TT and point left.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU turns to %TT and points left. 
+~ 
+~
+~
+~
+~
+~
+~
+~
+%TU turns to you and points left.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pointat":"pointat
+point_forward
+point_to_self
+point_forward
+~
+You point the way.
+~
+~
+%TU points the way.
+~
+~
+You point at yourself.
+~
+~
+%TU points at %OUself.
+~
+~
+You point at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU points at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU points at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"down":"down
+point_down
+point_down
+point_down
+~
+You point at the ground.
+~
+~
+%TU points at the ground.
+~
+~
+You're staying right here!
+~
+~
+%TU is staying right here!
+~
+~
+You tell %TT to stay right here.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells %TT to stay right here.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells you to stay right here.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pointdown":"pointdown
+point_down
+point_down
+point_down
+~
+You point at the ground.
+~
+~
+%TU points at the ground.
+~
+~
+You're staying right here!
+~
+~
+%TU is staying right here!
+~
+~
+You tell %TT to stay right here.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells %TT to stay right here.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells you to stay right here.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"anxious":"anxious
+nervous
+nervous
+nervous
+~
+You feel anxious.
+~
+~
+%TU fidgets anxiously.
+~
+~
+You look around anxiously.
+~
+~
+%TU looks around anxiously.
+~
+~
+You look anxiously at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks anxiously at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks anxiously at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"attend":"attend
+listen
+listen
+listen
+~
+You listen hard.
+~
+~
+%TU listens hard.
+~
+~
+You listen to something only you can hear.
+~
+~
+%TU listens to something only %SU can hear.
+~
+~
+You listen to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU listens to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to hear you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"demure":"demure
+face_shy
+face_shy
+face_shy
+~
+You blush shyly.
+~
+~
+%TU blushes shyly.
+~
+~
+You blush, smiling secretly.
+~
+~
+%TU blushes, smiling secretly.
+~
+~
+You blush shyly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blushes shyly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blushes shyly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"contemplate":"contemplate
+face_pensive
+face_pensive
+face_pensive
+~
+You contemplate.
+~
+~
+%TU contemplates.
+~
+~
+You contemplate your future.
+~
+~
+%TU contemplates %PU future.
+~
+~
+You contemplate %TT's future.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU contemplates %TT's future.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU contemplates your future.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"closeeyes":"closeeyes
+face_close_eyes
+face_close_eyes
+face_close_eyes
+~
+You close your eyes for a moment.
+~
+~
+%TU closes %PU eyes for a moment.
+~
+~
+You close your eyes for a moment, thinking.
+~
+~
+%TU closes %PU eyes for a moment, thinking.
+~
+~
+You close your eyes, unwilling to look at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU closes %PU eyes, unwilling to look at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU closes %PU eyes, unwilling to look at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"knockwood":"knockwood
+door_knock
+door_knock
+door_knock
+~
+You knock.
+~
+~
+%TU knocks.
+~
+~
+You knock on wood.
+~
+~
+%TU knocks on wood.
+~
+~
+You knock on %TT's head.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU knocks on %TT's head.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU knocks %PU on your head. Hello?
+~
+~
+~
+~
+~
+~
+~
+~
+",		"eyeroll":"eyeroll
+face_eye_roll
+face_eye_roll
+face_eye_roll
+~
+You roll your eyes.
+~
+~
+%TU rolls %PU eyes.
+~
+~
+You roll your eyes and they fall back into your skull.
+~
+~
+%TU rolls %PU eyes and they fall back into %PU skull.
+~
+~
+You roll your eyes at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rolls %PU eyes at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rolls %PU eyes at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"scowl":"scowl
+face_scowl
+face_scowl
+face_scowl
+~
+You scowl.
+~
+~
+%TU scowls .
+~
+~
+You scowl at yourself.
+~
+~
+%TU scowls at %OUself.
+~
+~
+You scowl at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU scowls at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU scowls at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sneer":"sneer
+face_sneer
+face_sneer
+face_sneer
+~
+You sneer.
+~
+~
+%TU sneers.
+~
+~
+You sneer at the thought.
+~
+~
+%TU sneers at the thought.
+~
+~
+You sneer at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sneers at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sneers at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"snog":"snog
+~
+~
+~
+~
+Desperate, huh?
+~
+~
+%TU looks around desperately, hoping to be snogged.
+~
+~
+You attempt snogging yourself.
+~
+~
+%TU tries to snog %OUself.
+~
+~
+You attempt to engage in some serious snogging with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU moves in for some serious snogging with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+WHOA! %TU is attempting to engage in some serious snogging with you!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"yes":"yes
+nod_head_once
+nod_head_multiple
+nod_head_once
+~
+You nod affirmatively. Yes.
+~
+~
+%TU nods affirmatively.
+~
+~
+You nod at yourself agreeingly.
+~
+~
+%TU nods at %OUself agreeingly.
+~
+~
+You nod affirmatively to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU nods affirmatively at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU nods affirmatively at you.
+~
+~
+~
+~
+~
+~
+~
+~",		"mercy":"mercy
+beg
+beg
+implore
+~
+You appeal for mercy.
+~
+~
+%TU appeals for mercy.
+~
+~
+You appeal to your merciful side.
+~
+~
+%TU appeals to %PU merciful side.
+~
+~
+You beg for mercy from %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU begs for mercy from you.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU begs for mercy from %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"rubnose":"rubnose
+~
+~
+~
+~
+You rub your nose.
+~
+~
+%TU rubs %PU nose.
+~
+~
+You rub your nose on your sleeve.
+~
+~
+%TU rubs %PU nose on %PU sleeve.
+~
+~
+You rub noses with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rubs noses with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rubs noses with you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bow3":"bow3
+bow4
+bow4
+bow4
+~
+You bow.
+~
+~
+%TU bows.
+~
+~
+You gracefully perform a flourished bow.
+~
+~
+%TU gracefully performs a flourished bow.
+~
+~
+You bow to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bow2":"bow2
+bow3
+bow3
+bow3
+~
+You bow.
+~
+~
+%TU bows.
+~
+~
+You gracefully perform a flourished bow.
+~
+~
+%TU gracefully performs a flourished bow.
+~
+~
+You bow to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bow4":"bow4
+bow5
+bow5
+bow5
+~
+You bow.
+~
+~
+%TU bows.
+~
+~
+You gracefully perform a flourished bow.
+~
+~
+%TU gracefully performs a flourished bow.
+~
+~
+You bow to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"zone":"zone
+~
+~
+~
+~
+You zone out.
+~
+~
+%TU zones out.
+~
+~
+You zone out and ignore your surroundings.
+~
+~
+%TU zones out and ignores %PU surroundings.
+~
+~
+You zone out and ignore %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU zones out and ignores %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU zones out and ignores you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"zip":"zip
+shush
+~
+shush
+~
+You zip your lips.
+~
+~
+%TU zips %PU lips.
+~
+~
+You check your zipper to make sure it's closed.
+~
+~
+%TU checks %PU zipper to make sure it is closed.
+~
+~
+You instruct %TT to zip %PT lips.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU instructs %TT to zip %PT lips.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU instructs you to zip your lips.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"yawn":"yawn
+yawn
+yawn
+yawn
+~
+YAAAWWWNN!
+~
+~
+%TU yawns.
+~
+~
+You try to hide a yawn.
+~
+~
+%TU tries to hide a yawn.
+~
+~
+You yawn at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU yawns at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU yawns at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"wrinkle":"wrinkle
+face_grimace
+face_grimace
+face_grimace
+~
+You wrinkle your nose and make a sour face.
+~
+~
+%TU wrinkles %PU nose and makes a sour face.
+~
+~
+You wrinkle your nose at yourself.
+~
+~
+%TU wrinkles %PU nose at %OUself.
+~
+~
+You wrinkle your nose at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wrinkles %PU nose at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wrinkles %PU nose at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"wink":"wink
+face_wink
+face_wink
+face_wink
+~
+Wink.
+~
+~
+%TU winks.
+~
+~
+You wink suggestively.
+~
+~
+%TU winks suggestively.
+~
+~
+You wink suggestively at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU winks suggestively at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU winks suggestively at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"wince":"wince
+face_scowl
+face_scowl
+face_scowl
+~
+You wince.
+~
+~
+%TU winces.
+~
+~
+You wince in pain.
+~
+~
+%TU winces in pain.
+~
+~
+You wince at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU winces at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU winces at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"whistle":"whistle
+~
+~
+~
+~
+You whistle innocently.
+~
+~
+%TU whistles innocently.
+~
+~
+You whistle a chipper tune.
+~
+~
+%TU whistles a chipper tune.
+~
+~
+You whistle appreciatively at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU whistles appreciatively at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU whistles appreciatively at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"whisper":"whisper
+whisper
+whisper
+whisper
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+%TU whispers to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+",		"whimper":"whimper
+~
+~
+~
+~
+You whimper.
+~
+~
+%TU whimpers.
+~
+~
+You whimper softly to yourself.
+~
+~
+%TU whimpers softly to %OUself.
+~
+~
+You whimper softly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU whimpers softly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU whimpers softly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"whap":"whap
+~
+smack_self
+~
+~
+You whap everyone.
+~
+~
+%TU whaps everyone.
+~
+~
+You whap yourself repeatedly.
+~
+~
+%TU whaps %OUself repeatedly.
+~
+~
+You whap %OT upside the head.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU whaps %TT upside the head.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU whaps you upside the head.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"welcome":"welcome
+wave2
+~
+wave2
+~
+WELCOME ALL!
+~
+~
+%TU welcomes everyone.
+~
+~
+You welcome yourself.
+~
+~
+%TU welcomes %OUself.
+~
+~
+Welcome, %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU welcomes %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU welcomes you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"wave":"wave
+wave2
+wave_hail
+wave2
+~
+You wave.
+~
+~
+%TU waves.
+~
+~
+You wave to yourself.
+~
+~
+%TU waves to %OUself.
+~
+~
+You wave to %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU waves to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU waves to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"ward":"ward
+~
+~
+taunt2
+~
+STAY AWAY!
+~
+~
+%TU makes warding signs at everyone.
+~
+~
+Superstitious? You rub a charm to ward off misfortune.
+~
+~
+%TU rubs a charm to ward off misfortune.
+~
+~
+You make warding signs at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU makes warding signs at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU makes warding signs at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"wait":"wait
+~
+~
+~
+~
+You wait.
+~
+~
+%TU waits.
+~
+~
+WAIT UP!
+~
+~
+WAIT UP! %TU is almost good to go.
+~
+~
+You wait on %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU is waiting on %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU is waiting on you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"waft":"waft
+waft
+waft
+waft
+~
+You try to waft the stench away.
+~
+~
+%TU tries to waft the stench away.
+~
+~
+Taking a bath might help!
+~
+~
+%TU tries to waft %PU own funk away.
+~
+~
+You try to keep %PT stench away.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wafts the air, trying to avoid %TT's odor.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wafts the air, trying to keep your odor away.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"veto":"veto
+~
+~
+~
+~
+VETO!
+~
+~
+%TU vetoes that!
+~
+~
+You veto your own idea.
+~
+~
+%TU vetoes %PU own idea.
+~
+~
+You veto %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU vetoes %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU vetoes you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"uncle":"uncle
+~
+~
+~
+~
+UNCLE!! UNCLE!!
+~
+~
+%TU begs for mercy. UNCLE!!
+~
+~
+Say Uncle! Say Uncle!
+~
+~
+%TU offers mercy. Just say "Uncle".
+~
+~
+You beg %OT to stop. UNCLE!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU begs %TT to stop. UNCLE!
+~
+~
+~
+~
+~
+~
+~
+~
+UNCLE! %TU begs you to stop.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"twitch":"twitch
+twitch
+twitch
+twitch
+~
+You twitch.
+~
+~
+%TU twitches.
+~
+~
+You twitch nervously.
+~
+~
+%TU twitches nervously.
+~
+~
+You twitch at %PT comments.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twitches at %TT's comments.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twitches at your comments.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"twistarm":"twistarm
+~
+~
+~
+~
+OK. OK. Twist my arm.
+~
+~
+%TU concedes to the arm twisting.
+~
+~
+Twist it just a bit more!
+~
+~
+%TU is about to give in! Twist %PU arm just a bit more!
+~
+~
+You twist %PT arm.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twists %TT's arm.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twists your arm.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"twirl":"twirl
+~
+~
+~
+~
+You twirl around gracefully.
+~
+~
+%TU twirls around gracefully.
+~
+~
+You put a finger on top of your head and twirl like a dancer.
+~
+~
+%TU puts a finger on top of %PU head and twirls like a dancer.
+~
+~
+You twirl %OT around gracefully.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twirls %TT around gracefully.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twirls you around gracefully.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"twiddle":"twiddle
+~
+~
+~
+~
+You twiddle your thumbs.
+~
+~
+%TU twiddles %PU thumbs.
+~
+~
+You patiently twiddle your thumbs.
+~
+~
+%TU patiently twiddles %PU thumbs.
+~
+~
+You twiddle your thumbs at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twiddles %PU thumbs at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twiddles %PU thumbs at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"twibble":"twibble
+~
+~
+~
+~
+Twibble. Twibble.
+~
+~
+%TU twibbles around aimlessly.
+~
+~
+You twibble about in circles.
+~
+~
+%TU twibbles about in circles.
+~
+~
+You twibble aimlessly about %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twibbles aimlessly about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU twibbles aimlessly about you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tweak":"tweak
+~
+~
+~
+~
+You tweak your neck. OUCH!
+~
+~
+%TU tweaks %PU neck. *snap* *crack* *pop*
+~
+~
+You tweak your own nose.
+~
+~
+%TU tweaks %PU own nose.
+~
+~
+You tweak %PT nose.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tweaks %TT's nose.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tweaks your nose.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tug":"tug
+~
+~
+~
+~
+You tug your gear to make sure it is secure.
+~
+~
+%TU tugs %PU gear to make sure it is secure.
+~
+~
+You tug your sleeves and straighten out your clothes.
+~
+~
+%TU tugs %PU sleeves and straightens out %PU clothes.
+~
+~
+You tug on %PT sleeve.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tugs on %TT's sleeve.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tugs on your sleeve.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tsktsk":"tsktsk
+wave_finger_warning
+wave_finger_warning
+wave_finger_warning
+~
+You rub one index finger over the other. Tsk Tsk.
+~
+~
+%TU rubs one index finger over the other. Tsk Tsk.
+~
+~
+You should've known better! Tsk Tsk is right.
+~
+~
+%TU agrees %SU should've known better. Tsk Tsk.
+~
+~
+Tsk Tsk, %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rubs one index finger over the other at %TT. Tsk Tsk.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rubs one index finger over the other at YOU! Tsk Tsk.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"toss":"toss
+~
+~
+~
+~
+You extend your arms like a child wanting to be tossed.
+~
+~
+%TU extends %PU arms like a child wanting to be tossed.
+~
+~
+You toss yourself into the air and land flat on your face.
+~
+~
+%TU tosses %OUself into the air and lands flat on %PU face.
+~
+~
+You toss %OT into the air.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tosses %TT into the air.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tosses you into the air. WHEE!!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tongue":"tongue
+~
+~
+~
+~
+You stick your tongue out.
+~
+~
+%TU sticks %PU tongue out.
+~
+~
+You stick your tongue out and try to touch your nose.
+~
+~
+%TU sticks %PU tongue out and tries to touch %PU nose.
+~
+~
+You stick your tongue out at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sticks %PU tongue out at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sticks %PU tongue out at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tmi":"TMI
+taunt2
+~
+taunt2
+~
+TOO MUCH INFO!!
+~
+~
+%TU proclaims that was TOO MUCH INFO!!
+~
+~
+Sorry everyone! TMI!
+~
+~
+Sorry everyone! %TU apologizes for %PU TMI offense.
+~
+~
+You politely inform %OT that was too much info.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU brands %TT a TMI offender.
+~
+~
+~
+~
+~
+~
+~
+~
+TMI! That was too much info! Or so %TU says.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tiptoe":"tiptoe
+~
+~
+~
+~
+You tiptoe though the area.
+~
+~
+%TU tiptoes through the area.
+~
+~
+You practice tiptoeing silently.
+~
+~
+%TU practices tiptoeing silently.
+~
+~
+You try to tiptoe past %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to tiptoe past %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to tiptoe past you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tiphat":"tiphat
+tiphat
+~
+tiphat
+~
+You tip your hat.
+~
+~
+%TU tips %PU hat.
+~
+~
+You tip your hat to yourself.
+~
+~
+%TU tips %PU hat to %OUself.
+~
+~
+You tip your hat to %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tips %PU hat to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tips %PU hat to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tiny":"tiny
+tiny
+tiny
+tiny
+~
+You mark an approximation with your forefinger and thumb. It was tiny.
+~
+~
+%TU marks an approximation with %PU forefinger and thumb. It was tiny.
+~
+~
+You guess that it would be tiny.
+~
+~
+%TU guesses it would be tiny.
+~
+~
+You indicate to %TT with your forefinger and thumb that it was tiny.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to %TT with %PU forefinger and thumb that it was tiny.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to you with %PU forefinger and thumb that it was tiny.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tickle":"tickle
+tickle
+~
+tickle
+~
+Time for the feather tickle torture?
+~
+~
+%TU pulls a long feather from %PU pack.
+~
+~
+You tickle yourself.
+~
+~
+%TU tickles %OUself.
+~
+~
+You tickle %OT mercilessly.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tickles %TT mercilessly.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tickles you mercilessly.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"thxinfo":"thxinfo
+~
+~
+~
+~
+THX INFO!
+~
+~
+%TU thanks everyone for the information.
+~
+~
+k.thxinfo.byebye now.
+~
+~
+%TU appreciated that sharing of information. NOT!
+~
+~
+You thank %OT for the information.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thanks %TT for the information.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thanks you for the information.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"throwdown":"throwdown
+throwdown
+throwdown
+throwdown
+~
+You throw down the gauntlet.
+~
+~
+%TU throws down the gauntlet.
+~
+~
+There can only be one!
+~
+~
+%TU throws down the gauntlet and wonders if anyone will take %PU challenge.
+~
+~
+You throw down the gauntlet at %PT feet.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU throws down the gauntlet at %TT's feet.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU throws down the gauntlet at your feet.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"throwat":"throwat
+throwat
+~
+throwat
+~
+You throw pebble-sized stones, aimlessly passing the time.
+~
+~
+%TU throws pebble-sized stones, aimlessly passing the time.
+~
+~
+You throw yourself at the enemy.
+~
+~
+%TU throws %OUself at the enemy.
+~
+~
+You throw %TT at the enemy.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU throws %TT at the enemy.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU throws you at the enemy.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"thirst":"thirst
+~
+~
+~
+~
+Feeling parched?
+~
+~
+%TU is parched.
+~
+~
+You feel so thirsty and beg for a drink.
+~
+~
+%TU looks parched and begs for a drink.
+~
+~
+You beg %TT for a drink.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU begs %TT for a drink.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU begs you for a drink.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"thank":"thank
+thank
+~
+thank
+~
+You thank everyone.
+~
+~
+%TU thanks everyone.
+~
+~
+You thank yourself.
+~
+~
+%TU thanks yourself.
+~
+~
+You thank %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thanks %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thanks you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tease":"tease
+~
+hair_flip
+taunt3
+~
+Just teasing!
+~
+~
+%TU was just teasing.
+~
+~
+You tease your hair.
+~
+~
+%TU teases %PU hair.
+~
+~
+You tease %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU teases %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU teases you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"provoke":"provoke
+taunt3
+taunt2
+taunt1
+~
+Neener Neener!
+~
+~
+%TU taunts everyone. Neener Neener!
+~
+~
+You taunt yourself and succeed in getting upset.
+~
+~
+%TU taunts %OUself and succeeds in getting upset.
+~
+~
+You taunt %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU taunts %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU taunts you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tap":"tap
+tap_foot
+tap_foot
+tap_foot
+~
+You tap your foot impatiently.
+~
+~
+%TU taps %PU foot impatiently.
+~
+~
+You tap your fingers on the table.
+~
+~
+%TU taps %PU fingers on the table.
+~
+~
+You tap %TT on %PT shoulder.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU taps %TT on %PT shoulder.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU taps you on the shoulder.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tantrum":"tantrum
+stamp_feet
+stamp_feet
+stamp_feet
+~
+You throw a tantrum.
+~
+~
+%TU throws a tantrum.
+~
+~
+You know you were wrong but throw a fit anyway.
+~
+~
+%TU knows %SU was wrong but throws a fit anyway.
+~
+~
+You throw a tantrum at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU throws a tantrum at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU throws a tantrum at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tag":"tag
+~
+~
+~
+~
+You announce that you are playing tag.
+~
+~
+%TU announce that %SU is playing tag.
+~
+~
+Who's it?
+~
+~
+%TU wonders who is "it".
+~
+~
+TAG! You're it, %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tags %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+TAG! You're it! %TU tags you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"tackle":"tackle
+~
+~
+~
+~
+You hunker down into a three-point stance.
+~
+~
+%TU hunkers down into a three-point stance.
+~
+~
+You tackle yourself to the ground.
+~
+~
+%TU tackles %OUself to the ground.
+~
+~
+You tackle %OT to the ground.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tackles %TT to the ground.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tackles you to the ground.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sweep":"sweep
+~
+~
+~
+~
+You sweep the floor.
+~
+~
+%TU sweeps the floor.
+~
+~
+You try your best to look busy and sweep the floor.
+~
+~
+%TU tries to look busy and sweeps the floor.
+~
+~
+You hand %OT a broom.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hands %TT a broom.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hands you a broom. Get to it!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sweat":"sweat
+sweat
+sweat
+sweat
+~
+You sweat profusely.
+~
+~
+%TU sweats profusely.
+~
+~
+You wipe the sweat from your brow and fling it to the ground.
+~
+~
+%TU wimps the sweat from %PU brow and flings it to the ground.
+~
+~
+You shake your body like a canine sending sweat flying at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shakes %PU body like a canine sending sweat flying at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shakes %PU body like a canine sending sweat flying at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"swat":"swat
+~
+smack_self
+~
+~
+You swat at the air frantically.
+~
+~
+%TU swats at the air frantically.
+~
+~
+You swat yourself.
+~
+~
+%TU swats %OUself.
+~
+~
+You swat %OT like an insect.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU swats %TT like an insect.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU swats you like an insect.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"surrenderself":"surrenderself
+hands_behind_head
+hands_behind_head
+hands_behind_head
+~
+You surrender.
+~
+~
+%TU surrenders.
+~
+~
+You surrender yourself to your base instincts.
+~
+~
+%TU surrenders %OUself to %PU base instincts.
+~
+~
+You concede and surrender to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU concedes and surrenders to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU concedes and surrenders to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"surprised":"surprised
+face_surprised
+face_surprised
+face_surprised
+~
+Surprising, isn't it?
+~
+~
+%TU suddenly looks surprised.
+~
+~
+You look at yourself, completely surprised.
+~
+~
+%TU looks at %OUself, completely surprised.
+~
+~
+You look at %OT, completely surprised.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at %TT, completely surprised.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at you, completely surprised.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"summon":"summon
+beckon
+flex_biceps
+beckon
+~
+You make a summoning gesture.
+~
+~
+%TU makes a summoning gesture.
+~
+~
+You summon all of your strength and courage.
+~
+~
+%TU summons all of %PU strength and courage.
+~
+~
+You summon %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU summons %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU summons you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sulk":"sulk
+face_pout
+face_pout
+face_pout
+~
+You sulk.
+~
+~
+%TU sulks.
+~
+~
+You sulk to yourself.
+~
+~
+%TU sulks to %OUself.
+~
+~
+You sulk at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sulks at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sulks at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"strut":"strut
+strut
+chicken
+strut
+~
+You strut.
+~
+~
+%TU struts.
+~
+~
+You strut about like a lantern bird displaying his feathers.
+~
+~
+%TU struts about like a lantern bird displaying his feathers.
+~
+~
+You strut around %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU struts around %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU struts around you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"stretch":"stretch
+stretch
+stretch
+~
+~
+You stretch.
+~
+~
+%TU stretches.
+~
+~
+You warm up with a few stretching exercises.
+~
+~
+%TU warms up with a few stretching exercises.
+~
+~
+You help %OT stretch.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU helps %TT stretch.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU helps you stretch.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"strangle":"strangle
+strangle_other
+strangle_self
+strangle_other
+~
+You strangle yourself.
+~
+~
+%TU strangles %OUself.
+~
+~
+Your eyes bulges from your skull due to lack of breathable air.
+~
+~
+%TU's eyes bulge from %PU skull due to lack of breathable air.
+~
+~
+You strangle %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU strangles %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU strangles you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"stomp":"stomp
+stamp_feet
+stamp_feet
+stamp_feet
+~
+*STOMP* *STOMP*
+~
+~
+%TU stomps around.
+~
+~
+You stomp around, ready to mosh.
+~
+~
+%TU stomps around, ready to mosh.
+~
+~
+You stomp on %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU stomps on %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU stomps on you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"stink":"stink
+smell_air
+smell_armpit
+point_accusingly
+~
+What is that smell?!
+~
+~
+%TU gets a sour face and wonders what the stink is.
+~
+~
+UGH! You DO stink!
+~
+~
+%TU reeks and knows it.
+~
+~
+That bad huh? Guess so since you just told %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks %TT stinks.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks you stink.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"steam":"steam
+stamp_feet
+stamp_feet
+stamp_feet
+~
+You boil with rage as steam pours from the top of your head.
+~
+~
+%TU boils with rage as steam pours from the top of %PU head.
+~
+~
+You notice that steam is pouring off your body.
+~
+~
+%TU notices that steam is pouring off %PU body.
+~
+~
+You boil over with rage at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU boils over with rage at %TT, as steam pours from %PU ears.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU boils over with rage at you, as steam pours from %PU ears.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"stare":"stare
+~
+~
+~
+~
+You stare blankly into space.
+~
+~
+%TU stares blankly into space.
+~
+~
+You try to stare yourself down and go cross-eyed.
+~
+~
+%TU tries to stare %OUself down and goes cross-eyed.
+~
+~
+You stare at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU stares at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU stares at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"squirm":"squirm
+squirm
+squirm
+squirm
+~
+You squirm.
+~
+~
+%TU squirms.
+~
+~
+You squirm uneasily.
+~
+~
+%TU squirms uneasily.
+~
+~
+You try to squirm away from %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to squirm away from %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to squirm away from you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"squeeze":"squeeze
+~
+~
+~
+~
+You squeeze your emotion management toy.
+~
+~
+%TU squeezes %PU emotion management toy.
+~
+~
+You squeeze yourself.
+~
+~
+%TU squeezes %OUself.
+~
+~
+You squeeze %TT tightly.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU squeezes %TT tightly.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU squeezes you tightly.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"spit":"spit
+~
+~
+~
+~
+You spit.
+~
+~
+%TU spits.
+~
+~
+You spit in your hands and prepare to get down to business.
+~
+~
+%TU spits in %PU hands and prepares to get down to business.
+~
+~
+You spit at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU spits at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU spits at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"spin":"spin
+spin
+spin
+~
+~
+You spin around to see who is behind you.
+~
+~
+%TU spins around to see who is behind %OU.
+~
+~
+You spin around and make yourself dizzy.
+~
+~
+%TU spins around and makes himself dizzy.
+~
+~
+You spin %TT around until %ST is dizzy.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU spins %TT around until %OT is dizzy.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU spins you around until you are dizzy.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"speaknoevil":"speaknoevil
+cover_mouth
+cover_mouth
+cover_mouth
+~
+You cover your mouth.
+~
+~
+%TU covers %PU mouth.
+~
+~
+You stare blankly forward with your hand over your mouth.
+~
+~
+%TU stares blankly forward with %PU hand over %PU mouth.
+~
+~
+You cover your mouth and refuse to speak.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU covers %PU mouth and refuses to speak.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU covers %PU mouth and refuses to speak.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"spam":"spam
+~
+~
+~
+~
+SPAM!
+~
+~
+%TU is sent reeling by the spam!
+~
+~
+You send yourself reeling and your head spinning.
+~
+~
+%TU spams %OUself.
+~
+~
+You tell %OT to QUIT SPAMMING!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells %TT to QUIT SPAMMING!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells you to QUIT SPAMMING!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"softclap":"softclap
+applause_polite
+applause_polite
+applause_polite
+~
+You show your approval with a soft applause.
+~
+~
+%TU shows %PU approval with a soft applause.
+~
+~
+You give yourself a soft applause.
+~
+~
+%TU gives %OUself a soft applause.
+~
+~
+You give %OT an approving, soft applause.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT an approving, soft applause.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you an approving, soft applause.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"soapbox":"soapbox
+soapbox
+~
+~
+~
+You place a soapbox on the ground and offer the use of it.
+~
+~
+%TU places a soapbox on the ground and offers the use of it.
+~
+~
+You place a soapbox on the ground, climb upon it, and begin to speak.
+~
+~
+%TU places a soapbox on the ground, climbs upon it, and begins to speak.
+~
+~
+You try to pull %OT down from %PT soapbox.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to pull %TT down from %PT soapbox.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to pull you down from your soapbox.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"snort":"snort
+~
+~
+~
+~
+SNORT!
+~
+~
+%TU snorts.
+~
+~
+You snort derisively.
+~
+~
+%TU snorts derisively.
+~
+~
+You snort at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snorts at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snorts at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"snore":"snore
+slump_head
+slump_head
+slump_head
+~
+You snore loudly.
+~
+~
+%TU snores loudly.
+~
+~
+You snore softly.
+~
+~
+%TU snores softly.
+~
+~
+You snore loudly at %TT, displaying your boredom.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snores loudly at %TT, displaying %PU boredom.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snores loudly at you, display %PU boredom.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sniffle":"sniffle
+~
+~
+~
+~
+You sniffle.
+~
+~
+%TU sniffles.
+~
+~
+You sniffle to yourself.
+~
+~
+%TU sniffles to %OUself.
+~
+~
+You sniffle at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sniffles at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sniffles at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sniff":"sniff
+~
+~
+~
+~
+You sniff sadly.
+~
+~
+%TU sniffs sadly.
+~
+~
+You sniff sadly to yourself.
+~
+~
+%TU sniffs sadly to %OUself.
+~
+~
+You sniff sadly at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sniffs sadly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sniffs sadly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"snicker":"snicker
+laugh_titter
+laugh_titter
+laugh_titter
+~
+You snicker.
+~
+~
+%TU snickers.
+~
+~
+You snicker at your own evil thoughts.
+~
+~
+%TU snickers at %PU own evil thoughts.
+~
+~
+You snicker at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snickers at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snickers at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sneeze":"sneeze
+sneeze
+sneeze
+sneeze
+~
+AAAAACHOOOO!
+~
+~
+%TU sneezes.
+~
+~
+You sneeze, covering your hands in a mucous substance.
+~
+~
+%TU sneezes, covering %PU hands in a mucous substance.
+~
+~
+You sneeze at %TT, covering %OT with slime.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sneezes at %TT, covering %OT with slime.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sneezes at you, covering you with slime.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"snarl":"snarl
+face_sneer
+face_sneer
+face_sneer
+~
+You snarl, baring your teeth.
+~
+~
+%TU snarls, baring %PU teeth.
+~
+~
+You snarl and grumble surly under your breath.
+~
+~
+%TU snarls and grumbles surly under %PU breath.
+~
+~
+You snarl at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snarls at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snarls at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"snap":"snap
+snap_finger1
+snap_finger2
+snap_finger1
+~
+SNAP!
+~
+~
+%TU snaps.
+~
+~
+Shucks!
+~
+~
+%TU snaps at the missed opportunity.
+~
+~
+You snap beckoningly at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snaps beckoningly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU snaps beckoningly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"smirk":"smirk
+~
+~
+~
+~
+You smirk.
+~
+~
+%TU smirks.
+~
+~
+You smirk at yourself.
+~
+~
+%TU smirks at %OUself.
+~
+~
+You smirk at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU smirks at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU smirks at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"smile":"smile
+face_smile
+face_smile
+face_smile
+~
+You smile.
+~
+~
+%TU smiles.
+~
+~
+You smile at yourself.
+~
+~
+%TU smiles at %OUself.
+~
+~
+You smile at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU smiles at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU smiles at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"smell":"smell
+smell_air
+smell_armpit
+smell_air
+~
+You smell the air.
+~
+~
+%TU smells the air.
+~
+~
+You smell yourself.
+~
+~
+%TU smells %OUself.
+~
+~
+You smell %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU smells %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU smells you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"small":"small
+small
+small
+small
+~
+You hold your hands about 2 fists apart, signifying it was small.
+~
+~
+%TU holds %PU hands about 2 fists apart, signifying it was small.
+~
+~
+You guess that it would be small.
+~
+~
+%TU guesses it would be small.
+~
+~
+You indicate to %TT that it was small.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to %TT that it was small.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to you that it was small.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"slobber":"slobber
+~
+~
+~
+~
+Need a bib?
+~
+~
+%TU slobbers as %SU chews on a pacifier.
+~
+~
+You slobber all over yourself.
+~
+~
+%TU slobbers all over %OUself.
+~
+~
+You slobber all over %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU slobbers all over %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU slobbers all over you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"slap":"slap
+smack_self
+smack_self
+~
+~
+WAKE UP! You slap yourself in the face. *SMACK!*
+~
+~
+%TU looks groggy and slaps %OUself in the face to wake up.
+~
+~
+You slap yourself silly.
+~
+~
+%TU slaps %OUself silly.
+~
+~
+You slap %OT across the face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU slaps %TT across the face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU slaps you across the face.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"skip":"skip
+~
+~
+~
+~
+You skip around the area.
+~
+~
+%TU skips around the area.
+~
+~
+You skip in figure eights.
+~
+~
+%TU skips in figure eights.
+~
+~
+You skip around %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU skips around %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU skips around you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sigh":"sigh
+face_sigh
+face_sigh
+sigh_deeply
+~
+You sigh.
+~
+~
+%TU sighs.
+~
+~
+You sigh with relief.
+~
+~
+%TU gives a sigh of relief.
+~
+~
+You sigh at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sighs at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sighs at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"shush":"shush
+shush
+shush
+shush
+~
+SHUSH!
+~
+~
+%TU tries to quiet everyone down.
+~
+~
+You shush yourself.
+~
+~
+%TU shushes %OUself.
+~
+~
+You quickly shush %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shushes %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shushes you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"shudder":"shudder
+shiver
+shiver
+shiver
+~
+You shudder.
+~
+~
+%TU shudders.
+~
+~
+You shudder at the thought.
+~
+~
+%TU shudders at the thought.
+~
+~
+You shudder at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shudders at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shudders at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"shrug":"shrug
+shrug_hands
+shrug_shoulders
+huh
+~
+You shrug.
+~
+~
+%TU shrugs.
+~
+~
+You shrug your shoulders helplessly.
+~
+~
+%TU shrugs %PU shoulders helplessly.
+~
+~
+You shrug helplessly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shrugs helplessly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shrugs helplessly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"shower":"shower
+~
+~
+~
+~
+You go to take a shower.
+~
+~
+%TU is going to take a shower.
+~
+~
+You shower yourself in water from a jug.
+~
+~
+%TU showers %OUself in water from a jug.
+~
+~
+You politely inform %TT that %ST needs to take a shower.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks %TT needs to take a shower.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks you need to take a shower.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"shiver":"shiver
+shiver
+shiver
+shiver
+~
+You shiver.
+~
+~
+%TU shivers.
+~
+~
+You shiver and rub your arms in an attempt to warm up.
+~
+~
+%TU shivers and rubs %PU arms in an attempt to warm up.
+~
+~
+You shiver at the coldness surrounding %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shivers at the coldness surrounding %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shivers at the coldness surrounding you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"sharpen":"sharpen
+~
+~
+~
+~
+You sharpen your nails.
+~
+~
+%TU sharpens %PU nails.
+~
+~
+You sharpen your teeth with a file.
+~
+~
+%TU sharpens %PU teeth with a file.
+~
+~
+You sharpen a blade menacingly at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sharpens a blade menacingly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sharpens a blade menacingly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"shake":"shake
+shake_head_no
+shake_head_disgust
+shake_head_no
+~
+You shake your head negatively.
+~
+~
+%TU shakes %PU head negatively.
+~
+~
+You shake your head negatively at yourself.
+~
+~
+%TU shakes %PU head negatively at %OUself.
+~
+~
+You shake your head negatively at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shakes %PU head negatively at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shakes %PU head negatively at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"seenoevil":"seenoevil
+~
+~
+~
+~
+SEE NO EVIL!!
+~
+~
+%TU covers %PU eyes.
+~
+~
+You peek through your fingers covering your eyes.
+~
+~
+%TU peeks through %PU fingers covering %PU eyes.
+~
+~
+You peek through your fingers at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU peeks through %PU fingers at %TT
+~
+~
+~
+~
+~
+~
+~
+~
+%TU peeks through %PU fingers at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"scream":"scream
+scream
+scream
+scream
+~
+AAAARRRRRGGGGHHHHH!!!
+~
+~
+%TU screams.
+~
+~
+You scream loudly at yourself in frustration.
+~
+~
+%TU screams loudly at %OUself in frustration.
+~
+~
+You scream with frustration in %PT ear.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU screams with frustration in %TT's ear.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU screams with frustration in your ear.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"scratch":"scratch
+scratch_head
+~
+~
+~
+You scratch an itch.
+~
+~
+%TU scratches an itch.
+~
+~
+You scratch the nape of your neck pensively.
+~
+~
+%TU scratches the nape of %PU neck pensively.
+~
+~
+You scratch %PT back.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU scratches %TT's back.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU scratches your back.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"scold":"scold
+point_accusingly
+smack_self
+point_accusingly
+~
+You produce a measuring stick and brandish it authoritatively.
+~
+~
+%TU produces a measuring stick and brandishes it authoritatively.
+~
+~
+You scold yourself with slap on the hand.
+~
+~
+%TU scolds %OUself with a slap on the hand.
+~
+~
+You scold %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU scolds %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU scolds you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"scared":"scared
+scared
+scared
+taken_aback
+~
+You jump and whip around to face the noise.
+~
+~
+%TU jumps and whips around to face the noise.
+~
+~
+You shrink away, looking very scared.
+~
+~
+%TU shrinks away, looking very scared.
+~
+~
+You shrink away from %TT, looking very scared of %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shrinks away from %TT, looking very scared of %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shrinks away from you, looking very scared.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"scare":"scare
+scare
+~
+scare
+~
+BOO!
+~
+~
+%TU tries to scare everyone. BOO!
+~
+~
+You scare yourself.
+~
+~
+%TU scares %OUself.
+~
+~
+You sneak up and try to scare %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to sneak up and scare %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+BOO! %TU tries to sneak up and scare you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"salute":"salute
+salute1
+salute1
+salute2
+~
+You salute.
+~
+~
+%TU salutes.
+~
+~
+You stand at attention and salute yourself.
+~
+~
+%TU stands at attention and salutes %OUself.
+~
+~
+You salute %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU salutes %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU salutes you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"ruffle":"ruffle
+~
+~
+~
+~
+You look ruffled.
+~
+~
+%TU looks ruffled.
+~
+~
+You ruffle your own hair.
+~
+~
+%TU ruffles %PU own hair.
+~
+~
+You ruffle %PT hair.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU ruffles %TT's hair.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU ruffles your hair.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"rose":"rose
+rose
+~
+rose
+~
+You extend a rose and offer it.
+~
+~
+%TU extends a rose and offers it.
+~
+~
+You give yourself a rose and smell deeply of its scent.
+~
+~
+%TU gives %OUself a rose and smells deeply of its scent.
+~
+~
+You give %TT a rose.  -----`---,---<@
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a rose.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a rose. -----`---,---<@
+~
+~
+~
+~
+~
+~
+~
+~
+",		"rolleyes":"rolleyes
+face_eye_roll
+face_eye_roll
+face_eye_roll
+~
+You roll your eyes.
+~
+~
+%TU rolls %PU eyes.
+~
+~
+You roll your eyes and they fall back into your skull.
+~
+~
+%TU rolls %PU eyes and they fall back into %PU skull.
+~
+~
+You roll your eyes at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rolls %PU eyes at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rolls %PU eyes at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"rofl":"ROFL
+rofl
+rofl
+rofl
+~
+Want a hand getting up?
+~
+~
+%TU rolls on the floor laughing.
+~
+~
+You roll on the floor laughing at yourself.
+~
+~
+%TU rolls on the floor laughing at %OUself.
+~
+~
+You roll on the floor laughing at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rolls on the floor laughing at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU rolls on the floor laughing at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"roar":"roar
+~
+~
+~
+~
+ROOOOOOAAAAARRRRRR!!!!
+~
+~
+%TU ROARS!
+~
+~
+You roar loudly at yourself.
+~
+~
+%TU roars loudly at %OUself.
+~
+~
+You roar loudly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU roars loudly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU roars loudly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"callretreat":"callretreat
+point_away
+point_away
+point_away
+~
+RETREAT!!
+~
+~
+%TU gives the signal to RETREAT!!
+~
+~
+You prepare to retreat.
+~
+~
+%TU prepares to retreat.
+~
+~
+You give %TT the signal to retreat.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT the signal to retreat.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you the signal to retreat.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"reassure":"reassure
+standing_placate
+standing_placate
+standing_placate
+~
+You reassure everyone that it will turn out OK.
+~
+~
+%TU reassures everyone that it will turn out OK.
+~
+~
+You reassure yourself that everything will be OK.
+~
+~
+%TU reassures %OUself that everything will be OK.
+~
+~
+You reassure %OT that everything will be fine.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU reassures %TT that everything will be fine.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU reassures you that everything will be fine.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"ready":"ready
+spit_hands
+~
+~
+~
+READY!
+~
+~
+%TU is ready to go!
+~
+~
+You check to see if you are ready.
+~
+~
+%TU checks to see if %SU is ready.
+~
+~
+I'm ready, %TT!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU lets %TT know that %SU is ready!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU lets you know that %SU is ready!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"raspberry":"raspberry
+taunt3
+taunt3
+taunt3
+~
+You give everyone a raspberry. PFFFFFFTTTT!!
+~
+~
+%TU gives everyone a raspberry, spraying saliva everywhere.
+~
+~
+You give yourself a raspberry.
+~
+~
+%TU gives %OUself a raspberry.
+~
+~
+You give %OT a raspberry.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a raspberry.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a raspberry.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"raise":"raise
+hands_above_head
+hands_above_head
+hands_above_head
+~
+You raise your hand.
+~
+~
+%TU raises %PU hand.
+~
+~
+You raise your hands in the air.
+~
+~
+%TU raises %PU hands in the air.
+~
+~
+You raise %PT hand and declare %OT the victor.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU raises %TT's hand and declares %OT the victor.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU raises your hand and declares you the victor.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"quiet":"quiet
+shush
+shush
+shush
+~
+You hold your finger to your lips, indicating to be quiet.
+~
+~
+%TU holds %PU finger to %PU lips, indicating to be quiet.
+~
+~
+You quiet yourself and place your finger vertically across your lips.
+~
+~
+%TU quiet %OUself and places a finger vertically across %PU lips.
+~
+~
+You hold an extended finger over your lips, indicating to %TT to be quiet.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU holds an extended finger over %PU lips, indicating to %TT to be quiet.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU holds an extended finger over %PU lips, indicating to you to be quiet.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"question":"question
+~
+~
+~
+~
+You question the intent.
+~
+~
+%TU questions the intent.
+~
+~
+You question your own intent.
+~
+~
+%TU questions %PU own intent.
+~
+~
+You question %PT intent.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU questions %TT's intent.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU questions your intent.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"puzzle":"puzzle
+tap_head
+scratch_head
+rub_chin_thoughtful
+~
+You puzzle over the current situation.
+~
+~
+%TU puzzles over the current situation.
+~
+~
+You puzzle over your own thoughts.
+~
+~
+%TU puzzles over %PU own thoughts.
+~
+~
+You puzzle over %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU puzzles over %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU puzzles over you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"push":"push
+refuse_offer_formal
+taunt_2
+taunt_2
+~
+You make a pushing motion as if trying to keep things away from yourself.
+~
+~
+%TU makes pushing motions as if trying to keep things away from %OUself.
+~
+~
+You push yourself to the ground.
+~
+~
+%TU pushes %OUself to the ground.
+~
+~
+You push %OT away.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pushes %TT away.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pushes you away.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"punch":"punch
+~
+~
+~
+~
+You shadow-box.
+~
+~
+%TU shadow-boxes.
+~
+~
+You punch yourself in the face, giving yourself a black eye.
+~
+~
+%TU punches %OUself in the face, giving %OUself a black eye.
+~
+~
+You punch %TT in the face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU punches %TT in the face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU punches you in the face.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pull":"pull
+celebrate1
+celebrate1
+standing_raise_fist
+~
+You call out, "PULL!"
+~
+~
+%TU calls out, "PULL!"
+~
+~
+You raise your hand in the air and pull it back down in a victorious manner.
+~
+~
+%TU raises %PU hand in the air and pulls it back down in a victorious manner.
+~
+~
+You try to pull %OT along.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to pull %TT along.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to pull you along.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"puke":"puke
+heavy_cough_vomit
+heavy_cough_vomit
+heavy_cough_vomit
+~
+You puke.
+~
+~
+%TU pukes.
+~
+~
+You puke all over yourself.
+~
+~
+%TU pukes all over %OUself.
+~
+~
+You puke all over %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pukes all over %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pukes all over you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pucker":"pucker
+face_grimace
+face_grimace
+face_grimace
+~
+You pucker.
+~
+~
+%TU puckers.
+~
+~
+You make a sour face and pucker.
+~
+~
+%TU makes a sour face and puckers.
+~
+~
+You pucker and make "fish faces" at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU puckers and makes "fish faces" at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU puckers and makes "fish faces" at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"protect":"protect
+pose_proudly
+point_to_self
+pose_proudly
+~
+You stand your ground.
+~
+~
+%TU stands %PU ground.
+~
+~
+You indicate that you need protection.
+~
+~
+%TU indicates that %SU needs protection.
+~
+~
+You stand defensively in front of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU stands defensively in front of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU stands defensively in front of you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"prod":"prod
+~
+~
+~
+~
+You extract a nerf prod from your pack and brandish it smugly.
+~
+~
+%TU extracts a nerf prod from %PU pack and brandishes it smugly.
+~
+~
+You prod yourself into action.
+~
+~
+%TU prods %OUself into action.
+~
+~
+You prod %OT, trying to evoke some emotion.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU prods %TT, trying to evoke some emotion.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU prods you, trying to evoke some emotion.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"primp":"primp
+hair_flip
+hair_flip
+hair_flip
+~
+You primp.
+~
+~
+%TU primps.
+~
+~
+You pull a mirror from your pack and primp yourself.
+~
+~
+%TU pulls a mirror from %PU pack and primps %OUself.
+~
+~
+You primp yourself for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU primps %OUself for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU primps %OUself for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"preen":"preen
+hair_flip
+hair_flip
+hair_flip
+~
+You preen.
+~
+~
+%TU preens.
+~
+~
+You preen like a feline.
+~
+~
+%TU preens like a feline.
+~
+~
+You preen gloatingly at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU preens gloatingly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU preens gloatingly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pout":"pout
+face_pout
+face_pout
+face_pout
+~
+You pout.
+~
+~
+%TU pouts.
+~
+~
+You pout at yourself.
+~
+~
+%TU pouts at %OUself.
+~
+~
+You pout at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pouts at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pouts at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"ponder":"ponder
+rub_chin_thoughtful
+rub_chin_thoughtful
+rub_chin_thoughtful
+~
+You ponder.
+~
+~
+%TU ponders.
+~
+~
+You ponder your existence.
+~
+~
+%TU ponders %PU existence.
+~
+~
+You ponder about %OT. Hrmmm.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU ponders about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU ponders about you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"poke":"poke
+poke
+~
+poke
+~
+Poke. Poke.
+~
+~
+%TU systematically pokes everyone in the ribs.
+~
+~
+You poke yourself in the ribs, looking very sheepish.
+~
+~
+%TU pokes %OUself in the ribs, looking very sheepish.
+~
+~
+You poke %OT in the ribs.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pokes %TT in the ribs.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pokes you in the ribs.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"plugnose":"plugnose
+hold_nose
+hold_nose
+hold_nose
+~
+You pinch your nose shut.
+~
+~
+%TU punches %PU nose shut.
+~
+~
+You pinch your nose shut with a clothes pin.
+~
+~
+%TU pinches %PU nose shut with a clothes pin.
+~
+~
+You plug your nose at %TT's stench.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU plugs %PU nose at %TT's stench.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU plugs %PU nose at your stench.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"plugears":"plugears
+cover_ears_mocking
+cover_ears_mocking
+cover_ears_mocking
+~
+You plug your ears.
+~
+~
+%TU plugs %PU ears.
+~
+~
+You stick your fingers in your ears.
+~
+~
+%TU sticks %PU fingers in %PU ears to plug them.
+~
+~
+You plug your ears and try to tune %OT out. LA LA LA LA LA.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU plugs %PU ears and tries to tune %TT out.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU plugs %PU ears and tries to tune you out.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pinch":"pinch
+~
+~
+~
+~
+You make pinching motions like a shenk.
+~
+~
+%TU makes pinching motions like a shenk.
+~
+~
+Are you dreaming?
+~
+~
+%TU pinches %OUself to check if %SU is dreaming.
+~
+~
+You pinch %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pinches %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pinches you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pillow":"pillow
+~
+~
+~
+~
+PILLOW FIGHT!
+~
+~
+%TU pulls out a pillow and starts beating everyone with it.
+~
+~
+You tear up a pillow, sending feathers everywhere.
+~
+~
+%TU tears up a pillow, sending feathers everywhere.
+~
+~
+You throw a pillow at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU throws a pillow at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU throws a pillow at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"peyoo":"peyoo
+hold_nose
+smell_armpit
+wave_on_directing
+~
+PEEEEEYYYOOOO!!
+~
+~
+%TU waves %PU hand in front of %PU nose and complains about the stench.
+~
+~
+You sniff yourself and realize you reek.
+~
+~
+%TU sniffs %PU underarm and gets a sour face at the awful stench.
+~
+~
+You look at %OT with a sour face and try to waft the stench away.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at %TT with a sour face and tries to waft the stench away.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at you with a sour face and tries to waft the stench away.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pet":"pet
+pet_creature_medium
+~
+pet_medium
+~
+You reach out and pet an imaginary creature.
+~
+~
+%TU reaches out and pets an imaginary creature.
+~
+~
+You pet yourself.
+~
+~
+%TU pets %OUself.
+~
+~
+You pet %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pets %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pets you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"peptalk":"peptalk
+standing_raise_fist
+standing_raise_fist
+standing_raise_fist
+~
+GO TEAM!
+~
+~
+%TU gives everyone a pep-talk.
+~
+~
+GO ME!
+~
+~
+%TU gives %OUself a pep-talk.
+~
+~
+You can do it, %TT!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a pep-talk.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a pep-talk.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"peer":"peer
+face_suspicious
+face_squint
+face_squint
+~
+You peer around.
+~
+~
+%TU peers around.
+~
+~
+You peer at yourself.
+~
+~
+%TU peers at %OUself.
+~
+~
+You peer at %TT. What is %ST up to?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU squints %PU eyes and peers at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU squints %PU eyes and peers at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pat":"pat
+~
+pat
+~
+~
+You pat your head.
+~
+~
+%TU pats %PU head.
+~
+~
+You pat yourself on the back.
+~
+~
+%TU pats %OUself on the back.
+~
+~
+You pat %OT on the head.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pats %TT on the head.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pats you on the head.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"pant":"pant
+~
+~
+~
+~
+You pant.
+~
+~
+%TU pants.
+~
+~
+You hang your tongue out and pant like a dog.
+~
+~
+%TU hangs %PU tongue out and pants like a dog.
+~
+~
+You pant at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pants at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pants at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"wildpanic":"wildpanic
+gesticulate_wildly
+gesticulate_wildly
+gesticulate_wildly
+~
+AAAAAAYYYYYYEEEEEEEE!!!
+~
+~
+%TU panics.
+~
+~
+You panic about, waving your hands in the air.
+~
+~
+%TU panics about, waving %PU hands in the air.
+~
+~
+You panic about %TT, waving your hands in the air.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU panics about %TT, waving %PU hands in the air.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU panics about you, waving %PU hands in the air.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"opossum":"opossum
+~
+~
+~
+~
+You play dead.
+~
+~
+%TU plays dead.
+~
+~
+You keel over and play dead.
+~
+~
+%TU keels over and plays dead.
+~
+~
+You look with fear upon %TT, fall to the ground, and play dead.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks upon %TT with fear, falls to the ground, and plays dead.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks upon you with fear, falls to the ground, and plays dead.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"oneknee":"oneknee
+~
+~
+~
+~
+You take a knee.
+~
+~
+%TU takes a knee.
+~
+~
+You take a knee and bow your head.
+~
+~
+%TU takes a knee and bows %PU head.
+~
+~
+You take a knee before %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU takes a knee before %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU takes a knee before you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"omg":"OMG
+cover_mouth
+~
+cover_mouth
+~
+OMG!
+~
+~
+%TU looks shocked and says, "Oh my gosh!"
+~
+~
+You clasp your hand over your forehead and exclaim, "Oh my gosh!"
+~
+~
+%TU clasps %PU hand over %PU forehead and exclaims, "Oh my gosh!"
+~
+~
+Oh my gosh, %TT!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at %TT with a stunned expression and exclaims, "Oh my gosh!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at you with a stunned expression and exclaims, "Oh my gosh!"
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nuzzle":"nuzzle
+~
+hug_self
+accept_affection
+~
+You make a nuzzling motion.
+~
+~
+%TU makes a nuzzling motion.
+~
+~
+You nuzzle yourself.
+~
+~
+%TU nuzzles %OUself.
+~
+~
+You nuzzle %PT neck.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU nuzzles against %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU nuzzles your neck. Feels good, don't it?
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nudge":"nudge
+~
+~
+~
+~
+You nudge everyone.
+~
+~
+%TU nudges everyone.
+~
+~
+You try to nudge yourself.
+~
+~
+%TU tries to nudge %OUself.
+~
+~
+You nudge %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU nudges %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU nudges you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nose":"nose
+smell_air
+smell_air
+smell_air
+~
+You put your nose in the air.
+~
+~
+%TU puts %PU nose in the air.
+~
+~
+You touch the tip of your nose.
+~
+~
+%TU touches the tip of %PU nose.
+~
+~
+You raise your nose at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU raises %PU nose at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU raises %PU nose at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"noogie":"noogie
+~
+~
+~
+~
+You look for a noogie target.
+~
+~
+%TU looks around for a noogie target.
+~
+~
+You give yourself a noogie.
+~
+~
+%TU gives %OUself a noogie.
+~
+~
+You give %OT a noogie.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a noogie.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a noogie.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nono":"nono
+wave_finger_warning
+wave2
+refuse_offer_formal
+~
+You wag your finger as if saying, "No-No".
+~
+~
+%TU wags %PU finger as if saying, "No-No".
+~
+~
+You decline with the shake of an opened hand.
+~
+~
+%TU declines with the shake of an opened hand.
+~
+~
+You wag a finger negatively at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wags a finger negatively at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wags a finger negatively at you. "That is a No-No."
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nod":"nod
+nod_head_once
+nod
+nod 
+~
+You nod.
+~
+~
+%TU nods.
+~
+~
+You nod at yourself reassuringly.
+~
+~
+%TU nods at %OUself reassuringly.
+~
+~
+You nod at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU nods at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU nods at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nelson":"nelson
+~
+~
+~
+~
+You practice your full nelson maneuver.
+~
+~
+%TU practices %PU full nelson maneuver.
+~
+~
+You try to put yourself in a full nelson.
+~
+~
+%TU tries to put %OUself in a full nelson.
+~
+~
+With a single swift move, you put %TT in a full nelson.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU puts %TT in a full nelson.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU puts you in a full nelson.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nausea":"nausea
+face_grimace
+cover_mouth
+face_grimace
+~
+You feel nauseous.
+~
+~
+%TU pales and looks nauseous.
+~
+~
+You suddenly feel nauseous and quickly cover your mouth.
+~
+~
+%TU suddenly pales, looking nauseous, as %SU quickly covers %PU mouth.
+~
+~
+You look at %TT, suddenly feeling nauseous.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at %TT, suddenly looking nauseous.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at you, suddenly looking nauseous. What did you do?
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nap":"nap
+slump_head
+slump_head
+slump_head
+~
+You take a quick nap.
+~
+~
+%TU takes a quick nap.
+~
+~
+You find a nice place to rest and settle in for a quick nap.
+~
+~
+%TU finds a nice place to rest and settles in for a quick nap.
+~
+~
+You curl up in %PT lap and settle in for a catnap.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU curls up in %TT's lap and settles in for a catnap.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU curls up in your lap and settles in for a catnap.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"nails":"nails
+~
+~
+~
+~
+You drag your nails down a stony surface creating an annoying, high-pitched sound.
+~
+~
+%TU drags %PU nails down a stony surface creating an annoying, high-pitched sound.
+~
+~
+You blow on your nails and buff them on your clothes.
+~
+~
+%TU blows on %PU nails and buffs them on %PU clothes.
+~
+~
+You drag the edge of a fingernail down the side of %PT neck.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU drags the edge of a fingernail down the side of %TT's neck.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU drags the edge of a fingernail down the side of your neck.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"mutter":"mutter
+~
+~
+~
+~
+You mutter.
+~
+~
+%TU mutters.
+~
+~
+You mutter about yourself.
+~
+~
+%TU mutters about %OUself.
+~
+~
+You mutter something snide about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mutters something snide about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mutters something snide about you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"mourn":"mourn
+weeping
+weeping
+weeping
+~
+You mourn.
+~
+~
+%TU mourns.
+~
+~
+You mourn the loss of friends.
+~
+~
+%TU mourns the loss of %PU friends.
+~
+~
+You mourn for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mourns %TT's losses.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mourns your losses.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"mosh":"mosh
+~
+~
+~
+~
+You mosh about, bumping into everyone.
+~
+~
+%TU moshes about, bumping into everyone.
+~
+~
+You mosh by yourself, looking quite strange.
+~
+~
+%TU moshes by %OUself, looking quite strange.
+~
+~
+You mosh into %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU moshes in to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU moshes into you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"mope":"mope
+slump_head
+slump_head
+slump_head
+~
+You mope.
+~
+~
+%TU mopes.
+~
+~
+You mope around.
+~
+~
+%TU mopes around.
+~
+~
+You mope about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mopes about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mopes about you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"mirror":"mirror
+~
+~
+~
+~
+You hold up a mirror.
+~
+~
+%TU holds up a mirror.
+~
+~
+You pull a mirror from your pack and check your appearance.
+~
+~
+%TU pulls a mirror from %PU pack and checks %PU appearance.
+~
+~
+You hold up a mirror up for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU holds up a mirror for %TT to look in.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU holds up a mirror up for you to look in. Is %SU trying to say something?
+~
+~
+~
+~
+~
+~
+~
+~
+",		"mimic":"mimic
+~
+~
+~
+~
+You mimic passers-by.
+~
+~
+%TU mimics passers-by.
+~
+~
+You mimic yourself.
+~
+~
+%TU mimics %OUself.
+~
+~
+You mimic %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mimics %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU mimics you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"melt":"melt
+~
+hug_self
+accept_affection
+~
+You melt.
+~
+~
+%TU melts.
+~
+~
+You melt into your own arms.
+~
+~
+%TU melts into %PU own arms.
+~
+~
+You melt into %PT arms.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU melts into %TT's arms.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU melts into your arms.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"medium":"medium
+medium
+medium
+medium
+~
+You spread your arms out a bit and signify a medium size.
+~
+~
+%TU spreads %PU arms out a bit and signifies a medium size.
+~
+~
+You guess that it would be about medium sized.
+~
+~
+%TU guesses that it would be about medium sized.
+~
+~
+You indicate to %TT that it was about medium sized.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to %TT that it was about medium sized.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to you that it was about medium sized.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"manual":"manual
+~
+~
+~
+~
+You produce the manual and suggest a quick read.
+~
+~
+%TU produces the manual and suggests a quick read.
+~
+~
+You refer to the manual.
+~
+~
+%TU refers to the manual.
+~
+~
+You politely suggest reading the manual to %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU directs %TT to the manual and suggests %ST read it.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU directs you to the manual and suggests you read it.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"luck":"luck
+~
+~
+~
+~
+Feeling lucky?
+~
+~
+%TU is feeling lucky!
+~
+~
+You wish yourself the best of luck!
+~
+~
+%TU wishes %OUself the best of luck!
+~
+~
+Good luck, %TT!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wishes %TT good luck!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wishes you good luck!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"love":"love
+accept_affection
+hug_self
+accept_affection
+~
+Ain't love grand?
+~
+~
+Woowoo! %TU is in love!
+~
+~
+You love being you!
+~
+~
+%TU loves being %TU.
+~
+~
+You profess your love to %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU loves %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU loves you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"lost":"lost
+search
+search
+shrug_shoulders
+~
+Lost, eh?
+~
+~
+%TU looks around, seemingly lost.
+~
+~
+You look around, utterly lost.
+~
+~
+Uh-oh! %TU is utterly lost.
+~
+~
+You think %ST is lost, eh?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks %TT is lost.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks you are lost.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"lol":"LOL
+belly_laugh
+belly_laugh
+laugh
+~
+That was funny!
+~
+~
+%TU laughs out loud.
+~
+~
+You try to hold it in, but burst out laughing.
+~
+~
+%TU tries to hold it in, but bursts out laughing.
+~
+~
+You laugh out loud at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU laughs out loud at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU laughs out loud at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"lick":"lick
+~
+~
+~
+~
+You lick your lips.
+~
+~
+%TU licks %PU lips.
+~
+~
+You lick yourself.
+~
+~
+%TU licks %OUself. YUCK!
+~
+~
+You lick %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU licks %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU licks you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"legshake":"legshake
+~
+shiver
+~
+~
+Your legs shake.
+~
+~
+%TU legs shake.
+~
+~
+You shake your leg, as if trying to get something off of it.
+~
+~
+%TU shakes %PU leg, as if trying to get something off of it.
+~
+~
+You try to shake %OT off your leg.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to shake %TT off %PU leg.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to shake you off %PU leg.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"leer":"leer
+face_suspicious
+face_suspicious
+face_suspicious
+~
+You leer enviously at everyone around you.
+~
+~
+%TU leers enviously at everyone around %OU.
+~
+~
+You leer enviously at yourself.
+~
+~
+%TU leers enviously at %OUself.
+~
+~
+You leer enviously at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU leers enviously at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU leers enviously at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"lean":"lean
+~
+~
+~
+~
+You lean forward.
+~
+~
+%TU leans forward.
+~
+~
+You lean up against a wall.
+~
+~
+%TU leans up against a wall.
+~
+~
+You lean on %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU leans on %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU leans on you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"laugh":"laugh
+belly_laugh
+laugh_cackle
+laugh_pointing
+~
+HAHA!!
+~
+~
+%TU laughs.
+~
+~
+You laugh at yourself.
+~
+~
+%TU laughs at %OUself.
+~
+~
+You laugh at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU laughs at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU laughs at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"large":"large
+~
+~
+~
+~
+You spread your arms out some and meter a large-ish size.
+~
+~
+%TU spreads %PU arms out some and meters a large-ish size.
+~
+~
+You guess that it would be large.
+~
+~
+%TU guesses that it would be large.
+~
+~
+You indicate to %TT that it was large.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to %TT that it was large.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to you that it was large.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"lagging":"lagging
+~
+~
+~
+~
+LAAAAAGGGGG!!!
+~
+~
+%TU lags.
+~
+~
+You announce that you are lagging.
+~
+~
+%TU announce that %SU is lagging.
+~
+~
+You point out that %TT is lagging.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU points out that %TT is lagging.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU points out that you are lagging.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"kowtow":"kowtow
+bow3
+bow3
+bow3
+~
+You kowtow.
+~
+~
+%TU kowtows.
+~
+~
+You kowtow to yourself.
+~
+~
+%TU kowtows to %OUself.
+~
+~
+You kowtow before %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU kowtows before %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU kowtows before you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"kiss":"kiss
+kiss_blow_kiss
+hug_self
+kiss_tandem
+~
+You close your eyes and pucker up, ready for a kiss.
+~
+~
+%TU closes %PU eyes and puckers up, ready for a kiss.
+~
+~
+You kiss yourself.
+~
+~
+%TU kisses %OUself.
+~
+~
+You kiss %TT gently on the lips.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU kisses %TT gently on the lips.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU kisses you gently on the lips.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"jump":"jump
+jump
+jump
+~
+~
+BOIING!! You jump high in the air!
+~
+~
+%TU jumps high in the air.
+~
+~
+You try to jump over yourself and land square on your head.
+~
+~
+%TU tries to jump over %OUself and lands square on %PU head.
+~
+~
+You jump up and down on %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU jumps up and down on %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU jumps up and down on you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"jk":"JK
+face_smile
+face_smile
+standing_placate
+~
+HA! Just kidding!
+~
+~
+Calm down! Calm down! %TU was just kidding!
+~
+~
+You let yourself know you were just kidding.
+~
+~
+%TU tells %OUself that %SU was just kidding.
+~
+~
+You inform %TT that you were just kidding.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU informs %TT that %SU was just kidding.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU informs you that %SU was just kidding.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"jas":"JAS
+~
+~
+~
+~
+Just one more second!
+~
+~
+%TU needs just one more second.
+~
+~
+1-one-thousand. DING! Done yet?
+~
+~
+%TU will be ready in just a second.
+~
+~
+You inform %TT that %ST only has a few seconds left.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU informs %TT that %ST only has a few seconds left.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU informs you that you only have a few seconds left.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"jam":"JAM
+jam
+jam
+jam
+~
+Just A Moment!
+~
+~
+%TU requests a moment longer.
+~
+~
+You announce you will be done in just a moment.
+~
+~
+%TU will be done in just a moment.
+~
+~
+You inform %TT that %ST only has just a moment to finish.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU informs %TT that %ST only has just a moment to finish.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU informs you that you only have just a moment to finish.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"introduce":"introduce
+~
+~
+handshake_tandem
+~
+You introduce everyone to each other.
+~
+~
+%TU introduces everyone.
+~
+~
+WELL MET! You introduce yourself to everyone.
+~
+~
+HELLO! %TU introduces %OUself to everyone.
+~
+~
+Everyone, meet %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU introduces %TT to you.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU introduces you to everyone.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"innocent":"innocent
+face_innocent
+face_innocent
+face_innocent
+~
+You do your best to look innocent.
+~
+~
+%TU does %PU best to look innocent.
+~
+~
+You claim innocence.
+~
+~
+%TU claims innocence.
+~
+~
+You do your best to look innocent for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU does %PU best to look innocent for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU does %PU best to look innocent for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"imitate":"imitate
+~
+~
+~
+~
+You imitate a statue and stand perfectly still.
+~
+~
+%TU imitates a statue and stands perfectly still.
+~
+~
+You imitate yourself. Kind of pointless, isn't it?
+~
+~
+%TU imitates %OUself.
+~
+~
+You imitate %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU imitates %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU imitates you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hunger":"hunger
+~
+rub_belly
+point_to_self
+~
+You grow hungry.
+~
+~
+%TU grows hungry.
+~
+~
+Your stomach rumbles with a hollow, empty sound.
+~
+~
+%TU's stomach rumbles with a hollow, empty sound.
+~
+~
+You indicate to %TT that you are hungry.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to %TT that %SU is hungry.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to you that %SU is hungry.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hum":"hum
+face_smile
+face_smile
+face_smile
+~
+You hum.
+~
+~
+%TU hums.
+~
+~
+You hum a tune to yourself.
+~
+~
+%TU hums a tune to %OUself.
+~
+~
+You hum a tune for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hums a tune for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hums a tune for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"huge":"huge
+huge
+huge
+huge
+~
+You hold your arms out wide and indicate it was HUGE!
+~
+~
+%TU holds %PU arms out wide and indicates it was HUGE!
+~
+~
+You guess that it was HUGE!
+~
+~
+%TU guesses that it was HUGE!
+~
+~
+You indicate to %OT that it was HUGE!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to %TT that it was HUGE!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to you that it was HUGE!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hug":"hug
+hug_tandem
+hug_self
+hug_tandem
+~
+You hold your arms out and offer a hug.
+~
+~
+%TU holds %PU arms out and offers a hug.
+~
+~
+You give yourself a hug.
+~
+~
+%TU gives %OUself a hug.
+~
+~
+You give %OT a hug.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a hug.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a hug.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hose":"hose
+~
+~
+~
+~
+You hose everyone down.
+~
+~
+%TU hoses everyone down!
+~
+~
+You hose yourself down. Take it easy there!
+~
+~
+%TU hoses %OUself down.
+~
+~
+You help %TT to cool off a bit.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hoses %TT down with cold water.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hoses you down with cold water.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hop":"hop
+~
+~
+~
+~
+You hop around.
+~
+~
+%TU hops around.
+~
+~
+You hop on one foot.
+~
+~
+%TU hops on one foot.
+~
+~
+You hop around %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hops around %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hops around you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"holdon":"holdon
+~
+hug_self
+~
+~
+You hold on for dear life.
+~
+~
+%TU holds on for dear life.
+~
+~
+You hold onto yourself. Need a security blanket?
+~
+~
+%TU holds onto %OUself.
+~
+~
+You hold onto %OT, not letting go!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU holds onto %TT, not letting go!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU holds onto you, not letting go!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hobble":"hobble
+~
+~
+~
+~
+You hobble.
+~
+~
+%TU hobbles.
+~
+~
+You hobble about in circles.
+~
+~
+%TU hobbles about in circles.
+~
+~
+You hobble about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hobbles about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hobbles about you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hiss":"hiss
+face_glare
+face_glare
+face_glare
+~
+You hiss.
+~
+~
+%TU hisses.
+~
+~
+You hiss under your breath.
+~
+~
+%TU hisses under %PU breath.
+~
+~
+You hiss at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hisses at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hisses at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hiccup":"hiccup
+cover_mouth
+cover_mouth
+cover_mouth
+~
+You hiccup.
+~
+~
+%TU hiccups.
+~
+~
+You hiccup strongly and get a bitter-sour taste in your mouth.
+~
+~
+%TU hiccups strongly and purses %PU lips at the resultant bitter-sour taste.
+~
+~
+You hiccup and beg %TT for help to get rid of them.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU begs %TT for help to get rid of %PU hiccups.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU begs you for help to get rid of %PU hiccups.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hi5":"hi5
+high_five
+hi5_tandem
+hi5_tandem
+~
+You hold your hand up to give a hi-five.
+~
+~
+%TU holds %PU hand up to give a hi-five.
+~
+~
+You give yourself hi-five.
+~
+~
+%TU gives %OUself a hi-five.
+~
+~
+You give %OT a hi-five. YEAH!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a hi-five.
+~
+~
+~
+~
+~
+~
+~
+~
+YEAH! %TU gives you a hi-five.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hero":"hero
+search
+flex_biceps
+point _forward
+~
+You look for a hero to save you.
+~
+~
+%TU looks for a hero to save %OU.
+~
+~
+You are your own greatest hero!
+~
+~
+%TU is %PU own greatest hero!
+~
+~
+MY HERO! You proclaim %TT as your hero.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU proclaims %TT as %PU hero.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU proclaims you as %PU hero.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"helpme":"helpme
+helpme
+~
+helpme
+~
+HELP!
+~
+~
+HELP! HELP! %TU looks for help.
+~
+~
+You help yourself.
+~
+~
+%TU helps %OUself.
+~
+~
+You look to %OT for help.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks to %TT for help.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks to you for some help.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hearnoevil":"hearnoevil
+cover_ears_mocking
+cover_ears_mocking
+cover_ears_mocking
+~
+You cover your ears.
+~
+~
+%TU covers %PU ears.
+~
+~
+You stare blankly forward with your hands over your ears.
+~
+~
+%TU stares blankly forward with %PU hands over %PU ears.
+~
+~
+You cover your ears and try to block %OT out. LA LA LA LA LA LA.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU babbles nonsense as %SU covers %PU ears and tries to not hear %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU covers %PU ears and tries to block your words out. LA LA LA LA LA LA.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"headlock":"headlock
+~
+~
+~
+~
+You demonstrate the proper headlock technique.
+~
+~
+%TU demonstrates the proper headlock technique.
+~
+~
+You put yourself in a headlock.
+~
+~
+%TU puts %OUself in a headlock.
+~
+~
+You put %TT in a headlock.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU puts %TT in a headlock.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU puts you in a headlock.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"headache":"headache
+tap_head
+tap_head
+cover_ears_mocking
+~
+You complain about a headache.
+~
+~
+%TU complains about a headache.
+~
+~
+You grab your skull and beg the pain to stop.
+~
+~
+%TU grabs %PU skull and begs the pain to stop.
+~
+~
+You toss %OT a couple analgesics.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tosses a couple analgesics to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tosses you a couple analgesics.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"handshake":"handshake
+handshake_tandem
+handshake_tandem
+handshake_tandem
+~
+You offer a handshake.
+~
+~
+%TU offers a handshake.
+~
+~
+You shake your own hand.
+~
+~
+%TU shakes %PU own hand.
+~
+~
+You shake %PT hand.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shakes %TT's hand.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU shakes your hand.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hand":"hand
+applause_polite
+applause_polite
+~
+~
+You ask if anyone can give you a hand.
+~
+~
+%TU asks if anyone can give %OU a hand.
+~
+~
+You give yourself a hand.
+~
+~
+%TU gives %OUself a hand.
+~
+~
+You give %OT a gentle kiss on the hand.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a gentle kiss on the hand.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a gentle kiss on the hand.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"halo":"halo
+face_innocent
+face_innocent
+face_innocent
+~
+You smile innocently and don your halo.
+~
+~
+%TU smiles innocently and dons %PU halo.
+~
+~
+You shine your halo.
+~
+~
+%TU shines %PU halo.
+~
+~
+You smile at %OT and don your halo.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU smiles at %TT and dons %PU halo.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU smiles at you and dons %PU halo.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"halfnelson":"halfnelson
+~
+~
+~
+~
+You motion as if to put someone into a half-nelson.
+~
+~
+%TU motions as if to put someone into a half-nelson.
+~
+~
+You put yourself in a half-nelson.
+~
+~
+%TU puts %OUself in a half-nelson.
+~
+~
+You put %TT in a half-nelson. "Say uncle!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU places %TT in a half-nelson.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU places you in a half-nelson.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hail":"hail
+wave_hail
+wave1
+wave_hail
+~
+You hail passers-by.
+~
+~
+%TU greets everyone with a friendly hail.
+~
+~
+You hail yourself with a handful of pebbles.
+~
+~
+%TU hails %OUself with a handful of pebbles.
+~
+~
+You hail %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hails %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hails you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"hack":"hack
+cough_polite
+heavy_cough_vomit
+heavy_cough_vomit
+~
+You hack.
+~
+~
+%TU hacks.
+~
+~
+You hack up a furball.
+~
+~
+%TU hacks up a furball.
+~
+~
+You hack at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hacks at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hacks at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"gulp":"gulp
+~
+~
+~
+~
+*GULP!!*
+~
+~
+%TU gulps.
+~
+~
+Don't choke now!
+~
+~
+%TU gulps down %PU drink.
+~
+~
+You gulp at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gulps at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gulps at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"grunt":"grunt
+face_grimace
+face_grimace
+face_grimace
+~
+You grunt.
+~
+~
+%TU grunts.
+~
+~
+You grunt at yourself.
+~
+~
+%TU grunts at %OUself.
+~
+~
+You grunt at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grunts at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grunts at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"grumble":"grumble
+face_grimace
+face_grimace
+face_grimace
+~
+You grumble.
+~
+~
+%TU grumbles.
+~
+~
+You grumble to yourself.
+~
+~
+%TU grumbles to %OUself.
+~
+~
+You grumble something rude about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grumbles something rude about %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grumbles something rude about you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"growl":"growl
+face_sneer
+face_sneer
+face_sneer
+~
+GRRRRRR!
+~
+~
+%TU growls.
+~
+~
+You growl at yourself.
+~
+~
+%TU growls at %OUself.
+~
+~
+You growl at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU growls at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU growls at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"grovel":"grovel
+implore
+implore
+implore
+~
+You grovel in the dirt.
+~
+~
+%TU grovels in the dirt.
+~
+~
+You grovel fawningly.
+~
+~
+%TU grovels fawningly.
+~
+~
+You grovel at %TT's feet.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grovels at %TT's feet.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grovels at your feet.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"groan":"groan
+slump_head
+shake_head_disgust
+slump_head
+~
+You groan loudly.
+~
+~
+%TU groans loudly.
+~
+~
+You groan at yourself.
+~
+~
+%TU groans at %OUself.
+~
+~
+You groan loudly at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU groans loudly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU groans loudly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"grin":"grin
+face_smile
+face_smile
+face_smile
+~
+You grin.
+~
+~
+%TU grins.
+~
+~
+You grin at yourself.
+~
+~
+%TU grins at %OUself.
+~
+~
+You grin at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grins at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grins at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"greet":"greet
+wave2
+wave2
+wave2
+~
+You greet the passers-by.
+~
+~
+%TU greets everyone.
+~
+~
+You greet yourself.
+~
+~
+%TU greets %OUself.
+~
+~
+You greet %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU greets %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU greets you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"going":"going
+standing_raise_fist
+smack_self
+taunt1
+~
+CHARGE!!
+~
+~
+%TU is going to initiate combat...NOW!
+~
+~
+Are you sure you wanted to do that?
+~
+~
+Looks like %TU needs help. %SU is trying to initiate combat with %OUself.
+~
+~
+CHARGE!! Targeting...%TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU moves in to initiate an attack on %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU charges into combat targeting...YOU!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"glow":"glow
+face_smile
+face_smile
+face_smile
+~
+You glow happily.
+~
+~
+%TU glows happily.
+~
+~
+Feeling special?
+~
+~
+%TU feels special and glows happily.
+~
+~
+You glow and  let %OT know how happy %ST makes you.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU glows happily at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+Awww. %TU glows and wants you to know how happy you make %OU feel!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"gloat":"gloat
+face_evil_grin
+face_evil_grin
+face_evil_grin
+~
+You gloat.
+~
+~
+%TU gloats.
+~
+~
+You gloat quietly to yourself.
+~
+~
+%TU gloats quietly to %OUself.
+~
+~
+You gloat at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gloats at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gloats at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"glare":"glare
+face_glare
+face_glare
+face_glare
+~
+You glare about furiously.
+~
+~
+%TU glares about furiously.
+~
+~
+You glare furiously out of the corner of your eyes.
+~
+~
+%TU glares furiously out the corner of %PU eyes.
+~
+~
+You glare at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU glares at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU glares at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"giveup":"giveup
+giveup
+giveup
+giveup
+~
+"I GIVE UP!"
+~
+~
+%TU throws %PU hands into the air and huffs, "I GIVE UP!"
+~
+~
+You shake your head and murmur "I give up..."
+~
+~
+%TU shakes %PU head and murmurs, "I give up..."
+~
+~
+Apparently, %ST is not worth the trouble. "I give up!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at %TT with disgust and says, "I give up!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at you disgustedly and says, "I give up!"
+~
+~
+~
+~
+~
+~
+~
+~
+",		"giggle":"giggle
+laugh_titter
+laugh_titter
+laugh_titter
+~
+HEHE!
+~
+~
+%TU giggles.
+~
+~
+You giggle at yourself.
+~
+~
+%TU giggles at %OUself.
+~
+~
+You giggle at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU giggles at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU giggles at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"gaze":"gaze
+face_smile
+face_smile
+face_smile
+~
+You gaze in awe at your surroundings.
+~
+~
+%TU gazes in awe at %PU surroundings.
+~
+~
+You gaze in awe at yourself
+~
+~
+%TU gazes in awe at %OUself.
+~
+~
+You gaze in awe at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gazes in awe of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gazes in awe of you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"gawk":"gawk
+face_surprised
+face_surprised
+face_surprised
+~
+Looking dumbfounded, you gawk.
+~
+~
+%TU looks dumbfounded and gawks.
+~
+~
+You gawk at yourself.
+~
+~
+%TU gawks at %OUself.
+~
+~
+You gawk at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gawks at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gawks at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"gasp":"gasp
+face_surprised
+face_surprised
+face_surprised
+~
+*GASP!*
+~
+~
+%TU gasps.
+~
+~
+You gasp for air!
+~
+~
+%TU wheezes and gasps for air.
+~
+~
+*GASP!* You gasp at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gasps at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gasps at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"gape":"gape
+face_surprised
+face_surprised
+face_surprised
+~
+You gape.
+~
+~
+%TU gapes.
+~
+~
+Your jaw drops and hits the ground with a resounding *THUD*.
+~
+~
+%TU's jaw drops and hits the ground with a resounding *THUD*.
+~
+~
+You gape at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gapes at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gapes at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"gag":"gag
+face_yuck_face
+face_yuck_face
+face_yuck_face
+~
+You gag in disgust.
+~
+~
+%TU gags in disgust.
+~
+~
+You stick your finger in your mouth and make gagging sounds.
+~
+~
+%TU sticks %PU finger in %PU mouth and makes gagging sounds.
+~
+~
+You gag in disgust at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gags in disgust at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gags in disgust at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"fuzzy":"fuzzy
+face_smile
+hug_self
+face_smile
+~
+You get that warm and fuzzy feeling inside.
+~
+~
+%TU gets that warm and fuzzy feeling inside.
+~
+~
+You squeeze yourself with a warm and fuzzy feeling inside.
+~
+~
+%TU squeezes %OUself with a warm and fuzzy feeling inside.
+~
+~
+%TT makes you feel warm and fuzzy inside.
+~
+~
+~
+~
+~
+~
+~
+~
+%TT makes %TU feel warm and fuzzy inside.
+~
+~
+~
+~
+~
+~
+~
+~
+You make %TU feel warm and fuzzy inside.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"fume":"fume
+face_scowl
+face_scowl
+stomp_feet
+~
+You fume with rage.
+~
+~
+%TU fumes with rage.
+~
+~
+You fume and mouth words best left unspoken.
+~
+~
+%TU fumes and mouths words best left unspoken.
+~
+~
+You fume with rage at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU fumes with rage at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU fumes with rage at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"imfull":"imfull
+pat_abdomen
+rub_belly
+pat_abdomen
+~
+You pat your stomach denoting you are full.
+~
+~
+%TU pats %PU stomach denoting %SU is full.
+~
+~
+You rub your stomach, feeling overstuffed.
+~
+~
+%TU rubs %PU stomach, looking overstuffed.
+~
+~
+You indicate to %TT that you are full.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to %TT that %SU is full.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates to you that %SU is full.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"frown":"frown
+face_frown
+face_frown
+face_frown
+~
+You frown.
+~
+~
+%TU frowns.
+~
+~
+You frown at yourself.
+~
+~
+%TU frowns at %OUself.
+~
+~
+You frown at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU frowns at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU frowns at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"fool":"fool
+~
+smack_self
+~
+~
+You look around for your FOOL brand.
+~
+~
+%TU looks around for %PU FOOL brand.
+~
+~
+You brand yourself the fool.
+~
+~
+%TU brands %OUself the fool.
+~
+~
+You brand %TT as the FOOL!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU brands %TT as the FOOL!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU brands you as the FOOL!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flutter":"flutter
+accept_affection
+accept_affection
+accept_affection
+~
+You heart flutters wildly.
+~
+~
+%TU's heart flutters wildly.
+~
+~
+Your heart flutters wildly as you clench your chest hand-over-hand.
+~
+~
+%TU's heart flutters wildly as %SU clenches %PU chest hand-over-hand.
+~
+~
+Your heart flutters at the sight of %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU's heart flutters at the sight of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU's heart flutters at the sight of you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flower":"flower
+~
+~
+~
+~
+You pull a delicate flower from your pack and hold it gently.
+~
+~
+%TU pulls a delicate flower from %PU pack and holds it gently.
+~
+~
+You inhale deeply trying to smell the flower's sweet scent.
+~
+~
+%TU inhales deeply trying to smell the flower's sweet scent.
+~
+~
+You give a delicate flower to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives a delicate flower to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a delicate flower.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flirt":"flirt
+~
+~
+~
+~
+You flirt with danger.
+~
+~
+%TU flirts with danger.
+~
+~
+You flirt with yourself. A little self-involved are we?
+~
+~
+%TU flirts with %OUself.
+~
+~
+You flirt with %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flirts with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flirts with you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flip":"flip
+~
+~
+~
+~
+You flip a coin.
+~
+~
+%TU flips a coin.
+~
+~
+You flip head-over-heels.
+~
+~
+%TU flips head-over-heels.
+~
+~
+You flip head-over-heels for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flips head-over-heels for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flips head-over-heels for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flex":"flex
+flex_biceps
+flex_biceps
+flex3
+~
+You flex your muscles.
+~
+~
+%TU flexes %PU muscles.
+~
+~
+You flex your bicep and secretly push it up with your other hand.
+~
+~
+%TU flexes %PU bicep, but you catch %OU making it look larger with %PU other hand.
+~
+~
+You flex for %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flexes for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flexes for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flee":"flee
+gesticulate_wildly
+~
+~
+~
+FLEE!!
+~
+~
+RUN FOR YOUR LIVES!! %TU is giving the signal to FLEE!!
+~
+~
+Time to flee?
+~
+~
+%TU thinks its time to flee!
+~
+~
+GO! RUN AWAY! FLEE!!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pushes %TT away while telling %OT to flee!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU pushes you away while telling you to FLEE!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flame":"flame
+~
+~
+~
+~
+You take a deep breath and exhale verbal flames everywhere.
+~
+~
+%TU takes a deep breath and exhales verbal flames everywhere.
+~
+~
+You put on your flame-proof suit.
+~
+~
+%TU puts on %PU flame-proof suit.
+~
+~
+You verbally flame %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU verbally flames %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU verbally flames you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"flail":"flail
+gesticulate_wildly
+gesticulate_wildly
+gesticulate_wildly
+~
+You flail wildly.
+~
+~
+%TU flails wildly.
+~
+~
+You flail wildly at yourself, as if trying to get something off your body.
+~
+~
+%TU flails wildly at %OUself, as if trying to get something off %PU body.
+~
+~
+You flail wildly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flails wildly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flails wildly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"fidget":"fidget
+check_wrist_device
+look_casual
+~
+~
+You fidget restlessly.
+~
+~
+%TU fidgets restlessly.
+~
+~
+You fidget restlessly in anticipation.
+~
+~
+%TU fidgets restlessly in anticipation.
+~
+~
+You fidget restlessly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU fidgets restlessly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU fidgets restlessly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"fiddle":"fiddle
+manipulate_medium
+manipulate_medium
+manipulate_medium
+~
+You fiddle with random objects.
+~
+~
+%TU fiddles with random objects.
+~
+~
+You pull a puzzle cube from your pack and fiddle with it.
+~
+~
+%TU removes a puzzle cube from %PU pack and fiddles with it.
+~
+~
+You fiddle with %TT's gear.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU fiddles with %TT's gear.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU fiddles with your gear.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"feh":"feh
+stamp_feet
+face_yuck_face
+face_yuck_face
+~
+FEH!
+~
+~
+%TU looks disgusted and utters, "FEH!"
+~
+~
+You look at the condition of your gear and exclaim, "FEH!"
+~
+~
+%TU looks at the condition of %PU gear and exclaims, "FEH!"
+~
+~
+You look disgustedly at %TT and utter, "FEH!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks disgustedly at %TT and utters, "FEH!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks disgustedly at you and utters, "FEH!"
+~
+~
+~
+~
+~
+~
+~
+~
+",		"feel":"feel
+~
+~
+~
+~
+You feel blindly at your surroundings.
+~
+~
+%TU blindly feels at %PU surroundings.
+~
+~
+You feel about yourself, checking for holes.
+~
+~
+%TU feels about %OUself, checking for holes.
+~
+~
+You feel %PT bicep. What do you think?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU feels %TT's bicep.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU feels your bicep.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"fear":"fear
+shiver
+afraid_face
+~
+~
+You tremble with fear.
+~
+~
+%TU trembles with fear.
+~
+~
+You become paralyzed with fear.
+~
+~
+%TU becomes paralyzed with fear.
+~
+~
+You scream in terror at the sight of %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU screams in terror at the sight of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU screams in terror at the sight of you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"faq":"FAQ
+point_away
+point_away
+point_away
+~
+You direct everyone to the FAQ.
+~
+~
+%TU directs everyone to the FAQ.
+~
+~
+You reference the FAQ.
+~
+~
+%TU references the FAQ.
+~
+~
+You direct %TT to the FAQ.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU directs %TT to the FAQ.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU directs you to the FAQ.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"false":"false
+shake_head_no
+~
+shake_head_no
+~
+You believe that is false.
+~
+~
+%TU does not believe that is true.
+~
+~
+On second thought, you don't believe what you just said is true.
+~
+~
+After further thought, %TU does not believe what %SU just said to be true.
+~
+~
+You refuse to believe what %ST is saying.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU refuses to believe what %TT is saying.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU refuses to believe what you are saying.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"faint":"faint
+~
+~
+~
+~
+You faint.
+~
+~
+%TU faints.
+~
+~
+You look pale, as if about to faint.
+~
+~
+%TU looks pale, as if about to faint.
+~
+~
+You faint into %PT arms.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU faints into %TT's arms.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU faints into your arms.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"eyebrow":"eyebrow
+face_eyebrow_arch
+face_eyebrow_arch
+face_eyebrow_arch
+~
+You raise an eyebrow.
+~
+~
+%TU raises an eyebrow.
+~
+~
+You raise an eyebrow at yourself.
+~
+~
+%TU raises an eyebrow at %OUself.
+~
+~
+You raise an eyebrow at %OT. What is %ST up to?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU raises an eyebrow at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU raises an eyebrow at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"exhausted":"exhausted
+catchbreath
+catchbreath
+catchbreath
+~
+You collapse from exhaustion.
+~
+~
+%TU is exhausted and must rest.
+~
+~
+You signal that you are absolutely exhausted.
+~
+~
+%TU signals that %SU is absolutely exhausted.
+~
+~
+You inform %TT that you are exhausted and must rest.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU informs %TT that %SU is exhausted and must rest.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU informs you that %SU is exhausted and must rest.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"evilgrin":"evilgrin
+face_evil_grin
+face_evil_grin
+face_evil_grin
+~
+You crack an evil grin.
+~
+~
+%TU cracks an evil grin.
+~
+~
+You grin evilly at your thoughts.
+~
+~
+%TU grins evilly at %PU thoughts.
+~
+~
+You flash a wicked grin at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flashes %TT a wicked grin.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU flashes you a wicked grin.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"encourage":"encourage
+celebrate1
+celebrate1
+celebrate1
+~
+Go Team Go!!
+~
+~
+%TU leads a cheer of encouragement. Go Team Go!!
+~
+~
+You can do it!
+~
+~
+%TU gives %OUself a few choice words of encouragement.
+~
+~
+You encourage %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a bit of encouragement.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a bit of encouragement.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"embrace":"embrace
+offer_affection
+hug_self
+offer_affection
+~
+You hold your arms out offering a gentle embrace.
+~
+~
+%TU holds %PU arms out offering a gentle embrace.
+~
+~
+You give yourself a warm embrace.
+~
+~
+%TU gives %OUself a warm embrace.
+~
+~
+You gently hold %TT in your arms and give %OT a warm embrace.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gently holds %TT in %PU arms and give %OT a warm embrace.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gently holds you in %PU arms and gives you a warm embrace.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"elbow":"elbow
+~
+~
+~
+~
+You try to clear the immediate area about you by throwing out your elbows.
+~
+~
+Watch out! %TU throws %PU elbows out and tries to clear the area around %OU.
+~
+~
+You cringe in pain as you hit your funny bone.
+~
+~
+%TU cringes in pain as %SU hits %PU funny bone.
+~
+~
+You elbow %TT in %PT side.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU elbows %TT in %PT side.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU elbows you in the side. Is %SU trying to tell you something?
+~
+~
+~
+~
+~
+~
+~
+~
+",		"eek":"eek
+face_surprised
+face_surprised
+face_surprised
+~
+Eek!
+~
+~
+%TU squeals, "EEK!"
+~
+~
+You take one look at yourself and exclaim "EEK!"
+~
+~
+%TU looks at %OUself and exclaims "EEK!"
+~
+~
+You look at %TT and exclaim "EEK!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at %TT and exclaims "EEK!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at you and exclaims "EEK!"
+~
+~
+~
+~
+~
+~
+~
+~
+",		"echuta":"echuta
+~
+~
+~
+~
+E chu ta!
+~
+~
+%TU foams at the mouth, swearing vulgarly.
+~
+~
+You foam at the mouth, driveling as you curse under your breath.
+~
+~
+%TU foams at the mouth, driveling everywhere as %SU curses under %PU breath.
+~
+~
+You spray %TT with spittle as you curse at %OT in %PT face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sprays %TT with spittle as %SU curses at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sprays your face with spittle as %SU curses at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"duck":"duck
+chicken
+duck
+~
+~
+You duck!
+~
+~
+%TU ducks.
+~
+~
+Quack! Quack!
+~
+~
+%TU makes like a duck. Quack!
+~
+~
+You duck behind %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU ducks behind %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+Look out! %TU just ducked behind you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"drool":"drool
+~
+~
+~
+~
+You drool incessantly, creating a small puddle at your feet.
+~
+~
+%TU drools, creating a small puddle at %PU feet.
+~
+~
+You drool all over yourself.
+~
+~
+%TU drools all over %OUself, leaving a wet spot on %PU chest.
+~
+~
+You drool all over %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU drools all over %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU drools all over you. YUCK!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"dream":"dream
+dream
+dream
+dream
+~
+You float away on a fluffy white cloud.
+~
+~
+%TU looks serene as %SU floats off into dreamland.
+~
+~
+Daydreaming again?
+~
+~
+%TU daydreams.
+~
+~
+Dreamy, isn't %ST?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at %TT googly-eyed while daydreaming.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at you googly-eyed while daydreaming.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"doh":"doh
+smack_self
+smack_self
+smack_self
+~
+Doh!
+~
+~
+%TU gets a stupid look on %PU face and says, "DOH!"
+~
+~
+DOH DOH DOH!
+~
+~
+%TU slaps %OUself on the forehead and says, "DOH!"
+~
+~
+You look at %OT and say "DOH!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at %TT and says, "DOH!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks at you and says, "DOH!"
+~
+~
+~
+~
+~
+~
+~
+~
+",		"disagree":"disagree
+shake_head_no
+shake_head_no
+shake_head_no
+~
+You politely disagree.
+~
+~
+%TU politely disagrees.
+~
+~
+You change your mind and disagree with your last statement.
+~
+~
+%TU changes %PU mind and disagrees with %PU last statement.
+~
+~
+You disagree with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU disagrees with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU expresses disagreement.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"deride":"deride
+laugh_pointing
+belly_laugh
+laugh_pointing
+~
+Playing the town fool? You ridicule everyone about you.
+~
+~
+%TU ridicules everyone about %OU.
+~
+~
+You deride yourself.
+~
+~
+%TU derides %OUself.
+~
+~
+You laugh at %TT with contempt.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU laughs at %TT with a show of contempt.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU laughs at you with contempt.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"defend":"defend
+pose_proudly
+~
+~
+~
+You try to stand imposingly, exhibiting your intent to defend the area.
+~
+~
+%TU tries to stand imposingly, displaying intent to defend the area.
+~
+~
+You prepare to defend yourself.
+~
+~
+%TU stands alert suggesting a readiness to defend %OUself.
+~
+~
+You step in front of %TT, ready to defend %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU steps defensively in front of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU steps defensively in front of you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"deepbow":"deepbow
+bow4
+bow4
+bow4
+~
+You bow deeply.
+~
+~
+%TU bows deeply.
+~
+~
+You bow deeply before yourself and almost fall over.
+~
+~
+%TU bows deeply before %OUself and almost falls over.
+~
+~
+You bow deeply before %TT, showing great respect.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows deeply before %TT, showing great respect.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows deeply before you, showing great respect.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"dance":"dance
+dance_lyrical
+dance_lyrical
+~
+~
+You dance about the area.
+~
+~
+%TU dances about the area.
+~
+~
+You dance with yourself.
+~
+~
+%TU dances with %OUself.
+~
+~
+You grab %TT and drag %OT to the dance-floor.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grabs %TT and drags %OT to the dance-floor.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU grabs you and drags you to the dance-floor.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"curtsey":"curtsey
+curtsey1
+curtsey
+curtsey1
+~
+You curtsey for your audience.
+~
+~
+%TU curtsies.
+~
+~
+You perform a very formal curtsey.
+~
+~
+%TU performs a very formal curtsey.
+~
+~
+You curtsey to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU curtsies to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU curtsies to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"curse":"curse
+face_scowl
+face_scowl
+face_scowl
+~
+You spew obscenities.
+~
+~
+%TU curses.
+~
+~
+You quietly curse to yourself.
+~
+~
+%TU quietly curses under %PU breath.
+~
+~
+You spew obscenities at %TT, and let %OT have it.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU curses loudly at %TT, and then throws the dictionary at %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU curses loudly at you, laying into you verbally.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"culater":"culater
+wave2
+~
+wave2
+~
+See ya later.
+~
+~
+%TU will see ya all later.
+~
+~
+"Not if I see you first!"
+~
+~
+%TU mentions something about "not if %ST sees you first".
+~
+~
+See ya later, %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU says to %TT, "see ya later".
+~
+~
+~
+~
+~
+~
+~
+~
+%TU will see ya later.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"cry":"cry
+weeping
+weeping
+weeping
+~
+You burst into tears.
+~
+~
+%TU bursts into tears.
+~
+~
+You cry uncontrollably.
+~
+~
+%TU cries uncontrollably.
+~
+~
+You cry on %PT shoulder.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cries on %TT's shoulder.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cries on your shoulder.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"cringe":"cringe
+afraid_face
+afraid_face
+afraid_face
+~
+EEP! You cringe.
+~
+~
+%TU cringes.
+~
+~
+You cringe at the thought.
+~
+~
+%TU cringes at the thought.
+~
+~
+You cringe away from %TT in fear.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cringes away from %TT in fear.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cringes away from you in fear.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"cower":"cower
+afraid_face
+afraid_face
+afraid_face
+~
+You cower.
+~
+~
+%TU cowers.
+~
+~
+You cower submissively.
+~
+~
+%TU cowers submissively.
+~
+~
+You cower away from %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cowers away from %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cowers away from you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"covereyes":"covereyes
+cover_eyes
+cover_eyes
+~
+~
+You cover your eyes.
+~
+~
+%TU covers %PU eyes.
+~
+~
+You hide your eyes behind your crossed arms.
+~
+~
+%TU hides %PU eyes behind %PU crossed arms.
+~
+~
+You cover %PT eyes.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU covers %TT's eyes.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU covers your eyes.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"cover":"cover
+~
+~
+~
+~
+You tell everyone to cover up!
+~
+~
+Underdressed? %TU tells everyone to cover up.
+~
+~
+Feeling a draft?
+~
+~
+%TU covers %OUself.
+~
+~
+Get some clothes on %TT!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU apparently thinks that %TT is underdressed and covers %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks you are underdressed and covers you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"cough":"cough
+cough_polite
+cough_polite
+heavy_cough_vomit
+~
+*COUGH* *COUGH*
+~
+~
+%TU coughs loudly.
+~
+~
+*cough* *ahem* You hack out a stifled cough. Trying to tell someone something?
+~
+~
+AHEM! %TU hacks out a stifled cough, apparently trying to get someone's attention.
+~
+~
+You cough in %PT face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU coughs in %TT's face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU coughs in your face.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"congratulate":"congratulate
+celebrate1
+celebrate1
+celebrate1
+~
+Congrats to all!
+~
+~
+%TU congratulates everyone.
+~
+~
+You give yourself a pat on the back.
+~
+~
+%TU congratulates %OUself.
+~
+~
+You congratulate %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU congratulates %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+Congrats! %TU congratulates you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"comfort":"comfort
+standing_placate
+hug_self
+standing_placate
+~
+You comfort everyone and let them know it will be OK.
+~
+~
+%TU tries to comfort everyone and says, "It will be OK."
+~
+~
+You subtly drop the hint that you could use some comforting.
+~
+~
+%TU hints that %SU could use some comforting.
+~
+~
+You comfort %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU comforts %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU comforts you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"combhair":"combhair
+~
+hair_flip
+~
+~
+You claw at the knots in your hair in desperate need of a comb.
+~
+~
+%TU claws at the knots in %PU hair in desperate need of a comb..
+~
+~
+You comb your hair. There! Perfect!
+~
+~
+%TU combs %PU hair. Doesn't %SU look fantastic?
+~
+~
+You comb %TT's hair.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU combs %TT's hair.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU combs your hair for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"claw":"claw
+claw
+~
+claw
+~
+You hiss and bare your claws.
+~
+~
+%TU hisses and bares %PU claws.
+~
+~
+You remove a file from your pack and begin to sharpen your claws.
+~
+~
+%TU retrieves a file from %PU pack and begins to sharpen %PU claws.
+~
+~
+You claw at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+ROWR! %TU claws at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU claws at you!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"clap":"clap
+applause_polite
+applause_polite
+applause_polite
+~
+You clap your hands together.
+~
+~
+%TU claps %PU hands together.
+~
+~
+You give yourself a hand.
+~
+~
+%TU gives %OUself a hand.
+~
+~
+You clap for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU claps for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU claps for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"chuckle":"chuckle
+laugh_cackle
+laugh_cackle
+laugh_cackle
+~
+You chuckle.
+~
+~
+%TU chuckles.
+~
+~
+You chuckle to yourself.
+~
+~
+%TU chuckles to %OUself.
+~
+~
+You chuckle politely at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU chuckles politely at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU chuckles politely at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"chortle":"chortle
+belly_laugh
+belly_laugh
+belly_laugh
+~
+You chortle.
+~
+~
+%TU chortles.
+~
+~
+With a series of nasally snorts, you chortle to yourself.
+~
+~
+%TU chortles to %OUself.
+~
+~
+You chortle uncontrollably at the sight of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU chortles uncontrollably at sight of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU chortles uncontrollably at the sight of you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"chestpuff":"chestpuff
+pose_proudly
+pose_proudly
+~
+~
+You puff up your chest and attempt to look imposing.
+~
+~
+%TU puffs up %PU chest and attempts to look imposing.
+~
+~
+You chest-puff and pump up your own ego a bit.
+~
+~
+%TU does a bit of chest-puffing.
+~
+~
+You realize that %TT is just chest-puffing and let %OT know that %ST is full of hot air.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks that %TT is chest-puffing and full of hot air.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks that you are chest-puffing and full of hot air.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"cheer":"cheer
+celebrate
+celebrate1
+celebrate
+~
+You cheer wildly.
+~
+~
+%TU cheers. YAY!!
+~
+~
+You cheer for yourself! YAY ME!!
+~
+~
+%TU cheers for %OUself.
+~
+~
+YAY!! You cheer for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cheers for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cheers for you!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"cheek":"cheek
+accept_affection
+accept_affection
+~
+~
+You turn your head and expose your cheek looking for a kiss.
+~
+~
+%TU turns %PU head and exposes %PU cheek looking for a kiss.
+~
+~
+You point to your cheek indicating where to kiss.
+~
+~
+%TU points to %PU cheek indicating where to kiss.
+~
+~
+You give %TT a tender kiss on the cheek.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a tender kiss on the cheek.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you a tender kiss on the cheek.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"chase":"chase
+~
+~
+~
+~
+You don't have to go home, but you can't stay here!
+~
+~
+%TU tries to chase everyone off!
+~
+~
+You turn in circles, chasing your own tail.
+~
+~
+%TU turns in circles, chasing %PU own tail.
+~
+~
+You chase %TT around the area.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU chases %TT around the area.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU chases you around the area.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"censor":"censor
+cover_ears_mocking
+~
+shush
+~
+You are appalled at the usage of obscenities.
+~
+~
+BLEEP BLEEP BLEEP!!  %TU tries to censor the obscenities.
+~
+~
+You scold yourself and wash your own mouth with soap.
+~
+~
+%TU washes %PU own mouth out with soap.
+~
+~
+You censor %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+BLEEPITY-BLEEP-BLEEP-BLEEP! %TU censors %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU censors you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"catchbreath":"catchbreath
+~
+~
+~
+~
+You wheeze and gasp for air as you try to catch your breath.
+~
+~
+%TU wheezes and gasps for air trying to catch %PU breath.
+~
+~
+You rest your hands on your knees and try to catch your breath.
+~
+~
+%TU rests %PU hands on %PU knees and tries to catch %PU breath.
+~
+~
+You signal to %TT that you will be just a moment as you catch your breath.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU signals to %TT that %SU will be just a moment as %SU catches %PU breath.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU signals to you that %SU will be just a moment as %SU catches %PU breath.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"calm":"calm
+standing_placate
+~
+slow_down
+~
+You try to calm everyone down.
+~
+~
+%TU tries to calm everyone down.
+~
+~
+Take a deep breath and count to 10. 1.. 2.. 3..
+~
+~
+%TU takes a deep breath and tries to calm %OUself down.
+~
+~
+You try to calm %TT down.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to calm %TT down.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to calm you down.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"cackle":"cackle
+laugh_cackle
+laugh_cackle
+laugh_cackle
+~
+You cackle.
+~
+~
+%TU cackles.
+~
+~
+You cackle insanely at yourself.
+~
+~
+%TU cackles insanely at %OUself.
+~
+~
+You cackle in %TT's face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cackles in %TT's face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU cackles in your face.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bye":"bye
+wave2
+wave2
+wave2
+~
+BYE!
+~
+~
+%TU is leaving. Bye!
+~
+~
+BYE-BYE!
+~
+~
+%TU is _really_ leaving now! Bye!
+~
+~
+You wish %TT well and hope to see %OT soon.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wishes %TT well and hopes to see %OT soon.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wishes you well and hopes to see you soon.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"burp":"burp
+pat_abdomen
+cover_mouth
+pat_abdomen
+~
+You burp loudly and look toward the judges.
+~
+~
+%TU burps loudly and looks toward the judges.
+~
+~
+Was it tasty? You burp to yourself and get a bitter, acidic taste in your mouth.
+~
+~
+%TU burps to %OUself, and gets a sour look on %PU face.
+~
+~
+You burp in %TT's face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU burps in %TT's face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU burps in your face.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"brt":"BRT
+~
+~
+~
+~
+BRT!
+~
+~
+%TU tells everyone to go on ahead and %SU will be right there.
+~
+~
+Not much farther now!!
+~
+~
+%TU mentions that it's not much farther.
+~
+~
+You tell %TT to go on and that you will be right there.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells %TT to go on and that %SU will be right there.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells you to go on and that %SU will be right there.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"brb":"BRB
+wave2
+wave2
+wave2
+~
+Be Right Back!
+~
+~
+%TU will be right back.
+~
+~
+You take a leave of absence from reality.
+~
+~
+%TU parts ways with reality but will be right back.
+~
+~
+You tell %TT that you will be right back.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells %TT that %SU will be right back.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells you that %SU will be right back.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"brandish":"brandish
+~
+~
+~
+~
+You brandish your weapon at the general area.
+~
+~
+%TU turns circles while brandishing %PU weapon at the general area.
+~
+~
+You look exasperated and sarcastically brandish your weapon at yourself.
+~
+~
+%TU looks exasperated and sarcastically brandishes %PU weapon at %OUself.
+~
+~
+You brandish your weapon menacingly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU brandishes %PU weapon at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU brandishes %PU weapon at you menacingly.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bowhead":"bowhead
+bow5
+bow5
+bow5
+~
+You bow your head.
+~
+~
+%TU bows %PU head.
+~
+~
+You bow your head and focus yourself.
+~
+~
+%TU bows %PU head and focuses %OUself.
+~
+~
+You bow your head to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows %PU head to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows %PU head to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bow":"bow
+bow2
+bow2
+bow2
+~
+You bow.
+~
+~
+%TU bows.
+~
+~
+You gracefully perform a flourished bow.
+~
+~
+%TU gracefully performs a flourished bow.
+~
+~
+You bow to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bows to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bouquet":"bouquet
+~
+~
+offer_affection
+~
+Wow! Great trick! You pull a flower bouquet out of thin air.
+~
+~
+With a magical flair, %TU pulls a flower bouquet out of thin air.
+~
+~
+You grab a flower bouquet and inhale deeply of the flowers' smell.
+~
+~
+%TU grabs a flower bouquet and inhales deeply of the flowers' smell.
+~
+~
+Awww. How nice of you! You give a flower bouquet to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU hands a bouquet of flowers to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+Isn't that sweet? %TU just handed you a bouquet of flowers!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bounce":"bounce
+bounce
+~
+~
+~
+You bounce around with excitement!
+~
+~
+%TU bounces around with excitement!
+~
+~
+You try to bounce yourself off the ground.
+~
+~
+%TU tries to bounce %OUself off the ground. Erf, that looks painful!
+~
+~
+You bounce circles around %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bounces circles around %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bounces circles around you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bored":"bored
+face_bored
+face_bored
+face_bored
+~
+Bored!
+~
+~
+%TU is bored.
+~
+~
+You go stir-crazy from boredom.
+~
+~
+%TU goes stir-crazy from boredom.
+~
+~
+You tell %TT that you are bored of %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU is bored of %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells you that %SU is bored of you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"boogie":"boogie
+celebrate
+celebrate1
+celebrate
+~
+Get down! You boogie-woogie-oogie.
+~
+~
+%TU boogies to the music.
+~
+~
+You tell yourself it's time to boogie.
+~
+~
+%TU gets that look in %PU eye signifying that %SU thinks it's time to boogie.
+~
+~
+You tell %TT that you are going to boogie.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells %TT that its time for %OU to boogie.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells you that its time for %OU to boogie.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bonk":"bonk
+~
+smack_self
+door_pound
+~
+Bonk! bOnk! BoNk!
+~
+~
+%TU tries to play a percussion instrumental on everyone's skulls.
+~
+~
+You bonk yourself on the head. Look at all the birdies!!
+~
+~
+%TU bonks %OUself on the head.
+~
+~
+You bonk %TT on the head. What were they thinking?!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bonks %TT on the head resulting in a hollow sound.
+~
+~
+~
+~
+~
+~
+~
+~
+BONK! What were you thinking? %TU bonks you on the head.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"boggle":"boggle
+scratch_head
+scratch_head
+scratch_head
+~
+You boggle at that concept.
+~
+~
+%TU boggles at that concept.
+~
+~
+You boggle at yourself. What were you thinking?!
+~
+~
+%TU boggles at %OUself.
+~
+~
+You boggle at %TT. What did %ST just say?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU boggles at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU boggles at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bodyslam":"bodyslam
+~
+~
+~
+~
+Unable to find a target, you pull a stuffed animal from your pack and bodyslam it! TAKE THAT!
+~
+~
+Unable to find a target, %TU pulls a stuffed animal from %PU pack and bodyslams it!
+~
+~
+You pick yourself up and throw yourself on the ground.
+~
+~
+%TU picks %OUself up and throws %OUself on the ground.
+~
+~
+You try to pick up %TT and bodyslam %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to pick up %TT and bodyslam %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tries to pick you up and bodyslam you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bob":"bob
+nod_head_multiple
+nod_head_multiple
+nod_head_multiple
+~
+You bob your head to the beat.
+~
+~
+%TU bobs %PU head to the beat.
+~
+~
+You go bobbing for apples.
+~
+~
+%TU goes bobbing for apples.
+~
+~
+You bob up from behind %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bobs up from behind %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bobs up from behind you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bmoc":"BMOC
+look_casual
+flex_biceps
+udaman
+~
+You look around for the BMOC.
+~
+~
+%TU looks around trying to find the BMOC.
+~
+~
+You are "THE MAN"!! You declare yourself BMOC.
+~
+~
+As "THE MAN", %TU declares %OUself BMOC.
+~
+~
+You cast your BMOC vote for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU casts %PU BMOC vote for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU casts %PU BMOC vote for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"blush":"blush
+embarrassed
+embarrassed
+embarrassed
+~
+You blush.
+~
+~
+%TU blushes.
+~
+~
+You blush in embarrassment.
+~
+~
+%TU blushes in embarrassment.
+~
+~
+You blush at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blushes at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blushes at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"blowkiss":"blowkiss
+kiss_blow_kiss
+accept_affection
+kiss_blow_kiss
+~
+You blow kisses.
+~
+~
+%TU blows kisses.
+~
+~
+Got it! You catch a kiss.
+~
+~
+%TU reaches out and grabs a floating kiss.
+~
+~
+You blow a kiss to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blows a kiss to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blows a kiss to you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"blow":"blow
+blow_bubbles
+blow_bubbles
+blow_bubbles
+~
+You pull out a string and some soapy water and proceed to blow bubbles.
+~
+~
+%TU pulls out a string and some soapy water and proceeds to blow bubbles.
+~
+~
+You blow your hair out of your face.
+~
+~
+%TU blows %PU hair out of %PU face.
+~
+~
+You blow in %TT's ear.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blows in %TT's ear.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blows in your ear.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"blink":"blink
+face_blink
+face_blink
+face_blink
+~
+You blink.
+~
+~
+%TU blinks.
+~
+~
+You blink in disbelief.
+~
+~
+%TU blinks in disbelief.
+~
+~
+You blink in disbelief at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blinks in disbelief at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blinks in disbelief at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bleed":"bleed
+~
+~
+~
+~
+MEDIC!!  You bleed on the ground.
+~
+~
+%TU bleeds on the ground.
+~
+~
+You bleed all over yourself and make a nice pool of blood at your feet.
+~
+~
+%TU bleeds all over %OUself, leaving a sizable pool of blood at %PU feet.
+~
+~
+You bleed all over %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bleeds all over %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bleeds all over you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"blame":"blame
+point_forward
+point_to_self
+point_accusingly
+~
+You blame everyone else.
+~
+~
+%TU blames everyone else.
+~
+~
+You blame yourself.
+~
+~
+%TU blames %OUself.
+~
+~
+You blame %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blames %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU blames you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bite":"bite
+~
+~
+~
+~
+You snap your teeth at everyone around you.
+~
+~
+%TU snaps %PU teeth at everyone. Is %SU rabid?
+~
+~
+You bite your lip nervously.
+~
+~
+%TU bites %PU lip nervously.
+~
+~
+You bite %TT on the leg.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bites %TT's leg.
+~
+~
+~
+~
+~
+~
+~
+~
+YEOUCH! %TU is biting your leg!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"belch":"belch
+cover_mouth
+rub_belly
+cover_mouth
+~
+You let out a resounding belch! Feel better?
+~
+~
+%TU lets out a resounding belch!
+~
+~
+You try to muffle your belch.
+~
+~
+%TU's cheeks puff as %SU tries to muffle %PU belch.
+~
+~
+You belch in %TT's face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU belches in %TT's face.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU belches in your face.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"beckon":"beckon
+beckon
+~
+beckon
+~
+You do your best to gather everyone around you.
+~
+~
+Gather around, folks! %TU tries to gather everyone around %OUself.
+~
+~
+You summon your inner strength.
+~
+~
+With a gesture to %OUself, %TU summons %PU inner strength.
+~
+~
+You motion at %TT to come here.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU makes a summoning gesture at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU motions at you to come to %OU.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"wookieehug":"wookieehug
+offer_affection
+hug_self
+offer_affection
+~
+You hold your arms out wide and look for a target to wookiee hug.
+~
+~
+%TU holds %PU arms out wide and looks for a target to wookiee hug.
+~
+~
+You wookiee hug yourself and stretch out your shoulders.
+~
+~
+%TU gives %OUself a wookiee hug and tries to stretch out %PU shoulders.
+~
+~
+You give %TT a great, big wookiee hug that lifts %OT off the ground.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives %TT a great, big wookiee hug.
+~
+~
+~
+~
+~
+~
+~
+~
+OOF! %TU gives you a great, big wookiee hug that lifts you off the ground.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"beam":"beam
+face_smile
+face_smile
+face_smile
+~
+Feeling radiant, are we?
+~
+~
+%TU beams.
+~
+~
+You beam at yourself.
+~
+~
+%TU beams at %OUself.
+~
+~
+You beam at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU beams at %TT
+~
+~
+~
+~
+~
+~
+~
+~
+%TU beams at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bbl":"BBL
+wave1
+wave1
+wave1
+~
+You tell everyone you will be back later... See ya soon!
+~
+~
+%TU will be back later.
+~
+~
+Trying to have an out of body experience, are we?
+~
+~
+%TU's mind just tried to part ways with %PU body. Think %OU has lost it?
+~
+~
+You let %TT know that you will be back later.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU lets %TT know that %SU will be back later.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU lets you know that %SU will be back later.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"batlashes":"batlashes
+face_bat_eyes
+face_bat_eyes
+face_bat_eyes
+~
+And just whom are you trying to impress?  You bat your lashes.
+~
+~
+%TU bats %PU lashes.
+~
+~
+You practice batting your lashes.
+~
+~
+%TU practices batting %PU lashes.
+~
+~
+You bat your lashes at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bats %PU lashes at %TT
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bats %PU lashes at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bark":"bark
+~
+~
+~
+~
+You get on all fours and bark like a dog.
+~
+~
+%TU gets on all fours and barks like a dog.
+~
+~
+You bark at yourself.
+~
+~
+%TU barks at %OUself.
+~
+~
+BARK BARK!  You bark at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+BARK BARK! %TU barks at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+BARK BARK! %TU barks at you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bang":"bang
+bang
+~
+~
+~
+You bang your head to the music.
+~
+~
+%TU bangs %PU head to the music.
+~
+~
+You bang your head against the wall.
+~
+~
+%TU bangs %PU head against the wall.
+~
+~
+You bang %TT's head against the wall.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU bangs %TT's head against the wall.
+~
+~
+~
+~
+~
+~
+~
+~
+OUCH! %TU bangs your head against the wall.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bak":"BAK
+wave1
+wave1
+wave1
+~
+You let everyone know that you are back at your keyboard.
+~
+~
+%TU blinks, springs back to life, and decrees, "I'M BACK!!"
+~
+~
+You smile contentedly as you realize you are back to your old self again!
+~
+~
+%TU seems back to %PU old self again!
+~
+~
+You wish that %TT would come back to %PT keyboard.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wishes that %TT would come back to %PT keyboard.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU wishes you would come back to your keyboard.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bah":"bah
+face_yuck_face
+face_yuck_face
+face_yuck_face
+~
+BAH!
+~
+~
+%TU sums %PU thoughts in one word, "BAH!"
+~
+~
+You take one look at your surroundings and think aloud, "BAH!"
+~
+~
+%TU looks around and thinks aloud, "BAH!"
+~
+~
+You look %TT up and down and utter, "BAH!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks %TT up and down and utters one word: "BAH!"
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks you up and down utters, "BAH!"
+~
+~
+~
+~
+~
+~
+~
+~
+",		"badfeeling":"badfeeling
+face_yuck_face
+face_yuck_face
+face_yuck_face
+~
+You have a bad feeling about this...
+~
+~
+%TU has a bad feeling about this...
+~
+~
+You start to express your bad feeling and think better of it.
+~
+~
+%TU starts to say something about a bad feeling and suddenly stops.
+~
+~
+You signal to %OT that you have a bad feeling about this...
+~
+~
+~
+~
+~
+~
+~
+~
+%TU signals to %TT that %SU has bad feeling about this...
+~
+~
+~
+~
+~
+~
+~
+~
+%TU signals to you that %SU has a bad feeling about this...
+~
+~
+~
+~
+~
+~
+~
+~
+",		"bad":"bad
+face_surprised
+face_innocent
+face_sneer
+~
+Uh. What just went horribly wrong?
+~
+~
+%TU expresses the opinion that something extremely wrong just occurred.
+~
+~
+Just how bad have you been?
+~
+~
+%TU tries to look innocent, but fails miserably. It is obvious %SU thinks that %SU has been bad.
+~
+~
+You make it obvious that you think %TT has been bad.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks that %TT has been bad.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU thinks you have been bad.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"backhand":"backhand
+backhand_threaten
+pound_fist_palm
+backhand
+~
+You raise your hand as if to backhand slap someone.
+~
+~
+%TU raises %PU hand as if preparing to backhand slap someone.
+~
+~
+You backhand slap your other palm, emphasizing your point.
+~
+~
+%TU backhand slaps %PU other palm, emphasizing %PU point.
+~
+~
+You slap %OT in the face with a swift backhand.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU slaps %TT in the face with a swift backhand.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU slaps you in the face with a swift backhand.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"ayt":"AYT
+~
+~
+ayt
+~
+You try to figure out who is AFK and who is not.
+~
+~
+%TU tries to figure out who is AFK and who is currently at their keyboard.
+~
+~
+I don't know.  Are you really here?
+~
+~
+%TU contemplates %PU existence and wonders if %SU is really here.
+~
+~
+Hello? %TT? Well, it seems %PT lights are on, but is anyone home?
+~
+~
+~
+~
+~
+~
+~
+~
+%TU waves %OU hand in front of %TT's face and wonders if %TT is there.
+~
+~
+~
+~
+~
+~
+~
+~
+Hello? Anyone home? %TU waves %OU hand in front of your face trying to figure out if you are really there.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"arch":"arch
+~
+~
+~
+~
+You arch your back like a cat.
+~
+~
+%TU arches %PU back like a cat.
+~
+~
+You arch your back in an effort to work the kinks out. SNAP! CRACK! POP!
+~
+~
+%TU's arching of %PU back is accompanied by a series of hollow popping sounds. OUCH!
+~
+~
+You arch your back seductively for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU arches and tries to look seductive for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU arches %PU back and gives you a seductive sideways glance.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"applaud":"applaud
+applause_excited
+applause_polite
+applause_excited
+~
+You give a hearty round of applause.
+~
+~
+%TU gives a hearty round of applause.
+~
+~
+You give yourself a hand. Go ahead, you deserve it!
+~
+~
+%TU gives %OUself a hand.
+~
+~
+Bravo! Bravo! You give %TT an ovation.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU applauds %TU.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU gives you an ovation. Good job!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"apologize":"apologize
+apologize
+shrug_hands
+apologize
+~
+OOPS!! Sorry everyone!!
+~
+~
+%TU apologizes to everyone.
+~
+~
+You apologize to yourself. But, what good is that going to do unless you forgive yourself too?
+~
+~
+%TU apologizes to %OUself. Next thing you know, %SU will be forgiving %OUself too.
+~
+~
+You apologize to %TT and beg %PT forgiveness.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU apologizes to %TT and begs %PT forgiveness.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU apologizes to you and begs your forgiveness.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"amazing":"amazing
+face_surprised
+face_surprised
+face_surprised
+~
+That was amazing! How did they do that?
+~
+~
+%TU thinks that was amazing! Remember, good magicians never reveal their secrets!
+~
+~
+You amaze yourself!
+~
+~
+%TU amazes %OUself.
+~
+~
+You try to amaze %TT with a magic trick.
+~
+~
+~
+~
+~
+~
+~
+~
+*POOF!* %TU tries to amaze %TT and makes the gray matter between %PU ears disappear!
+~
+~
+~
+~
+~
+~
+~
+~
+*POOF!* %TU tries to amaze you and makes the gray matter between %PU ears disappear!
+~
+~
+~
+~
+~
+~
+~
+~
+",		"agree":"agree
+nod_head_once
+nod_head_multiple
+nod_head_once
+~
+You nod in agreement.
+~
+~
+%TU nods in agreement.
+~
+~
+You agree with yourself.
+~
+~
+%TU agrees with %OUself.
+~
+~
+You agree with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU agrees with %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU agrees with you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"afk4food":"AFK4FOOD
+afk
+afk
+afk
+~
+Your stomach will thank you.  You announce you are AFK to grab a bite.
+~
+~
+%TU is going AFK to get something to eat.
+~
+~
+You announce that you will be AFK to grab some food at the next break in the action.
+~
+~
+%TU is going AFK to find something to fill %PU stomach next break in the action.
+~
+~
+You let everyone know that %TT went AFK to find sustenance.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU notes that %TT is AFK looking for some comestibles.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates that you are AFK getting food.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"afk4drink":"AFK4DRINK
+afk
+afk
+afk
+~
+We'll be waiting! You announce you are AFK to get a drink.
+~
+~
+%TU is AFK getting something to wet %PU whistle.
+~
+~
+You let everyone know that you will be going to grab a drink next break.
+~
+~
+%TU is thirsty and will be AFK to get a drink next break in the action.
+~
+~
+You remind everyone that %TT went AFK to go get a beverage.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU indicates that %TT went AFK to get some liquid refreshment.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU notes that you went AFK to get a drink.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"isafk":"isafk
+~
+~
+~
+~
+You notify everyone around you that you are going AFK. Hurry back, now!
+~
+~
+%TU announces that %SU is going AFK.
+~
+~
+OK... You are really AFK now.
+~
+~
+%TU is really AFK now... Honest!
+~
+~
+You point out that %TT is AFK.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU points out that %TT is AFK.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU tells everyone that you are AFK.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"adn":"ADN
+stamp_feet
+face_bored
+check_wrist_device
+~
+You openly show that your patience has expired.
+~
+~
+%TU openly shows that %PU patience has expired.
+~
+~
+A bit frustrated with yourself?
+~
+~
+%TU begins to look impatient with %OUself.
+~
+~
+You encourage %TT to hurry. Any day now!
+~
+~
+~
+~
+~
+~
+~
+~
+%TU sarcastically points out the time to %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU looks a bit impatient and tells you "Any day now!"
+~
+~
+~
+~
+~
+~
+~
+~
+",		"adjust":"adjust
+adjust
+adjust
+~
+~
+You adjust your outfit. There you go. Perfect!
+~
+~
+%TU adjusts %PU outfit.
+~
+~
+You tighten down your gear and get ready for action.
+~
+~
+%TU tightens down %PU gear and gets ready for action.
+~
+~
+You adjust %TT's outfit for %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU adjusts %TT's outfit for %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU adjusts your outfit for you, trying to make it sit properly.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"ache":"ache
+shrug_shoulders
+shiver
+offer_affection
+~
+You ache all over.
+~
+~
+%TU aches all over.
+~
+~
+Eat something bad? Your stomach grumbles and aches.
+~
+~
+%TU's stomach rumbles, obviously causing discomfort.
+~
+~
+You let %TT know that your body aches for %OT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU's body aches for %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU's body aches for you.
+~
+~
+~
+~
+~
+~
+~
+~
+",		"accuse":"accuse
+point_accusingly
+point_to_self
+blame
+~
+You point accusingly at everyone else.
+~
+~
+%TU points accusingly at everyone.
+~
+~
+Have you been bad? Tsk, tsk.
+~
+~
+%TU points accusingly at %OUself.
+~
+~
+You point accusingly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+%TU points accusingly at %TT.
+~
+~
+~
+~
+~
+~
+~
+~
+What did you do this time? %TU points accusingly at you.
+~
+~
+~
+~
+~
+~
+~
+~
+"
+}}

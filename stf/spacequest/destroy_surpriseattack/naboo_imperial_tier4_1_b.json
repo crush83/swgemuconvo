@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/naboo_imperial_tier4_1_b",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The crystal smuggler apparently had a squad of fighters watching over it. Destroy all of those fighters and make sure you secure those crystals.",		"title":"Dathomir System: Destroy the Mercenary Ambush",		"split_quest_alert_fail":"",		"split_quest_alert":"Whatever that smuggler had, someone wants it back badly. Deliver the contents to our transport shuttle.",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

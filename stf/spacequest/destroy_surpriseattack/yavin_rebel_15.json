@@ -1,12 +1,5 @@
-[
-'10':'unused2_t',
-'9':'unused2_d',
-'8':'unused1_t',
-'7':'unused1_d',
-'6':'title_d',
-'5':'title',
-'4':'split_quest_alert_fail',
-'3':'split_quest_alert',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/yavin_rebel_15",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"You have to eliminate the Imperial fighters!",		"title":"Lok system: Eliminate Imperial fighters.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"complete":"Rebel Command: < Good work pilot, you beat the ambush. Return to base for some well earned rest. >",		"assigned_delayed":""
+}}

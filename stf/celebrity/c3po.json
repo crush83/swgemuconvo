@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/c3po",
+	"entries": {
+		"npc_11":"Oh, those wretched Jawas.  I'll never forgive them for that.",		"player_10":"Kidnapped?",		"npc_10":"I seem to think so.  But I can't really remember.  ",		"player_9":"Were you ever hurt?",		"npc_5":"Oh, I've been in all kinds.  I've been kidnapped, been in battles, been on secret missions...It's all too much.",		"player_6":"What kind of trouble?",		"npc_9":"Not just any R2 Unit.  This one is special.  His specialty seems to be finding trouble.",		"player_8":"Are you talking about an R2 Unit?",		"npc_8":"Oh gracious.  It seems his reputation precedes him again.",		"player_7":"Artoo the famous droid of the Alliance?",		"npc_4":"Ah.  Yes.  Well, I do seem to get into a lot of trouble.  Actually Artoo gets me into most of it.  Blasted little bolt heap.",		"player_5":"This time?",		"npc_3":"Oh, thank goodness.  I was trying to keep out of trouble this time.",		"npc_7":"I've actually grown accustomed to it.",		"player_4":"That's terrible.",		"npc_6":"It seems to be all I get.",		"player_3":"Get a lot of complaints?",		"npc_2":"I don't believe so.  But people rarely talk to me except to complain.",		"player_2":"I don't think so.",		"player_1":"I don't know.  Have you?",		"npc_1":"Oh dear, now what?  Have I done something wrong?"
+}}

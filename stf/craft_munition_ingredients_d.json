@@ -1,64 +1,14 @@
-[
-'62':'acklay_venom',
-'61':'kliknick_gland',
-'60':'warhead_insulator',
-'59':'target_tracker',
-'58':'shell_expulsion_unit',
-'57':'schell_expulsion_unit',
-'56':'warheads',
-'55':'shell_handling_unit',
-'54':'schell_handling_unit',
-'53':'launch_tubes',
-'52':'launch_tube',
-'51':'ignition_pulse_generator',
-'50':'igniter_charge',
-'49':'null_field_generator',
-'48':'activation_indicator',
-'47':'thumb_trigger',
-'46':'shell',
-'45':'module_casing',
-'44':'containment_preventor',
-'43':'fuse_warhead_interface',
-'42':'field_interdiction_coil',
-'41':'interdiction_coil_substrate',
-'40':'thermal_insulation',
-'39':'chemical_payload',
-'38':'trigger_pulse_prism',
-'37':'containment_field_coil',
-'36':'chemical_containment',
-'35':'pulse_conduit_media',
-'34':'charge_routing_vanes',
-'33':'frag_sleeve_booster',
-'32':'frag_sleeve_core',
-'31':'frag_sleeve_binder',
-'30':'charge_spacer_mount',
-'29':'charge_spacer',
-'28':'charge_composition_spacer_cap',
-'27':'charge_catalyst',
-'26':'charge_booster',
-'25':'chem_jet_assembly',
-'24':'charge_neutralization_agent',
-'23':'charge_environ_seal',
-'22':'warhead_stabilizer',
-'21':'warhead_medium',
-'20':'warhead_light',
-'19':'warhead_heavy',
-'18':'warhead_fusing_mechanism',
-'17':'warhead_chemical',
-'16':'enhanced_fragmentation_sleeve',
-'15':'enhanced_destructive_pulse_channeling',
-'14':'enhanced_charge_shaping',
-'13':'enhanced_charge_composition',
-'12':'munition_enhancer',
-'11':'ammo_projectile_entanglement',
-'10':'ammo_projectile',
-'9':'fragmentation_enhancement',
-'8':'warhead_enhancement',
-'7':'warhead_booster',
-'6':'warhead_assembly',
-'5':'body_shell',
-'4':'fragmentation_sleeve',
-'3':'timed_dial',
-'2':'magnetic_grapple',
-'1':'warhead_fusing',
-]
+{
+	"stfFile":"craft_munition_ingredients_d",
+	"entries": {
+		"acklay_venom":"Venom from the deadly Acklay creature, this can be used to make dangerous weapons.",		"kliknick_gland":"This Kliknik gland could be used to enhance the power of a munition.",		"warhead_insulator":"This insulates the warhead and helps maintain temperature stability, particularly during launch and delivery.",		"target_tracker":"A target tracker is used to help line up a shot, and increases a rocket or missile launcher's accuracy.",		"shell_expulsion_unit":"A shell expulsion unit propels shells out of a rocket or missile launcher's tube.",		"schell_expulsion_unit":"A shell expulsion unit propels shells out of a rocket or missile launcher's tube.",		"warheads":"A bundle of warheads.",		"shell_handling_unit":"A shell handling unit is used to load, unload, and sometimes store additional shells.",		"schell_handling_unit":"This shell handling unit is used to load and unload shells during action.",		"launch_tubes":"A launch tube both holds a rocket or missile in addition to acting as an aiming device.",		"launch_tube":"A launch tube both holds a rocket or missile in addition to acting as an aiming device.",		"ignition_pulse_generator":"An ignition pulse generator is used to ignite a rocket or missile.",		"igniter_charge":"An igniter charge is used to set off certain reactions, generally explosions.",		"null_field_generator":"A null field generator is helpful at keeping grenades and detonators from exploding in their user's hand.",		"activation_indicator":"An activation indicator generally consists of blinking lights (and sometimes a loud beep or chirp) that lets a grenadier know that their grenade is now armed.  One benefit of this is the intimidation factor this can have by arming a grenade in a crowded room ",		"thumb_trigger":"A thumb trigger, used in many grenade styles.",		"shell":"A hollow shell.",		"module_casing":"A module casing.",		"containment_preventor":"A containment preventor acts to release a warhead payload from its containment unit upon detonation.",		"fuse_warhead_interface":"A warhead fuse's interface.",		"field_interdiction_coil":"An interdiction field coil is required to help stabilize warhead payloads during transport, installation, and launch.",		"interdiction_coil_substrate":"This interdiction coil substrate helps contribute to a stable environment inside of a warhead, even during launch.",		"thermal_insulation":"Thermal insulation helps to maintain a constant temperature.",		"chemical_payload":"This extremely hazardous chemical payload must be installed into a chemical warhead with great caution.",		"trigger_pulse_prism":"A trigger pulse prism.",		"containment_field_coil":"A containment field coil is necessary to maintain the integrity of chemical containment devices.",		"chemical_containment":"A chemical containment canister.",		"pulse_conduit_media":"Pulse conduit media.",		"charge_routing_vanes":"Some charge routing vanes.",		"frag_sleeve_booster":"A fragmentation sleeve booster.",		"frag_sleeve_core":"A fragmentation sleeve's core.",		"frag_sleeve_binder":"A fragmentation sleeve binder.",		"charge_spacer_mount":"A charge spacer mount.",		"charge_spacer":"A charge spacer.",		"charge_composition_spacer_cap":"A charge composition spacer cap.",		"charge_catalyst":"A charge catalyst.",		"charge_booster":"A charge booster.",		"chem_jet_assembly":"Chemical spray-jet assembly.",		"charge_neutralization_agent":"A charge-neutralization agent.",		"charge_environ_seal":"A charge environ seal.",		"warhead_stabilizer":"This device is necessary to keep the warhead's payload stable during motion and launch.",		"warhead_medium":"This warhead is designed for a powerful explosion.",		"warhead_light":"This warhead is designed for minimum collateral damage.",		"warhead_heavy":"This warhead is designed for a massive explosion.",		"warhead_fusing_mechanism":"This is responsible for the warhead fuse's ignition.",		"warhead_chemical":"This warhead is designed to disperse lethal chemicals.",		"enhanced_fragmentation_sleeve":"This is a fragmentation sleeve with an enhanced effect.",		"enhanced_destructive_pulse_channeling":"This is a destructive pulse channeling with an enhanced effect.",		"enhanced_charge_shaping":"This is an explosive charge shaping with an enhanced effect.",		"enhanced_charge_composition":"This is an explosive charge composition with an enhanced effect.",		"munition_enhancer":"Enhances the effectiveness of munitions.",		"ammo_projectile_entanglement":"Ammunition used in entanglement projectile weapons.",		"ammo_projectile":"Basic ammunition used in projectile weapons.",		"fragmentation_enhancement":"Increases the fragmentation effect of the grenade
+",		"warhead_enhancement":"Serves to shape the detonation shockwave in an effort to increase its effect.
+",		"warhead_booster":"Serves to increase the explosive yield of the grenade.
+",		"warhead_assembly":"Gives the grenade its explosive power.
+",		"body_shell":"The outer casing for the grenade.
+",		"fragmentation_sleeve":"A fitting of pre-scored metal that fits over a grenade casing, giving it a fragmentation effect.
+",		"timed_dial":"Controls the countdown till detonation.
+",		"magnetic_grapple":"Allows the grenade to be easily and securely stowed stowed in specially equipped pockets and equipment racks.
+",		"warhead_fusing":"Responsible for detonating the grenade's explosive charge.
+"
+}}

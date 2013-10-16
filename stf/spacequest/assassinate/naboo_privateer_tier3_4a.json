@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_privateer_tier3_4a",
+	"entries": {
+		"title_d":"Destroy the Black Sun Assassin",		"title":"Dantooine System: Destroy the Black Sun Assassin",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 We have the opportunity to take out a second target.  Proceed to Lok Space as fast as possible. \#pcontrast3 >",		"quest_update":"%TO",		"quest_target_t":"Beldini",		"quest_target_d":"A ruthless Black Sun Assassin linked to a number of attacks on Naboo citizens",		"quest_location_t":"Dantoone System",		"quest_location_d":"An area in the Dantooine System",		"quest_escort_t":"Black Sun Pirates",		"quest_escort_d":"Secondary objectives, destroy at all costs.",		"failed_escape":"\#pcontrast3 RSF Command: < \#pcontrast1 Beldini has escaped! This spells dark times for our Diplomatic Corps. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escort craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escort craft has been destroyed, %DI remain \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 RSF Command: < \#pcontrast1 Great job, now finish off his escort. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 RSF Command: < \#pcontrast1 Beldini has been destroyed!  The Diplomatic Corps has one less assassin to fear now. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 RSF Command: \#pcontrast1 Beldini's craft has dropped from hyperspace.  Transmitting his location now. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 RSF Command: < \#pcontrast1 Beldini will be in the sector shorly, stand by for coordinates. \#pcontrast3 >"
+}}

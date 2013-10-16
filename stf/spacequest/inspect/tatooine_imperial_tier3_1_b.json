@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/tatooine_imperial_tier3_1_b",
+	"entries": {
+		"title_d":"Remain in the Endor systema nd inspect a Rebel Advanced Recon fighter that was noticed on scanners during your last mission. You need to find out why the Rebels are in this system and how they knew about the Imperial engineers' shuttles.",		"title":"Endor System: Inspect the Rebel Advanced Recon Fighter",		"split_quest_alert_fail":"",		"split_quest_alert":"Alert! Enemy fighters have attacked an Imperial supply freighter. Freighter reports that they managed to escape but are badly damaged. Prepare to meet with the freighter, assist with repairs, and escort it through the system safely.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"The Rebel Recon fighter is still inside the system. He doesn't seem to be aware that he has been spotted. A navigation waypoint to the scout's location will be supplied to you.",		"quest_inspect_t":"Inspect the Rebel Advanced Recon Fighter",		"quest_inspect_d":"Disable and inspect the scout to see if he might have any information as to why they are here and what they are planning.",		"quest_dock_t":"Transfer the Rebel Orders",		"quest_dock_d":"Once you have located the Rebel orders, dock with the scout and transfer them to your vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

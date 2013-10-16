@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_rebel_tier4_1",
+	"entries": {
+		"title_d":"The Empire is testing out some of their new ships, lets give them a training they won't forget.",		"title":"Dathomir system: Attack the Empires advanced fighters.",		"split_quest_alert_fail":"General Ufwol: < You need to get out of there! We're uploading the pre-planned escape route to your nav computer now. Get ready to move! >",		"split_quest_alert":"General Ufwol: < The Empire is scattering their forces. Lets drive the nail in further, stand by for assignments. >",		"quest_update":"Crimson Phoenix Squadron Leader: < %TO >",		"quest_location_t":"Dathomir system.",		"quest_location_d":"The Dathomir system is always considered a high-risk system. It's extremely well guarded by the Empire and only the craziest or best pilots not belonging to the Empire travels there, which makes it even more dangerous. To make it worse, you're heading in to Imperial areas.",		"quest_helpallies_t":"Attack the Imperial scum!",		"quest_helpallies_d":"Show the rest of the squad that you belong here pilot. Assist them in decimating the Imperial fools!",		"quest_findbattle_t":"Imperial training area.",		"quest_findbattle_d":"The coordinates to the Imperial training area should now be in your nav computer. Approach with care but be swift, the rest of the squad will join up with you near these coordinates.",		"found_loc":"Proceed to these coordinates and join up with us, on the double!",		"enemies_win":"Pull out, pull out! We can't w.. this! Reg..up n..",		"enemies_remain":"Tactical Computer: < Sensors show enemy target terminated. %DI enemy targets remain. >",		"enemies_arrived":"Greetings pilot, enemy presence is confirmed at the correct coordinates. Proceed as planned.",		"battle_started":"Lets show these fools how it's really done. Attack pattern V!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"That's the best the Empire has? Pathetic.",		"allies_remain":"Rebel Pilot: < My baby is falling apart! Ejecting! >",		"allies_arrived":"We are in position, join up pilot.",		"Quest Log Data":"Text"
+}}

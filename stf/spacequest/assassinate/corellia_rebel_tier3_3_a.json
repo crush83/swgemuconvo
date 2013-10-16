@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_rebel_tier3_3_a",
+	"entries": {
+		"title_d":"One of the Empires advanced recon ships have been spotted close to the area where you dropped off the data to our command ship. We are not sure if it has revealed the location of our fleet but we can't take any chances. Terminate it!",		"title":"Endor system: Destroy Imperial Reconnaissance Ship.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Fleet Command: < Time to ambush some of the Empire lackeys. Proceed to this location and help Green squadron, their numbers are down after some hard battles. >",		"quest_update":"Rebel Fleet Command: < %TO >",		"quest_target_t":"Imperial Advanced Recon ship.",		"quest_target_d":"The target you need to eliminate is a modified Imperial "Lambda" shuttle. It has advanced sensors, cameras, bugging equipment etc. Even if it doesn't have any valuable information about our fleet, the opportunity to destroy one of these expensive ships can not be missed.",		"quest_location_t":"Endor system.",		"quest_location_d":"With the increasing presence of Imperial ships in this system, every mission will become harder and harder.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"Blasted! He got away, get out of there, he's sure to have sent for reinforcements.",		"escort_wiped_out":"Rebel Fleet Command: < Well now you don't have to worry about those anymore, take out that recon ship! >",		"escort_remaining":"Rebel Fleet Command: < Good job but concentrate on the recon ship, you can't let it get away. >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Good work pilot. Get out of there, we have more missions that require your assistance.",		"arrival_phase_2":"Proceed to these coordinates and hunt the ship down. He will undoubtedly spot you and try to escape, don't let him.",		"arrival_phase_1":"Uploading coordinates to the last known position of the Imperial reconnaissance ship.",		"Quest Log Data":"Text"
+}}

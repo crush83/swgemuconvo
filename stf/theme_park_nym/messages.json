@@ -1,17 +1,5 @@
-[
-'15':'inventory_fiull_imggcu',
-'14':'inventory_full_gas',
-'13':'inventory_full_hd',
-'12':'need_passkey',
-'11':'acquired_hard_drive',
-'10':'acquired_imggcu',
-'9':'all_nym_needed',
-'8':'acquired_gas',
-'7':'acquired_memory',
-'6':'card_loser',
-'5':'card_tie',
-'4':'card_winner',
-'3':'cant_get_filter',
-'2':'cant_get_module',
-'1':'hack_computer',
-]
+{
+	"stfFile":"theme_park_nym/messages",
+	"entries": {
+		"inventory_fiull_imggcu":"You have no room in your inventory for the IMGGCU.",		"inventory_full_gas":"You have no room in your inventory for the gas cannister.",		"inventory_full_hd":"You have no room in your inventory for the hard drive.",		"need_passkey":"You cannot enter the Research Laboratory without the Pass Key.",		"acquired_hard_drive":"You have acquired the Research Information, you need to find the IMGGCU's.",		"acquired_imggcu":"You have acquired the IMGGCU's, you need to find the Research information.",		"all_nym_needed":"You have everything you need to return to Nym.",		"acquired_gas":"You have acquired the filtered gasses.  Return with them to Kole.",		"acquired_memory":"You have acquired the Droid Memory Module. Return it to Jinkins.",		"card_loser":"You lost.  Your credits are given to the winner of the game.",		"card_tie":"Your bet was returned since the game was a tie.",		"card_winner":"The credits have been deposited in your bank account for winning.",		"cant_get_filter":"It's jammed in there pretty good...",		"cant_get_module":"You can't get the module out of the droid...",		"hack_computer":"You can not enter this area until the computer has been hacked."
+}}

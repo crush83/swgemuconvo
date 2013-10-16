@@ -1,65 +1,67 @@
-[
-'63':'jaq3_75',
-'62':'jaq3_74',
-'61':'jaq3_73',
-'60':'jaq3_72',
-'59':'jaq3_71',
-'58':'jaq3_70',
-'57':'jaq3_69',
-'56':'jaq3_68',
-'55':'jaq3_67',
-'54':'jaq3_66',
-'53':'jaq3_64',
-'52':'jaq3_63',
-'51':'jaq3_61',
-'50':'jaq3_60',
-'49':'jaq3_58',
-'48':'jaq3_56',
-'47':'jaq3_54',
-'46':'jaq3_53',
-'45':'jaq3_52',
-'44':'jaq3_51',
-'43':'jaq3_50',
-'42':'jaq3_49',
-'41':'jaq3_47',
-'40':'jaq3_46',
-'39':'jaq3_45',
-'38':'jaq3_44',
-'37':'jaq3_43',
-'36':'jaq3_42',
-'35':'jaq3_41',
-'34':'jaq3_40',
-'33':'jaq3_39',
-'32':'jaq3_37',
-'31':'jaq3_35',
-'30':'jaq3_34',
-'29':'jaq3_33',
-'28':'jaq3_32',
-'27':'jaq3_31',
-'26':'jaq3_30',
-'25':'jaq3_29',
-'24':'jaq3_28',
-'23':'jaq3_27',
-'22':'jaq3_25',
-'21':'jaq3_24',
-'20':'jaq3_23',
-'19':'jaq3_22',
-'18':'jaq3_21',
-'17':'jaq3_19',
-'16':'jaq3_18',
-'15':'jaq3_17',
-'14':'jaq3_16',
-'13':'jaq3_15',
-'12':'jaq3_14',
-'11':'jaq3_13',
-'10':'jaq3_12',
-'9':'jaq3_11',
-'8':'jaq3_9',
-'7':'jaq3_8',
-'6':'jaq3_7',
-'5':'jaq3_6',
-'4':'jaq3_5',
-'3':'jaq3_4',
-'2':'jaq3_3',
-'1':'jaq3_2',
-]
+{
+	"stfFile":"jabba_advanced_quest_3",
+	"entries": {
+		"jaq3_75":"Back to the Palace!
+",		"jaq3_74":"Jabba commands that you shoot the spy... knocking.... Knocking him into the pit!
+",		"jaq3_73":"Shoot him!
+",		"jaq3_72":"No! No!  It's not true!
+",		"jaq3_71":"You will die now!  Throw him into the Sarlacc pit!
+",		"jaq3_70":"Jabba wishes for you to now reveal to all assembled, who is this foolish spy?
+",		"jaq3_69":"Amazing!  A spy in Jabba's Palace!?
+",		"jaq3_68":"Who would dare to spy on Jabba?
+",		"jaq3_67":"A spy!
+",		"jaq3_66":"Attention please!  The Majestic Jabba the Hutt would like to announce his great pleasure with the accomplishments of one of his most trusted and distinguished colleagues.  And his fearsome displeasure with the SPY in our midst.
+",		"jaq3_64":"It is time to go for a ride on the Sail Barge!
+",		"jaq3_63":"So, you have discovered who the spy is.  Well done.  I think it's time for our unwelcome visitor to take a ride on the Sail Barge.  Get aboard the Sail Barge if you want to see what happens to those who cross me.
+",		"jaq3_61":"What's this, a trick?  This disc is blank!  The fool must have given you the wrong one.  Go back and get the right disc this time!
+",		"jaq3_60":"Where are you going?  I told you to bring that data to me.
+",		"jaq3_58":"You are the man Valarian sent.  Here, take this information back to her.
+",		"jaq3_56":"Find out who the spy is and bring me the information he has stolen.
+",		"jaq3_54":"Yes, I feel I can trust you with a very important mission.  I have a spy in Jabba's Palace.  Go there and he will contact you.
+",		"jaq3_53":"Nothing to it.  Here's the shipping information.  Anything else I can do?
+",		"jaq3_52":"Yes, I am quite good.  Here's the shipping information.  Anything else I can do?
+",		"jaq3_51":"Fantastic!  Jabba is a fool to let someone as talented as you are slip away from him!
+",		"jaq3_50":"",		"jaq3_49":"I hear you are to steal some shipping information from me.  Excellent!  I'll make it easy for you.  I'm sending you the coordinates of some expendable men I've sent outside the palace with the information.  You can dispose of them for me, and take the shipping information for Valarian so that she will trust you more.
+",		"jaq3_47":"No time to waste, then.  On your way!
+",		"jaq3_46":"I see your point.  Leave it to me.
+",		"jaq3_45":"Don't be foolish.  If you steal it from Notsub shipping, they'll change their schedule.  Jabba has managed to steal the information without them knowing about it.  Besides, he trusts you.
+",		"jaq3_44":"Couldn't I steal it from Notsub shipping instead?
+",		"jaq3_43":"Leave it to me.
+",		"jaq3_42":"I have a dangerous mission for you, if you think you can handle it.  I want you to abuse Jabba's trust to acquire Notsub shipping information from him.
+",		"jaq3_41":"Is there anything else I can do for you?
+",		"jaq3_40":"Thanks!
+",		"jaq3_39":"Excellent!  You protected the shipment.  You deserve this reward.
+",		"jaq3_37":"Soon as that ship lands, we'll start transferring the cargo.  You keep an eye out for sandpeople!
+",		"jaq3_35":"I am expecting a shipment to land... out in the desert away from prying eyes.  But sandpeople might attack the shipment out there.  You go there and ensure that the shipment is safe while my people transfer it from the ship to their transport.
+",		"jaq3_34":"What's the mission?
+",		"jaq3_33":"I'll do it.
+",		"jaq3_32":"That's very bold of you, to steal from Jabba.  Then I have a mission for you if you want to work for me.
+",		"jaq3_31":"He didn't.  I stole it for you.  I don't work for Jabba any more.  I want to work for you.
+",		"jaq3_30":"This is useful, no doubt.  But why would Jabba send this to me?
+",		"jaq3_29":"I have an Imperial Patrol Schedule for you.
+",		"jaq3_28":"I don't work for Jabba any more.  I want to work for you.  As a token of good faith, I stole this Imperial Patrol Schedule from Jabba to give to you.
+",		"jaq3_27":"My Enforcer says you have a special delivery for me, but I know that you work for Jabba the Hutt.  So what is it?
+",		"jaq3_25":"Then take it to her immediately.
+",		"jaq3_24":"Then get away from here before we shoot you.
+",		"jaq3_23":"Nothing.  Nevermind.
+",		"jaq3_22":"I have a special delivery for Lady Valarian.
+",		"jaq3_21":"What do you want?
+",		"jaq3_19":"I will give you the coordinates of an Imperial Patrol.  Ambush them and take their schedule to Lady Valarian.  Now go!
+",		"jaq3_18":"Where can I get an Imperial Patrol Schedule?
+",		"jaq3_17":"Ok.
+",		"jaq3_16":"Take an Imperial Patrol schedule to her and tell her that you stole it from me.  Then do whatever she asks of you.  Make her believe you are loyal to her.
+",		"jaq3_15":"Do not waste time.  Return to me in the main Audience chamber when you are ready then.
+",		"jaq3_14":"I need some time to prepare before I can take this mission for you.
+",		"jaq3_13":"How do I convince her to trust me?
+",		"jaq3_12":"Ok
+",		"jaq3_11":"There is a spy in the Palace working for Lady Valarian. Find out who it is.  You are to go to work for Lady Valarian.  Tell her you are not happy with the Hutts.  Do what you must to earn her trust, and find the identity of this spy.
+",		"jaq3_9":"You fool!  Valarian's spy must not suspect you are working for me.  Go!
+",		"jaq3_8":"Not right now.
+",		"jaq3_7":"Yes.
+",		"jaq3_6":"You were slow. Come quicker next time.  Are you ready for an important mission?
+",		"jaq3_5":"Do not waste my time.  Return to me when you are ready for a very important job.
+",		"jaq3_4":"Not right now.
+",		"jaq3_3":"I'll be right there.
+",		"jaq3_2":"There are sensitive matters to discuss.  Meet me in my private chambers.  Here is the access code.
+"
+}}

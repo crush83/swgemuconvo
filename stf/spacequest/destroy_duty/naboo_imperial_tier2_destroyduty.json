@@ -1,33 +1,5 @@
-[
-'31':'title_d',
-'30':'title',
-'29':'taunt_5',
-'28':'taunt_4',
-'27':'taunt_3',
-'26':'taunt_2',
-'25':'taunt_1',
-'24':'targets_detected',
-'23':'targets_behind',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_destroy_t',
-'19':'quest_destroy_d',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'duty_update',
-'13':'dd_boss_taunt_5',
-'12':'dd_boss_taunt_4',
-'11':'dd_boss_taunt_3',
-'10':'dd_boss_taunt_2',
-'9':'dd_boss_taunt_1',
-'8':'complete',
-'7':'boss_title_5',
-'6':'boss_title_4',
-'5':'boss_title_3',
-'4':'boss_title_2',
-'3':'boss_title_1',
-'2':'boss_detected',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_duty/naboo_imperial_tier2_destroyduty",
+	"entries": {
+		"title_d":"Travel to the Dantooine system and destroy the Rebel X-wing fighters. High Command cannot allow the Rebellion to gain any sort of foothold in the Dantooine system. Hunt down and destroy all Rebel vessels in the region.",		"title":"Dantooine System: Destroy the X-wing Fighters Duty",		"taunt_5":"I wouldn't want to be you right now.",		"taunt_4":"You are going to pay for that!",		"taunt_3":"Big mistake!",		"taunt_2":"Imperial dog, you will have to better then that.",		"taunt_1":"You shouldn't be here.",		"targets_detected":"\#pcontrast1 Tactical Computer:\#pcontrast3 < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"targets_behind":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy vessel detected 180 degrees from your current location.>",		"quest_location_t":"Travel to the Dantooine System",		"quest_location_d":"Move into Dantooine space. Intelligence has reports of areas of high Rebel activity and will supply those locations to you. Travel to each navigation waypoint and destroy all Rebels there.",		"quest_destroy_t":"Destroy the Rebel X-wing Fighters",		"quest_destroy_d":"Travel to each of the given waypoints and destroy all attacking Rebels. If you cause enough trouble, they will send out their best pilots to deal with you.",		"level_increase":"Intelligence reports an increase in Rebel activities. This probably in direct response to your victories.",		"level_boss_dead":"Now the Rebel scum know the true might of the Imperial Inquisition. Stand by for further orders.",		"level_boss":"A %TO has been detected in your area. Proceed with caution.",		"found_loc":"Area of heavy enemy fighter presence has been updated to your navigation computer. Proceed with the assault.",		"duty_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"dd_boss_taunt_5":"I will make this quick and painless.",		"dd_boss_taunt_4":"I would have thought they would have more respect for my skills.",		"dd_boss_taunt_3":"Prepare to become space dust.",		"dd_boss_taunt_2":"You are on the wrong side, friend.",		"dd_boss_taunt_1":"They sent you to try to defeat me?",		"complete":"Nice work, pilot. You have done a great service for the Inquisition and the Emperor this day. No more enemy fighters detected, return to base.",		"boss_title_5":"Rebel Ace",		"boss_title_4":"Rebel Squad Leader",		"boss_title_3":"Master Rebel Pilot",		"boss_title_2":"Veteran Rebel Pilot",		"boss_title_1":"Experienced Rebel Pilot",		"boss_detected":"\#pcontrast1 Tactical Computer:\#pcontrast3 < Vessel with veteran insignias on attack vector, weapon systems armed. >",		"Quest Log Data":"Text"
+}}

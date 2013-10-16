@@ -1,39 +1,19 @@
-[
-'37':'finish_detail',
-'36':'finish_summary',
-'35':'main_detail',
-'34':'wrong_phase',
-'33':'return8_detail',
-'32':'return7_detail',
-'31':'return6_detail',
-'30':'return5_detail',
-'29':'return4_detail',
-'28':'return3_detail',
-'27':'return2_detail',
-'26':'return1_detail',
-'25':'return8',
-'24':'return7',
-'23':'return6',
-'22':'return5',
-'21':'return4',
-'20':'return3',
-'19':'return2',
-'18':'return1',
-'17':'task8_detail',
-'16':'task7_detail',
-'15':'task6_detail',
-'14':'task5_detail',
-'13':'task4_detail',
-'12':'task3_detail',
-'11':'task2_detail',
-'10':'task1_detail',
-'9':'task8',
-'8':'task7',
-'7':'task6',
-'6':'task5',
-'5':'task4',
-'4':'task3',
-'3':'task2',
-'2':'task1',
-'1':'main',
-]
+{
+	"stfFile":"quest/quest_journal/fs_quests_sad2",
+	"entries": {
+		"finish_detail":"You have completed your work for Dageerin and unlocked the ability to use the ranged defense skill.",		"finish_summary":"Completed Quest - Unlocked Skill Enhanced Reflexes: Ranged Defense",		"main_detail":"We're taking the fight to the enemy while we prepare our invincible shield defense.  Because of the preparations, and the scale of the conflict, our normal militia is overworked.  We're recruiting auxiliaries to be frontline combat troops.  We know the location of a number of Shadow bases that we want taken out to keep them on the run.  ",		"wrong_phase":"You did not complete your existing quest (Search and Destroy) in time.  You must restart that quest.",		"return8_detail":"Return to the NPC.",		"return7_detail":"Return to Dageerin, in the village.",		"return6_detail":"Return to Dageerin, in the village.",		"return5_detail":"Return to Dageerin, in the village.",		"return4_detail":"Return to Dageerin, in the village.",		"return3_detail":"Return to Dageerin, in the village.",		"return2_detail":"Return to Dageerin, in the village.",		"return1_detail":"Return to Dageerin, in the village.",		"return8":"Search And Destroy II 8/8 - Return to village",		"return7":"Search And Destroy II 7/8 - Return to village",		"return6":"Search And Destroy II 6/8 - Return to village",		"return5":"Search And Destroy II 5/8 - Return to village",		"return4":"Search And Destroy II 4/8 - Return to village",		"return3":"Search And Destroy II 3/8 - Return to village",		"return2":"Search And Destroy II 2/8 - Return to village",		"return1":"Search And Destroy II 1/8 - Return to village",		"task8_detail":"All right, we're getting somewhere, finally.  Reports are coming in that a high-ranking officer of the Shadow is holed up nearby.  Take him out, now.
+
+Note: Dageerin said to use the radiation sensor, found in your datapad, to track the tracking device planted on them.",		"task7_detail":"All of the reports coming in are promising - we definitely have them on the run now. 
+
+I think we're getting to their more elite troops - please be careful.",		"task6_detail":"Our spies have netted us another camp.  But you'll have to act quickly.  They look like they're ready to move.",		"task5_detail":"We may have turned the corner on this thing.  It feel great to finally take the battle to our enemy instead of waiting for them to attack.  
+
+Ready for another one?
+
+Note: Dageerin said to use the radiation sensor, found in your datapad, to track the tracking device planted on them.",		"task4_detail":"They've started moving their bases around in response to our attacks.  With the help of the Force, I hope we can find their new camps quickly.  Can you help?
+
+Note: Dageerin said to use the radiation sensor, found in your datapad, to track the tracking device planted on them.",		"task3_detail":"We'll bring this Shadow out into the open if it's the last thing we do.  I'm redoubling our patrols, which places great strain on the auxiliares.  Think you can handle it?
+
+Note: Dageerin said to use the radiation sensor, found in your datapad, to track the tracking device planted on them.",		"task2_detail":"Someone is feeding them troops and materiel, but we don't know who.  We've located a base that's supplying a large area outside the village.  Can you track it down and destroy it for us?",		"task1_detail":"Our militia uses a small tracking device called a radiation sensor to track the enemy out in the field. I'm going to give you a control device that can sit in your datapad.  Activate it to get a reading.  As the reading goes up, you're getting close to the target.  Based on the strength of the readings, I think the nearest Shadow base is about 1000 meters from here.  Good luck, soldier.
+
+",		"task8":"Search And Destroy II 8/8",		"task7":"Search And Destroy II 7/8",		"task6":"Search And Destroy II 6/8",		"task5":"Search And Destroy II 5/8",		"task4":"Search And Destroy II 4/8",		"task3":"Search And Destroy II 3/8",		"task2":"Search And Destroy II 2/8",		"task1":"Search And Destroy II 1/8",		"main":"Search And Destroy II"
+}}

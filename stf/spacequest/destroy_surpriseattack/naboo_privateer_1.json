@@ -1,15 +1,5 @@
-[
-'13':'unused2_t',
-'12':'unused2_d',
-'11':'unused1_t',
-'10':'unused1_d',
-'9':'title_d',
-'8':'title',
-'7':'split_quest_alert_fail',
-'6':'split_quest_alert',
-'5':'quest_update',
-'4':'found_loc',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/naboo_privateer_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Destroy the ambushing Black Sun",		"title":"Naboo System: Eliminate Pirate threat",		"split_quest_alert_fail":"\#pcontrast3 Capt Dinge: < \#pcontrast1 You appear to have hit a little snag out there Captain.  Get patched up and run that patrol again. \#pcontrast3 >",		"split_quest_alert":"\#pcontrast3 Capt Dinge: < \#pcontrast1 You appear to have hit a little snag out there Captain.  Get patched up and run that patrol again. \#pcontrast3 >",		"quest_update":"RSF Command:",		"found_loc":"Head to new coordinates uploaded to your nav computer.",		"complete":"Not bad for a newcomer! Return to base for your new assignment by travelling to the Naboo Space Station and using /comm.",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,3 +1,5 @@
-[
-'1':'notyet',
-]
+{
+	"stfFile":"static_npc/naboo/athok_dinvar",
+	"entries": {
+		"notyet":"I'm a little preoccupied right now.  Why don't you come back some other time?"
+}}

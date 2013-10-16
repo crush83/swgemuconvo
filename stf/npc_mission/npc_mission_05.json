@@ -1,22 +1,5 @@
-[
-'20':'npc_msn_05_done_01',
-'19':'npc_msn_05_decline',
-'18':'npc_msn_05_greeting_onothermission',
-'17':'npc_msn_05_friend_work_01',
-'16':'npc_msn_05_friend_greeting_onmission',
-'15':'npc_msn_05_friend_greeting_02',
-'14':'npc_msn_05_greeting_onmission',
-'13':'npc_msn_05_greeting_02',
-'12':'npc_msn_05_friend_greeting_01',
-'11':'npc_msn_05_presp_getmission_05',
-'10':'npc_msn_05_presp_getmission_04',
-'9':'npc_msn_05_presp_getmission_03',
-'8':'npc_msn_05_work_01',
-'7':'npc_msn_05_presp_getmission_02',
-'6':'npc_msn_05_presp_getmission_01',
-'5':'npc_msn_05_work_02',
-'4':'npc_msn_05_busy_01',
-'3':'npc_msn_05_presp_greeting_02',
-'2':'npc_msn_05_presp_greeting_01',
-'1':'npc_msn_05_greeting_01',
-]
+{
+	"stfFile":"npc_mission/npc_mission_05",
+	"entries": {
+		"npc_msn_05_done_01":"Well, come back if you change your mind.",		"npc_msn_05_decline":"Oh my.  Well, I'll have to wait for someone else then...",		"npc_msn_05_greeting_onothermission":"You look like you're already busy.",		"npc_msn_05_friend_work_01":"You should speak to my friend. There's work to be done, but it's far too dangerous for me!",		"npc_msn_05_friend_greeting_onmission":"Aren't you supposed to be helping my friend, here?",		"npc_msn_05_friend_greeting_02":"Nice to see you again.",		"npc_msn_05_greeting_onmission":"I'm not going to deal with you until you finish your job.",		"npc_msn_05_greeting_02":"You again.",		"npc_msn_05_friend_greeting_01":"Well, hello!",		"npc_msn_05_presp_getmission_05":"Actually, I'm not ready to work right now.",		"npc_msn_05_presp_getmission_04":"Tell me about the job.",		"npc_msn_05_presp_getmission_03":"So do you have something for me?",		"npc_msn_05_work_01":"I figured as much.",		"npc_msn_05_presp_getmission_02":"Do you have a job?",		"npc_msn_05_presp_getmission_01":"Let's hear what it is.",		"npc_msn_05_work_02":"I've got something you can do.",		"npc_msn_05_busy_01":"Of course.  Are you interested in something to do?",		"npc_msn_05_presp_greeting_02":"Do you have work?",		"npc_msn_05_presp_greeting_01":"That's right.",		"npc_msn_05_greeting_01":"Hi.  I think you probably need some work."
+}}

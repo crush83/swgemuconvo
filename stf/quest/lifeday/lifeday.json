@@ -1,5 +1,5 @@
-[
-'3':'full_inv',
-'2':'waypoint_updated',
-'1':'waypoint_name',
-]
+{
+	"stfFile":"quest/lifeday/lifeday",
+	"entries": {
+		"full_inv":"Your inventory is full. Please make some room and speak to the NPC again to receive your gift.",		"waypoint_updated":"A waypoint to a planet holding a Life Day celebration was added to your datapad.",		"waypoint_name":"Life Day Celebration"
+}}

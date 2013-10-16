@@ -1,14 +1,5 @@
-[
-'12':'nothing',
-'11':'money',
-'10':'cash',
-'9':'goody',
-'8':'cant',
-'7':'know',
-'6':'other',
-'5':'take',
-'4':'ooh',
-'3':'lunatic',
-'2':'who',
-'1':'hail',
-]
+{
+	"stfFile":"lastquest",
+	"entries": {
+		"nothing":"You don't even have the jacket anymore!",		"money":"Here.  Here's a deed to a moisture vaporator.  Now let me have that jacket!  <YOINK!>",		"cash":"Not so fast....what do I get?",		"goody":"Rumor has it you're going to offer me that jacket I want.",		"cant":"I couldn't do that in good conscience.  I know it's someone else's jacket.",		"know":"I know.  But perhaps she doesn't want it.  If not, bring it back to me, please!",		"other":"Sorry.  It's for someone else.",		"take":"Why don't you just take it?",		"ooh":"I hear you've got a jacket I might be interested in.  I'd take it, but it's really the Calamari's.",		"lunatic":"I'm just a fashion conscious wookiee.  Why don't you go talk to that bothan girl over there?  She may have something for you to do.",		"who":"Who are you?",		"hail":"How are you?  Don't you just love this shirt?"
+}}

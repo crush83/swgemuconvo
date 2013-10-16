@@ -1,28 +1,5 @@
-[
-'26':'title_d',
-'25':'title',
-'24':'split_quest_alert_fail',
-'23':'split_quest_alert',
-'22':'quest_update',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_helpallies_t',
-'18':'quest_helpallies_d',
-'17':'quest_findbattle_t',
-'16':'quest_findbattle_d',
-'15':'found_loc',
-'14':'enemies_win',
-'13':'enemies_remaining',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remaining',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_privateer_tier4_3c_lose",
+	"entries": {
+		"title_d":"Assist the Corellian Security Forces in an attack against the Black Sun Pirates",		"title":"Dantooine System: Assist the CorSec against the Black Sun",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"%TO",		"quest_location_t":"Dantooine System",		"quest_location_d":"A battle point in the Dantooine System",		"quest_helpallies_t":"Corellian Security Fighters",		"quest_helpallies_d":"Assist your allies in this battle",		"quest_findbattle_t":"Battle Point",		"quest_findbattle_d":"Travel here to rendezvous with CorSec forces",		"found_loc":"\#pcontrast3 Nav Computer: < \#pcontrast1 Waypoint to allied rendezvous set. \#pcontrast3 >",		"enemies_win":"Enemy forces have won.",		"enemies_remaining":"An enemy craft has been destroyed, %DI remain.",		"enemies_remain":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An enemy craft has been destroyed, %DI remain. \#pcontrast3 >",		"enemies_arrived":"\#pcontrast3 CorSec Command: < \#pcontrast1 Black Sun forces coming out of hyperspace. \#pcontrast3 >",		"battle_started":"\#pcontrast3 Black Sun: < \#pcontrast1 You were a fool to come CorSec dogs. \#pcontrast1 >",		"battle_abandoned":"The battle has been abandoned",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"\#pcontrast3 CorSec Command: < \#pcontrast1 Excellent, that will show those Black Sun that the Corellian Security forces are not to be taken lightly. Return to base Captain. \#pcontrast3 >",		"allies_remaining":"An allied craft has been destroyed, %DI remain.",		"allies_remain":"An allied craft has been destroyed, %DI remain.",		"allies_arrived":"\#pcontrast3 CorSec Command: < \#pcontrast1 The CorSec wing should be coming out of Hyperspace any moment now. \#pcontrast3 >"
+}}

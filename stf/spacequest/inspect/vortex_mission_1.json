@@ -1,18 +1,5 @@
-[
-'16':'title_d',
-'15':'title',
-'14':'split_quest_alert_fail',
-'13':'split_quest_alert',
-'12':'quest_update',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/vortex_mission_1",
+	"entries": {
+		"title_d":"Now that you have the location of the Imperial shuttle, your orders are to intercept it and disable it. You will then proceed to launch a space assault droid on to its hull so that it can take control of the ship.",		"title":"Lok system: Kidnap the Imperial scientist.",		"split_quest_alert_fail":"",		"split_quest_alert":"It's a trap! That's not a scientist, it's an Imperial Inquisitor!",		"quest_update":"Brother Vrovel: < %TO >",		"quest_location_t":"Location of ambush.",		"quest_location_d":"You now have the coordinates of the ambush spot for the Imperial shuttle. The shuttle will pass through this area within a few minutes. If he's not there already when you arrive, search the nearby area or wait for him to arrive then ambush him.",		"quest_inspect_t":"Inspect the Imperial shuttle.",		"quest_inspect_d":"Inspect the shuttle to make sure that it has the scientist onboard.",		"quest_dock_t":"Do not dock!",		"quest_dock_d":"It's a trap! There's no scientist on board. Instead there's an Imperial Inquisitor posing as the scientist. Your ships sensors have indicates that he's swallowed a tracking device, probably hoping that you will take him back to the Vortex base.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

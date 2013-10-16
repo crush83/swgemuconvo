@@ -1,5 +1,5 @@
-[
-'3':'no_skill',
-'2':'fail',
-'1':'pass',
-]
+{
+	"stfFile":"skill/slicing",
+	"entries": {
+		"no_skill":"You cannot slice a lock with no skill!",		"fail":"You fail to slice the lock.",		"pass":"The lock is open."
+}}

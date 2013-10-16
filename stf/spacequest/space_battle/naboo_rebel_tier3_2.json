@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_rebel_tier3_2",
+	"entries": {
+		"title_d":"The SpyNet is having some problems with the Blacklight pirates in the Dantooine system and has asked us for a favor before they slice the data we took from the Imperial spy. The SpyNet is currently under open attack in one sector of the Dantooine system and request fighter support, we are sending them you to assist.",		"title":"Dantooine system: Help the SpyNet Operatives",		"split_quest_alert_fail":"",		"split_quest_alert":"Brother Ezkiel: < Pilot! Rescue the SpyNet Commander. His ship has been disabled by the pirates and they are moving in bigger ships to capture him! >",		"quest_update":"Brother Ezkiel: < %TO >",		"quest_location_t":"Dantooine system.",		"quest_location_d":"Though the Dantooine system is fairly safe from the Imperial menace, the Blacklight pirates are a cunning bunch and shouldn't be underestimated.",		"quest_helpallies_t":"Save the SpyNet fighters.",		"quest_helpallies_d":"Terminate the attacking Blacklight pirates in this area and save the SpyNet operatives.",		"quest_findbattle_t":"Location of attack.",		"quest_findbattle_d":"The SpyNet fighters are retreating to these coordinates and have asked for us to send our reinforcements to there. Head over there with haste my friend.",		"found_loc":"Alright pilot, the Blacklight scum are moving in to attack one of the SpyNet's bases of operations. The SpyNet has set up a intercept ambush of the Blacklight pirates but could use your help as they are outnumbered. Proceed to this location immediately.",		"enemies_win":"That battle is lost pilot! Get out of there and return to base immediately!",		"enemies_remain":"Tactical Computer: < Sensors show enemy target terminated. %DI enemy target(s) remain.",		"enemies_arrived":"Our sensors have picked up the Blacklight pirates. Get ready everyone.",		"battle_started":"This is it! Good luck everyone, show them the error of their ways!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Great job pilot, you impressed both us and the SpyNet.",		"allies_remain":"Tactical Computer: < Sensors indicate loss of ally vessel. %DI friendly vessel(s) remain. >",		"allies_arrived":"The SpyNet fighters have arrived, form up with them and prepare to intercept the pirates."
+}}

@@ -1,9 +1,5 @@
-[
-'7':'fs_response07',
-'6':'fs_response06',
-'5':'fs_response05',
-'4':'fs_response04',
-'3':'fs_response03',
-'2':'fs_response02',
-'1':'fs_response01',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_sick",
+	"entries": {
+		"fs_response07":"I can't believe they used chemical weapons on us. We're all going to die!",		"fs_response06":"Better... Better get a bucket I'm going to throw up.",		"fs_response05":"They must have used bio-weapons. I'm sure of it! Doc, are you sure you can cure viral agents?",		"fs_response04":"I feel... really... sick.",		"fs_response03":"Doc, why are we so sick? I didn't even get shot!",		"fs_response02":"My stomach. It feels like it's going to burst!",		"fs_response01":"Oh... I feel like I'm going to..."
+}}

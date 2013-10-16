@@ -1,29 +1,5 @@
-[
-'27':'title_d',
-'26':'title',
-'25':'split_quest_alert_fail',
-'24':'split_quest_alert',
-'23':'quest_update',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_helpallies_t',
-'19':'quest_helpallies_d',
-'18':'quest_findbattle_t',
-'17':'quest_findbattle_d',
-'16':'found_loc',
-'15':'enemies_win',
-'14':'enemies_remaining',
-'13':'enemies_remain',
-'12':'enemies_arrived',
-'11':'battle_started',
-'10':'battle_abandoned',
-'9':'autorewardsubject',
-'8':'autorewardfrom',
-'7':'autorewardbody',
-'6':'assigned_delayed',
-'5':'allies_win',
-'4':'allies_remaining',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_imperial_tier3_2_e",
+	"entries": {
+		"title_d":"Remain in the Endor system and help our TIE wing beat the Rebels in a battle. You will receive a navigation waypoint to the place where the battle is going to take place. Travel to this location and wait for the arrival of the TIEs and Rebels. When the battle is joined, assist the TIE wing with destroying  the Rebel force before the Rebels can wipe out the TIE wing. If all of the TIEs die then you will have lost the battle.",		"title":"Endor System: Battle the Rebel Forces",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"Remain in the Endor system and assist the TIE wing in destroying the attacking Rebels. Travel to the navigation waypoint that you will receive to the battle location.",		"quest_helpallies_t":"Help the TIE Wing Defeat the Rebels",		"quest_helpallies_d":"Once at the battle location, wait for the arrival of the TIE wing and for the battle to start. Destroy all of the attacking Rebels before they can destroy all of the TIEs. The TIEs are outnumbered so your assistance is important.",		"quest_findbattle_t":"Travel to the Battle Location",		"quest_findbattle_d":"Travel to the supplied navigation waypoint that will be given to you. This waypoint will lead you to the location that the battle will take place.",		"found_loc":"Updating your nav computer with the last known location of the 3rd TIE Wing. Travel there immediately and support those fighters.",		"enemies_win":"Imperial High Command:<We have lost the 3rd TIE Wing. Report back to your superior for a full report.>",		"enemies_remaining":"",		"enemies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI enemy fighters remaining.>",		"enemies_arrived":"Enemy fighter located. Closing at high speeds.",		"battle_started":"3rd TIE Wing engaging enemy fighters.",		"battle_abandoned":"The 3rd TIE Wing doesn't stand a chance without your help. You have failed the Empire this day.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Excellent work, pilot. The Rebel scum have all been eliminated, thanks to you. Return to your superior and make your report.",		"allies_remaining":"",		"allies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI allied fighters remaining.>",		"allies_arrived":"3rd TIE Wing located. Scans indicate heavy casualties.",		"Quest Log Data":"Text"
+}}

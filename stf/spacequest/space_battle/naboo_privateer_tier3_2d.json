@@ -1,28 +1,5 @@
-[
-'26':'title_d',
-'25':'title',
-'24':'split_quest_alert_fail',
-'23':'split_quest_alert',
-'22':'quest_update',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_helpallies_t',
-'18':'quest_helpallies_d',
-'17':'quest_findbattle_t',
-'16':'quest_findbattle_d',
-'15':'found_loc',
-'14':'enemies_win',
-'13':'enemies_remaining',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remaining',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_privateer_tier3_2d",
+	"entries": {
+		"title_d":"Set up to intercept for the Ay'Nat pirates advancing on the main target, the RSF Madersim.",		"title":"Corellia System: Destroy the Ay'Nat Pirates",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 Get out to the Madersim's last known position.  I fear they will be under attack soon with insufficient protection. \#pcontrast3 >",		"quest_update":"%TO",		"quest_location_t":"Corellia System",		"quest_location_d":"An area in the Corellia System where we expect the Ay'Nat pirates to make an appearance",		"quest_helpallies_t":"Defend the RSF Craft",		"quest_helpallies_d":"These were taking from the RSF Madersim, to lose them would be failure on your part",		"quest_findbattle_t":"Ambush Waypoint",		"quest_findbattle_d":"Travel here to set up the ambush for the Ay'Nat pirates",		"found_loc":"\#pcontrast3 RSF Command: < \#pcontrast1 We pulled these ships from the Madersim's escort and cannot afford to lose them.  Defend as much as possible \#pcontrast3 >",		"enemies_win":"\#pcontrast3 RSF Command: < \#pcontrast1 The Madersims' escort has been destroyed, this is unacceptable. \#pcontrast3 >",		"enemies_remaining":"An enemy craft has been destroyed, %DI remain.",		"enemies_remain":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An enemy craft has been destroyd, %DI remain. \#pcontrast3 >",		"enemies_arrived":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile craft are approaching. \#pcontrast3 >",		"battle_started":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy forces have been engaged. \#pcontrast3 >",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"\#pcontrast3 RSF Command: < \#pcontrast1 Proceed to the following waypoint. We are expecting to intercept a large number of enemy fighters and have diverted some of the Madersims' escort to assist you.  We cannot afford to lose those escorts.  Command out! \#pcontrast3 >",		"allies_win":"\#pcontrast3 RSF Command: < \#pcontrast1 The mission is a success, enemy fighters have all been destroyed. \#pcontrast3 >",		"allies_remaining":"An allied craft has been destroyed, %DI remain.",		"allies_remain":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An Allied Craft has been destroyed, %DI remain. \#pcontrast3 >",		"allies_arrived":"\#pcontrast3 RSF Command: < \#pcontrast1 Your backup has arrived.  Good luck. \#pcontrast3 >"
+}}

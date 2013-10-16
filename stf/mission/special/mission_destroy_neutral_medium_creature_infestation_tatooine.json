@@ -1,38 +1,7 @@
-[
-'36':'number_of_entries',
-'35':'m5t',
-'34':'m5s',
-'33':'m5o',
-'32':'m5l',
-'31':'m5i',
-'30':'m5f',
-'29':'m5d',
-'28':'m4t',
-'27':'m4s',
-'26':'m4o',
-'25':'m4l',
-'24':'m4i',
-'23':'m4f',
-'22':'m4d',
-'21':'m3t',
-'20':'m3s',
-'19':'m3o',
-'18':'m3l',
-'17':'m3i',
-'16':'m3f',
-'15':'m3d',
-'14':'m2t',
-'13':'m2s',
-'12':'m2o',
-'11':'m2l',
-'10':'m2i',
-'9':'m2f',
-'8':'m2d',
-'7':'m1t',
-'6':'m1s',
-'5':'m1o',
-'4':'m1l',
-'3':'m1i',
-'2':'m1f',
-'1':'m1d',
-]
+{
+	"stfFile":"mission/special/mission_destroy_neutral_medium_creature_infestation_tatooine",
+	"entries": {
+		"number_of_entries":"5",		"m5t":"Peace Plan",		"m5s":"That infestation was rooted deep in the desert. I didn't think anyone would be able to completely eliminate it, but it looks like you've done that job. I know that the Jawas are going to be grateful. They'll probably chatter about this for days to come. Maybe now we can move towards peace out here, if we can ever find a way to communicate with the Sand People...",		"m5o":"Ariq Joanson",		"m5l":"A moisture farmer attempting to bring peace to the desert has a mission for brave adventurers.",		"m5i":"I expected that the Jawas would be flighty. They've recently migrated away, before we even had a chance to prove to them that we were willing to help. You can give up on cleaning out the infestation; I don't think the Jawas will be back. ",		"m5f":"The Jawas have pulled out of the peace talks. They think I'm going back on my promise to help with the infestation, since I haven't been able to find anyone who could wipe it out yet. I don't think we'll ever have any kind of understanding between the major tribes on this planet. ",		"m5d":"It's been one of my lifelong goals to bring peace to Tatooine. I'm hoping that, one day, the moisture farmers, Jawas, and Sand People can form some kind of alliance, or at least agree to stop attacking each other. I've befriended some of the local Jawas, and they've agreed to help, but only if I find a way to make the desert a little safer for them. Right now, they're most concerned with a massive infestation of vermin. I agreed to hire someone to wipe out the infestation as soon as possible, and you seem to be the right hired hand for the job. I'd try to make your way to the central lair and destroy it. If you can manage the job, I'll sell my treadwell droid and pay you whatever he's worth.",		"m4t":"Desert Disease",		"m4s":"Although I have traveled many worlds throughout my life, I have seldom come across a hero of your stature. Your courage and strength have driven back the terrifying hordes. The infestation that plagues the desert has recoiled, releasing its hold over the sands. I will add your name to my journals, and when my life's work is published, all shall know of your heroic deeds here on Tatooine.",		"m4o":"Mammon Hoole",		"m4l":"A wandering anthropologist has located a terrifying infestation on Tatooine.",		"m4i":"Sometimes, even the most tenacious infestation might suddenly consume itself. It seems that this creeping disease has receeded, the monsters retreating back to their lair. Tatooine is safe, for now.",		"m4f":"The creeping, living sickness continues to spread. The creatures spread like pus, flowing over the land to bring death. It seems no one can stop this infestation... Tatooine is doomed!",		"m4d":"I have traveled Tatooine for many long seasons now, studying it's peoples and places. I have been to the far reaches of the Dune Sea, where I wandered amid the bones of ancient krayt dragons. I have lurked among the Tusken Raiders as they rallied for war. I have watched in horror as Jabba the Hutt sent another slave to her death in the rancor pit. From Mos Eisley to Wayfar have I traveled, and never before have I encountered such terror. In the desert now, their lurks an immense infestation beyond imagining. It spreads like Death Rot, climbing over the dunes and reaching out towards any who come too close. I have seen the bodies of those that have been overwhelmed by the infestation, their skeletal limbs reaching out for help that would never arrive... Soon, the entire desert might be consumed. Only the bravest warriors can hope to stop this infestation from spreading, and so it is that I plead with you for help. Seek out this creeping, planetary disease and strike at its heart. Kill it quickly, so that no others can be killed! ",		"m3t":"Bantha's Champion",		"m3s":"The Bellowing Bantha shall roar your name for many seasons to come! You have cleared His path, and He can continue His migrations without fear of attack. The Great and Mighty Bantha is forever in your debt! Our monastery's coffers have been opened, and you have been rewarded for protecting our hairy idol.",		"m3o":"Dim-U Monks of Tatooine",		"m3l":"An infestation of vermin is blocking the bantha's seasonal migrations.",		"m3i":"The Wandering Bantha has found another path through the desert. He no longer needs to contend with the terrible infestation that had blocked his path. We, the Dim-U monks who worship at His hairy feet, no longer need your aid.",		"m3f":"The Wandering Bantha remains in grave danger. The sea of vermin that blocks His way remains untouched! The Courageous Bantha will never forget your failure.",		"m3d":"We, the Dim-U monks of Tatooine, who worship in the shadow of the Great and Mighty Bantha, have seen the next great threat to our powerful idol. The Stalwart Bantha is a natural wanderer, roaming the desert seas in search of peace and wisdom. But this season, the Bellowing Bantha has stumbled into a terrible infestation of chattering, disease-bearing vermin. The infestation is so great, even the All-Knowing Bantha has difficulty avoiding it, and He is often overwhelmed and eaten alive by the creatures. Only the destruction of the infestation's central lair will cleanse the desert, making the sands pure enough for the Enduring Bantha's footsteps. We will happily open our coffers for anyone who can clear this infestation. ",		"m2t":"Desert Infestation",		"m2s":"Nice work. The infestation seems to be gone. Or, the vermin have retreated into their tunnels. It doesn't really matter, as long as they're gone. They'll be back, I'm sure, but for now the desert is a little safer. ",		"m2o":"",		"m2l":"A vermin infestation is threatening to expand into Tatooine's settled areas.",		"m2i":"The infestation has up and disappeared. I think maybe a flash fire burned all the lairs to the ground. Whatever the case, it's gone and the desert is safe again.",		"m2f":"Well, the infestation is still growin' out of control. It's takin' over the rest of the desert. It won't be long before the cities are overrun too.",		"m2d":"I'm tellin' you, Tatooine must have some underground network of tunnels that only the creatures know about. They can move without anyone seeing 'em, attack and retreat without being caught, stay out of the heat when the twin suns are right above 'em... Worse still, they can pop up wherever they are most unwanted, building nests or lairs like boils in the sand. And now, all they need to do is connect a few tunnels, and suddenly we have a major infestation on our hands. They're everywhere at once, spreading out like a plague. Soon, they'll have infected every part of the desert, eventually moving into the cities. Someone needs to help stop the infestation. The only way to do that is by attacking the central hive; destroy that, and the rest of the lairs will eventually wither and die.",		"m1t":"Public Emergency",		"m1s":"Your mission has been completed successfully! The Tatooine Civilian Defense League will transmit payment immediately. Thank you for your service.",		"m1o":"Tatooine Civilian Defense League",		"m1l":"A major infestation has been reported on Tatooine. The lairs contributing to this infestation must be destroyed.",		"m1i":"Imperial authorities have deemed that the vermin infestation on Tatooine represents a Class A-2 threat to the safety of Imperial citizens. Imperial agents have razed the area to completely eliminate the danger. Your mission has therefore been cancelled.",		"m1f":"Your mission has failed. You will not be receiving payment from the Tatooine Civilian Defense League.",		"m1d":"PUBLIC EMERGENCY BROADCAST
+
+The Tatooine Civilian Defense League, in cooperation with Imperial authorities, is reporting the presence of a major vermin infestation on the planet. The infestation represents a significant threat to public health and safety. In an attempt to eliminate the infestation before any more lives can be lost, the Tatooine Civilian Defense League is offering a substantial reward for the elimination of the central lair, hive, or nest.  "
+}}

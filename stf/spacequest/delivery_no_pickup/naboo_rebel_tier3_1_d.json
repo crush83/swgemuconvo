@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_rendezvous2_t',
-'18':'quest_rendezvous2_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_dock2_t',
-'14':'quest_dock2_d',
-'13':'hello_d',
-'12':'found_loc_d',
-'11':'failed_destroyed',
-'10':'docking_started_delivery',
-'9':'docking_complete_delivery',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_delivery',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/naboo_rebel_tier3_1_d",
+	"entries": {
+		"title_d":"Deliver the data stolen from the spy's ship to one of our data freighters.",		"title":"Dantooine system: Deliver Imperial data.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Vortex Command: < %TO >",		"quest_rendezvous2_t":"Rendez-vous coordinates.",		"quest_rendezvous2_d":"You should now have the coordinates that the freighter supplied us with for the rendez-vous. Make your way there with haste.",		"quest_location_t":"Dantooine system.",		"quest_location_d":"The Dantooine system is now relatively safe but if the information you recovered from the spies ship was valuable, the Empire might try and stop you so be ready for surprises.",		"quest_dock2_t":"Dock with the freighter.",		"quest_dock2_d":"If you are certain that the surrounding area is clear of the Imperial scum, dock with the freighter to transfer the data.",		"hello_d":"Greetings, pilot. H-21D here to help you out with a delivery.",		"found_loc_d":"We've given you the point at which our Rebel contact will meet you. You'll deliver the information to him by docking. Good luck.",		"failed_destroyed":"Ack, we've lost contact with our freighter! Return to base immediately pilot!",		"docking_started_delivery":"Watch the hull, buddy! I just cleaned that!",		"docking_complete_delivery":"You're ready to go, pilot. We've received the goods.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < No more fighter vessels within sensor range. >",		"attack_notify":"Tactical Computer: < Incoming fighter vessels. Scans show weapons armed. >",		"assigned_delayed":"",		"arrived_at_delivery":"Our Rebel Contact should be here soon. Keep an eye out for enemies, pilot. We can't lose you now.",		"Quest Log Data":"Text"
+}}

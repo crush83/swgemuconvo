@@ -1,33 +1,5 @@
-[
-'31':'title_d',
-'30':'title',
-'29':'taunt_5',
-'28':'taunt_4',
-'27':'taunt_3',
-'26':'taunt_2',
-'25':'taunt_1',
-'24':'targets_detected',
-'23':'targets_behind',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_destroy_t',
-'19':'quest_destroy_d',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'duty_update',
-'13':'dd_boss_taunt_5',
-'12':'dd_boss_taunt_4',
-'11':'dd_boss_taunt_3',
-'10':'dd_boss_taunt_2',
-'9':'dd_boss_taunt_1',
-'8':'complete',
-'7':'boss_title_5',
-'6':'boss_title_4',
-'5':'boss_title_3',
-'4':'boss_title_2',
-'3':'boss_title_1',
-'2':'boss_detected',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_duty/naboo_imperial_6",
+	"entries": {
+		"title_d":"Travel to the Naboo system and destroy the Rebel fighters. A destroy duty is a voluntary mission that you are able to quit at any time without repercussions. When you reach the Naboo system a navigation waypoint will be sent to you. Travel to this waypoint and you will be attacked by enemy fighters. Each time you destroy a wave of fighters a new wave will attack. Once you have destroyed all the attack waves at one waypoint, you will receive a new waypoint that you can fly to and continue destroying the enemy craft. A destroy duty will continue in this manner until you decide to stop.",		"title":"Naboo System: Destroy the Rebel Fighters Duty",		"taunt_5":"Well! Someone wasn't hugged enough as a child.",		"taunt_4":"This is going to be uncomfortable for you.",		"taunt_3":"Time to become space dust, Imperial dog.",		"taunt_2":"You really should get a new line of work.",		"taunt_1":"Time to die, Imperial scum.",		"targets_detected":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters detected. Prepare to engage.>",		"targets_behind":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters incoming from the rear. Take evasive manuevers.>",		"quest_location_t":"Travel to the Naboo System",		"quest_location_d":"Travel to the Naboo system and move towards your first navigation waypoint to begin the destroy duty mission. When you destroy all attack waves at that waypoint you will receive a new navigation waypoint.",		"quest_destroy_t":"Travel to the Navigation Waypoint and Destroy the Rebel Fighters",		"quest_destroy_d":"Once you have reached the navigation waypoint, you will be attacked by Rebel fighters. Destroy the fighters at this location until you receive a new navigation waypoint to your next battleground. If you destroy enough of these Rebel fighters, the Rebellion will send out better trained pilots in order to deal with you. Destroy duties can be quit at any time. Simply abort the mission or leave the system.",		"level_increase":"Rebels in this area have been cleared out. Scanning system for other Rebel locations.",		"level_boss_dead":"Nice work. The Rebels have lost a valuable ally in their illegal activities.",		"level_boss":"Reports indicate that the Rebels have sent out a %TO to deal with you. Be on the look out.",		"found_loc":"Rebel activity detected at this location. Clear them out.",		"duty_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"dd_boss_taunt_5":"I am sorry but I have to kill you now.",		"dd_boss_taunt_4":"I hope you like the taste of laser.",		"dd_boss_taunt_3":"You are the one that had everyone worried?",		"dd_boss_taunt_2":"No one ever has enough time and you just ran out.",		"dd_boss_taunt_1":"Prepare to become space dust.",		"complete":"The Rebels are in full retreat. They probably will not be back for a while. Nice work.",		"boss_title_5":"Ace",		"boss_title_4":"Squad Leader",		"boss_title_3":"Flight Captain",		"boss_title_2":"Wing Leader",		"boss_title_1":"Scout Pilot",		"boss_detected":"The Rebels have sent out one of their best pilots to deal with you. Be on careful look out.",		"Quest Log Data":"Text"
+}}

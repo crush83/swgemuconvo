@@ -1,7 +1,5 @@
-[
-'5':'lord3',
-'4':'lord2',
-'3':'lord1_reply2',
-'2':'lord1_reply1',
-'1':'lord1',
-]
+{
+	"stfFile":"emp_int_2",
+	"entries": {
+		"lord3":"I will give you a few minutes to prepare yourself, then.  Return to me when you are ready.",		"lord2":"Excellent.",		"lord1_reply2":"I'm not ready to do that right now.",		"lord1_reply1":"Will do.",		"lord1":"Recently one of my Inquisitors failed me.  A troublesome rebel commander must be eliminated.  You will not fail."
+}}

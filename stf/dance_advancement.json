@@ -1,30 +1,5 @@
-[
-'28':'sui_prompt1',
-'27':'sui_prompt0',
-'26':'title',
-'25':'sysmsg_success',
-'24':'success',
-'23':'cant_teach_yet',
-'22':'confirm_r1',
-'21':'confirm_r0',
-'20':'confirm',
-'19':'not_enough_xp',
-'18':'goodbye',
-'17':'cant_teach',
-'16':'offer_r9',
-'15':'offer_r8',
-'14':'offer_r7',
-'13':'offer_r6',
-'12':'offer_r5',
-'11':'offer_r4',
-'10':'offer_r3',
-'9':'offer_r2',
-'8':'offer_r1',
-'7':'offer_r0',
-'6':'offer_r10',
-'5':'offer',
-'4':'greeting_r1',
-'3':'greeting_r0',
-'2':'greeting',
-'1':'greeting_nodance',
-]
+{
+	"stfFile":"dance_advancement",
+	"entries": {
+		"sui_prompt1":" style dance. You may be ready to learn some advanced steps.",		"sui_prompt0":"You have become proficient at performing the ",		"title":"a choreography teacher",		"sysmsg_success":"You have successfully learned the %TO dance style.",		"success":"There you go! Enjoy the new moves, and remember, keep practicing!",		"cant_teach_yet":"I could teach you some new steps, but you need to practice that dance a little more first. Keep practicing and come back later.",		"confirm_r1":"No, I'd rather not learn the new steps right now.",		"confirm_r0":"Yes, I will spend the experience to learn the new steps.",		"confirm":"I can teach you some new steps for that dance, but you will need to spend some %TO experience to learn them. Do you want to spend %DI %TO experience to learn the new steps?",		"not_enough_xp":"I can teach you some new steps for that dance, but you don't have enough %TO experience to learn them. You must be able to spend at least %DI %TO experience.",		"goodbye":"Good day to you, then.",		"cant_teach":"Ah, I'm afraid there's nothing I can teach you now. Maybe some other time, eh?",		"offer_r9":"Can you teach me anything for the %TO style?",		"offer_r8":"Can you teach me anything for the %TO style?",		"offer_r7":"Can you teach me anything for the %TO style?",		"offer_r6":"Can you teach me anything for the %TO style?",		"offer_r5":"Can you teach me anything for the %TO style?",		"offer_r4":"Can you teach me anything for the %TO style?",		"offer_r3":"Can you teach me anything for the %TO style?",		"offer_r2":"Can you teach me anything for the %TO style?",		"offer_r1":"Can you teach me anything for the %TO style?",		"offer_r0":"Can you teach me anything for the %TO style?",		"offer_r10":"On second thought, I'd rather not right now.",		"offer":"Tell me what you're interested in and I'll see what I can teach you.",		"greeting_r1":"Not right now. Thank you, though.",		"greeting_r0":"Sure, I'd like to learn something new.",		"greeting":"Hello, friend. Say, I've seen you around. You've got some interesting new moves. If you like, I might be able to teach you a few new steps?",		"greeting_nodance":"Good day to you, friend."
+}}

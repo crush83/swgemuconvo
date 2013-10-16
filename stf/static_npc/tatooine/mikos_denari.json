@@ -1,30 +1,5 @@
-[
-'49':'next',
-'48':'player_sorry_2',
-'46':'player_reset_2',
-'44':'npc_reset_2',
-'42':'npc_backtowork_2',
-'34':'npc_work_2',
-'33':'npc_work_1',
-'31':'cantwork',
-'30':'npc_reset_1',
-'29':'npc_backtowork_1',
-'28':'player_sorry_1',
-'27':'player_reset_1',
-'25':'player_3_2',
-'24':'player_3_1',
-'22':'player_2_2',
-'21':'player_2_1',
-'19':'player_1_2',
-'18':'player_1_1',
-'16':'npc_reward_2',
-'15':'npc_reward_1',
-'13':'npc_4_2',
-'12':'npc_4_1',
-'9':'npc_3_2',
-'8':'npc_3_1',
-'6':'npc_2_2',
-'5':'npc_2_1',
-'2':'npc_1_2',
-'1':'npc_1_1',
-]
+{
+	"stfFile":"static_npc/tatooine/mikos_denari",
+	"entries": {
+		"next":"I think I'm in the clear thanks to you. If I get in any more trouble I'll let you know.",		"player_sorry_2":"I don't know.  I know that I haven't taken care of them yet for now.",		"player_reset_2":"I'm sorry, but I can't do this anymore.",		"npc_reset_2":"I guess you had your fill of Sand People in that last encounter. Well, don't let an old man waste any more of your time. ",		"npc_backtowork_2":"Well, when you're victorious, come back and let me know!",		"npc_work_2":"Are those evil things going to bother me any more?",		"npc_work_1":"Have you dispatched the Tusken Raiders?",		"cantwork":"Hey there, friend. Watch yourself out in the desert. It's too easy to get lost. Made trouble for me, but I see you're busy. Come on back later.",		"npc_reset_1":"Well, danger ain't for everybody, is it? Don't you worry. I'll get by somehow.",		"npc_backtowork_1":"Thank you for doing this.  This means a lot to me.",		"player_sorry_1":"Not yet.  Once I find them, they'll be dealt with.",		"player_reset_1":"I'm sorry, but something came up.  I can't do this anymore.",		"player_3_2":"What sort of trouble are you having now?",		"player_3_1":"Why are the Sand People angry with you?",		"player_2_2":"I'm not sure I want to do any more of this 'killing' thing.  Sorry.",		"player_2_1":"Sorry, but I don't mess with Sand People.",		"player_1_2":"I still hate Sand People.  I'll definitely help.",		"player_1_1":"Sure.  I can't stand Sand People!",		"npc_reward_2":"Thanks to you, I can get back to my surveying and finally earn some credits again. I won't forget this.",		"npc_reward_1":"I can't thank you enough for helping me out of that mess. You be careful out in that desert now, y'hear? ",		"npc_4_2":"I guess they're still angry about my drinking their water. Now their chief is hunting me. Every time I head out into the desert, he and some of his guards track me down, so I have to hightail it back to town. ",		"npc_4_1":"I was out in the desert surveying, and I kind of lost my way. My supplies were running out when I stumbled on to that oasis. Turns out the Sand People are a mite protective of their water sources. I ran. Stumbled across a sandcrawler, and for a small fee, plus the things they managed to steal, the Jawas brought me here.",		"npc_3_2":"I guess you had your fill of Sand People in that last encounter. Well, don't let an old man waste any more of your time. ",		"npc_3_1":"Well, danger ain't for everybody, is it? Don't you worry. I'll get by somehow.",		"npc_2_2":"Good hearted! It's what I've always said about you, and I stand by it. Maybe if you were to kill that Tusken Raider chief, they'd decide that I wasn't worth all this trouble. ",		"npc_2_1":"I like you young folks. You got good hearts. One of those Tuskens is hot on my trail. I'm safe here in town, but every time I try to leave, he's there waiting. See to it he doesn't bother me anymore, if you can. I surely would be grateful.",		"npc_1_2":"I'm still having trouble with those blasted Sand People. You did such a bang-up job last time -- maybe you're willing to help me out again?",		"npc_1_1":"Mikos Dinari is the name, and I do have a problem I could use a bit of help with. There's Tusken Raiders out in the desert that want my hide. You think you could do something about it?"
+}}

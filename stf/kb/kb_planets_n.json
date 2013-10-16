@@ -1,4 +1,5 @@
-[
-'2':'seebestiary',
-'1':'planets',
-]
+{
+	"stfFile":"kb/kb_planets_n",
+	"entries": {
+		"seebestiary":"See this planet's bestiary",		"planets":"The Galaxy"
+}}

@@ -1,21 +1,5 @@
-[
-'19':'task08_journal_entry_title',
-'18':'task08_journal_entry_description',
-'17':'task06_journal_entry_title',
-'16':'task06_journal_entry_description',
-'15':'task05_journal_entry_title',
-'14':'task05_journal_entry_description',
-'13':'task04_journal_entry_title',
-'12':'task04_journal_entry_description',
-'11':'task03_journal_entry_title',
-'10':'task03_journal_entry_description',
-'9':'task02_journal_entry_title',
-'8':'task02_journal_entry_description',
-'7':'task01_journal_entry_title',
-'6':'task01_journal_entry_description',
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/c_darndroid2",
+	"entries": {
+		"task08_journal_entry_title":"Mission complete",		"task08_journal_entry_description":"You have completed the mission.",		"task06_journal_entry_title":"Wipe C-3TC's memory.",		"task06_journal_entry_description":"C-3TC has caused his master too much trouble.  He needs a memory wipe.",		"task05_journal_entry_title":"Talk to Valance once the space transport is dead.",		"task05_journal_entry_description":"Eliminate the Black Sun's space transport and return to Valance Serth",		"task04_journal_entry_title":"Return to Valance Serth",		"task04_journal_entry_description":"Once you have killed 8 Black Sun Initiates, 5 Black Sun Smugglers, and 1 Black Sun Minion, return to Valance Serth.",		"task03_journal_entry_title":"Kill Black Sun Initiates",		"task03_journal_entry_description":"Kill 8 Black Sun Initiates.",		"task02_journal_entry_title":"Kill Black Sun Smugglers",		"task02_journal_entry_description":"Kill 5 Black Sun Smugglers.",		"task01_journal_entry_title":"Kill a Black Sun Minion",		"task01_journal_entry_description":"Kill 1 Black Sun Minion.",		"task00_journal_entry_title":"Find the Black Sun staging area.",		"task00_journal_entry_description":"Go to the Black Sun staging camp and scout the camp.",		"journal_entry_title":"Black Sun Plots",		"journal_entry_description":"Help Valance stop the Black Sun from sending tainted medicinal spice into the galaxy.",		"category":"Ground Quest"
+}}

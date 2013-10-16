@@ -1,5 +1,5 @@
-[
-'3':'keycard',
-'2':'slice',
-'1':'enter',
-]
+{
+	"stfFile":"ui_numpad",
+	"entries": {
+		"keycard":"Use Keycard",		"slice":"Slice",		"enter":"Enter"
+}}

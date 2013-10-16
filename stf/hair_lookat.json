@@ -1,3 +1,5 @@
-[
-'1':'default',
-]
+{
+	"stfFile":"hair_lookat",
+	"entries": {
+		"default":"hair"
+}}

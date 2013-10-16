@@ -1,7 +1,5 @@
-[
-'5':'destroy_rebel_hard_creature_5',
-'4':'destroy_rebel_hard_creature_4',
-'3':'destroy_rebel_hard_creature_3',
-'2':'destroy_rebel_hard_creature_2',
-'1':'destroy_rebel_hard_creature_1',
-]
+{
+	"stfFile":"mission_destroy_rebel_hard_creature",
+	"entries": {
+		"destroy_rebel_hard_creature_5":"A local merchant sent a distress signal that was picked up by the alliance scanners.  We have no idea where he was heading, or what sort of distress he's in, but we feel it's worth the time and effort it will take to check it out.  Go to the area and see what's happening.",		"destroy_rebel_hard_creature_4":"A series of unexplained occurrences caused us to send a scout team to the area in question.  We haven't heard back from them and they should have checked in by now.  We need you to go to the area and check it out.",		"destroy_rebel_hard_creature_3":"A transport ship went down in this area sometime ago, and it has come to our attention that they may have been carrying classified cargo.  The cargo in question appears to be some form of dangerous animal.  We want you to find out if the creature is in the area, and if so, make sure it can't hurt anyone.",		"destroy_rebel_hard_creature_2":"A visiting dignitary has disappeared in this area, and our sources indicate that a large animal has been seen in the area.  As there were no imperial movements nearby we suspect that the creature in question may be responsible.  We want you to eliminate it as soon as possible, before anything else happens.",		"destroy_rebel_hard_creature_1":"Local farmers have reported seing a mysterious creature around this location.  It seems to be feeding off the local wildlife, but they're concerned that it will become dangerous to the citizenry.  Eliminate the creature as soon as possible."
+}}

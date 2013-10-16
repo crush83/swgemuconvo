@@ -1,14 +1,5 @@
-[
-'12':'help_roundtrip',
-'11':'help_planet',
-'10':'help_map',
-'9':'help_location',
-'8':'help_cost',
-'7':'label_planet',
-'6':'label_city',
-'5':'exit',
-'4':'roundtrip',
-'3':'cost',
-'2':'purchase',
-'1':'ticket_purchase',
-]
+{
+	"stfFile":"ui_travel",
+	"entries": {
+		"help_roundtrip":"Is this a one-way or two-way ticket purchase?",		"help_planet":"The destination planet.",		"help_map":"This map displays the various locations to which tickets can be purchased.",		"help_location":"The destination location.",		"help_cost":"How much this ticket will cost.",		"label_planet":"on the planet:",		"label_city":"You are in the city of:",		"exit":"Exit",		"roundtrip":"Roundtrip",		"cost":"Cost",		"purchase":"Purchase",		"ticket_purchase":"Ticket Purchasing Terminal"
+}}

@@ -1,21 +1,5 @@
-[
-'42':'npc_3_1',
-'41':'npc_2_1',
-'40':'npc_1_1',
-'44':'player_2_1',
-'45':'npc_reward_1',
-'52':'npc_4_1',
-'55':'player_3_2',
-'54':'player_3_1',
-'53':'npc_4_2',
-'9':'not_it',
-'51':'npc_reward_2',
-'50':'player_2_2',
-'49':'player_1_2',
-'48':'npc_3_2',
-'47':'npc_2_2',
-'46':'npc_1_2',
-'2':'cantwork',
-'1':'gotowork',
-'43':'player_1_1',
-]
+{
+	"stfFile":"npc_mission/static_scientist_destroy",
+	"entries": {
+		"npc_3_1":"Well, certainly there are other artifacts.  Too bad, this one was really good...",		"npc_2_1":"I thought so.  You look like a good man.  I'll make it worth your while.",		"npc_1_1":"There's an assassin on this planet who's been killing all the top scientists in the area.  I want him eliminated and I'm willing to pay well for it.  Can you do it?",		"player_2_1":"I don't care about scientists.  Forget it.",		"npc_reward_1":"Here you go, these bugs are very rare, and could be worth a lot if you can find a buyer.",		"npc_4_1":"No one knows.  He seems to have some sort of problem with the work that we do, but we don't know why.",		"player_3_2":"What is this toxin?",		"player_3_1":"Why is he killing scientists?",		"npc_4_2":"It's a highly classified agent that we were using to destroy poisonous plants, but he's modified it to kill all vegetable matter.",		"not_it":"No, sorry, that's not the item I was looking for...",		"npc_reward_2":"Here you go.  I found this nice picture of the creature I was studying.  It's really all I have to give you though.",		"player_2_2":"Oh, my, I couldn't care less about you and your problem.",		"player_1_2":"I'll stop this guy before he gets started.",		"npc_3_2":"Great.  I'm wasting my time with you then.  Do you know anyone who DOES work?",		"npc_2_2":"Thanks.  I really appreciate it.  I'll find something to give you when you return.",		"npc_1_2":"One of our assistants has gone mad and is planning on releasing a toxin into the air that would kill all the plantlife on this planet.  He must be stopped.  I can tell you where he is if you can stop him.",		"cantwork":"I understand you're already working for someone else.  Come back when you're done with that job.",		"gotowork":"I need you to finish that task I gave you earlier.  Ok?",		"player_1_1":"I'm up for it."
+}}

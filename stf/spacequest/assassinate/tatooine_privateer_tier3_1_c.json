@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_privateer_tier3_1_c",
+	"entries": {
+		"title_d":"Destroy the Valarian pilots hired to replace you, part 3 of 3",		"title":"Yavin System: Hunt down Valarian replacements",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Beissa: < \#pcontrast1 Just as I suspected, that was a decoy.  Here comes the real Valarian Replacement. \#pcontrast3 >",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Valarian Replacement",		"quest_target_d":"A Rodian fighter pilot, works cheap because he loves his job",		"quest_location_t":"Yavin System",		"quest_location_d":"Deep space near the gas giant Yavin",		"quest_escort_t":"Escort",		"quest_escort_d":"The escort is unimportant to your mission for this target, ignore them.",		"failed_escape":"One of Valarian's new hired killers managed to elude capture. Mission failed!",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"Leave no one left alive, pilot! Destroy the target's escort, now.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 Beissa: < \#pcontrast1 I don't like it, that was too easy. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Beissa: < \#pcontrast1 Something odd... their hyperspace signature is only a 97% match.  Barely outside the margin for error, but we don't get old by being careless.  Watch your back. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Beissa: < \#pcontrast1 Stand by, they will be in any moment.  \#pcontrast3 >"
+}}

@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/corellia_station_duty1",
+	"entries": {
+		"title_d":"Since the discovery of the Cloak sect, more and more Cloak fighters have been spotted in the Corellia system. You have been assigned the task of seeking out these rogues and destroying them.",		"title":"Corellia System: Destroy Cloak Fighters Duty",		"taunt_5":"Die, CorSec!",		"taunt_4":"Die, CorSec!",		"taunt_3":"Die, CorSec!",		"taunt_2":"Die, CorSec!",		"taunt_1":"Die, CorSec!",		"targets_detected":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Enemy craft approaching on attack vector.\#pcontrast1 >",		"targets_behind":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Enemy craft approaching from the rear.\#pcontrast1 >",		"quest_location_t":"Remain in the Corellia System",		"quest_location_d":"The Cloak fighters seem to be currently localized within the Corellia system.",		"quest_destroy_t":"Eliminate the Cloak Fighters",		"quest_destroy_d":"Destroy all Cloak fighters that you find. When you have eliminated an entire attack wing, your computer will update the navigation waypoint to the next area of activity.",		"level_increase":"Cloak activity in this system is increasing due to your presence.",		"level_boss_dead":"Good work, pilot. Cloak activity in this area seems to have diminished. Stand by.",		"level_boss":"\#pcontrast1 CorSec Command: <\#pcontrast3  Cloak vessel communication is increasing. It seems they are sending an ace pilot after you.\#pcontrast1  >",		"found_loc":"Transmitting location of most recent Cloak activity. Proceed to this location and destroy all targets.",		"duty_update":"\#pcontrast1 CorSec Command: <\#pcontrast3  %TO\#pcontrast1  >",		"dd_boss_taunt_5":"Your time has come, CorSec!",		"dd_boss_taunt_4":"Your time has come, CorSec!",		"dd_boss_taunt_3":"Your time has come, CorSec!",		"dd_boss_taunt_2":"Your time has come, CorSec!",		"dd_boss_taunt_1":"Your time has come, CorSec!",		"complete":"Good work, pilot. No further Cloak activity is detected in this system. Return to the station for debriefing.",		"boss_title_5":"Cloak Ace",		"boss_title_4":"Cloak Ace",		"boss_title_3":"Cloak Ace",		"boss_title_2":"Cloak Ace",		"boss_title_1":"Cloak Ace",		"boss_detected":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Cloak Ace signature detected. Enemy craft incoming.\#pcontrast1 >"
+}}

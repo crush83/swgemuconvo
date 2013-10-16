@@ -1,7 +1,5 @@
-[
-'5':'destroy_neutral_hard_creature_5',
-'4':'destroy_neutral_hard_creature_4',
-'3':'destroy_neutral_hard_creature_3',
-'2':'destroy_neutral_hard_creature_2',
-'1':'destroy_neutral_hard_creature_1',
-]
+{
+	"stfFile":"mission_destroy_neutral_hard_creature",
+	"entries": {
+		"destroy_neutral_hard_creature_5":"There's a dangerous animal terrorizing the area, and we need someone to eliminate it.  We hope you are that someone.",		"destroy_neutral_hard_creature_4":"A remote satelite dish has stopped transmitting and no one seems to know why.  We're sending you to find out, though we suspect that it may have to do with local wildlife.",		"destroy_neutral_hard_creature_3":"The local wildlife has suffered severe ecological setbacks because of a dangerous predator that has taken control of a small area of land.  It's killing all the other wildlife indiscriminantly.  We want you to take care of cleaning up this problem for us.",		"destroy_neutral_hard_creature_2":"A farmer was attacked and killed last night by some type of dangerous animal.  We're sending you in to eliminate the monster before it harms anyone else.",		"destroy_neutral_hard_creature_1":"There have been many reports of disturbances in this area by locals.  We suspect a creature of some kind has taken up residence and we need you to move it out of the area."
+}}

@@ -1,33 +1,5 @@
-[
-'31':'title_d',
-'30':'title',
-'29':'taunt_5',
-'28':'taunt_4',
-'27':'taunt_3',
-'26':'taunt_2',
-'25':'taunt_1',
-'24':'targets_detected',
-'23':'targets_behind',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_destroy_t',
-'19':'quest_destroy_d',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'duty_update',
-'13':'dd_boss_taunt_5',
-'12':'dd_boss_taunt_4',
-'11':'dd_boss_taunt_3',
-'10':'dd_boss_taunt_2',
-'9':'dd_boss_taunt_1',
-'8':'complete',
-'7':'boss_title_5',
-'6':'boss_title_4',
-'5':'boss_title_3',
-'4':'boss_title_2',
-'3':'boss_title_1',
-'2':'boss_detected',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_duty/naboo_privateer_11",
+	"entries": {
+		"title_d":"Destroy Ay'Nat pirates throughout the Naboo System",		"title":"Naboo System: Duty: Hunt down Ay'Nat Pirate Legion",		"taunt_5":"Time to add another RSF puppet on my kill list!",		"taunt_4":"The Ay'Nat Legion leave no survivors!",		"taunt_3":"You are a fool to engage the Ay'Nat Legion!",		"taunt_2":"Royal Security Force? More like Royally Slow Fools!",		"taunt_1":"I guess not all RSF is on our payroll. No matter, you won't be on anyones payroll after this!",		"targets_detected":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Vessels fitting hunted ship profile on attack vector, weapon systems armed. \#pcontrast3 >",		"targets_behind":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. \#pcontrast3 >",		"quest_location_t":"Naboo System",		"quest_location_d":"Areas of Ay'Nat activity throughout the Naboo System",		"quest_destroy_t":"Destroy Waypoint",		"quest_destroy_d":"Proceed to this point and engage Ay'Nat craft",		"level_increase":"Sensors through out the system show increased Ay'Nat Pirate activity in response to our attacks.",		"level_boss_dead":"\#pcontrast3 RSF Command: < \#pcontrast1 That one has been a dread ever since he came to this sector, great work pilot! \#pcontrast3 >",		"level_boss":"\#pcontrast3 RSF Command: < \#pcontrast1 The Ay'Nat Legion have sent one of their best pilots to take care of you, be careful! \#pcontrast3 >",		"found_loc":"\#pcontrast3 RSF Command: < \#pcontrast1 The next area of known Ay'Nat Legion activity has been uploaded to your nav computer, proceed when ready. \#pcontrast3 >",		"duty_update":"\#pcontrast3 < %TO >",		"dd_boss_taunt_5":"Your pilot helmet will look good on my trophy rack RSF fool!",		"dd_boss_taunt_4":"Maybe I should fly using just one hand, to give you a chance?",		"dd_boss_taunt_3":"Too bad you ran in to me so early in your career, as I mark it's end!",		"dd_boss_taunt_2":"Prepare to die...",		"dd_boss_taunt_1":"Foolish RSF puppet, you should have run while you had the chance!",		"complete":"\#pcontrast3 RSF Command: < \#pcontrast1 Fantastic job pilot! We struck a blow to the Ay'Nat Legion that will take them a long time to recover from. Head back to base when ready. \#pcontrast3 >",		"boss_title_5":"Heartless Ay'Nat Warlord",		"boss_title_4":"Hateful Ay'Nat Commander",		"boss_title_3":"Blood-thirsty Ay'Nat Warlord",		"boss_title_2":"Veteran Ay'Nat Commander",		"boss_title_1":"Ay'Nat Warlord",		"boss_detected":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Ay'Nat Warlord on attack vector, weapon systems armed. \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

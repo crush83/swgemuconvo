@@ -1,28 +1,5 @@
-[
-'26':'title_d',
-'25':'title',
-'24':'split_quest_alert_fail',
-'23':'split_quest_alert',
-'22':'quest_update',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_helpallies_t',
-'18':'quest_helpallies_d',
-'17':'quest_findbattle_t',
-'16':'quest_findbattle_d',
-'15':'found_loc',
-'14':'enemies_win',
-'13':'enemies_remaining',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remaining',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_privateer_tier3_4b",
+	"entries": {
+		"title_d":"A face to face battle with a Black Sun Ace fighter named Crystal Snake",		"title":"Lok System: Assist the RSF Take down Crystal Snake",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 Enemy fighters are moving in on your position. Repeat, enemy fighters moving in on your  position. \#pcontrast3 >",		"quest_update":"%TO",		"quest_location_t":"Lok System",		"quest_location_d":"An area of the Lok System",		"quest_helpallies_t":"Allies",		"quest_helpallies_d":"A trio of RSF Hunters, you fail the mission if they all die",		"quest_findbattle_t":"Ambush Point",		"quest_findbattle_d":"Travel here to set up the ambush",		"found_loc":"\#pcontrast3 RSF Command: < \#pcontrast1 Scanners show a second target in the area, travel to the following area.  Keep an eye out for a Black Sun operative named Crystal Snake. \#pcontrast3 >",		"enemies_win":"\#pcontrast3 RSF Command: < \#pcontrast1 We needed that hunter group alive, this is unacceptable. \#pcontrast3 >",		"enemies_remaining":"An enemy craft has been destroyed, %DI remain.",		"enemies_remain":"%DI Enemy craft remain.",		"enemies_arrived":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy craft have entered normal space. \#pcontrast3 >",		"battle_started":"\#pcontrast3 Crystal Snake: < \#pcontrast1 Enjoy this moment RSF trash, it will be your last. \#pcontrast3 >",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"\#pcontrast3 RSF Command: < \#pcontrast1 Good work... wait, we are picking up something on scanners. \#pcontrast3 >",		"allies_remaining":"An allied craft has been destroyed, %DI remain.",		"allies_remain":"%DI Allied craft remain.",		"allies_arrived":"\#pcontrast3 RSF Command: < \#pcontrast1 We have sent a hunter squad to assist you for this mission.  It should not be a problem. \#pcontrast3 >"
+}}

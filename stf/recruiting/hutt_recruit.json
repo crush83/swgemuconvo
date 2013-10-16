@@ -1,32 +1,5 @@
-[
-'32':'seebib',
-'31':'hr_29',
-'30':'hr_28',
-'29':'hr_27',
-'28':'hr_26',
-'27':'hr_25',
-'25':'hr_24',
-'23':'hr_23',
-'22':'hr_22',
-'21':'hr_21',
-'20':'hr_20',
-'19':'hr_19',
-'18':'hr_18',
-'17':'hr_17',
-'16':'hr_16',
-'15':'hr_15',
-'14':'hr_14',
-'13':'hr_13',
-'12':'hr_11',
-'11':'hr_10',
-'10':'hr_12',
-'9':'hr_9',
-'8':'hr_8',
-'7':'hr_7',
-'6':'hr_6',
-'5':'hr_5',
-'4':'hr_4',
-'3':'hr_3',
-'2':'hr_2',
-'1':'hr_1',
-]
+{
+	"stfFile":"recruiting/hutt_recruit",
+	"entries": {
+		"seebib":"Go up and see Bib Fortuna.  My tasks are for less experienced individuals.",		"hr_29":"You again?  Have you thought about that work I mentioned earlier?",		"hr_28":"Well, as impressed as Bib gets, really.  That is, he didn't act disappointed or execute anybody when he heard you had killed the target.  But anyway...",		"hr_27":"Go see Bib upstairs.  He'll let you in now that he sort of knows who you are.",		"hr_26":"Thanks.  I appreciate it.",		"hr_25":"Congratulations.  That's good work that you do.  You're gonna do well on this planet, I can feel it.",		"hr_24":"Good.  Bib's counting on you to make him look good.   You pull this off and I'll get you in to see him personally.",		"hr_23":"Jabba's chief rival is Lady Valarian.  It was some of her thugs trying to act big.  They picked the wrong week cause Jabba's just been looking for an excuse.  And like I said, Bib loves to look good for the girls.",		"hr_22":"I'll get right on it.",		"hr_21":"Who's crazy enough to do this?",		"hr_20":"Some thugs roughed up one of Jabba's dancers the other day in town, and Bib wants to make an example of them.  Plus I think he's trying to get the dancers to like him.  Anyway.  Just teach these guys a lesson.",		"hr_19":"Really?  Bib was impressed?",		"hr_18":"What's my next job?",		"hr_17":"That's fine, but don't take forever.  I got lots of other things to do you know.",		"hr_16":"Bib was very impressed.  He says he may have a place for you at the palace, since they've had some...uh...openings...recently.  But we need you to do just a little more to prove yourself.",		"hr_15":"I'll be back later.  ",		"hr_14":"You got it.  What's next?",		"hr_13":"You did good work for us there.  Can we count on you to do some more?",		"hr_11":"Well, as long as you keep our little chat to yourself I'll let you go then.",		"hr_10":"Bib had some issues with his own people a while back, and he's sort of been hiding out here on Tatooine.  Anytime someone starts asking questions he "deals with it" as quickly as possible.",		"hr_12":"Ok, I'll upload his last known to your datapad.  Return here when the deed is done and we'll talk further about your usefulness.",		"hr_9":"Why does Bib care about this guy?",		"hr_8":"Consider it done.",		"hr_7":"Good.  What I want you to do is to find this stang who's been asking too many questions about Bib Fortuna.  Bib wants him "eliminated" if you know what I mean.",		"hr_6":"Sorry, I can't work for the Hutts.",		"hr_5":"Not for me.",		"hr_4":"I thought you had that look about you.  I work for Jabba the Hutt.  Is that going to be a problem?",		"hr_3":"I think you have the wrong guy.",		"hr_2":"Yeah, I could use some work like that.",		"hr_1":"You look like the kind of person that could use some work.  That is, if you aren't too worried about what the "law" might think about it."
+}}

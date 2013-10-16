@@ -1,16 +1,5 @@
-[
-'30':'suffix_missile',
-'29':'suffix_projectile',
-'28':'suffix_countermeasure',
-'27':'reset_defaults',
-'26':'not_a_pilot',
-'25':'weapon_groups_available',
-'24':'selected_group',
-'23':'all_weapons',
-'22':'caption',
-'35':'help_selected',
-'34':'help_buttons_addremove',
-'33':'help_all_weapons',
-'32':'help_weapon_group',
-'31':'suffix_empty',
-]
+{
+	"stfFile":"ui_weapongroupassignment",
+	"entries": {
+		"suffix_missile":" \#pcontrast1 (missile)\#.",		"suffix_projectile":" \#pcontrast1 (projectile)\#.",		"suffix_countermeasure":" \#pcontrast1 (countermeasure)\#.",		"reset_defaults":"Reset Defaults",		"not_a_pilot":"Only the pilot can manage the weapon group assignments.",		"weapon_groups_available":"Weapon Groups",		"selected_group":"Assigned Weapons",		"all_weapons":"Unassigned Weapons",		"caption":"Weapon Group Assignment",		"help_selected":"These are the weapons in your currently selected weapon group.",		"help_buttons_addremove":"Use these buttons to assign or unassign weapons to or from your selected weapon group.",		"help_all_weapons":"These are your unassigned weapons. These weapons are available to be added to one of your weapon groups.",		"help_weapon_group":"These are you weapon groups. You can assign weapons of a similar type to these groups for use in combat.",		"suffix_empty":" (empty)"
+}}

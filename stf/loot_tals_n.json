@@ -1,21 +1,5 @@
-[
-'19':'bantha_doll',
-'18':'jusani_zhord_q1_needed',
-'17':'igbi_freemo_q2_needed',
-'16':'gravin_attal_q2_needed',
-'15':'gravin_attal_q1_needed',
-'14':'radlee_mathiss_q1_needed',
-'13':'hagrin_zeed_q2_needed',
-'12':'hagrin_zeed_q1_needed',
-'11':'haleen_snowline_q2_needed',
-'10':'haleen_snowline_q1_needed',
-'9':'champhra_biahin_q2_needed',
-'8':'champhra_biahin_q1_needed',
-'7':'green_laser_q1_needed',
-'6':'sigrix_slix_q2_needed',
-'5':'sigrix_slix_q1_needed',
-'4':'xalox_guul_q2_needed',
-'3':'slooni_jong_q1_needed',
-'2':'nurla_slinthiss_q3_needed',
-'1':'nurla_slinthiss_q1_needed',
-]
+{
+	"stfFile":"loot_tals_n",
+	"entries": {
+		"bantha_doll":"Bantha Doll",		"jusani_zhord_q1_needed":"A locked briefcase",		"igbi_freemo_q2_needed":"A stash of spice",		"gravin_attal_q2_needed":"Hyperdrive Part",		"gravin_attal_q1_needed":"Requisition orders",		"radlee_mathiss_q1_needed":"Credit Disc",		"hagrin_zeed_q2_needed":"Bribe",		"hagrin_zeed_q1_needed":"Message for Jusani Zhord",		"haleen_snowline_q2_needed":"Zeed Payoff Evidence",		"haleen_snowline_q1_needed":"Liberation Contribution",		"champhra_biahin_q2_needed":""Flowers of Drall"",		"champhra_biahin_q1_needed":"Twin-Scented Natterbloom",		"green_laser_q1_needed":"Blaster Cannon Plans",		"sigrix_slix_q2_needed":"Selonian Verovakin",		"sigrix_slix_q1_needed":"Um... Ambient Wildlife Calls... yeah.",		"xalox_guul_q2_needed":"Datadisc ",		"slooni_jong_q1_needed":"Briefcase ",		"nurla_slinthiss_q3_needed":"Datadisc",		"nurla_slinthiss_q1_needed":"Datadisc"
+}}

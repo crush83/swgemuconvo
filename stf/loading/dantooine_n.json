@@ -1,13 +1,6 @@
-[
-'11':'voritor',
-'10':'thune',
-'9':'quenker',
-'8':'piket',
-'7':'remnants_of_kun',
-'6':'huurton',
-'5':'bol',
-'4':'jedi_temple',
-'3':'dantari',
-'2':'rebel_base',
-'1':'dantooine',
-]
+{
+	"stfFile":"loading/dantooine_n",
+	"entries": {
+		"voritor":"Voritor",		"thune":"Thune",		"quenker":"Quenker",		"piket":"Piket",		"remnants_of_kun":"Remnants of Kun",		"huurton":"Huurton",		"bol":"Bol",		"jedi_temple":"Jedi Temple",		"dantari":"Dantari",		"rebel_base":"Rebel Base",		"dantooine":"Dantooine
+"
+}}

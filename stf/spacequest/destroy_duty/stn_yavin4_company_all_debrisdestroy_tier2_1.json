@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/stn_yavin4_company_all_debrisdestroy_tier2_1",
+	"entries": {
+		"title_d":"The Debris Cultist have gotten it into their heads that the Yavin 4 Mining Company is in charge of the salvage operation underway in the system. The company wants to have their numbers reduced in order to increase the security of their operations.",		"title":"Yavin System: Deathstar Debris Cult Destroy Duty",		"taunt_5":"Die infidel!",		"taunt_4":"I have some material I would have liked to give you, but I am afraid I must kill you instead.",		"taunt_3":"Join us...join us.",		"taunt_2":"Faith in the great fireball is the only true faith.",		"taunt_1":"And he said unto me...destroy the disbelievers.",		"targets_detected":"\#pcontrast1Tactical Computer: \#pcontrast3< Enemy fighters detected. >\#pcontrast3 \#pcontrast1",		"targets_behind":"\#pcontrast1Tactical Computer: \#pcontrast3< Enemy fighters detected. >\#pcontrast3 \#pcontrast1",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"Cult members are all over the system causing trouble for whoever they come across. Hot spots of cult activity will be sent to your nav computer.",		"quest_destroy_t":"Destroy the Cultists",		"quest_destroy_d":"Destroy any of the Debris Cultists that decide to attack you.",		"level_increase":"Watch yourself. The cultists know what you are up to and will do everything they can to stop you.",		"level_boss_dead":"Yes! Without their leaders the cultists will have a harder time recruiting new members. Keep it up.",		"level_boss":"Be on the look out. The cultists have sent a %TO after you. I have heard they are bad customers.",		"found_loc":"We have found another location where the cultists are gathering. Break them up.",		"duty_update":"\#FF0000 Yavin Mining Company:\#FF0000 < %TO >",		"dd_boss_taunt_5":"Close your eyes, my child. I shall free you of your mortal coil.",		"dd_boss_taunt_4":"I will show you the way to ultimate peace.",		"dd_boss_taunt_3":"I find your lack of faith to be most displeasing.",		"dd_boss_taunt_2":"You should have joined with us my child. Now you will become one with the debris.",		"dd_boss_taunt_1":"And it is written that I shall destroy you.",		"complete":"Good work out there, pilot. That will really cut down on the number of crazies flying around this system. Report back to the station.",		"boss_title_5":"Exaulted One",		"boss_title_4":"Debris Holy Man",		"boss_title_3":"Debris Worshipper",		"boss_title_2":"Debris Acoloyte",		"boss_title_1":"Debris Zealot",		"boss_detected":"We have picked up a vessel signature of one of their priests. He is heading your way."
+}}

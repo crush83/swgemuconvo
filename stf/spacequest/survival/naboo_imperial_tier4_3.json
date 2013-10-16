@@ -1,29 +1,5 @@
-[
-'27':'transmission_start',
-'26':'transmission_received',
-'25':'trans_update',
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_reachpoint_t',
-'18':'quest_reachpoint_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_defendpoint_t',
-'14':'quest_defendpoint_d',
-'13':'outofrange_failed',
-'12':'outofrange',
-'11':'mission_complete',
-'10':'found_loc',
-'9':'first_attack',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_loc',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/survival/naboo_imperial_tier4_3",
+	"entries": {
+		"transmission_start":"Transmission Update: <Transmission frequency located. Beginning download of encrypted message.>",		"transmission_received":"Transmission Update: <Transmission received. Stand by for further instructions.>",		"trans_update":"Transmission Update: <%DI percent of message received.>",		"title_d":"The captured Coynite held out for as long as he could but eventually talked. Apparently the Coynite have an ally or allies from the prison on the planet's surface. They have been using communications satellites to broadcast instructions to the Coynite. You are to travel to one of the relay points and intercept these instructions.",		"title":"Dathomir System: Intercept the Coynite Message",		"split_quest_alert_fail":"",		"split_quest_alert":"We need that data brought to one of our command vessels so we can decypher the message. Stand by for the navigation coordinates.",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_reachpoint_t":"Intercept the Coynite Message",		"quest_reachpoint_d":"Once you have reached the relay point, wait for the broadcast to begin.",		"quest_location_t":"Travel to the Dathomir System",		"quest_location_d":"The relay point is located inside of the Dathomir system.",		"quest_defendpoint_t":"Defend the Interception Point",		"quest_defendpoint_d":"You must remain at that location until the signal is completed. If the Coynite notice you they will attack. Defend yourself but do not leave the area until the signal is completed.",		"outofrange_failed":"Transmission signal ended. Return to your superior officer to explain your failure to gather the information.",		"outofrange":"Transmission signal lost. Return to transmission location.",		"mission_complete":"Nice work, pilot. Stand by for delivery information.",		"found_loc":"Transmission point located. Travel to the location in your nav computer and stand by to intercept the transmission.",		"first_attack":"You have been spotted. Be on the look out for enemy fighters.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy wave eliminated.>",		"attack_notify":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Warning! Enemy fighters incoming at attack speeds with weapons armed.>",		"assigned_delayed":"",		"arrived_at_loc":"Stand by for next transmission to take place. Stay in this location until transmission is completed.",		"Quest Log Data":"Text"
+}}

@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_imperial_tier4_4_c",
+	"entries": {
+		"title_d":"A highly important TIE squadron has been attacked by enemy forces. The enemy is being lead by your second priority target. You must protect the TIE squadron and destroy all the attackers, including Tiberous Anderlock.",		"title":"Dathomir System: Defeat Tiberus Anderlock in Battle",		"split_quest_alert_fail":"",		"split_quest_alert":"Anderlock sent out a distress signal in his last moment. Tracing signal reveals that the vessel that recieved the signal is attempting to leave the sector. Track and destroy this vessel.",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"The battle is being waged in the Dathomir system. A navigation waypoint to the battle location will be supplied to you.",		"quest_helpallies_t":"Help the TIEs Defeat Tiberus Anderlock",		"quest_helpallies_d":"Destroy the attacking enemy fighters before they can eliminate the remaining TIE fighters.",		"quest_findbattle_t":"Travel to the Battle Location",		"quest_findbattle_d":"Travel to the supplied navigation waypoint and meet up with the TIEs as they prepare to battle the enemy.",		"found_loc":"Proceed to navigation waypoint supplied to you. That TIE squadron must be protected in order to keep enemies from the area. While you are at it destroy every enemy fighter, especially Anderlock.",		"enemies_win":"TIE squadron completely destroyed. Anderlock has established control of the area.",		"enemies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI enemy fighters remaining.>",		"enemies_arrived":"Scans indicate presence of large enemy force massing for attack on TIE squadron.",		"battle_started":"Enemy fighters engaging TIE squadron.",		"battle_abandoned":"You have left the TIE squadron to the mercy of the enemy. Report your failure to your commander.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Anderlock's wing has been completely destroyed. ",		"allies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI allied fighters remaining.>",		"allies_arrived":"TIE squadron regrouping to defend against assault.",		"Quest Log Data":"Text"
+}}

@@ -1,15 +1,220 @@
-[
-'15':'lok',
-'14':'naboo',
-'13':'endor',
-'12':'corellia',
-'11':'talus',
-'10':'tatooine',
-'9':'dathomir',
-'8':'rori',
-'7':'yaviniv',
-'6':'dantooine',
-'5':'faction',
-'4':'xenobiology',
-'3':'bestiary',
-]
+{
+	"stfFile":"kb/kb_bestiary_d",
+	"entries": {
+		"lok":"There are no indigenous native species on Lok. The sentient lifeforms that live upon the planet are all transplants from other planets throughout the galaxy.
+
+Many bands of pirates and brigands call Lok their home. Nearly all species across the galaxy can be found here, living the life of ones who ply the space tradelanes. This planet doesn't welcome those who choose to live by a set of ethics.
+
+Records show that Lok was once used as a testing ground for the former Trade Federation's droid armies. Considering the amount of droids they used to fill these armies, it should come as no surprise to anyone that numerous droids still roam the plains, following ancient orders.
+
+Though the list is extensive, the following is an example of some creatures you may find on Lok:
+
+Gurnaset
+Though they appear to be mammalian, the Gurnaset are actually almost reptilian in most of their biology, laying eggs for young and eating insects like frogs or lizards.
+
+Flit
+The Flit hunts in swarms, sucking the blood of their prey. Depending on the size of the swarm, these encounters can be deadly, but most often are merely damaging.
+
+Kimogila
+A fearsome predator, the kimogila is an enormous lizard-like being capable of swallowing whole a full grown Wookie.
+
+",		"naboo":"Naboo is home to two indigenous species: the Naboo and the Gungans.
+
+The Naboo, whom are humans, colonized the planet many generations ago. Due to the serene atmosphere of the planet, the Naboo culture promotes artistic skill as it's greatest achievement.
+
+The Gungans are a species of humanoid amphibians. Gungans are composed of two races: The Otolla Gungan are tall and muscular, whereas the Ankura Gungan are very large and have large faces.
+
+Ever since the Trade Federation was repelled with the help of then Senator Palpatine, the people of Naboo have been loyal supporters of the Empire. If people even speak of the Rebellion, it's only in hushed tones.
+
+Some of the wildlife you may run across are exampled by the following:
+
+Ikopi
+This antelope-like mammal roams the plains and swamps of Naboo in large herds.
+
+Kaadu
+This species of two-legged, flightless avian are often used as steeds by the Gungans.
+
+Veermok
+This vicious, gorilla-like creature inhabits the plains and forests of the planet, staying well away from the swamps.
+
+Fambaa
+This giant reptile is herbivorous and even-tempered by nature, but can be fearsome in its appearance.
+
+Narglatch
+Native to the swamps of Naboo, the Narglatch are solitary hunters that silently stalk and quickly demolish their prey.
+",		"endor":"There are two major indigenous species that can be found on Endor: the Ewoks and the Duloks.
+
+Though easily confused, these two creatures are related but they are wholly different species. The Ewoks and the Duloks constantly engage in tribal warfare between the two, therefore one might find it hard to tell the difference on a battlefield. The Ewoks are shorter and stouter than their Dulok cousins, and their demeanor is a lot nicer, as well. Don't be mistaken, though - Ewoks can be just as fierce as the Duloks on any given day.
+
+Though they are not native to Endor, the Marauders call the moon their home, albeit reluctantly. Having crashed on the planet years ago, they will attack anyone they feel has the technology to help them escape.
+
+In addition to the primitive lifeforms already mentioned, here is a short list of other creatures you may find while traveling about Endor:
+
+Lantern Bird
+A large beautiful flying creature that lives in shimmering nests high in the trees of Endor's forest moon.  
+
+Boar-Wolves
+When the Boar-wolves get hungry, they swarm through the forest, fearlessly attacking (and eating) anything that moves.
+
+Condor Dragon
+The Condor Dragon lives in the moon's mountain caves, emerging to soar the aerials and hunt its prey.
+",		"corellia":"Corellia is home to three indigenous species: Humans, Drall, and Selonians.
+
+Humans comprise most of the native population, taking part in business, military, and engineering trades. The Empire has a heavy presence upon the planet, but there is a growing sympathy towards the Rebellion. It is rumored that the Rebellion has taken this opportunity and are more open on Corellia than any other planet.
+
+The Drall are short, stocky mammals, covered in fur from head to toe. Generally happy to engage in manual labor, there are known to be a number of Drall that wish to change this.
+
+Selonians can be found on Corellia, but rarely come out of their tunnels. Tall, sleek creatures, they are known for their heated politics.
+
+The following is a list of some of the creatures that you may encounter whilst visiting Corellia:
+
+Bageraset
+The bageraset is a plains animal, often found grazing in herds.
+
+Gulginaw
+The gulginaw is a large predatory flying bird that lives off the fish it snatches out of the oceans, rivers, and lakes of Corellia.
+  
+Durni
+Durni are eyeless rabbits with large ears that protrude up from their heads. They see like bats, using a sort of sonic radar to navigate the wilderness they live in.  
+
+Sand Panther
+A large, predatory feline native to Corellia, the claws of a sand panther exude a poison when they cut into flesh.
+
+",		"talus":"There are no indigenous species that call Talus home. Every sentient species on the planet has come from other planets.
+
+Talus shares similar views with their more prodigious "brother", Corellia. Being a bit more independent, one who doesn't agree with the Empire may find more people willing to listen to their views.
+
+The following is a short list of the wildlife you may encounter on Talus:
+
+Blistmok
+The blistmok is a small reptilian creature with what appear to be large blisters covering its back and head.  
+
+Guf Drolg
+These large sauroids inhabit the islands and waterways of the coasts, feeding on large fish and amphibians, vegetation, and the occasional land animal unlucky enough to stray too near the water's edge.
+
+Kima
+Kimas are very solitary, and will fight and scratch if bothered or touched.  Kimas will not even associate with others of their own kind, mating only once per year, and then spending no time with their mates.
+
+Vynock
+These small, dragon-like beasts scour the rocky mountains of the planet, searching for metals to eat.
+",		"tatooine":"Tatooine is home to two indigenous species: the Jawa and the Sand People. 
+
+After the initial attempts at colonizing the planet for mining purposes, Jawas took all of the discarded equipment and turned it into large machines, such as the massive Sandcrawlers.
+
+The Sand People are commonly known as "Tusken Raiders" due to the attack on Fort Tusken. They have managed to raid equipment as well, but do not have the understanding of it that the Jawas do. Therefore, they are still using rifle-blasters that date back over 100 years.
+
+Criminal organizations also call this planet home. The most notable on Tatooine would be Jabba the Hutt's criminal empire. Though he controls everything in the Outer Rim, this has not prevented others from trying to move in on his business.
+
+The following are some commonly seen creatures that can be found in the wastelands of Tatooine:
+
+Bantha
+These large and furry mammals are seen in high numbers and are well integrated into planetary life. They are usually used both as mounts and beasts of burden by the Tusken Raiders.
+
+Dewback
+Large, omnivorous, dinosaur-like lizards found both in the deserts and mountains. 
+
+Womp Rat
+Womp rats are large, hopping rodents. Living in large nests, their largest breeding grounds can be found in Beggar's Canyon.
+
+Squill
+One of the galaxy's most reviled vermin, the squill is a monkey-like creature with a toothy beak and pink head-frills. They are notorious for carrying diseases.
+
+Krayt Dragon
+Rumored to exist, the most interaction people have with these creatures are the bones that can be found in the dunes. 
+",		"dathomir":"The two indigenous species that can be found on Dathomir are the Singing Mountain Clan witches and the Nightsisters.
+
+The Singing Mountain Clan witches use an unorthodox form of the force, which they call "magic". The witches normally respect those who treat them with respect as well. The fact that they keep people as slaves is something that prevents most people from testing this theory.
+
+The Nightsisters are witches who have chosen to learn the darker magics, or "Shadow Magic". The Nightsisters are not known to be friendly to anyone other than their own.
+
+Some may argue that there is another indigenous species: Prisoners, both the incarcerated and the escaped. These can be found in the wild and in the Imperial Prison as well.
+
+There are many creatures that roam the forests and plains of Dathomir. Among some of the ones you will wish to only see in your nightmares are:
+
+Reptilian Flyer
+This big flying lizard swoops down from the mountains of Dathomir and carries off small children and other tasty snacks from the forest below.
+
+Graul
+Graul are very aggressive apes, with hooks for hands, and a long mane like that of a Sand Panther.
+
+Malkloc
+The gigantic malkloc is a solitary herbivore that typically takes little notice of its surroundings, impervious as it is to any natural predator on Dathomir.  
+
+Gaping Spider
+The Gaping Spider attacks with a single-minded ferocity, without any sort of planning or tactics apart from biting their prey and then preventing its escape while their poison does its work.
+
+Rancor
+Part crustacean, part arachnid, the rancor stands about 8-10 meters tall, and has wickedly-clawed hands and rows of sharp teeth in its pudgy face. It is known for it's intense ferocity. Jabba the Hutt is rumored to keep one as a pet, whereas on Dathomir they roam the forests by the pack.
+",		"rori":"Similar to its home planet, Naboo, Rori has two indigenous species: The Naboo and the Gungans
+
+Starting from a colony of Naboo, Rori naturally has a fierce independent nature. Arguments between people over the pros and cons of the Empire are a common sight.
+
+Among some of the creatures you may find on Rori are the following: 
+
+Squall
+The squall is a docile rodent distinguished by its long ears and bushy tail.
+
+Ikopi
+This antelope-like mammal roams the plains and swamps of Rori in large herds.
+
+Tusk-cat
+This feline predator is native to the planet Naboo, but it has been transplanted onto Rori.
+
+",		"yaviniv":"From various archaeological digs conducted on the planet, the former Massassi people that once lived on Yavin 4 appear to have vanished without a trace. Therefore, there no longer exists any indigenous people native to the planet.
+
+However, just because the natives are gone doesn't mean people can't be found on Yavin 4. A massive siege has been going on between the Empire and the Rebellion for some time now, ever since the destruction of the Death Star. This planet is rife with warfare, and both Imperial and Rebel alike can be found with much frequency.
+
+The jungles of Yavin 4 are teeming with life, though most of it poses a danger to many a traveler. Here are some examples of the native lifeforms one may find on the moon:
+
+Gackle Bat
+Gackle bats are efficient nocturnal hunters. The compound eyes and sensitive ears allow them to easily locate and track prey on even the darkest of nights.
+
+Skreeg
+Although not typically making a diet of people, the skreeg will attack any humanoid it perceives to be encroaching on its territory.
+
+Spined Puc
+The spined puc is a toadish amphibian native to the rivers and streams of Yavin 4. There they feed on insects and the occasional small fish.
+
+Choku
+The choku is a vicious combination of flightless avian and clawed canine. Their muscled haunches and hooked paws drive them quickly through the jungles of Yavin 4.
+
+",		"dantooine":"The sole indigenous species on Dantooine are the Dantari.
+
+The Dantari are a nomadic species, only rarely establishing a permanent settlement. Little is known of the Dantari culture, as they have kept to themselves around visitors.
+
+No major factional conflicts exist upon Dantooine. Well, out in the open, that is.
+
+Some of the following creatures can be found on Dantooine:
+
+Bol
+Similar to the Dewback of Tatooine, the Bol live on the grasslands and are the favorite foods of Voritor Lizards and Huurton.
+
+Huurton
+This canine predator of the grasslands lives in clans that can number forty or more members. Fortunately, the whole clan does not all stay together at all times.
+
+Voritor Lizard
+The Voritor Lizard patiently and slowly stalks their prey, but are capable of surprising short bursts of speed when their prey is within range.
+",		"faction":"Just as your actions throughout the game will help mold your profession, so will who you chose to ally with. Star Wars Galaxies has a great assortment of factions who work for, against, and sometimes with each other.
+
+You do not actively choose which faction or factions you work for (most of the time, that is - see below). Your faction standing is determined by many different factors. The most common factors that help you choose sides will depend on who you choose to engage in combat with, or whose missions you choose to take.
+
+For example, Jabba the Hutt is vehemently opposed to Lady Valarian, and vice versa. If you were to kill some of Lady Valarian's thugs, this will make her angry with you. At the same time, Jabba the Hutt will be more prone to offering you jobs. As you play, you will eventually learn which factions fight against whom. It is up to you to decide which "side" you wish to work for.
+
+However, there is a major exception to this rule regarding faction. The galaxy is in the middle of a Civil War, being fought between the Empire and the Rebellion. If you choose to side with one of these forces, you can "declare" yourself to the rest of the world. The more faction points you earn toward that side will bring you more and more perks from your chosen side.
+",		"xenobiology":"Throughout the planets in Star Wars Galaxies, you will come across many different kinds of creatures. Be warned that not all of these creatures are friendly. There will be many in the wild that are more scared of you than you are of it. At the same time, there will be many that consider you to be lunch. Thus, some creatures will be "aggressive" and others will be "non-aggressive".
+
+Creatures may be solitary hunters, those that do not associate with others of its kind, or they may gather together in either herds or in packs.
+
+A herd of creatures will generally scatter if they are attacked, leaving the weakest ones behind to save the rest. A pack of creatures will work together if one of their own are attacked. 
+
+When you approach a creature, you may see a symbol appear above its head. This will let you know what their reaction toward you is. If you see a question mark appear, this means that they detect your presence.
+
+If you see an exclamation mark appear above their head, this means they know you are there, and are determining what course of action they are going to take. Basically, they are getting ready.
+
+If you see three lines appear above their head, this means they are now reacting to your presence and are taking the course of action they deem the most appropriate. If they are non-aggressive, this will generally mean they will run away. If they are aggressive beasts, they will most likely choose to attack you.
+",		"bestiary":"The Galaxy features many unique and diverse species of animal. Each planet boasts its own unique ecology, and of course, space travelers have also ferried creatures from one world to another, as they established their colonies.
+
+In addition, of course, there are countless sentient species across the Galaxy, some of the spacefaring and some of them not. They all boast their own unique cultures, but many of them have to some degree been assimilated into the larger Galactic culture.
+
+"
+}}

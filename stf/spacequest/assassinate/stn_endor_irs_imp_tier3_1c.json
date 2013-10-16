@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/stn_endor_irs_imp_tier3_1c",
+	"entries": {
+		"title_d":"A Nova Courier has been spotted in the Endor System.  If at all possible, move out from your escort and destroy this target and return to the Transport quickly.",		"title":"Endor System: Opportunities",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"%TO",		"quest_target_t":"Nova Courier",		"quest_target_d":"Susptected of being on a reconnaissance pass, Imperial command is offering a reward for their destruction. ",		"quest_location_t":"Endor System",		"quest_location_d":"Not far from your current location, you are the best bet for destroying this Rebel incursion.",		"quest_escort_t":"Escort",		"quest_escort_d":"No escort is detected for the Nova Courier, but always be watchful.",		"failed_escape":"\#pcontrast3 Endor Station: < \#pcontrast1 Our sensors show the target has jumped out of the system.  I hope they did not find anything that could be used against us in the future. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"autorewardsubject":"Bonus for Mercenary Operations",		"autorewardfrom":"Office of the Imperial Navy",		"autorewardbody":"By the authority of < Imperial Research Station: 626 - Endor 2 > you have been awarded a credit bonus of < 15000 > for < Destruction of a suspected Rebel reconnaissance craft operating near Research Station 626 > ",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 Endor Station: < \#pcontrast1 The fleet relays a comendation on that mission Captain.  What is the status of the freighter? \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Target locked in. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Endor Station: < \#pcontrast1 I am transmitting the targets signature to you now. \#pcontrast3 >"
+}}

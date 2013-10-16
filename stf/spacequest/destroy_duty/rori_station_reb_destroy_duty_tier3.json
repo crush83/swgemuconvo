@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/rori_station_reb_destroy_duty_tier3",
+	"entries": {
+		"title_d":"The Rori Station would rather the Empire had other problems to focus on rather than pay any attention to their station. Distract the Empire by attacking Imperial ships in the Naboo System.",		"title":"Naboo system: Duty mission: Disrupt Imperial Investigations.",		"taunt_5":"Resistance is futile.",		"taunt_4":"After I crush you, I will become one of the Inquisitions elite pilots!",		"taunt_3":"Your pathetic attacks end here Rebel!",		"taunt_2":"You will pay for your crimes!",		"taunt_1":"I must destroy you!",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"quest_location_t":"Naboo system.",		"quest_location_d":"Cause a distraction by attacking Imperial fighters in the Naboo system.",		"quest_destroy_t":"Targets of elimination.",		"quest_destroy_d":"Eliminate Imperial forces.",		"level_increase":"We're getting reports that the Empire is ramping up their search for you, prepare to get busy.",		"level_boss_dead":"Fantastic job pilot! That should give the Inquisition something else to think about for a while!",		"level_boss":"One of the Imperial Inquisitors have been spotted in this area, stay sharp!",		"found_loc":"More of the Inquisition squads have been located in this area, proceed.",		"duty_update":"Station Command: < %TO >",		"dd_boss_taunt_5":"You dare anger the Inquisition?!",		"dd_boss_taunt_4":"Flee fool!",		"dd_boss_taunt_3":"Your first mistake was coming here. Your second mistake is not fleeing. You only get two mistakes.",		"dd_boss_taunt_2":"Didn't expect the Inquisition, did you?",		"dd_boss_taunt_1":"It's been a long time since I had an actual challenge.",		"complete":"Amazing job out there pilot! Return to base for some well earned rest.",		"boss_title_5":"Imperial Inquisitor",		"boss_title_4":"Imperial Inquisitor",		"boss_title_3":"Imperial Inquisitor",		"boss_title_2":"Imperial Inquisitor",		"boss_title_1":"Imperial Inquisitor",		"boss_detected":"Our reconnaissance ship has spotted an Imperial Inquisitor heading this way. Be careful."
+}}

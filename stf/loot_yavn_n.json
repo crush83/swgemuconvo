@@ -1,12 +1,5 @@
-[
-'10':'megan_drlar_q2_needed',
-'9':'lian_byrne_q3_needed',
-'8':'lian_byrne_q1_needed',
-'7':'drenn_zebber_q1_needed',
-'6':'jazeen_thurmm_q1_needed',
-'5':'ruwan_tokai_q2_needed',
-'4':'ruwan_tokai_q1_needed',
-'3':'gins_darone_q2_needed',
-'2':'gins_darone_q1_needed',
-'1':'yith_seenath_q1_needed',
-]
+{
+	"stfFile":"loot_yavn_n",
+	"entries": {
+		"megan_drlar_q2_needed":"A hyperdrive component ",		"lian_byrne_q3_needed":"Rebel spy report",		"lian_byrne_q1_needed":"Forensics report",		"drenn_zebber_q1_needed":"Briefcase ",		"jazeen_thurmm_q1_needed":"Briefcase ",		"ruwan_tokai_q2_needed":"Tokai Authorization",		"ruwan_tokai_q1_needed":"Death Star Fragment",		"gins_darone_q2_needed":"Special Forces Vibroknuckler",		"gins_darone_q1_needed":"Stranded Rebel's Weapon",		"yith_seenath_q1_needed":"Datadisc "
+}}

@@ -1,24 +1,5 @@
-[
-'46':'npc_1_2',
-'45':'npc_reward_1',
-'44':'player_2_1',
-'43':'player_1_1',
-'42':'npc_3_1',
-'41':'npc_2_1',
-'40':'npc_1_1',
-'49':'player_1_2',
-'48':'npc_3_2',
-'56':'otherescort',
-'58':'npc_takeme_2',
-'57':'dontknowyou',
-'9':'npc_takeme_1',
-'55':'player_3_2',
-'54':'player_3_1',
-'53':'npc_4_2',
-'52':'npc_4_1',
-'51':'npc_reward_2',
-'50':'player_2_2',
-'2':'cantwork',
-'1':'gotowork',
-'47':'npc_2_2',
-]
+{
+	"stfFile":"npc_mission/static_scientist_escort",
+	"entries": {
+		"npc_1_2":"One of my fellow scientists has damaged navigational equipment and needs someone to bring them back to me here.  Can you help us out?",		"npc_reward_1":"Here you go, these bugs are very rare, and could be worth a lot if you can find a buyer.",		"player_2_1":"No thanks.  I've got other things to do.",		"player_1_1":"Sure.  I'll bring your friend back.",		"npc_3_1":"That's too bad.  Guess I'm on my own for now.",		"npc_2_1":"Thank you so much.  I'll make contact so there aren't any surprises.",		"npc_1_1":"One of my colleagues has managed to get lost just outside of town.  It would be a great help to me if you could get my partner back to this location. Can you do that?",		"player_1_2":"Sure I'll find your friend.",		"npc_3_2":"Too bad.  If you know anyone who can help send them my way.",		"otherescort":"I don't think I'm the one you're looking for.  Perhaps you should be escorting someone else?",		"npc_takeme_2":"Ok, I'm ready to go.",		"dontknowyou":"I'm sorry, but I don't know who you are and I'm not going to follow you anywhere!",		"npc_takeme_1":"Oh, you've arrived.  Ok, you lead the way back and I'll follow you.",		"player_3_2":"How did the equipment break?",		"player_3_1":"Why don't you upload your location to the datapad?",		"npc_4_2":"To be honest, scientists can be rather clumsy.  I'm not really going to say anything more than that though.",		"npc_4_1":"Something's wrong with the datapad, and it can't seem to be used to navigate anymore.",		"npc_reward_2":"Here you go.  I found this nice picture of the creature I was studying.  It's really all I have to give you though.",		"player_2_2":"Oh, my, I couldn't care less about you and your problem.",		"cantwork":"I understand you're already working for someone else.  Come back when you're done with that job.",		"gotowork":"I need you to finish that task I gave you earlier.  Ok?",		"npc_2_2":"Excellent.  I'll be waiting here, and when you've returned we'll make sure you get something for your efforts."
+}}

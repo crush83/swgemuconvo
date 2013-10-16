@@ -1,12 +1,5 @@
-[
-'10':'unused2_t',
-'9':'unused2_d',
-'8':'unused1_t',
-'7':'unused1_d',
-'6':'title_d',
-'5':'title',
-'4':'split_quest_alert_fail',
-'3':'split_quest_alert',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/naboo_rebel_tier4_2_b",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Inquisitor Uvqolo had time to transmit your location to a TIE Interceptor squadron before he fled. Defend yourself and defeat Uvqolo's trap!",		"title":"Yavin system: Defend yourself against Uvqolo's Interceptors.",		"split_quest_alert_fail":"",		"split_quest_alert":"Brother Extok Evin: < You have one more chance pilot. Uvqolo hyperspaced to the Dathomir system but if you jump to lightspeed now, you may catch him when he arrives! >",		"complete":"Brother Extok Evin: < Well done pilot, you showed them! I'm getting new intel now, stand by. >",		"assigned_delayed":""
+}}

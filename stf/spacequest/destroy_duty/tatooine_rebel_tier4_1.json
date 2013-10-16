@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/tatooine_rebel_tier4_1",
+	"entries": {
+		"title_d":"We have several of our smugglers ordered to steal parts of the Death Star debris in the Yavin system to see if they can find anything useful. Unfortunately the Empire has stepped up their patrols of the debris field to the point where it's almost impossible to sneak in. Assist our smugglers in the system by attacking Imperial patrols near the debris field.",		"title":"Yavin system: Duty mission: Attack Imperial patrols.",		"taunt_5":"Resistance is futile.",		"taunt_4":"We're here to deliver justice!",		"taunt_3":"Your pathetic attacks end here Rebel!",		"taunt_2":"You will pay for your crimes!",		"taunt_1":"Destroy the Rebel men!",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"quest_location_t":"Yavin system.",		"quest_location_d":"The Yavin system is fiercely defended by the Empire and the debris field particularly so. Be prepared for a lot of resistance.",		"quest_destroy_t":"Engage and destroy.",		"quest_destroy_d":"We will keep updating your nav computer with new areas of possible targets. Keep going until you have exhausted yourself, your ship or until you feel you have enough experience to continue your training.",		"level_increase":"Our spy ships report that the Empire is increasing their presence in the sector to try and stop our attacks.",		"level_boss_dead":"I'm impressed! The Empire will speak your name in fear pilot.",		"level_boss":"One of the Empires Ace pilots is attacking; he's piloting one of their experimental fighters. Good luck pilot!",		"found_loc":"More Imperial patrols have been spotted in this area, proceed when ready.",		"duty_update":"Rebel Command: < %TO >",		"dd_boss_taunt_5":"This ship, my skills, I can't be defeated!",		"dd_boss_taunt_4":"My skills are superior in every way.",		"dd_boss_taunt_3":"Your first mistake was coming here. Your second mistake is not fleeing. You only get two mistakes.",		"dd_boss_taunt_2":"Rebel worm, you should have stayed in your hole.",		"dd_boss_taunt_1":"It's been a long time since I had an actual challenge.",		"complete":"Amazing job out there pilot! Return to base for some well earned rest.",		"boss_title_5":"Imperial Ace Pilot",		"boss_title_4":"Imperial Ace Pilot",		"boss_title_3":"Imperial Ace Pilot",		"boss_title_2":"Imperial Ace Pilot",		"boss_title_1":"Imperial Ace Pilot",		"boss_detected":"The Empire is dispatching one of their Ace pilots to investigate, stay cautious."
+}}

@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/tatooine_rebel_tier3_4_a",
+	"entries": {
+		"title_d":"In order to find out what the Empire is doing in such large force here, we need some more scan data. We've heard rumors that they are testing some new ship type and we hope that you can find us some evidence of that.",		"title":"Endor system: Scan a region of the Endor system.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < You have been spotted! TIE Fighters are moving in your direction. Take them out quickly! >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Scan route.",		"quest_patrol_d":"We will update your nav computer with new waypoints of suspect areas where the Empire may have deployed some of these new ships.",		"quest_location_t":"Endor system.",		"quest_location_d":"The Endor system is high risk, there's no doubt about that. This mission will be taking you dangerously close to the more Imperial dominated areas so be extremely careful pilot.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

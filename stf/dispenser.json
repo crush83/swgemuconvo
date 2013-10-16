@@ -1,18 +1,5 @@
-[
-'16':'inventory_full',
-'15':'food_dispenser',
-'14':'purchase_food',
-'13':'clothing_dispenser',
-'12':'purchase_clothing',
-'11':'tool_dispenser',
-'10':'purchase_tool',
-'9':'purchase_instrument',
-'8':'instrument_dispenser',
-'7':'purchase_medicine',
-'6':'insufficient_funds',
-'5':'purchase_complete',
-'4':'invalid_selection',
-'3':'select_purchase',
-'2':'nothing_to_buy',
-'1':'medicine_dispenser',
-]
+{
+	"stfFile":"dispenser",
+	"entries": {
+		"inventory_full":"Your inventory is full.  You must make some room before you can purchase.",		"food_dispenser":"Food Dispenser",		"purchase_food":"Purchase Food",		"clothing_dispenser":"Clothing Dispenser",		"purchase_clothing":"Purchase Clothing",		"tool_dispenser":"Tool Dispenser",		"purchase_tool":"Purchase Tool",		"purchase_instrument":"Purchase Instrument",		"instrument_dispenser":"Instrument Dispenser",		"purchase_medicine":"Purchase Medicine",		"insufficient_funds":"You do not have enough credits to make the purchase.",		"purchase_complete":"Purchase complete.",		"invalid_selection":"That is an invalid selection.",		"select_purchase":"Make your purchase selection.  All items cost 5 credits.",		"nothing_to_buy":"There is nothing to buy at this dispenser.",		"medicine_dispenser":"Medicine Dispenser"
+}}

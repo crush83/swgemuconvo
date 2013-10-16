@@ -1,23 +1,5 @@
-[
-'21':'npc_8',
-'20':'npc_9',
-'19':'player_8',
-'18':'player_7',
-'17':'npc_11',
-'16':'npc_10',
-'15':'player_10',
-'14':'player_9',
-'13':'npc_5',
-'12':'npc_4',
-'11':'player_6',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'npc_6',
-'6':'player_4',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/wald",
+	"entries": {
+		"npc_8":"Mostly it means sitting here counting junk while no one comes in to buy things.  Pretty dull really...",		"npc_9":"No.  You just have to know how to handle him, really.",		"player_8":"Why would you work with Watto?  Isn't he mean?",		"player_7":"What does that mean really?",		"npc_11":"Well, what can I say.  I've had an amazing life.",		"npc_10":"You don't?  I thought everyone had heard about that.",		"player_10":"That's amazing!",		"player_9":"Wow.  I have no idea what you're talking about.",		"npc_5":"I was here when Anakin Skywalker won the Pod Races!",		"npc_4":"I went into business with Watto many years ago.  Now I run the store when he's away.",		"player_6":"You've been here that long?",		"player_5":"Really?  Why are you working here?",		"npc_3":"My name is Wald.  I grew up here on Tatooine.",		"npc_7":"Suspicious?  You think I'd hurt my own business partner?  Actually...that's not a bad idea...",		"npc_6":"Suit yourself.  If you'd rather deal with the Toydarian that's your business.",		"player_4":"That sounds awfully suspicious.",		"player_3":"Well, I'll wait for him to come back.",		"npc_2":"Watto had some unexpected business back on his home planet.  I'm running things while he's away.",		"player_2":"Who are you?",		"player_1":"Where's Watto?",		"npc_1":"Welcome to Watto's Junk Shop.  What can I do for you?"
+}}

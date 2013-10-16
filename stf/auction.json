@@ -1,27 +1,6 @@
-[
-'25':'subject_auction_outbid',
-'24':'subject_auction_item_expired',
-'23':'subject_auction_cancelled',
-'22':'subject_auction_unsuccessful',
-'21':'subject_vendor_buyer',
-'20':'subject_instant_buyer',
-'19':'subject_auction_buyer',
-'18':'subject_vendor_seller',
-'17':'subject_instant_seller',
-'16':'subject_auction_seller',
-'15':'vendor_status_deleted',
-'14':'vendor_status_endangered',
-'13':'vendor_status_unaccessed',
-'12':'vendor_status_normal',
-'11':'vendor_status_empty',
-'10':'vendor_status_subject',
-'9':'buyer_success_location',
-'8':'seller_success_location',
-'7':'seller_success_vendor',
-'6':'item_expired',
-'5':'bidder_outbid',
-'4':'buyer_canceled',
-'3':'buyer_success',
-'2':'seller_fail',
-'1':'seller_success',
-]
+{
+	"stfFile":"auction",
+	"entries": {
+		"subject_auction_outbid":"Auction Outbid",		"subject_auction_item_expired":"Auction Item Expired",		"subject_auction_cancelled":"Auction Cancelled",		"subject_auction_unsuccessful":"Auction Unsuccessful",		"subject_vendor_buyer":"Vendor Item Purchased",		"subject_instant_buyer":"Instant Sale Item Purchased",		"subject_auction_buyer":"Auction Won",		"subject_vendor_seller":"Vendor Sale Complete",		"subject_instant_seller":"Instant Sale Complete",		"subject_auction_seller":"Auction Complete",		"vendor_status_deleted":"Your vendor was deleted from the game due to inactivity or lack of available items to sell.",		"vendor_status_endangered":"Your vendor %TO is in danger of being removed from the game.   You should place an item for sale on it to ensure that it does not get removed from the game.",		"vendor_status_unaccessed":"Your vendor %TO has not been used in quite some time.  You should place an item for sale on your vendor soon to prevent the vendor from being removed from the game.
+",		"vendor_status_normal":"Your vendor %TO is now functioning normally.",		"vendor_status_empty":"Your vendor %TO is now empty.  If this vendor is listed on the planetary ad campaign, it will be removed from the overhead map.  If this vendor remains empty for a period of time, you will receive another warning and eventually it will be removed from the game.",		"vendor_status_subject":"An update about your vendor",		"buyer_success_location":"The sale took place at %TT, on %TO.",		"seller_success_location":"The sale took place at %TT, on %TO.",		"seller_success_vendor":"%TU has sold %TO to %TT for %DI credits.",		"item_expired":"Because you failed to pick it up in time, the "%TO" that you were auctioning has expired.",		"bidder_outbid":"You have been outbid on the "%TO" that you were bidding on.",		"buyer_canceled":"The auction of "%TO" that you were bidding on has been canceled by %TT.",		"buyer_success":"You have won the auction of "%TO" from "%TT" for %DI credits.  See the attached waypoint for location.",		"seller_fail":"Your auction of %TO has been completed and has not been purchased.",		"seller_success":"Your auction of %TO has been sold to %TT for %DI credits"
+}}

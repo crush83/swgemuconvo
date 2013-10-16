@@ -1,5 +1,5 @@
-[
-'3':'help_remove',
-'2':'help_add',
-'1':'help_list',
-]
+{
+	"stfFile":"ui_permission_list",
+	"entries": {
+		"help_remove":"Click this button to remove the selected player from the list, revoking their right to perform the given action.",		"help_add":"Click this button to add a new player to the list.  Nearby people will be added to the combobox for easy selection, but any player can be added.",		"help_list":"This is the list of players that are allowed to perform the action.  A particular object may have many of these lists, each one for a particular action (i.e. permission to enter a building, permission to administer the building, etc.)."
+}}

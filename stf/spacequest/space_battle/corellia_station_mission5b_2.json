@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_station_mission5b_2",
+	"entries": {
+		"title_d":"The Cloak attack wing has started to hyperspace in. A signal has been sent to CorSec command. They will be sending a CorSec attack squad to deal with this menace.",		"title":"Corellia System: Ambush the Cloak Attack Wing",		"split_quest_alert_fail":"",		"split_quest_alert":"Tracking signature of Cloak Leader vessel",		"quest_update":"\#pcontrast1 CorSec Command: <\#pcontrast3  %TO\#pcontrast1  >",		"quest_location_t":"Remain in the Corellia System",		"quest_location_d":"Your assistance will likely be needed in this battle. Do not leave the Corellia system.",		"quest_helpallies_t":"Assist the CorSec Squad",		"quest_helpallies_d":"The Cloaks have planned an ambush. Far too many ships have come in than should be necessary to take down a transport. This attack was planned against the CorSec itself. Help CorSec destroy all the Cloak fighters.",		"quest_findbattle_t":"Stay at the Jump Point",		"quest_findbattle_d":"You have been given the most likely jump point for the Cloak attack wing. Remain in this area.",		"found_loc":"Note the navigation waypoint, pilot. This is the expected hyperspace jump point of the Cloak attack wing.",		"enemies_win":"Withdraw, pilot. Our attack wing has been wiped out. Return to the station for debriefing.",		"enemies_remain":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Enemy ship destroyed. %DI enemy ships remaining.\#pcontrast1 >",		"enemies_arrived":"Cloak attack wing has hyperspaced in. Wow, there's a lot of them. Is this right?",		"battle_started":"It's a setup! There are far too many Cloaks here. It was a trick just to lure us here, we are the real target. Destroy them all.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Good work, pilot. All Cloak vessels have been... wait. Stand by, we're tracking another signal.",		"allies_remain":"\#pcontrast1 Tactical Computer: <\#pcontrast3  CorSec ship destroyed. %DI allied ships remaining.\#pcontrast1 >",		"allies_arrived":"CorSec attack wing has arrived. Stand by, detecting hyperspace jump."
+}}

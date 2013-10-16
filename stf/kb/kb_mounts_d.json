@@ -1,3 +1,16 @@
-[
-'1':'mounts',
-]
+{
+	"stfFile":"kb/kb_mounts_d",
+	"entries": {
+		"mounts":"Creature Handlers with the skill Creature Empathy IV are capable of training certain creature pets to be mounts. These animals may be tamed out in the wild or created by a Bio-Engineer. These creatures must also fit within certain size limitations; if they are too big or too small, the Creature Handler won't have the radial option available to train them as mounts. The mount may be traded or given like a normal pet and follows all the standard rules of pets.
+
+Any character can ride a properly-trained mount (up to a level 10 pet for non-Creature Handlers). When targeting your mount, select "Climb Aboard Pet" to get on the back of the mount. You can also store mounts in the data section of your datapad (default CTRL-D). Use the "Call" option to bring out the mount.
+
+The advantage of riding a mount is being able to move at a sustained faster speed than normal running. Additionally, you may use the /gallop command to move faster.
+
+The disadvantage of mounts is you cannot use special combat moves while mounted. Additionally, you cannot use any combat moves while galloping.  Mounts will not attack or defend while being ridden, but will act like normal pets if they have no rider on them. Mounts cannot go inside buildings.
+
+
+
+
+"
+}}

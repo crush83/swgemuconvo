@@ -1,7 +1,5 @@
-[
-'5':'trade_outpost',
-'4':'singing_mountain_clan',
-'3':'imperial_prison',
-'2':'dathomir',
-'1':'rancor',
-]
+{
+	"stfFile":"loading/dathomir_n",
+	"entries": {
+		"trade_outpost":"Trade Outpost",		"singing_mountain_clan":"Singing Mountain Clan",		"imperial_prison":"Imperial Prison",		"dathomir":"Dathomir",		"rancor":"Rancor"
+}}

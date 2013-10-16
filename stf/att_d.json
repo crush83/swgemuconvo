@@ -1,11 +1,19 @@
-[
-'9':'willpower',
-'8':'focus',
-'7':'mind',
-'6':'stamina',
-'5':'quickness',
-'4':'action',
-'3':'constitution',
-'2':'strength',
-'1':'health',
-]
+{
+	"stfFile":"att_d",
+	"entries": {
+		"willpower":"A character with a high Willpower attribute finds it easier to recover from mental exertion, or recover from mental stress or trauma. This attribute affects how quickly the Mind pool is replenished.",		"focus":"The Focus attribute is a measure of your character's effectiveness in concentrating on mental activity, without becoming distracted. A player with a high Focus attribute can accomplish more mental challenges in a shorter period of time.
+
+The higher your Focus attribute is, the less Mind points will be needed to perform a given skill or action.",		"mind":"Mind is a measure of your alertness and mental capacity. A player with a higher Mind is better able to tackle complex technical tasks, and is less susceptible to being confused, stunned or distracted.
+
+Many tasks or skills may require the expenditure of points from the Mind pool. Should you not have enough Mind to spare, you will not be able to perform the action.
+
+Your current Mind pool is displayed as a bar on your heads-up display.",		"stamina":"Stamina is a measure of how quickly characters recover from intense physical activity. The higher this attribute is, the more quickly a character's Action pool will recover.",		"quickness":"The Quickness attribute is a measure of the player's fitness. Players with a high Quickness spend less Action points in order to accomplish a given physical task than players with low Quickness do.",		"action":"Action is a measure of how rested your character is. As you grow tired, you will see your Action points being depleted. 
+
+A task cannot be attempted unless you have enough Action points to attempt it. Should your Action pool reach zero, you may pass out from exhaustion and be incapacitated.
+
+Your action pool is displayed on your heads-up display as a bar indicating how many points you have left.",		"constitution":"The Constitution attribute is a measure of your ability to recover from damage. The higher this attribute is, the quicker you will regain lost Health points.",		"strength":"Strength refers to the ability to exercise brute force in physical activity. The stronger and healthier a player is, the less Health points are expended for any given physical activity.",		"health":"Health is a measure of your physical condition. It is a pool that is reduced every time you take physical damage. Should it reach zero, you will be incapacitated.
+
+Certain actions or skills may also require you to expend Health points. Certain tasks cannot be attempted unless you have enough Health to spend.
+
+Your current Health is displayed as a bar on your heads-up display."
+}}

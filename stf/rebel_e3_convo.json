@@ -1,19 +1,5 @@
-[
-'17':'rebel_17',
-'16':'rebel_16',
-'15':'rebel_15',
-'14':'rebel_14',
-'13':'rebel_13',
-'12':'rebel_12',
-'11':'rebel_11',
-'10':'rebel_10',
-'9':'rebel_9',
-'8':'rebel_8',
-'7':'rebel_7',
-'6':'rebel_6',
-'5':'rebel_5',
-'4':'rebel_4',
-'3':'rebel_3',
-'2':'rebel_2',
-'1':'rebel_1',
-]
+{
+	"stfFile":"rebel_e3_convo",
+	"entries": {
+		"rebel_17":"I have no time for Imperial Scum!",		"rebel_16":"Are you ready for a mission?",		"rebel_15":"Well, Rogue Squadron's already pretty filled up right now, but we do need some people to pass out leaflets...",		"rebel_14":"Return to me when you need something to do.",		"rebel_13":"I don't think you should hang around any longer.",		"rebel_12":"You've answered all my questions, thanks.",		"rebel_11":"No thanks.  Not just yet.",		"rebel_10":"Sure.",		"rebel_9":"Well, I could give you a mission...",		"rebel_8":"We fight against the oppressive regime of the Empire.",		"rebel_7":"Can I join Rogue Squadron?",		"rebel_6":"What do you need me to do?",		"rebel_5":"What does the Alliance do?",		"rebel_4":"Any questions I can answer for you?",		"rebel_3":"Not at the moment.",		"rebel_2":"Absolutely.",		"rebel_1":"Hello, would you like to join the Alliance?"
+}}

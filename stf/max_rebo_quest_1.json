@@ -1,94 +1,92 @@
-[
-'128':'busy',
-'127':'mrq1_134',
-'126':'mrq1_133',
-'123':'mrq1_130',
-'122':'mrq1_129',
-'121':'mrq1_128',
-'120':'mrq1_127',
-'119':'mrq1_126',
-'118':'mrq1_125',
-'117':'mrq1_124',
-'116':'mrq1_122',
-'115':'mrq1_121',
-'114':'mrq1_120',
-'113':'mrq1_119',
-'112':'mrq1_118',
-'111':'mrq1_116',
-'110':'mrq1_114',
-'109':'mrq1_113',
-'108':'mrq1_111',
-'107':'mrq1_110',
-'106':'mrq1_109',
-'105':'mrq1_108',
-'104':'mrq1_107',
-'103':'mrq1_106',
-'102':'mrq1_105',
-'101':'mrq1_104',
-'100':'mrq1_103',
-'99':'mrq1_102',
-'98':'mrq1_100',
-'97':'mrq1_99',
-'96':'mrq1_98',
-'95':'mrq1_97',
-'94':'mrq1_96',
-'93':'mrq1_95',
-'92':'mrq1_94',
-'91':'mrq1_93',
-'90':'mrq1_92',
-'89':'mrq1_91',
-'88':'mrq1_89',
-'87':'mrq1_88',
-'86':'mrq1_87',
-'85':'mrq1_86',
-'84':'mrq1_85',
-'83':'mrq1_84',
-'82':'mrq1_83',
-'81':'mrq1_82',
-'80':'mrq1_81',
-'79':'mrq1_80',
-'78':'mrq1_78',
-'77':'mrq1_77',
-'76':'mrq1_76',
-'75':'mrq1_75',
-'73':'mrq1_73',
-'72':'mrq1_72',
-'70':'mrq1_70',
-'69':'mrq1_69',
-'68':'mrq1_68',
-'67':'mrq1_67',
-'66':'mrq1_66',
-'64':'mrq1_64',
-'63':'mrq1_63',
-'62':'mrq1_62',
-'61':'mrq1_61',
-'58':'mrq1_58',
-'54':'mrq1_54',
-'53':'mrq1_53',
-'50':'mrq1_50',
-'49':'mrq1_49',
-'48':'mrq1_48',
-'47':'mrq1_47',
-'42':'mrq1_42',
-'37':'mrq1_37',
-'36':'mrq1_36',
-'35':'mrq1_35',
-'29':'mrq1_29',
-'22':'mrq1_22',
-'21':'mrq1_21',
-'19':'mrq1_19',
-'18':'mrq1_18',
-'17':'mrq1_17',
-'13':'mrq1_13',
-'11':'mrq1_11',
-'10':'mrq1_10',
-'9':'mrq1_9',
-'8':'mrq1_8',
-'7':'mrq1_7',
-'6':'mrq1_6',
-'5':'mrq1_5',
-'4':'mrq1_4',
-'3':'mrq1_3',
-'2':'mrq1_2',
-'1':'mrq1_1',
-]
+{
+	"stfFile":"max_rebo_quest_1",
+	"entries": {
+		"busy":"Sorry, I can't talk.  I'm busy.",		"mrq1_134":"You got it!  See you later.  Oh, if you need something else to do I think Barada was looking for some help with something...
+",		"mrq1_133":"Ok, pay attention now, because I'm only going to show you once.
+",		"mrq1_130":"But it was... Mmmm... well worth it.  This is delicious!  Say, do you to teach you something about music?
+",		"mrq1_129":"No thanks.  Just tell Bib Fortuna what a reliable person I am.
+",		"mrq1_128":"Sure.
+",		"mrq1_127":"It's a big Palace.  Hey, ready to learn some tricks of the trade?
+",		"mrq1_126":"Well, it was a bit more involved than that.
+",		"mrq1_125":"Yes.
+",		"mrq1_124":"Finally!  Mmmm... I love Porcellus' cooking.  That sure took a long time, though.  Did you get lost on your way to the kitchen?",		"mrq1_122":"That's right.  I'm the winner of the Golden Spatula award.  Watch and learn...
+",		"mrq1_121":"Certainly.  That will save me even more time.  Here you go.  Take that to Max Rebo.
+",		"mrq1_120":"Will you teach me about cooking while you prepare the dish?  I've heard you're a great chef.
+",		"mrq1_119":"I'll deliver the dish to Max Rebo.  He's going to teach me about music.
+",		"mrq1_118":"You've returned!  And you have the meat I need for Max Rebo!  Maybe I won't be thrown into the Sarlacc after all.
+",		"mrq1_116":"There's a dangerous creature in the building.  I don't know what the Empire has been up to here, but that creature looks insane.  We'd better clear out of here, there are probably more Stormtroopers on the way.
+",		"mrq1_114":"I made it, thanks to you!  I'm transmitting you the coordinates where the boar was last seen.  Good luck!  
+",		"mrq1_113":"Hold them off!
+",		"mrq1_111":"Let's get going then.  Lead the way.
+",		"mrq1_110":"Maybe later.
+",		"mrq1_109":"Ok, it's a deal.
+",		"mrq1_108":"Maybe you can do me a favor.  There's a strange looking Bith that's been following me around.  I think he's up to no good.  Escort me to the cantina so that Bith won't try anything sneaky, and I'll radio you the coordinates of the Imperial facility once I've met my friends inside.
+",		"mrq1_107":"Is there something I can do for you.
+",		"mrq1_106":"Do you want some money?
+",		"mrq1_105":"Sure, I know where they took that boar. Someone's been experimenting on creatures to make them strong and mean.  But I'm not in the habit of giving away information for free.
+",		"mrq1_104":"Can you help me find the Zucca Boar that arrived recently?",		"mrq1_103":"Nothing.  Nevermind.
+",		"mrq1_102":"What do you want?
+",		"mrq1_100":"I don't know.  I bet Captain Fane knows, though.  Find him at the Wayfar cantina and tell him I sent you.
+",		"mrq1_99":"Do you know if there are any more creatures like that on Tatooine?
+",		"mrq1_98":"Do you know where it is now?
+",		"mrq1_97":"Sure, I know all about the shipments to and from Tatooine.  A creature like that arrived at the Starport just recently, but Stormtroopers hauled it off right away.
+",		"mrq1_96":"Nice talking to you.  See ya.
+",		"mrq1_95":"Do you know where I can find a Zucca boar?
+",		"mrq1_94":"Oh you know, same ol' same ol'
+",		"mrq1_93":"Not much, how about you?
+",		"mrq1_92":"I'm helping Porcellus find a Zucca Boar.
+",		"mrq1_91":"Good to see you again.  What are you up to these days?
+",		"mrq1_89":"Do you like working for Jabba?
+",		"mrq1_88":"How can I help?
+",		"mrq1_87":"Look, I told you I don't have time to chat.  I have to prepare a feast for Jabba and a treat for the band, and if I don't finish quickly then Jabba will throw me into the Sarlacc Pit.
+",		"mrq1_86":"If anyone knows where to find one, it'll be Ephant Mon.  Go ask him.
+",		"mrq1_85":"Where can I find one?
+",		"mrq1_84":"Ok, will do.
+",		"mrq1_83":"Oh, Max and his special dietary preferences!  Well if you want to help, then bring me a Zucca boar so I can cook it up for him.
+",		"mrq1_82":"Why are you so busy?
+",		"mrq1_81":"Max Rebo sent me to see if I could help you.
+",		"mrq1_80":"I'm too busy to talk to you.  I have far too many things to do.
+",		"mrq1_78":"Oh that's easy!  I would have done that anyway!
+",		"mrq1_77":"On second thought, nevermind.
+",		"mrq1_76":"If I help Porcellus, you have to tell Bib Fortuna to trust me with more important missions.
+",		"mrq1_75":"Really?  Like what?
+",		"mrq1_73":"Maybe there's something else you can do for me...
+",		"mrq1_72":"You don't like cooking or music?  Those are my two favoite things!
+",		"mrq1_70":"Ok.  I'll help Porcellus and he can teach me about cooking.",		"mrq1_69":"You know, if you help Porcellus then I'm sure he'd be willing to teach you about cooking.
+",		"mrq1_68":"Not really.
+",		"mrq1_67":"Oh yes.
+",		"mrq1_66":"What about cooking?  Are you interested in cooking?
+",		"mrq1_64":"Ok.  I'll help Porcellus and you can teach me about music.",		"mrq1_63":"How about this?  If you help Porcellus then I'll teach you a thing or two about music.  My band's the best!
+",		"mrq1_62":"I'm not very interested in music, myself.
+",		"mrq1_61":"Can you teach me about music?
+",		"mrq1_58":"I'm Max Rebo.  Haven't you heard of the Max Rebo Band?  We're Jabba's favorite band.
+",		"mrq1_54":"Well Porcellus is a really great chef.  He was the winner of the Golden Spatula Award.
+",		"mrq1_53":"Who are you?
+",		"mrq1_50":"I thought so, too.
+",		"mrq1_49":"Oh yes, that's a great deal.
+",		"mrq1_48":"That doesn't sound like a very good deal.
+",		"mrq1_47":"Yes, I negotiated the contract myself.  It's great, isn't it?
+",		"mrq1_42":"Porcellus is Jabba's chef.  He's very busy preparing for a big feast right now.
+",		"mrq1_37":"Your contract with Jabba is to work for food?
+",		"mrq1_36":"Maybe I can help Porcellus so he'll have time to prepare your special dish.
+",		"mrq1_35":"I don't have any money.  We work for Jabba in exchange for all the food we can eat.
+",		"mrq1_29":"Porcellus is too busy to make my special dish.  I guess I'll just have to wait.
+",		"mrq1_22":"No, no... That's not what I'm hungry for.  Porcellus was supposed to make me a special dish.
+",		"mrq1_21":"I'm still working on it.
+",		"mrq1_19":"Did you bring my lunch?  I'm starving!  Go talk to Porcellus and see if you can speed things up.
+",		"mrq1_18":"Maybe you can help me later.  I'm sure I'll still be hungry.
+",		"mrq1_17":"Great, thanks!  Go talk to Porcellus in the Palace Kitchen and see if you can help him make my dish.
+",		"mrq1_13":"Who is Porcellus?
+",		"mrq1_11":"Ok.  I'll go help Porcellus.
+",		"mrq1_10":"Can you go help Porcellus?  He's supposed to make a special dish for me, but he's so busy...
+",		"mrq1_9":"I don't have time to help you.
+",		"mrq1_8":"Why don't you go to Mos Eisley and get something to eat?
+",		"mrq1_7":"Why don't you go to the kitchen and get something to eat?
+",		"mrq1_6":"How can I help?
+",		"mrq1_5":"I have some food if you want it.
+",		"mrq1_4":"I'm hungry.
+",		"mrq1_3":"No.
+",		"mrq1_2":"Yes.
+",		"mrq1_1":"Hi.  Are you hungry?
+"
+}}

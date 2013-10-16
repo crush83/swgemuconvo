@@ -1,6 +1,5 @@
-[
-'43':'waiting',
-'42':'reinvite',
-'41':'kick',
-'40':'invite',
-]
+{
+	"stfFile":"ui_group_launch",
+	"entries": {
+		"waiting":"Waiting...",		"reinvite":"Reinvite",		"kick":"Kick",		"invite":"Invite"
+}}

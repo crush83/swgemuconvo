@@ -1,5 +1,5 @@
-[
-'3':'declare_overt_success',
-'2':'declare_overt_bad_loc',
-'1':'declare_overt_not_aligned',
-]
+{
+	"stfFile":"player_faction",
+	"entries": {
+		"declare_overt_success":"You successfully join the special forces. You may now be attacked by opposing faction members.",		"declare_overt_bad_loc":"You must be within 50m, or inside, a friendly player-placed faction headquarters to use this command.",		"declare_overt_not_aligned":"You must be a faction combatant to use this command."
+}}

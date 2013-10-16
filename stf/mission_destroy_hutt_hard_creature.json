@@ -1,7 +1,5 @@
-[
-'5':'destroy_hutt_hard_creature_5',
-'4':'destroy_hutt_hard_creature_4',
-'3':'destroy_hutt_hard_creature_3',
-'2':'destroy_hutt_hard_creature_2',
-'1':'destroy_hutt_hard_creature_1',
-]
+{
+	"stfFile":"mission_destroy_hutt_hard_creature",
+	"entries": {
+		"destroy_hutt_hard_creature_5":"One of Jabba's favorite bounty hunters was killed by a dangerous animal in this area.  Jabba's in sort of a mood and wants revenge, so it's up to you to make sure this creature dies.",		"destroy_hutt_hard_creature_4":"Some of our enemies are planning on selling some animal parts to a research facility for a profit, and undercutting one of our revenue sources.  We need you to destroy all the dangerous animals in this area to make sure our profits aren't affected.",		"destroy_hutt_hard_creature_3":"During a routine raid of a Research Facility some of our thugs managed to let loose some dangerous animals.  We need those animals destroyed before they start drawing attention to our activities.",		"destroy_hutt_hard_creature_2":"In order to grease the political wheels we've agreed to do a favor for the local politicians.  They'll look the other way on some of our illegal activities if we'll take care of some dangerous animals in the local area.",		"destroy_hutt_hard_creature_1":"One of our underground gambling dens was destroyed last night.  The damage appears to random to be an imperial assault or local law enforcement.  Go out there and find out what's going on."
+}}

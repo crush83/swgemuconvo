@@ -1,15 +1,5 @@
-[
-'13':'greeting_thought_bounty',
-'12':'greeting_thought_03',
-'11':'greeting_thought_02',
-'10':'goodbye',
-'9':'bye',
-'8':'start_trading',
-'7':'no',
-'6':'yes',
-'5':'trade',
-'4':'greeting_thought_01',
-'3':'understand',
-'2':'cant_understand',
-'1':'greeting',
-]
+{
+	"stfFile":"jawa_trader",
+	"entries": {
+		"greeting_thought_bounty":"The Jawas have been having a lot of trouble with Sand People lately. The Tuskens have been hitting a number of their trading centers and have even tried attacking a few of their crawlers. This one wants me to help with the Tusken problem and in exchange the Jawas will purchase any Tusken equipment as proof that I have been helping. I wonder if I have any Tusken equipment on me right now that they would like to buy?",		"greeting_thought_03":"This Jawa is interested in buying clothes and jewelry. Probably a pretty good market for used clothing but not too sure about the jewelry. Oh well, Jawas generally don't buy something that they cannot turn around and sell for twice what they paid for it. Maybe I should see if I have anything that they would like to buy.",		"greeting_thought_02":"It would seem that this Jawa is actually looking to purchase weapons that cannot be traced. That is sort of odd. I have never heard of Jawas trying to get into the arms business before. They better not let Jabba get wind of their little operation. I wonder if I should sell to them or not?",		"goodbye":"The Jawa wishes me safe journey and told me to come back if I come across anything that he would be interested in.",		"bye":"...",		"start_trading":"He is going to look at what I have to sell and see if there is anything that he wants to buy. He will make me an offer on anything he is interested in. I better keep a keen eye on him, things seem to have a way of disappearing when Jawas are around.",		"no":"No.",		"yes":"Yes.",		"trade":"...",		"greeting_thought_01":"It seems that this Jawa is interested in buying assorted goods and is willing to pay pretty good prices for them. Maybe I have something that he would be willing to buy. I wonder if I should take him up on his offer?",		"understand":"Your skill in understanding languages allows you to decipher what this Jawa is saying.",		"cant_understand":"You do not understand what this Jawa is saying.",		"greeting":"..."
+}}

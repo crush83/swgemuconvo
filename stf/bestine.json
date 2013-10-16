@@ -1,9 +1,5 @@
-[
-'7':'merchant_title',
-'6':'give_governor_item',
-'5':'come_here',
-'4':'inventory_full',
-'3':'default_receive_msg',
-'2':'already_searched',
-'1':'search_item',
-]
+{
+	"stfFile":"bestine",
+	"entries": {
+		"merchant_title":"a merchant",		"give_governor_item":"What's this? Please, if you wish to present evidence or whatnot, don't just thrust these things at me. Speak to me in a manner suited to civilized beings such as ourselves.",		"come_here":"Hey... c'mere a second. I think we can help one another.",		"inventory_full":"You find something but have no room in your inventory for it. Try again when you are carrying fewer things.",		"default_receive_msg":"You search and find something then place it into your inventory.",		"already_searched":"You've already searched here.",		"search_item":"Search"
+}}

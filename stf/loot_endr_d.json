@@ -1,9 +1,5 @@
-[
-'7':'morag_q2_needed',
-'6':'charal_q4_needed',
-'5':'charal_q1_needed',
-'4':'raglith_q3_needed',
-'3':'king_terak_q3_needed',
-'2':'king_terak_q1_needed',
-'1':'scholar_szingo_q1_needed',
-]
+{
+	"stfFile":"loot_endr_d",
+	"entries": {
+		"morag_q2_needed":"A crystal used in the crafting of lightsabers.",		"charal_q4_needed":"A commlink used by a group of survivalists. A hairline fracture runs across the base of the device, which may get worse if not repaired in time.",		"charal_q1_needed":"A spleen taken from the chest of a healthy Ewok. A precious item, considering how bad the Ewok refused to hand it over. What Charal plans to do with it is better left unknown.",		"raglith_q3_needed":"An elder ewok pelt",		"king_terak_q3_needed":"A ship's hyperdrive relay device.",		"king_terak_q1_needed":"A staff of scavenged metal",		"scholar_szingo_q1_needed":"Disruptor Rifle."
+}}

@@ -1,4 +1,5 @@
-[
-'2':'self_destruct',
-'1':'menu_command',
-]
+{
+	"stfFile":"bombing_run",
+	"entries": {
+		"self_destruct":"Set Self-Destruct",		"menu_command":"Paint Target"
+}}

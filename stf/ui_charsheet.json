@@ -1,52 +1,11 @@
-[
-'756':'help_shockwounds',
-'770':'badges_none',
-'659':'personal',
-'757':'help_stomach',
-'758':'help_factions',
-'759':'help_statmigration',
-'760':'holocube',
-'761':'help_personalinfo',
-'773':'faction_rebelonleave',
-'762':'help_badges',
-'771':'badges_all',
-'763':'help_bio',
-'769':'badges_unearned',
-'768':'badges_earned',
-'767':'image_design_note',
-'766':'force_power',
-'765':'factions',
-'764':'statmig_usealltpoints',
-'489':'criminalfaction',
-'488':'imperialfaction',
-'487':'rebelfaction',
-'486':'status',
-'485':'factionstanding',
-'484':'experience',
-'483':'drink',
-'482':'food',
-'755':'help_attributes',
-'614':'attributes',
-'741':'faction_imperialdeclared',
-'740':'faction_imperialcovert',
-'739':'faction_rebeldeclared',
-'738':'faction_rebelcovert',
-'737':'faction_neutral',
-'736':'unknown',
-'596':'unmarried',
-'595':'married',
-'594':'homeless',
-'591':'marriedlabel',
-'590':'badgeslabel',
-'589':'biolabel',
-'588':'homelabel',
-'587':'playedlabel',
-'586':'specieslabel',
-'585':'bornlabel',
-'716':'lotslabel',
-'715':'banklabel',
-'714':'bindlabel',
-'772':'faction_imperialonleave',
-'438':'shock_wounds',
-'548':'statmigration',
-]
+{
+	"stfFile":"ui_charsheet",
+	"entries": {
+		"help_shockwounds":"This is the number of battle fatigue points that you currently have.  Battle fatigue makes it more difficult to heal.  This fatigue must be healed by an Entertainer, Dancer or Musician in a Cantina, Hotel, Tavern, or Theater.",		"badges_none":"You have not won any badges",		"personal":"Personal",		"help_stomach":"You can eat and drink food which can give you temporary benefits.  Once your stomach is full, you'll have to wait until you can eat again.",		"help_factions":"This page displays your current faction alignment, and what faction points you've earned with both the Rebels and Imperials.  These points affect how NPC's interact with you and can be spent for benefits like specialized weapons or armor.",		"help_statmigration":"This button opens the stat migration page, where you can modify your maximum attribute values.",		"holocube":"Holocron",		"help_personalinfo":"Personal information, such as your birthdate, bind location, and marriage status are listed here.",		"faction_rebelonleave":"Rebel On Leave",		"help_badges":"This is a list of the badges that you have earned.  Badges are granted for completing certain in-game actions.",		"badges_all":"Congratulations! You have won every badge!",		"help_bio":"This is your biography.  Other players see this when they examine you.",		"badges_unearned":"Badges you have not yet won",		"badges_earned":"Badges you have won",		"image_design_note":"IMPORTANT NOTE!
+
+Stat migration targets set in this window will NOT be applied until you visit an Image Designer.  These targets will be used when an Image Designer migrates your stats.",		"force_power":"Force Power",		"factions":"Factions",		"statmig_usealltpoints":"You must assign all of your attribute points.",		"criminalfaction":"Criminal",		"imperialfaction":"Imperial",		"rebelfaction":"Rebel",		"status":"Status",		"factionstanding":"Faction Standing",		"experience":"Experience",		"drink":"Drink",		"food":"Food",		"help_attributes":"This is your Character Sheet.  
+
+It shows basic information about your character, such as your health, faction status, and guild affiliation.
+
+This table displays your attributes, such as your Health, Action, and Mind.  Wounds are also displayed.  Wounds lower an attribute's maximum value.  Wounds can be healed at hospitals or cantinas, or by skilled players.",		"attributes":"Character Attributes",		"faction_imperialdeclared":"Imperial Special Forces",		"faction_imperialcovert":"Imperial Combatant",		"faction_rebeldeclared":"Rebel Special Forces",		"faction_rebelcovert":"Rebel Combatant",		"faction_neutral":"Civilian",		"unknown":"Unknown",		"unmarried":"Unmarried",		"married":"Married",		"homeless":"Wanderer",		"marriedlabel":"Married",		"badgeslabel":"Badges",		"biolabel":"Bio",		"homelabel":"Home",		"playedlabel":"Time Played",		"specieslabel":"Species",		"bornlabel":"Born",		"lotslabel":"Lots Remaining",		"banklabel":"Bank Location",		"bindlabel":"Bind Location",		"faction_imperialonleave":"Imperial On Leave",		"shock_wounds":"Battle Fatigue",		"statmigration":"Stat Migration"
+}}

@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_imperial_tier4_4_b",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Destroy all attacking Velocity fighters.",		"title":"Dathomir System: Destroy the Velocity Ambush",		"split_quest_alert_fail":"",		"split_quest_alert":"Attention all pilots. Enemy forces have attacked our Dathomir TIE defense squadron. That squadron is vitial to the control of the system. Protect it at all cost and defeat the enemy fighters.",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

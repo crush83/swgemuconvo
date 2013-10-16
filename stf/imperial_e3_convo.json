@@ -1,19 +1,5 @@
-[
-'17':'imp_17',
-'16':'imp_16',
-'15':'imp_15',
-'14':'imp_14',
-'13':'imp_13',
-'12':'imp_12',
-'11':'imp_11',
-'10':'imp_10',
-'9':'imp_9',
-'8':'imp_8',
-'7':'imp_7',
-'6':'imp_6',
-'5':'imp_5',
-'4':'imp_4',
-'3':'imp_3',
-'2':'imp_2',
-'1':'imp_1',
-]
+{
+	"stfFile":"imperial_e3_convo",
+	"entries": {
+		"imp_17":"Get out of here REBEL SCUM!",		"imp_16":"Are you ready to perform a mission now?",		"imp_15":"No, our stormtroopers are handpicked, but you could be a pilot, or a soldier, or whatever else you wanted. You could drive an AT-AT even.",		"imp_14":"Come back when you're ready for a mission.",		"imp_13":"Perhaps you'd better just move along then.",		"imp_12":"I think I know everything I need to know.",		"imp_11":"Um...not right now.",		"imp_10":"Yes, please, that would be great.",		"imp_9":"Would you like a mission?",		"imp_8":"We fight the rebel scum all through the galaxy.",		"imp_7":"Can I be a stormtrooper?",		"imp_6":"What would I be doing?",		"imp_5":"What does the Empire do?",		"imp_4":"Do you have any questions about anything?",		"imp_3":"No.  I don't think so.",		"imp_2":"Yes, I would.",		"imp_1":"Hello.  My name is Prefect Talmont.  Would you like to join the Empire?"
+}}

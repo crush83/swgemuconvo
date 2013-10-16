@@ -1,10 +1,5 @@
-[
-'8':'thug3_reply1',
-'7':'thug3',
-'6':'thug2',
-'5':'thug1_reply1',
-'4':'thug1',
-'3':'loam2',
-'2':'loam1_reply1',
-'1':'loam1',
-]
+{
+	"stfFile":"loam_redge_1",
+	"entries": {
+		"thug3_reply1":"Maybe you shouldn't drink so much of that stuff.",		"thug3":"I'm feeling.... sick.",		"thug2":"Well how should I know where he is?  I bet that rebel camp outside town had something to do with his escape.",		"thug1_reply1":"I am looking for an escaped prisoner.  Tell me where he is or else!",		"thug1":"*hic* What do you want?",		"loam2":"Good luck.",		"loam1_reply1":"Will do!",		"loam1":"A prisoner has escaped.  Go to the cantina in Moenia and speak to the locals.  Find out who helped the prisoner escape."
+}}

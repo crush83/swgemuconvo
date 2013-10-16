@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_imperial_tier4_4",
+	"entries": {
+		"title_d":"Destroy the captured Engineer transport in the Dantooine system. The shuttle you have recovered has revealed that the Bothans took all of the transports to the Dantooine system. They are apparently waiting for Rebel agents to arrive and pick up the transports. This cannot be allowed to happen.",		"title":"Dantooine System: Destroy the Captured Engineer Transport",		"split_quest_alert_fail":"",		"split_quest_alert":"Another transport has been located. Destroy this transport and its escort as well.",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Captured Engineer Transport",		"quest_target_d":"Destroy the captured Engineer transport in the Dantooine system. The Bothans cannot be allowed to have this valuable source of information.",		"quest_location_t":"Travel to the Dantooine System",		"quest_location_d":"Travel to the Dantooine system and intercept the captured Engineer transport.",		"quest_escort_t":"Destroy the Escort",		"quest_escort_d":"The Bothans have gone to far in their meddling. Destroy all that fly with our transport.",		"failed_escape":"We lost the shuttle. Now there is nothing to stop them from delivering it to the Rebellion. Report your failure to your superior officer immediately.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy escorts have been eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escorts remaining.>",		"destroy_escort":"You must take out the remaining escorts. No one is to be left alive.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Those Bothan never knew what hit them. Excellent work, pilot.",		"arrival_phase_2":"We have the location of the transport. Proceed to the location that is in your navigation computer.",		"arrival_phase_1":"Scanning system for stolen transport. Once you have the location destroy that transport and all that are with it.",		"Quest Log Data":"Text"
+}}

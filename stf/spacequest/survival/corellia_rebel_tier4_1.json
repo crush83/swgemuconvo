@@ -1,28 +1,5 @@
-[
-'26':'transmission_start',
-'25':'transmission_received',
-'24':'trans_update',
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_reachpoint_t',
-'17':'quest_reachpoint_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_defendpoint_t',
-'13':'quest_defendpoint_d',
-'12':'outofrange_failed',
-'11':'outofrange',
-'10':'mission_complete',
-'9':'found_loc',
-'8':'first_attack',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_loc',
-]
+{
+	"stfFile":"spacequest/survival/corellia_rebel_tier4_1",
+	"entries": {
+		"transmission_start":"Nym Mining Pilot: < We are beginning to move now, we need about five minutes to get to safety. >",		"transmission_received":"Tactical Computer: < 100 percent of friendly fleet has moved to safety. >",		"trans_update":"Tactical Computer: < %DI percent of friendly fleet has moved to safety. >",		"title_d":"Nym has asked us to help some of his mining vessels in the Dathomir system escape an oncoming Black Sun attack. Several Alliance and Nym fighters have been stationed at different spots through out the nearby area to cover any incoming Black Sun ships from reaching the mining vessels while they evacuate.",		"title":"Dathomir system: Stop the Black Sun from reaching mining vessels.",		"split_quest_alert_fail":"",		"split_quest_alert":"Worvog Arkon: < Thanks to your efforts, the Black Sun is vulnerable. Lets exploit that, stand by for orders. >",		"quest_update":"Worvog Arkon: < %TO >",		"quest_reachpoint_t":"Your defensive coordinates.",		"quest_reachpoint_d":"This is your assigned area to defend. Keep your eye out for any hostile ships.",		"quest_location_t":"Dathomir system.",		"quest_location_d":"This area of the Dathomir system is relatively free from hostile encounters but the Black Sun is mounting a large scale attack and they may already be in the area when you arrive.",		"quest_defendpoint_t":"Defend the area.",		"quest_defendpoint_d":"Stay close to these coordinates and defeat any enemy ship that come within distance, don't let any slip past you before Nym's mining vessels have evacuated.",		"outofrange_failed":"Nym Mining Pilot: < They are all over us! We're taking heavy casaulties! We need he.. >",		"outofrange":"Worvog Arkon: < You're too far from your position, the Black Sun will sneak by you! >",		"mission_complete":"Nym Mining Pilot: < We're safe pilot. Good job, we owe you a big one! >",		"found_loc":"You have been assigned this location, proceed to there and keep your eyes open for hostiles.",		"first_attack":"I'm sorry pilot but they seemed to have picked your route. I hope you're as good as they say.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < No more fighter vessels within sensor range. >",		"attack_notify":"Tactical Computer: < Incoming fighter vessels. Scans show weapons armed. >",		"assigned_delayed":"",		"arrived_at_loc":"You are at your assigned sector. If they come your way, you need to hold them off for five minutes!"
+}}

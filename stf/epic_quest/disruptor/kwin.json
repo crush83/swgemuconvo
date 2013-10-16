@@ -1,21 +1,5 @@
-[
-'107':'good',
-'36':'npc_breech_1',
-'33':'npc_work_1',
-'32':'dontknowyou_1',
-'31':'cantwork',
-'30':'npc_reset_1',
-'29':'npc_backtowork_1',
-'28':'player_sorry_1',
-'27':'player_reset_1',
-'24':'player_3_1',
-'21':'player_2_1',
-'106':'notyet',
-'105':'npc_smuggle_1',
-'18':'player_1_1',
-'15':'npc_reward_1',
-'12':'npc_4_1',
-'8':'npc_3_1',
-'5':'npc_2_1',
-'1':'npc_1_1',
-]
+{
+	"stfFile":"epic_quest/disruptor/kwin",
+	"entries": {
+		"good":"I can't believe it! She still loves me! I can't possibly continue in this line of work. I must go to her...",		"npc_breech_1":"Messenger! Over here!",		"npc_work_1":"Have you delivered my resignation yet?",		"dontknowyou_1":"I can't talk now -- I'm waiting for someone else.",		"cantwork":"Looks like you're too busy to help me. Come back when you're free.",		"npc_reset_1":"Okay. Have a good life.",		"npc_backtowork_1":"Well, come back when you're done.",		"player_sorry_1":"No, not yet.",		"player_reset_1":"I can't do this right now.",		"player_3_1":"Why do you want to quit?",		"player_2_1":"No. I have no time for this.",		"notyet":"Sorry. The love of my life left me because I'm a mercenary... If there was some hope of her ever taking me back, I would leave this life and become a decent man.",		"npc_smuggle_1":"So... Kwin's resigning again? Fine. He'll be back.",		"player_1_1":"Yes. I will deliver your resignation.",		"npc_reward_1":"Thanks. Please take my disruptor particle beam cannon. It doesn't work - but the parts may be worth something.",		"npc_4_1":"Blood for money. Money for blood. It all seems so stupid now.",		"npc_3_1":"Fine.",		"npc_2_1":"Thanks. I've got a unique Disruptor Particle Beam cannon that I won't need anymore. I'll give it to you when you return.",		"npc_1_1":"I can't be a mercenary any more. I have to quit... but I can't face my captain (we've been friends for so long). Would you deliver my resignation for me?"
+}}

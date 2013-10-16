@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/tatooine_privateer_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Defend yourself from the Black Sun Pirate attack",		"title":"Tatooine System: Eliminate Enemy Patrol",		"split_quest_alert_fail":"\#pcontrast3 Dravis: < \#pcontrast1 You appear to have hit a little snag out there.  Get patched up and run that patrol again. \#pcontrast3 >",		"split_quest_alert":"\#pcontrast3 Dravis: < \#pcontrast1 You appear to have hit a little snag out there.  Get patched up and run that patrol again. \#pcontrast3 >",		"complete":"Mission Complete!  Return to Dravis for your next assignment by travelling to the Tatooine Space Station and using /comm.",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

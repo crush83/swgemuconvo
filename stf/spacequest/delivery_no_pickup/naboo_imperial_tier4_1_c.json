@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_rendezvous2_t',
-'18':'quest_rendezvous2_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_dock2_t',
-'14':'quest_dock2_d',
-'13':'hello_d',
-'12':'found_loc_d',
-'11':'failed_destroyed',
-'10':'docking_started_delivery',
-'9':'docking_complete_delivery',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_delivery',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/naboo_imperial_tier4_1_c",
+	"entries": {
+		"title_d":"Deliver the crystals to a command shuttle in the Dathomir system. Whatever those crystals are, those mercenaries want them back badly.",		"title":"Dathomir System: Deliver the Crystals",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_rendezvous2_t":"Meeting the Shuttle",		"quest_rendezvous2_d":"Travel to the arrival location and wait for the shuttle.",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"The shuttle will meet you in the Dathomir system.",		"quest_dock2_t":"Transfer the Crystals",		"quest_dock2_d":"Dock with the shuttle and transfer the crystals to it.",		"hello_d":"Hello, pilot. I am here to pick up some cargo you pulled off of a smuggler. Your commander wants to speak with you after this.",		"found_loc_d":"Transport shuttle will meet you at the location supplied in your nav computer.",		"failed_destroyed":"You allowed your transfer shuttle to be destroyed? That was an expensive ship. You are going to have to answer to your commander about this failure.",		"docking_started_delivery":"Beginning docking procedure.",		"docking_complete_delivery":"Cargo has been transfered to the transport shuttle.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters eliminated.>",		"attack_notify":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters detected.>",		"assigned_delayed":"",		"arrived_at_delivery":"Stand by for arrival of the transport shuttle.",		"Quest Log Data":"Text"
+}}

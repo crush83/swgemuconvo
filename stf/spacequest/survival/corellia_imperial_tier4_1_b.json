@@ -1,29 +1,5 @@
-[
-'27':'transmission_start',
-'26':'transmission_received',
-'25':'trans_update',
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_reachpoint_t',
-'18':'quest_reachpoint_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_defendpoint_t',
-'14':'quest_defendpoint_d',
-'13':'outofrange_failed',
-'12':'outofrange',
-'11':'mission_complete',
-'10':'found_loc',
-'9':'first_attack',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_loc',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/survival/corellia_imperial_tier4_1_b",
+	"entries": {
+		"transmission_start":"Transmission Update: <We have located some chatter on the frequency indicated in the officer's records. Beginning to download transmission.>",		"transmission_received":"Transmission Update: <Transmission Received. It would seem all the mercenary fighters are to continue their harassment of Imperial interests in this sector until further notified.>",		"trans_update":"Transmission Update: <%DI percent of the transmission downloaded.>",		"title_d":"The location and frequency discoverd on the captain's fighter must be investigated. Travel to the location and tune into the frequency to see what you can find out.",		"title":"Dantooine System: Tap into Enemy Communications",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_reachpoint_t":"Begin to Tap into Enemy Communication",		"quest_reachpoint_d":"Once you have arrived at the location wait to tune into the frequency and see what you can pick up.",		"quest_location_t":"Remain in the Dantooine System",		"quest_location_d":"The location is inside the Dantooine system.",		"quest_defendpoint_t":"Defend the Transmission Point",		"quest_defendpoint_d":"Remain at the location until you completely receive the message. If the Velocity are watching this location you can expect company. Do not leave the area until you have the message. Once you have this information report back to Insurgent.",		"outofrange_failed":"You were unable to reestablish a transmission link. Report back to your commanding officer.",		"outofrange":"You have lost the signal. Return to the transmission location immediately.",		"mission_complete":"The transmission has been completed. Return to home base and see if your superior can make sense out of it.",		"found_loc":"Coordinates loaded into your nav computer. Proceed to location and see if you can locate a signal.",		"first_attack":"Be on the alert, pilot. Enemy fighters are heading your way at attack speeds. Remain around your current location until that transmission is completed. We have to know what it says.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy wave eliminated.>",		"attack_notify":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Alert! Enemy vessels detecting incoming at attack speeds.>",		"assigned_delayed":"",		"arrived_at_loc":"You have arrived at the location. Tune into the frequency and stand by to see if you start receiving a signal.",		"Quest Log Data":"Text"
+}}

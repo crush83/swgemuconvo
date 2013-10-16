@@ -1,28 +1,13 @@
-[
-'39':'inactive_poi_waypoints',
-'38':'controls',
-'37':'show_names',
-'36':'refresh',
-'35':'help_controls',
-'34':'help_viewer',
-'33':'help_tree',
-'32':'help_checks',
-'31':'active_poi_waypoints',
-'30':'inactive_waypoints',
-'29':'auto_pilot',
-'28':'create_waypoint',
-'27':'make_target',
-'26':'mission_critical',
-'25':'active_waypoints',
-'24':'hyperspace_points',
-'23':'space_stations',
-'22':'show_mission_critical',
-'21':'exit',
-'20':'reset',
-'19':'show_player_location',
-'18':'show_waypoints',
-'17':'show_space_stations',
-'16':'show_hyperspace_points',
-'15':'show_nebulas',
-'13':'show_asteroids',
-]
+{
+	"stfFile":"ui_zone_map",
+	"entries": {
+		"inactive_poi_waypoints":"Inactive Points of Interest",		"controls":"Left mouse = pan     Ctrl-left mouse = rotate     Ctrl-mouse wheel = zoom     Right mouse = menu",		"show_names":"Show Names",		"refresh":"Reset the View",		"help_controls":"Use this button to reset the view which will center the zone map on your ship.",		"help_viewer":"This is the zone map.
+
+You can use it to find Locations and manage your Waypoints.
+
+Right-click on the map for a popup menu that will allow you to create a waypoint at your current location or to center the map view on your ship.",		"help_tree":"This is a list of important zone locations, such as space stations, hyperspace points, points of interest, and locations that are critical to your current mission(s). Active and inactive waypoints are also listed here.
+
+Open a category to display the locations contained within, and then select one to highlight it on the 3D zone map. 
+
+You can right-click map locations in this display for a popup menu that will allow you to create or destroy a waypoint, to activate or deactivate a waypoint, or to autopilot to a location.",		"help_checks":"Select any of the options listed here if you wish to have them displayed on the zone map. Deselect any you wish to hide.",		"active_poi_waypoints":"Active Points of Interest",		"inactive_waypoints":"Inactive Waypoints",		"auto_pilot":"Auto-Pilot to Location",		"create_waypoint":"Create Waypoint",		"make_target":"Make Current Target",		"mission_critical":"Mission Critical",		"active_waypoints":"Active Waypoints",		"hyperspace_points":"Hyperspace Points",		"space_stations":"Space Stations",		"show_mission_critical":"Show Mission Critical",		"exit":"Exit",		"reset":"Reset Camera",		"show_player_location":"Show Player Location",		"show_waypoints":"Show Waypoints",		"show_space_stations":"Show Space Stations",		"show_hyperspace_points":"Show Hyperspace Points",		"show_nebulas":"Show Nebulas",		"show_asteroids":"Show Asteroids"
+}}

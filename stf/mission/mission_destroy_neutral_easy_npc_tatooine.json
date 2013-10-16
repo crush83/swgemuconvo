@@ -1,145 +1,40 @@
-[
-'143':'number_of_entries',
-'142':'m35t',
-'141':'m35s',
-'140':'m35o',
-'139':'m35d',
-'138':'m34t',
-'137':'m34s',
-'136':'m34o',
-'135':'m34d',
-'134':'m33t',
-'133':'m33s',
-'132':'m33o',
-'131':'m33d',
-'130':'m32t',
-'129':'m32s',
-'128':'m32o',
-'127':'m32d',
-'126':'m31t',
-'125':'m31s',
-'124':'m31o',
-'123':'m31d',
-'122':'m30t',
-'121':'m30s',
-'120':'m30o',
-'119':'m30d',
-'118':'m29t',
-'117':'m29s',
-'116':'m29o',
-'115':'m29d',
-'114':'m28t',
-'113':'m28s',
-'112':'m28o',
-'111':'m28d',
-'110':'m27t',
-'109':'m27s',
-'108':'m27o',
-'107':'m27d',
-'106':'m26t',
-'105':'m26s',
-'104':'m26o',
-'103':'m26d',
-'102':'m25t',
-'101':'m25s',
-'100':'m25o',
-'99':'m25d',
-'98':'m24t',
-'97':'m24s',
-'96':'m24o',
-'95':'m24d',
-'94':'m23t',
-'93':'m23s',
-'92':'m23o',
-'91':'m23d',
-'90':'m22t',
-'89':'m22s',
-'88':'m22o',
-'87':'m22l',
-'86':'m22d',
-'85':'m21t',
-'84':'m21s',
-'83':'m21o',
-'82':'m21d',
-'81':'m20t',
-'80':'m20s',
-'79':'m20o',
-'78':'m20d',
-'77':'m19t',
-'76':'m19s',
-'75':'m19o',
-'74':'m19d',
-'73':'m18t',
-'72':'m18s',
-'71':'m18o',
-'70':'m18d',
-'69':'m17t',
-'68':'m17s',
-'67':'m17o',
-'66':'m17l',
-'65':'m17d',
-'64':'m16t',
-'63':'m16s',
-'62':'m16o',
-'61':'m16d',
-'60':'m15t',
-'59':'m15s',
-'58':'m15o',
-'57':'m15d',
-'56':'m14t',
-'55':'m14s',
-'54':'m14o',
-'53':'m14d',
-'52':'m13t',
-'51':'m13s',
-'50':'m13o',
-'49':'m13d',
-'48':'m12t',
-'47':'m12s',
-'46':'m12o',
-'45':'m12d',
-'44':'m11t',
-'43':'m11s',
-'42':'m11o',
-'41':'m11d',
-'40':'m10t',
-'39':'m10s',
-'38':'m10o',
-'37':'m10d',
-'36':'m9t',
-'35':'m9s',
-'34':'m9o',
-'33':'m9d',
-'32':'m8t',
-'31':'m8s',
-'30':'m8o',
-'29':'m8d',
-'28':'m7t',
-'27':'m7s',
-'26':'m7o',
-'25':'m7d',
-'24':'m6t',
-'23':'m6s',
-'22':'m6o',
-'21':'m6d',
-'20':'m5t',
-'19':'m5s',
-'18':'m5o',
-'17':'m5d',
-'16':'m4t',
-'15':'m4s',
-'14':'m4o',
-'13':'m4d',
-'12':'m3t',
-'11':'m3s',
-'10':'m3o',
-'9':'m3d',
-'8':'m2t',
-'7':'m2s',
-'6':'m2o',
-'5':'m2d',
-'4':'m1t',
-'3':'m1s',
-'2':'m1o',
-'1':'m1d',
-]
+{
+	"stfFile":"mission/mission_destroy_neutral_easy_npc_tatooine",
+	"entries": {
+		"number_of_entries":"35",		"m35t":"Anton's Big Break",		"m35s":"Excellent. Now I can prove myself worthy to my old boss. I'm certain I'll get my old job back.",		"m35o":"Anton",		"m35d":"A group of punks got me fired from my gig as the front desk clerk at the Lucky Despot hotel. I want it back. And the only way that's going to happen is if this group of low-life bandits is never seen or heard from again. Got it?
+
+Anton ",		"m34t":"Wuher's Droid Dliemma",		"m34s":"Now I can go retrieve that blasted board and get this lazy bucket of bolts back to work on our latest concoction. I'd offer you a free drink, but we haven't mastered the latest recipe yet.",		"m34o":"Wuher",		"m34d":"This may sound strange coming from me, since I've no love for droids, but I need some help putting a friend of mine back together. You see, me and Ceetoo-Arfour have been making specialty drinks for a months now, and making good money all over Tatooine doing it. But recently some blasted bandits looted my hovel and trashed the place. Worst of all, they stole Ceetoo's special mixology circuit board. I had pulled the board out to clean it, and then left it out to dry. Must have looked like an important piece of data to them, and the scum snapped it up along with some other personal belongings. Now I don't expect you to bring back my stolen goods, but if you could take care of the sand-eating creeps that did this to me, I'll search through the rubble and find the pieces to put Ceetoo-Arfour back together again.
+
+Wuher",		"m33t":"Coin Collectors",		"m33s":"I hope those vile sith spawns know that they paid dearly for robbing an old man. Thank you for help.",		"m33o":"A Collector of Rare Coins",		"m33d":"This may not mean anything to you, but it means the world to me. I had my entire trugut collection stolen by a group of bandits. They have no idea what it's worth and will probably just give it away for a few creds. For those who don't know, the trugut is a Hutt form of currency that only had value on Hutt-controlled worlds. But the use of truguts on Tatooine ended with the arrival of the Empire. In the day, one trugut was worth sixteen wuipiupi, a quarter of a peggat, or ten dataries. But now, to the right collector, they are worth ten times that. I would like someone to take care of these thieves for me. They don't deserve to hold such a rare and exquisite collection.",		"m32t":"Followers of Alkhara",		"m32s":"The Tatooine Bureau of Ethnicity and Socialization would like to thank you for your assistance in helping to remove Alkhara from the memory of the citizens of Tatooine.",		"m32o":"Tatooine Bureau of Ethnicity and Socialization",		"m32d":"Hundreds of years ago, a former employee of the Tatooine Bureau of Ethnicity and Socialization named Alkhara allied himself with a savage group of Tusken Raiders and destroyed an entire police garrison. It started a bloody feud with the Tusken Raiders that lasted for many years. He built himself a small empire and after he died his headquarters became Jabba's Palace. While his terrible reign was ended many years ago, there are still pockets of those who believe in the anarchy that Alkhara preached. We at the Bureau would like all memory of Alkhara to be erased. We are offering a substantial reward for the removal of any known camps or bases belonging to Alkhara's followers.
+
+Tatooine Bureau of Ethnicity and Socialization  ",		"m31t":"Steep Struggle",		"m31s":"Congratulations! You have done the locals a great service. The Tuskens should go back to their normal behaviour and leave us alone now.",		"m31o":"Concerned Local Merchants",		"m31d":"For years, an unruly band of Tusken Raiders has lived on the Mochot Steep, venturing out now and again to cause trouble around town, but never really doing any major damage. Until now. There's another group of troublemakers that has been battling the Tuskens for supremacy of the Mochot Steep. This has stirred up major trouble. The Tuskens are out scavenging almost every night, trying to prepare themselves for the next attack. The local merchants have been suffering greatly from this little war. Now, we don't think that the Tuskens will ever leave the Mochot Steep, which is fine with us. We just need someone to stop those new bandits from stirring up the Tuskens. Can you aid us?",		"m30t":"Old Friends",		"m30s":"You're quite the killer. Maybe you should consider getting' fixed up by the Empire. The Imperial cutters ripped out part of my brain and replaced it with tech. I sometimes see things, hallucinate, but I'm one of the highest-paid assassins in the Outer Rim, so I ain't complainin'. Maybe you should take the credits you just earned and have a little work done too.",		"m30o":"Dengar",		"m30d":"The name's Dengar. You've probably heard of me. I was the best swoop racer in the entire galaxy. No one could catch me. And I had a loyal gang watching my back. The past, it's all a bit hazy now... But I know some Corellian punk ambushed me in the Agrilat Swamps on Corellia. The crash ruined my career. The Empire fixed me up right, and I'm good at killin' now. But my old gang scattered. Treacherous space slugs, they left me for dead. Joined up with another swoop gang on Tatooine. No one leaves Dengar behind. No one. I know where the scurriers are hiding, but I'm still property of the Empire. Got a job to do. I need someone tough and mean to take out my old crew. I'll send the coordinates when you accept this mission.  ",		"m29t":"Swoop Gang Cleanup",		"m29s":"We've received confirmation of your mission's success. Good work. Your payment has been transferred.",		"m29o":"Mos Eisley Police Authority",		"m29d":"WANTED: Able-bodied adventurers to battle roving swoop gangs on Tatooine! 
+
+Tatooine's swoop gangs are out of control! They've become a public menace. Tatooine authorities are willing to pay large rewards for the elimination of this threat. Those willing to accept this dangerous assignment will receive coordinates to a known swoop gang camp. The camp must be destroyed before any rewards will be processed.",		"m28t":"Vigilante",		"m28s":"By the shifting sands of Tatooine, may my brother always remain in the memories of those who loved him. And may your heroic deeds on his behalf always be part of our family history. I shall never forget that you brought my brother's murderers to justice. Thank you.",		"m28o":"A Bereaved Local",		"m28d":"My brother was killed by a swooper the other day. The murderers will get away with this terrible crime if someone doesn't step forward and wipe them out. I'm not a vigilante, but I'm looking for someone willing to deliver a little desert justice to these vermin.",		"m27t":"Turf War",		"m27s":"Hah! I knew my plan would work! Those sandmite-infested fools have been watching me and my gang for weeks, but they didn't have an eye on you, my friend! I haven't seen such a one-sided fight since crazy old Ben took off that Walrusman's arm in the Mos Eisley cantina. I've sent some loot your way. Spend it while you can; I won't be surprised if those swoopers retaliate... ",		"m27o":""Captain Crossbones"",		"m27d":"Listen up, worms. I'm a leadin' member of one of Tatooine's most feared and respected swoop gangs. I'm not gonna say which swoop gang, because we don't need no trouble with the Imperials. But I have a sweet deal for anyone with a blaster and an itchy trigger finger. It's no secret the swoop gangs on Tatooine are at war. There's a rival gang moving in on my territory, and I want to give those scurvy mynocks a surprise. Rather than send my gang out to take care of 'em, I figure I'll offer some of you "adventurers" a chance to even the score for me. They'll be watchin' out for dust-blowing swoops, but a solo operator or small group of mercenaries can get in close and take out their base. I can send you one of them glowing waypoints; just follow it and attack any chuba-eating scum you find. Then burn their camp to the ground, to send a message.  ",		"m26t":"Concerned Citizen Hiring Adventurers to Battle Swoop Gangs",		"m26s":"I told you the swoop gangsters weren't so tough, especially when they're caught in small groups. Nice work taking out that base. Now, there are fewer thugs to harass the locals.",		"m26o":"Swoop Hunters",		"m26d":"Swoop gangs are a terrible menace on Tatooine! They race all over the planet, outrunning the law and attacking anyone they come across. But I've come up with a plan to cull these criminals. When traveling together, swoop gangsters are like a pack of slice-hounds. They gain confidence from just being around one another, and easily overwhelm the weak or defenseless. But when caught one-on-one, or in small groups, the swoopers aren't very tough. I've located some smaller swooper camps. Anyone who wants to prevent the swoop gangs from taking over Tatooine should sign up here! I'll transmit coordinates to a manageable hideout, and you just take care of the rest.",		"m25t":"Criminal Element",		"m25s":"Excellent work! Unlike most of our hired agents, you've actually succeeded in defeating those criminals who enjoy terrorizing Tatooine locals. Your reward has already been transferred to your account.",		"m25o":"Tatooine Civilian Defense League",		"m25d":"The Tatooine Civilian Defense League has detected an alarming rise in the number assaults, petty thefts, and acts of vandalism in and around the habitable areas of the planet. These crimes are the work of several small bands of roving thugs. In the hopes of reducing the crime rate on Tatooine, the Tatooine Civilian Defense League is authorized to pay for the destruction of all identified criminal camps.",		"m24t":"Bantha Defender",		"m24s":"The Mighty Bantha, the legendary Horned-One who brings peace and tranquility to all who gaze upon Him, is safe once again! You have served the Enduring Bantha well! The Dim-U monks, loyal servants of the Wandering Bantha, are overjoyed at your success. Our coffers have been opened and you will be rewarded. The Dim-U monastery thanks you on behalf of the Horned-One, whose powerful bellow will roar your name across the desert and throughout the start so that all who worship at His hairy feet will know of your heroic deeds.",		"m24o":"Dim-U Monks of Tatooine",		"m24d":"We, the Dim-U monks of Tatooine, who worship at the hairy feet of the Mighty Bantha, are seeking defenders of our hirsute idol. While Tatooine should be the domain of the bantha alone, the Horned-One must share the planet with a host of lesser beings. Most recently, the Revered Bantha has been plagued by foul thugs, dirty criminals, and murderous hunters. These bipedal vermin badger the Wandering Bantha, or kidnap His children, or even kill Him in the hopes of hanging his lush coat on their walls. The coffers of the Dim-U monastery are full, ready to serve the cause of the Enduring Bantha, in whose eyes all Universal Truths are revealed. We only await a champion to step forward and purge the Stalwart Bantha's enemies!",		"m23t":"Waystation Project",		"m23s":"The Tatooine Reclamation Society is pleased to report that Phase I of our proposed waystation project is nearly complete! Criminal settlements previously blocking construction on these proposed waystations have been eliminated. Those citizens directly responsible for the destruction of these bases, hideouts, and camps have been rewarded and deserve the thanks of the entire planet!
+
+Phase II of the project - the actual construction of the waystations themselves - requires additional funding. We have been promised a substantial grant from the local Imperial prefect, but a recent military mishap near Yavin IV has evidently diverted all Imperial credits for the forseeable future. The Tatooine Reclamation Society is seeking other backers, including the generous Jabba the Hutt. We believe that the waystation project will be back on track within a few seasons! ",		"m23o":"Tatooine Reclamation Society",		"m23d":"The Tatooine Reclamation Society is a coalition that includes Bestine, Mos Espa, and several other major cities on Tatooine that have joined forces with generous Imperial authorities to improve life on our desert planet. As part of the Tatooine Reclamation Project, the Tatooine Reclamation Society is planning to construct waystations between the planet's primary settlements. Unfortunately, the proposed sites of some planned waystations have already been "settled" by bandits, thieves, squatters, and other undesirables. The Tatooine Reclamation Society is broadcasting the coordinates of these illegal settlements in the hopes that loyal Tatooine citizens will take it upon themselves to aid the Reclamation Project by destroying these "obstacles." A suitable reward will be offered to anyone who helps in our efforts to develop these essential waystations.",		"m22t":"Toydarian Middleman",		"m22s":"TRANSMISSION TRANSLATED FROM HUTTESE
+
+Things don't look so grim around Watto's shop these days. Surprisingly, his sub-contracting scheme seems to be working, thanks in part to you. Even after paying you your reward, Watto has enough left over to upgrade his inventory and attract new customers. And, because he's proven to be so reliable, Watto is gaining quite a reputation with the Imperials. They're even starting to buy parts from the junkshop.
+
+As one of Watto's sub-contractors, you've been paid for your services. Please note that, while Watto did deduct his standard commission, I threw in a few credits of my own to thank you for a job well done.
+",		"m22o":"Wald",		"m22l":"Watto the Toydarian is hiring sub-contractors to complete Imperial missions.",		"m22d":"TRANSMISSION TRANSLATED FROM HUTTESE
+
+As you probably know by now, Watto the Toydarian, owner of the once-legendary Watto's Junkshop and Spare Parts in Mos Espa, has fallen on hard times. Ever since he lost his fortune betting against a Jedi in the Boonta Eve Podraces, Watto has been deep in debt with just about everyone on Tatooine, including Jabba the Hutt.
+
+I've known Watto all my life and I'm trying to help him out. He's not the friendliest gasgut, but he's practically an institution in Mos Espa. And maybe I feel a little responsible for Watto's plight, since it was my friend Anakin who won the Boonta Eve that year and left Watto without a credit to his name. Or maybe I'm just hoping that Watto will eventually give me the junkshop...
+
+When I heard that the Imperials were offering rewards to adventurers willing to track down and defeat some local thugs, I figured we could earn some quick credits by taking out these criminals. But Watto always wants to be the middle-man. He's identified some of the easiest targets the Imperials have to offer and has personally guaranteed that the criminals in question will be eliminated. Now, he just needs to hire adventurers like you to kill these thugs. We'll pay you the reward, after Watto takes his "commission" of course. It's not a perfect set-up, but I can guarantee that Watto has selected only the best assignments. And, by dealing with Watto directly, you avoid any Imperial entanglements...  ",		"m21t":"The Landlord",		"m21s":"Good work, my loyal agent. I will now be able to build what I hope will become one of the galaxy's most lucrative mines on Tatooine. For your role in helping me to create my empire, I have rewarded you a fair sum.",		"m21o":"A Corellian Businessman",		"m21d":"I've recently purchased a large plot of land on Tatooine, but when I sent agents to investigate the territory, they discovered it was staked out by some squatters. The dirty locals became violent when my agents tried to drive them from my land. I acquired a bit of the desert legally, I assure you, and now I want those squatters evicted. Accept this mission, destroy the squatters' shack, and you'll be promptly paid.",		"m20t":"Jabba's Ploy",		"m20s":"I must admit, I am surprised that you succeeded in your mission. I'm sure Jabba will be pleased, when I find the time to tell him of your victory. For now, be content with the handful of credits I've generously transferred into your account.",		"m20o":"Bib Fortuna, on behalf of Jabba the Hutt",		"m20d":"My employer, the All-Powerful Jabba the Hutt, has been implored to come to the aid of the citizens of Anchorhead. It appears that these simpering, unarmed farmers are being harassed by a gang of violent roughnecks. Jabba's generosity knows no bounds, and he has decided to aid this group. For a price, of course. In fact, partial ownership of Anchorhead, it seems. To help these poor, unfortunate fools (and gain a foothold in Anchorhead), Jabba is hiring mercenaries. Any hired thugs, trained or untrained, are welcome to accept this mission. Upon doing so, you will receive coordinates to the lair of Jabba's new enemies. Simply eliminate these ruffians and destroy their base to earn Jabba's gratitude.",		"m19t":"Roughnecks",		"m19s":"Nice work, friend. Those roughnecks won't be bothering us again. And just in time, too; some of the old-timers here were ready to go to Jabba for help, and that would have only put us into in his debt. I'd much rather pay you a few credits than owe that slug my life.",		"m19o":"Fixer",		"m19d":"A group of local roughnecks have been causing a lot of trouble in and around Anchorhead. They tear through town, kicking up dust and scaring away the honest farmers. They've even started stealing droids and shaking down the locals for "protection fees." When some of my hired hands confronted these dirtbags, the roughnecks nearly beat them to death. It's only a matter of time before they kill someone... So, I followed these bums to their hideout in the desert. Anyone who wants a few credits can saddle up and take care of the roughnecks. ",		"m18t":"Avenger",		"m18s":"You have my heartfelt and undying gratitude. And my son, wherever he is, thanks you as well. Those murderers are dead, and they will never hurt another innocent traveler. The credits I give you as a reward will never be thanks enough for all you have done, for my family and this planet.",		"m18o":"A Heartsick Father",		"m18d":"Nothing is more important than family. Last season, my son was killed by thugs. He was just heading out to Anchorhead for some power converters and other supplies when he was ambushed by the murderous scum. They left him to rot in the desert. I reported the murder to the Imperial authorities in Bestine, but they said they couldn't find the killers. I doubt they even looked. It only took me two days to find the band of thieves who blasted my son. Now, all I want is revenge. I'm offering a reward to anyone who can avenge my son. But I won't be happy with just a few dead murderers; I want their entire camp burned to the ground.",		"m17t":"Jawa Killers",		"m17s":"Transmission Translated from Jawaese for your convenience!
+
+Most exalted hero of the Jawas! Thank you a hundred times for saving us from evil, murderous thugs. We will now pay you a sizable, big reward.",		"m17o":"Wimateeka",		"m17l":"Jawas are threatened by local thugs.",		"m17d":"Transmission Translated from Jawaese for your convenience!
+
+We Jawas are threatened by nasty, murderous humans and aliens, who kill us with wicked, sharp blades and fiery blasters. They hunt us across the sands, leave our bodies burning on the dunes. We need brave, bold heroes to stop these evil, dangerous thugs! Accept this quest and we will send you a radiant, glowing beacon that you can follow to our enemies! When you destroy their base, we will pay you many glorious credits. 
+
+Wimateeka, Jawa Clan Leader",		"m16t":"Crime War",		"m16s":"I admit that I am surprised by your success. You have dealt with Jabba the Hutt's enemies, and you have fought bravely. I have slipped a few credits from Jabba's vaults in order to repay you for your services. If you are fortunate, Jabba will let you keep your credits... ",		"m16o":"Bib Fortuna, on behalf of Jabba the Hutt",		"m16d":"Jabba the Hutt is seeking brave warriors who wish to prove themselves in battle against the Hutt's many enemies! Jabba is constantly tracking his foes, who plot his downfall, attempt to steal his goods, and ambush his loyal troops. Jabba is enraged and sickened by his enemies, and wishes to see them all killed. Our intrepid scouts have located a band of Jabba's most-hated enemies in the desert. Any who accept this mission must go forth and stamp out this threat to Jabba's wealth and happiness. Those who succeed will earn a handful of credits, and Jabba's gratitude.",		"m15t":"Squatters",		"m15s":"Hello again. I wish to thank you for killing those murderous squatters. I've dug up some credits and will transfer them to your account immediately.",		"m15o":"A Local Moisture Farmer",		"m15d":"Hello. I hope this transmitter is working right... Hopefully, this plea for help has reached the local mission terminals. If you're reading this, then I suppose I did something right... I'll keep this simple: We're a hardworking folk, but not very good with blasters or vibroweapons. Our lands are threatened by greedy, well-armed squatters. We need someone to step forward and help defend us. Please, accept this mission and move in on the murderers before they can close in us! We'll provide coordinates to their hideout; you just have to provide the blaster fire.",		"m14t":"TASKForce Agent",		"m14s":"The Force was with you! Congratulations on wiping out those miscreants. Tatooine is much safer now, and we can begin searching for the next criminal target. A reward has been transmitted to your account.",		"m14o":"TASKForce Tatooine ",		"m14d":"May the Force be with us! TASKForce Tatooine is committed to fighting evil wherever it appears! As any galactic citizen will understand, Tatooine is overrun by a nearly-unstoppable criminal element. The thieves and killers spread like a virus across the desert. But agents of TASKForce Tatooine tirelessly locate these infections wherever they occur. We then hire competent soldiers to eliminate these dangerous dens and hidden lairs. Those willing to assist TASKForce Tatooine will be given coordinates to an identified criminal base. Once that base is destroyed, we will gladly transmit a sizable reward. ",		"m13t":"Mercenaries Wanted",		"m13s":"We've received confirmation of your mission's success. Good work. Your payment has been transferred.",		"m13o":"Mos Eisley Police Authority",		"m13d":"WANTED: Mercenaries willing to risk their lives for lucrative rewards.
+
+We are seeking mercenaries capable of confronting Tatooine's many thugs, thieves, hoodlums, and swoop gangsters. Those who accept this mission must supply their own weaponry and other equipment. Upon acceptance, the Mos Eisley Police Authority will transmit the coordinates of a known criminal encampment. This camp must be completely destroyed. Risks are high, but rewards are fair. ",		"m12t":"Adventurers Wanted",		"m12s":"We've received confirmation of your mission's success. Good work. Your payment has been transferred.",		"m12o":"Mos Eisley Police Authority",		"m12d":"WANTED: Adventurers to brave the deserts of Tatooine in search of villainous scum! 
+
+Interested parties should have: some competence with a blaster, vibroblade, or other weapon; a willingness to travel the dangerous Tatooine wastes; and unflagging courage! Those who accept this mission will receive coordinates to the last known location of one of Tatooine's many roving bands of thugs or miscreants. Using these coordinates, the willing adventurer will be required to destroy any criminal encampments.  ",		"m11t":"Jawa Defender",		"m11s":"The Jawas are safe, for now. Although the little chatter-boxes would never thank you themselves (I don't even think that they realized they were in any danger), I do extend my gratitude (and a few credits) your way. I admit, I'm old and cynical, but you've shown me that there are still heroes left in the galaxy. ",		"m11o":"An Altruistic Citizen",		"m11d":"When I was a young man, my life was dedicated to protecting those who couldn't defend themselves. I spent most of my time defending the peaceful Jawas. They are too small to fight their own battles, I fear. They are constantly threatened by gangs of roving bandits, or worse. Well, I may be too old to actually pick up a blaster rifle or vibroax to battle those who would threaten the defenseless little desert wanderers, but I'm not too crippled to at least go out check on the Jawas. I spotted some thugs moving in on the chatter-boxes. I'm worried the Jawas are about to get killed. Go out stop these advancing trouble-makers, and I'll pay you for your trouble.",		"m10t":"Melee's Drama",		"m10s":"Thank you. I hope those scum suffered...",		"m10o":"Melee of Mos Espa",		"m10d":"Things aren't like they were back when I was kid running around the streets of Mos Espa. Friends would stand by you, and Tatooine was on its own. No Republic or Empire or whatever telling everyone what to do. Now we live in a military state. Podracing is dead. There are military garrisons everywhere you look, and Jabba's associates bring the worst kind of scum to this planet. I always thought I'd get out of here some day, but I don't think that will ever happen now. Still, I would sleep better at night if a certain group of scavengers living outside of town were taken out. I can't tell you what they did, but I do have plenty of credits to pay anyone who is willing to take them out. Bring me proof that they are bantha fodder and the credits are yours.",		"m9t":"Japor Thieves",		"m9s":"Thank you, friend. I would offer you a necklace in addition to your payment but I can't spare one right now. Just know that my family, and my business, are thriving again.",		"m9o":"A Local Japor Carver",		"m9d":"Now, it's not much of a business, but I am able to feed my family off the credits I make selling necklaces made from small snippets of japor. Last week some thieves took all of my necklaces as well as my carving tools. Without these things my family will starve. I have a few credits, but not enough to buy all those tools again. And the necklaces they took represent several weeks of work. I need someone to help me. I don't expect you to return all these things to me. I just want someone to clear out the thieves and I'll go back to their camp and reclaim my goods, as well as anything else I can find. I am willing to pay a fairly good sum for this work.",		"m8t":"The Clan of Grk'kkrs'ar.",		"m8s":"Praise the maker! You've saved my family!",		"m8o":"A Concerned Tatooine Citizen",		"m8d":"There's this clan of Sand People... Well, I'm not sure that they're actually Sand People, but someone's been terrorizing travelers who come and go from town. I've only heard stories, but I do know what they call themselves: the clan of Grk'kkrs'ar. I did some research on the term and it's actually the name of a mythic Tusken who never showed fear, even when facing a krayt dragon. Now my family is coming to visit from the far side of Tatooine and I don't want these Tuskens, or whatever they are, attacking my relatives. Please help me! But be careful. They sound dangerous...",		"m7t":"Evict the Gorg Eaters",		"m7s":"I appreciate your help in this matter. The entire city will benefit from your work. And I would also appreciate if you would keep quiet about your mission to kill the squatters.",		"m7o":"A Piqued Local Denizen",		"m7d":"Gragra, a local gorgmonger, started growing gorgs and other edible amphibians in a sewer zone beneath this town decades ago. Long after she's left this place to work elsewhere, the gorg population continues to grow. Now, these little amphibious creatures don't do much damage down in the sewers but some of the squatters that live outside of town come here to feed on them. These squatters are known to rob and burgle the locals whenever they can. I am offering a generous reward to anyone who stops these squatters from invading our city. No questions asked.",		"m6t":"Who's Been Drinking the Gafsa Water?",		"m6s":"You are our savior! The Tuskens would have surely overrun our little community if you hadn't intervened. With their enemies destroyed, the Tuskens will likely move along.",		"m6o":"A Community In Peril",		"m6d":"Someone has been taking water from the sacred canyons of the Tusken Raiders. It is creating unrest in one of the largest groups of Sand People in this part of Tatooine. This entire city is in jeopardy if this continues, but the local authorities seem unable, or unwilling, to do anything about it. We've traced the thefts to a group outside of town, but we can't do anything about it on our own. We need a person with a particular talent to handle this situation. We don't care how you stop them, just save our town from the wrath of those superstitious savages.",		"m5t":"Defilers of an Ancient Jedi Grave",		"m5s":"The Coalition is forever grateful for your actions. And as the great Master Diath first said, "Koroght Gaghght Takt".",		"m5o":"Tatooine Coalition for the Preservation of the Prominent Past",		"m5d":"In our city lies an ancient grave site honoring Jedi Master Sidrona Diath. Sadly, the monument was senselessly defaced by a local group of Jedi haters. It was probably done to curry favor with the local Imperials. But Master Diath was a good man and a revered leader of Tatooine who fought valiantly before his fall in the Battle of Basilisk some 4,000 years ago. He also fathered Jedi Knight Dace Diath, a hero in the Sith War. And, of course, Diath was the first to speak the words "Koroght Gaghght Takt", which, for outlanders not familiar with the saying, means "blessed be your going out from us". Although the Empire probably wouldn't agree with us, those who defaced his grave should be punished. The key members of the Tatooine Coalition for the Preservation of the Prominent Past wish to remain anonymous, in the hopes of avoiding the Empire's wrath, but we are willing to pay a handsome sum to whoever deals with this problem.
+
+Tatooine Coalition for the Preservation of the Prominent Past",		"m4t":"Journey From the Jag Crag Gorge",		"m4s":"Thank you very much for eliminating those nasty thieves. We will continue our expeditions, now that Tatooine is a little safer.",		"m4o":"A Group of Wronged Sightseers",		"m4d":"It was almost a year ago when we planned our group expedition to the famous sights of Tatooine. We split into two smaller groups when there was a disagreement on which places we'd stop and see. There's never enough time to do everything. Anyway, when we separated, the plan was to meet back up at the Jag Crag Gorge. When we arrived there, the other group never showed up. They were robbed one night and had to head back home. This ruined the trip for everyone. And while the local authorities never did anything about it, we've identified the thieves. Even though we are sure the stolen items can't be recovered, we would like to know that this won't happen again. ",		"m3t":"Scavenger Hunt",		"m3s":"You really saved my skin. I don't know what I would have done if I had to go legit. With all the rules the Empire is imposing on us, it's been difficult to actually make a living. And a real job would break me.",		"m3o":"A local scavenger needs someone to make his stomping grounds safe.",		"m3d":"On one of my recent "scavenging" trips over the mountains, I made such a haul that I couldn't fit everything in my speeder. So I had to make two trips. I left a pile of spare parts and other things buried under a pile of dried brush near the peak of one of the mounatins in the Needles Range. Well, when I want back my stash was taken. Now I know complaining about someone stealing my stolen goods is pretty low, but this is how I make my living. On my last trip back there I was robbed by some thugs who I assume are the same ones who stole my stash. So I need someone to take this group out. If I can't continue to scavenge along the Needles I might actually have to get a real job.",		"m2t":"The Boonta Eve Bandits",		"m2s":"We appreciate your help. Now Boonta Eve will no longer be a dreaded day.",		"m2o":"Outraged Citizens",		"m2d":"While the Boonta Eve is mainly celebrated in certain parts of Mos Espa, it has become a night of mischief around here. A group of local hoodlums take it upon themselves to stir up trouble that night, stealing from the elderly and attacking anyone who dares to go outside. The group of troublemakers responsible lives outside of town. If someone would go there and put and end to their mischievous ways, the entire town would appreciate it.",		"m1t":"Quieting the Nosy Neighbor",		"m1s":"Thank you for your help. Although things still aren't as good as they were in old days, it is a step in the right direction. And credits well spent as far as I am concerned.",		"m1o":"Elza Monimi",		"m1d":"This place has been going downhill ever since that Toong couple next door had one of their slaves stolen. And that was over 30 years ago. Now we have these strange looking characters wandering around the neighborhood every night. I don't know what they do, but I'm sure they're up to no good. They come from outside of town, sneaking into our settlement like criminals. I wish someone would get rid of them, so we can have some peace and quiet in this neighborhood. I've collected some credits from the people who live around me and we're willing to pay anyone who can help keep our homes safe. 
+
+Elza Monimi"
+}}

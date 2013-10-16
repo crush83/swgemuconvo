@@ -1,30 +1,5 @@
-[
-'28':'jabbas_palace_return',
-'27':'jabbas_palace_27',
-'26':'jabbas_palace_26',
-'25':'jabbas_palace_25',
-'24':'jabbas_palace_24',
-'23':'jabbas_palace_23',
-'22':'jabbas_palace_22',
-'21':'jabbas_palace_21',
-'20':'jabbas_palace_20',
-'19':'jabbas_palace_19',
-'18':'jabbas_palace_18',
-'17':'jabbas_palace_17',
-'16':'jabbas_palace_16',
-'15':'jabbas_palace_15',
-'14':'jabbas_palace_14',
-'13':'jabbas_palace_13',
-'12':'jabbas_palace_12',
-'11':'jabbas_palace_11',
-'10':'jabbas_palace_10',
-'9':'jabbas_palace_9',
-'8':'jabbas_palace_8',
-'7':'jabbas_palace_7',
-'6':'jabbas_palace_6',
-'5':'jabbas_palace_5',
-'4':'jabbas_palace_4',
-'3':'jabbas_palace_3',
-'2':'jabbas_palace_2',
-'1':'jabbas_palace_1',
-]
+{
+	"stfFile":"theme_park_jabba/quest_details",
+	"entries": {
+		"jabbas_palace_return":"Return to Jabba's Palace.",		"jabbas_palace_27":"STEAL the RANTOK SWORD from LADY VALARIAN'S warehouse.  ELIMINATE any resistance you encounter and bring the sword back to JABBA.",		"jabbas_palace_26":"DELIVER the BRIEFCASE to SLIV JUREK and in return bring back the ELECTRONIC KEY he will sell you.",		"jabbas_palace_25":"DESTROY the Bounty Hunters who are seeking our new friend.  ELIMINATE them without delay.",		"jabbas_palace_24":"RETRIEVE the merchandise from JABBA'S friend the SMUGGLER.",		"jabbas_palace_23":"Find and KILL the TRAITOR.  JABBA will not have this in his home.",		"jabbas_palace_22":"DESTROY the STRIKE TEAM that VALARIAN has sent to the palace.",		"jabbas_palace_21":"Find and KILL the INTERROGATOR that LADY VALARIAN hired to torture Scrib Leras.",		"jabbas_palace_20":"ESCORT SCRIB LERAS to the Palace.  As usual, he is not to be harmed.  JABBA will be most pleased.",		"jabbas_palace_19":"Find and KILL the SLAVERS who are moving in on BIB FORTUNA'S territory.",		"jabbas_palace_18":"RETRIEVE the SCHEMATIC that BIB FORTUNA has asked for.",		"jabbas_palace_17":"DESTROY the BOUNTY HUNTER who has come to the Palace looking for Romo Vax.  Return to BIB FORTUNA when you are finished.",		"jabbas_palace_16":"ESCORT ROMO VAX safely to the Palace.  Return to BIB FORTUNA when you are finished.",		"jabbas_palace_15":"Go to LADY VALARIAN'S WAREHOUSE.  Get past the GUARDS however you can.  Use the SELF-DESTRUCT terminal to destroy the warehouse.  Return to BARADA.",		"jabbas_palace_14":"DELIVER the CODE CYLINDER to the slicer.  When this is done return to BARADA.",		"jabbas_palace_13":"KILL VALARIAN'S THUG.  He has a special CODE CYLINDER that BARADA wants you to bring back to him.",		"jabbas_palace_12":"KILL the MEATBEAST and return with some of it's meat so that PORCELLUS can finish Jabba's Lunch.",		"jabbas_palace_11":"RETRIEVE the location of the "meatbeast" from the VETERINARIAN.  Be careful as you may have to KILL the "vet" and the "vet's" bodyguards.",		"jabbas_palace_10":"Find and DESTROY the KAADU that is being delivered to Prefect Talmont.  Return to PORCELLUS with meat from the beast.",		"jabbas_palace_9":"DELIVER the ledger to SIRAD FAR.  Bib Fortuna will view this as a personal favor.  Return to EPHANT MON when you are done.  Allow no harm to come to our friend, the slicer.",		"jabbas_palace_8":"KILL the COURIER who's making a delivery for LADY VALARIAN.  RETRIEVE anything important he might be carrying.",		"jabbas_palace_7":"EPHANT MON wants you to DESTROY some more of LADY VALARIAN'S thugs.  They're harrassing Jabba's loyal customers.  This must end immediately.",		"jabbas_palace_6":"REE-YEES wants you to DELIVER the transponder to SIRAD FAR.  When you have done so return to the palace.",		"jabbas_palace_5":"REE-YEES wants you to find the transponder from a crashed starship and return it.  If the filthy JAWAS have stolen it you should KILL them and take it.",		"jabbas_palace_4":"JABBA wants a slicer in his pocket, and in order to get him you need to KILL the slicers rival THUGS.  When you are done return to REE-YEES.",		"jabbas_palace_3":"JABBA'S VISITOR is lost somewhere near the palace. REELO BARUK wants you to ESCORT him to the Palace.",		"jabbas_palace_2":"REELO BARUK wants you to find VALARIAN'S THUGS who have been hanging out near the palace.  They are to be DESTROYED.",		"jabbas_palace_1":"REELO BARUK needs you to find the TUSKEN RAIDER LEADER who has been harrassing Jabba's friends and KILL him."
+}}

@@ -1,14 +1,5 @@
-[
-'12':'duel_6',
-'11':'duel_5',
-'10':'player_6',
-'9':'player_5',
-'8':'duel_4',
-'7':'duel_3',
-'6':'player_4',
-'5':'player_3',
-'4':'duel_2',
-'3':'player_2',
-'2':'player_1',
-'1':'duel_1',
-]
+{
+	"stfFile":"npc_reaction/duelist",
+	"entries": {
+		"duel_6":"You did it! Here's what I owe you.",		"duel_5":"Fine.  Just wait for him to attack, and then let him have it!",		"player_6":"Sure.  I like to fight.",		"player_5":"No way, I'm out of here!",		"duel_4":"I'm not sure I'm good enough.  If you'll fight for me I'll pay you.  Will you do it?",		"duel_3":"Fine.",		"player_4":"Ok, I'll let you two get at it.",		"player_3":"Why hasn't the duel started?",		"duel_2":"My honor was insulted and now I will duel with my opponent over there.",		"player_2":"Sorry, I'll go.",		"player_1":"What's going on?",		"duel_1":"I'm a little busy at the moment..."
+}}

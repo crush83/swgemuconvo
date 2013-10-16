@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/poi_tatooine_privateer_3_b",
+	"entries": {
+		"title_d":"The time is near and the attack on the Space Station is imminent. Your part in this crazy scheme is to assist the Hutts, driving them to victory. After all this time, one question floats in your mind; what exactly are you going to get out of this? Tax breaks on repairs in Tatooine? A percentage of the revenue made by the Space Station? Or a lousy shirt? And why do the Hutts want to attack a Space Station anyway? It doesn't take you long to figure out and understand the lure of the credit.",		"title":"Tatoo System: Attack on the Space Station",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Hutt Informant:\#pcontrast3 < %TO >",		"quest_location_t":"Tatoo System",		"quest_location_d":"Travel to the Tatoo System for your mission.",		"quest_helpallies_t":"Help Your Allies",		"quest_helpallies_d":"After having arrived at the waypoint given, help your allies defeat the Mos Eisley Police and capture the Space Station.",		"quest_findbattle_t":"Find the battle at Hutt Claims",		"quest_findbattle_d":"Travel to the waypoint given to you by Garett and participate in the battle between the Hutts and the Mos Eisley Police.",		"found_loc":"Pilot, pay attention. I'm transmitting a location to you. In moments, we'll arrive, hoping to storm the Space Station and take it over. Meet us here. We'll no doubt need your help as we're expecting heavy resistance. >",		"enemies_win":"\#pcontrast1 Hutt Informant:\#pcontrast3 < We've lost! The Space Station has been well defended by the Mos Eisley Police. >",		"enemies_remain":"\#pcontrast1 Hutt Informant:\#pcontrast3 < Their numbers are dwindling. By my system's count, there are %DI enemy ships left. >",		"enemies_arrived":"Pilot, stay alert. The Mos Eisley police have come to defend the Space Station against us. This will be a long battle.",		"battle_started":"The battle has begun, pilot. Stay with us. There's no doubt we'll need your help weighing the odds.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"A long, hard battle won. Thank you, pilot. Soon, we'll be able to take over the Space Station and rule the Tatoo System. I garner it will be some time, however. Your name will go down in history.",		"allies_remain":"\#pcontrast1 Hutt Informant:\#pcontrast3 < Pilot! We lost one of our war ships! We have %DI remaining! >",		"allies_arrived":"Our war ships have arrived. Stand by, pilot. We'll need your help."
+}}

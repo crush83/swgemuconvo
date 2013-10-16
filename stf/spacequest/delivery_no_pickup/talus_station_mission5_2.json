@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_rendezvous2_t',
-'17':'quest_rendezvous2_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_dock2_t',
-'13':'quest_dock2_d',
-'12':'hello_d',
-'11':'found_loc_d',
-'10':'failed_destroyed',
-'9':'docking_started_delivery',
-'8':'docking_complete_delivery',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_delivery',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/talus_station_mission5_2",
+	"entries": {
+		"title_d":"The Tusk Cat Run is a series of small smuggling assignments using droid controlled delivery and attack drones.",		"title":"Corellia System: Tusk Cat Run - Leg Two",		"split_quest_alert_fail":"",		"split_quest_alert":"Deliver package three to Tatooine system.",		"quest_update":"Tusk Cat Run: <  %TO >",		"quest_rendezvous2_t":"Travel to Delivery Drone Three",		"quest_rendezvous2_d":"Travel to the specified location and await the arrival of the delivery drone.",		"quest_location_t":"Remain in the Corellia System",		"quest_location_d":"The next delivery takes place in the Corellia system.",		"quest_dock2_t":"Dock With the Delivery Drone",		"quest_dock2_d":"Move in close to the delivery drone and use the /dock command to deliver package two and receive package three.",		"hello_d":"Ready to receive package two.",		"found_loc_d":"Navigation waypoint loaded. Meet delivery drone here.",		"failed_destroyed":"Delivery drone destroy. Run failed.",		"docking_started_delivery":"Beginning docking sequence.",		"docking_complete_delivery":"Transfer complete. Package two secure. Package three loaded into your cargo bay. Proceed to Tatooine.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tusk Cat Run: < Attack drones destroyed >",		"attack_notify":"Tusk Cat Run: < Attack drones incoming >",		"assigned_delayed":"",		"arrived_at_delivery":"Await delivery drone here."
+}}

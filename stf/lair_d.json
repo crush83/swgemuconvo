@@ -1,31 +1,5 @@
-[
-'29':'fire_pit',
-'28':'dantari_monolith',
-'27':'imperial_banner',
-'26':'banner_generic_2',
-'25':'banner_generic_1',
-'24':'global_rebel_warrant_officer_camp_rebel_medium_theater',
-'23':'garbage',
-'22':'leaf',
-'21':'mound',
-'20':'warren',
-'19':'dead_log',
-'18':'insecthill',
-'17':'rocks',
-'16':'rock_shelter',
-'15':'trash',
-'14':'rancor',
-'13':'nest',
-'12':'insect_mound',
-'11':'guard',
-'10':'hovel',
-'9':'den',
-'8':'crevice',
-'7':'lion_cave',
-'6':'griffon_cave',
-'5':'lair_base',
-'4':'earthmound',
-'3':'small_cave',
-'2':'bramble',
-'1':'antpile',
-]
+{
+	"stfFile":"lair_d",
+	"entries": {
+		"fire_pit":"a camp fire",		"dantari_monolith":"a totem",		"imperial_banner":"an Imperial banner",		"banner_generic_2":"a banner",		"banner_generic_1":"a banner",		"global_rebel_warrant_officer_camp_rebel_medium_theater":"A rugged camp constructed carefully by a Rebel Warrant Officer",		"garbage":"Some useless garbage.",		"leaf":"A pile of leaves.",		"mound":"A mound.",		"warren":"A warren.",		"dead_log":"A dead log.",		"insecthill":"An insect hill.",		"rocks":"A pile of rocks.",		"rock_shelter":"A small rocky shelter.",		"trash":"A pile of trash...this could be a creature's lair.",		"rancor":"A rancor lair.",		"nest":"A nest.",		"insect_mound":"An insect mound.",		"guard":"An imperial guard base.",		"hovel":"A hovel.",		"den":"An earthen den...this could be a creature's lair.",		"crevice":"A crevice...this could be a creature's lair.  ",		"lion_cave":"A lion's cave.",		"griffon_cave":"A griffon cave.",		"lair_base":"A creature's lair.",		"earthmound":"An earthen mound...this could be a creature's lair.",		"small_cave":"A small cave...this could be a creature's lair.",		"bramble":"Brambles...this could be a creature's lair.",		"antpile":"An ant mound."
+}}

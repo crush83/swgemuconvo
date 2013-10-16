@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/stn_dantooine_owner_all_raiderdestroy_tier2_1",
+	"entries": {
+		"title_d":"Dantooine Raiders have been attacking the supply freighters heading to the Dantooine station. This is causing heavy shortages in supplies for the station. The owner wants you to reduce the numbers of raiders in the system.",		"title":"Dantooine System: Destroy the Dantooine Raiders",		"taunt_5":"No one does that to me and gets away with it.",		"taunt_4":"You should rethink your career. Perhaps moisture farmer is more your speed.",		"taunt_3":"I don't do this for fun...it is just business.",		"taunt_2":"I will enjoy looting your corpse.",		"taunt_1":"Prepare to become space dust.",		"targets_detected":"Tactical Computer: < Enemy fighters detected. >",		"targets_behind":"Tactical Computer: < Enemy fighters detected. >",		"quest_location_t":"Remain in the Dantooine System",		"quest_location_d":"The pirates are stationed in several areas around Dantooine. Since there is no law enforcement in the system, the pirates do not even make an attempt to hide so they are easy enough to track.",		"quest_destroy_t":"Destroy the Attacking Fighters",		"quest_destroy_d":"Being highly territorial the pirates will attack anyone moving into their area. Once you arrive, expect to be attacked. Destroy all fighters that attack you.",		"level_increase":"Tighten that belt, pilot. Things are just going to get rougher from here on.",		"level_boss_dead":"Excellent work. Without their leaders the pirates will be crippled.",		"level_boss":"We are picking up signals of another ship. I think it is a %TO. Be careful.",		"found_loc":"We have sent you another location where the pirates are known to hang out.",		"duty_update":"Dantooine Station: < %TO >",		"dd_boss_taunt_5":"Just you? Maybe you should have brought more friends.",		"dd_boss_taunt_4":"I am going to take a great deal of pleasure in doing this.",		"dd_boss_taunt_3":"Big mistake, pal! You don't mess with us.",		"dd_boss_taunt_2":"You shouldn't have come out here.",		"dd_boss_taunt_1":"You will never stop us from getting what we want.",		"complete":"Good work, pilot. That should keep the pirates off of our backs for a little while.",		"boss_title_5":"Raider Rogue",		"boss_title_4":"Raider Brigand",		"boss_title_3":"Raider Leader",		"boss_title_2":"Raider Ace",		"boss_title_1":"Raider Commander",		"boss_detected":"Keep a sharp eye out. The raiders have sent out one of their crack pilots to deal with you."
+}}

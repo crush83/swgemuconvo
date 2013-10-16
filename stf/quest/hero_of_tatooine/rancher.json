@@ -1,4 +1,5 @@
-[
-'2':'glad_here',
-'1':'you_okay',
-]
+{
+	"stfFile":"quest/hero_of_tatooine/rancher",
+	"entries": {
+		"glad_here":"Yes, I am. I'm so glad you're here!",		"you_okay":"The authorities are here. Are you okay?"
+}}

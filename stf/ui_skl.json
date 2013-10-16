@@ -1,39 +1,29 @@
-[
-'37':'my_certs',
-'36':'help_profs_all',
-'35':'help_tab_all',
-'34':'help_learning_capacity',
-'33':'help_skill_surrender',
-'32':'help_commands_granted',
-'31':'help_skill_mods',
-'30':'help_tree_prev',
-'29':'help_tree_specialist',
-'28':'help_tree_elite',
-'27':'help_tree_skills',
-'26':'help_mods_my',
-'25':'help_exp_my',
-'24':'help_profs_my',
-'23':'qualify',
-'22':'err_surrender_deps',
-'21':'tooltip_skill_point_bar',
-'20':'tooltip_skill_link_prose',
-'19':'exp_monitor',
-'18':'exp_prose',
-'17':'acquire_exp_prose',
-'16':'acquire_skill_points_prose',
-'15':'surrender_prose',
-'14':'skill_to_prefix',
-'13':'command_acquired_prose',
-'12':'confirm_surrender',
-'11':'cpt_skills',
-'10':'learning_capacity',
-'9':'commands_granted',
-'8':'skill_mods',
-'7':'surrender',
-'6':'my_mods',
-'5':'my_exp',
-'4':'profs_all',
-'3':'profs_my',
-'2':'tab_all',
-'1':'tab_my',
-]
+{
+	"stfFile":"ui_skl",
+	"entries": {
+		"my_certs":"Weapon Certifications",		"help_profs_all":"All Professions in the game are displayed here.",		"help_tab_all":"Select this tab to view all the Professions in the game.",		"help_learning_capacity":"Your Learning Capacity is displayed here.  
+
+Your Avatar has a fixed number of skill points which may be allocated by learning a new skill, or recovered by surrendering one of your skills.",		"help_skill_surrender":"If you have learned the Selected Skill, you can surrender it here.
+
+Otherwise this area displays the Skill Point and Experience requirements.",		"help_commands_granted":"The Commands Granted by the Selected Skill are displayed here.",		"help_skill_mods":"Abilities and Skill Modifiers Granted by the Selected Skill are displayed here.",		"help_tree_prev":"Prerequisite Professions are displayed here.
+
+You must learn the appropriate skills from the Prerequisite Professions before advancing in the Selected Profession.
+
+Double click on the Name of a Prerequisite Profession to select and view it.",		"help_tree_specialist":"Specialist Professions are displayed here.
+
+Specialist Professions are Professions that require partial Mastery of the Selected Profession.  Partial Mastery means you master only one or more branches of the skill, rather than obtaining complete Mastery.
+
+Double click on the Name of a Specialist Profession to select and view it.",		"help_tree_elite":"Elite Professions are displayed here.
+
+Elite Professions are Professions that require complete Mastery of the Selected Profession.
+
+Double click on the Name of an Elite Profession to select and view it.",		"help_tree_skills":"The Skill Tree for the Selected Profession is displayed here.
+
+Skills higher in the tree depend on Skills lower in the tree.
+
+Click on a skill to select it and view its properties.",		"help_mods_my":"Your Abilities and Skill Modifiers are displayed here.",		"help_exp_my":"Your Experience levels are displayed here.",		"help_profs_my":"Your Professions are displayed here.
+
+If you have any skills from a given Profession, the Profession will show up in this list.",		"qualify":"You now qualify for the skill: ",		"err_surrender_deps":"You cannot surrender this skill until you surrender the skills that depend upon it.
+The skills that depend upon it are:
+",		"tooltip_skill_point_bar":"This bar represents the number of Skill Points that are available to you, relative to the total number of Skill Points you can have.",		"tooltip_skill_link_prose":"Double click to view the %TU profession.",		"exp_monitor":"Show Experience Monitor",		"exp_prose":"You currently have %DI.",		"acquire_exp_prose":"This skill requires %DI points of %TU Experience.",		"acquire_skill_points_prose":"This skill requires %DI skill points to learn.",		"surrender_prose":"Surrender Skill to recover %DI skill points.",		"skill_to_prefix":"To: ",		"command_acquired_prose":"You have acquired a new ability: %TU!",		"confirm_surrender":"Are you sure you want to surrender this skill?",		"cpt_skills":"Skills",		"learning_capacity":"Skill Points Available:",		"commands_granted":"Commands and Abilities Granted",		"skill_mods":"Skill Mods",		"surrender":"Surrender Skill",		"my_mods":"My Skill Mods",		"my_exp":"My Experience",		"profs_all":"All Professions",		"profs_my":"My Professions",		"tab_all":"All Professions",		"tab_my":"My Character"
+}}

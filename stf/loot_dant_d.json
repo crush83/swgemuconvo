@@ -1,13 +1,5 @@
-[
-'11':'kelvus_naria_q1_needed',
-'10':'jatrian_lytus_q3_needed',
-'9':'stoos_olko_q3_needed',
-'8':'stoos_olko_q2_needed',
-'7':'stoos_olko_q1_needed',
-'6':'luthik_uwyr_q3_needed',
-'5':'luthik_uwyr_q2_needed',
-'4':'lx466_q3_needed',
-'3':'lx466_q2_needed',
-'2':'xaan_talmaron_q3_needed',
-'1':'xaan_talmaron_q1_needed',
-]
+{
+	"stfFile":"loot_dant_d",
+	"entries": {
+		"kelvus_naria_q1_needed":"The unaltered mining records for the Mining Outpost on Dantooine",		"jatrian_lytus_q3_needed":"On this datadisc contains an invitation to a meeting that Commander Lytus is calling to order. This datadisc will be copied and sent out to every member of the Lytus family so that they may discuss their future courses of action within the Empire.",		"stoos_olko_q3_needed":"ledger",		"stoos_olko_q2_needed":"briefcase",		"stoos_olko_q1_needed":"ledger",		"luthik_uwyr_q3_needed":"Padawan braid",		"luthik_uwyr_q2_needed":"Shards of a broken holocron.",		"lx466_q3_needed":"recording rod",		"lx466_q2_needed":"Rations",		"xaan_talmaron_q3_needed":"A holorecording of a transmission sent from the Death Star shortly after the destruction of Alderaan. Apparently an Imperial maintenance supervisor aboard the battle station sent the message despite strict orders to maintain silence. A Bothan spy obtained this copy for Imperial scientist Xaan Talmaron on Dantooine.",		"xaan_talmaron_q1_needed":"A rock from the destroyed planet, smuggled onto Dantooine for Imperial scientist Xaan Talmaron."
+}}

@@ -1,15 +1,5 @@
-[
-'13':'unused2_t',
-'12':'unused2_d',
-'11':'unused1_t',
-'10':'unused1_d',
-'9':'title_d',
-'8':'title',
-'7':'split_quest_alert_fail',
-'6':'split_quest_alert',
-'5':'quest_update',
-'4':'found_loc',
-'3':'duty_update',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_imperial_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Destroy the Rebel ambush. Your patrol route has been successful and, as planned, the Rebels have attacked you. You must destroy the X-wing fighters that have attacked you. Once you have completed this task return to the Talus space station, target it by pressing the 'C' key, and use the /comm command and return to your commanding officer.",		"title":"Corellia System: Destroy the Rebel X-wing Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"This isn't the first time that new pilots have failed their first time out. We expect you to try again until you can get it right. Sending you a new navigation location to another patrol route.",		"quest_update":"Imperial Command:",		"found_loc":"Head to new coordinates uploaded to your nav computer.",		"duty_update":"Imperial Command:",		"complete":"Good job pilot. Return to base for your next assignment by travelling to the Talus Space Station, target it by pressing "C", and using /comm.",		"assigned_delayed":""
+}}

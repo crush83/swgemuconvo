@@ -1,7 +1,5 @@
-[
-'5':'neutral_hard_escort_5',
-'4':'escort_neutral_hard_4',
-'3':'escort_neutral_hard_2',
-'2':'escort_neutral_hard_3',
-'1':'escort_neutral_hard_1',
-]
+{
+	"stfFile":"mission_escort_neutral_hard",
+	"entries": {
+		"neutral_hard_escort_5":"This guy needs you to escort someone somewhere.  This is a stub conversation and should be REMOVED.",		"escort_neutral_hard_4":"Some guy needs you to escort someone somewhere.  This is a stub conversation and should be REMOVED.",		"escort_neutral_hard_2":"A guy needs you to escort someone somewhere.  This is a stub conversation and should be REMOVED.",		"escort_neutral_hard_3":"This dude needs you to escort someone somewhere.  This is a stub conversation and should be REMOVED.",		"escort_neutral_hard_1":"Somebody needs you to escort someone somewhere.  This is a stub conversation and should be REMOVED."
+}}

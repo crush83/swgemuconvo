@@ -1,14 +1,5 @@
-[
-'12':'title_d',
-'11':'title',
-'10':'split_quest_alert_fail',
-'9':'split_quest_alert',
-'8':'quest_location_t',
-'7':'quest_location_d',
-'6':'quest_destroy_t',
-'5':'quest_destroy_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy/poi_tatooine_general2_2",
+	"entries": {
+		"title_d":"A'Lerris Verata, the strong leader of the mining efforts in the Tatoo System, has informed me of her concerns regarding the awakened Zynt'aia Order. Due to my presence, and my assistance with the mining efforts, the Zynt'aia Pirates have begun to spring unwanted and stealthy attacks against the peaceful miners. It is my duty, as a directive from A'Lerris herself, to clear the Zynt'aia influence from the mining field. Unfortunately, it seems the Zynt'aia Order has stirred and moved in to claim the field, destroying freighters and miners alike with little to no thought at all. It is time to extinguish the influence and replenish the balance.",		"title":"Tatoo System: The Awakened: Zynt'aia Order",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 A'Lerris Verata:\#pcontrast3 < We want you to continue you task, pilot, though in a different area. You've done well. Soon, I'll transmit the additional information you'll need to continue your mission. >",		"quest_location_t":"Travel to the Tatoo System",		"quest_location_d":"It has been my directive from A'Lerris to travel to the Tatoo System, if I'm not there already.",		"quest_destroy_t":"Destroy the Zynt'aia Pirates",		"quest_destroy_d":"The Zynt'aia Order has forcefully claimed the mining field close to A'Lerris' home base. It is my duty to clear several of the pirates out in order to restore the balance to the mining field. The freighters and miners will then be able to continue their work.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

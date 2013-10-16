@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/han_solo",
+	"entries": {
+		"npc_11":"Oh.  Well that figures.  He never did appreciate this baby.  That's why he lost her to me.",		"player_10":"Some guy named Lando something...",		"npc_10":"Well, if you find the guy that did tell him I'll take on any and all comers, you got it?",		"player_9":"I don't remember.",		"npc_5":"Nice?  Nice?  I can't believe this.  That's what you heard?  My ship is nice?  Who told you that?",		"player_6":"Yeah, I hear it's nice.",		"npc_9":"I make a fair living.  Don't go spreading any rumors, you got me?",		"player_8":"The Kessel run?  Isn't that illegal?",		"npc_8":"Let's just say she's the fastest hunk of junk in the galaxy and leave it at that.",		"player_7":"No, really.  I'd like to hear it.",		"npc_4":"You're kidding.  It made the Kessel run in...ah forget it.",		"player_5":"Millenium Falcon?  Never heard of it.",		"npc_3":"That's right.  The Millenium Falcon.  Of course you already knew that.",		"npc_7":"Not a gangster eh?  Good for you.",		"player_4":"The Hutt?  No way.",		"npc_6":"The Hutt?  Lives on Tatooine?  Nevermind, if you don't know him then, yeah, I'm Han Solo.  Pleased to meet ya.",		"player_3":"Jabba?  Who's that?",		"npc_2":"That depends.  You work for Jabba?",		"player_2":"I hear you've got a nice ship.",		"player_1":"Aren't you Han Solo?",		"npc_1":"Something I can do for you?"
+}}

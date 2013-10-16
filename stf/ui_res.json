@@ -1,21 +1,8 @@
-[
-'19':'help_viewer',
-'18':'cpt_split',
-'17':'help_split_viewer',
-'16':'help_split_slider',
-'15':'help_split_amount',
-'14':'split_amount',
-'13':'help_set_table',
-'12':'help_harvester_access',
-'11':'help_hopper_table',
-'10':'help_hopper_retrieve',
-'9':'help_hopper_dump',
-'8':'help_hopper_contents',
-'7':'help_harvester_resource',
-'6':'help_harvester_rate_spec',
-'5':'help_harvester_rate_actual',
-'4':'help_harvester_on',
-'3':'help_harvester_name',
-'2':'help_harvester_health',
-'1':'help_harvester_capacity',
-]
+{
+	"stfFile":"ui_res",
+	"entries": {
+		"help_viewer":"Use the slider to split resources into different stacks. Additionally, the split amount can be typed in the 'Amount Split' bar.",		"cpt_split":"Split Resources",		"help_split_viewer":"This displays the item being split.
+",		"help_split_slider":"Adjusts the split amount.
+",		"help_split_amount":"Type in the exact split amount.
+",		"split_amount":"Amount to Split",		"help_set_table":"The list of currently available resources, and their efficiency at this location.  A higher efficiency will result in faster harvesting.",		"help_harvester_access":"Open the hopper to retrieve or dump resources.",		"help_hopper_table":"The contents of the hopper.",		"help_hopper_retrieve":"Retrieve resources into your inventory.",		"help_hopper_dump":"Empty out the hopper.  This will DESTROY all the resources currently in the hopper.",		"help_hopper_contents":"The harvested resources available for use.",		"help_harvester_resource":"The selected resource.",		"help_harvester_rate_spec":"The theoretical maximum rate of the harvester.  Harvester health and resource quality will cause the actual rate to be lower.",		"help_harvester_rate_actual":"The actual rate of extraction.  This will depend upon the type and quality of the harvester, as well as the efficiency of the selected resource at the harvester's location.",		"help_harvester_on":"Turn the harvester on.",		"help_harvester_name":"The name of the harvester.",		"help_harvester_health":"How much damage the harvester has taken.",		"help_harvester_capacity":"How much space in the harvester has been used up."
+}}

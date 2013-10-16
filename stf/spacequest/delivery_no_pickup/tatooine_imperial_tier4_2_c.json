@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_rendezvous2_t',
-'18':'quest_rendezvous2_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_dock2_t',
-'14':'quest_dock2_d',
-'13':'hello_d',
-'12':'found_loc_d',
-'11':'failed_destroyed',
-'10':'docking_started_delivery',
-'9':'docking_complete_delivery',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_delivery',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/tatooine_imperial_tier4_2_c",
+	"entries": {
+		"title_d":"Deliver the satellite to the second engineer in the Endor system.",		"title":"Endor System: Sattelite Delivery - Part 2",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_rendezvous2_t":"Travel to the Second Engineer",		"quest_rendezvous2_d":"Travel to the second engineer's arrival location and wait for him to arrive.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"The second engineer will meet you in the Endor system as well.",		"quest_dock2_t":"Transfer the Remaining Satellite",		"quest_dock2_d":"Dock with the engineer and transfer the last satellite to him. Once this is completed return to your commander for further instructions.",		"hello_d":"Good day, pilot. Thanks for dropping these off to me. I will get them set up right away.",		"found_loc_d":"Delivery location sent to your nav computer. Bring the sattelite to the field engineer in that region.",		"failed_destroyed":"You allowed your transfer shuttle to be destroyed? That was an expensive ship. You are going to have to answer to your commander about this failure.",		"docking_started_delivery":"Docking procedure underway. Stand by.",		"docking_complete_delivery":"Ok, we have the sattelite. Good luck, pilot. Your commanding officer requested that you report in.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer: \#pcontrast3 <Enemy fighters eliminated.> \#pcontrast3",		"attack_notify":"\#pcontrast1 Tactical Computer: \#pcontrast3 <Enemy fighters detected.> \#pcontrast3",		"assigned_delayed":"",		"arrived_at_delivery":"Stand by for the field engineer ship's arrival.",		"Quest Log Data":"Text"
+}}

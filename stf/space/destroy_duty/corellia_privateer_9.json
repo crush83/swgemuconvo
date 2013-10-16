@@ -1,27 +1,5 @@
-[
-'25':'taunt_5',
-'24':'taunt_4',
-'23':'taunt_3',
-'22':'taunt_2',
-'21':'taunt_1',
-'20':'targets_behind',
-'19':'targets_detected',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'dd_boss_taunt_5',
-'13':'dd_boss_taunt_4',
-'12':'dd_boss_taunt_3',
-'11':'dd_boss_taunt_2',
-'10':'dd_boss_taunt_1',
-'9':'complete',
-'8':'boss_title_5',
-'7':'boss_title_4',
-'6':'boss_title_3',
-'5':'boss_title_2',
-'4':'boss_title_1',
-'3':'boss_detected',
-'2':'duty_update',
-'1':'title',
-]
+{
+	"stfFile":"space/destroy_duty/corellia_privateer_9",
+	"entries": {
+		"taunt_5":"Time to add another puppet on my kill list!",		"taunt_4":"You should never have come here, now you will never leave.",		"taunt_3":"Your about to learn the foolishness of messing with the Pirates!",		"taunt_2":"You should turn back while you can!",		"taunt_1":"Youre not going to survive this fight!",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"level_increase":"Sensors through out the sectors show increased Pirate activity in response to our attacks.",		"level_boss_dead":"That one has been a dread ever since he came to this sector, great work pilot!",		"level_boss":"Superior Command: < The Pirates have sent one of their best pilots to take care of you, be careful! >",		"found_loc":"The next area of known Pirate activity has been uploaded to your nav computer, proceed when ready.",		"dd_boss_taunt_5":"Your pilot helmet will look good on my trophy rack, fool!",		"dd_boss_taunt_4":"Maybe I should fly using just one hand, to give you a chance?",		"dd_boss_taunt_3":"Too bad you ran in to me so early in your career, as I mark it's end!",		"dd_boss_taunt_2":"To us you're just a anuiance, about to be squashed!",		"dd_boss_taunt_1":"Foolish puppet, you should have run while you had the chance!",		"complete":"Fantastic job pilot! We struck a blow to the Pirates that will take them a long time to recover from. Head back to base when ready.",		"boss_title_5":"Ace Veteran Pirate Pilot",		"boss_title_4":"Furious Veteran Pirate Pilot",		"boss_title_3":"Grim Veteran Pirate Pilot",		"boss_title_2":"Veteran Pirate Pilot",		"boss_title_1":"Experienced Pirate Pilot",		"boss_detected":"Tactical Computer: < Vessel with veteran insignias on attack vector, weapon systems armed. >",		"duty_update":"Superior Command: < %TO >",		"title":"Attack on the Pirates in Dantooine Sector"
+}}

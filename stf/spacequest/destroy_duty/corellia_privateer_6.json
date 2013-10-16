@@ -1,33 +1,5 @@
-[
-'31':'title_d',
-'30':'title',
-'29':'taunt_5',
-'28':'taunt_4',
-'27':'taunt_3',
-'26':'taunt_2',
-'25':'taunt_1',
-'24':'targets_detected',
-'23':'targets_behind',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_destroy_t',
-'19':'quest_destroy_d',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'duty_update',
-'13':'dd_boss_taunt_5',
-'12':'dd_boss_taunt_4',
-'11':'dd_boss_taunt_3',
-'10':'dd_boss_taunt_2',
-'9':'dd_boss_taunt_1',
-'8':'complete',
-'7':'boss_title_5',
-'6':'boss_title_4',
-'5':'boss_title_3',
-'4':'boss_title_2',
-'3':'boss_title_1',
-'2':'boss_detected',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_duty/corellia_privateer_6",
+	"entries": {
+		"title_d":"Hunt Down the Hidden Daggers Leaders",		"title":"Corellia System: Duty: Strike a blow to the Hidden Daggers Leadership.",		"taunt_5":"I have crushed greater things than you CorSec! In fact, I shot a Womprat back on Tatooine last week!",		"taunt_4":"You're fighting a uphill battle CorSec, and the hill just got steeper!",		"taunt_3":"You CorSec always have to interfere, well this time you stuck your nose too deep!",		"taunt_2":"I will shred your ship CorSec fool!",		"taunt_1":"You think you can match the Hidden Daggers? I think not!",		"targets_detected":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Vessels fitting hunted ship profile on attack vector, weapon systems armed. \#pcontrast3 >",		"targets_behind":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees.\#pcontrast3  >",		"quest_location_t":"Corellia System",		"quest_location_d":"Dynamic sorties throughout the Corellia System",		"quest_destroy_t":"Destroy Target",		"quest_destroy_d":"Area of enemy activity",		"level_increase":"The Hidden Daggers are sending more reinforcements in responce to our attacks.",		"level_boss_dead":"Amazing! The Hidden Daggers will not forget this day. Stand by for further orders.",		"level_boss":"\#pcontrast3 CorSec Command: < \#pcontrast1 The Hidden Daggers has sent %TO to bring you down, proceed with caution. \#pcontrast3 >",		"found_loc":"New coordinates of pirate activity has been uploaded to your nav computer. Go get them!",		"duty_update":"CorSec Command: < %TO >",		"dd_boss_taunt_5":"I've never seen those moves from a  CorSec before. No matter, prepare to die!",		"dd_boss_taunt_4":"Your flying skills remind me of a one winged Mynock!",		"dd_boss_taunt_3":"The cat becomes the mouse. The tables are turned, CorSec scum!",		"dd_boss_taunt_2":"Your just another kill mark on my ship, CorSec!",		"dd_boss_taunt_1":"Muahahaha!",		"complete":"Fantastic job pilot, we struck a huge blow to the Hidden Daggers today. Return to base for a well earned rest.",		"boss_title_5":"Quixio the Rotten (Hidden Daggers Captain)",		"boss_title_4":"Owpa Awoz (Hidden Daggers Captain)",		"boss_title_3":"Mori the Bastard (Hidden Daggers Captain)",		"boss_title_2":"Xopw Laow (Hidden Daggers Captain)",		"boss_title_1":"Russ Grimblade (Hidden Daggers Captain)",		"boss_detected":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Vessel with veteran insignias on attack vector, weapon systems armed. \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

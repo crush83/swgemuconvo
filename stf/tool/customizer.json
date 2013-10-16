@@ -1,18 +1,5 @@
-[
-'16':'need_consent_vehicle',
-'15':'vehicle_only',
-'14':'prose_fail_owner',
-'13':'prose_fail',
-'12':'prose_cancelled',
-'11':'prose_complete',
-'10':'prose_complete_owner',
-'9':'prose_cancelled_owner',
-'8':'var_select_prompt',
-'7':'prose_no_customization',
-'6':'no_data',
-'5':'need_consent',
-'4':'droid_pet_only',
-'3':'opt_color_trim',
-'2':'opt_color_frame',
-'1':'mnu_customize',
-]
+{
+	"stfFile":"tool/customizer",
+	"entries": {
+		"need_consent_vehicle":"You require consent to customize another player's vehicle.",		"vehicle_only":"You may only use this tool to customize vehicles.",		"prose_fail_owner":"%TU have failed customization operations on %TT.",		"prose_fail":"You have failed customization operations on %TT.",		"prose_cancelled":"You cancel customization operations for %TT.",		"prose_complete":"You have completed customizations for %TT.",		"prose_complete_owner":"%TU has completed customizing %TT.",		"prose_cancelled_owner":"%TU has cancelled customization operations for %TT",		"var_select_prompt":"Please select the customization action you would like to take.",		"prose_no_customization":"%TT does not have any customization options available.",		"no_data":"The system was unable to load customization data for your target.",		"need_consent":"You require consent to customize another player's droid.",		"droid_pet_only":"You may only use this tool to customize droid pets.",		"opt_color_trim":"Color Trim",		"opt_color_frame":"Color Frame",		"mnu_customize":"Customize"
+}}

@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_rendezvous2_t',
-'18':'quest_rendezvous2_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_dock2_t',
-'14':'quest_dock2_d',
-'13':'hello_d',
-'12':'found_loc_d',
-'11':'failed_destroyed',
-'10':'docking_started_delivery',
-'9':'docking_complete_delivery',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_delivery',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/tatooine_imperial_tier4_1_d",
+	"entries": {
+		"title_d":"Remain in the Endor system and deliver the Rebel plans to a command shuttle. A shuttle will meet you in the Endor system to receive the Rebel plans from you.",		"title":"Endor System: Deliver the Rebel Plans to Command",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_rendezvous2_t":"Meet the Shuttle",		"quest_rendezvous2_d":"Travel to the arrival location of the shuttle and wait for it to arrive.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"The shuttle will meet you in the Endor system.",		"quest_dock2_t":"Transfer the Plans",		"quest_dock2_d":"Dock with the shuttle and transfer the plans to command. Once you have completed this task return to your commander for further instructions.",		"hello_d":"Hello, pilot. We can begin the data transfer whenever you are ready.",		"found_loc_d":"Transfer data to location. A shuttle will meet you there to pick up the data.",		"failed_destroyed":"You allowed your transfer shuttle to be destroyed? That was an expensive ship. You are going to have to answer to your commander about this failure.",		"docking_started_delivery":"Beginning download now. Please stand by.",		"docking_complete_delivery":"Download completed. Nice work pilot. Your superior officer requests that you speak with him.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer: \#pcontrast3 <Enemy fighters eliminated.> \#pcontrast3",		"attack_notify":"\#pcontrast1 Tactical Computer: \#pcontrast3 <Enemy fighters detected.> \#pcontrast3",		"assigned_delayed":"",		"arrived_at_delivery":"Maintain your current position. The command shuttle will be arriving shortly to take the data.",		"Quest Log Data":"Text"
+}}

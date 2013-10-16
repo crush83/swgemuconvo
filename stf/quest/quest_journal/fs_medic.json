@@ -1,14 +1,5 @@
-[
-'12':'combat_healing_d_finish',
-'11':'healing_puzzle_d_finish',
-'10':'combat_healing_n_finish',
-'9':'healing_puzzle_n_finish',
-'8':'healing_puzzle_n_3',
-'7':'healing_puzzle_n_2',
-'6':'healing_puzzle_d',
-'5':'healing_puzzle_n_1',
-'4':'combat_healing_d_2',
-'3':'combat_healing_d_1',
-'2':'combat_healing_n_2',
-'1':'combat_healing_n_1',
-]
+{
+	"stfFile":"quest/quest_journal/fs_medic",
+	"entries": {
+		"combat_healing_d_finish":"You have completed the quest to aid the troops during the defense of the village. You may now talk to Noldan about training in the healing Force sensitive skills.",		"healing_puzzle_d_finish":"You have completed the quest to aid the sick and wounded villagers. You may now talk to Noldan about training in the persuasion Force sensitive skills.",		"combat_healing_n_finish":"Quest Complete",		"healing_puzzle_n_finish":"Quest Complete",		"healing_puzzle_n_3":"Cure the sick (Extra Cures)",		"healing_puzzle_n_2":"Cure the sick (extended)",		"healing_puzzle_d":"You are needed to help cure the sick villagers. Control the medicine through experimentation and use of various qualities of resources. Through multiple applications of the medications, you should be able to cure the symptoms of the sick. The medical droids will help you administer the cures to the patients.",		"healing_puzzle_n_1":"Cure the sick",		"combat_healing_d_2":"Your help is still needed to support the defense of the village. Find any group of defenders and join them, be sure to support them during battle. Complete a total of at least 100 encounters.",		"combat_healing_d_1":"Your help is needed to support the defense of the village. Find any group of defenders and join them, be sure to support them during battle. Complete at least 50 encounters.",		"combat_healing_n_2":"Healing Support (extended)",		"combat_healing_n_1":"Healing Support"
+}}

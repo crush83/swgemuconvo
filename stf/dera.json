@@ -1,54 +1,57 @@
-[
-'57':'dd57',
-'55':'dd55',
-'53':'dd53',
-'52':'dd52',
-'51':'dd51',
-'50':'dd50',
-'49':'dd49',
-'48':'dd48',
-'47':'dd47',
-'45':'dd45',
-'43':'dd43',
-'42':'dd42',
-'41':'dd41',
-'40':'dd40',
-'39':'dd39',
-'38':'dd38',
-'37':'dd37',
-'36':'dd36',
-'35':'dd35',
-'34':'dd34',
-'33':'dd33',
-'32':'dd32',
-'31':'dd31',
-'30':'dd30',
-'29':'dd29',
-'28':'dd28',
-'27':'dd27',
-'26':'dd26',
-'25':'dd25',
-'24':'dd24',
-'23':'dd23',
-'22':'dd22',
-'21':'dd21',
-'20':'dd20',
-'19':'dd19',
-'18':'dd18',
-'17':'dd17',
-'16':'dd16',
-'15':'dd15',
-'14':'dd14',
-'13':'dd13',
-'12':'dd12',
-'10':'dd10',
-'9':'dd9',
-'8':'dd8',
-'7':'dd7',
-'6':'dd6',
-'5':'dd5',
-'4':'dd4',
-'3':'dd3',
-'2':'dd2',
-'1':'dd1',
-]
+{
+	"stfFile":"dera",
+	"entries": {
+		"dd57":"Perfect! I will send this data disc on to the Alliance base. This is going to save lifes, my friend. Now, I?m sure that Jabba does not suspect you as a thief ? so feel free to return to him for further missions. You may learn more important things to help the Rebels. Return to me when you?d like more assignments. I look forward to working with you again.
+",		"dd55":"<Radio Msg.> Great job! You have taken the fleet data! Let's meet again... find me at my family's club in Bestine.
+",		"dd53":"I wish I could help you more. Even with the victory at Yavin, the Alliance has a very long way to go. Stay focused on earning the Hutts' respect and you'll do fine. I'll contact you later on with further instructions. Take care of yourself!
+",		"dd52":"You will need to try harder then. Do what they ask of you... and do your best to make them happy. You may have to do unsavory tasks to maintain your cover but when we have the Imperial fleet data, it will all be worth it. Good luck!
+",		"dd51":"Excellent. You should get back there and press on! I'll send a message to you later on with final instructions. The Force be with you.
+",		"dd50":"Not so good. I could use more help. 
+",		"dd49":"His people don't seem to trust me as much as I'd like them to. 
+",		"dd48":"I am getting closer to him every day. 
+",		"dd47":"It's good to see you again. How are things going with Jabba?
+",		"dd45":"Good you have it. Now take it to Jabba's palace. Go there now, offer your services to them, and I will contact you later on with further instructions.
+",		"dd43":"I can only tell you where to find him. He'll be at <location>. Take him down and grab the item from him. Then take the item to Jabba's palace and offer your services. Once you have worked your way through their ranks, I will contact you again. The Force be with you.
+",		"dd42":"You can find the thief at <location>. I don't know how dangerous he is, but I imagine you can take him down with no trouble. Grab the item from him and take it to Jabba's palace. Once you have worked your way through their ranks, I'll contact you again. Good luck!
+",		"dd41":"What else do you know about the thief? 
+",		"dd40":"Where can I find this thief? 
+",		"dd39":"No. You will need to do something for them first. I know of a thief who escaped the palace with one of Jabba's favorite personal items. If you catch the thief, and return the item to Jabba, they will undoubtedly give you their trust.
+",		"dd38":"To enter the palace, you will need to do something that benefits the Hutts. One of my contacts tells me of a thief who stole a favorite personal item belonging to Jabba. If you were to recover the item, I believe that they will give you their trust and cooperation, well, ask much as you could hope for from a Hutt anyway.
+",		"dd37":"Should I simply go there and offer my services as a criminal? 
+",		"dd36":"How do you expect me to get in to Jabba's palace? 
+",		"dd35":"That should be obvious. We will use the Imperial fleet data to help our craft move through the galaxy undetected. This kind of intelligence data could help us win this war.
+",		"dd34":"Jabba provides the data to his favorite spice smugglers. That way, they can easily avoid tangling with Imperial craft.
+",		"dd33":"I need you to infiltrate Jabba's palace, do whatever tasks are required by him... his hirelings, his major-domo, anything. Just get close and personal with Jabba. When he trusts you enough, you will be allowed to meet with him in his private chambers. Once you reach his chambers, you'll steal the coded Imperial fleet traffic data and return it to me.
+",		"dd32":"How will the fleet-movement data help the Alliance? 
+",		"dd31":"How does Jabba use the data? 
+",		"dd30":"What can I do to help? 
+",		"dd29":"Fine. Bye.
+",		"dd28":"Okay. I'll give you another chance. Good luck.
+",		"dd27":"No. You got me confused with someone else.
+",		"dd26":"Yes. I'm sorry. I want to work for the Alliance. 
+",		"dd25":"You again. Are you here to make up?
+",		"dd24":"I was looking forward to this meeting, but I see that my hopes were too high. You're not the person I once knew. I wish I had the time to find out why you abandoned the Rebellion, but I am too busy. Shut the door behind you when you leave! 
+",		"dd23":"I am glad to see you. We have little time so I will get straight to it. Jabba has bribed many high-ranking officials within the Imperial fleet so that he can acquire fleet-movement data. He uses this data to protect his spice shipments. Of course, this information would be much more useful to the Alliance... it could save millions of lives.
+",		"dd22":"I thank you, and the Alliance thanks you for your valiant efforts. But there is a lot more we still have to do. Please meet me at my family's private club.  Here are the coordinates. We will discuss the next phase of our operation. May the Force be with you!
+",		"dd21":"Excellent!  The Force be with you.
+",		"dd20":"No. I can't help you right now 
+",		"dd19":"Yes. I will take a mission. 
+",		"dd18":"So be it. It's a shame, though. You look like someone who could really make a difference. I hope to speak with you again soon.
+",		"dd17":"My brother is a fighter pilot in the Alliance fleet. He was there during the battle of Yavin 4 when the alliance destroyed the 'Death Star'. I have been coordinating activities here on Tatooine... carrying out all military operations that my people and I can handle. The question is...  what will you do for the Alliance? Will you help us?
+",		"dd16":"Alliance forces are comprised of species from all systems throughout the galaxy. All those who yearn to live in freedom...  all those who oppose the Emperor's tyranny, are now fighting for justice. Are you willing to fight for what you believe in?
+",		"dd15":"The Alliance does not have near enough people to complete all of its objectives. Here on Tatooine there are many things that must be done in order for the Alliance to survive. I have a list of tasks that must be completed. May I assign one to you?
+",		"dd14":"No. I can't help you right now. 
+",		"dd13":"What do you do for the Alliance? 
+",		"dd12":"Can you tell me more about the Alliance?
+",		"dd10":"I thought so. People don't come here for much else. Signing up with the Alliance means a lot of hard work. Are you prepared to undertake some critical, especially dangerous, tasks?
+",		"dd9":"This is my family's estate. Before I was born, my father made a fortune in trade. Although my father could care less, I try to use our family resources to help the Rebel Alliance across the Outer Rim territories. Are you interested in helping, too?
+",		"dd8":"My brother is a pilot with the Alliance. I've never flown a fighter, but still I  work hard to support the rebellion here on Tatooine, and across the Outer Rim territories. Are you interested in aiding us?
+",		"dd7":"I want to join the rebel alliance. 
+",		"dd6":"What is this place? 
+",		"dd5":"What do you know of the rebellion against the Empire? 
+",		"dd4":"A Hutt gangster. How odd it is to see your kind when you're not robbing or killing people. Get back to your bloated master and stay off our property!
+",		"dd3":"If you plan to interrogate me, you will need the proper paperwork. The Darklighters have no use for Imperials, you ignorant sithspawn.
+",		"dd2":"I heard you joined with the Rebellion. So have I. There are many things we can do to help the Alliance... even here on Tatooine. Will you help me?
+",		"dd1":"Hi there. My name is Dera. What can I do for you?
+"
+}}

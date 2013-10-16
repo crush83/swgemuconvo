@@ -1,12 +1,11 @@
-[
-'10':'d_04',
-'9':'s_04',
-'8':'d_00',
-'7':'s_00',
-'6':'d_03',
-'5':'s_03',
-'4':'d_02',
-'3':'s_02',
-'2':'d_01',
-'1':'s_01',
-]
+{
+	"stfFile":"quest/quest_journal/fs_quests_craft1",
+	"entries": {
+		"d_04":"QUEST COMPLETE: You have successfully brought the village sensor array back online. As agreed, Quharek has opened your mind to the possibility of using the Force to enhance your assembly skills.",		"s_04":"QUEST COMPLETE",		"d_00":"The sensor array in the village of Aurilia has been damaged. It must be repaired!",		"s_00":"Repair the sensor array.",		"d_03":"Use the Recursive Analyzer to deconstruct damaged components into a draft schematic, and craft new components. Those draft schematics are limited use, but if you need another after you use one, you can load it from the Analyzer memory.
+
+Once you have a new component, you will need to calibrate it using the Multi-phase calibrator. Be careful though, the calibration process has a detrimental effect on component integrity. 
+
+Once you have correctly calibrated all of the new components, you must replace them into the sensor array to bring it back online.",		"s_03":"Calibrate and replace components.",		"d_02":"Remove any damaged components from the sensor array.
+
+You must find the chief engineer's tools and use them to craft and calibrate new components. Remember that new components must be calibrated correctly before they can be installed into the sensor array.",		"s_02":"Find the chief engineer's workstation.",		"d_01":"You must find the village sensor array and determine the extent of the damage. If there are any non-functional components, you should remove them so new ones can be replaced.",		"s_01":"Find and examine the sensor array."
+}}

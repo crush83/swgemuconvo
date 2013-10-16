@@ -1,22 +1,9 @@
-[
-'41':'help_button_select',
-'40':'help_stats',
-'39':'dont_own_a_ship',
-'38':'godparking',
-'37':'not_parked_here',
-'36':'no_parking_data',
-'35':'fetching',
-'34':'here',
-'33':'condition',
-'32':'parkinglocation',
-'31':'condition_pristine',
-'30':'condition_damaged',
-'29':'condition_engine_demolished',
-'28':'condition_engine_disabled',
-'27':'condition_engine_uninstalled',
-'26':'condition_reactor_demolished',
-'25':'condition_reactor_disabled',
-'24':'condition_reactor_uninstalled',
-'23':'select',
-'22':'cpt',
-]
+{
+	"stfFile":"ui_shipchoose",
+	"entries": {
+		"help_button_select":"Select Button
+
+Use this button to select the associated starship. This will then take you to another page where you can manage ship components, launch into space, or travel to another ground locations.",		"help_stats":"Starship Information
+
+This shows general information about the listed starship.",		"dont_own_a_ship":"You must own a ship to use this terminal.",		"godparking":"God Mode",		"not_parked_here":"Not Parked Here",		"no_parking_data":"Please wait for the ship parking location data to download.",		"fetching":"Fetching...",		"here":"Here",		"condition":"Condition:",		"parkinglocation":"Parked:",		"condition_pristine":"Pristine",		"condition_damaged":"Damaged",		"condition_engine_demolished":"Engine Demolished",		"condition_engine_disabled":"Engine Disabled",		"condition_engine_uninstalled":"No Engine",		"condition_reactor_demolished":"Reactor Demolished",		"condition_reactor_disabled":"Reactor Disabled",		"condition_reactor_uninstalled":"No Reactor",		"select":"Select",		"cpt":"Select Ship"
+}}

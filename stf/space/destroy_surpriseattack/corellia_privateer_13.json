@@ -1,7 +1,5 @@
-[
-'5':'found_loc',
-'4':'complete',
-'3':'duty_update',
-'2':'quest_update',
-'1':'title',
-]
+{
+	"stfFile":"space/destroy_surpriseattack/corellia_privateer_13",
+	"entries": {
+		"found_loc":"Head to new coordinates uploaded to your nav computer.",		"complete":"Good job, pilot. Return to base for your next assignment.",		"duty_update":"Superior Command:",		"quest_update":"Superior Command:",		"title":"Eliminate Tie Interceptors"
+}}

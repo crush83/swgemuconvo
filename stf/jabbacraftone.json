@@ -1,15 +1,18 @@
-[
-'13':'jvc13',
-'12':'jvc12',
-'11':'jvc11',
-'10':'jvc10',
-'9':'jvc9',
-'8':'jvc8',
-'7':'jvc7',
-'6':'jvc6',
-'5':'jvc5',
-'4':'jvc4',
-'3':'jvc3',
-'2':'jvc2',
-'1':'jvc1',
-]
+{
+	"stfFile":"jabbacraftone",
+	"entries": {
+		"jvc13":"I have a friend who specializes in that kind of thing.  I'll get you those axes.
+",		"jvc12":"I'll get on it myself.
+",		"jvc11":"Good.  I need 50 axes for my gammorean guards right away.
+",		"jvc10":"Excellent.  When the axes arrive I will make sure you are rewarded.
+",		"jvc9":"I have a friend who specializes in that kind of thing.  I'll get him to work right away.
+",		"jvc8":"I'll get right on that myself.
+",		"jvc7":"50, for now.  Do you think you can handle acquiring those?
+",		"jvc6":"How many do you need?
+",		"jvc5":"I'll get right on it.
+",		"jvc4":"My gammorean guards have a tendency to break their axes, considering the zealoutry with which they carry out their functions.  I need more of them made as soon as possible.
+",		"jvc3":"Yes, most humble Jabba.
+",		"jvc2":"What kind of supplies?
+",		"jvc1":"I have some supplies that I need manufactured. Are you worthy of doing so?
+"
+}}

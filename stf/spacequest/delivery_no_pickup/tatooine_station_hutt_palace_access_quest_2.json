@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_rendezvous2_t',
-'17':'quest_rendezvous2_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_dock2_t',
-'13':'quest_dock2_d',
-'12':'hello_d',
-'11':'found_loc_d',
-'10':'failed_destroyed',
-'9':'docking_started_delivery',
-'8':'docking_complete_delivery',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_delivery',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/tatooine_station_hutt_palace_access_quest_2",
+	"entries": {
+		"title_d":"Hortrix Steelarm has supposedly moved to the Yavin system. One of the old timer smugglers in the system has a grudge with him and has agreed to supply us with what information he can. We've set up a meeting with the smuggler, head over there quickly and find out what he knows.",		"title":"Yavin system: Following a lead.",		"split_quest_alert_fail":"",		"split_quest_alert":"Valarian Assassin Coordinator: < We only have a few smugglers operating in the Yavin system today and we're fairly sure we know where he's planning to attack. Stand by. >",		"quest_update":"Valarian Assassin Coordinator: < %TO >",		"quest_rendezvous2_t":"Meeting coordinates.",		"quest_rendezvous2_d":"These are the coordinates that the smuggler supplied us with. Hurry over there, smugglers are usually impatient and if you're not on time, he may just leave.",		"quest_location_t":"Yavin system.",		"quest_location_d":"The Yavin system is mostly Imperial territory so try to avoid getting their attention. Also be careful of pirates and aggressive smugglers that like to take the opportunity to attack ships they find out on their own in the system.",		"quest_dock2_t":"Hortrix' ship signature.",		"quest_dock2_d":"The smuggler has seen Hortrix in the Yavin system and his astromech has the ship signature of Hortrix' vessel. Dock with him so he can transfer it to you, it will make it easier for you to track down Hortrix.",		"hello_d":"Hortrix Steelarm? Yeah, that scumbag has been hanging around here lately. Dock with me and I can transfer his ship signature. That should help you find him.",		"found_loc_d":"One of the smugglers in this system knows most of what's going on here and he doesn't like Hortrix, so he should be perfect. We've set up a meeting with him at these coordinates.",		"failed_destroyed":"What in the heck is going on up there pilot? How are we going to find him now? Bah come back when you know what you're doing.",		"docking_started_delivery":"I heard a rumor that he and some friends of his were going to ambush some Valarian smugglers today. I'm not sure where, but your employer should be able to figure that out.",		"docking_complete_delivery":"There you go, that should make it easier to track him down. I hope you find him, that sneaky rat swindled me out of a small fortune a while back.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < No more fighter vessels within sensor range. >",		"attack_notify":"Tactical Computer: < Incoming fighter vessels. Scans show weapons armed. >",		"assigned_delayed":"",		"arrived_at_delivery":"That's the location the smuggler gave us, he should be there shortly."
+}}

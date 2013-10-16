@@ -1,235 +1,522 @@
-[
-'247':'lok_m',
-'246':'lok_l',
-'245':'lok_k',
-'244':'lok_j',
-'243':'lok_i',
-'242':'lok_h',
-'241':'lok_g',
-'240':'yavin4_f',
-'239':'yavin4_e',
-'238':'space_corellia_4',
-'237':'tatooine_k',
-'236':'tatooine_j',
-'235':'tatooine_i',
-'234':'tatooine_h',
-'233':'tatooine_g',
-'232':'yavin4_d',
-'231':'lok_e',
-'230':'lok_f',
-'229':'corellia_f',
-'228':'corellia_e',
-'227':'corellia_d',
-'226':'corellia_c',
-'225':'naboo_i',
-'224':'naboo_h',
-'223':'naboo_g',
-'222':'naboo_f',
-'221':'dath_c',
-'220':'dath_b',
-'219':'dath_a',
-'218':'endor_e',
-'217':'endor_d',
-'216':'endor_c',
-'215':'endor_b',
-'214':'endor_a',
-'213':'dant_i',
-'212':'dant_h',
-'211':'dant_g',
-'210':'dant_f',
-'209':'dant_e',
-'208':'dant_d',
-'207':'dant_c',
-'206':'dant_b',
-'205':'dant_a',
-'204':'yavin4_c',
-'203':'yavin4_b',
-'202':'yavin4_a',
-'201':'lok_d',
-'200':'lok_c',
-'199':'lok_b',
-'198':'lok_a',
-'197':'naboo_e',
-'196':'corellia_b',
-'195':'corellia_a',
-'194':'naboo_d',
-'193':'racingmosespa',
-'192':'racingkeren',
-'191':'racingagrilat',
-'190':'shadowofalliance',
-'189':'smugglers',
-'188':'darkforce',
-'187':'heartofdathomir',
-'186':'tatooine_destroyed_reb',
-'185':'tatooine_iron_planet',
-'184':'naboo_destroyed_station',
-'183':'naboo_iron_planet',
-'182':'naboo_medium_iron',
-'181':'hvy_rebel_station',
-'180':'destroyed_imp_station',
-'179':'corellia_iron_planet',
-'178':'dant_iron_planet',
-'177':'dant_mammoth_ast_field',
-'176':'dant_iron_ast_field2',
-'175':'dant_iron_ast_field',
-'174':'battlefield_neutral',
-'173':'battlefield_rebel',
-'172':'battlefield_imperial',
-'171':'station_yavin4',
-'170':'station_tatooine',
-'169':'station_talus',
-'168':'station_rori',
-'167':'station_naboo',
-'166':'station_lok',
-'165':'station_endor',
-'164':'station_dathomir',
-'163':'station_dantooine',
-'162':'station_corellia',
-'161':'censorious',
-'160':'greatmaze',
-'159':'droidcave',
-'158':'bloodrazor',
-'157':'canyoncosair',
-'156':'kimogilatown',
-'155':'kimogilaskel',
-'154':'lokimpoutpost',
-'153':'volcano',
-'152':'swamptown',
-'151':'barkmite',
-'150':'poacher',
-'149':'tortoncave',
-'148':'cobral',
-'147':'borglebat',
-'146':'garyn',
-'145':'hyperdrive',
-'144':'impencampment',
-'143':'kobala',
-'142':'reboutpost',
-'141':'binyare',
-'140':'decaymite',
-'139':'khamurrabio',
-'138':'aakuan',
-'137':'erransif',
-'136':'flynock',
-'135':'corvsflail',
-'134':'detainment',
-'133':'weapondepot',
-'132':'aqualishcave',
-'131':'impvsreb',
-'130':'creaturevillage',
-'129':'impoutpost',
-'128':'massassi',
-'127':'exarkun',
-'126':'blueleaf',
-'125':'woolamander',
-'124':'jinda',
-'123':'orphan',
-'122':'korga',
-'121':'marauder',
-'120':'dulok2',
-'119':'dulok1',
-'118':'lake2',
-'117':'lake1',
-'116':'tree2',
-'115':'tree1',
-'114':'warren',
-'113':'kunga',
-'112':'mokk',
-'111':'janta',
-'110':'crystalhunter',
-'109':'jeditemple',
-'108':'abandoned',
-'107':'dantari3',
-'106':'dantari2',
-'105':'dantari1',
-'104':'slavecampe',
-'103':'nightspider',
-'102':'nightvssing',
-'101':'singing',
-'100':'nightsister',
-'99':'tarpit',
-'98':'mistyfalls',
-'97':'dathpod',
-'96':'lessersarlacc',
-'95':'prison',
-'94':'afarathu',
-'93':'stronghold',
-'92':'nyax',
-'91':'drall',
-'90':'agrilat',
-'89':'crystalfountain',
-'88':'grandtheater',
-'87':'corsecbase',
-'86':'hideout',
-'85':'mauler',
-'84':'narglatch',
-'83':'weaponfacility',
-'82':'mordran',
-'81':'impvsgun',
-'80':'amidalasbeach',
-'79':'deejafalls',
-'78':'theedfalls',
-'77':'gungan',
-'76':'skeleton',
-'75':'pod',
-'74':'sarlacc',
-'73':'kenobishouse',
-'72':'larshomestead',
-'71':'kraytgraveyard',
-'70':'jawatraders',
-'69':'darklighter',
-'68':'forttusken',
-'67':'jabbaspalace',
-'62':'danthomir_station_0',
-'61':'dantoone_station_0',
-'60':'lok_station_0',
-'49':'space_light1_3',
-'48':'space_light1_2',
-'47':'space_light1_1',
-'46':'space_light1_0',
-'45':'space_heavy1_3',
-'44':'space_heavy1_2',
-'43':'space_heavy1_1',
-'42':'space_heavy1_0',
-'41':'space_endor_3',
-'40':'space_endor_2',
-'39':'space_endor_1',
-'38':'space_endor_0',
-'37':'space_yavin4_3',
-'36':'space_yavin4_2',
-'35':'space_yavin4_1',
-'34':'space_yavin4_0',
-'33':'space_dathomir_3',
-'32':'space_dathomir_2',
-'31':'space_dathomir_1',
-'30':'space_dathomir_0',
-'29':'space_dantooine_3',
-'28':'space_dantooine_2',
-'27':'space_dantooine_1',
-'26':'space_dantooine_0',
-'25':'space_lok_3',
-'24':'space_lok_2',
-'23':'space_lok_1',
-'22':'space_lok_0',
-'21':'space_tatooine_3',
-'20':'space_tatooine_2',
-'19':'space_tatooine_1',
-'18':'space_tatooine_0',
-'17':'space_naboo_3',
-'16':'space_naboo_2',
-'15':'space_naboo_1',
-'14':'space_naboo_0',
-'13':'space_corellia_3',
-'12':'space_corellia_2',
-'11':'space_corellia_1',
-'10':'space_corellia_0',
-'9':'naboo_c',
-'8':'naboo_b',
-'7':'naboo_a',
-'6':'tatooine_f',
-'5':'tatooine_e',
-'4':'tatooine_d',
-'3':'tatooine_c',
-'2':'tatooine_b',
-'1':'tatooine_a',
-]
+{
+	"stfFile":"clientpoi_d",
+	"entries": {
+		"lok_m":"Mercenaries' Ridge
+
+Mercenaries' Ridge serves as Lok's most popular hyperspace jump from the outer planets to the serenity of Lok's space system. Only authorized persons with approved papers signed by an imperial officer can jump here with ease. Unfortunately, most smugglers and thieves traveling through here possess conterfeit papers and, with the Empire dealing with Nym, no one is the wiser.",		"lok_l":"Solar Phoenix 2
+
+The Solar Phoenix 2 is a hotspot for dogfights and deadly activity, serving as the Empire's point of operations against Nym and his band of loyal thugs.  It is imperative to use caution when careening through the area. You may find yourself sitting in dead space and the 'eject' button within finger's reach.
+
+",		"lok_k":"Bloodlight Sea
+
+The Bloodlight Sea belongs undisputedly to Nym and his local band of loyal thugs. Until recently, the Bloodlight Sea was often a place for business, a point often visited by an assortment of hagglers and thieves. Now, it is the main centerpoint for the war between the Empire and Nym's vicious allies. Unless you favor being space dust, it is recommended to stay clear of the area.",		"lok_j":"Corsairian Crescent
+
+Away from the war that seems to have plagued Lok's system, the Corsairs tend to themselves, keeping as quiet occupants in Lok's inner reaches. It is rumored that the Corsairs may clamour into their own dogfights with the locals, hoping to collect the loot war often generates. Otherwise undescript, the Corsairian Crescent proves to be a territory in which only the brave travel.",		"lok_i":"Trade Federation Center
+
+The Trade Federation has set up a research center in the outer reaches of Lok's system. Recruiting the help of others, it is the hope of the Trade Federation to collect segments of the Spine of Lok, studying the obsidian rocks to provide information to various allies about possible sales... and alliances. However, several spies have discovered that the Trade Federation has been conducting secret experiments away from the eyes of the Empire and potential enemies.",		"lok_h":"Umber Scale
+
+The Kimogila Fanatics prefered the name 'Umbra Scale' for the territory they conquered not long ago, stealing it away from the Blood Razors and pushing them back to the other side of the Spine of Lok. Unfortunately, the once-peaceful space system of Lok is now riddled with war, often preventing civilians and freighters easy passage through unharmed. A dark cloud of war suffocates Lok's serene system and there is no telling when it will dissipate.",		"lok_g":"Crimson Talon
+
+An old visitor to Lok's space system, the Blood Razors inhabit the Crimson Talon territory, only venturing out from their outpost to sabotage the expansion efforts by the Kimogila Fanatics. The war between these two pirate faction remains a very near danger to those wishing to travel through the area. Pitched on either side of the Spine of Lok, the Kimogila Fanatics and the Blood Razors often meet in the middle to engage in a dogfight.",		"yavin4_f":"Lodestar Utopia
+
+A simple mining station, harboring peacekeeping individuals who gather together in essence to keep the peace in Yavin 4's system and serve as a shining example to those looking upon them. Although armed with advanced weapon systems, the many factions living within the Lodestar Utopia thrive to keep their pilots' fingers off the trigger. Sometimes, gentle ideals must be ignored..",		"yavin4_e":"Nova 3
+
+The Nova 3, a long-time destroyed Rebel space station, rots in Yavin 4's war-ridden system, surrounded by Imperial defenders stricken to extinguish both the Rebellion and the Ni`lyahin Smugglers from existence. Unfortunately, the area lies in ruin, heavy fire from all sides splitting ship and asteroid alike.",		"space_corellia_4":"Quadrant V: Talus Secta
+
+Inhabitants: the Empire and the Rebellion
+Danger Level: HIGH
+
+Distance to Corellia Space Station: 10836m
+Distance to Talus Space Station: 4642m
+
+Closest hyperspace point to the Talus Space Station, the Talus Secta point is incredibly dangerous. The Empire, in attempt to catch traveling Rebel sympathizers off-gaurd, keep a vigil standpoint very close by. Learning the Empire's vile deeds, the Rebel Alliance has stationed guards next to the Talus Secta, hoping to fight off the Empire and make travel safe for Rebel allies. The ongoing war between the two factions makes traveling to the Talus Secta dangerous for both Rebel and Empire allies alike.",		"tatooine_k":"Pirate's (Muon) Gold
+
+The Bestine Pirates love their Muon Gold. In fact, the pirates named the area in which they dwell after the potent spice. Remarkably enough, the Bestine Pirates still fire with amazing accuracy and lethality, so much so that all who travel through the area are wise enough to keep their computer systems alert and weapons armed.",		"tatooine_j":"Black Venom Sea
+
+The potent thug faction, the Black Suns, course through the veins of the Black Venom Sea, dominating the area with heavy laser fire and lethal missles . Currently, the Black Suns hide behind Tatooine's shadow, waiting for the perfect time to strike with deadly precision and claim Tatooine's system as their own.
+
+",		"tatooine_i":"Station-Star 1
+
+The original landing station, named "Station-Star 1", was the first direct pipeline connecting planet Tatooine to its space system. Due to the raging war between the Hutts and the Valarians, Station-Star 1 was destroyed, having been the target for both thug factions. It was sound reasoning that whoever owned the landing station owned the planet. Station-Star 1 now lies in ruins at the site of continual battle between the Hutts and the Valarians.",		"tatooine_h":"Dragon's Spine
+
+The Dragon's Spine, one of the oldest asteroid fields in space Tatooine, snakes across the vast expanse of space and serves as a centerpoint of navigation for many explorers. However, wise travellers have steared clear from the Dragon's Spine as of late. Lady Valarian and her thugs have taken to the massive asteroid field, destroying all "unauthorized" vessels and have consquently taken it over completely. In the eyes of the Hutts, Lady Valarian and her thugs have over-stepped their bounds which has resulted in a war between the two thug factions. Even the Empire has ordered their fleets to stay clear from the Spine and the war that rages within it.",		"tatooine_g":"Valarian Sun
+
+Nestled snuggly behind the Dragon's Spine asteroid field, the area called "Valarian Sun" serves as Lady Valarian's point of space operations. "Valarian Sun" is led by her most powerful thugs, relentless killers hoping to take over the Dragon's Spine entirely in honor of the gang.",		"yavin4_d":"Nebulon 7
+
+Named after the Nebulon 7, the Rebel territory in Yavin4's space is highly saturated with YKL-37Rs, what the Rebels fondly call the "Nova Courier". Little else is known about the area, secrets which the Rebel Alliance hold dear.",		"lok_e":"The Canyon
+
+The Canyon embodies the home of the Corsair thug faction, an unmerciless band of hooligans promising to wreck havoc on any passing civilian or vessel. Ruthless, it is not uncommon to see a Corsair looting its latest victim and speeding off to find another.",		"lok_f":"Mid-Point
+
+Simply named "Mid-Point", the area serves as a three-way route for the Rebellion, Nym's thugs and the Empire. Unfortunately, Mid-Point is often the best place to witness dogfights and near-death misses.",		"corellia_f":"Secure Route ID-5N
+
+Route ID-5N, additionally named the "New Route", is policed by the highly-skilled CorSec, planet Corellia's own police force. Running from both of Corellia and Talus' space stations, Route ID-5N provides quick, safe travel for everyone.",		"corellia_e":"The Void
+
+Dual pirate factions, the Hidden Daggers and the Hutts, patrol the Void, seeking solitary freighters and civilians to destroy and loot. The origin of the name and why the Hidden Daggers and Hutt choose to be at war remains a mystery even today.",		"corellia_d":"Rubicund Eye
+
+The Black Sun terrorize the Rubicund Eye with swift maneuverability and hard-hitting missiles. Most choose to stay away from the Rubicund Eye, fearing that the Black Sun will descend upon them like a suffocating blanket of ash. It would be unwise to travel here alone.",		"corellia_c":"Rayless Lantern
+
+Belonging to the Binayre thugs, the Rayless Lantern manifests a foreboding aura, an essence created by the thieves and assassins living within it. The Binayre do not welcome visitors and abhor oppression and threats from their favored enemies, the CorSec.",		"naboo_i":"Sovereignty Dawn
+
+Naboo's own police, the Royal Security Forces, found their place in the Sovereignty Dawn territory, procreating an outpost to support their peacekeeping efforts. Usually friendly, the Royal Security Forces are glad to lend a helping hand when in need.",		"naboo_h":"Nal ReulTta
+
+Reminiscent of their homeworld Nal Hutta, the Borvo Clan sought to claim a small portion of Naboo's Space, a place that was eventually to be called "Nal ReulTta". Borvo and his thugs found victory soon thereafter, sprouting a small outpost and guarding it from the meddlesome Empire with skill and bravery. The outpost stands there even today and is heavily guarded by Borvo's thugs.",		"naboo_g":"Adamant Mass
+
+A particularly large asteroid, the Adamant Mass is the center-point of the Ironfleck Marauders expeditions. The planetoid, often nicknamed "Naboo's Third Planet", is rumored to harbor a pocket of valuable, high density resources in its center. The Ironfleck Marauders have been chipping away at the Adaman Mass for years and have yet to make any progress.",		"naboo_f":"Scintilla Steel
+
+The iron asteroid field, named Scintilla Steel, serves as a home to hostile droids, the Scintilla Scavengers. Although malicious, the Scintilla Scavengers keep to themselves and mine the Scintilla Steel asteroid field in peace. Approaching freighters and vessels are, however, attacked on sight and are devoured within moments.",		"dath_c":"Witch Blood Territory
+
+In the heart of the Witch Blood Territory festers a group of skilled assassins and thugs. The Witch Blood Clan chooses their victims carefully and it seems that no one is safe from their well-equipped starships and superior maneuvering skills. Travellers would do well in keeping all computer systems alert when traveling through this territory.",		"dath_b":"Empire's Station II
+
+The Imperial forces present in Dathomir Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"dath_a":"Empire's Station I
+
+The Imperial forces present in Dathomir Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"endor_e":"Onyx Beacon
+
+Home to the Blacklight Pirates, the Onyx Beacon serves as an origin for "seedy" business. Little else is known about the Onyx Beacon as it is jealously guarded by its inhabitants.",		"endor_d":"Declorian Territory
+
+Zynt`aia Spice Guardians terrorize the Declorian Territory with a fierce fist. Often times, unless business is mentioned, the Spice Guardians are not open to having visitors.",		"endor_c":"Linear Miasma
+
+Frequented by the Linear Miasma Scientists, the nebula provides a wealth of information and research for the lone band, belonging to the Endorian Researchers Guild. The scientists prove to be a friendly bunch time and time again despite the presence of the Spice Pirates, the Zynt`aia Spice Guardians, of whom reside nearby.",		"endor_b":"Empire's Station II
+
+The Imperial forces present in Endor Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"endor_a":"Empire's Station I
+
+The Imperial forces present in Endor Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"dant_i":"Ebon Essentia
+
+Ebon Essentia, also known as Area E-2, is consumed in a war between the Force Assassins and the Warrens Assault Squad. It is unknown why the two factions continue to war against each other or why it all started. Unless heavily-armed, it is imperative that travellers avoid Area E-2 as decreed by Imperial Law. The Empire chooses to look the other way, it seems, and locals are beginning to wonder why..",		"dant_h":"Sserician Eclipse
+
+Valarian thugs plague the Sserician Eclipse with undaunted ferocity, daring even the Empire to react. It is common to see dogfights brewing among the Empire and Valarians with the remnants of a Rebel Station in the midst. As Dantooine's more dangerous territories, the Sserician Eclipse is an area to be feared and avoided.",		"dant_g":"Area D-502
+
+Area D-502 serves as Dantooine's "safest" territories. Home to the D-502 Aii`tkian Anthropologists and the O.S.S. D-502 Junk Guild, one can travel here and expect to be left alone. Both the Junk Dealers and the Anthropologists are friendly and never hesitate to lend a helpful hand.",		"dant_f":"Ith'ril Eventide
+
+Area D-504 was immediately changed to "Ith'ril Eventide" when he himself, Ith'ril Eventide, leader of the Zel`iphian Slave Traders, came into power. It is wise not to travel to Area D-504 unless under dire circumstances.. or business. It has been made apparant that the Zel`iphian Slave Traders do not appreciate visitors.",		"dant_e":"Legacy YT Indigo Blue
+
+The Rebel Alliance invested their pride into their oldest surviving space station, the Legacy YT Indigo Blue. However, the pride soon turned into horror as the Empire dared to move into Dantooine's native space and "remove" all who opposed them. Their first target: the Legacy YT Indigo Blue. Crushing the Rebellions origin in Dantooine space, they soon turned to other targets, breaking and converting them or out-right eliminating the "rebel sympathizers". All that is left are the remnants of the Legacy YT Indigo Blue, a spot which has become the center-point of Dantooine's traffic.",		"dant_d":"Empire's Station II
+
+The Imperial forces present in Dantooine Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"dant_c":"Empire's Station I
+
+The Imperial forces present in Dantooine Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"dant_b":"Alliance Station II
+
+The Rebel forces present in Dantooine Space have opened its station to members of the Alliance, wishing to declare themselves for the greater good of the fight against the Empire.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Rebel Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"dant_a":"Alliance Station I
+
+The Rebel forces present in Dantooine Space have opened its station to members of the Alliance, wishing to declare themselves for the greater good of the fight against the Empire.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Rebel Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"yavin4_c":"Empire's Station III
+
+The Imperial forces present in Naboo Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"yavin4_b":"Empire's Station II
+
+The Imperial forces present in Naboo Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"yavin4_a":"Empire's Station I
+
+The Imperial forces present in Naboo Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"lok_d":"Censorious Tempest
+
+The Censorious Tempest Nebula lies in the outermost reaches of Lok's System. The constant presence of the nearby asteroid field causes frequent electrical outbursts for which the Censorious Temptest earns its name.",		"lok_c":"Spine of Lok
+
+Made out of obsidian rock, the Spine of Lok stretches across the vast, dark haze of Lok's often-quiet space. Miners have yet to venture here to find what exactly the obsidian rock holds in regards to resources and lucrative sales.
+
+",		"lok_b":"Empire's Station
+
+The Imperial forces present in Lok Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"lok_a":"Alliance Station
+
+The Rebel forces present in Lok Space have opened its station to members of the Alliance, wishing to declare themselves for the greater good of the fight against the Empire.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Rebel Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"naboo_e":"Rebellion Remnants
+
+Poetically named by Sonal Serore, an Imperial artisan, the Rebel Station was once a prominent home to the Rebel Alliance. Now, it only remains as a momument to the glory of the Empire and the undeniable strength and might they possess. Rumor has it that the Alliance has returned to its once-home. Could it be that they hope to prosper once again in Naboo's Empire-controlled space?
+
+",		"corellia_b":"Alliance Station II
+
+The Rebel forces present in Corellia Space have opened its station to members of the Alliance, wishing to declare themselves for the greater good of the fight against the Empire.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Rebel Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"corellia_a":"Alliance Station I
+
+The Rebel forces present in Corellia Space have opened its station to members of the Alliance, wishing to declare themselves for the greater good of the fight against the Empire.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Rebel Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"naboo_d":"Empire's Station
+
+The Imperial forces present in Naboo Space have opened its station to members of the Empire, wishing to declare themselves for the greater good of the fight against the Rebellion.
+
+Instructions
+
+To declare in open Player vs Player (PvP), approach the Imperial Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"racingmosespa":"The series was formed and controlled by the Hutts many years ago. Following the decline of podracing's popularity, this track was more or less abandoned by the Hutts. It was eventually taken over by a small band of swoop racers, who used it to stage a regular series of semi-legitimate races during the early years of the New Republic.",		"racingkeren":"This circuit will take you winding through the narrow bridges and streets of Keren and it is favored by the more technically minded racer. Focusing more on finesse then it does raw speed this course will definately challenge your racing skills. Due to the danger street racing poses to pedestrians, the RSF does not approve of this activity so participation is at your own risk.",		"racingagrilat":"This dangerous course was used for illegal races many years ago. Hot springs, deadly updrafts and sharp crystalline underbrush make it a particularly hazardous course. Until recently, there haven't been many races since the near-death of a swoop jockey named Dengar. If memory serves, it was a very exciting match between him and someone called Solo.",		"shadowofalliance":"Shadow of the Alliance
+
+The Shadow of the Alliance provides the Resistance with a cloak of tumultuous energy. Struggling to survive, the Rebels hide in the Shadow of the Alliance nebula in hopes of dodging the attacks launched by the Empire. Thankfully, all of the Empire's efforts seem to be focused on the Ni`lyahin Smugglers. It seems as if the Emperor and his fleets are too distracted to deal with the nuisance of the Alliance... for now.",		"smugglers":"Ferrous Aurora Nebula
+
+The Ferrous Aurora Nebula, named by the Ni`lyahin Smugglers, is home to the hostile band of theives and assassins. Apart from the dazzling colors, the areas surrounding the nebula prove to be dangerous as a war brews just beyond its brink. The nebula's inhabitants originate from Yavin4, having gained space travel later than most and only by stealing technology. Currently, they own half of Yavin4's space quadrants, successfully destroying large parts of the Empire's defenses and holding fast with their own brutal forces.",		"darkforce":"Dark Force Nebula
+
+Base of its operations, the Empire chose the Dark Force nebula for its sense of concealment, protected by mighty fields of asteroids. Individuals seeking aide of the Empire are welcome here. For those who are considered enemies of the Emperor and his ideals, it would be wise to stay far away.",		"heartofdathomir":"Heart of Dathomir
+
+The locals call it the "Heart of Dathomir". Even from a distance, the palpitating gasses of the nebula itself seem to have a mind of its own. No one ventures near this infamous, dark cloud. Too many have tried and have never returned. It is rumored that quick-killing assassins swarm within this bloody miasma, waiting for their next victim. Molten rocks, infused with the rage of many lost souls, and red energy spill from the nebula, warning all to steer clear.",		"tatooine_destroyed_reb":"Rebel Ruins
+
+Lying in ruins, the once-prominant Rebel Space Station was the base of operations for most Alliance activity in the Tatooine System. It was only then, at the height of glory of the Alliance, did the Empire suffocate any hope of survival. Only a carcass of the Rebel Space Station remains and, floating around it, memories of war in the form of TIE and X-Wing debris.",		"tatooine_iron_planet":"Iron Planet
+
+The material of this "Iron Planet" is starkly different than the neighboring asteroids in areas circumventing the Traders' Grotto. It is unknown whether or not it will help against squelching the high resource demands from planet Tatooine. Only time will tell.",		"naboo_destroyed_station":"Trade Federation Hulk
+
+This heap of debris stands as a reminder of Naboo's ancient battle against the forces of greed, and a monument to the Royal Security Forces prowess in starfighter combat. Even still, rare members of the Trade Federation still live at the site and are often left alone.",		"naboo_iron_planet":"This planetoid serves as a rallying point for Naboo traders of all types... and the pirates that attempt to prey on them under the Empire's very nose.",		"naboo_medium_iron":"Arrissa's Field
+
+Named after the pirate Arrissa n'Osnyi, the iron asteroid field holds testament to many pirate victories. Hiding within the field, and covered by the Obligon Nebula, pirates were successful in ambushing passing freighters. Needless to say, the old trade route through this area has been vacated for years. Now, it is frequented by Imperial influence in hopes of keeping pirates out of the area for good.",		"hvy_rebel_station":"This space station has thus far been tolerated within the Corellia system, but there's no question that should it draw the might of the Empire to the system, Corellia's own forces would maintain their neutrality and do nothing to defend it.",		"destroyed_imp_station":"This destroyed station must be an annoying reminder to any Imperial passing through the system that Corellia is not entirely under Imperial Control.",		"corellia_iron_planet":"Pirate's Shadow
+
+The Pirate's Shadow, an asteroid field named after the cover it brings to attacking holligans, serves as a rallying point for smugglers, pirates and ne'er-do-wells dodging CorSec patrols.",		"dant_iron_planet":"Dantooine's Second Star
+
+Nestled in the Ferionic Nebula, the iron planetoid, nicknamed "Dantooine's Second Star", is home to the Velocity Mercenaries. Little is known about this small band of thugs. Mostly, they kept to themselves.. until the Empire moved into the area. Now, the Velocity Mercenaries launch continous attacks against the Empire, hoping to drive them out of Area Ferionic 7-IK.",		"dant_mammoth_ast_field":"Wall of Dantooine
+
+Stretching as far as the eye can see, the Wall of Dantooine is a necessary landmark to any roving traveller. Local miners speculate the obsidian asteroids may be worth a pretty credit or two.",		"dant_iron_ast_field2":"Area D-7s1
+
+Native to Area D-7s1 are droid scavengers, the Detritus Satellites. For the most part, the Detritus Satellites keep to themselves, building their makeshift outpost with old scraps collected from the nearby junk field. Electrical currents power the outpost and provide fellow droids with repairs and shelter.",		"dant_iron_ast_field":"Blacklight Territory
+
+This is as dangerous a region of space as any, with the asteroids providing cover for the pirates and criminals seeking to escape Imperial Justice.",		"battlefield_neutral":"Last Nav Station (Deep Space)
+
+Faction: Neutral
+
+The old Pilot's Guild was once the authority in all matters of space travel, but since it has been disbanded by order of the Emperor, the only space station maintained by former Pilot's guild members is this lone station on the edge of space.
+
+Instructions
+
+To travel to Deep Space (PvP), approach the Last Nav Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"battlefield_rebel":"Deep Space Station
+
+Faction: Rebel
+
+The Rebel Alliance has discovered a hyperspace route to an area of Deep Space.  Only the most skillful and prestigious pilots can be trusted with the knowledge that the Rebel Alliance has constructed a base in Deep Space.
+
+Instructions
+
+To travel to Deep Space (PvP), approach the Deep Space Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"battlefield_imperial":"Imperial Claw Station (Deep Space)
+
+Faction: Imperial
+
+This Imperial Station can grant access to a hyperspace route to deep space.  The route is highly classified, however, and the Empire will allow only the most advanced, prestigious pilots to enter Deep Space.
+
+Instructions
+
+To travel to Deep Space (PvP), approach the Imperial Claw Station and target it with the 'c'. Proceed to then communicate with the station, by typing /comm in spatial chat.",		"station_yavin4":"Serving the outposts on this hostile jungle planet, the space station will provide emergency repairs to get you on your way, or clear you for landing at any of the outposts on Yavin4.",		"station_tatooine":"The space station at Tatooine isn't the friendliest one in the galaxy, but for the right price they can be persuaded to provide emergency repairs.  The station is notorious for clearing anyone to land at any of Tatooine's starports without even the most basic security protocols in place.",		"station_talus":"The Space Station at Talus can provide you with emergency repairs or clear you to land at any of Talus' starports.",		"station_rori":"Serving Naboo's most popular moon, Rori, this space station can provide travellers with emergency repairs or permission to land at any of Rori's starports.",		"station_naboo":"Home of the Royal Security Forces, the space station can provide emergency repairs or clear travellers to land at any of Naboo's star ports.",		"station_lok":"The space station on Lok can provide emergency repairs or clear you to land at Nym's Stronghold on the planet.",		"station_endor":"Serving the Imperial Research Station on Endor, this space station can provide emergency repairs or clear you for landing on the planet.",		"station_dathomir":"The Station at Dathomir will require Imperial authorization codes before providing emergency repairs or clearing you for landing at any of Dathomir's outposts, but the station is so remote their codes are rarely updated.",		"station_dantooine":"Dantooine is a remote planet with a small primitive native population.  This space station can provide emergency repairs for a service, or clear you for landing at any of Dantooine's outposts.",		"station_corellia":"Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.",		"censorious":"Censorious Tempest
+
+The Censorious Tempest Nebula lies in the outermost reaches of Lok's System. The constant presence of the nearby asteroid field causes frequent electrical outbursts for which the Censorious Temptest earns its name.",		"greatmaze":"The maze was built long ago by a visiting noble on a hunting expedition.",		"droidcave":"Lok is not only home to any number of pirate clans, but it is also a place where lawless experiments can be conducted without recourse. A droid engineer has taken over this cave to continue his experiments that he was not allowed to conduct on any of the more civilized worlds.",		"bloodrazor":"A crash site for one of the Blood Razor's ships.",		"canyoncosair":"The stronghold of the Canyon Corsair's pirate clan.",		"kimogilatown":"Pirates on Lok sold settlers a piece of land that they claimed was prime real estate. Unfortunately they are on lands infested with Kimogila who found that the townsfolk are an excellent source for food.",		"kimogilaskel":"The sun bleached bones of one of the great Kimogila lizards of Lok.",		"lokimpoutpost":"The Imperials feeling the need to extend their reach into the less developed worlds have built a massive stronghold on Lok.",		"volcano":"Lok has always been known has a fiery world and no place on the planet better suits that description better then this massive volcano.",		"swamptown":"The Rorigungan commander Captain Hassek has declared that if the Gungan people are to survive they must repel all foreigners from their worlds. His base of operations, which is located deep within the swamps of Rori, is protected by his most loyal of followers.",		"barkmite":"Giant Bark Mites have discovered a natural cave that is damp and warm making it a perfect nursery for their brood. Normally docile herbivores, these insects can become very dangerous when protecting their lair.",		"poacher":"On the black market, pelts of Rori creatures fetch handsome sums. Poachers are a common problem on the swampy world usually wrecking havoc with entire ecosystems. But sometimes even these skilled hunters pick the wrong critters to go after.",		"tortoncave":"The galaxy holds many numbers of oddities. The pygmy tortons that dwell within this cave are certainly amongst the strangest.",		"cobral":"The Cobral space pirates plan many of their crimes from within their fortified bunker.",		"borglebat":"This deep natural crevasse is home to an extraodinary number of Borgle Bats.",		"garyn":"The Garyn Raider's mountain stronghold is home to some of the most nefarious pirates on Rori.",		"hyperdrive":"This facility is home to some of the top hyperdrive research in the galaxy. Both the Imperial and Rebellion struggle to control this valuable resource.",		"impencampment":"A fortified Imperial stronghold that has been site for many conflicts between the Rebellion and the Empire in an attempt to control this important strategic location.",		"kobala":"This cave is home to the Kobola Spice Mine. Spice is a dangerous business and it takes dangerous people to guard their harvest.",		"reboutpost":"On worlds that are firmly under the iron fist of the Empire, the Alliance has managed to place small but effective units and bases.",		"binyare":"The Binyare Pirates have long operated from their stronghold on Talus.",		"decaymite":"Deep within Talus decay mites have managed to grow to immense size. Scientists believe that there is something in the rock of the cave that has triggered these strange changes within the insects.",		"khamurrabio":"This public research facility was under taking a unique bio-genetic experiment on making stronger and faster kahmurra. Unfortunately no one has heard form the scientists working there since.",		"aakuan":"The Aakuan clan sit within their cave plotting their next highly illegal activity.",		"erransif":"Wanted by both the Empire and Rebellion, Erran Sif has held herself up within her bunker with only her most trusted associates.",		"flynock":"Fynocks and their distant relatives are a common nuisance. A recent find of a natural cave has revealed a huge flock of these pests dwelling within.",		"corvsflail":"The Corsec is always watchful for the criminal element on their worlds. A tip has led a squad to a Flail hideout.",		"detainment":"Once an Imperial holding area for political prisoners this base was captured by the Rebellion. Since then the two sides have been battling over control of this institute.",		"weapondepot":"This facility contains a large cache of weapons that both the Empire and Rebellion have been trying to get control of for some time.",		"aqualishcave":"An aqualish war party that got lost in the wilderness of Talus managed to find a natural cave. They discovered that the cave was the perfect staging ground for their raids and took up permanent residence.",		"impvsreb":"On worlds where the Empire only has a tenuous grasp at best, it is quite common for there to be pitched battles between Imperial and Rebel forces.",		"creaturevillage":"This village was once a growing settlement but was overtaken by the wilds of Talus. Now it is shelter for wild creatures of all sorts.",		"impoutpost":"It is well known that planets in the Corellian sector are sympathetic towards the cause of the Rebel Alliance. The Empire has placed well maintained fortified garrisons on these worlds to attempt to quelch any uprising before it can take place.",		"massassi":"The Great Massassi Temple was built long ago by the long extinct natives of Yavin, the Massassi. After abandoning their base on Dantooine, the Rebel Alliance moved their operation to this location where they directed the Battle of Yavin.",		"exarkun":"In a time long past, this was a place of great evil and the palace of Sith Lord Exar Kun. Even though Exar Kun was destroyed long ago by the Jedi, many who walk within its halls say that they feel an evil presence still lurking in the shadows.",		"blueleaf":"The Temple of Blue Leaf is an ancient structure built long ago by the Massassi. Currently it is a hive for the strange insectoids, the Klikniks.",		"woolamander":"Woolamander Palace is an ancient relic built long ago by the Massassi. Its orginal name has long been forgotten but it was renamed after the nest of woolamanders who had taken up residence within its stone walls.",		"jinda":"Much like their Korga brothers, the Jinda have also found a natural cave that is perfect for hunting expeditions in the wilds of the forest.",		"orphan":"Marauders who have been abandoned by their own usually do not survive on Endor for very long but a small group of them has managed to fortify a cave and now takes in others of their kind who have been orphaned by their clan.",		"korga":"The Korga clan of Ewoks has managed to build a hunting outpost within a cave.",		"marauder":"This band of strange outsiders arrived on Endor long ago when their starship crashed onto the forested moon. Without means of fixing their starcraft, the band has been forced to make do with their natural surroundings and what little technology they could salvage.",		"dulok2":"Home to wicked and cruel cousin to the Ewoks.",		"dulok1":"Home to wicked and cruel cousin to the Ewoks.",		"lake2":"One of the floating villages of the native Ewoks. Do not let their cuddly appearance fool you, these beings are noble and strong warriors able to survive the rigors of Endor.",		"lake1":"One of the floating villages of the native Ewoks. Do not let their cuddly appearance fool you, these beings are noble and strong warriors able to survive the rigors of Endor.",		"tree2":"One of the forest villages of the native Ewoks. Do not let their cuddly appearance fool you, these beings are noble and strong warriors able to survive the rigors of Endor.",		"tree1":"One of the forest villages of the native Ewoks. Do not let their cuddly appearance fool you, these beings are noble and strong warriors able to survive the rigors of Endor.",		"warren":"One of the Empire's top secret research facilities. Recently though, all communications with the facility has halted and the Empire fears the worse.",		"kunga":"A Kunga Dantari stronghold.",		"mokk":"A Mokk Dantari stronghold.",		"janta":"A Janta Dantari stronghold.",		"crystalhunter":"Dantooine has long been a source for the powerful and mysterious force crystals. A recent expedition onto Dantooine is said to have found a large quantity of the crystal within this cave.",		"jeditemple":"Long ago this was the Jedi Training center under Jedi Master Vodo Siosk-Baas. This temple is also where the infamous Exar Kun first recieved his formal training before turning to the dark side. But that was long ago and is now nothing more than a ruin.",		"abandoned":"Once the primary base of operations for the Rebel Alliance. This base was deserted for the Great Massassi Temple shortly before the Battle of Yavin.",		"dantari3":"A village inhabited by the native race of Dantooine. The Dantari are a primative, stone age people who are extremely wary of outsiders.",		"dantari2":"A village inhabited by the native race of Dantooine. The Dantari are a primative, stone age people who are extremely wary of outsiders.",		"dantari1":"A village inhabited by the native race of Dantooine. The Dantari are a primative, stone age people who are extremely wary of outsiders.",		"slavecampe":"Although the Nightsisters have very little tolerance of men, they are not above using them for slave labor. A number of slave labor camps dot Dathomir.",		"nightspider":"A secretive clan of force wielders has taken up residence within a cave. It is rumored that they worship the gigantic spiders which inhabited the cave before they arrived.",		"nightvssing":"Pitched battles between the two dominate factions of force wielding witches always happen when these two clans meet each other.",		"singing":"Mountain home of the force wielding witches calling themselves the Singing Mountain Clan.",		"nightsister":"Home of a group of the evil force wielding witches who call themselves the Nightsisters.",		"tarpit":"Bubbling ooze flows up from deep within the planet. This tar has been known to trap and pull down even the largest of creatures like the rancor.",		"mistyfalls":"Mighty falls plummet down the great cliffs. When the water strikes the rocks below, the spray travels an amazing distance causing a haze to cover the entire region, thus giving the falls their name.",		"dathpod":"The drop pod of an Imperial prisoner who traveled too far off course. Nothing is known about the whereabouts of its unfortunate passengers.",		"lessersarlacc":"The deadly sarlacc lies apon the rich forest floor of Dathomir feasting on whatever is unfortunate enough too wander to close.",		"prison":"This is considered to be the Empire's answer to an oubliette. The most dangerous prisoners to the Empire are drop shipped onto Dathomir and forgotten about.",		"afarathu":"The vicious Afarathu terrorist organization has used this cave for many years as a staging point for their strikes on Corellian interests.",		"stronghold":"A reinforced base that is highly sought after by both Imperial and Rebel forces because of its prime strategic location.",		"nyax":"The Cult of Lord Nyax has been a thorn in the side of Corsec for numerous years. Unfortunately, they have grown in power to cause a great deal of trouble with the Corsec who have adopted a policy of containment rather than destruction towards the cult.",		"drall":"Not all Dralls believe in the unity of Corellia. Many of them are fighting for Drall independence and it is rumored that one such group of them has taken up residence in this cave as a base of their operations.",		"agrilat":"The Agrilat Swamp is an amazing example of planetary thermodynamics with hundreds of geysers. Over millions of years, the mineral deposits of these geysers formed the crystals which make the region famous.",		"crystalfountain":"Shortly after the founding of Bela Vistal, the people transplanted a crystal geyser from the Agrilat Swamp to the center of their town.",		"grandtheater":"This outdoor theater is the pride of the citizens of Vreni Island.",		"corsecbase":"Being in charge of both planetary security and law enforcement, the Corsec place a great deal of importance on their base of operations.",		"hideout":"The Rebel Alliance's main base of operations. Many of the heroes of the Rebellion work from within this secret base.",		"mauler":"The Mauler Gang's base of operation for their planet wide criminal activities.",		"narglatch":"A large pack of vicious Narglatches have taken up residence in a deep natural cave. Unwary travelers who investigate this cave usually end up as dinner for the ferocious beasts.",		"weaponfacility":"This facility is highly sought after by both the Empire and Rebel forces and they have clashed for control of it on a number of occasions.",		"mordran":"Mordran is a mighty fighter working for Borvo the Hutt. He has recently been sighted around the Gungan Sacred Place challenging any who come too close.",		"impvsgun":"The Empire's policy of extermination has led to a number of clashes between the Imperial forces and Gungan resistance fighters.",		"amidalasbeach":"A favorite resting place of Naboo's most famous rulers.",		"deejafalls":"These falls are considered by many to be one of the most beautiful sights in all of the galaxy.",		"theedfalls":"The great falls located just outside the capital city of Theed are one of Naboo's great natural wonders.",		"gungan":"One of the most important places in Gungan culture. Many Gungans make a pilgramage to this location every year to pay their respect to their rich history.",		"skeleton":"A massive, sun bleached skeleton of an ancient Krayt Dragon.",		"pod":"Shortly before the Battle of Yavin, this escape pod crashed down within the Dune Sea. The Empire briefly took a great deal of interest in this pod and for a short time after, Imperial activity on Tatooine was noticeably increased.",		"sarlacc":"Located deep within the Western Dune Sea, the pit is home to a sarlacc. Its tentacles ever reaching out of the sarlacc's mouth in search of anything unlucky enough to pass within reach.",		"kenobishouse":"Abandoned homestead of Ben Kenobi. Home was found abandoned shortly before the Battle of Yavin with no signs of what happened to the old hermit.",		"larshomestead":"Abandoned home of the Lars family. Shortly before the Battle of Yavin, this moisture farm was found destroyed and abandoned with two fresh graves out front. The graves were of the farm's owner Owen and his wife Beru, there was no sign of the couples' nephew.",		"kraytgraveyard":"The bones of hundreds of Krayt Dragons cover the floor of this valley. When an aged Krayt senses death approaching it instinctually makes the arduous journey to this resting place. It is not uncommon to find a living Krayt Dragon here waiting out the last days of its life.",		"jawatraders":"A well known meeting place of Jawa traders and nomads.",		"darklighter":"Home of the famed Darklighters of Tatooine.",		"forttusken":"One of the orginal settlements on Tatooine. Shortly after its founding Fort Tusken was attacked and taken over by Sandpeople giving rise to the name Tusken Raider. To this day the fort is a well known stronghold of the Sandpeople.",		"jabbaspalace":"The residence of the nefarious crime lord, Jabba the Hutt.",		"danthomir_station_0":"Dathomir Space Station. Land Heere",		"dantoone_station_0":"Dantooine Space Station. Land Here",		"lok_station_0":"Space Station. Land Here.",		"space_light1_3":"Quadrant II",		"space_light1_2":"Quadrant III",		"space_light1_1":"Quadrant IV",		"space_light1_0":"Quadrant I",		"space_heavy1_3":"Unknown Regions / Quadrant II",		"space_heavy1_2":"Unknown Regions / Quadrant III",		"space_heavy1_1":"Unknown Regions / Quadrant IV",		"space_heavy1_0":"Unknown Regions / Quadrant I",		"space_endor_3":"Hyperspace: Quadrant IV: Durillium Sea
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Endor Space Station: 11727m
+
+The Durillium Sea is a vast expanse of virtual nothingness. The quadrant is relatively safe for passing travellers and welcomes expansion. Will the Empire seek to claim it?",		"space_endor_2":"Hyperspace: Quadrant III: Empire's Justice
+
+Inhabitants: The Empire
+Danger Level: HIGH
+
+Distance to Endor Space Station: 9155m
+
+To those not belonging to the Empire's ranks, the Empire's Justice quadrant could be viewed as highly dangerous. Travel here is not recommended unless the traveller is on the best of term's with the Empire.",		"space_endor_1":"Hyperspace: Quadrant II: Area D-435
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Endor Space Station: 5273m
+
+Little to nothing is known about the quadrant. It is uncharacteristic and safe for travel. It would be best, however, to keep navigation computers alert for unexpected enemies in the area.",		"space_endor_0":"Hyperspace: Quadrant I: Red Sin Chimaera
+
+Inhabitants: Death Watch
+Danger Level: HIGH
+
+Distance to Endor Space Station: 11739m
+
+Lurking inside the cover of the Red Sin Chimaera Nebula, the Death Watch wait silently, striking at the last moment in hopes of a successful kill. Most think of them as animals, feasting upon the helpless to survive. Although a fair distance away, the Red Sin Chimaera quadrant entry point can give a traveller a run for his money.
+
+",		"space_yavin4_3":"(RESTRICTED) Quadrant II",		"space_yavin4_2":"Hyperspace: Quadrant III: Crimson Flare
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Yavin 4 Space Station: 5407m
+
+Unfortunately, not much is known about the Crimson Flare quadrant. Traveling through here should be fairly safe, but use caution.",		"space_yavin4_1":"Hyperspace: Quadrant II: Ferrous Aurora
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Yavin 4 Space Station: 10663m
+
+Lending the quadrant its name, the Ferrous Aurora nebula extends its welcome in an array of radiant, incandescent colors. It is wise not to be fooled by its beauty as the Ni'lyahin Smugglers have claimed it as their own.
+
+",		"space_yavin4_0":"Hyperspace: Quadrant I: Smuggler's Run
+
+Inhabitants: Ni'lyahin Smugglers
+Danger Level: Medium
+
+Distance to Yavin 4 Space Station: 16175m
+
+When the Death Star was finally destroyed, news of its defeat spread like wildfire. It brought many visitors, including the Ni'lyahin Smugglers, hoping to scrounge together pieces from the explosion and sell it on the black market. Today, they prosper, fighting their own war against the Empire and their oppression.
+",		"space_dathomir_3":"Hyperspace: Quadrant IV: Emperor's Hand
+
+Inhabitants: Unknown
+Danger Level: Medium
+
+Distance to Dathomir Space Station: 11077m
+
+Named after the Emperor's unavoidable influence, the Emperor's Hand proves to be dangerous to those unwilling to succumb to the Empire's whims. The fourth quadrant stretches far as do the Emperor's tumultous desires and would be best avoided when making travel plans.",		"space_dathomir_2":"Hyperspace: Quadrant III: Dathomir's Vitality
+
+Inhabitants: Dark Veil Order
+Danger Level: HIGH
+
+Distance to Dathomir Space Station: 8273m
+
+Fortunately, not many venture close to the Heart of Dathomir and its clerical inhabitants, the Dark Veil Order. Serving their Queen with passionate ferocity, the Dark Veil Order encircle the Heart of Dathomir, hoping to "sacrifice" victims to the nebula's powerful rage. They believe the Heart of Dathomir nebula consumes the essence of these victims, fueling life into the palpitating mass and protecting the Dark Veil Order from infidels. It is wise not to Dathomir's third quadrant under any circumstances.
+",		"space_dathomir_1":"Hyperspace: Quadrant II: Empire Blockade
+
+Inhabitants: The Empire
+Danger Level: HIGH
+
+Distance to Dathomir Space Station: 12603m
+
+The second quadrant of Dathomir's system is a considerably dangerous one for those not beloning to the Emperor's ranks. Particularly of note, is the Empire's Blockade that makes its way through the area, crushing all those who stand to oppose it.
+
+
+
+",		"space_dathomir_0":"Hyperspace: Quadrant I: Dark Force
+
+Inhabitants: The Empire
+Danger Level: HIGH
+
+Distance to Dathomir Space Station: 10483m
+
+\\Transmission Jammed!\\
+
+From the Imperial Navy...
+
+Receiving ... ... ...
+
+Immediate Notice: All access to this Quadrant is prohibited by law of the Empire. Any vessels found in this sector will be destroyed on sight! Repeat: Cease all unauthorized travel to this sector immediately. You will be destroyed on sight!",		"space_dantooine_3":"Hyperspace: Quadrant IV: Gorvera Space
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Dantooine Space Station: 16240m
+
+Relatively safe, the Gorvera Space quadrant welcomes travellers, providing a scenic view of Dantooine's System. Little else is known about Dantooine's fourth quadrant.
+
+",		"space_dantooine_2":"Hyperspace: Quadrant III: Isryn's Veil
+
+Inhabitants: Force Assassins
+Danger Level: HIGH
+
+Distance to Dantooine Space Station: 8596m
+
+Mystery shrouds the third quadrant of Dantooine's System and provides history enthusiasts with little information of the founders of Isryn's Veil. For now, it is safe to travel here although there is mention of Force Assassins reaching out to claim additional areas. Incidentally, the Empire's eyes may have turned to the Veil as a target of expansion efforts.. Will they succeed?",		"space_dantooine_1":"Hyperspace: Quadrant II: Asair's Ribbon
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Dantooine Space Station: 11531m
+
+An uncharted territory in Dantooine's System. The Empire hopes to secure this quadrant within the year's end.",		"space_dantooine_0":"Hyperspace: Quadrant I: Dantooine's Wrath
+
+Inhabitants: Hutts, Valarians, the Empire
+Danger Level: HIGH
+
+Distance to Dantooine Space Station: 6788m
+
+The first quadrant of Dantooine, fondly nicknamed "Dantooine's Wrath", is a pit-stop between a sarlacc pit and being trampled on by a Gorax. It is highly recommended that one stay away from the first quadrant unless absolutely necessary. Dantooine's Wrath is laden with fierce Hutt gunships and unmerciless Valarian thugs.",		"space_lok_3":"Hyperspace: Quadrant IV: Voria's Ember
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Lok Space Station: 14438m
+
+Voria Sergar was found orphaned at a young age. Abandoned by her slave master, she wandered the planet of Lok for several months before being found by a Rebel Officer, Isnal Roran. Voria had been battered and bruised, having fled many near-death situations. Finally, she was safe. Voria ascended the ranks in the Rebel Alliance with blinding speed. Her abilities and fluidity with slicing and manipulating computers were viewed as assets to the Rebellion. She soon earned her wings and headed to Lok's system. There, she met her fate, unable to manuever in time before an Imperial missle struck her down. No matter how far away, each member of the Rebellion felt her passing. Voria's Ember, Lok's fourth quadrant, was named after the Rebel sergeant in her honor.",		"space_lok_2":"Hyperspace: Quadrant III: Lurid Dawn
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Lok Space Station: 4944m
+
+Lok's very own dead space. The Rebel Alliance hopes to secure this quadrant for operative expansion within the year's end.",		"space_lok_1":"Hyperspace: Quadrant II: Rebellion Blaze
+
+Inhabitants: Rebel Alliance
+Danger Level: Medium
+
+Distance to Lok Space Station: 9837m
+
+The Rebellion Blaze Quadrant is home to loyal members of the Rebel Alliance. Named after the infamous Rebel Gunboat, the Rebellion Blaze, the Alliance has chosen the Lok system as one of its points of operative origin. Members of the Empire are not welcome here and will be hunted down immediately if seen.
+
+",		"space_lok_0":"Hyperspace: Quadrant I: Nym's Hovel
+
+Inhabitants: Nym's Thugs
+Danger Level: Medium
+
+Distance to Lok Space Station: 12123m
+
+Within the heart of the first quadrant, Nym and his thugs search for unsuspecting enemies. Nym's Hovel has proven to be an ill place for those finding themselves on the wrong side of the notorious pirate.",		"space_tatooine_3":"Hyperspace: Quadrant IV: Outer Rim
+
+Inhabitants: Unknown
+Status: RESTRICTED
+Danger Level: HIGH
+
+Distance to Tatooine Space Station: 9585m
+
+Approved by the Imperial Navy, all travel to this Quadrant is RESTRICTED. Hostile enemies have been seen and it is IMPERATIVE that travel to this Quadrant be ceased! You have been warned.",		"space_tatooine_2":"Hyperspace: Quadrant III: Desert Sands
+
+Inhabitants: Unknown
+Danger Level: Medium
+
+Distance to Tatooine Space Station: 8044m
+
+It is unknown if the Desert Sands Quadrant is home to friendly entities. The Imperial Navy has forwarded a word of warning to those looking to travel through the area.",		"space_tatooine_1":"Hyperspace: Quadrant II: Deep Sea
+
+Inhabitants: Hutts
+Danger Level: HIGH
+
+Distance to Tatooine Space Station: 11728m
+
+Home to Hutt influence, the Deep Sea Quadrant proves dangerous to  "unapproved" visitors. Unless one has business here, it's best to stay away.",		"space_tatooine_0":"Hyperspace: Quadrant I: Miner's Yard
+
+Inhabitants: Miners
+Danger Level: Low
+
+Distance to Tatooine Space Station: 15144m
+
+Tatooine's resource numbers are plumeting daily. It is up to local miners to branch out and collect resources to replenish high demands. Their target: Asteroid Fields.",		"space_naboo_3":"Hyperspace: Quadrant IV: Kylantha's Whim
+
+Inhabitants: The Empire
+Danger Level: Medium
+
+Distance to Naboo Space Station: 5244m
+Distance to Rori Space Station: 13463m
+
+Although mostly deserted, one can find a few Imperial patrols circling about Kylantha's Whim. It is rumored that a young and wealthy suitor, infatuated with the Queen Kylantha, claimed he purchased a quadrant for her in Naboo Space, hoping it would bring to light the love he had for her. The Queen kindly refused his offer of marriage, stating her desire to "marry" her people and serve them with all of her time. Crushed, the young man renamed the quadrant to Kylantha's Whim. The quadrant has kept its name ever since.",		"space_naboo_2":"Hyperspace: Quadrant III: Sea of Veruna
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Naboo Space Station: 12762m
+Distance to Rori Space Station: 4268m
+
+The Sea of Veruna proves to be a vast quadrant of dead space. Potentially safe, the hyperspace location is used often by all travellers. Be warned, however, as the Empire hopes to secure it within the year's end.",		"space_naboo_1":"Hyperspace: Quadrant II: Penumbra Omen 
+
+Inhabitants: Unknown
+
+Status: TRAVEL PROHIBITED
+Danger Level: HIGH
+
+Distance to Naboo Space Station: 10445m
+Distance to Rori Space Station: 12853m
+
+** Important!! Quadrant II, Code Name Area D-512 has been changed to Code Name "The Penumbra Omen Quadrant" effective immediately!!
+
+From the Imperial Navy...
+
+Receiving ... ... ...
+
+Immediate Notice: All access to this Quadrant is prohibited by law of the Empire. Again, Area D-512 is now PROHIBITED to ALL TRAVEL!! Unknown Flying Starships have been found in the area and have proved to be INCREDIBLY DANGEROUS!! Do NOT travel in this Quadrant!!
+
+Receiving... ... ..
+
+Code Name for Unknown Starships: Penumbra Omen
+",		"space_naboo_0":"Hyperspace: Quadrant I: Royal Way
+
+Inhabitants: Royal Security Forces of Naboo
+Danger Level: Low
+
+Distance to Naboo Space Station: 3919m
+Distance to Rori Space Station: 12082m
+
+A common sight in Naboo's space, the Royal Security Forces hope to keep the peace by policing approved travel space and "removing" offenders. It would be wise not to travel here if you find yourself on the bad side of the Royal Security Forces.",		"space_corellia_3":"Hyperspace: Quadrant IV: Corellia's Own
+
+Inhabitants: CorSec
+Danger Level: Low
+
+Distance to Corellia Space Station: 3874m
+Distance to Talus Space Station: 13582m
+
+If a quadrant in Corellian Space could be called safe, Corellia's Own is the one. Only patrolled by CorSec, the trade routes from the Corellia Station to the Talus Station are traveled mostly by trading freighters and civilian craft. Still, Imperial presence is frowned upon here and proves to be hostile to starships openly claiming to be of the Empire.",		"space_corellia_2":"Hyperspace: Quadrant III: Binayre Razorcat
+
+Inhabitants: Binayre and Hidden Daggers
+Danger Level: Medium
+
+Distance to Corellia Space Station: 9907m
+Distance to Talus Space Station: 12388m
+
+The Binayre Razorcat is often avoided due to the high density of the pirate factions, Binyare and the Hidden Daggers. Only brave travellers can be found circling the area, fighting off the pirates who dare close in on the defenseless pirates.",		"space_corellia_1":"Hyperspace: Quadrant II: Trifecta Star
+
+Inhabitants: Rebel Alliance, Blacksun, Binayre
+Danger Level: Medium
+
+Distance to Corellia Space Station: 15832m
+Distance to Talus Space Station: 11714m
+
+Although deserted to some degree, the Trifecta Star is the nearby home to the Rebel Alliance, the Blacksun and the Binyare. Only under dire cicumstances should one choose to travel to this quadrant. Beware.",		"space_corellia_0":"Hyperspace: Quadrant I: CorSec Wing
+
+Inhabitants: CorSec and the Rebellion
+Danger Level: HIGH
+
+Distance to Corellia Space Station: 8765m
+Distance to Talus Space Station: 7702m
+
+Controlled fiercely by both the Rebellion and the CorSec, the CorSec Wing proves dangerous for members of the Empire. The Rebellion is found to be unsympathetic to Imperial starships flying in the CorSec Wing Quadrant and will shoot them down on sight. Beware.
+
+",		"naboo_c":"Old Trade Federation Route
+
+Rarely traveled, the Old Trade Federation Route lies within the Enmaekeda Nebula, a tumultous ball of space matter home to Borvo's thugs. The Imperial Navy has claimed the route unsafe and has restricted travel to all parties.",		"naboo_b":"Emperor's Way
+
+The public portion of the 'Emperor's Way' is a weapons-hold zone policed by elite TIE squadrons.",		"naboo_a":"Wishing Lake
+
+The area known as 'Wishing Lake' was first named by deep space mercenaries hired by the Trade Federation for commercial security. Today, the area stands void of activity. It is said to be a bad omen, a rumor started by the Royal Security Forces and traders alike.",		"tatooine_f":"Dragon's Pearl
+
+The center of Space Tatooine's eye, the Dragon's Pearl is a hotspot for illegal activity. Many thugs, including the Black Sun and the Hutts, swarm here to harass the defenseless freighters in the area, stealing loot without any signs of remorse. Fortunately, the Empire encircles the Dragon's Pearl, enforcing Imperial law with quick starships and flight prowess.",		"tatooine_e":"Jabba's Star
+
+Jabba's Star provides a point of origin for the Hutts' illegal operations. Unless business is mentioned, Jabba's thugs are not partial to having visitors. The structure of the small outpost serves as a shining representation of the Hutts' cunning and skill with manipulating anything and everything.",		"tatooine_d":"Nallera's Mining Field
+
+Stemming from Space Tatooine's outermost reaches, Nallera's Mining Field remains one of Tatooine's oldest mining outposts. Nallera's Mining Field is far enough away from the Hutts' influence, but close enough to Tatooine's space station to encourage trade and ship goods to the planet. The inhabitants of Nallera's Mining Field are friendly and welcome travellers to their outpost.",		"tatooine_c":"Hutt Claims
+
+Met with fierce resistance, the Hutts have ceased their attacks on the areas surrounding the Tatooine Space Station. They had hoped to claim the station and collect the fees generated from it by making travellers pay tolls to be allowed access to Tatooine's space. They underestimated the Mos Eisley police and their allies. All that is left from this launch point are the remains of war.",		"tatooine_b":"Ghost Tide Nebula
+
+Thick cover from the Ghost Tide Nebula provides pirates superb concealment when trying to ambush unsuspecting freighters. Travellers are warned and directed away from the Ghost Tide. Many ignoring the warning are never heard from again.",		"tatooine_a":"Traders' Grotto
+
+Numerous trading routes litter Traders' Grotto and provides easy, safe travel to and from the Tatooine Space Station."
+}}

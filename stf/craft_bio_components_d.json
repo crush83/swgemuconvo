@@ -1,42 +1,57 @@
-[
-'40':'bio_component_food_light_quantity',
-'39':'bio_component_food_medium_quantity',
-'38':'bio_component_food_heavy_quantity',
-'37':'bio_component_food_heavy_nutrition',
-'36':'bio_component_food_medium_nutrition',
-'35':'bio_component_food_light_nutrition',
-'34':'bio_component_food_light_filling',
-'33':'bio_component_food_medium_filling',
-'32':'bio_component_food_heavy_filling',
-'31':'bio_component_food_heavy_flavor',
-'30':'bio_component_food_medium_flavor',
-'29':'bio_component_food_light_flavor',
-'28':'bio_component_clothing_field_intimidate_2',
-'27':'bio_component_clothing_field_intimidate',
-'26':'bio_component_clothing_field_defense_2',
-'25':'bio_component_clothing_field_defense',
-'24':'bio_component_clothing_field_bleeding_2',
-'23':'bio_component_clothing_field_bleeding',
-'22':'bio_component_clothing_field_cover_2',
-'21':'bio_component_clothing_field_cover',
-'20':'bio_component_clothing_field_camo_2',
-'19':'bio_component_clothing_field_camo',
-'18':'bio_component_clothing_casual_taming_2',
-'17':'bio_component_clothing_casual_taming',
-'16':'bio_component_clothing_casual_medic_2',
-'15':'bio_component_clothing_casual_medic',
-'14':'bio_component_clothing_casual_entertainer_2',
-'13':'bio_component_clothing_casual_entertainer',
-'12':'bio_component_clothing_casual_charisma_2',
-'11':'bio_component_clothing_casual_charisma',
-'10':'bio_component_food_mental_2',
-'9':'bio_component_food_mental',
-'8':'bio_component_food_reflex_2',
-'7':'bio_component_food_reflex',
-'6':'bio_component_food_physical_2',
-'5':'bio_component_food_physical',
-'4':'bio_component_food_flavor_2',
-'3':'bio_component_food_flavor',
-'2':'bio_component_food_duration_2',
-'1':'bio_component_food_duration',
-]
+{
+	"stfFile":"craft_bio_components_d",
+	"entries": {
+		"bio_component_food_light_quantity":"A light food replicating supplement for producing larger batches.",		"bio_component_food_medium_quantity":"A medium food replicating supplement for producing larger batches.",		"bio_component_food_heavy_quantity":"A heavy food replicating supplement for producing larger batches.",		"bio_component_food_heavy_nutrition":"A heavy nutritional supplement for use in cooking.",		"bio_component_food_medium_nutrition":"A medium nutritional supplement for use in cooking.",		"bio_component_food_light_nutrition":"A light nutritional supplement for use in cooking.",		"bio_component_food_light_filling":"A light mass reducing food additive.",		"bio_component_food_medium_filling":"A medium mass reducing food additive.",		"bio_component_food_heavy_filling":"A heavy mass reducing food additive.",		"bio_component_food_heavy_flavor":"A heavy flavor enhancing food additive.",		"bio_component_food_medium_flavor":"A medium flavor enhancing food additive.",		"bio_component_food_light_flavor":"A light flavor enhancing food additive.",		"bio_component_clothing_field_intimidate_2":"Certain pheromone derivatives produce an instinctive fear reaction in a wide variety of species. To produce this cloth modification, a skilled Tissue Engineer analyzes the wearer's biochemistry and synthesizes a personal, wearer-only antidote to one or more fear pheromones. When the cloth is imbued with microcapsules containing both the pheromone and the personal antidote, the wearer can then intimidate or terrify others without suffering untoward effects personally.
+
+(Field Wear made using this component gets a bonus to the Warcry & Intimidation skill modifiers.)",		"bio_component_clothing_field_intimidate":"Microcapsules impregnated in fabric release psychoactive chemicals in the presence of the wearer's stress hormones. The chemicals slightly increase the wearer's confidence and aggression, supposedly improving the ability to intimidate opponents. Critics charge that this effect is almost entirely psychological. Illegal on certain puritanical Core Worlds.
+
+(Field Wear made using this component gets a bonus to the Warcry & Intimidation skill modifiers.)",		"bio_component_clothing_field_defense_2":"To reduce burn, impact, and puncture damage to cloth, a skilled Tissue Engineer modifies an imperceptibly light underlayer of fabric. The procedure imbues the fabric with micromachines programmed with dynamic flocking behaviors. When the cloth is struck or burned, the machines instantaneously flock to the breach, rendering the cloth rigid and rugged within microseconds.
+
+(Field Wear made using this component gets a bonus to the Melee & Stun Defense skill modifiers.)",		"bio_component_clothing_field_defense":"Chemically-treated cloth fibers can reduce impact and burn damage and resist puncturing. However, the chemical treatment may have medical side effects on the wearer. Custom adjustments using the Tissue Engineering skill prevent these side effects.
+
+(Field Wear made using this component gets a bonus to the Melee & Stun Defense skill modifiers.)",		"bio_component_clothing_field_bleeding_2":"Millions of tailored symbiotic bacteria, impregnated in cloth fiber, respond to the presence of blood by releasing chemicals that constrict blood vessels. The cloth's wearer bleeds less when injured and stops bleeding more quickly. Manufacturing processes require expensive chemicals available only from Corporate Sector monopoly sources.
+
+(Field Wear made using this component gets a bonus to the Bleeding Defense skill modifier.)",		"bio_component_clothing_field_bleeding":"When treated with certain chemicals keyed to the wearer's biology, cloth fibers shorten and swell in the presence of blood. This causes the cloth to tighten around a bleeding wound, acting as a temporary bandage.
+
+(Field Wear made using this component gets a bonus to the Bleeding Defense skill modifier.)",		"bio_component_clothing_field_cover_2":"Clothing impregnated with this specialized circuitry changes color to mimic the wearer's surroundings. The circuitry analyzes the visual environment and alters the cloth's coloring accordingly. This long-established technology dates back to the Old Republic, but remains delicate and expensive.
+
+(Field Wear made using this component gets a bonus to the Cover skill modifier.)",		"bio_component_clothing_field_cover":"This treatment implants cloth fibers with miniaturized mirror crystals. The crystals help the fabric take on the coloration of the surroundings, improving the wearer's visual concealment.
+
+(Field Wear made using this component gets a bonus to the Cover skill modifier.)",		"bio_component_clothing_field_camo_2":"Complex micromachines implanted in cloth analyze the scent molecules that pass through the fabric and modify them to remove odors. The wearer gives off no scent whatever, and therefore can pass more easily among many wild animals.
+
+(Field Wear made using this component gets a bonus to the Camouflage & Mask Scent skill modifiers.)",		"bio_component_clothing_field_camo":"These time-release microspheres, when impregnated in cloth fibers, release vapors that dull the sense of smell. The wearer can move more easily among wild animals without alarming them. Not coincidentally, the microspheres release greater quantities of vapor in the presence of nervous sweat -- presumably when the wearer most needs camouflage.
+
+(Field Wear made using this component gets a bonus to the Camouflage & Mask Scent skill modifiers.)",		"bio_component_clothing_casual_taming_2":"These highly complex sensors, worn as patches on clothing, can identify a nearby animal and produce pheromones that target the animal's sympathetic nervous system. This calms the animal, possibly even during combat.
+
+(Casual Clothing made using this component gets a bonus to the Taming Wild & Vicious Creatures skill modifiers.)",		"bio_component_clothing_casual_taming":"With trifling power requirements drawn from the wearer's nervous system, these miniature crystals vibrate at subsonic frequencies detectable by most animal life. The vibrations exert a calming effect that makes an animal more receptive to commands.
+
+(Casual Clothing made using this component gets a bonus to the Taming Wild & Vicious Creatures skill modifiers.)",		"bio_component_clothing_casual_medic_2":"Microminiature remote sensors of Corellian design pervade these clothing patches. They transmit bioinformatic telemetry to a medic's instruments, improving speed and accuracy in the treatment of a victim.
+
+(Casual Clothing made using this component gets a bonus to the Injury & Wound Healing skill modifiers.)",		"bio_component_clothing_casual_medic":"These attractive patches change color in the presence of stress hormones released by injuries, diseases, and poisons. A trained medic can read these color changes to speed the diagnostic process.
+
+(Casual Clothing made using this component gets a bonus to the Injury & Wound Healing skill modifiers.)",		"bio_component_clothing_casual_entertainer_2":"Advanced Tissue Engineering techniques enhance the hypnotic effects caused by light reflecting through altered crystal snake scales.  However, the process is difficult and expensive, making the material rare.
+
+(Casual Clothing made using this component gets a bonus to the Wound Healing (Dance & Music) skill modifiers.)",		"bio_component_clothing_casual_entertainer":"Genetically altered crystal snake scales are ground down and used to treat cloth. Light reflecting from the moving cloth induces a relaxing, hypnotic effect. Many celebrated entertainers wear clothes of myoflex cloth to enhance their performances.
+
+(Casual Clothing made using this component gets a bonus to the Wound Healing (Dance & Music) skill modifiers.)",		"bio_component_clothing_casual_charisma_2":"This expensive psychoactive agent induces trust and good feeling, even toward strangers. However, long exposure neutralizes the effect. When impregnated in cloth fibers, Personaphene vapors make others subconsciously trust the wearer, but the wearer is immune to the effect. Popular among ambitious Imperial officers.",		"bio_component_clothing_casual_charisma":"Clothing impregnated with this timed-release psychoactive agent subtly enhances the wearer's confidence. Cynics suggest the effect derives entirely from the manufacturer's galaxy-wide marketing campaign ("Charigra -- the sweet smell of success"). Illegal on certain puritanical Core Worlds.",		"bio_component_food_mental_2":"Developed by Imperial research scientists (who remain its most ardent users), this neurotransmitter cocktail augments memory retention and perceptual systems, at great cost to system metabolism. Adds a pleasant fizz to food or drink.
+
+(Significantly increases the Mind effects of foods that are crafted with it but at a cost to the Health effects.)",		"bio_component_food_mental":"A spectrum of tailored neurotransmitters that enhances clarity and attention, at the cost of lasting damage to various internal organs. Detectable by a somewhat bitter aftertaste.
+
+(Moderately increases the Mind effects of foods that are crafted with it but at a cost to the Health effects.)",		"bio_component_food_reflex_2":"An excruciatingly delicate refinement process enhances the potency of Devaronian Alipedene. The user's speed and fluidity of movement improves greatly, but mental processes suffer. Rare side effects may include paranoia and violent activity. Illegal on certain puritanical Core Worlds.
+
+(Significantly increases the Action effects of foods that are crafted with it but at a cost to the Mind effects.)",		"bio_component_food_reflex":"Distilled (carefully) from the infamously painful Devaronian Blood-poison, this chemical improves the speed of synaptic signal transmission in the body. The user moves noticeably faster. However, the poison's side effects cloud mental processes.
+
+(Moderately increases the Action effects of foods that are crafted with it but at a cost to the Mind effects.)",		"bio_component_food_physical_2":"A tailored virus, developed by Bothan bioformatters, adjusts the user's system to make better use of the Bio-Strength hormones. However, side effects greatly impair the nervous system, and consequently the speed of action.
+
+(Significantly increases the Health effects of foods that are crafted with it but at a cost to the Action effects.)",		"bio_component_food_physical":"This Bothan cocktail of genetically altered hormones makes possible unbelievable physical feats. Unfortunately, these strengthening enhancements impair agility and coordination.
+
+(Moderately increases the Health effects of foods that are crafted with it but at a cost to the Action effects.)",		"bio_component_food_flavor_2":"Tightly controlled by Corporate Sector Authority trade regulations, this additive greatly improves the flavor and benefits of food and drink. The CSA's licensed manufacturers steadfastly deny rumors that long-term use induces paranoia and violent behavior.
+
+(Significantly increases the effects of foods that are crafted with it.)",		"bio_component_food_flavor":"This common food additive dilates taste receptors, enhancing subtle flavors and improving the beneficial effects of food and drink.
+
+(Moderately increases the effects of foods that are crafted with it.)",		"bio_component_food_duration_2":"In addition to a wide range of vitamins and phytochemicals, this enhancement includes enzymes that retard the metabolism of food and drink, prolonging their healthful effects.
+
+(Significantly increases the duration of foods that are crafted with it.)",		"bio_component_food_duration":"Food and drink augmented with this range of vitamins and phytochemicals give prolonged healthful effects.
+
+(Moderately increases the duration of foods that are crafted with it.)"
+}}

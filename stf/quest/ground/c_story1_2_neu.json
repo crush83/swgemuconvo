@@ -1,26 +1,5 @@
-[
-'24':'task12_journal_entry_title',
-'23':'task11_journal_entry_title',
-'22':'task10_journal_entry_title',
-'21':'task09_journal_entry_title',
-'20':'task09_journal_entry_description',
-'19':'task08_journal_entry_title',
-'18':'task08_journal_entry_description',
-'17':'task07_journal_entry_title',
-'16':'task07_journal_entry_description',
-'15':'task06_journal_entry_title',
-'14':'task06_journal_entry_description',
-'13':'task05_journal_entry_title',
-'12':'task05_journal_entry_description',
-'11':'task04_journal_entry_title',
-'10':'task03_journal_entry_title',
-'9':'task02_journal_entry_title',
-'8':'task02_journal_entry_description',
-'7':'task01_journal_entry_title',
-'6':'task01_journal_entry_description',
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/c_story1_2_neu",
+	"entries": {
+		"task12_journal_entry_title":"Mission Failed",		"task11_journal_entry_title":"Mission Failed",		"task10_journal_entry_title":"Mission Failed",		"task09_journal_entry_title":"A Small Mystery Solved.",		"task09_journal_entry_description":"So, the Rebel Alliance is smuggling the new spice and the Black Sun want in on the action.  There is still no sign of the missing pilot. (Chapter 2 complete, but the story will continue.)",		"task08_journal_entry_title":"Schematic Acquired",		"task08_journal_entry_description":"Tovar Blackmoor gave you a Shisa Schematic and some credits because you let him live.",		"task07_journal_entry_title":"Talk to Tovar Blackmoor",		"task07_journal_entry_description":"Talk to Tovar Blackmoor, the chemist working with the Black Sun.  Maybe he will give you information.",		"task06_journal_entry_title":"Go to 4846, -1084 on Rori",		"task06_journal_entry_description":"Go to the location that you found on the datapad and see what is there.",		"task05_journal_entry_title":"Information Found!",		"task05_journal_entry_description":"You survuved the Black Sun ambush and found a datapad with the location: 4846, -1084",		"task04_journal_entry_title":"Ambushed!",		"task03_journal_entry_title":"Ambush 2 (invis)",		"task02_journal_entry_title":"Ambushed!",		"task02_journal_entry_description":"Black Sun thugs ambushed you at the site where the pilot was last seen.  Kill them all.  Maybe one of them has information.",		"task01_journal_entry_title":"Follow Kaila's Directions",		"task01_journal_entry_description":"Go to the location that Kaila gave you as to where she saw the missing pilot.",		"task00_journal_entry_title":"Talk to Kaila Min",		"task00_journal_entry_description":"Go to Narmle's gambling hall between dusk and dawn to speak with Kaila Min.",		"journal_entry_title":"More than You Bargained For",		"journal_entry_description":"You're on the trail of the missing pilot, but are you getting into something deeper than you expected?",		"category":"Secrets of the Syren"
+}}

@@ -1,15 +1,5 @@
-[
-'13':'attack_stopped',
-'12':'attack_notify',
-'11':'first_attack',
-'10':'outofrange_failed',
-'9':'outofrange',
-'8':'quest_update',
-'7':'mission_complete',
-'6':'transmission_received',
-'5':'trans_update',
-'4':'transmission_start',
-'3':'arrived_at_loc',
-'2':'found_loc',
-'1':'title',
-]
+{
+	"stfFile":"spacequest/survival/imperial_ss_02",
+	"entries": {
+		"attack_stopped":" \#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy attack wing has been eliminated. \#pcontrast3 >",		"attack_notify":" \#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy ships detected on attack vector. \#pcontrast3 >",		"first_attack":"System scans have detected enemy ships at lightspeed moving in your direction. You've been detected. Defend yourself, but get that transmission!",		"outofrange_failed":" \#pcontrast3 Comm Computer: < \#ff0000 Transmission signal lost! \#pcontrast3 >",		"outofrange":" \#pcontrast3 Comm Computer: < \#ff0000 Transmission signal fading. Signal is too distant! \#pcontrast3 >",		"quest_update":" \#pcontrast3 Imperial Command: < \#pcontrast1 %TO \#pcontrast3 >",		"mission_complete":"Good job, return to base with the transmission!",		"transmission_received":" \#pcontrast3 Comm Computer: < \#pcontrast1 100% of transmission received. Checksum validation complete. Transmission is authentic. \#pcontrast3 >",		"trans_update":" \#pcontrast3 Comm Computer: < \#pcontrast1 %DI% of Rebel transmission received. \#pcontrast3 >",		"transmission_start":" \#pcontrast3 Comm Computer: < \#pcontrast1 Rebel transmission detected. Recording started. \#pcontrast3 >",		"arrived_at_loc":"The Rebel transmission will be easy to intercept here. Don't stray too far from this point. The transmission should start at any moment.",		"found_loc":"We've found an ideal location to intercept the Rebel beam-wave transmission. Go there now.",		"title":"Intercept the Rebel transmission."
+}}

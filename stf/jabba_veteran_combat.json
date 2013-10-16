@@ -1,21 +1,5 @@
-[
-'19':'JCM1_12',
-'18':'JCM1_11',
-'17':'JCM1_10',
-'16':'JCM1_9',
-'15':'JCM1_5',
-'14':'JCM1_20',
-'13':'JCM1_19',
-'12':'JCM1_18',
-'11':'JCM1_16',
-'10':'JCM1_15',
-'9':'JCM1_14',
-'8':'JCM1_13',
-'7':'JCM1_8',
-'6':'JCM1_7',
-'5':'JCM1_6',
-'4':'JCM1_4',
-'3':'JCM1_3',
-'2':'JCM1_2',
-'1':'JCM1_1',
-]
+{
+	"stfFile":"jabba_veteran_combat",
+	"entries": {
+		"JCM1_12":"Perhaps you can come back later and I'll have more work for you.",		"JCM1_11":"Thank you, Gracious Lord Jabba.",		"JCM1_10":"Congratulations.  You have once again served me well.  Here is your reward.",		"JCM1_9":"Good.  You will be paid upon your return.",		"JCM1_5":"Ok, I'll take care of this guy.",		"JCM1_20":"He decided to deliver his cargo to the rebels instead of bringing it to me as he should have. Now he must learn the price of doublecrossing a Hutt.",		"JCM1_19":"He is hiding out on Borleias with his rebel friends, trying to avoid me.",		"JCM1_18":"His name is Sl'ekyinn.  An abyssin smuggler who's been working for me off and on for the last few months.",		"JCM1_16":"What did he do?",		"JCM1_15":"Where can I find him?",		"JCM1_14":"Who is the target?",		"JCM1_13":"There is a strict penalty for disloyalty among my staff.  You are to take care of a discipline problem that I'm having.",		"JCM1_8":"About 1000 credits.  I want the money or his life.  I leave that choice to you.",		"JCM1_7":"Somewhere on Dantooine.  He's investigating a rebel base that used to be there.  Make sure he understands that if he doesn't pay up now, he forfeits his life to me.",		"JCM1_6":"The fool's name is Andrew Herk.  He's a lieutenant in the Imperial Navy.",		"JCM1_4":"How much does he owe you?",		"JCM1_3":"Where can I find him?",		"JCM1_2":"Who is this officer?",		"JCM1_1":"An Imperial Officer is in deep with me due to some gambling debts that he has acquired.  I want you to collect the money or use him as a message.  It's your choice."
+}}

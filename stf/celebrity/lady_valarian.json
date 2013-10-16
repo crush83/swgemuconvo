@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'npc_9',
-'15':'npc_8',
-'14':'player_8',
-'13':'player_7',
-'12':'npc_4',
-'11':'player_6',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/lady_valarian",
+	"entries": {
+		"npc_11":"Well, check with my employees here in the office, one of them will surely have a job for you.",		"player_10":"And I could use a job.",		"npc_10":"Don't jump the gun.  See if one of my friends here has a job they'd like you to do.",		"player_9":"Tell me who you want shot and I'll shoot them.",		"npc_5":"Well, well, well.  A shooter, eh?  I could use a good shooter.",		"npc_9":"Well, then talk to one of my friends here in the office and I'm sure they can find you some work.",		"npc_8":"Sorry, I can't use you then.  Union regulations.  No Imperials.",		"player_8":"No, I'm pretty much free to work for whoever.",		"player_7":"I do have some Imperial standing.",		"npc_4":"Well, I could probably find some use for you.  You're not an imperial are you?",		"player_6":"I'm good at shooting things.",		"player_5":"I'm good at lots of things.",		"npc_3":"I have all kinds of work available.  What are you good at?",		"npc_7":"Well, come back if you need something.",		"player_4":"There's nothing I really need right now.",		"npc_6":"If you're that worried about it why don't you go shopping somewhere else.",		"player_3":"Is this illegal?",		"npc_2":"There's nothing that's not for sale here on Tatooine.  What do you want?",		"player_2":"What kind of work?",		"player_1":"What do you sell?",		"npc_1":"Are you a customer or are you looking for work?"
+}}

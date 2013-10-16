@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_t',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_destroy_t',
-'7':'quest_destroy_d',
-'6':'quest_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/tatooine_rebel_3",
+	"entries": {
+		"title_d":"The TIE fighters that attacked you on your first sensor sweep are gathering for a larger assault. Hunt down TIE fighters in the Tatooine system and destroy four (4) of them to send a message to the Empire and make them think twice about any sort of counter attack. When you complete this mission, return to Commander Da'la Socuna in back room of the Mos Espa cantina for your next assignment.",		"title":"Tatooine system: Hunt down TIE Fighters.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < Don't let them defeat you pilot. Get back out there and show them that the Alliance fold for no one! >",		"quest_t":"Hunt down TIE Fighters",		"quest_location_t":"Tatooine system.",		"quest_location_d":"The Tatooine system doesn't have a heavy Imperial presence but it's filled to the brim with scoundrels, pirates and bounty hunters so don't get too relaxed.",		"quest_destroy_t":"TIE Fighter.",		"quest_destroy_d":"The Imperial TIE fighter is built to be cheap and reliable. It doesn't have a shield system or heavy armor but it makes up for that in speed and agility. Lone TIE fighters are hard to come by, they usually travel in big packs to be more of a threat.",		"quest_d":"The TIE fighters that attacked you on your first sensor sweep are gathering in the Tatooine system for a larger assault. Find them and take down at least four (4) of them.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

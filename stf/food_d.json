@@ -1,5 +1,5 @@
-[
-'3':'drink_nectar',
-'2':'water',
-'1':'chicken_leg',
-]
+{
+	"stfFile":"food_d",
+	"entries": {
+		"drink_nectar":"A delicious blend of natural fruit juices and exotic plant nectar",		"water":"A glass of water",		"chicken_leg":"Mmmmmm.... chicken!"
+}}

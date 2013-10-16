@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/luke_skywalker",
+	"entries": {
+		"npc_11":"Almost nothing surprises me anymore.",		"player_10":"You'd be surprised...",		"npc_10":"Mostly it just means people trying to kill me.  I don't think I like infamous very much.",		"player_9":"Well, that's better than being famous.",		"npc_5":"Famous?  I don't see how I could be famous.  Infamous maybe.",		"player_6":"You're famous.",		"npc_9":"Thanks.  I appreciate it.",		"player_8":"It's an honor, sir...",		"npc_8":"There was a lot more to it than just me.  Lots of my friends died that day.",		"player_7":"I hear you took out the Death Star personally.",		"npc_4":"What did they tell you?  That I'm a hero?  It's been a little overblown, but yeah, I was there at the Battle of Yavin.",		"player_5":"I have some friends in the Alliance...",		"npc_3":"I might be.  Who's asking?",		"npc_7":"Yeah, maybe that's it.",		"player_4":"You've confused me with someone else.",		"npc_6":"I'm sure I'll remember it sooner or later.  Stick around and I'll let you know.",		"player_3":"Maybe, but I don't think we've met before.",		"npc_2":"Are you sure?  You seem awfully familiar.",		"player_2":"Are you Luke Skywalker?",		"player_1":"Me?  No, I'm not from around here.",		"npc_1":"There's something familiar about your face..."
+}}

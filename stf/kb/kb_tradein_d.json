@@ -1,3 +1,11 @@
-[
-'1':'tradein',
-]
+{
+	"stfFile":"kb/kb_tradein_d",
+	"entries": {
+		"tradein":"The pet trade-in system allows non-Creature Handlers with unusable pets (levels 11-15) to exchange their defunct creature for a usable, lower level one.  
+
+To trade in your old pet, drag it onto a Creature Handler Trainer NPC.  The NPC will confiscate your old pet, and will return a lower level pet (that you will be able to control as a non-Creature Handler) similar to your old one.   The new pet will retain any commands your old pet had, as well as the name of your old pet.
+
+The trade is irreversible.  The system only works for non-Creature Handlers who have unusable pets between levels 11-15.
+
+"
+}}

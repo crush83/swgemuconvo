@@ -1,23 +1,5 @@
-[
-'128':'rct_basic',
-'127':'tst_0',
-'126':'hgr_0',
-'125':'bdg_0',
-'124':'cms_0',
-'123':'wpn_1',
-'122':'wpn_0',
-'121':'ddi_0',
-'120':'bst_0',
-'119':'cap_0',
-'118':'arm_0',
-'117':'shd_0',
-'116':'eng_0',
-'115':'rct_0',
-'135':'wpn_basic',
-'134':'ddi_basic',
-'133':'bst_basic',
-'132':'cap_basic',
-'131':'arm_basic',
-'130':'shd_basic',
-'129':'eng_basic',
-]
+{
+	"stfFile":"ship_slot_compatabilities_d",
+	"entries": {
+		"rct_basic":"The main starship reactor provides power for all internal components.",		"tst_0":"Targeting Station",		"hgr_0":"Hangar",		"bdg_0":"Bridge",		"cms_0":"Countermeasure launchers fire special anti-tracking ordnance to confuse incoming guided missiles.",		"wpn_1":"Ordnance launchers can fire missile weapon types at locked targets.",		"wpn_0":"Starship weapons encompass energy-based blasters, ion cannons, and projectile weapons such as slug-throwers.",		"ddi_0":"This interface provides a hardware link between your droid and your internal starship systems.",		"bst_0":"Boosters are rechargeable ion engine over-drivers that enhance speed when they are engaged.",		"cap_0":"The capacitor draws power from the main reactor and stores it for the operation of starship weaponry.",		"arm_0":"Armor absorbs weapon fire and protects fragile ship components.",		"shd_0":"Shield generators create a protective energy field around your starship which dissipates when hit by enemy weapons.",		"eng_0":"The engine system provides the starship with thrust to maneuver in space.",		"rct_0":"The main starship reactor provides power for all internal components.",		"wpn_basic":"Starship weapons encompass energy-based blasters, ion cannons, and projectile weapons such as slug-throwers.",		"ddi_basic":"This interface provides a hardware link between your droid and your internal starship systems.",		"bst_basic":"Boosters are rechargeable ion engine over-drivers that enhance speed when they are engaged.",		"cap_basic":"The capacitor draws power from the main reactor and stores it for the operation of starship weaponry.",		"arm_basic":"Armor absorbs weapon fire and protects fragile ship components.",		"shd_basic":"Shield generators create a protective energy field around your starship which dissipates when hit by enemy weapons.",		"eng_basic":"The engine system provides the starship with thrust to maneuver in space."
+}}

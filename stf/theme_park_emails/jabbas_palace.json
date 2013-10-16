@@ -1,6 +1,5 @@
-[
-'4':'bib_title_2',
-'3':'bib_title_1',
-'2':'bib_email_2',
-'1':'bib_email_1',
-]
+{
+	"stfFile":"theme_park_emails/jabbas_palace",
+	"entries": {
+		"bib_title_2":"Our friend...",		"bib_title_1":"Valarian's thugs",		"bib_email_2":"You're proving to be more valuable than I'd imagined.  Good work with the thugs from Valarian.  Now find our friend.  He's sent me a distress beacon and I've marked the location on your datapad.  Make sure you bring him back here unharmed.  He may have more enemies lurking about, so keep your eyes open.",		"bib_email_1":"I take it you noticed the explosive device that was triggered on the speeder?  That was for our visitor's own protection.  Hopefully you weren't injured in the blast.  I now have more good news.  A pair of notorious thugs in the employ of Lady Valarian are scouring the area seeking our friend.  Find them and kill them.  I'll mark the location where our scanners last saw them."
+}}

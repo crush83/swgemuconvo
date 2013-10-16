@@ -1,21 +1,5 @@
-[
-'19':'bacta_tank_d',
-'18':'bacta_tank_n',
-'17':'combat_healing_count_part1',
-'16':'combat_healing_count_part2',
-'15':'combat_healing_just_started',
-'14':'npc_cured',
-'13':'admin_meds',
-'12':'symptom11',
-'11':'symptom10',
-'10':'symptom9',
-'9':'symptom8',
-'8':'symptom7',
-'7':'symptom6',
-'6':'symptom5',
-'5':'symptom4',
-'4':'symptom3',
-'3':'symptom2',
-'2':'symptom1',
-'1':'symptom0',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_medic",
+	"entries": {
+		"bacta_tank_d":"This tank contains a large supply of the Bacta fluid, Bacta fluid containing special bacteria capable of healing even seemingly life threatening injuries. ",		"bacta_tank_n":"A Bacta Tank",		"combat_healing_count_part1":"You have helped out",		"combat_healing_count_part2":"times, keep up the good work.",		"combat_healing_just_started":"You just got started, get out there!",		"npc_cured":"This patient appears to be responding to treatments, we should be able to discharge them after a bit more rest. Please let me know when you are ready for the next patient. Resetting protocol for next patient.",		"admin_meds":"Administering medicines to the patient... If you need an updated list of symptoms please let me know.",		"symptom11":"internal bleeding",		"symptom10":"swelling",		"symptom9":"bloody cough",		"symptom8":"violent spasms",		"symptom7":"partial paralysis",		"symptom6":"lost vision",		"symptom5":"respiratory failure",		"symptom4":"erratic heart rate",		"symptom3":"pus-filled lesions",		"symptom2":"open sores",		"symptom1":"vomiting",		"symptom0":"fever"
+}}

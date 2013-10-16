@@ -1,22 +1,5 @@
-[
-'20':'keep2',
-'19':'herm2',
-'18':'keep',
-'17':'hermit',
-'16':'doesnt',
-'15':'wont',
-'14':'newtalk',
-'13':'go',
-'12':'notyet',
-'11':'sent',
-'10':'excellent',
-'9':'nah',
-'8':'ok',
-'7':'explain',
-'6':'bad',
-'5':'good',
-'4':'what',
-'3':'no',
-'2':'yes',
-'1':'quest',
-]
+{
+	"stfFile":"radial_quest",
+	"entries": {
+		"keep2":"Do what you like with it then.  I have no further need for it.",		"herm2":"Well, if the wookiee wants it I don't mind if you give it to her.",		"keep":"She said I could keep it.",		"hermit":"She said give it to the wookiee.",		"doesnt":"Well, what did she suggest you do with it?",		"wont":"Your friend doesn't want this.",		"newtalk":"What appears to be the problem?",		"go":"Well get to it then!",		"notyet":"Um...not yet.",		"sent":"Have you finished the task I asked you to do?",		"excellent":"Excellent!",		"nah":"Nah.  Sounds dull.",		"ok":"Sure I'll take it to her.",		"explain":"My friend the Mon Cal lost her Jacket.  I need a player to take it to her so she doesn't get cold.",		"bad":"Well, then get out of my sight!  I'll find a *REAL* player to help me.",		"good":"Excellent.  I need you to take this jacket to my good friend the Mon Cal over there.   She has on a white long-sleeve shirt, and she needs her jacket!",		"what":"Um...what appears to be the problem?",		"no":"As if....",		"yes":"Certainly!",		"quest":"Ah, good, a player!  Can you help me with something I'm having a problem with?"
+}}

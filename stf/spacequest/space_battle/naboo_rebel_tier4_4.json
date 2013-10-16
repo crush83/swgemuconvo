@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_rebel_tier4_4",
+	"entries": {
+		"title_d":"The data retrieved in the previous mission points out a space station in Dathomir as the Inquisitions current base of operations. We have been busy laying out the plan of attack and your orders are to help clear out fighters before our bombers are called in.",		"title":"Dathomir system: Attack the Inquisition's base of operations.",		"split_quest_alert_fail":"Brother Extok Evin: < One of our bomber squadrons have outflanked the Imperial defenses and may still be able to take out the base but they need help, stand by. >",		"split_quest_alert":"Brother Extok Evin: < One of our bomber squadrons have run in to an ambush, head over there and help them out! >",		"quest_update":"Brother Extok Evin: < %TO >",		"quest_location_t":"Dathomir system.",		"quest_location_d":"The extreme risk Dathomir system is as dangerous as ever. We don't need more enemies than there already are at the base so try to avoid contact with hostile craft on your way to the attack coordinates.",		"quest_helpallies_t":"Attack!",		"quest_helpallies_d":"Coordinate with your fellow pilots and attack the base defense. Destroy them all and give the command for our bombers to move in. Good luck pilot!",		"quest_findbattle_t":"Attack coordinates.",		"quest_findbattle_d":"This is the coordinates where we will initialize the attack on the base defense. Proceed to there immediately but try to avoid any enemy contact while travelling.",		"found_loc":"Meet up with the rest of the squadron at this location.",		"enemies_win":"Pull out! We need to come up with a backup plan quickly!",		"enemies_remain":"Tactical Computer: < Sensors show enemy target terminated. %DI enemy targets remain. >",		"enemies_arrived":"You and the rest of the fighters will try and wittle down the enemy fighters so that our bombers can move in safely.",		"battle_started":"Alright my friends, show them what you're made of!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Good job everyone, stand by for new orders.",		"allies_remain":"Rebel Pilot: < My ship is falling apart! I need hel.. >",		"allies_arrived":"The Inquisition is anticipating our attack so this will be rough. I have trust that it's not beyond your capabilities though.",		"Quest Log Data":"Text"
+}}

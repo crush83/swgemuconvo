@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_imperial_tier4_4_c",
+	"entries": {
+		"title_d":"Destroy the Rebel command vessel in the Dantooine system. It was on it's way to pick up the captured shuttles has appeared in the system. Show the Rebels that their actions will not go unpunished.",		"title":"Dantooine System: Destroy the Rebel Command Vessel",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Rebel Command Vessel",		"quest_target_d":"Intercept and destroy the Rebel command vessel inside the Dantooine system.",		"quest_location_t":"Remain in the Dantooine System",		"quest_location_d":"Remain in the Dantooine system and intercept the Rebel command vessel.",		"quest_escort_t":"Destroy the Escorts",		"quest_escort_d":"Make sure no one gets out alive. Destroy the escorts. Once completed return to your commander.",		"failed_escape":"You let them slip through your fingers. Report this failure to your superior immediately.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy escort fighters destroyed.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI enemy escorts remaining.>",		"destroy_escort":"There are still some other rebel ships in the area. Make sure none of them escape.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"The rebels will remember this day. You have done very well. Report your success back to your superior.",		"arrival_phase_2":"We have the lock. Sending that information to your nav computer. It looks like they are trying to make a run for it.",		"arrival_phase_1":"Getting a lock on the rebel command group. None of them is to make it out alive.",		"Quest Log Data":"Text"
+}}

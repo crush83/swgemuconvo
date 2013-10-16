@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/stn_yavin4_company_all_massassi_tier2_4",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"One of the fighters you were tailing must have detected you and set up an ambush. The damaged fighter is still on the radar but you will have to destroy these fighters in order to reach it.",		"title":"Yavin System: Attacked by Mysterious Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"Location of the damaged fighter has been confirmed. Intercept and inspect that fighter for any clues to their identity. Return to the station when you have completed your search.",		"leave_early":"",		"complete":"Enemy ambush has been defeated.",		"assigned_delayed":""
+}}

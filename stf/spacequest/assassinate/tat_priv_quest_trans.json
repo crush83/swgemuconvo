@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/tat_priv_quest_trans",
+	"entries": {
+		"title_d":"Destroy the Corsair Pirates and recover the cargo",		"title":"Lok System: Destroy the Corsair Pirates",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Corsair Behemoth",		"quest_target_d":"This craft has the cargo, you must destroy them before they can Hyperspace Jump away",		"quest_location_t":"Lok System",		"quest_location_d":"Corsair Lane in the Lok System",		"quest_escort_t":"Corsair Man O'war",		"quest_escort_d":"A dangerous escort, destroy these to protect the cargo.",		"failed_escape":"You let him get away, this is unacceptable.",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Talon: < \#pcontrast1 Nice shooting on that Behemoth.  Now finish off his escort, we need to send a message. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 Talon: < \#pcontrast1 Good work, that will teach them to interfere with the alliance.",		"arrival_phase_2":"\#pcontrast3 Talon: < \#pcontrast1  We have located the ones responsible, take them down! \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Talon: < \#pcontrast1 Initial reports indicate this is the work of a flight of Canyon Corsair. \#pcontrast3 >"
+}}

@@ -1,3 +1,37 @@
-[
-'1':'housing',
-]
+{
+	"stfFile":"kb/kb_housing_d",
+	"entries": {
+		"housing":"Architects have the ability to create housing for their fellow players. For each planet, there are many different sizes and looks from which to choose. Housing provides a large array of functions and can fit many lifestyles from the expert crafter to the brave adventurer! Each house, small and large, has a terminal from which its owner can do many day-to-day tasks. Below is a list of the functions available and a short description of what each option may be used for.
+
+Destroy Structure - This option can be used to remove your house from the world. In most cases, you won't recover the deed you used to place the structure. At the time of destruction, all items left inside the house will also be destroyed. Only use this option if you are certain you no longer want the house.
+
+Status - The status of your home. Valuable information, such as how much maintenance you've paid for, the number of items you have in your home and the level of privacy you've set for your home, is listed here.
+
+Pay Maintenance - In order for your home to remain in the world, you must pay maintenance to upkeep it. Once you've paid for maintenance, you may check how much you've paid and how long it will last in the 'Status' option on the terminal.
+
+Set Name - You may set the name of your home. The name can be the name of your shop or just a simple name such as 'Soandso's House'.
+
+Declare Residence - Normally used when participating in a player-run city, this option enables you to be a part of a city and participate in its activities.
+
+Privacy - This option enables you to set the privacy of your home. For instance, if you're running a business, you'll want your home to be public. However, if you're a quiet person, you'll want to set the privacy of your home as private.
+
+Find lost Items - If you lose items while moving them around inside your home, you may find them by using this option. The 'Find lost items' option finds a particular object that may reside in a wall and brings it to your location. However, it may move items that you've purposefully stuck in the wall for artistic reasons. Caution should be used when selection this option.
+
+Delete All Items - This option destroys all items left inside your home. Use extreme caution when selecting this option as CSRs will not replace them once they have been destroyed.
+
+Administrator List - Players on this list will have the same access permissions as you. They will be able to pay maintenance or even destroy your home. Use this option with extreme caution and only allow your most trusted friends to be on this list.
+
+Entry List - If you want your home to be private, but allow trusted friends to enter, you may add them to the entry list.
+
+Ban List - If a particular player is abusing you or causing problems in your home, you may ban them from entering your home by using this option. It is listed under the 'Structure Permissions' option.
+
+
+Moving Items
+
+Architects can also create a vast variety of furniture and decorations for your new home. To move an object in your home, place it down and click on it to activate the radial menu. For convenience, slash commands have also been included for more flexibility. Below are the common commands used when decorating.
+
+/moveFurniture <UP/DOWN/FORWARD/BACK> <distance 1-500>
+/rotateFurniture <LEFT/RIGHT> <degrees>
+
+Please use caution when using the /moveFurniture command. Items lost in ceilings, below floors or in walls will most likely not be recoverable and will not be replaced by a CSRs. If you use the shortened version  of the /moveFurniture command (/move <UP/DOWN/FORWARD/BACK>) and receive an error explaining that the object is not inside your home, there may be a static structure in your area with the words 'Up', 'Down', 'Forward', 'Back'. To correct this particular issue, you'll need to use the full command. For instance, in parts of the galaxy, there is an outpost called the 'Forward Outpost'. This causes issues with the shortened version of the /moveFurniture command. In this case, you should use the full length version to avoid future errors."
+}}

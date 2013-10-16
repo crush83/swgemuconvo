@@ -1,21 +1,5 @@
-[
-'42':'npc_3_1',
-'41':'npc_2_1',
-'40':'npc_1_1',
-'44':'player_2_1',
-'45':'npc_reward_1',
-'52':'npc_4_1',
-'55':'player_3_2',
-'54':'player_3_1',
-'53':'npc_4_2',
-'9':'not_it',
-'51':'npc_reward_2',
-'50':'player_2_2',
-'49':'player_1_2',
-'48':'npc_3_2',
-'47':'npc_2_2',
-'46':'npc_1_2',
-'2':'cantwork',
-'1':'gotowork',
-'43':'player_1_1',
-]
+{
+	"stfFile":"npc_mission/static_scientist_deliver",
+	"entries": {
+		"npc_3_1":"Well, certainly there are other artifacts.  Too bad, this one was really good...",		"npc_2_1":"I thought so.  You look like a good man.  I'll make it worth your while.",		"npc_1_1":"I've been a museum curator for many years, and on this planet we found the oldest tomb I've ever seen.  Unfortunately some grave robbers took the artifact I was studying.  If you would be so kind, perhaps you can get it back?",		"player_2_1":"I don't care about artifacts.  Forget it.",		"npc_reward_1":"Here you go, these bugs are very rare, and could be worth a lot if you can find a buyer.",		"npc_4_1":"It was an ancient ritual device of some sort.  I need to study it further to find out exactly what it was for.",		"player_3_2":"What kind of creatures were you studying?",		"player_3_1":"What was the artifact?",		"npc_4_2":"That's highly classified.  That's why I need that evidence back before someone finds out what I was doing.  You don't have a problem with this do you?",		"not_it":"No, sorry, that's not the item I was looking for...",		"npc_reward_2":"Here you go.  I found this nice picture of the creature I was studying.  It's really all I have to give you though.",		"player_2_2":"Oh, my, I couldn't care less about you and your problem.",		"player_1_2":"I'll get it back.  Industrial espionage is a terrible thing.",		"npc_3_2":"Great.  I'm wasting my time with you then.  Do you know anyone who DOES work?",		"npc_2_2":"Thanks.  I really appreciate it.  I'll find something to give you when you return.",		"npc_1_2":"I've been researching animals, but an industrial spy stole one of my cages.  It still had some cell structures in it from the creature.  I need it back before he figures out what's in it.  Can you help me?",		"cantwork":"I understand you're already working for someone else.  Come back when you're done with that job.",		"gotowork":"I need you to finish that task I gave you earlier.  Ok?",		"player_1_1":"Yeah, I can get it.  I hate graverobbers."
+}}

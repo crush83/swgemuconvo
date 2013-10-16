@@ -1,7 +1,5 @@
-[
-'5':'help',
-'4':'cpt_journal',
-'3':'show_mission',
-'2':'forcesensitive',
-'1':'quests',
-]
+{
+	"stfFile":"ui_quest",
+	"entries": {
+		"help":"This is your quest journal.  Active and completed quests will be displayed here.  Click on a category to display quests in that category.  Quests displayed in a contrasting color (normally white) are "active", meaning uncompleted.  Quests in faded text (normally gray) have been completed.  Completed quests are only displayed if the "Include Completed Quests" box is checked; active quests are always displayed.  Higlight a quest to get more information about it in the lower half of the window.",		"cpt_journal":"Quest Journal",		"show_mission":"Include Completed Quests",		"forcesensitive":"Quests",		"quests":"Categories"
+}}

@@ -1,33 +1,5 @@
-[
-'31':'title_d',
-'30':'title',
-'29':'taunt_5',
-'28':'taunt_4',
-'27':'taunt_3',
-'26':'taunt_2',
-'25':'taunt_1',
-'24':'targets_detected',
-'23':'targets_behind',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_destroy_t',
-'19':'quest_destroy_d',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'duty_update',
-'13':'dd_boss_taunt_5',
-'12':'dd_boss_taunt_4',
-'11':'dd_boss_taunt_3',
-'10':'dd_boss_taunt_2',
-'9':'dd_boss_taunt_1',
-'8':'complete',
-'7':'boss_title_5',
-'6':'boss_title_4',
-'5':'boss_title_3',
-'4':'boss_title_2',
-'3':'boss_title_1',
-'2':'boss_detected',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_duty/corellia_imperial_6",
+	"entries": {
+		"title_d":"Travel to the Corellia system and destroy the remaining B-wing prototypes. A destroy duty is a voluntary mission that you are able to quit at any time without repercussions. When you reach the Corellia system a navigation waypoint will be sent to you. Travel to this waypoint and you will be attacked by enemy fighters. Each time you destroy a wave of fighters a new wave will attack. Once you have destroyed all the attack waves at one waypoint, you will receive a new waypoint that you can fly to and continue destroying the enemy craft. A destroy duty will continue in this manner until you decide to stop.",		"title":"Corellia System: Destroy the Remaining B-wing Prototypes Duty",		"taunt_5":"Time to pay for your endless crimes, filthy Imperial henchman!",		"taunt_4":"You will never leave this sector, murderer!",		"taunt_3":"This new technology is far superior to your puny vessel. Prepare to die Imperial scum!",		"taunt_2":"Your the scum that shot down my brother, I will avenge him!",		"taunt_1":"You're all mine, Imperial dog!",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"quest_location_t":"Travel to the Corellian System",		"quest_location_d":"Travel to the Corellia system and move towards your first navigation waypoint to begin the destroy duty mission. When you destroy all attack waves at that waypoint you will receive a new navigation waypoint.",		"quest_destroy_t":"Travel to the Navigation Waypoint and Destroy the B-wings",		"quest_destroy_d":"Once you have reached the navigation waypoint, you will be attacked by B-wings. Destroy the B-wings at this location until you receive a new navigation waypoint to your next battleground. If you destroy enough of these B-wings, the Rebellion will send out better trained pilots in order to deal with you. Destroy duties can be quit at any time. Simply abort the mission or leave the system.",		"level_increase":"The Rebels are ramping up their activity in response to your victories.",		"level_boss_dead":"You showed amazing skills pilot, the Rebel scum will speak your name in fear! Stand by for further orders.",		"level_boss":"Black Epsilon Command: < The Rebel scum has sent a %TO to bring you down, proceed with caution. Emperor guide you! >",		"found_loc":"The next area of spotted B-Wing activity has been uploaded to your nav computer. Proceed as planned.",		"duty_update":"Black Epsilon Command: < %TO >",		"dd_boss_taunt_5":"Finally a worthy opponent. I hope you have made peace with your maker, you're about to meet him!",		"dd_boss_taunt_4":"You filthy scum, I will avenge my friends!",		"dd_boss_taunt_3":"This monster is all mine, you will pay for your crimes!",		"dd_boss_taunt_2":"The reign of the Empire is coming to a end and it starts with you!",		"dd_boss_taunt_1":"This is who I'm missing supper for? Give me two minutes to handle this.",		"complete":"Good work pilot, the Emperor would be proud. We can't detect anymore B-Wing Prototypes in the area, return to base.",		"boss_title_5":"Ace Veteran Rebel Pilot",		"boss_title_4":"Furious Veteran Rebel Pilot",		"boss_title_3":"Grim Veteran Rebel Pilot",		"boss_title_2":"Veteran Rebel Pilot",		"boss_title_1":"Experienced Rebel Pilot",		"boss_detected":"Tactical Computer: < Vessel with veteran insignias on attack vector, weapon systems armed. >",		"Quest Log Data":"Text"
+}}

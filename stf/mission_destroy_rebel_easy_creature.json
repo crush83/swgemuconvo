@@ -1,7 +1,5 @@
-[
-'5':'destroy_rebel_easy_creature_5',
-'4':'destroy_rebel_easy_creature_4',
-'3':'destroy_rebel_easy_creature_3',
-'2':'destroy_rebel_easy_creature_2',
-'1':'destroy_rebel_easy_creature_1',
-]
+{
+	"stfFile":"mission_destroy_rebel_easy_creature",
+	"entries": {
+		"destroy_rebel_easy_creature_5":"Animals in this location appear to be infected with some sort of disease.  In order to maintain the safety of our personnel and any innocent civilians in the area we need someone to clean the area immediately.",		"destroy_rebel_easy_creature_4":"Our structures in this area are compromised by the local wildlife.  They're chewing through power cables, digging around the foundations, and generally causing everyone in the area to be miserable.  Please clean this area out immediately.",		"destroy_rebel_easy_creature_3":"We suspect the Empire has planted listening devices on some of the animals in the local area.  There is a large infestation near this location that needs to be exterminated for the safety of the alliance.",		"destroy_rebel_easy_creature_2":"Construction crews are prepared to build a landing bay for alliance ships at this location, but are unable due to an infestation of wildlife.  We need someone to clean this area as soon as possible.",		"destroy_rebel_easy_creature_1":"An infestation of animals has us worried about the safety of one of our hidden bases.  The large population is feeding off our trash, and may draw unwanted attention to the location.  It is imperative that this area be cleaned immediately."
+}}

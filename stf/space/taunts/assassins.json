@@ -1,22 +1,5 @@
-[
-'111':'death5',
-'110':'death4',
-'109':'death3',
-'108':'death2',
-'107':'death1',
-'106':'entercombat5',
-'105':'entercombat4',
-'104':'entercombat3',
-'103':'entercombat2',
-'102':'entercombat1',
-'101':'hityou5',
-'100':'hityou4',
-'99':'hityou3',
-'98':'hityou2',
-'97':'hityou1',
-'96':'gothit5',
-'95':'gothit4',
-'94':'gothit3',
-'93':'gothit2',
-'92':'gothit1',
-]
+{
+	"stfFile":"space/taunts/assassins",
+	"entries": {
+		"death5":"The Dark Veil Order shall avenge my death!",		"death4":"Infidel! You shall not escape the Reverend Oni`antae!",		"death3":"May the Heart of Dathomir flail the skin off your bones!",		"death2":"May the Reverend Oni`antae sacrifice you to the Heart of Dathomir!",		"death1":"Oh, Reverend Oni`antae, how I have failed you! Save me from despair!",		"entercombat5":"May your pain be quick and painless, infidel!",		"entercombat4":"The sight of you digusts me! I must cleanse you from the Heart of Dathomir!",		"entercombat3":"The cleansing will start with you, %NU!",		"entercombat2":"Reverend Oni`antae! Guide me so that we, together, may destroy this infidel!",		"entercombat1":"Fear the unholy might of the Dark Veil Order!",		"hityou5":"I wish you well in the next life, infidel. The Heart of Dathomir is merciless to the unclean!",		"hityou4":"Reverend Oni`antae will be pleased!",		"hityou3":"We shall pay homage to your essence as it is consumed by the Heart of Dathomir!",		"hityou2":"May your death be quick and painless, %Nu!",		"hityou1":"A small victory in a vast war against unclean beings!",		"gothit5":"Death shall consume you, infidel!",		"gothit4":"Luck seems to be on your side, my friend. But you will not defeat me!",		"gothit3":"You may destroy me, but you'll never destroy the Dark Veil Order!",		"gothit2":"I will not be defeated!",		"gothit1":"Reverend Oni`antae! I have been hit! Help me!"
+}}

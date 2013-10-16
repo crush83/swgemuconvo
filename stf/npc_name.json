@@ -1,192 +1,167 @@
-[
-'190':'dark_trooper',
-'189':'chiss_base_male',
-'188':'chiss_base_female',
-'187':'whiphid_base_female',
-'186':'whiphid_base_male',
-'185':'dantari_base_female',
-'184':'zabrak_base_male',
-'183':'zabrak_base_female',
-'182':'yuzzum_base_male',
-'181':'yuzzum_base_female',
-'180':'wookiee_base_male',
-'179':'wookiee_base_female',
-'178':'wistie_base_male',
-'177':'wistie_base_female',
-'176':'weequay_base_male',
-'175':'weequay_base_female',
-'174':'waitress',
-'173':'vrovel',
-'172':'viopa',
-'171':'twilek_base_male',
-'170':'twilek_base_female',
-'169':'tusken_raider_base_male',
-'168':'tusken_raider_base_female',
-'167':'tulgah_base_male',
-'166':'tulgah_base_female',
-'165':'trandoshan_base_male',
-'164':'trandoshan_base_female',
-'163':'toydarian_base_male',
-'162':'toydarian_base_female',
-'161':'thief',
-'160':'teek_base_male',
-'159':'teek_base_female',
-'158':'tatooine_herald_02',
-'157':'tatooine_herald_01',
-'156':'talz_base_male',
-'155':'talz_base_female',
-'154':'sullustan_base_male',
-'153':'sullustan_base_female',
-'152':'stormtrooper_black_hole',
-'151':'stormtrooper',
-'150':'storm_commando',
-'149':'smuggler',
-'148':'skill_trainer',
-'147':'shop_customer',
-'146':'shistavanen_base_male',
-'145':'shistavanen_base_female',
-'144':'selonian_base_male',
-'143':'selonian_base_female',
-'142':'scout_trooper',
-'141':'rodian_base_male',
-'140':'rodian_base_female',
-'139':'refugee',
-'138':'rebel_military',
-'137':'quarren_base_male',
-'136':'quarren_base_female',
-'135':'qtqc',
-'134':'prisoner',
-'133':'prison_warden',
-'132':'police_officer',
-'131':'pirate',
-'130':'phlog_base_male',
-'129':'phlog_base_female',
-'128':'ortolan_base_male',
-'127':'ortolan_base_female',
-'126':'nurse',
-'125':'nikto_base_male',
-'124':'nikto_base_female',
-'123':'naboo_herald_02',
-'122':'naboo_herald_01',
-'121':'musician',
-'120':'moncal_base_male',
-'119':'moncal_base_female',
-'118':'merchant',
-'117':'marauder_base_male',
-'116':'marauder_base_female',
-'115':'lok_herald_02',
-'114':'lok_herald_01',
-'113':'kubaz_base_male',
-'112':'kubaz_base_female',
-'111':'kowakian_monkey_lizard_base_male',
-'110':'kowakian_monkey_lizard_base_female',
-'109':'klatooinian_base_male',
-'108':'klatooinian_base_female',
-'107':'kitonak_male',
-'106':'kitonak_base_male',
-'105':'kitonak_base_female',
-'104':'jinda_base_male',
-'103':'jinda_base_female',
-'102':'jawa_base_male',
-'101':'jawa_base_female',
-'100':'ithorian_base_male',
-'99':'ithorian_base_female',
-'98':'it_harburik',
-'97':'ishi_tib_base_male',
-'96':'ishi_tib_base_female',
-'95':'imperial_military',
-'94':'hutt_thug',
-'93':'hutt_base_male',
-'92':'hutt_base_female',
-'91':'human_base_male',
-'90':'human_base_female',
-'89':'hospital_patient',
-'88':'gupin_base_male',
-'87':'gupin_base_female',
-'86':'gungan_base_male',
-'85':'gungan_base_female',
-'84':'guard',
-'83':'gran_base_male',
-'82':'gran_base_female',
-'81':'gotal_base_male',
-'80':'gotal_base_female',
-'79':'gorax_base_male',
-'78':'gorax_base_female',
-'77':'gethzerion',
-'76':'geonosian_base_male',
-'75':'generic_zabrak_male',
-'74':'generic_zabrak_female',
-'73':'generic_wookiee_male',
-'72':'generic_wookiee_female',
-'71':'generic_twilek_male',
-'70':'generic_twilek_female',
-'69':'generic_tusken_raider_male',
-'68':'generic_tusken_raider_female',
-'67':'generic_trandoshan_male',
-'66':'generic_trandoshan_female',
-'65':'generic_rodian_male',
-'64':'generic_rodian_female',
-'63':'generic_npc',
-'62':'generic_moncal_male',
-'61':'generic_moncal_female',
-'60':'generic_jawa_male',
-'59':'generic_jawa_female',
-'58':'generic_ishi_tib_male',
-'57':'generic_ishi_tib_female',
-'56':'generic_human_male',
-'55':'generic_human_female',
-'54':'generic_gran_male',
-'53':'generic_gran_female',
-'52':'generic_devaronian_male',
-'51':'generic_devaronian_female',
-'50':'generic_bothan_male',
-'49':'generic_bothan_female',
-'48':'generic_bith_male',
-'47':'generic_bith_female',
-'46':'generic_aqualish_male',
-'45':'generic_aqualish_female',
-'44':'garage_attendant',
-'43':'gamorrean_base_male',
-'42':'gamorrean_base_female',
-'41':'farmer',
-'40':'ewok_base_male',
-'39':'ewok_base_female',
-'38':'eker',
-'37':'duros_base_male',
-'36':'duros_base_female',
-'35':'dulok_base_male',
-'34':'dulok_base_female',
-'33':'dug_base_male',
-'32':'dug_base_female',
-'31':'drunk',
-'30':'drall_base_male',
-'29':'drall_base_female',
-'28':'doctor',
-'27':'devaronian_base_male',
-'26':'devaronian_base_female',
-'25':'dantari_base_male',
-'24':'dancer',
-'23':'corellia_herald_02',
-'22':'corellia_herald_01',
-'21':'concierge',
-'20':'cloning_attendant',
-'19':'chadra_fan_base_male',
-'18':'chadra_fan_base_female',
-'17':'captain_hassk',
-'16':'bothan_base_male',
-'15':'bothan_base_female',
-'14':'bith_base_male',
-'13':'bith_base_female',
-'12':'bellboy',
-'11':'beggar',
-'10':'base_npc',
-'9':'bartender',
-'8':'banker',
-'7':'askajian_base_male',
-'6':'askajian_base_female',
-'5':'arcona_base_base_male',
-'4':'arcona_base_base_female',
-'3':'aqualish_base_male',
-'2':'aqualish_base_female',
-'1':'air_car_attendant',
-]
+{
+	"stfFile":"npc_name",
+	"entries": {
+		"dark_trooper":"dark trooper",		"chiss_base_male":"chiss male",		"chiss_base_female":"chiss female",		"whiphid_base_female":"whiphid female",		"whiphid_base_male":"whiphid male",		"dantari_base_female":"dantari female",		"zabrak_base_male":"zabrak male
+",		"zabrak_base_female":"zabrak female
+",		"yuzzum_base_male":"yuzzum male
+",		"yuzzum_base_female":"yuzzum female
+",		"wookiee_base_male":"wookiee male
+",		"wookiee_base_female":"wookiee female
+",		"wistie_base_male":"wistie male
+",		"wistie_base_female":"wistie female
+",		"weequay_base_male":"weequay male
+",		"weequay_base_female":"weequay female
+",		"waitress":"waitress
+",		"vrovel":"Brother Vrovel",		"viopa":"Lady Viopa",		"twilek_base_male":"twilek male
+",		"twilek_base_female":"twilek female
+",		"tusken_raider_base_male":"tusken raider male",		"tusken_raider_base_female":"tusken raider female",		"tulgah_base_male":"tulgah male
+",		"tulgah_base_female":"tulgah female
+",		"trandoshan_base_male":"trandoshan male
+",		"trandoshan_base_female":"trandoshan female
+",		"toydarian_base_male":"toydarian male
+",		"toydarian_base_female":"toydarianfemale
+",		"thief":"thief
+",		"teek_base_male":"teek male
+",		"teek_base_female":"teek female
+",		"tatooine_herald_02":"Vi`conya T`ili",		"tatooine_herald_01":"Errik Darksider",		"talz_base_male":"tal male
+",		"talz_base_female":"talz female
+",		"sullustan_base_male":"sullustan male
+",		"sullustan_base_female":"sullustan female
+",		"stormtrooper_black_hole":"black hole stormtrooper",		"stormtrooper":"stormtrooper",		"storm_commando":"storm commando",		"smuggler":"smuggler
+",		"skill_trainer":"skill trainer
+",		"shop_customer":"shop customer
+",		"shistavanen_base_male":"shistavanen male
+",		"shistavanen_base_female":"shistavanen female
+",		"selonian_base_male":"selonian male
+",		"selonian_base_female":"selonian female
+",		"scout_trooper":"scout trooper",		"rodian_base_male":"rodian male
+",		"rodian_base_female":"rodian female
+",		"refugee":"refugee
+",		"rebel_military":"rebel military
+",		"quarren_base_male":"quarren male
+",		"quarren_base_female":"quarren female
+",		"qtqc":"QT-QC",		"prisoner":"prisoner
+",		"prison_warden":"prison warden
+",		"police_officer":"police officer
+",		"pirate":"pirate
+",		"phlog_base_male":"phlog male
+",		"phlog_base_female":"phlog female
+",		"ortolan_base_male":"ortolan male
+",		"ortolan_base_female":"ortolan female
+",		"nurse":"nurse
+",		"nikto_base_male":"nikto male
+",		"nikto_base_female":"nikto female
+",		"naboo_herald_02":"Ronin Lightrunner",		"naboo_herald_01":"Vaik`anna Silverlight ",		"musician":"musician
+",		"moncal_base_male":"mon calamari male
+",		"moncal_base_female":"mon calamari female
+",		"merchant":"merchant
+",		"marauder_base_male":"marauder male
+",		"marauder_base_female":"marauder female
+",		"lok_herald_02":"Andria E`liyha",		"lok_herald_01":"Talia v`laenya",		"kubaz_base_male":"kubaz male
+",		"kubaz_base_female":"kubaz female
+",		"kowakian_monkey_lizard_base_male":"kowakian monkey lizard male
+",		"kowakian_monkey_lizard_base_female":"kowakian monkey lizard female
+",		"klatooinian_base_male":"klatooinian male
+",		"klatooinian_base_female":"klatooinian female
+",		"kitonak_male":"Kitonak Male",		"kitonak_base_male":"kitonak male
+",		"kitonak_base_female":"kitonak female
+",		"jinda_base_male":"jinda male
+",		"jinda_base_female":"jinda female
+",		"jawa_base_male":"jawa male
+",		"jawa_base_female":"jawa female
+",		"ithorian_base_male":"ithorian male
+",		"ithorian_base_female":"ithorian female
+",		"it_harburik":"It Harburik",		"ishi_tib_base_male":"ishi tib male
+",		"ishi_tib_base_female":"ishi tib female
+",		"imperial_military":"imperial military
+",		"hutt_thug":"hutt thug
+",		"hutt_base_male":"hutt base male
+",		"hutt_base_female":"hutt base female
+",		"human_base_male":"human male
+",		"human_base_female":"human female
+",		"hospital_patient":"hospital patient
+",		"gupin_base_male":"gupin male
+",		"gupin_base_female":"gupin female
+",		"gungan_base_male":"gungan male
+",		"gungan_base_female":"gungan female
+",		"guard":"guard
+",		"gran_base_male":"gran male
+",		"gran_base_female":"gran female
+",		"gotal_base_male":"gotal male
+",		"gotal_base_female":"gotal female
+",		"gorax_base_male":"gorax male
+",		"gorax_base_female":"gorax female
+",		"gethzerion":"gethzerion
+",		"geonosian_base_male":"geonosian male",		"generic_zabrak_male":"zabrak male
+",		"generic_zabrak_female":"zabrak female
+",		"generic_wookiee_male":"wookiee male
+",		"generic_wookiee_female":"wookiee female
+",		"generic_twilek_male":"twilek male
+",		"generic_twilek_female":"twilek female
+",		"generic_tusken_raider_male":"tusken raider male
+",		"generic_tusken_raider_female":"tusken raider female
+",		"generic_trandoshan_male":"trandoshan male
+",		"generic_trandoshan_female":"trandoshan female
+",		"generic_rodian_male":"rodian male
+",		"generic_rodian_female":"rodian female
+",		"generic_npc":"generic npc
+",		"generic_moncal_male":"moncal male
+",		"generic_moncal_female":"moncal female
+",		"generic_jawa_male":"jawa male
+",		"generic_jawa_female":"jawa female
+",		"generic_ishi_tib_male":"ishi tib male
+",		"generic_ishi_tib_female":"ishi tib female
+",		"generic_human_male":"human male
+",		"generic_human_female":"human female
+",		"generic_gran_male":"gran male
+",		"generic_gran_female":"gran female
+",		"generic_devaronian_male":"devaronian male
+",		"generic_devaronian_female":"devaronian female
+",		"generic_bothan_male":"bothan male
+",		"generic_bothan_female":"bothan female
+",		"generic_bith_male":"bith male
+",		"generic_bith_female":"bith female
+",		"generic_aqualish_male":"aqualish male
+",		"generic_aqualish_female":"aqualish female
+",		"garage_attendant":"garage attendant
+",		"gamorrean_base_male":"gamorrean male
+",		"gamorrean_base_female":"gamorrean female
+",		"farmer":"farmer
+",		"ewok_base_male":"ewok male
+",		"ewok_base_female":"ewok female
+",		"eker":"Major Eker",		"duros_base_male":"duros male
+",		"duros_base_female":"duros female
+",		"dulok_base_male":"dulok male
+",		"dulok_base_female":"dulok female
+",		"dug_base_male":"dug male
+",		"dug_base_female":"dug female
+",		"drunk":"drunk
+",		"drall_base_male":"drall male
+",		"drall_base_female":"drall female
+",		"doctor":"doctor
+",		"devaronian_base_male":"devaronian male
+",		"devaronian_base_female":"devaronian female
+",		"dantari_base_male":"dantari male
+",		"dancer":"dancer
+",		"corellia_herald_02":"Karin Featherlight",		"corellia_herald_01":"Demetri Vlash",		"concierge":"concierge
+",		"cloning_attendant":"cloning attendant
+",		"chadra_fan_base_male":"chadra fan male
+",		"chadra_fan_base_female":"chadra fan female
+",		"captain_hassk":"Captain Hassk",		"bothan_base_male":"bothan male
+",		"bothan_base_female":"bothan female
+",		"bith_base_male":"bith male
+",		"bith_base_female":"bith female
+",		"bellboy":"bellboy
+",		"beggar":"beggar
+",		"base_npc":"base npc
+",		"bartender":"bartender
+",		"banker":"banker
+",		"askajian_base_male":"askajian male
+",		"askajian_base_female":"askajian female
+",		"arcona_base_base_male":"arcona male
+",		"arcona_base_base_female":"arcona female
+",		"aqualish_base_male":"aqualish male
+",		"aqualish_base_female":"aqualish female
+",		"air_car_attendant":"air car attendant
+"
+}}

@@ -1,38 +1,23 @@
-[
-'36':'number_of_entries',
-'35':'m5t',
-'34':'m5s',
-'33':'m5o',
-'32':'m5l',
-'31':'m5i',
-'30':'m5f',
-'29':'m5d',
-'28':'m4t',
-'27':'m4s',
-'26':'m4o',
-'25':'m4l',
-'24':'m4i',
-'23':'m4f',
-'22':'m4d',
-'21':'m3t',
-'20':'m3s',
-'19':'m3o',
-'18':'m3l',
-'17':'m3i',
-'16':'m3f',
-'15':'m3d',
-'14':'m2t',
-'13':'m2s',
-'12':'m2o',
-'11':'m2l',
-'10':'m2i',
-'9':'m2f',
-'8':'m2d',
-'7':'m1t',
-'6':'m1s',
-'5':'m1o',
-'4':'m1l',
-'3':'m1i',
-'2':'m1f',
-'1':'m1d',
-]
+{
+	"stfFile":"mission/special/mission_destroy_neutral_hard_creature_krayt_tatooine",
+	"entries": {
+		"number_of_entries":"5",		"m5t":"Congratulations, my friend! You are indeed a fine hunter. Your skills aren't as impressive as my own, of course, but you have faced the krayt dragon and survived! That is a quite an accomplishment and you should be proud. I've already told all my friends about you, my apprentice who killed the desert's most dangerous monster!",		"m5s":"Congratulations, my friend! You are indeed a fine hunter. Your skills aren't as impressive as my own, of course, but you have faced the krayt dragon and survived! That is a quite an accomplishment and you should be proud. I've already told all my friends about you, my apprentice who killed the desert's most dangerous monster!",		"m5o":"Mat Rags, Tatooine's Greatest Hunter",		"m5l":"A local hunter has identified a krayt dragon's lair that needs to be destroyed.",		"m5i":"Good news, my friend! I decided that my old bones needed some exercrise, so I struck out into the desert and destroyed that krayt dragon lair. You might hear someone else trying to take credit for the deed, but it was I, Mat Rags, who drove the krayt dragons away. I know I stole your thunder, but I got restless. Better luck next time. ",		"m5f":"Oh, my friend, you have failed miserably! The krayt dragon's lair is still intact, and now the monster is angry. I would go take care of it myself, but I'm wanted on Corellia to deal with some nasty slice-hounds. Hopefully, someone with skills comparable to my own will step forward and deal with any krayts that you've left behind.",		"m5d":"Greetings friend! This is your lucky day! I am Mat Rags, the greatest hunter who has ever lived. Though I may be old, I am still deadly accurate with my Scalphunter 55x projectile rifle, and I can track down any creature, from mutant womp rats to blood-thirsty dewbacks. I have spent most of my life here on Tatooine because the hunting is unparalleled. But, I am getting bored. Fortunately for you, during my last hunt I spotted a krayt dragon lair. I could easily kill this creature myself, but I'm willing to let someone who doesn't have my sterling reputation take it down. Destroying the krayt's lair will make your career, if you survive. Good luck! ",		"m4t":"Krayt Prey",		"m4s":"Transmission Translated from Jawaese for you convenience!
+
+Most exalted hero of the Jawas! We chear your name from First Dawn to Second Dusk! You have made the desert safe, welcoming, home to the Jawas. We will now pay you a sizable, big reward.",		"m4o":"Eet Ptaa",		"m4l":"Jawas from a nearby clan are being killed by a krayt dragon and need help battling the monster.",		"m4i":"Transmission Translated from Jawaese for you convenience!
+
+Vicious, horrible, ugly krayt dragon has suddenly stopped killing Jawas! It has moved away, to kill, mutilate, eat Tusken Raiders! Jawas rejoice, celebrate! But you were not the Jawa hero. You will not receive our Jawa credits.",		"m4f":"Transmission Translated from Jawaese for you convenience!
+
+Jawas still killed, mutilated, eaten by krayt dragons! Horrible, violent death awaits us all! You did not help the Jawas, you will not receive any credits!",		"m4d":"Transmission Translated from Jawaese for you convenience!
+
+Greetings Non-Jawa!
+
+Jawa clan is in frightening, terrible, imminent danger! Enormous, huge krayt dragon has attacked Jawa sandcrawlers! Jawas being consumed, eaten, killed by krayt! Some Jawas have been swallowed whole! Jawas on verge of extinction. Please damage and destroy krayt dragon lair before Jawas are all dead!
+
+Eet Ptaa, Jawa Clan Leader  ",		"m3t":"Krayt Dragon Hunters",		"m3s":"Your mission has been completed successfully! The Tatooine Civilian Defense League will transmit payment immediately. Thank you for your service.",		"m3o":"Tatooine Civilian Defense League",		"m3l":"A spike in reports of krayt dragon sightings has prompted Tatooine authorities to hire adventurers to kill the monsters.  ",		"m3i":"The Tatooine Civilian Defense League has learned that the krayt dragon you were hunting has inexplicably disappeared. It may have fallen victim to the elements, another krayt, or hunters hired by Jabba the Hutt. Whatever the case, your services are no longer needed.",		"m3f":"Your mission has failed. You will not be receiving payment from the Tatooine Civilian Defense League.",		"m3d":"The Tatooine Civilian Defense League is extremely concerned about reported sightings of krayt dragons near large population centers. The krayts are huge, voracious predators. A grown man can stand upright in their open jaws, and their claws are like swords. Worse still, they continue to grow as they age, becoming more powerful and dangerous with each passing season. Therefore, we need to hunt down these monsters as soon as they are spotted. If we can kill the young krayts before they become a threat, life will be much safer on Tatooine.
+
+The Tatooine Civilian Defense League has found a krayt dragon lair that might be harboring a young krayt dragon and her offspring. This lair needs to be destroyed immediately, or the krayts will mature and murder scores of innocent beings.",		"m2t":"The Big Fight",		"m2s":"Good work. You smashed up that lair pretty good. Now I think my rancor will be safe. At least until Jabba decides to put the rancor up against a giant rock mite, or a Jedi, or something even worse...",		"m2o":"Malakili",		"m2l":"Malakili, Jabba's rancor-keeper, is hiring hunters to help protect his favorite pet from a confrontation with a krayt dragon.",		"m2i":"Jabba has changed his mind about putting my rancor up against a krayt dragon. I guess he's having more fun feeding slaves and those dumb Gamorreans to the rancor, at least for now. Since he's called off the hunters looking to capture a krayt, I should probably save my credits and keep you from destroying the krayt lair.",		"m2f":"Stupid mynock... How hard is it to destroy a pile of rocks? Or kill a giant lizard? You can't do anything right. And as long as that krayt dragon cave is still out there, my rancor is in danger.",		"m2d":"It's my job to take care of Jabba the Hutt's pets. I feed 'em, and clean their cells, and try to train 'em if they're smart enough to learn anything. Usually, I don't get too attached, because sooner or later, all of Jabba's pets end up dead. But right now, Jabba has a rancor that just seems special. It will attack anyone, except me. I think it knows that it needs me to take care of it.
+
+The problem is, Jabba likes to see creatures fight. He can invite all of his "friends" to the palace to gamble on the fight. He's put my rancor up against zucca boars, dune lizards, gundarks, and even another rancor. I didn't worry about any of these fights: I knew my rancor could take care of almost any challenger. But now, Jabba is talking about dropping a krayt dragon into the rancor pit. That's one fight I don't think my rancor can win. Jabba already has a few hunters out looking for a krayt to capture, and I'll do anything to make it harder for them to find a dragon. I paid Bib Fortuna to tell me where to find the nearest krayt dragon lair. If you destroy it, then those hunters will have to go looking somewhere else, and they might not ever come back. Then my rancor will be safe. ",		"m1t":"Interlopers",		"m1s":"Thank the Force! I was certain that those of us living in Old Yellow Scale's territory would be forced to move away. The upstarts were causing far too much death and destruction. At least now the number of dragons in the area has been thinned a bit. Hopefully, one of the survivors will drive the others away and become Old Yellow Scale's successor.",		"m1o":"",		"m1l":"The death of an ancient krayt dragon has opened up his former hunting grounds to reckless and dangerous rivals.",		"m1i":"I'm not sure what's happening, but it seems that the krayts are finally turning on one another. I can only assume that the dragons have been fighting over the territory. But looks like one has chased the others away. We've started calling him "Black Tongue," and he seems content to hunt banthas and eopies. As long as Black Tongue keeps the other krayt dragons out of the area, we should be safe... ",		"m1f":"Every time one of the invading krayt dragons kills someone, it reminds me how lucky we were to have Old Yellow Scale roaming the area. Sure, he would up and eat a lone traveler or moisture farmer every dozen seasons or so, but these new krayts are out of control. The death toll is rising fast. And I just keep sending "hired heroes" marching right into the jaws of these monsters... But I don't know how else to stop the creatures.",		"m1d":"When I was a boy, my father used to tell me stories about Old Yellow Scale, the largest and most dangerous krayt dragon to ever wander Tatooine. Our land was part of Old Yellow Scale's territory, and he would sometimes eat our banthas or smash a moisture vaporator. But for the most part, he ignored us, and we left him alone. But all things must eventually become one with the Force, even Old Yellow Scale. He collapsed and died a few seasons ago, and now something even more dangerous has taken his place. 
+
+I guess krayt dragons can smell when one of their kind dies. Almost immediately after Old Yellow Scale perished, other krayts began invading his territory. These new krayts are reckless and voracious. They've done more damage in just a few short seasons than Old Yellow Scale did in his whole life. I don't have the weapons or training to go out and kill a krayt dragon, but I have located the lair of at least one of these monsters. In memory of Old Yellow Scale, go out and destroy the interlopers.  "
+}}

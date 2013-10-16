@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_rebel_tier4_2",
+	"entries": {
+		"title_d":"Another part of the Rebel Alliance is attacking vital parts of the Imperial Inquisition. The Empire has sent in one of their high ranking Inquisitors to bolster the morale and help with tactical suggestions in this battle. You will assist our fellow Alliance members by terminating this Inquisitor before he even reaches the battle.",		"title":"Dathomir system: Terminate the Inquisitor.",		"split_quest_alert_fail":"",		"split_quest_alert":"Worvog Arkon: < Your droid picked up some interesting data from the wreck of the Inquisitor. Deliver it to one of the Alliance smugglers that is nearby. >",		"quest_update":"Worvog Arkon: < %TO >",		"quest_target_t":"Imperial Inquisitor.",		"quest_target_d":"The Inquisitors of the Imperium are always dangerous foes. They are highly skilled and ruthless men, equipped with the latest technology and heavily guarded. Be prepared for a tough battle.",		"quest_location_t":"Dathomir system.",		"quest_location_d":"As always a dangerous system with heavy Imperial presence. Be careful on your way to intercepting the Inquisitor but keep in mind that he is your main target and you can't allow yourself to be distracted.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"He got away! We have bigger things to worry about for now though. Stand by.",		"escort_wiped_out":"I don't know how you took out all his guard but that should make terminating the Inquisitor a walk in the park, get to it!",		"escort_remaining":"Good work pilot but concentrate on the Inquisitor, you can't let him get away!",		"destroy_escort":"Keep at them!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Great job pilot! That was a devastating blow to the Empire.",		"arrival_phase_2":"Intercept and terminate him pilot! I will update his coordinates to you.",		"arrival_phase_1":"Uploading the correct coordinates of your target now, get ready.",		"Quest Log Data":"Text"
+}}

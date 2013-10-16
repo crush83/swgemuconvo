@@ -1,3 +1,5 @@
-[
-'91':'launch_ship',
-]
+{
+	"stfFile":"space/space_terminal",
+	"entries": {
+		"launch_ship":"Launch Starship"
+}}

@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_imperial_tier3_4_c",
+	"entries": {
+		"title_d":"Destroy the Rebel command vessel, Price of Liberty, that is inside the Dathomir system. We have received the location of the Rebel command vessel during the battle. Destroying the vessel should cripple the Rebel rescue operation.",		"title":"Dathomir System: Destroy the Price of Liberty",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Price of Liberty",		"quest_target_d":"Intercept and destroy the Rebel command vessel, Price of Liberty. The vessel appears to be on the run after the unsuccessful space battle. Make sure it is destroyed before it can vacate the system.",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"Remain in the Dathomir system and intercept the Rebel command vessel, Price of Liberty.",		"quest_escort_t":"Destroy the Escorts",		"quest_escort_d":"Destroy all escorts that fly with the Rebel command vessel.",		"failed_escape":"You let the command ship get away! Now the Rebels will be able to strike at us in that system again. Report your failure to your superior officer.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Fighter escort eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI fighter escorts remaining.>",		"destroy_escort":"There are still escort fighters remaining. Wipe them from the galaxy.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Good work, pilot. The Rebel menace in the Dathomir system is gone for now. Return to your superior officer and report your success.",		"arrival_phase_2":"We have a lock. Sending the location to your navigation computer. Proceed as planned.",		"arrival_phase_1":"We are getting a lock on the position of the command vessel. Once you have the coordinates, proceed to that location, destroy the Price of Liberty and everything with her.",		"Quest Log Data":"Text"
+}}

@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_rendezvous2_t',
-'18':'quest_rendezvous2_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_dock2_t',
-'14':'quest_dock2_d',
-'13':'hello_d',
-'12':'found_loc_d',
-'11':'failed_destroyed',
-'10':'docking_started_delivery',
-'9':'docking_complete_delivery',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_delivery',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/corellia_imperial_tier3_1_b",
+	"entries": {
+		"title_d":"Remain in the Yavin system and deliver the joint operations plan. You will receive a navigation waypoint to a shuttle that will pick up the joint operations plan from you. Travel to this navigation waypoint and wait for the shuttle to arrive. Once the shuttle arrives, use the /dock command with the shuttle targeted to transfer the plans. Enemy fighters will attempt to stop this delivery from taking place. You must keep yourself, as well as, the shuttle alive until you can complete the delivery.",		"title":"Yavin System: Deliver the Rebel Data",		"split_quest_alert_fail":"",		"split_quest_alert":"High command also wants a live body to confirm the rebel officer's data. You are going to have to capture a rebel officer and bring him back to HQ alive.",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_rendezvous2_t":"Wait for the Arrival of the Lambda Shuttle",		"quest_rendezvous2_d":"When you arrive at the navigation waypoint to the Lambda shuttle, wait for it to arrive.",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"Remain in the Yavin system and deliver the joint operations plan to the Imperial Lambda Shuttle. You will receive a navigation waypoint to the arrival location of the shuttle. Travel to this location and wait for the shuttle to arrive.",		"quest_dock2_t":"Transfer the Joint Operations Plan",		"quest_dock2_d":"Once the shuttle has arrived, use the /dock command on it in order to transfer the plans. Be on the look out for Rebel fighters who will probably attempt to stop this delivery from happening.",		"hello_d":"I understand that you have something that HQ is very interested in taking a look at.",		"found_loc_d":"Meet the shuttle at this location. Transfer the data immediately on it's arrival.",		"failed_destroyed":"You allowed your transfer shuttle to be destroyed? That was an expensive ship. You are going to have to answer to your commander about this failure.",		"docking_started_delivery":"Beginning docking procedures in order to get the Rebel officer's data.",		"docking_complete_delivery":"We have the data from the rebel officer. Command is very excited to get their hands on this information.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters eliminated.>",		"attack_notify":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Incoming enemy fighters.>",		"assigned_delayed":"",		"arrived_at_delivery":"The Lambda shuttle is on it's way now. Stand by until it has arrived at your location.",		"Quest Log Data":"Text"
+}}

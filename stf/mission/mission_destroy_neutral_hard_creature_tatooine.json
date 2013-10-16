@@ -1,88 +1,73 @@
-[
-'86':'number_of_entries',
-'85':'m20t',
-'84':'m20s',
-'83':'m20o',
-'82':'m20d',
-'81':'m19t',
-'80':'m19s',
-'79':'m19o',
-'78':'m19d',
-'77':'m18t',
-'76':'m18s',
-'75':'m18o',
-'74':'m18d',
-'73':'m17t',
-'72':'m17s',
-'71':'m17o',
-'70':'m17d',
-'69':'m16t',
-'68':'m16s',
-'67':'m16o',
-'66':'m16d',
-'65':'m15t',
-'64':'m15s',
-'63':'m15o',
-'62':'m15d',
-'61':'m14t',
-'60':'m14s',
-'59':'m14o',
-'58':'m14d',
-'57':'m13t',
-'56':'m13s',
-'55':'m13o',
-'54':'m13d',
-'53':'m12t',
-'52':'m12s',
-'51':'m12l',
-'50':'m12d',
-'49':'m11t',
-'48':'m11s',
-'47':'m11l',
-'46':'m11d',
-'45':'m10t',
-'44':'m10s',
-'43':'m10o',
-'42':'m10d',
-'41':'m9t',
-'40':'m9s',
-'39':'m9o',
-'38':'m9d',
-'37':'m8t',
-'36':'m8s',
-'35':'m8o',
-'34':'m8d',
-'33':'m7t',
-'32':'m7s',
-'31':'m7o',
-'30':'m7l',
-'29':'m7i',
-'28':'m7d',
-'27':'m6t',
-'26':'m6s',
-'25':'m6o',
-'24':'m6d',
-'23':'m5t',
-'22':'m5s',
-'21':'m5o',
-'20':'m5l',
-'19':'m5d',
-'18':'m4t',
-'17':'m4s',
-'16':'m4o',
-'15':'m4l',
-'14':'your_former_employer',
-'13':'m4d',
-'12':'m3t',
-'11':'m3s',
-'10':'m3o',
-'9':'m3d',
-'8':'m2t',
-'7':'m2s',
-'6':'m2o',
-'5':'m2d',
-'4':'m1t',
-'3':'m1s',
-'2':'m1o',
-'1':'m1d',
-]
+{
+	"stfFile":"mission/mission_destroy_neutral_hard_creature_tatooine",
+	"entries": {
+		"number_of_entries":"20",		"m20t":"Nerf Herder",		"m20s":"Hey, nice work! My buddy Blerx told me that no one would ever be able to stand up to those monsters, but you're obviously tougher than anyone he's met before. My nerfs are safe, and my credits are yours! Someday, I'm going to become a hero just like you...",		"m20o":"Domo Jones",		"m20d":"The Empire might tell you that nerf herders like me aren't good for anything, and maybe they're right. I certainly don't enjoy being a nerf herder, especially now, when my entire herd is threatened by some slobbering, blood-drinking monsters. I have the heart of an adventurer, but not the weapons. I've found the lair of the creatures that have been killing my herd, but I wouldn't even know how to destroy it. I do have some credits hidden away, though. I'd be happy to pay you to destroy the lair for me. ",		"m19t":"The Mechanic",		"m19s":"Business will soon boom again! The lair is destroyed, and Geordi Hans, my very talented mechanic, is no longer afraid to travel the desert. He is planning a trip to meet the Jawas very soon. I'm sure that all his repairs will be completed within a few standard days, and the credits will be flowing into Spaceport Speeders again! It is a pleasure doing business with you.",		"m19o":"Unut Poll, Proprietor, Spaceport Speeders",		"m19d":"I own Spaceport Speeders, Mos Eisley. Business is bad, very bad. Most of our credits come from repairs. My mechanic, Geordi Hans, he is good with fixing landspeeders, great at haggling with Jawas, and a remarkable landspeeder pilot. But he's no good with a blaster. And trips from Mos Eisley to visit the Jawas are now nearly impossible, due to monsters that roam the desert. I don't want Geordi - who is pratically a hatchling - putting himself into danger. I'll hire you to destroy the lairs of these creatures instead. But know this: the mission is extremely dangerous. You may die. You will probably be seriously hurt. But think of the credits that wait for you if you survive!",		"m18t":"Clear our Names",		"m18s":"We have to admit, we weren't sure you were cut out for this job when we hired you. But you've proven a good addition to our team. By destroying that lair, you're helping to prove that we really are interested in the fate of Tatooine. We aren't the greedy, immoral Duros that everyone would believe. The credits we've paid you are credits well-spent.",		"m18o":"Chachi and Ohwun De Maal",		"m18d":"We were once respected on this planet. "Chachi and Ohwun De Maal run the finest docking bays in all of Mos Eisley," they would say. "They can be trusted with any ship, and any secret. They're honest Duros." Sure, we greased the servomotors from time to time, paying off Lieutenant Harburik or Prefect Talmont when necessary. And we showered Jabba with gifts to ensure his protection. But ever since that Corellian smuggler defied quarantine and lit out of Docking Bay 94 amid a storm of Imperial blaster bolts, we've lost our good name. It took us almost an entire season to prove our innocence, and we still get suspicious stares. In order to show the people of Tatooine that we aren't criminals, we've decided to do our civic duty and help clean up the desert. Jabba and the Imperials certainly aren't going to do it... We have the extra credits, and we're going to use them to reward anyone - even smugglers - who can destroy the lairs of predatory creatures on Tatooine. If you're interested, just take the coordinates that we've provided and blast those monsters and their home to dust.",		"m17t":"Excessive Force",		"m17s":"I suppose you're not completely worthless. You did conduct yourself admirably in the field, and completed the assignment I gave you. Most importantly, you kept my men out of danger. Prefect Talmont might complain about the fact that I hired a free agent to deal with trouble on Tatooine, but I don't care: as long as I'm still alive and have my wits about me, Talmont had better watch his scaly back.
+
+As promised, I did siphon some funds from Talmont's Imperial expense account. They're yours now. I'd spend them quickly, before Talmont manages to track them down.",		"m17o":"Lieutenant Harburik",		"m17d":"Yes, I admit, I'm a hateful man. I hate Prefect Talmont and Governor Aryon for having more power. I hate this suns-blasted planet. I hate the sand, and the heat, and the stinking Jawas. But, most of all, I hate it when one of my men is placed in danger. I'm the Chief of Police in Mos Eisley, and Prefect Talmont has my troops running all over the desert on their little errands. Lately, though, we've been facing more and more dangerous beasts in the interest of "keeping the peace." Call me paranoid, but I think the Talmont is trying to get rid of me.
+
+Talmont just assigned my men yet another lair to destroy. But I'm not about to walk into a death trap. So, the only solution is to hire some blaster jockey or muscle-bound brawler to handle the creatures for me. Do this task for me, and I'll find a way to get some of Talmont's credits into your account. ",		"m16t":"Governor's Agent",		"m16s":"I am impressed. You have served me well. By taking it upon yourself to destroy the creature lair, you have saved my Imperial expense account thousands of credits, which I plan to use to renovate my quarters in Bestine. Although Imperial officers are not known for keeping their word, I have honored our contract and transferred a reward to your own account. ",		"m16o":"Governor Tour Aryon",		"m16d":"I don't normally deal with your sort, so forgive me if I fail to follow proper protocol. As Imperial Governor of Tatooine, I usually rely on Prefect Talmont to deal with all disturbances and other military matters. Unfortunately, he handles every situation with far too much force. The Empire should not send an entire squad of stormtroopers into the desert every time some Tatooine local complains about rock mites or womp rats. Such wasteful military operations drain thousands of credits from my Imperial expense account every season. To stop this financial hemorrhaging, I will no longer allow Talmont to send Imperial loyalists into the desert in search of monsters. However, I am willing to use my own personal funds to pay mercenaries like yourself to combat these creatures instead. According to Talmont's data, our patrols have located the lair of some despicable Tatooine beast. Go now and destroy it, and then the reward shall be yours.  ",		"m15t":"Diath's Shadow",		"m15s":"The Force is with you, hero. Somewhere, Sidrona Diath is smiling on Tatooine. It seems there is at least one champion on this planet willing to defend us from danger. As a gift, I give you a handful of credits. I hope you will use them to arm yourself in order to continue your crusade against Tatooine's monsters.",		"m15o":"Alaikai Trotter, Tatooine Historian",		"m15d":"Let me tell you a story: over four thousand years ago, Tatooine was home to Sidrona Diath, one of the greatest Jedi who ever lived. He grew up right around here, in a failed mining colony. While he was alive, he defended all of Tatooine's peoples against a host of enemies, including ferocious creatures that would do us harm. Sadly, Diath was killed at the Battle of Basilisk. Though his son continued in his father's footsteps, not since Sidrona has Tatooine had a true champion. And we are in need of one now. In the four thousand years since Sidrona's death, Tatooine has been overrun by every manner of threat, but it's the creatures that concern us most now. They have taken complete control of the desert. Moisture farmers are killed every season, and travelers are lost with frightening regularity. Even small towns and Jawa sandcrawlers are attacked by the bold monsters. Even if you're in league with the Hutts, there's no safe haven to be found on Tatooine.
+
+The planet needs a new defender to continue Sidrona Diath's good works. If you think you are worthy to take up his mantle, go forth and destroy the lair that I have located. This might seem like a small, simple act, but it is one step towards freeing Tatooine from the monsters that infest the desert. As you begin your journey, take heart in Sidrona Diath's own words: "Koroght Gaghght Takt," which in the common tongue becomes "Blessed be your going out from us." May your travels be safe and fruitful.",		"m14t":"Help me get my T-16 back!",		"m14s":"You did it! And just in time. I just heard back from an old friend of mine who might be able to get me a job piloting Rebel transports! Now, thanks to you, I can take my skyhopper to meet him. What's even better is I can show him some of the new stunts I've been perfecting while he has been offworld! Thanks a lot for fending off those things! I never would have had the guts to take them on. Reward funds should be in your account by the time you read this.",		"m14o":"Deak",		"m14d":"I was heading out to Beggar's Canyon in my skyhopper when the secondary gyrostabilizer control shorted out. It's not impossible to fly that way, but you don't want to shoot the canyon without secondary control. So I made a quick landing and started to make repairs. Unfortunately, I landed a little too close to an area that some dangerous creatures were calling home. Luckily for me they seemed to think the T-16 was a bigger threat than I was, and went after it instead. I managed to run away and used my scomplink to call for a ride home. But my Skyhopper is still out there (hopefully), and I need someone to take care of those things before I can get to it. Just take out the lair, and the creatures should move on. Please help me get my old T-16 back. If I can't be a pilot, I may never make it off this dirtball.",		"m13t":"Farm Reclamation",		"m13s":"Thank you so much, my friend!  It will be so much easier to get this place up and running now.  When everything is back to normal, you are more than welcome to come by and see what you have made possible.  This place isn't much, I know, but it is more than I thought I would ever own. Now, I'm going to be able to keep it thanks to you. Here's your payment and a little something extra, as promised.",		"m13o":"",		"m13d":"Hi there, friend. I'm new to Tatooine, not to mention the farming business. Can't say I know much about it really, but I've been entrusted with an old moisture farm. Problem is that it was abandoned for so long that some of the larger creatures have taken up permanent residence in the area. I have a hard enough time figuring out how to run the moisture vaporators, the last thing I need is to be looking over my shoulder all the time. If you could help me out by getting rid of these animals for me, I'll make it worth your while. Might even throw something extra in if for you. All you have to do is destroy their lair.",		"m12t":"Lanspeeder Attack",		"m12s":"So you killed them all, huh?  Wish I could say I was happy to hear that, but I've had a change of heart. The Force was with me on the day of my accident.  I almost became one with it, but I survived. It wasn't that animal's fault for attacking; it was just doing what comes naturally. Now, I've only made things worse by seeking revenge. But here is your reward. You are a brave person for taking on such a dangerous mission. As for me, I think I'll be taking the XP-38 back and using the credits to help those beasts. Yeah, that sounds like it might be the right thing to do.",		"m12l":"A young man wants revenge on the animals that attacked his landspeeder.",		"m12d":"So I was riding my SoroSuub XP-34 across the dunes when this dumb animal decides to attack!  I lost control and ran right into the monster. I almost died in the crash, and the creature destroyed my landspeeder. The insurance from the wreck was enough for a down payment on the new XP-38, with just enough left over for a little reward. I may not be able to rid Tatooine of the entire species, but at least I can do my part and get rid of this one and its family. Go hunt it down and destroy its lair.",		"m11t":"Droid Destroyers",		"m11s":"Thanks for taking care of my critter problem.  I know it couldn't have been an easy job.  I can't even build one repair droid with what I have left of the others.  Here's your payment.  I hope it saves me the cost of a few more droids.",		"m11l":"A farmer wants you to protect his repair droids by killing some nearby creatures.",		"m11d":"It seems that it is mating season for some of the larger creatures that share my moisture farm.  Some of the younger males can get pretty aggressive.  They have left my vaporators alone, but any repair droid that wanders too close is immediately attacked.  I've already lost three repair droids!  Luckily, enough of one remained after the last attack that I managed to pull an image of the creature off the memory drive. I've got the general location of the creature's lair, but you may need to do a bit of tracking.  I figure the reward is going to cost me less than the repair droids.",		"m10t":"Good Samaritan",		"m10s":"Hello again, my brave friend!
+
+At last, we are free of fear! We placed all our hopes in you, and you proved worthy of our trust. We no longer need to worry about being harassed, stalked, or killed by the dangerous creatures that have plagued us for so many seasons. When I announced your victory over the lair, a cry of relief rose up from the crowd, followed by tears and celebration. At last, our nightmare may be over. We owe our futures to you.",		"m10o":"",		"m10d":"Hello my friend!
+
+I am sending you this transmission on behalf of a group of very concerned individuals who live their lives in continual fear. We are simple farmers and hard-working merchants, not adventurers or warriors. And we are now faced with a threat that is far beyond our abilities. We've had members of our community harassed, stalked, attacked, and even killed by a group of dangerous creatures.
+
+You may be our only hope! We trust that you will be willing to aid us by destroying the lair of the vicious creatures before they kill again. Please don't disappoint us...",		"m9t":"Anthropology Aid",		"m9s":"Thanks in part of your efforts, our highly-qualified field researchers are able continue their research of specific Jawa populations on Tatooine. The Bureau of Ethnicity and Socialization hopes to continue these studies indefinitely so that the galaxy may better understand the reclusive Jawas. Payment for your services has been rendered.",		"m9o":"Bureau of Ethnicity and Socialization",		"m9d":"The Bureau of Ethnicity and Socialization has a long and storied history of studying Tatooine's native sentient species. Historical records will dwell on the fact that one of our most successful researchers, Alkhara, eventually became a murderous bandit on Tatooine, but the bulk of our agents are noble and intelligent scientists seeking to better understand all forms of life throughout the galaxy.
+
+Our recent expeditions have focused almost exclusively on studying Jawa populations. However, the Jawas live in increasingly dangerous areas of Tatooine, and many of our highly-trained researchers have not returned from their field studies.
+
+In order to make specific areas of Tatooine safe for our scientists, the Bureau of Ethnicity and Socialization is hiring adventurers and explorers to destroy the lairs of any potentially murderous creatures living near our subject Jawa populations.",		"m8t":"Killers!",		"m8s":"I'm still consumed by grief, even though you've killed those murderous beasts. I can't take any joy in death. I've already lost so much. I just hope that sommeday, I'll be able to start my life over. But it won't be out here, in the desert. I need to get away from my memories. After paying you, I'm going to try to turn my back on the past. I hope I have a future.",		"m8o":"",		"m8d":"I was only away for a few hours... That morning, I loaded up the landspeeder with a week's supply of water and some of my wife's hydroponic vegetables. Then, I headed into Anchorhead, just like I do every week, to see if I could trade or sell the water and vegetables. And I needed to pick up a new fusioncutter to repair some of my vaporators... I was only away for a few hours!
+
+But when I returned to the farm, there was blood everywhere. I knew right away that something bad had happened. I found my wife in the courtyard. She had fought back. She was tough enough to live out here in the desert, so it's no wonder that she killed a few of the monsters before they got her. And the kids, they must have tried to run. I found them both a few kilometers away from the house. It was horrible...
+
+I want the monsters that killed my family dead. I can point you towards their lair. I'd head out there myself, but I'm just a farmer. I've never killed anything... I'm hoping you have the guts, and the weapon, to take revenge for me!",		"m7t":"Tatooine Tourism Trouble",		"m7s":"*Confidential*
+
+As a representative of Outlander Expeditions, I am relieved that you have been able to help the company prepare Tatooine for future excursions. Now that the target adventure site has been secured, Outlander Expeditions can once again offer trilling trips to the desert planet. Our clients are overjoyed and business has never been better. We owe our current success to a group of advance agents, like yourself. You have been paid handsomely for your efforts.
+
+Once again, I'd like to remind you that the details of this mission should be considered incredibly confidential. It's vital that we maintain an illusion of danger during all of our expeditions. We appreciate your discretion in this matter.
+
+Slembax Platt, Adventure Vacation Engineer, Outlander Expeditions",		"m7o":"Outlander Expeditions",		"m7l":"An organization that runs entertainment expeditions is seeking adventurers to help prevent any unplanned encounters with dangerous wildlife on Tatooine.",		"m7i":"*Confidential*
+
+Outlander Expeditions has fallen under intense Imperial scrutiny due to allegations of unsafe business practices. As a result, the company no longer requires you to help make Tatooine "safe" for our wealthy clients. If the Empire sees fit to allow Outlander Expeditions to remain in operation, we will send another call for agents.
+
+Slembax Platt, Adventure Vacation Engineer, Outlander Expeditions",		"m7d":"*Confidential*
+
+Outlander Expeditions, one of the galaxy's most successful providers of adventure vacations, offers wealthy customers an opportunity to visit incredibly exciting locations on a number of amazing planets. Outlander Expedition's reputation has been built on creating thrilling, but ultimately safe adventures for our clients.
+
+One of our most popular expeditions brings amateur explorers to Tatooine. Although our stay is brief, we do provide our clients with a glimpse of the Dune Sea and fly-bys of migrating bantha herds. Unfortunately, recent treks on the desert planet have been beset by danger. While our tour guides and clients fully expect to see native fauna from afar, we've had difficulty preventing unplanned encounters with Tatooine's truly threatening wildlife. In order to remain a leader in the adventure vacation market, Outlander Expedition is willing to send highly-trained advance agents - like yourself - to sanitize our Tatooine adventure destinations. We have identified the lair of a potentially dangerous creature; this lair needs to be destroyed before we can send our next adventure vacation group to Tatooine.
+
+Because Outlander Expeditions' clientele wants to believe that they are actually placing themselves in harm's way, we will not disclose the existence or activities of our advance agents. The illusion of danger is critical to the success of our ventures, and therefore we appreciate your discretion in this matter.
+
+Slembax Platt, Adventure Vacation Engineer, Outlander Expeditions",		"m6t":"Tatooine Taxidermy Expedition",		"m6s":"Greetings Citizen!
+
+The Great Galactic Museum is overjoyed at your recent success in the field! Now that you have destroyed the lair of one of Tatooine's most wanted creatures, we can send a retrieval team to collect the necessary specimens. Payment for your services has already been transmitted. You are now free to seek other employment.
+
+Thank you for your patronage!",		"m6o":"Great Galactic Museum of Coruscant",		"m6d":"Greetings Citizen!
+
+The Great Galactic Museum is undertaking our most ambitious project yet. We are attempting to build a complete collection of all known animals in the galaxy. Intact specimens will be displayed in museums across the galaxy, with the most impressive species finding a home in Coruscant's branch of the Great Galactic Museum.
+
+Currently, we are seeking specimens from the Outer Rim world of Tatooine! In order to safely collect these specimens, the Great Galactic Museum needs able-bodied adventurers to secure several dangerous areas on the desert world. Your mission, if you choose to accept it, requires that you enter the habitat of one of our most wanted Tatooine specimens and neutralize any threatening creatures in the vicinity. Once this task is complete, you are free to seek other employment. Within one standard year, we will dispatch an elite collection team to Tatooine to gather the appropriate specimens.
+
+Thank you for your patronage!
+",		"m5t":"Jawa Emergency",		"m5s":"Transmission Translated from Jawaese for you convenience!
+
+Most exalted hero of the Jawas! We chear your name from First Dawn to Second Dusk! You have made the desert safe, welcoming, home to the Jawas. We will now pay you a sizable, big reward.",		"m5o":"Eet Ptaa",		"m5l":"Jawas from a nearby clan are being killed by deadly creatures and need help combating the monsters.",		"m5d":"Transmission Translated from Jawaese for you convenience!
+
+Greetings Non-Jawa!
+
+Jawa clan is in frightening, terrible, imminent danger. Horrible, ugly, nasty creatures attack! Always injure and kill... First Tusken Raiders drive us from home fortress, now creatures threaten death and extinction. Please, hunt down and kill beasts or more Jawas die!
+
+Eet Ptaa, Jawa Clan Leader  ",		"m4t":"Lost Caravans",		"m4s":"Wonderful work, my friend! You have proven to be one of my most worthwhile investments! By killing those creatures and destroying their lair, you've not only protected all of my future shipments, but avenged the deaths of my workers and my lost credits. I will gladly pay you your well-deserved fee.
+
+Your Grateful Host,
+
+Huff Darklighter",		"m4o":"Huff Darklighter",		"m4l":"A wealthy food magnate needs help protecting his food shipments from native creatures.",		"your_former_employer":"
+Huff Darklighter",		"m4d":"The very fate of Tatooine rests upon your shoulders! As you may know, as head of the Darklighter clan, I am Tatooine's last honest businessman. With my great (and legitimate) wealth, I provide for dozens of families across the Dune Sea. My untarnished credits flow into Anchorhead and Mos Eisley, keeping local businesses afloat. I subsidize moisture farming, pay my taxes to the Emperor on time, and help arm local militias to protect settlements from Tusken Raider attacks. 
+
+Sadly, my business is threatened. Recently, several shipments of my hydroponic vegetables, which are sent to all corners of Tatooine, have been ambushed by menacing creatures. The monsters have left dead workers and eopies in their wake, and scattered my produce. Worst of all, those people who depend upon my shipments have been forced to starve, or buy their food from less reputable businessmen. Fortunately, my scouts have identified the beasts responsible and located their lair. If you could possibly destroy these creatures before they can kill any more of my hired hands, or disrupt another shipment, I would be in your debt (figuratively speaking, of course).
+
+Your Benefactor,
+
+Huff Darklighter",		"m3t":"Bantha Defender",		"m3s":"The Mighty Bantha, the legendary Horned-One who brings peace and tranquility to all who gaze upon Him, is safe once again! You have served the Enduring Bantha well! The Dim-U monks, loyal servants of the Wandering Bantha, are overjoyed at your success. Our coffers have been opened and you will be rewarded. The Dim-U monastery thanks you on behalf of the Horned-One, whose powerful bellow will roar your name across the desert and throughout the start so that all who worship at His hairy feet will know of your heroic deeds.",		"m3o":"Dim-U Monks of Tatooine",		"m3d":"We, the Dim-U monks of Tatooine, who worship at the hairy feet of the Mighty Bantha, are distressed about the dangers faced by our hirsute idol. While Tatooine should be the domain of the Bellowing Bantha alone, the Horned-One must share the planet with the most violent and terrifying of creatures. These monsters do not know the peace and serenity of the Enduring Bantha, and they often pursue and kill Him. Without the Wandering Bantha, the life of the Dim-U monk has no meaning, and therefore we are seeking champions to step forward and protect the Stalwart Bantha by eliminating his enemies. The Dim-U monastery will gladly reward those who protect the Beloved Bantha, in whose eyes all Universal Truths are revealed! Go forth, and protect the Horned-One!",		"m2t":"Tatooine Run N' Gun!",		"m2s":"Stand tall, hold your head up high, and get ready to be famous! You've just won Blaster Barn's seasonal Run N' Gun! You've hunted, battled, and killed Tatooine's most dangerous creatures. And you've come through unscathed! Now you face an even bigger challenge: deciding how to spend your reward! Good luck, and remember: Blaster Barn Has Your Back!",		"m2o":"Mos Eisley Blaster Barn",		"m2d":"Unpack your blasters, slap in them ammo packs, and kiss your loved ones goodbye! It's time for Blaster Barn's seasonal Run N' Gun! That's right - the Run N' Gun is back, and better than ever! Thanks to this season's sponsor, the lovely Lady Valarian, Blaster Barn is offering the largest bounties ever for the killing of Tatooine's most fearsome, ferocious, and formidable creatures! So get out there and wipe out them animals! And remember, Blaster Barn Has Your Back! ",		"m1t":"Creature Culling",		"m1s":"Excellent work! Unlike most of our hired agents, you've actually succeeded in destroying the lair of a creature known to terrorize Tatooine locals. Your reward has already been transferred to your account.",		"m1o":"Tatooine Civilian Defense League",		"m1d":"The Tatooine Civilian Defense League has detected an alarming rise in the number of dangerous creatures in the habitable areas of the planet. Such animals are making life extremely unsafe. In accordance with Imperial Indigenous Control Policy #780901, the Tatooine Civilian Defense League is authorized to pay for the extermination of specified creatures through the destruction of their central lairs or hives."
+}}

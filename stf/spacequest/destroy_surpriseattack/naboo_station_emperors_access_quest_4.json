@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/naboo_station_emperors_access_quest_4",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Your radar shows a Rebel scout fighter. This confirms that the route has been compromised but the commander wants you to eliminate the Rebel.",		"title":"Yavin system: Scouts spotted!",		"split_quest_alert_fail":"",		"split_quest_alert":"Imperial Space Station: < The scout must have alerted his friends, they are heading your way! >",		"leave_early":"",		"complete":"Imperial Space Station: < Good job! This confirms it though, we need to change our routes immediately. Try to find more of them Rebel lowlifes! >",		"assigned_delayed":""
+}}

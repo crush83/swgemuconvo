@@ -1,9 +1,5 @@
-[
-'7':'morag_q2_needed',
-'6':'charal_q4_needed',
-'5':'charal_q1_needed',
-'4':'raglith_q3_needed',
-'3':'king_terak_q3_needed',
-'2':'king_terak_q1_needed',
-'1':'scholar_szingo_q1_needed',
-]
+{
+	"stfFile":"loot_endr_n",
+	"entries": {
+		"morag_q2_needed":"Adegan Crystal",		"charal_q4_needed":"Commlink",		"charal_q1_needed":"A Preserved Ewok Spleen",		"raglith_q3_needed":"a pelt",		"king_terak_q3_needed":"hyperdrive part",		"king_terak_q1_needed":"metal staff ",		"scholar_szingo_q1_needed":"Disruptor Rifle."
+}}

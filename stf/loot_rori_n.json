@@ -1,19 +1,5 @@
-[
-'17':'draya_korbinari_q3_needed',
-'16':'ajuva_vanasterin_q2_needed',
-'15':'ajuva_vanasterin_q1_needed',
-'14':'sidoras_bey_q1_needed',
-'13':'jaleela_bindoo_q3_needed',
-'12':'jaleela_bindoo_q1_needed',
-'11':'booto_lubble_q2_needed',
-'10':'booto_lubble_q1_needed',
-'9':'oxil_sarban_q2_needed',
-'8':'oxil_sarban_q1_needed',
-'7':'indintra_imbru_q2_needed',
-'6':'indintra_imbru_q1_needed',
-'5':'sindra_lintikoor_q2_needed',
-'4':'sindra_lintikoor_q1_needed',
-'3':'vordin_sildor_q3_needed',
-'2':'hefsen_zindalai_q1_needed',
-'1':'biribas_tarun_q1_needed',
-]
+{
+	"stfFile":"loot_rori_n",
+	"entries": {
+		"draya_korbinari_q3_needed":"Art Holo",		"ajuva_vanasterin_q2_needed":"Purchase request",		"ajuva_vanasterin_q1_needed":"Dinner invitation",		"sidoras_bey_q1_needed":"Narmle Arts Gala Winner",		"jaleela_bindoo_q3_needed":"Art Contest Finalists",		"jaleela_bindoo_q1_needed":"Grunda Painting",		"booto_lubble_q2_needed":"Imperial Army Thermal Detonator",		"booto_lubble_q1_needed":"Officer Jinnor's Rank Cylinder",		"oxil_sarban_q2_needed":"Alien Dust Artifacts",		"oxil_sarban_q1_needed":"Rising Artist Presentation",		"indintra_imbru_q2_needed":"Loraweet Invitation",		"indintra_imbru_q1_needed":"Briska Gil Suggestion",		"sindra_lintikoor_q2_needed":"Lozan-Lippid Invitation",		"sindra_lintikoor_q1_needed":"Lakbo's Response",		"vordin_sildor_q3_needed":"Datadisc",		"hefsen_zindalai_q1_needed":"Datadisc",		"biribas_tarun_q1_needed":"Datadisc"
+}}

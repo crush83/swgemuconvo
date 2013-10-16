@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/corellia_imperial_2",
+	"entries": {
+		"title_d":"Travel to the Corellia system, hunt down, and destroy four X-wing cadets. Since the Empire is unsure where the X-wing cadets are located in the Corellia system, you will receive a few navigation waypoints to suspected areas of Rebel activity. You can check out area around the waypoints to see if you can locate the Rebel cadets or just search the system yourself. Once you have located X-wing cadets, destroy four of them. When you complete this mission, return to Hakasha Sireen at the Imperial Base on Talus for your next assignment.",		"title":"Corellia System: Seek and Destroy Four X-wing Cadets",		"split_quest_alert_fail":"",		"split_quest_alert":"You are not done with your job yet. Even with this setback, we still expect you to take out four of those X-wing Cadets.",		"quest_location_t":"Travel to the Corellia System",		"quest_location_d":"The training ground is located inside of Corellia space. Once you arrive in Corellian space start your search for the X-wing cadets. Imperial command has supplied you with several navigation waypoints that will lead you to areas of higher Rebel activity.",		"quest_destroy_t":"Destroy Four X-wing Cadets",		"quest_destroy_d":"Eliminate four X-Wing Cadets. Any more then that and we might start to lose any sympathy we gained.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,52 +1,98 @@
-[
-'52':'garage_d',
-'51':'garage_n',
-'50':'player_cities_d',
-'49':'theater_d',
-'48':'hospital_d',
-'47':'cantina_d',
-'46':'commercial_structures_d',
-'45':'st_d',
-'44':'mt_d',
-'43':'decorations_d',
-'42':'shuttleport_d',
-'41':'gardens_d',
-'40':'cloning_d',
-'39':'city_hall_d',
-'38':'bank_d',
-'37':'civic_structures_d',
-'36':'city_structures_d',
-'35':'run_city_d',
-'34':'spec_d',
-'33':'rank_d',
-'32':'militia_d',
-'31':'maint_d',
-'30':'taxation_d',
-'29':'voting_d',
-'28':'join_city_d',
-'27':'create_city_d',
-'26':'decorations_n',
-'25':'theater_n',
-'24':'st_n',
-'23':'mt_n',
-'22':'gardens_n',
-'21':'shuttleport_n',
-'20':'hospital_n',
-'19':'cantina_n',
-'18':'cloning_n',
-'17':'bank_n',
-'16':'commercial_structures_n',
-'15':'civic_structures_n',
-'14':'city_structures_n',
-'13':'spec_n',
-'12':'rank_n',
-'11':'militia_n',
-'10':'maint_n',
-'9':'taxation_n',
-'8':'voting_n',
-'7':'join_city_n',
-'6':'run_city_n',
-'5':'create_city_n',
-'3':'city_hall_n',
-'1':'player_cities_n',
-]
+{
+	"stfFile":"kb/kb_player_cities_n",
+	"entries": {
+		"garage_d":"Garages are a civic structure that mayors can place at Civic Policy II.  Just pull up on your speeder and select "repair" from the radial menu on your vehicle.  Mayors can set a small tax on the garage services to help their city prosper.",		"garage_n":"Garage",		"player_cities_d":"Players that want to band together for the purposes of society and common defense can form a Player City.  The following chapters describe how to set up and join a Player City.
+
+Player Cities are administrated by an elected Mayor.  The Mayor must be a member of the Politician profession.  For information on this profession, look in the chapter 'Politician' under 'Professions, Advanced Professions'.",		"theater_d":"You must be a Master Dancer or Master Musician to place a Theater.",		"hospital_d":"You must be a Master Doctor or Master Combat Medic to place a Hospital.",		"cantina_d":"You must be a Master Dancer or Master Musician to place a Cantina.",		"commercial_structures_d":"Commercial structures are placed by players in cities.  If the city is disbanded, commercial structures always remain.
+
+A mayor can make a city require zoning rights.  If a city requires zoning rights, you will need to get permission to build in the city from the mayor or from a militia member.  They can use the /grantZoningRights command to give another player the ability to build in the city for 24 hours.
+",		"st_d":"The Mayor may place skill trainers using the /recruitSkillTrainer command.  These work like any other skill trainer in the game.",		"mt_d":"The Mayor may place mission terminals using the /installMissionTerminal command.  A Mayor with Martial Planning IV may place faction aligned terminals.",		"decorations_d":"Architects can create a wide range of simple decorations like fountains, statues, and streetlamps that may be placed in the city by the mayor.  These decorations cannot be placed too close to structures.",		"shuttleport_d":"A shuttleport that allows planetary travel.  Players may travel to this shuttleport as well as buy tickets for other locations.  The mayor can levy a travel ticket fee that is paid on top of the normal ticket price.",		"gardens_d":"Gardens are decorative structures that come in small, medium, and large sizes.  Most gardens have planetary restrictions, but exotic gardens from Dantooine, Dathomir, and Endor may be placed on any planet.
+
+To destroy a garden, you can either use the small access terminal located in the garden's corner, or stand in the center of the garden and type /destroyStructure.",		"cloning_d":"The cloning facility works like any other cloning facility.  Players can buy insurance here and clone themselves for respawning on death.",		"city_hall_d":"The core of the city.  If this structure is removed the city is disbanded and all other civic structures in the city radius are removed.  This structure hosts the city management terminal where city policies are adjusted.",		"bank_d":"A small outdoor kiosk with three banking terminals.  If the bank is removed, players can get their items from any other bank on the planet.",		"civic_structures_d":"Civic structures are owned by the city and their maintenance is paid weekly from the city treasury.  These structures are placed directly by the mayor of the city.",		"city_structures_d":"There are two types of city structures.
+
+1. Civic structures are owned by the city and their maintenance is paid weekly from the city treasury.  These structures are placed directly by the mayor of the city.
+
+2. Commercial structures are owned by other players, but permission to place them must be granted by the mayor.
+
+The following sections cover these two types of structures.",		"run_city_d":"City administration is performed via the 'City Management Terminal' located in the City Hall.  Each of the sections below discuss different aspects of the city management.",		"spec_d":"As the politician gains skills he will eventually earn a City Specialization (spec).  A city can only have one spec in place at a time.  A spec gives the city a bonus in some area at the exchange of an increased maintenance cost.  The city spec may only be changed once a week.
+
+An example of a spec is 'Manufacturing Center'.  This spec increases the city hall maintenance by 20k credits / week.  Any crafting done in a 'Manufacturing Center' earns a 10% bonus to prototype assembly results, significantly reducing the chance of failures.
+
+There are other city specs that can be read about by the Mayor at the city management terminal.
+
+When you enter a city, you will receive a message indicating the name of the city, its rank, and any city specializations that city has.",		"rank_d":"A city's size and strength is represented by a rank identifier.  As the city gains more citizens, the rank increases, the city's radius of influence increases, and more types of structures become available.
+
+The city advancement menu on the city management terminal has specific information on how to achieve each rank and what each rank makes available.
+
+Each week, before taxation and maintenance, the city rank and citizenship is validated.  If the city citizenship is greater than the requirement for the next rank, the city is promoted.  If the citizenship is less than the requirement for the current rank, the city is demoted.  The mayor is notified of this happening.
+
+If the city is promoted, the city radius will increase, allowing for more civic structures to be placed in the new territory.  Any structures in the new radius will be added to the city.  Any abilities that require the new rank will be unlocked.  The placement limits for terminals, trainers, and decorations will increase.
+
+If the city is demoted the city radius decreases.  Any civic structures, terminals, trainers, or decorations outside of the new city radius are DESTROYED.  The mayor is notified of this happening.  If a civic structure inside the new radius can't be supported by the current rank (for example, a shuttleport requires rank 4 "City"), that structure is marked as "invalid" and the mayor is notified that it is endangered.  A week later, at the next city update, if the radius has increased to the required level, all structures that are still invalid are destroyed.
+
+If the city ever shrinks below 5 citizens, the city hall is marked as invalid.  The city hall is removed a week later if the citizenship of the city hasn't increased above 5.
+
+The five city ranks are Outpost, Village, Township, City, and Metropolis.
+
+The current city citizen population can be checked at the city management terminal in the City Hall.",		"militia_d":"A mayor with Martial Policy I can use the city management terminal to form a militia.  Militia members must be citizens of the city.
+
+A militia member gains three commands to help enforce the law of the city:
+
+/cityban - This prevents players from entering public civic structures or using the city shuttleport.
+
+/citypardon - This removes the city ban flag from a player.
+
+/citywarn - This allows the militia person to attack the target as long as they are in the city.  If the person who has been /citywarned leaves the city they are no longer attackable.  Note that normal PvP rules are in effect: overt members of opposing player factions will always be able to attack each other regardless of /citywarn as well as players TEF'd due to other PvP rules.
+
+The 'stronghold' city specialization can be used to give the militia a large bonus to combat defense, making them more effective against stronger opponents.",		"maint_d":"The city pays maintenance on a weekly basis after taxes are collected.
+
+Maintenance on the City Hall is paid first, then other structures.  City Specializations increase the weekly maintenance cost of the City Hall.
+
+If the city cannot pay maintenance on a skill trainer, non-garden decoration, or mission terminal, the object will be destroyed and the mayor notified.  If the city cannot pay maintenance on a civic structure, including the City Hall, the structure will be damaged and the mayor notified.  If a structure is damaged to 0% or less condition, it is removed and the mayor notified.  If the City Hall is destroyed by lack of maintenance the entire city is disbanded and all civic structures are removed.  Damaged structures are repaired during the following maintenance update if there is enough money available.
+
+The status of maintenance and the condition of civic structures can be checked at the city management terminal in the City Hall.",		"taxation_d":"Taxation is evaluated on a weekly basis right after voting.
+
+There are four types of taxes a city mayor can levy:
+
+1. Property tax.  All property owners (see 'Joining a City') can be charged a small % on top of their normal maintenance.  This property tax is levied by the city in exchange for use of their land as well as the benefits of structure oriented city specializations.
+
+2. Citizen tax.  This tax is a flat fee charged to citizens on a weekly basis.  The tax can be used like an automated membership fee.  There is no penalty for failure to pay, but the mayor is notified of any citizens who fail to pay.
+
+3. Sales tax.  A tax placed on top of any items sold from vendors within the city's radius.
+
+4. Travel fee.  A fee placed on top of the price to purchase travel tickets from the city shuttleport.
+
+All taxes are paid directly into the city treasury.  This money is used for payment of city maintenance (see 'Maintenance' under 'Running a City') and can be withdrawn by the mayor to purchase additions to the city.
+
+Taxes are managed from the city management terminal in the City Hall.",		"voting_d":"Each city has a weekly mayoral election.  The election and voting process is managed by the city vote terminal.  At the terminal, a citizen of the city can examine who is running for election as well as the current vote standings.  Citizens who are also politicians can register to run in the election.
+
+Each week, the votes are tallied.  All votes are set to the incumbent mayor by default and the incumbent wins all ties.  If a new mayor is elected, that person immediately inherits all management control over the city and may begin implementing their new policies.
+
+Elections are based off a simple vote tally system.  The politician with the most cumulative votes wins.  (Ex:  There are 4 people running for election.  The first gets 2 votes and the rest get 1 vote.  The first politician would win, despite a clear majority.)
+
+Politicians gain political experience for every vote they have at the time of the weekly election.",		"join_city_d":"There are two ways to join and participate in a player city.
+
+The first is as a property owner.  Enrollment as a property owner is automatic whenever you build a structure within the borders of a player city.  Property owners can benefit from the specializations of the city (such as improved harvesting rates in a city with that specialization), but they also be subject to property taxes.  Property tax is explained in detail in the 'Taxtation' chapter of 'Running a City'.
+
+The second way to join a city is as a 'citizen'.  To become a citizen, you must own your declared residence within the borders of the city in question.  Citizens have the right to vote in the weekly mayoral elections (see the 'Voting' chapter of 'Running a City').  Citizens that are also Politicians may run for election in the weekly votes.  Citizens count toward the city population and contribute to the weekly growth of the city.  A city with more citizens can support larger civic structures like shuttleports.
+
+If your residence was declared prior to the city being established, just enter your home and redeclare to be added to the citizenship roster.",		"create_city_d":"Creating a player city can be a challenging task, so make sure you have plenty of friends to help you out.
+
+The first step to establishing a player city is to get a City Hall deed.  Members of the architect profession can craft this deed.  There are versions of the City Hall for architectural styles common on Corellia, Naboo, and Tatooine.  Make sure you find a wide open, unobstructed area to build your city in.  A successful city will maximize the amount of buildable territory, so that as many players as possible can participate in the city.  If you build your city too close to a lake or sea, part of your city's influence will be over the undevelopable water.
+
+When you go to place your City Hall, you have to pass a few validation checks.  The first check is to see if you are a Politician.  Only players with the Novice Politician skill are allowed to place and administrate civic structures.
+
+The second check is to make sure there are no other player cities within 1 kilometer of your desired placement location.  As citizens join your city, your city's radius of influence will grow up to a maximum of about half of a kilometer and a city is never allowed to potentially overlap another city's area of influence.
+
+Before your city is placed you will also be asked to name your city.  (You can always change the name of your city after it's placed, if you don't like what you picked.)  A city's name has to be unique to the planet the city will be located on.
+
+WARNING: The City Hall cannot be redeeded.  Make absolutely sure you've found the location you want to place your city.  Once your City Hall is placed, you won't be able to move it without destroying it and crafting another deed.
+
+If you've passed the requirements for city placement, congratulations.  You are now the proud mayor of a new city.
+
+The planetary authorities have strict rules about what constitutes a city and how the land can be used.  Once your City Hall is placed, you have effectively notified the planetary authority of your intention to begin civic administration.  In order for your zoning permits to be approved, you need to have at least 10 players become citizens of your city within 24 hours.  (See the joining a city section for information on citizenship.)  If you can't manage to get 10 people to join your city in 24 hours, your city hall will be destroyed.  Building a city is a group effort so you'll need other players to contribute!
+
+The rest of this manual covers the process of administrating your city.  Please read the contents carefully.  Running a city is a big job with a lot of responsibilities.  If you don't manage your citizenry well, you may find them voting you out of office!
+
+Good luck, Mayor!",		"decorations_n":"Decorations",		"theater_n":"Theater",		"st_n":"Skill Trainers",		"mt_n":"Mission Terminals",		"gardens_n":"Gardens",		"shuttleport_n":"Shuttleport",		"hospital_n":"Hospital",		"cantina_n":"Cantina",		"cloning_n":"Cloning Facility",		"bank_n":"Bank",		"commercial_structures_n":"Commercial Structures",		"civic_structures_n":"Civic Structures",		"city_structures_n":"City Structures",		"spec_n":"Specializations",		"rank_n":"Upgrades & Rank",		"militia_n":"Militia",		"maint_n":"Maintenance",		"taxation_n":"Taxation",		"voting_n":"Voting",		"join_city_n":"Joining a City",		"run_city_n":"Running a City",		"create_city_n":"Creating a City",		"city_hall_n":"City Hall",		"player_cities_n":"Player Cities"
+}}

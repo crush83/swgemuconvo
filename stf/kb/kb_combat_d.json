@@ -1,30 +1,123 @@
-[
-'29':'corpseconsent',
-'28':'corpsealternate',
-'27':'corpserun',
-'26':'corpses',
-'25':'ranges',
-'24':'leavingafaction',
-'23':'perks',
-'22':'pvprules',
-'21':'joiningafaction',
-'20':'gcw',
-'19':'corpserecovery',
-'18':'incapacitation',
-'17':'cloning',
-'16':'insurance',
-'15':'death',
-'14':'looting',
-'13':'equipmentdamage',
-'12':'weapons',
-'11':'armor',
-'10':'range',
-'9':'states',
-'8':'postures',
-'7':'rules',
-'6':'status',
-'5':'ham',
-'4':'targeting',
-'3':'consider',
-'1':'combat',
-]
+{
+	"stfFile":"kb/kb_combat_d",
+	"entries": {
+		"corpseconsent":"You may find it necessary at some point to have someone drag your corpse for you. To do this, you will need to give your consent. 
+
+Use the /consent command to grant someone the privilege to manipulate your corpse. You may use the /unconsent command to revoke the privilege if you wish.
+
+If you have consent to drag someone's corpse, stand a short distance away from where his or her body lies and use the /corpse command to drag his or her corpse to where you are currently standing. You can repeat this process until you have moved the corpse to a desired location. Keep in mind that if you are too far away, you will not be able to drag a corpse.
+",		"corpsealternate":"You do not have to recover your corpse when you die.",		"corpserun":"Corpse runs do not exist in Star Wars Galaxies.
+",		"corpses":"Whenever your character is killed you are left with only two options, clone immediately or wait to be revived by a Doctor.  
+
+When you die your perspective will stay at the location of your corpse and a clone widow will appear. You do not have to immediately clone.  You can choose to wait for a revive from a fellow Doctor, just do not choose any of the clone options available. Do not close the clone window however so that you can easily choose a clone option.
+
+Once you are ready to clone just choose one of the options available and you will be revived at the Cloning Facility you chose.",		"ranges":"All weapons have an ideal range at which they work most effectively and provide the greatest chance to hit your enemy. Weapons will also have a maximum range, beyond which you will not be able to attack your target at all. You can find these ranges by examining your weapons.
+
+Melee weapons and unarmed combat require you to be at point blank in order to use them, pistols generally work best at short ranges, carbine weapons are most effective at mid-ranges, and rifles are most accurate at long ranges.
+
+You can tell how far away you are from your target by looking at the target window on your heads-up display. You will see the distance to your enemy there represented in meters.",		"leavingafaction":"If you decide that you no longer want to be a Rebel or an Imperial, you simply need to find a recruiter and speak with him or her. They will offer you the choice to sever your ties with the faction.
+
+Keep in mind that you will not be able to join the opposing faction until you earn enough of the appropriate faction points.",		"perks":"Faction points are still useful even after you have joined one of the two factions. Points can be spent for faction perks, such as constructing and maintaining battlefield headquarters.
+
+You may want to speak with officials representing your faction for the faction perks that are offered and what you can afford with your current number of points.",		"pvprules":"If you declare yourself to be an overt member of your faction, you can participate in player versus player (PVP) combat with overt members and NPCs of the opposing faction. When you kill someone belonging to the opposite faction, you will receive a small faction point reward. However, if you are killed by someone belonging to the opposite faction, you will suffer a small faction point penalty.",		"joiningafaction":"Before you are able to align with either the Galactic Empire or the Rebel Alliance, you must first prove yourself worthy of joining the side that you choose. You can do this by accruing faction standing points.
+
+You are able to gather faction points in one of two ways. Firstly, you can complete Imperial or Rebel missions. Factional mission terminals are scattered throughout the galaxy. Finishing an Imperial mission will garner Imperial faction points, and finishing a Rebel mission will garner Rebel faction points. You can also participate in battlefield combat to gain faction points. 
+
+Once you have accrued enough of the appropriate faction points, visit a recruiter for the faction that you wish to join. He or she will determine if you are ready to join in the fight for the future of the galaxy.",		"gcw":"Interested in becoming a combatant for a specific cause? This section will help you learn more about how to join either the Galactic Empire or the Rebel Alliance, and the benefits gained from doing so.",		"corpserecovery":"You do not have to recover your corpse when you die. All of your items will appear with you at the cloning center. Make sure you insure your items or they may decay faster with every death.",		"incapacitation":"When any one of your Health, Action, or Mind pools becomes depleted, you will be incapacitated. This will render you unconscious for a short period of time. When you are incapacitated, you are vulnerable to death blows. If you receive a death blow while unconscious, you will die and you must activate a clone.
+
+Usually only aggressive creatures will perform a death blow after you have been knocked unconscious. If you were incapacitated in player versus player (PVP) combat, your opponent must explicitly perform a death blow in order to kill you.
+
+While incapacitated, a small timer window will appear in your heads-up display counting down until the time that you will regain consciousness. If you are incapacitated three times within ten minutes, then you will die and you must activate a clone.",		"cloning":"The problem of permanent death has been averted through the use of cloning technology. You can usually find cloning facilities in major cities, as well as most settlements and outposts.
+
+To store your clone data at a particular cloning facility, simply pay a fee at one of the cloning terminals at that facility. When you are killed, you will have the option to have your clone activated at the nearest facility, or at the facility in which you most recently stored your clone data.",		"insurance":"Items left on your body after death will automatically be returned to you.  However care is rarely taken in the handling of these items so they will usually be slightly more damaged when you get them from how they were when you were slain.
+
+If you are exploring in a dangerous area, or if you have items that you especially want to protect, you may want to take out insurance on your equipment. You can do this at the insurance terminals found at cloning facilities throughout the galaxy.
+
+Insuring your items will cost a few credits, but it will minimize the damage due to death.  When using an insurance terminal, you can insure your items all at once, or individually, if you are concerned only about a few items.
+
+After death, all items whether insured or not will be returned to your inventory when a clone is activated. Items will decay some each time they are returned to you though insured items will take considerably less damage. Once insured items are returned to you after death, you will need to insure them again if you wish to have the protection versus decay the next time that you die.
+
+Your insured items do not take damage nor do they need to be re-insured due to a faction death. ",		"death":"Permanent death is usually not a concern in Star Wars Galaxies. This section contains information that may be helpful if you have lost the battle, and face imminent death.",		"looting":"After killing a non-player character (NPC), you are able to loot his or her corpse. Bringing up the radial menu on the corpse will offer you the choice to loot. Selecting the loot option will allow you to "Loot" or "Loot All".
+
+Selecting the "Loot" choice will bring up a small window from which you can select the items that you want to take from the corpse. Selecting "Loot All" will transfer all items on the corpse into your inventory, assuming you have sufficient space.
+
+You are not able to loot the corpse of another player that you have killed.",		"equipmentdamage":"Even the highest quality armor and weapons will begin to show signs of wear and tear if they are used often. When you examine a piece of your equipment, you will see its status depicted as its current condition out of its maximum possible condition (current/max).
+
+When you have used this equipment frequently enough that its condition is reduced to zero, the item will decay and will be removed from your inventory.",		"weapons":"Weapons are broken up into two main categories: melee weapons and ranged weapons. Melee weapons require you to be close to your enemy and ranged weapons will fire a projectile from a distance.
+
+Melee weapons can be broken down into sub-categories. They are as follows:
+
+Unarmed Combat - Fighting with no weapon equipped is considered melee combat. Brawling is the fastest melee style, but the lowest potential for damage output.
+
+One-handed Sword - One-handed melee weapons are usually bladed and easy to swing. A one-handed weapon is a little slower than brawling, but the weapon will cause more damage than your fists.
+
+Two-handed Sword - Similar to one-handed weapons, these are usually bladed but they are someone heaver. That makes them slower than their one-handed counterparts, but the extra weight allows more damage to be dealt.
+
+Polearm - The largest of the melee weapons, these can be either bladed or blunt. These can sometimes be difficult to wield and as a result they are generally the slowest melee weapons to use. However, the sheer size of these weapons makes them the most dangerous to your enemies.
+
+Ranged weapons are also broken down into sub-categories. They are as follows:
+
+Pistol - These small weapons are easy to carry and even easier to conceal. Their small size yields a relatively low damage output, but they recharge quickly allowing for a rapid rate of fire. The effectiveness of a pistol drops off at long ranges; they are usually used only for short range combat.
+
+Carbine - These are good mid-range weapons. Carbines have a little trouble hitting targets at very long or very short distances, so at these ranges you may want to aim carefully. The capabilities of a carbine weapon allow for moderate damage output along with a fairly decent recharge rate.
+
+Rifle - Made to destroy enemies from afar, these weapons are most effective from long ranges. The sheer power behind a rifle makes it difficult to attack targets at a short range, but from a distance, a rifle has the highest damage potential of any ranged weapon. This does not come without a price however, as the power drain on a rifle makes for a long recharge time and a slow rate of fire.
+
+Additionally, there is also a category of weapons known as heavy weapons. These generally include grenades and rocket launchers, and can only be used effectively by a few professions. The disadvantage to these types of weapons is that they are expendable, and can be used only a limited number of times.
+
+Simply examine a weapon if you wish to check the damage output, attack speed, and range information.",		"armor":"Armor will reduce damage taken to the body parts on which it is worn. However, this protection comes at a cost. When armor is equipped, it will reduce the pool of some of your secondary statistics. To see the protective value of the armor and the cost to your statistics, simply examine your armor.
+
+Generally speaking, the more protective the armor, the higher the cost will be to your secondary statistics. If the armor would lower any one of your statistics to zero when equipped, you will not be able to wear that armor.
+
+Armor worn on the feet and legs will help prevent damage to your Action pool, armor worn on the chest, biceps, wrists, and hands will help prevent damage to your Health pool, and armor worn on the head will help prevent damage to your Mind pool.
+
+The protection that armor provides is determined by three factors: Armor Rating, Armor Effectiveness, and Armor Vulnerability.  Armor Rating ranges from None to Heavy.  If attacked by a weapon with equal Armor Piercing, there is no effect.  If the Armor Rating is higher than the Armor Piercing of the weapon, damage is reduced by 50% for each level of difference.  Therefore, if a weapon with no Armor Piercing strikes an Armor Rating of Light, damage would be reduced by 50%.  Against an Armor Rating of Medium, it would be reduced by 50% and then another 50%.  If the weapon has more Armor Piercing than the armor has Armor Rating, damage is increased by 25% for each level difference.  
+
+After Armor Rating has been applied, Armor Effectiveness comes into play.  It reduces the remaining damage by the stated percentage.
+
+Armor Vulnerability denotes the damage types in which the armor provides no protection whatsoever.  The Armor Rating is considered to be None and Armor Effectiveness is considered to be 0% against that damage type.
+",		"range":"All weapons have an ideal range, at which they work most effectively and provide the greatest chance to hit your enemy. Weapons will also have a maximum range, beyond which you will not be able to attack your target at all. You can find these ranges by examining your weapons.
+
+Melee weapons and unarmed combat require you to be at point blank in order to use them, pistols generally work best at short ranges, carbine weapons are most effective at mid-ranges, and rifles are most accurate at long ranges
+
+You can tell how far away you are from your target by looking at the target window on your heads up display. You will see the distance to your enemy there represented in meters.",		"states":"As you advance in combat skills, you will learn more special moves that are able to change your or your opponent's combat state. These states generally are either positive or negative, and possibly both. But beware; some of your enemies may also be capable of performing these special moves.
+
+Below are some examples of some of the combat states that you can bestow or inflict. Keep in mind that all combat states are temporary.
+
+Aggressive: Increases chance of delivering a successful counter-attack and decreases chance of getting hit in combat.
+Aiming: Provides a bonus to hit on the next attack.
+Alert: Counters surprise attack special move.
+Berserk: Provides a bonus to hit, faster attacks, and damage increase, but also applies a penalty to defense.
+Blindness: Applies penalties to both offense and defense.
+Dizziness: Creates chance of falling down when changing postures.
+Evading: Provides chance of dodging an attack.
+Immobilized: Prevents movement.
+Intimidated: Increases chance of being hit by attacks.
+Rallied: Provides both a bonus to hit and a bonus to defense.
+Stunned: Applies penalties to defense.
+Taking Cover: Provides bonuses to defense.
+Tumbling: Provides defensive bonuses while changing postures.
+
+If you see a combat state icon with which you are unfamiliar, you can hold your mouse cursor over the icon and a brief explanation of the state will appear beneath it.",		"postures":"There are three different postures you can utilize while in combat: standing, kneeling, and lying prone. There are advantages and disadvantages to each posture, and you will probably change your posture often in a fight to best suit the situation.
+
+Standing is your default combat stance. You are able to fire a ranged weapon at any distance from your target, and you are able to perform melee attacks. Since this is the most mobile posture, your defenses are strongest in this stance.
+
+Kneeling will give you slightly better aim while using a ranged weapon, increasing your chance to hit your opponent. However, while in this posture, you will not be able to move or use melee attacks. You will be a little more vulnerable to melee attacks, but you are also a little harder to hit with a ranged weapon.
+
+Lying prone allows you to steady your ranged weapon, greatly improving your aim and significantly increasing your chance to hit your target. While in this posture, you are able to crawl slowly. However, you cannot perform melee attacks, and you will not be able to use your ranged weapons at point blank distance. You are extremely vulnerable to melee attacks while in this position, but being so low to the ground makes it quite difficult to hit you with a ranged weapon.",		"rules":"In this section, you will learn about some of the rules and intricacies of actual combat against your enemies.",		"status":"When you have a creature targeted, a small box with the creature's name and HAM bars will appear in your heads up display. In this box, you will see icons representing any status effects that the creature might currently have, such as bleeding, or damage over time effects.
+
+If you see an effect icon with which you are unfamiliar, you can hold your mouse cursor over the icon and a brief explanation of the effect will appear beneath it.",		"ham":"Creatures have three bars representing their Health, Action, and Mind pool, very similar to your own. When you target a creature, its name and HAM bar will appear in your heads up display, as well as over the creature's head. Red represents the Health pool, green represents the Action pool, and blue represents the Mind pool.
+
+When you deal damage to a creature through combat, you will notice that its Health, Action, and Mind pools deplete, based upon the amount and type of damage dealt. This can be seen in the HAM bar by a shortening of the colored bar that represents the pool that was depleted. When any one of the three pools is completely depleted, the remainder of the colored bar will disappear and the creature will die.
+
+The only exception to this is if you are participating in player versus player (PVP) combat. In this case, if you entirely deplete any one of another player's HAM bars, then you will incapacitate that player. At that point, you will need to perform a death blow in order to kill the other player.
+
+You may notice while in combat that the creature or player that you are fighting will accrue portions of black space at the end of its HAM bars. These indicate wounds that you have dealt your enemy with your weapon. Different weapons have different chances of inflicting wounds.
+
+The Health, Action, and Mind pools of a creature, NPC, or another player will regenerate with time if they are left alone, but again similar to your own pools, they will not regenerate any damage that wounds have caused without the help of a medic or entertainer.",		"targeting":"There is critical information that can be determined about a creature, non-player character (NPC) or another player by targeting them in your heads-up display. In this section, you can discover the details which can be learned by targeting.",		"consider":"When you have a creature targeted, you will see a small icon over its head next to its HAM bar. The color of this icon represents its relative difficulty compared to the experience you have with the weapon you currently have equipped (or with unarmed combat, if you do not have a weapon equipped).
+
+A green icon indicates that the creature should be fairly easy to defeat; blue indicates that you will probably kill the creature, but it will prove somewhat difficult; white indicates that the creature's abilities are on par with your own, it should be an even match; yellow indicates that the creature is slightly stronger than you, and will be very difficulty to kill; red indicates that the creature is much more skilled than you, and will most likely defeat you easily.
+
+In addition to the visual indicator mentioned above, you can also target a creature and use the /consider command. This will send you a message in your chat window telling you how difficult it should be to defeat.
+",		"combat":"Fighting creatures, bandits, other players, or anyone that you consider an enemy is an integral part of adventuring for many people. Here you will find descriptions of some of the basic components of combat."
+}}

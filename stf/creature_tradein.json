@@ -1,5 +1,5 @@
-[
-'3':'notacreature',
-'2':'store',
-'1':'cant',
-]
+{
+	"stfFile":"creature_tradein",
+	"entries": {
+		"notacreature":"That does not appear to be a creature.  You cannot trade that item.",		"store":"Please store any active creatures before attempting to trade a pet.",		"cant":"This system is reserved for non creature handlers only.  Please consult "Pet Trade-In" in your Holocron for details."
+}}

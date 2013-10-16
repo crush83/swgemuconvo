@@ -1,6 +1,5 @@
-[
-'10':'power_off',
-'9':'shock',
-'21':'power_already_off',
-'22':'protect',
-]
+{
+	"stfFile":"dungeon/nightsister_rancor_cave",
+	"entries": {
+		"power_off":"You put your hands on the cold crystal and feel its power diminish.",		"shock":"You feel electricity coursing through your body!",		"power_already_off":"The crystals power already seem drained.",		"protect":"Protect me my sisters!"
+}}

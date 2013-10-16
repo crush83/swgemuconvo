@@ -1,13 +1,5 @@
-[
-'12':'summary_02',
-'11':'defend_the_village_summary_02',
-'10':'reward_detail_02',
-'9':'reward_summary_02',
-'8':'reward_detail_01',
-'7':'reward_summary_01',
-'6':'defend_the_village_detail',
-'5':'defend_the_village_summary',
-'4':'detail_02',
-'3':'detail_01',
-'1':'summary_01',
-]
+{
+	"stfFile":"quest/quest_journal/fs_defend",
+	"entries": {
+		"summary_02":"Defend the village against Mellichae's Shadow Sith Pirates!",		"defend_the_village_summary_02":"Village Assault! (Unlock Enhanced Reflexes: Melee Defenses)",		"reward_detail_02":"You are now eligible to learn Enhanced Reflexes: Melee Defenses. You will first need to earn enough experience to learn skills in this branch. See Paemos in the village of Aurilia on Dathomir for more information.",		"reward_summary_02":"Unlocked branch Enhanced Reflexes: Melee Defenses",		"reward_detail_01":"You are now eligible to learn Combat Prowess: Ranged Weapon Speed. You will first need to earn enough experience to learn skills in this branch. See Paemos in the village of Aurilia on Dathomir for more information.",		"reward_summary_01":"Unlocked Combat Prowess: Ranged Weapon Speed",		"defend_the_village_detail":"An overwhelming force of mercenaries and criminals are assaulting the village of Aurilia. The villagers are grossly outnumbered. ",		"defend_the_village_summary":"Village Assault! (Unlock Combat Prowess: Ranged Weapon Speed)",		"detail_02":"An overwhelming force of mercenaries and criminals are assaulting the village of Aurilia. The villagers are grossly outnumbered. You are tasked with defeating at least twenty-five of the lieutenants leading Mellichae's hired thugs. The outlaws are led by Sith Shadow pirates.",		"detail_01":"An overwhelming force of mercenaries and criminals are assaulting the village of Aurilia. The villagers are grossly outnumbered. You are tasked with defeating at least fifty of the Sith Shadow outlaws hired by Mellichae.",		"summary_01":"Defend the village against Mellichae's Shadow Sith Outlaws!"
+}}

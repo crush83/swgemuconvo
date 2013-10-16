@@ -1,26 +1,20 @@
-[
-'24':'bib23',
-'23':'bib22',
-'22':'bib21',
-'21':'bib_24',
-'20':'bib20',
-'19':'bib19',
-'18':'bib18',
-'17':'bib17',
-'16':'bib16',
-'15':'bib15',
-'14':'bib14',
-'13':'bib13',
-'12':'bib12',
-'11':'bib11',
-'10':'bib10',
-'9':'bib9',
-'8':'bib8',
-'7':'bib7',
-'6':'bib6',
-'5':'bib5',
-'4':'bib4',
-'3':'bib3',
-'2':'bib2',
-'1':'bib1',
-]
+{
+	"stfFile":"bib_newbie_quest_1",
+	"entries": {
+		"bib23":"Sorry?  You're sorry?  Leave this place now, and return only when you're ready to prove yourself.  Jabba has no time for those who can't manage a simple escort through the desert.",		"bib22":"I'm sorry.",		"bib21":"Jabba's visitor is dead!  You have failed the master.  We are most disappointed in you.",		"bib_24":"I don't have any work for you right now.  Come back later.",		"bib20":"Thanks.
+",		"bib19":"Sorry, I'll get back to work.
+",		"bib18":"You can count on me.
+",		"bib17":"I'll deal with those thugs.
+",		"bib16":"Finally you've arrived.  Take us to Jabba at once, and don't let anything happen to the master.
+",		"bib15":"Sorry, I meant to warn you about that last bounty hunter.  No matter, you think well on your feet.  I'm depositing some money into your account.  Relax for a while, and then come back here.  I'll have another task for you when you're ready.
+",		"bib14":"I'm very busy.  And I believe you have something to do right now.
+",		"bib13":"Excellent.  Now go find our friend.  He's left me his location and I'm uploading it to your datapad.  Bring him back unharmed.",		"bib12":"Good work so far.  Now, Valarian has sent some thugs out to see if they can clean up the mess the Tuskens made.  Don't let them find our friend.  They're not welcome here.  Make sure they get the message.  Understood?",		"bib11":"I assume you're ready to go to work.
+",		"bib10":"Fine.  Come back when you are prepared to show Jabba your skills.
+",		"bib9":"Ok.
+",		"bib8":"If you do your job well then I will introduce you to Jabba later.  For now, there are many things that need to be done.  Are you ready to work?
+",		"bib7":"We shall see about that.  Their location is now marked on your datapad and you should have a waypoint to find the landspeeder.  Go, now, and do my bidding.",		"bib6":"I'm not sure I'm up to this.",		"bib5":"Those sand people are Bantha Fodder.
+",		"bib4":"Good.  One of Jabba's trusted lieutenants was on his way here when he was waylaid by sandpeople.  They have destroyed his landspeeder.  Go make sure that he is ok, and deal with the Tuskens.  Do you understand?
+",		"bib3":"I want to meet Jabba the Hutt.
+",		"bib2":"Absolutely.",		"bib1":"My agents tell me that you're good.  I'm looking for someone who can handle some heavy work.  Do you think you can handle it?
+"
+}}

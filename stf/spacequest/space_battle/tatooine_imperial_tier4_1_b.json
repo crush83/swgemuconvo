@@ -1,29 +1,5 @@
-[
-'27':'title_d',
-'26':'title',
-'25':'split_quest_alert_fail',
-'24':'split_quest_alert',
-'23':'quest_update',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_helpallies_t',
-'19':'quest_helpallies_d',
-'18':'quest_findbattle_t',
-'17':'quest_findbattle_d',
-'16':'found_loc',
-'15':'enemies_win',
-'14':'enemies_remaining',
-'13':'enemies_remain',
-'12':'enemies_arrived',
-'11':'battle_started',
-'10':'battle_abandoned',
-'9':'autorewardsubject',
-'8':'autorewardfrom',
-'7':'autorewardbody',
-'6':'assigned_delayed',
-'5':'allies_win',
-'4':'allies_remaining',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_imperial_tier4_1_b",
+	"entries": {
+		"title_d":"The Rebels have launched an attack on the local TIE defense force. The TIE force has been badly hurt and are now regrouping for a final stand. Those fighters are vital to the operations in the Endor system and need to be protected. You must save the TIEs.",		"title":"Endor System: Battle the Rebel Forces",		"split_quest_alert_fail":"",		"split_quest_alert":"An enemy scout vessel has been detected in the area. Disable that scout and recover the contents of its main frame.",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO> \#pcontrast3 ",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"The navigation waypoint to the TIEs rally point will be supplied to you.",		"quest_helpallies_t":"Help the TIEs Defeat the Rebel Forces",		"quest_helpallies_d":"You must destroy the Rebel attackers before they can eliminate the remaining TIE fighters.",		"quest_findbattle_t":"Travel to the Battle Location",		"quest_findbattle_d":"Travel to the navigaiton waypoint and join up with the TIE squadron.",		"found_loc":"We have the location of the besieged TIEs. Travel to the navigation waypoint immediately and protect those fighters.",		"enemies_win":"The wing has been destroyed. The Rebellion may have won this battle but they have not won the war. Return to your superior officer.",		"enemies_remaining":"",		"enemies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI enemy fighters remaining.>",		"enemies_arrived":"Warning! Enemy fighters detected.",		"battle_started":"The enemy has engaged the TIE fighters.",		"battle_abandoned":"You have left the TIE defense force at the mercy of our enemies. The Empire does not tolerate cowards. Report back to your superior.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"You have handed the Empire a glorious victory over the Rebellion.",		"allies_remaining":"",		"allies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI allied fighters remaining.>",		"allies_arrived":"Allied TIE fighters regrouping to try to fend off the Rebel assault.",		"Quest Log Data":"Text"
+}}

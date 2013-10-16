@@ -1,7 +1,5 @@
-[
-'5':'deliver_hutt_easy_2',
-'4':'deliver_hutt_easy_3',
-'3':'deliver_hutt_easy_4',
-'2':'deliver_hutt_easy_1',
-'1':'deliver_hutt_easy_5',
-]
+{
+	"stfFile":"mission_deliver_hutt_easy",
+	"entries": {
+		"deliver_hutt_easy_2":"It's important that we get a package delivered soon, in order to keep business running on this planet.  We need you to meet with the individual carrying the package and get information from him as to where it goes.",		"deliver_hutt_easy_3":"We got a message from a contact named Ree-Yees.  It seems a friend of his needs a package delivered.  Go find this friend, get the package, and find out where it needs to go.",		"deliver_hutt_easy_4":"To keep Imperial security off our backs Jabba has instructed us to make several false deliveries anytime we deliver sensitive packages.  Even we don't know if the package you'll be getting is real or not, but chances are it's fake.  Go see the contact and make the delivery.",		"deliver_hutt_easy_1":"One of our trusted agents is under surveillance and needs you to deliver a package.  Meet the agent at the location given and help him out.",		"deliver_hutt_easy_5":"One of our informants needs to get a package to a friend, but doesn't want to blow their cover, so you're going to deliver the package.  Go meet the informant and make the delivery."
+}}

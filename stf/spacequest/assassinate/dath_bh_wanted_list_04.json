@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/dath_bh_wanted_list_04",
+	"entries": {
+		"title_d":"",		"title":"WANTED: Juree La'Zar",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":" \#pcontrast3 Bountyhunters Guild: < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_location_t":"",		"quest_location_d":"",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"Your target has eluded capture... Mission failed.",		"escort_wiped_out":"",		"escort_remaining":"",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"You have defeated Juree La'Zar! Excellent work, bounty hunter!",		"arrival_phase_2":"Juree La'Zar has entered the system. Find her and destroy her!",		"arrival_phase_1":"The renegade killer Juree La'Zar is somewhere in this system..."
+}}

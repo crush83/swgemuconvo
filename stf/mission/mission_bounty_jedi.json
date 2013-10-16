@@ -1,33 +1,13 @@
-[
-'31':'number_of_entries',
-'30':'m6v',
-'29':'m6t',
-'28':'m6s',
-'27':'m6o',
-'26':'m6d',
-'25':'m5v',
-'24':'m5t',
-'23':'m5s',
-'22':'m5o',
-'21':'m5d',
-'20':'m4v',
-'19':'m4t',
-'18':'m4s',
-'17':'m4o',
-'16':'m4d',
-'15':'m3v',
-'14':'m3t',
-'13':'m3s',
-'12':'m3o',
-'11':'m3d',
-'10':'m2v',
-'9':'m2t',
-'8':'m2s',
-'7':'m2o',
-'6':'m2d',
-'5':'m1v',
-'4':'m1t',
-'3':'m1s',
-'2':'m1o',
-'1':'m1d',
-]
+{
+	"stfFile":"mission/mission_bounty_jedi",
+	"entries": {
+		"number_of_entries":"6",		"m6v":"",		"m6t":"Revenge for a lost child",		"m6s":"Hooray, the scum is dead.  Those types have no place in this universe.  Now my daughter can look on the face of her murderer with disgust herself.  ",		"m6o":"",		"m6d":"Jedi are supposed to protect the innocents of this galaxy against oppression.  In that they have failed.  A few weeks past, I was involved in a scuffle with some thugs over payment to one of the local swoop gangs.  Hey, we all have to make a living, right?  Those scum approached me on the street while I had my daughter with me!  Things got heated, and words were exchanged.  I pulled a blaster to show them I wasn't having any of it.  The gang leader doesn't even blink.  He laughs a second, pulls out his own blaster and starts shooting.  When it was over, my daughter lay dead in the street.  Security?  The only thing they have to say is "Move along."
+
+How does this connect to the Jedi?  A Jedi watched the entire thing!  I signaled him a few times for help, but when blasters came out, that coward turned and left!  I want his blood for that.  ",		"m5v":"",		"m5t":"Restore Imperial Order",		"m5s":"Excellent work.  The Empire has a new man we can trust.  Rest assured, we will call on you again when the situation presents itself.",		"m5o":"",		"m5d":"The Empire has no need of the ancient Jedi, no matter their political affiliation.  The Empire pays good credits for extinguishing the lives of this scum.  We've received word through our trusted informants of a Jedi hiding place.  We have heard you may be up for the challenge.  Can you be counted on?  The Empire needs such citizens working hard for peace and prosperity.",		"m4v":"",		"m4t":"Contract Work Revenge",		"m4s":"Excellent work, a job well done.  Hard to believe I know, but I landed another job with the same contracting company on some kind of "secret" military project.  Combine that with my wife coming back home, and everything is going great for me.  I report to work in 6 weeks.  Wish me luck!  ",		"m4o":"",		"m4d":"I don't care what the rumors are, Jedi were involved in the destruction of the orbiting base the Empire commissioned.  I had a contract to work on that station for the next 7 years, and now it's gone.  I've got family to feed, no job, and no way to do it.  Do you think my wife stuck around to see if another job came through?  I'll give you a guess...
+
+I've scraped together my life savings to take out the Jedi who ruined my life.  I don't care what it takes; I've got nothing now.  Find this Jedi and kill him.  ",		"m3v":"",		"m3t":"Slay an evil Jedi assassin",		"m3s":"While it seems that my information was incorrect, I'm happy to know you have rid the galaxy of one of these Jedi scum.  I will endeavor to locate my master?s assassin and contact you once I have further intel.",		"m3o":"Anonymous",		"m3d":"Recently, a man posing as a Jedi invaded the palace of my esteemed master.  While many believe him slain, I for one will never accept that he is gone.  I demand retribution for his injuries.
+
+I have come into some information that pinpoints his location.  Please take care of this problem for me.",		"m2v":"",		"m2t":"Jedi Identification",		"m2s":"Congratulations.  It seems I am proven wrong.  In the end, it is worth it.  I can begin the process of starting my force training again, and look forward one day becoming a Jedi myself.",		"m2o":"",		"m2d":"When I was a kid, I was desperate to channel The Force.  All my friends made fun of me, but I was determined.  I stared for hours at an apple and attempted to levitate it through the air.  I failed, and failed, and failed again.
+
+Now, late in my life, I realize my foolishness.  I'm incredibly wealthy and a bit of a philanthropist.  I put up this reward as an impossible challenge.  I don't believe Jedi or The Force actually exists.  They are stories told to the young and foolish.  Find and kill one, if you can. ",		"m1v":"",		"m1t":"Vicious Jedi Murderer",		"m1s":"Client sends congratulations and their regards for a job well done.",		"m1o":"Jake the Fixer",		"m1d":"A bounty is hereby issued on the Jedi murderer of an innocent farming family on Naboo. Target is a Jedi and is thus high-threat. Take the proper precautions, but do not leave him alive."
+}}

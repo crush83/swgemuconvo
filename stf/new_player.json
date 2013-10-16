@@ -1,180 +1,308 @@
-[
-'185':'entertainer_quest_03_ithorian',
-'184':'entertainer_quest_03_sullustan',
-'183':'space_cannot_call',
-'182':'menu_space',
-'181':'space_info_how_to_make_money',
-'180':'space_info_how_to_travel',
-'179':'space_info_how_to_check_email',
-'178':'space_info_how_to_find_ship',
-'177':'space_option_how_to_make_money',
-'176':'space_option_how_to_travel',
-'175':'space_option_how_to_check_email',
-'174':'space_option_how_to_find_ship',
-'173':'space_greeting',
-'172':'counter_not_update',
-'171':'droid_periodic_check_end',
-'170':'menu_other',
-'169':'submenu_vehicle',
-'168':'submenu_travel',
-'167':'submenu_cloning',
-'166':'scout_quest_06_b',
-'165':'medic_quest_06_b',
-'164':'marksman_quest_05_b',
-'163':'brawler_quest_06_b',
-'162':'artisan_quest_05_b',
-'161':'entertainer_quest_06_b',
-'160':'completed_third_task',
-'159':'completed_first_profession',
-'158':'completed_second_task',
-'157':'completed_first_task',
-'156':'inventory_full',
-'155':'droid_prompt_end',
-'154':'listbox_no_selection',
-'152':'travel_coupon_cancel_button',
-'151':'travel_coupon_cancelled',
-'150':'travel_coupon_use_text_no_money',
-'149':'travel_coupon_invaild',
-'147':'travel_coupon_pay_credits_button',
-'146':'travel_coupon_use_coupon_button',
-'145':'travel_coupon_use_text_option',
-'144':'travel_coupon',
-'143':'given_fireworks',
-'142':'vehicle_coupon_no_owner',
-'141':'vehicle_coupon_is_not_owner',
-'140':'vehicle_coupon_menu_call',
-'139':'calling_stored_helper_droid',
-'138':'general_medic_button',
-'137':'general_entertainer_button',
-'136':'medic_tend_wounds',
-'135':'medic_diagnose',
-'134':'entertainer_image_design',
-'133':'marksman_overcharge_shot',
-'132':'marksman_point_blank_single',
-'131':'brawler_center_of_being',
-'130':'brawler_lunge',
-'129':'brawler_berserk',
-'128':'general_combat_button',
-'127':'droid_greeting_begin_03',
-'126':'droid_greeting_begin_02',
-'125':'droid_greeting_end',
-'122':'general_greeting_prose_03',
-'121':'general_greeting_prose_02',
-'120':'task_complete_no_reward_05',
-'119':'task_complete_no_reward_04',
-'118':'task_complete_no_reward_03',
-'117':'task_complete_no_reward_02',
-'116':'task_complete_reward_05',
-'115':'task_complete_reward_04',
-'114':'task_complete_reward_03',
-'113':'task_complete_reward_02',
-'112':'task_complete_no_reward_01',
-'111':'task_complete_reward_01',
-'110':'profession_quest_menus',
-'109':'medic_quest_00',
-'108':'marksman_quest_00',
-'107':'scout_quest_00',
-'106':'entertainer_quest_00',
-'105':'brawler_quest_00',
-'104':'artisan_quest_00',
-'103':'given_vehicle_coupon',
-'102':'given_travel_coupon',
-'101':'given_cloning_coupon',
-'98':'entertainer_quest_03_bothan',
-'97':'entertainer_quest_03_rodian',
-'96':'entertainer_quest_03_wookiee',
-'95':'default_text',
-'94':'default_revert_button',
-'93':'default_okay_button',
-'92':'default_cancel_button',
-'91':'given_slitherhorn',
-'90':'given_crafting_tool',
-'89':'given_survey_device',
-'88':'entertainer_quest_03_moncalamari',
-'87':'entertainer_quest_03_zabrak',
-'86':'entertainer_quest_03_trandoshan',
-'85':'entertainer_quest_03_twilek',
-'84':'help_now_button',
-'83':'lets_start_button',
-'82':'refused_quest_help',
-'81':'new_player_travel_coupon',
-'80':'new_player_travel_coupon_d',
-'79':'new_player_cloning_coupon_d',
-'78':'new_player_cloning_coupon',
-'77':'new_player_vehicle_coupon_d',
-'76':'new_player_vehicle_coupon',
-'75':'medic_quest_complete',
-'74':'artisan_quest_complete',
-'73':'entertainer_quest_complete',
-'72':'scout_quest_complete',
-'71':'marksman_quest_complete',
-'70':'brawler_quest_complete',
-'69':'okay_button',
-'68':'medic_quest_06',
-'67':'medic_quest_05',
-'66':'credits_reward',
-'65':'continue_button',
-'64':'cdef_carbine_button',
-'63':'cdef_rifle_button',
-'62':'cdef_pistol_button',
-'61':'wooden_staff_button',
-'60':'survival_knife_button',
-'59':'heavy_axe_button',
-'58':'scout_quest_06',
-'57':'marksman_quest_05',
-'56':'brawler_quest_06',
-'55':'submenu_medic',
-'54':'submenu_entertainer',
-'53':'submenu_artisan',
-'52':'submenu_scout',
-'51':'submenu_marksman',
-'50':'submenu_brawler',
-'49':'menu_quests',
-'48':'thank_you_button',
-'47':'give_quest_button',
-'46':'delayed_accepting_quest',
-'45':'medic_quest_04',
-'44':'medic_quest_03',
-'43':'medic_quest_02',
-'42':'medic_quest_01',
-'41':'artisan_quest_05',
-'40':'artisan_quest_04',
-'39':'artisan_quest_03',
-'38':'artisan_quest_02',
-'37':'artisan_quest_01',
-'36':'entertainer_quest_06',
-'35':'entertainer_quest_05',
-'34':'entertainer_quest_04',
-'33':'entertainer_quest_03_human',
-'32':'entertainer_quest_02',
-'31':'entertainer_quest_01',
-'30':'scout_quest_recommendation',
-'29':'scout_quest_05',
-'28':'scout_quest_04',
-'27':'scout_quest_03',
-'26':'scout_quest_02',
-'25':'scout_quest_01',
-'24':'marksman_quest_weapon_choice',
-'23':'marksman_quest_04',
-'22':'marksman_quest_03',
-'21':'marksman_quest_02',
-'20':'marksman_quest_01',
-'19':'brawler_quest_weapon_choice',
-'18':'brawler_quest_05',
-'17':'brawler_quest_04',
-'16':'brawler_quest_03',
-'15':'brawler_quest_02',
-'14':'brawler_quest_01',
-'13':'general_greeting_prose_01',
-'12':'entertainer_added',
-'11':'artisan_added',
-'10':'scout_added',
-'9':'medic_added',
-'8':'marksman_added',
-'7':'brawler_added',
-'6':'not_now_button',
-'5':'yes_please_button',
-'4':'droid_greeting_begin_01',
-'3':'no_help_needed_button',
-'2':'help_please_button',
-]
+{
+	"stfFile":"new_player",
+	"entries": {
+		"entertainer_quest_03_ithorian":"[beep... clik... tweetle... clik... whir... zang] 
+Your next task was to restyle your hair, but as an Ithorian, you are not yet able to do this. I have been authorized to skip this step and move on to the next one.
+
+Before I do, I'd like to make sure you know that you can help others style their hair by grouping with them, then targeting them, and then either selecting the Image Design radial menu option or typing /imagedesign. If you progress as an Image Designer, you will eventually learn how to change many aspects of your appearance.
+
+Let's move on.",		"entertainer_quest_03_sullustan":"[beep... clik... tweetle... clik... whir... zang] 
+Your next task was to restyle your hair, but as a Sullustan, you do not have hair or anything else to style. I have been authorized to skip this step and move on to the next one.
+
+Before I do, I'd like to make sure you know that you can help others style their hair by grouping with them, then targeting them, and then either selecting the Image Design radial menu option or typing /imagedesign. If you progress as an Image Designer, you will eventually learn how to change the style and color your skull markings... among other things.
+
+Let's move on.",		"space_cannot_call":"Your helper droid is not built for the pressures of space. Call it when you are on a planet.",		"menu_space":"Starship Pilot Help",		"space_info_how_to_make_money":"[whir... boop... click... zzt]
+There are many civilian contracts available on the 'mission terminals' you find throughout town. Look for them near any major structure. Use the terminal to bring up the current list of local contracts. Choose the one that interests you the most, and you'll make money when the task is complete.",		"space_info_how_to_travel":"[vweet... plerp... beep... zwing]
+Until you have your own ship, your options for traveling to a location on the surface of a planet are limited to walking and purchasing a shuttle or starship ticket.
+
+If you choose to walk to a location on your current planet, I suggest opening your planetary map (ctrl-v) and creating a waypoint at your destination. You can do this by right-clicking on the map at the location that is your target or by right-clicking one of the locations listed on the right-hand side of the map. Either way, choose the option to create a waypoint and one will be added to your datapad.
+
+If you choose to purchase a shuttle or starport ticket, simply travel to the nearest shuttleport or starport and purchase a ticket from the ticket terminal. Shuttleports are used to travel to destinations on your current planet. Starports are used to travel to different planets, though you may also travel to other locations on the same planet. Once you have your ticket, walk to the ticket droid and present your ticket. The ticket droid will let you know when the next transport will be leaving.",		"space_info_how_to_check_email":"[bleep... bloop... whir... whir]
+Look for the flashing 'envelope' icon on your interface. It's placed on the lower right-hand side of your screen by default.
+
+Double-click on the envelope icon, and read your mail.",		"space_info_how_to_find_ship":"[beep... bleep... freet... click]
+Your best bet to get a starship with which to start, as well as the training to fly one, would be to join an organization that will supply you with one. Such an organization might be part of the military, as with the Imperial Navy or the Rebel Alliance Navy. There are also freelance, or privateer, organizations that hire and train pilots, such as various smuggling operations and minor security forces.
+
+Before arriving here, you made a choice as to which type of organizations you would prefer to join: Imperial, Rebel, or Privateer. You have been provided with a waypoint in your datapad that marks the location of a trainer for the organization you chose. The path to that trainer has also been marked for you, so that you may follow it from the starport to your trainer.
+
+If you wish to know more about Imperial, Rebel, or Privateer organizations, many of them contact potential recruits such as yourself via email. This correspondence invites you to speak with a coordinator from the organization.  If interested, you might wish to check your email for just such a thing.",		"space_option_how_to_make_money":"How do I make money?",		"space_option_how_to_travel":"How do I travel to other ground locations?",		"space_option_how_to_check_email":"How do I check my email?",		"space_option_how_to_find_ship":"How do I get trained as a starship pilot?",		"space_greeting":"I am your helper droid, and I can help answer some questions you might have about becoming a pilot of a starship.
+
+Please choose any topic shown below, and I will provide more information about it.",		"counter_not_update":"
+
+         (Please note that as you progress in this task,
+         the counter will not update without being re-opened.)",		"droid_periodic_check_end":"I am merely checking to see if you might be in need of assistance.
+
+If so, you need simply select the profession with which you would like help and then click on the "Okay" button.",		"menu_other":"General Help",		"submenu_vehicle":"Vehicle Use",		"submenu_travel":"Traveling",		"submenu_cloning":"Cloning",		"scout_quest_06_b":"Samples of Hide Harvested: ",		"medic_quest_06_b":"Players Healed: ",		"marksman_quest_05_b":"Creatures Killed: ",		"brawler_quest_06_b":"Creatures Killed: ",		"artisan_quest_05_b":"Rifles Crafted: ",		"entertainer_quest_06_b":"Players Entertained: ",		"completed_third_task":"You're doing great! Here's a travel voucher. Use it to get a free shuttleport or spaceport ticket! Wow!",		"completed_first_profession":"Well done! You've completed an entire profession's set of tasks. As a reward, take this vehicle rental. Have fun!",		"completed_second_task":"Whoo, you're on  roll! Here's an authorization release for any cloning facility... it lets you bind once for free. Enjoy!",		"completed_first_task":"Congratulations on completing your first ever task! If you wish to celebrate, you can use these fireworks.",		"inventory_full":"[beep... zip... bwoop... clik]
+You have no space in your inventory. Please make some room and then use my radial menu to try again when you are ready.",		"droid_prompt_end":"and welcome back. I am, as always, at your service.
+
+If I may be of assistance, simply select the profession you want and then click on the "Okay" button.",		"listbox_no_selection":"Please select one of the professions in the list before clicking on "Okay".",		"travel_coupon_cancel_button":"Cancel",		"travel_coupon_cancelled":"Ticket purchase cancelled.",		"travel_coupon_use_text_no_money":"Would you like to use your Travel Voucher to purchase this ticket?",		"travel_coupon_invaild":"Warning: Travel Voucher is invalid. Aborting travel ticket purchase...",		"travel_coupon_pay_credits_button":"Pay Fee",		"travel_coupon_use_coupon_button":"Use Voucher",		"travel_coupon_use_text_option":"Would you like to:
+
+- Use your Travel Voucher to purchase this ticket?
+- Or pay the fee to purchase this ticket?
+
+Ticket Price: ",		"travel_coupon":"Using A Travel Voucher",		"given_fireworks":"A firework device has been placed in your inventory.",		"vehicle_coupon_no_owner":"This is an invaild rental device.",		"vehicle_coupon_is_not_owner":"You are not authorized to use this rental device.",		"vehicle_coupon_menu_call":"Call Rental Vehicle",		"calling_stored_helper_droid":"[zwoop... blip... clik... bweep]
+When I have been stored, you may call me from my control device in your datapad. 
+
+Simply open your datapad (CTRL-D) and then select the control device with my name. It will be in the "Data" tab in your datapad. Click on my control device and use the radial menu choice to "Call" me.
+
+If I'm currently in the world somewhere, instead of a "Call" menu option, you will see a "Store" menu option. You can use this choice to store me in my control device.",		"general_medic_button":"Healing Info",		"general_entertainer_button":"Entertainer Info",		"medic_tend_wounds":"[whir... clik... bweep... bloop... zweet]
+Using Tend Wounds heals the wounds of a specified physical attribute without the need for medicine.  Using this causes minor wounding to your focus and willpower.
+
+To Tend Wounds, type "/tendwound <target's name> <attribute>". You may also click on your target to select them and then type "/tendwound <attribute>".
+
+A third option is to drag Tend Wound from the "Other" tab of your Command Browser (CTRL-A) to your hotkey bar at the top of your screen and use the corresponding hotkey or click on it directly.",		"medic_diagnose":"[whir... clik... weet... blip... tweet]
+Using Diagnose allows you to see what wounds your patient might have.
+
+To use Diagnose, type "/diagnose <target's name>". You may also click on your target to select them and then type "/diagnose".
+
+Another option is to drag Diagnose from the "Other" tab of your Command Browser (CTRL-A) to your hotkey bar at the top of your screen and use the corresponding hotkey or click on it directly.",		"entertainer_image_design":"[whir... clik... beep... boop... zweep]
+Using Image Design allows you to alter the way your character looks, or to alter the way other characters look as long as they are in a group with you and consent to your changes.
+
+To Image Design, type "/imagedesign <target's name>". You may also simply click on your target to select them and then type "/imagedesign". If you aren't targeting anyone, then you will image design yourself.
+
+Another way to begin image designing is use the "Image Design" radial menu choice on a player with whom you are grouped.",		"marksman_overcharge_shot":"[whir... clik... boop... dadeep... zeep]
+An Overcharge Shot causes more damage to a target at the expense of your weapon's power supply.
+
+To use an Overcharge Shot, type "/overchargeshot1 <target>" or you may select your target and then just type "/overchargeshot1".
+
+Another option is to drag Overcharge Shot 1 from the "Combat" tab of your Command Browser (CTRL-A) to your hotkey bar at the top of your screen and use the corresponding hotkey or click on it directly.",		"marksman_point_blank_single":"[whir... clik... vwoot... bwat... beep]
+A Point Blank Single attack can be performed at point blank range on a single target without suffering a penalty to hit.
+
+To use a Point Blank Single attack, type "/pointblanksingle1 <target>" or you can select your target and then just type "/pointblanksingle1".
+
+Another option is to drag Point Blank Single 1 from the "Combat" tab of your Command Browser (CTRL-A) to your hotkey bar at the top of your screen and use the corresponding hotkey or click on it directly.",		"brawler_center_of_being":"[whir... clik... bleet... zzt... tweet]
+When using Center of Being, your character will focus on avoiding combat blows.
+
+To use Center of Being, type "/centerofbeing" or you may drag Center of Being from the "Other" tab in your Command Browser (CTRL-A) to your hotkey bar at the top of your screen and use the corresponding hotkey or click on it directly.",		"brawler_lunge":"[whir... clik... bweep... freet... blip]
+A Lunge attack can slightly extend your range, and has a chance to lower the posture of your target... possibly limiting their ability to attack or defend.
+
+To use Lunge, you will need to type the command that goes with your style of attack: 
+    For one-handed weapons, type /melee1hlunge1 <target>
+    For two-handed weapons, type /melee2hlunge1 <target>
+    For polearm weapons, type /polearmlunge1 <target>
+    For unarmed, type /unarmedlunge1 <target>
+
+If you have your target selected, you can leave off the <target> part of the command.
+
+Or you may drag the appropriate Lunge 1 command from the "Combat" tab of your Command Browser (CTRL-A) to your hotkey bar at the top of your screen and use the corresponding hotkey or click on it directly.",		"brawler_berserk":"[whir... clik... beep... tweetle... razz]
+While Berserk, you cause more melee damage to your targets but get hit more often in return.
+
+To go Berserk, type "/berserk1" or you may drag Berserk 1 from the "Other" tab of your Command Browser (CTRL-A) to your hotkey bar at the top of your screen and use the corresponding hotkey or click on it directly.",		"general_combat_button":"Combat",		"droid_greeting_begin_03":"[tweet... clik... zwing... bweep... beep] 
+Salutations, ",		"droid_greeting_begin_02":"[bwoop... clik... zwing... bweep... beep] 
+Hello, ",		"droid_greeting_end":"I am your helper droid and will be helping you to learn more about any of the Starting Professions you wish to undertake.
+
+I have downloaded some tasks to help you get started. Would you like to begin?",		"general_greeting_prose_03":"[tweet... clik] Salutations %TO.",		"general_greeting_prose_02":"[bwoop... clik] Hello %TO.",		"task_complete_no_reward_05":"%TU tells you "[whir... bleep... boop] You have done well and completed your %TT task."",		"task_complete_no_reward_04":"%TU tells you "[whir... boop... whir] You have completed your %TT task."",		"task_complete_no_reward_03":"%TU tells you "[whir... boop... bleep] Your %TT task is complete. Very good."",		"task_complete_no_reward_02":"%TU tells you "[bwoop... whir... boop] Excellent job in completing your %TT task."",		"task_complete_reward_05":"%TU tells you "[whir... bleep... zing... boop... razz] You have done well and completed your %TT task. You have been granted bonus Experience Points and a reward of %DI credits."",		"task_complete_reward_04":"%TU tells you "[whir... zing... boop... razz... whir] You have completed your %TT task and have been granted bonus Experience Points plus a reward of %DI credits."",		"task_complete_reward_03":"%TU tells you "[whir... zing... boop... bleep... razz] Your %TT task is complete. Very good. You have been granted bonus Experience Points and a reward of %DI credits."",		"task_complete_reward_02":"%TU tells you "[bwoop... whir... zing... boop... razz] Excellent job in completing your %TT task. You have been granted bonus Experience Points and a reward of %DI credits."",		"task_complete_no_reward_01":"%TU tells you "[bleep... whir... boop] Well done in completing your %TT task."",		"task_complete_reward_01":"%TU tells you "[bleep... whir... zing... boop... razz] Well done in completing your %TT task. You have been granted bonus Experience Points and a reward of %DI credits."",		"profession_quest_menus":"Select the submenu under Profession Quests for the profession in which you are interested.",		"medic_quest_00":"[boop... zweet... whir] 
+Are you ready to learn more about the Medic profession? I've downloaded some Medic tasks that will help.
+
+Ready to begin?",		"marksman_quest_00":"[boop... beep... beep] 
+Are you ready to learn more about the Marksman profession? I've downloaded some Marksman tasks that will help.
+
+Ready to begin?",		"scout_quest_00":"[bwat... zzt... bweep... whir] 
+Are you ready to learn more about the Scout profession? I've downloaded some Scout tasks that will help.
+
+Ready to begin?",		"entertainer_quest_00":"[beep... beep... bop] 
+Are you ready to learn more about the Entertainer profession? I've downloaded some Entertainer tasks that will help.
+
+Ready to begin?",		"brawler_quest_00":"[beep... clik... boop... whir] 
+Are you ready to learn more about the Brawler profession? I've downloaded some Brawler tasks that will help.
+
+Ready to begin?",		"artisan_quest_00":"[beep... tweet... whir] 
+Are you ready to learn more about the Artisan profession? I've downloaded some Artisan tasks that will help.
+
+Ready to begin?",		"given_vehicle_coupon":"A vehicle rental device has been placed in your inventory. Examine it for more details.",		"given_travel_coupon":"A travel voucher has been placed in your inventory. Examine it for more details.",		"given_cloning_coupon":"A cloning facility authorization release has been placed in your inventory. Examine it for more details.",		"entertainer_quest_03_bothan":"[boop... zeet... zwing... clik] 
+Some entertainers choose to follow the path of becoming an Image Designer. Image design can involve many things such as hair styling, body sculpting, and even skin tinting. 
+
+You next task is to use your image design skills and change your hair to a different style.",		"entertainer_quest_03_rodian":"[boop... zeet... zwing... clik] 
+Some entertainers choose to follow the path of becoming an Image Designer. Image design can involve many things such as hair styling, body sculpting, and even skin tinting. 
+
+You next task is to use your image design skills and change your frills to a different style.",		"entertainer_quest_03_wookiee":"[beep... clik... tweetle... clik... whir... zang] 
+Your next task was intended to be to restyle your hair, but as a Wookiee, your fur cannot be styled so easily. I have been authorized to skip this step and move on to the next one.
+
+Before I do, I'd like to make sure you know that you can help others style their hair by grouping with them, then targeting them, and then either selecting the Image Design radial menu or typing /imagedesign. If you progress as an Image Designer, you will eventually learn how to change your fur color and markings... among other things.
+
+Let's move on.",		"default_text":"Warning... I have nothing to say.",		"default_revert_button":"Revert",		"default_okay_button":"Okay",		"default_cancel_button":"Cancel",		"given_slitherhorn":"A slitherhorn has been added to your inventory.",		"given_crafting_tool":"A generic crafting tool has been added to your inventory.",		"given_survey_device":"A mineral survey device has been added to your inventory.",		"entertainer_quest_03_moncalamari":"[beep... clik... tweetle... clik... whir... zang] 
+Your next task was to restyle your hair, but as a Mon Calamari, you do not have hair or anything else to style. I have been authorized to skip this step and move on to the next one.
+
+Before I do, I'd like to make sure you know that you can help others style their hair by grouping with them, then targeting them, and then either selecting the Image Design radial menu option or typing /imagedesign. If you progress as an Image Designer, you will eventually learn how to change the style and color your skull markings... among other things.
+
+Let's move on.",		"entertainer_quest_03_zabrak":"[boop... zeet... zwing... clik] 
+Some entertainers choose to follow the path of becoming an Image Designer. Image design can involve many things such as hair styling, body sculpting, and even skin tinting. 
+
+You next task is to use your image design skills and change your horn pattern to a different style.",		"entertainer_quest_03_trandoshan":"[boop... zeet... zwing... clik] 
+Some entertainers choose to follow the path of becoming an Image Designer. Image design can involve many things such as hair styling, body sculpting, and even skin tinting. 
+
+You next task is to use your image design skills and change your skull ridges to a different style.",		"entertainer_quest_03_twilek":"[boop... zeet... zwing... clik] 
+Some entertainers choose to follow the path of becoming an Image Designer. Image design can involve many things such as hair styling, body sculpting, and even skin tinting. 
+
+You next task is to use your image design skills and change your lekku to a different style.",		"help_now_button":"Help",		"lets_start_button":"Start",		"refused_quest_help":"[bweep...bleep..blip... zonk... tweet] 
+Very well. If you need help, simply use my radial menu. When you click on me and the radial menu appears, hover over the menu option labeled "Profession Quests" and then choose the submenu for the profession about which you are ready to learn.  And remember that I am authorized to reward you for your progress as you complete these tasks.
+
+If I'm ever needed but not out by your side, you may call me from my control device in your datapad. Simply open your datapad (CTRL-D) and then select the control device with my name. It will be in the "Data" tab in your datapad. Click on my control device and use the radial menu choice to "Call" me.",		"new_player_travel_coupon":"A Travel Voucher",		"new_player_travel_coupon_d":"This travel voucher can be used to purchase a shuttleport or starport ticket at no cost. It may only be used once.
+
+When you use a travel terminal to purchase a travel ticket, you will be given the option of using this travel voucher to pay for the ticket.",		"new_player_cloning_coupon_d":"This cloning facility authorization release can be used to store your clone data at a cloning facility at no cost. It may only be used once.
+
+When you use a cloning terminal to store your clone data at a cloning facility, you will be given the option of using this authorization release instead of paying the fee.",		"new_player_cloning_coupon":"A Cloning Facility Authorization Release",		"new_player_vehicle_coupon_d":"Using this device will upload a rental vehicle device to your datapad.
+
+When you first use this vehicle rental device, a vehicle control device will be placed in your datapad, and your rental vehicle will be called for the first time for you to ride. Thereafter to call your rental vehicle, use the vehicle control device in your datapad (CTRL-D).
+
+Your rental vehicle can be called 5 times before the rental contract expires. Once the vehicle is called, you may ride it at will until it is stored again. Remember that when you first use this device, your rental vehicle is called for the first time which will then leave you with 4 more opportunities to call and use it.",		"new_player_vehicle_coupon":"A Vehicle Rental Device",		"medic_quest_complete":"[zwing... razzle... zwing... beep... whir] 
+Congratulations on finishing the tasks for the Medic profession. 
+
+Continue using what you have learned to progress in this profession. Well done and happy journeys.
+
+If you'd like to try any of the other starting professions (Brawler, Marksman, Scout, Artisan, or Entertainer), simply speak to a trainer for the profession you wish to try and tell them you are interested in learning that profession. And don't worry... I can help you with those professions as well.",		"artisan_quest_complete":"[beep... clik... beep... whir... blip] 
+Congratulations on finishing the tasks for the Artisan profession. 
+
+Continue using what you have learned to progress in this profession. Well done and happy journeys.
+
+If you'd like to try any of the other starting professions (Brawler, Marksman, Scout, Medic, or Entertainer), simply speak to a trainer for the profession you wish to try and tell them you are interested in learning that profession. And don't worry... I can help you with those professions as well.",		"entertainer_quest_complete":"[beep... zwing... tweet... bweep... beep] 
+Congratulations on finishing the tasks for the Entertainer profession. 
+
+Continue using what you have learned to progress in this profession. Well done and happy journeys.
+
+If you'd like to try any of the other starting professions (Brawler, Marksman, Scout, Medic, or Artisan), simply speak to a trainer for the profession you wish to try and tell them you are interested in learning that profession. And don't worry... I can help you with those professions as well.",		"scout_quest_complete":"[bweep... zeet... tweetle... boop... bweep] 
+Congratulations on finishing the tasks for the Scout profession. 
+
+Continue using what you have learned to progress in this profession. Well done and happy journeys.
+
+If you'd like to try any of the other starting professions (Brawler, Marksman, Medic, Artisan, or Entertainer), simply speak to a trainer for the profession you wish to try and tell them you are interested in learning that profession. And don't worry... I can help you with those professions as well.",		"marksman_quest_complete":"[beep... boop... clik... tweetle... bweep] 
+Congratulations on finishing the tasks for the Marksman profession. 
+
+Continue using what you have learned to progress in this profession. Well done and happy journeys.
+
+If you'd like to try any of the other starting professions (Brawler, Scout, Medic, Artisan, or Entertainer), simply speak to a trainer for the profession you wish to try and tell them you are interested in learning that profession. And don't worry... I can help you with those professions as well.",		"brawler_quest_complete":"[beep... whir... clik... tweetle... bweep] 
+Congratulations on finishing the tasks for the Brawler profession. 
+
+Continue using what you have learned to progress in this profession. Well done and happy journeys.
+
+If you'd like to try any of the other starting professions (Marksman, Scout, Medic, Artisan, or Entertainer), simply speak to a trainer for the profession you wish to try and tell them you are interested in learning that profession. And don't worry... I can help you with those professions as well.",		"okay_button":"Okay",		"medic_quest_06":"[beep... bloot... vweet... clik] 
+A local doctor is gathering data on the effectiveness of tending wounds without the use of medicines. She intends to chart the results of these techniques and study the toll taken on Medics who use them.
+
+Tend wounds on 5 different players, and I will send her the data she desires.
+
+",		"medic_quest_05":"[blip... whir... bweep] 
+Crafting stimpacks allows you to better heal damage taken in combat, just as crafting medpacks will allow you to better heal wounds.
+
+I've placed resources for one stimpack into your inventory. Please use them to craft a stimpack.",		"credits_reward":"%DI credits have been deposited into your bank account.",		"continue_button":"Continue",		"cdef_carbine_button":"Carbine",		"cdef_rifle_button":"Rifle",		"cdef_pistol_button":"Pistol",		"wooden_staff_button":"Staff",		"survival_knife_button":"Knife",		"heavy_axe_button":"Axe",		"scout_quest_06":"[beep... blip... whir... vweet... clik] 
+I have accepted a contract on your behalf. An enterprising local merchant wishes to show that environment and climate can cause fluctuations in the quality of hides harvested from creatures in an area. He will require a small sample from each of the hides you gather, and he will then study them to put together a set of data for his research.
+
+Harvest hides from creatures until the total amount of hides you've harvested equals 90 or more. I'll take a small research sample from each hide and pass those samples on to the merchant.
+
+",		"marksman_quest_05":"[bweep... tweet... boop... zwing] 
+A nice job offer has just been downloaded to me. A local merchant wants some nice action pictures to use in advertisements for his weapons. 
+
+Find and kill 10 creatures, and I will transmit images of your combat to him to fulfill the contract.
+
+",		"brawler_quest_06":"[beep... whir... tweetle... whir... clik]
+I have downloaded a job with a more substantial payment. 
+
+A local scholar would like to study the stresses of combat on one such as yourself who is still new to the art of melee battle. He requires that you find and kill 10 creatures. I shall record your actions and transmit the recordings to him when you've completed this task.
+
+",		"submenu_medic":"Medic",		"submenu_entertainer":"Entertainer",		"submenu_artisan":"Artisan",		"submenu_scout":"Scout",		"submenu_marksman":"Marksman",		"submenu_brawler":"Brawler",		"menu_quests":"Profession Quests",		"thank_you_button":"Close",		"give_quest_button":"Quest",		"delayed_accepting_quest":"[boop...bleep..bleep... whir... clik] 
+Very well. When you are ready to begin, simply use my radial menu. When you click on me and the radial menu appears, hover over the menu option labeled "Profession Quests" and then choose the submenu for the profession about which you are ready to learn.  And remember that I am authorized to reward you for your progress as you complete these tasks.
+
+If I'm ever needed but not out by your side, you may call me from my control device in your datapad. Simply open your datapad (CTRL-D) and then select the control device with my name. It will be in the "Data" tab in your datapad. Click on my control device and use the radial menu choice to "Call" me.",		"medic_quest_04":"[beep... zzt... tweet] 
+The basis of the medical profession is healing wounds. Healing wounds requires medical supplies, but you may tend wounds without needing anything but your willpower. 
+
+Tend wounds on any one player. You must be in a medical center to do this.",		"medic_quest_03":"[buweep... zeet... razzle] 
+To better serve those who seek your medical expertise, it is best to know what ails them. 
+
+Diagnose another player to determine what wounds they have.",		"medic_quest_02":"[clik... boop... beep... bwoop] 
+A majority of the medical practice takes place in a medical center, and most major cities will have at least one medical center. You may also practice the healing arts while in a camp or in the presence of a droid that has a medical module.
+
+Your next task is to find and enter a medical center.",		"medic_quest_01":"[blip... whir... beep] 
+Before getting started, I must pass along some standard advice for one starting in the medical profession.
+
+If you wish to pursue the crafting of medical supplies, it is recommended that you consider also taking the Artisan profession so that you may survey for and sample resources.",		"artisan_quest_05":"[boop... clik... bweep... bzzt] 
+I have downloaded a service contract that you should now be able to fulfill. A guild of hunters wishes to present a demonstration on basic rifle craftsmanship. The contract asks that you craft some rifles, and I'll record your actions. The guild leaders will then edit together a holovid for their presentation.
+
+Use the Artisan knowledge you have gained to gather resources for 5 CDEF rifles and craft them. If you wish, you may craft these in practice mode so that you do not clutter your inventory with surplus rifles.
+
+",		"artisan_quest_04":"[blip... bweep... dadeep] 
+Now you have the resources required to craft a chemical survey device. Make one of them.",		"artisan_quest_03":"[zzt... bweeo... boop...razzle] 
+For your next task, survey for and sample a metal. Any type will do, but you must find 19 units of the same type of metal to complete this task in addition to the 8 units of minerals you collected previously.",		"artisan_quest_02":"[bweepo...zeek... beep] 
+Now that you have found some minerals in the area, take some resource samples. Continue until you have 8 units of a single type of mineral.",		"artisan_quest_01":"[tweet... boop... blip] 
+As an Artisan, you will need various resources to craft your goods. As someone new to the profession, your best method for finding these resources will be to survey for them. 
+
+Your first task is to survey for any type of mineral.",		"entertainer_quest_06":"[clik... beep... zwing... beep] 
+I have received a request from a local sociologist. She wishes to study the reaction of people to the latest trends in dance and music. 
+
+Ask another player to either watch you dance or listen to you play music. Do this for a total of 7 players. You may perform for all 7 players at once or each of them individually, but you must entertain all 7 of them using the same type of performance... meaning dance for them or play music, but not both.
+
+",		"entertainer_quest_05":"[bweet... whir... zeet] 
+An Entertainer can relieve Battle Fatigue for other players by performing music or dancing for them. They can only do this in a cantina or in a theater.
+
+Find a cantina or theater and go inside.",		"entertainer_quest_04":"[beep... dadeet... blip] 
+To enhance your music or dancing, you will need to add flourishes while you perform. This will not only enhance your performance, but it also increases your effectiveness with various entertainer abilities.
+
+Please play a song or dance a dance and add flourishes during your performance.",		"entertainer_quest_03_human":"[boop... zeet... zwing... clik] 
+Some entertainers choose to follow the path of becoming an Image Designer. Image design can involve many things such as hair styling, body sculpting, and even skin tinting. 
+
+You next task is to use your image design skills and change your hair to a different style.",		"entertainer_quest_02":"[bwoop... tweet... razzle] 
+Another standard form of entertainment at your disposal is the performance of music. 
+
+Please play any piece of music.",		"entertainer_quest_01":"[whir... bleep... vwoot] 
+Dancing is one of the basic forms of entertainment that you can master as an Entertainer. 
+
+Please perform any dance.",		"scout_quest_recommendation":"[bweep... whir... boop... zeet] 
+Before getting started, I must pass along some standard advice for one starting in the scouting profession. 
+
+Most Scouts also take a combat profession such as Brawler or Marksman to aid them in the dangerous wilds. Especially when wishing to harvest resources.",		"scout_quest_05":"[boop... blip... whir... zwing] 
+Scouts are also adept at erecting temporary camps that can have a variety of uses. 
+
+Use a basic camp kit to place a camp in the wild. Gather resources and craft a basic camp kit if you no longer have one.",		"scout_quest_04":"[beep... bwat... zzt... whir] 
+Using the hides and bones you harvested, craft some Lecepanine Dart traps. These can be used on creatures to aid you during combat.",		"scout_quest_03":"[clik... vwoot... freetle] 
+The resources harvested by a Scout can be used to craft various supplies the Scout can use. 
+
+Hunt enough creatures to gather at least 3 units of hides and 3 units of bone.",		"scout_quest_02":"[beep... whir... bwip... tweetle] 
+Scouts are experts at making good use of natural resources. While hunting, a Scout can harvest hides, meat, or bone from the creatures they kill. 
+
+Kill a creature and harvest resources from it. You'll find suitable targets on the outskirts of town.",		"scout_quest_01":"[bweep... whir... boop... zeet] 
+Before getting started, I must pass along some standard advice for one starting in the Scout profession. 
+
+Most Scouts also take a combat profession such as Brawler or Marksman to aid them in the dangerous wilds. Especially when wishing to harvest resources.",		"marksman_quest_weapon_choice":"[beep... whir... tweetle... clik] 
+As one who has chosen the Marksman approach to combat, you may wish to choose a style of ranged battle that suits you. There are close-range pistols, medium-range carbines, and long-range rifles. 
+
+The basic weapons for each style are a CDEF pistol (a close-range weapon), a CDEF carbine (a medium-range weapon), and a CDEF rifle (a long-range weapon). Which weapon would you like to use?",		"marksman_quest_04":"[bweep... bwat... tweetle]
+ You have some special techniques that can aid you when in combat. The Overcharge Shot allows you to increase the amount of damage you can do, but also damages your weapon more than during normal use. 
+
+Use Overcharge Shot while fighting and killing a creature.",		"marksman_quest_03":"[zwing... vwoot... razzle... beep]
+If an enemy gets too near to you during combat, you may use Point Blank Single to fight them at close range. 
+
+Use Point Blank Single while fighting and killing a creature.",		"marksman_quest_02":"[boop... blip... zeet] 
+The primary aim of a Marksman is to defeat an opponent from a distance. It's time to begin learning to do that. 
+
+Your first task is to fight and kill a creature. You'll find some on the outskirts of this city. Kill any one creature you find and this task will be complete.
+
+Be sure to equip your weapon in order to use it in combat. To equip a weapon, simply double-click it in your inventory. You can also use the radial menu on the weapon and choose "Equip".",		"marksman_quest_01":"[beep... whir... tweetle... clik] 
+As one who has chosen the Marksman approach to combat, you may wish to choose a style of ranged battle that suits you. There are close-range pistols, medium-range carbines, and long-range rifles.  
+
+The basic weapons for each style are a CDEF pistol (a close-range weapon), a CDEF carbine (a medium-range weapon), and a CDEF rifle (a long-range weapon). Which weapon would you like to use?",		"brawler_quest_weapon_choice":"[beep... blip... zeek... boweep... clik] 
+As one who has chosen the Brawler approach to combat, you may wish to choose a style of melee fighting that suits you. The four primary approaches to melee combat are unarmed, the use of one-handed weapons, the use of two-handed weapons, and the use of polearm weapons. 
+
+Unarmed combat, of course, doesn't involve using a weapon. Basic weapons for the others are a survival knife (a one-handed weapon), a heavy axe (a two-handed weapon), and a wood staff (a polearm weapon). Which weapon would you like to use?",		"brawler_quest_05":"[vwoot... beep... blip... boop]
+Using Center of Being can provide you a defensive bonus by helping you avoid being hit by your opponent. 
+
+Use Center of Being while fighting and killing a creature.",		"brawler_quest_04":"[bweep... tweet... bweeo... zzt] 
+Using a Lunge can extend your range a small amount, but more importantly it can change the posture of your target. This can render them helpless and often unable to attack until they recover. 
+
+Use Lunge while fighting and killing a creature.",		"brawler_quest_03":"[dadeep... blip... boop... boop] 
+You have special abilities that can aid you while fighting. The Berserk ability increases the damage you do in combat though you become a bit easier for your opponent to hit. 
+
+Use Berserk while fighting and killing a creature.",		"brawler_quest_02":"[zwing... bleep... vwoot... whir] 
+The primary aim of a Brawler is victory in combat, and it's time to begin working toward that. 
+
+Your first task is to go to kill a creature. You'll find some on the outskirts of this city. Kill any one creature you find to complete this task.
+
+Be sure to equip your weapon in order to use it in combat... unless, of course, you wish to fight unarmed. To equip a weapon, simply double-click it in your inventory. You can also use the radial menu on the weapon and choose "Equip".",		"brawler_quest_01":"[beep... blip... zeek... boweep... clik] 
+As one who has chosen the Brawler approach to combat, you may wish to choose a style of melee fighting that suits you. The four primary approaches to melee combat are unarmed, the use of one-handed weapons, the use of two-handed weapons, and the use of polearm weapons. 
+
+Unarmed combat, of course, doesn't involve using a weapon. Basic weapons for the others are a survival knife (a one-handed weapon), a heavy axe (a two-handed weapon), and a wood staff (a polearm weapon). Which weapon would you like to use?",		"general_greeting_prose_01":"[beep... clik] Greetings %TO.",		"entertainer_added":"[beep... beep... bop] 
+You have joined the Entertainer profession. I have downloaded some Entertainment tasks so that you may learn more about being an Entertainer.",		"artisan_added":"[beep... boop... whir] 
+You have joined the Artisan profession. I have downloaded some Artisan tasks so that you may learn more about being an Artisan.",		"scout_added":"[bwat... zzt... bweep... clik] 
+You have joined the Scout profession. I have downloaded some Scout tasks so that you may learn more about being a Scout.",		"medic_added":"[boop... clik... zweet] 
+You have joined the Medic profession. I have downloaded some Medic tasks so that you may learn more about being a Medic.",		"marksman_added":"[boop... boop... beep] 
+You have joined the Marksman profession. I have downloaded some Marksman tasks so that you may learn more about being a Marksman.",		"brawler_added":"[beep... freetle... boop... whir] 
+You have joined the Brawler profession. I have downloaded some Brawler tasks so that you may learn more about being a Brawler.",		"not_now_button":"Not Now",		"yes_please_button":"Yes",		"droid_greeting_begin_01":"[beep... clik... zwing... bweep... beep] 
+Greetings, ",		"no_help_needed_button":"No",		"help_please_button":"Help"
+}}

@@ -1,7 +1,5 @@
-[
-'5':'playerready',
-'4':'terraingenerated',
-'3':'worldloaded',
-'2':'filecachingcomplete',
-'1':'serverobjectsreceived',
-]
+{
+	"stfFile":"ui_load",
+	"entries": {
+		"playerready":"Player Ready",		"terraingenerated":"Terrain Generated",		"worldloaded":"World Loaded",		"filecachingcomplete":"File Caching Complete",		"serverobjectsreceived":"Server Objects Received"
+}}

@@ -1,33 +1,5 @@
-[
-'31':'keypad_lock',
-'30':'keypad_open',
-'29':'destruct_engaged',
-'28':'bunker_exploding',
-'27':'explosion_warning',
-'26':'computer_mainframe_no',
-'25':'computer_mainframe_yes',
-'24':'computer_mainframe_info',
-'23':'computer_mainframe_text',
-'22':'computer_mainframe_title',
-'21':'generator_use_off',
-'20':'mainframe_use',
-'19':'security_use',
-'18':'remote_use',
-'17':'generator_use',
-'16':'computer_mainframe_denied',
-'15':'computer_mainframe_failure',
-'14':'computer_mainframe_failure_fly',
-'13':'computer_mainframe_already',
-'12':'computer_mainframe_success',
-'11':'computer_mainframe_success_fly',
-'10':'computer_mainframe_no_power',
-'9':'computer_desktop_deactivate',
-'8':'security_override_reset',
-'7':'security_access_denied',
-'6':'security_override',
-'5':'security_no_power',
-'4':'computer_desktop_activate',
-'3':'computer_desktop_denied',
-'2':'generator_deactivate',
-'1':'generator_activate',
-]
+{
+	"stfFile":"dungeon/diant_bunker",
+	"entries": {
+		"keypad_lock":"Access Denied",		"keypad_open":"You now have clearance to enter the room.",		"destruct_engaged":"Self destruct sequence activated. Have a nice day!",		"bunker_exploding":"The bunker is exploding around you! You need to evacuate immediately!",		"explosion_warning":"The bunker is exploding! You need to exit immediately or you will be killed!",		"computer_mainframe_no":"You leave the mainframe alone.",		"computer_mainframe_yes":"You attempt to unlock the facility doors...",		"computer_mainframe_info":"Someone with an advanced education or technical knowledge should be able to figure this out.",		"computer_mainframe_text":"The bunker's mainframe computer stands before you. You're not certain exactly how it works.  Would you like to make an educated guess and attempt to unlock all the doors in the facility?",		"computer_mainframe_title":"Mainframe: Facility Settings",		"generator_use_off":"Turn off generator",		"mainframe_use":"Access Mainframe",		"security_use":"Security Override",		"remote_use":"Access Remote Host",		"generator_use":"Operate Generator",		"computer_mainframe_denied":"Error: You must engage security override before accessing facility system settings.",		"computer_mainframe_failure":"You make an educated guess but fail to unlock the doors. Your tampering alerted the attention of several guards.",		"computer_mainframe_failure_fly":"DANGER -- FAILURE -- DANGER",		"computer_mainframe_already":"All the doors are already open in this facility.",		"computer_mainframe_success":"Making an educated guess, you manage to find the command to open all doors in the bunker. Congratulations!",		"computer_mainframe_success_fly":"Success -- All Doors Opened!!!",		"computer_mainframe_no_power":"There is no power being supplied to the mainframe computer.",		"computer_desktop_deactivate":"You turn off the desktop computer: Remote Host -- Disconnecting...",		"security_override_reset":"Security Override Deactivated.",		"security_access_denied":"Error: Remote host must be activated before security override can be engaged.",		"security_override":"Warning: Security Override engaged, please use caution.",		"security_no_power":"There is no power being supplied to this terminal.",		"computer_desktop_activate":"You activate the desktop computer: Remote Host -- Transmitting Security Codes...",		"computer_desktop_denied":"A small but powerful force field prevents you from interacting with the desktop computer.",		"generator_deactivate":"You turn the generator off. The bunker is now on emergency power only.",		"generator_activate":"You switch the generator on. The bunker returns to full power."
+}}

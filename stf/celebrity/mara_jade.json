@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/mara_jade",
+	"entries": {
+		"npc_11":"I don't generally kill dumb animals, but you're making it difficult to keep that rule.  No more talking.",		"player_10":"Safer?",		"npc_10":"Not unless you keep it up.  Get out of my sight and live a while longer.",		"player_9":"Are you going to kill me?",		"npc_5":"I recommend finding something else to do then.  It would be safer for you.",		"player_6":"No, not really.",		"npc_9":"I pity people like you.  Or I would if I cared.",		"player_8":"You're awfully touchy.",		"npc_8":"I'll just be on my way then.",		"player_7":"Sorry.",		"npc_4":"Unless you weren't planning to live long I suggest you knock off the questions.",		"player_5":"Am I bothering you?",		"npc_3":"I'm just fine on my own.  Don't you have anything better to do than bother me?",		"npc_7":"Sorry, I don't talk to fools.",		"player_4":"Are you with the alliance?",		"npc_6":"It's not your concern.",		"player_3":"But who are you really?",		"npc_2":"My name is Mara Jade.  That is all you need to know.",		"player_2":"Do you need any help?",		"player_1":"Who are you?",		"npc_1":"I've got things to do, so if you want to talk make it quick."
+}}

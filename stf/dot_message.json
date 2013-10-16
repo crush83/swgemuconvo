@@ -1,19 +1,5 @@
-[
-'17':'stop_fire',
-'16':'decrease_fire',
-'15':'increase_fire',
-'14':'start_fire',
-'13':'dot_resisted',
-'12':'decrease_diseased',
-'11':'decrease_poisoned',
-'10':'decrease_bleeding',
-'9':'stop_diseased',
-'8':'stop_poisoned',
-'7':'stop_bleeding',
-'6':'increase_diseased',
-'5':'increase_poisoned',
-'4':'increase_bleeding',
-'3':'start_diseased',
-'2':'start_poisoned',
-'1':'start_bleeding',
-]
+{
+	"stfFile":"dot_message",
+	"entries": {
+		"stop_fire":"The flames around you subside.",		"decrease_fire":"The flames around you weaken.",		"increase_fire":"The fire on you intensifies!",		"start_fire":"You catch on fire!",		"dot_resisted":"%TT resists the effects!",		"decrease_diseased":"Your disease severity has decreased.",		"decrease_poisoned":"Your poison severity has decreased.",		"decrease_bleeding":"Your bleeding has decreased.",		"stop_diseased":"Your disease has subsided.",		"stop_poisoned":"Your poison has subsided.",		"stop_bleeding":"Your bleeding has stopped.",		"increase_diseased":"You have sustained more disease!",		"increase_poisoned":"You have sustained more poison!",		"increase_bleeding":"You have sustained more bleeding!",		"start_diseased":"You have been diseased!",		"start_poisoned":"You have been poisoned!",		"start_bleeding":"You start to bleed!"
+}}

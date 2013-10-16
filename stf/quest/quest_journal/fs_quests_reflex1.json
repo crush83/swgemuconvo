@@ -1,14 +1,5 @@
-[
-'12':'d_05',
-'11':'s_05',
-'10':'d_00',
-'9':'s_00',
-'8':'d_04',
-'7':'s_04',
-'6':'d_03',
-'5':'s_03',
-'4':'d_02',
-'3':'s_02',
-'2':'d_01',
-'1':'s_01',
-]
+{
+	"stfFile":"quest/quest_journal/fs_quests_reflex1",
+	"entries": {
+		"d_05":"QUEST COMPLETE: You have successfully rescued the villagers that were taken prisoner from the village of Aurilia. As agreed, Whip has opened your mind to the possibilities of using the Force to enhance your survival skills.",		"s_05":"QUEST COMPLETE",		"d_00":"Several villagers are missing from Aurilia. They must be found!",		"s_00":"Rescue missing villagers.",		"d_04":"Both you and the rescued villager must return to the village of Aurilia safely.",		"s_04":"Return to the village of Aurilia.",		"d_03":"The rescued villager must make it back to the village alive.",		"s_03":"Keep the villager alive.",		"d_02":"A villager has been captured by the Sith Shadows! Speak with the prisoner and he or she will likely follow you back to the village. Be careful, if the enemy spots you, they will likely attack.",		"s_02":"Speak with the imprisoned villager.",		"d_01":"Citizens of the village of Aurilia are feared to have been captured by the Sith Shadows. Village trackers have found a trail that should probably lead to the vicinity of a Shadows encampment. Find the encampment and any imprisoned villagers.",		"s_01":"Find a Sith Shadows encampment."
+}}

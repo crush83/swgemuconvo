@@ -1,7 +1,5 @@
-[
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/fightmaster_jorak",
+	"entries": {
+		"npc_3":"Then meet me at Dawn in this very spot.",		"npc_2":"Then begone!",		"player_2":"Sure.",		"player_1":"Um...no.",		"npc_1":"Are you prepared to fight?"
+}}

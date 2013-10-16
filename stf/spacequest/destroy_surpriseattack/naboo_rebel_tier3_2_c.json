@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/naboo_rebel_tier3_2_c",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The clever pirates have ambushed you. You need to prevail and defeat them!",		"title":"Dantooine system: Blacklight pirates attack!",		"split_quest_alert_fail":"",		"split_quest_alert":"Brother Ezkiel: < Now, gather information from one of the pirate ships. The SpyNet have asked us to try and find out where their leader is. >",		"complete":"Brother Ezkiel: < Great work my friend, you beat the ambush. >",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

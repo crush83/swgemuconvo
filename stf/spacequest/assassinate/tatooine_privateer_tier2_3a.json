@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_privateer_tier2_3a",
+	"entries": {
+		"title_d":"Remove the competition for Yavin shipping lanes",		"title":"Yavin System: Take out the Black Sun Ace",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast3 < %TO >",		"quest_target_t":"Black Sun Ace",		"quest_target_d":"One of the local black sun ranking operatives",		"quest_location_t":"Yavin System",		"quest_location_d":"Somewhere in the Yavin System",		"quest_escort_t":"Black Sun Fighters",		"quest_escort_d":"Unimportant to the mission, they will drift away once their leader is destroyed.",		"failed_escape":"He escaped, this is not good.",		"escort_wiped_out":"\#pcontrast3 Tactical Comptuer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Tactical Computer: < \#pcontrast1 The primary target has been destroyed, finish off the escort. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"Uploading Target Information.",		"assassinate_success":"The operation is a success, return to your contact.",		"arrival_phase_2":"\#pcontrast3 Smuggler Alliance: < \#pcontrast1 The Ace has been marked, proceed with the elimination. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Smuggler Alliance: < \#pcontrast1 Locating the target, stand by for waypoint upload. \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

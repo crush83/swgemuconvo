@@ -1,19 +1,14 @@
-[
-'36':'help_button_launch',
-'35':'help_button_manage',
-'34':'help_stats',
-'33':'na',
-'32':'condition_damaged',
-'31':'condition_engine_demolished',
-'30':'condition_engine_disabled',
-'29':'condition_engine_uninstalled',
-'28':'condition_reactor_demolished',
-'27':'condition_reactor_disabled',
-'26':'condition_reactor_uninstalled',
-'25':'travel',
-'24':'launch',
-'23':'manage',
-'22':'cpt',
-'38':'group',
-'37':'help_button_travel',
-]
+{
+	"stfFile":"ui_shipview",
+	"entries": {
+		"help_button_launch":"Launch into Space
+
+Use this button to launch into space using this starship.",		"help_button_manage":"Manage Ship Components
+
+Use this button to manage ship components for this starship.",		"help_stats":"Starship Information
+
+This shows information about the general condition of this starship.
+",		"na":"N/A",		"condition_damaged":"Launch with a damaged ship?",		"condition_engine_demolished":"The engine in this ship is demolished, it cannot launch.",		"condition_engine_disabled":"The engine in this ship is disabled, it cannot launch.",		"condition_engine_uninstalled":"There is no engine in this ship, it cannot launch.",		"condition_reactor_demolished":"The reactor in this ship is demolished, it cannot launch.",		"condition_reactor_disabled":"The reactor in this ship is disabled, it cannot launch.",		"condition_reactor_uninstalled":"There is no reactor in this ship, it cannot launch.",		"travel":"Travel",		"launch":"Launch Ship",		"manage":"Manage",		"cpt":"Ship Details",		"group":"Group",		"help_button_travel":"Travel to another Location
+
+Use this button to use your starship to travel to another ground location."
+}}

@@ -1,60 +1,64 @@
-[
-'58':'pfilbee_jhorn',
-'57':'willhalm_skrim',
-'56':'nitra_vendallan',
-'55':'at_st',
-'54':'at_at',
-'53':'yarna_dal_gargan',
-'52':'wittin',
-'51':'wedge_antilles',
-'50':'tessek',
-'49':'talon_karrde',
-'48':'sy_snootles',
-'47':'senni_tonnika',
-'46':'salacious_crumb',
-'45':'ree_yees',
-'44':'r2d2',
-'43':'prefect_talmont',
-'42':'oola',
-'41':'nym',
-'40':'nien_nunb',
-'39':'muftak',
-'38':'mon_mothma',
-'37':'momaw_nadon',
-'36':'max_rebo',
-'35':'mara_jade',
-'34':'malakili',
-'33':'lyn_me',
-'32':'luke_skywalker',
-'31':'leia_organa',
-'30':'lak_sivrak',
-'29':'lady_valarian',
-'28':'labria',
-'27':'klaatu',
-'26':'kabe',
-'25':'jabba_the_hutt',
-'24':'ig_88',
-'23':'hobbie',
-'22':'han_solo',
-'21':'greeata',
-'20':'general_jan_dodonna',
-'19':'garindan',
-'18':'ephant_mon',
-'17':'emperor_royal_guard',
-'16':'emperor_palpatine',
-'15':'droopy_mccool',
-'14':'dengar',
-'13':'darth_vader',
-'12':'chewbacca',
-'11':'chalmun',
-'10':'c_3po',
-'9':'brea_tonnika',
-'8':'bossk',
-'7':'boss_nass',
-'6':'boba_fett',
-'5':'bib_fortuna',
-'4':'base_npc_theme_park',
-'3':'barada',
-'2':'admiral_ackbar',
-'1':'lom',
-]
+{
+	"stfFile":"theme_park_detail",
+	"entries": {
+		"pfilbee_jhorn":"pfilbee jhorn",		"willhalm_skrim":"wilhalm skrim",		"nitra_vendallan":"nitra vendallan",		"at_st":"AT-ST Walker",		"at_at":"AT-AT Walker",		"yarna_dal_gargan":"yarna dal gargan
+",		"wittin":"wittin
+",		"wedge_antilles":"wedge antilles
+",		"tessek":"tessek
+",		"talon_karrde":"talon karrde
+",		"sy_snootles":"sy snootles
+",		"senni_tonnika":"senni tonnika
+",		"salacious_crumb":"salacious crumb
+",		"ree_yees":"ree yees
+",		"r2d2":"r2d2
+",		"prefect_talmont":"prefect talmont
+",		"oola":"oola
+",		"nym":"nym
+",		"nien_nunb":"nien nunb
+",		"muftak":"muftak
+",		"mon_mothma":"mon mothma
+",		"momaw_nadon":"momaw nadon
+",		"max_rebo":"max rebo
+",		"mara_jade":"mara jade
+",		"malakili":"malakili
+",		"lyn_me":"lyn me
+",		"luke_skywalker":"
+\#pcontrast1 Title:  \#pcontrast3 Rebel Alliance Pilot 
+\#pcontrast1 Guild:  \#pcontrast3 Rogue Squadron 
+\#pcontrast1 Badges: \#pcontrast3  ...has destroyed the Death Star.
+
+
+Luke helped free Princess Leia Organa from the clutches of the Empire, and delivered her and data stolen by Rebel spies to the Alliance base on Yavin 4.  There, Alliance tacticians formulated an attack plan capable of destroying the Imperial superweapon, the Death Star.  In the battle of Yavin, Luke piloted an X-wing starfighter in the final attack against the Death Star, and fired the proton torpedo volley that destroyed the Imperial weapon.
+",		"leia_organa":"leia organa
+",		"lak_sivrak":"lak sivrak
+",		"lady_valarian":"lady valarian
+",		"labria":"labria
+",		"klaatu":"klaatu
+",		"kabe":"kabe
+",		"jabba_the_hutt":"jabba the hutt
+",		"ig_88":"ig 88
+",		"hobbie":"hobbie
+",		"han_solo":"han solo
+",		"greeata":"greeata
+",		"general_jan_dodonna":"general jan dodonna
+",		"garindan":"garindan
+",		"ephant_mon":"ephant mon
+",		"emperor_royal_guard":"emperor royal guard
+",		"emperor_palpatine":"emperor palpatine
+",		"droopy_mccool":"droopy mccool
+",		"dengar":"dengar
+",		"darth_vader":"darth vader
+",		"chewbacca":"chewbacca
+",		"chalmun":"chalmun
+",		"c_3po":"c 3po
+",		"brea_tonnika":"brea tonnika
+",		"bossk":"bossk
+",		"boss_nass":"boss nass
+",		"boba_fett":"boba fett
+",		"bib_fortuna":"bib fortuna
+",		"base_npc_theme_park":"base npc theme park
+",		"barada":"barada
+",		"admiral_ackbar":"admiral ackbar
+",		"lom":"4lom
+"
+}}

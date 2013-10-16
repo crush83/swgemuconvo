@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/stn_yavin4_company_all_massassi_tier2_11",
+	"entries": {
+		"title_d":"Now that the secret of the Massassi is out, the company wants to punish them for their deception. They have managed to discover the location of the vessel organizing the attacks and they have hired you to deal with the vessel.",		"title":"Yavin System: Destroy the "Massassi" Leader",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#FF0000 Yavin Mining Company:\#FF0000 < %TO >",		"quest_target_t":"Destroy the Fake Massassi Command Ship",		"quest_target_d":"Destroy the command vessel and send a clear message to the Yavin 4 Mining Company's competitor.",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The fake Massassi ship is located inside of the Yavin system.",		"quest_escort_t":"Destroy the Vessel's Escort",		"quest_escort_d":"The job should be done cleanly. Any who are with the command vessel should also be destroyed.",		"failed_escape":"You let them get away. Hopefully we will get another shot at him. Return to the space station.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 < Escort fighters eliminated. >\#pcontrast3 \#pcontrast1",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 < %DI escort fighters remaining. >\#pcontrast3 \#pcontrast1",		"destroy_escort":"Take out the rest of that ships escort. We want to show the Corellia Deep Mining Company that we mean business.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Nice work. The Corellia Deep Mining Company will think twice before messing with us again.",		"arrival_phase_2":"Location to the "Massassi" command vessel has been sent to your flight computer.",		"arrival_phase_1":"Stand by for lock on the "Massassi" command vessel. Once this vessel is locked, intercept and destroy it."
+}}

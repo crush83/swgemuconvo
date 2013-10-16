@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_privateer_tier4_1c",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Survive the Black Sun onslaught",		"title":"Dantooine System: Survive the Black Sun Assault",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"\#pcontrast3 CorSec Command: < \#pcontrast1 They must not have been pleased with your destruction of that transport. I do not like the way hostilities have increased today, return to base. \#pcontrast3 >",		"assigned_delayed":""
+}}

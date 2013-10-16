@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_rendezvous2_t',
-'18':'quest_rendezvous2_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_dock2_t',
-'14':'quest_dock2_d',
-'13':'hello_d',
-'12':'found_loc_d',
-'11':'failed_destroyed',
-'10':'docking_started_delivery',
-'9':'docking_complete_delivery',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_delivery',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/tatooine_imperial_tier3_2_c",
+	"entries": {
+		"title_d":"Remain in the Endor system and drop off the Rebel data to a command shuttle. They are sending the shuttle to pick up the plans from you.",		"title":"Endor System: Dropoff the Rebel Data",		"split_quest_alert_fail":"",		"split_quest_alert":"Initiate patrol route. Keep a watch out for suspicious and especially rebellious activity. Destroy any command vessels located in the area.",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_rendezvous2_t":"Meet the Shuttle",		"quest_rendezvous2_d":"Travel to the supplied Nav waypoint and wait for the shuttle to arrive.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"The shuttle will meet you in the Endor system.",		"quest_dock2_t":"Transfer the Data",		"quest_dock2_d":"Dock with the shuttle and transfer the Rebel data to it.",		"hello_d":"I see you, pilot. We will begin the uplink procedure as soon as we finish our jump.",		"found_loc_d":"Please proceed to the following location and stand by for arrival of HQ command shuttle.",		"failed_destroyed":"You allowed your transfer shuttle to be destroyed? That was an expensive ship. You are going to have to answer to your commander about this failure.",		"docking_started_delivery":"Beginning uplink procedure. Please stand by.",		"docking_complete_delivery":"Data transfer completed. Be safe out there, pilot.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters eliminated.>",		"attack_notify":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters detected on an intercept course.>",		"assigned_delayed":"",		"arrived_at_delivery":"Wait for the arrival of the command shuttle to retrieve the data.",		"Quest Log Data":"Text"
+}}

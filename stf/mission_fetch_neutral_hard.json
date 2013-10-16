@@ -1,7 +1,5 @@
-[
-'5':'neutral_hard_fetch_2',
-'4':'neutral_hard_fetch_3',
-'3':'neutral_hard_fetch_4',
-'2':'neutral_hard_fetch_1',
-'1':'neutral_hard_fetch_5',
-]
+{
+	"stfFile":"mission_fetch_neutral_hard",
+	"entries": {
+		"neutral_hard_fetch_2":"Uncle Owne needs Corn for the farm.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"neutral_hard_fetch_3":"Uncle Owne needs Corn for the farm.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"neutral_hard_fetch_4":"Uncle Owne needs Corn for the farm.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"neutral_hard_fetch_1":"Uncle Owne needs Corn for the farm.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"neutral_hard_fetch_5":"Uncle Owne needs Corn for the farm.  STUB MISSION DESCRIPTION, REMOVE LATER."
+}}

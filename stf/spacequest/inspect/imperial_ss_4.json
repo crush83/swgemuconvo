@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/imperial_ss_4",
+	"entries": {
+		"title_d":"Travel to the Yavin system and inspect the Rebel agent. The first step in discovering what the Rebels have located is to find an operations report on one of their agents. Intelligence has located an area that agents meet with flight commanders to exchange information. You must get to this location and inspect an agent for a completed activity report. If an agent is not at the location when you arrive you might need to destroy a few of the commanders to get some more Rebel pilots to come to the rescue.",		"title":"Yavin System: Inspect the Rebel Agent",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Travel to the Yavin System",		"quest_location_d":"The meeting location is inside the Yavin system. A navigation waypoint to this meeting area will be supplied to you when you reach the Yavin system.",		"quest_inspect_t":"Inspect a Rebel Agent",		"quest_inspect_d":"Disable and inspect a Rebel Agent for an activity log. It is very possible that not every agent will have a completed activity log. You will have to keep inspecting Rebel agents until you locate one.",		"quest_dock_t":"Transfer the Yavin Activity Logs",		"quest_dock_d":"Once you have found the activity log, transfer it to your vessel by docking with the disabled agent.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

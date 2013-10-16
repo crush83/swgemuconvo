@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'npc_10',
-'19':'npc_9',
-'18':'npc_8',
-'17':'npc_7',
-'16':'npc_6',
-'15':'npc_5',
-'14':'npc_4',
-'13':'npc_3',
-'12':'player_10',
-'11':'player_9',
-'10':'player_8',
-'9':'player_7',
-'8':'player_6',
-'7':'player_5',
-'6':'player_4',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/dera_darklighter",
+	"entries": {
+		"npc_11":"Don't need many.",		"npc_10":"Hope you can do that on your own.",		"npc_9":"Don't worry about what I think.",		"npc_8":"Good, I hope you can find your way out of here.",		"npc_7":"Like I care.",		"npc_6":"Sorry.  I'll try to be more pleasant in the future.",		"npc_5":"I guess so.",		"npc_4":"Well as slick as you are I'm surprised you haven't found ALL the rebels on Tatooine.",		"npc_3":"I don't know where you would have heard such a rumor.",		"player_10":"Don't have many friends do you?",		"player_9":"Guess I'll pack up and go then.",		"player_8":"Don't think I've fallen for your tricks...",		"player_7":"I guess I'll be on my way.",		"player_6":"Sorry, I have you confused with someone else.",		"player_5":"It's ok, I'm not with the Empire...",		"player_4":"How rude!",		"player_3":"Well...nice talking to you.",		"npc_2":"Yes, I know.  I am actually PART of the family.  It's not just Biggs you know!",		"player_2":"Aren't you part of the rebellion?",		"player_1":"I've heard of your family.  They're famous.",		"npc_1":"Hello.  My name is Dera Darklighter.  Is there something I can do for you?"
+}}

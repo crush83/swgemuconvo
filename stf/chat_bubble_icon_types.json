@@ -1,22 +1,57 @@
-[
-'20':'sad',
-'19':'evil2',
-'18':'evil',
-'17':'poetry',
-'16':'sing3',
-'15':'sing2',
-'14':'social',
-'13':'threaten',
-'12':'double_ring',
-'11':'sarcastic',
-'10':'stutter',
-'9':'droid',
-'8':'shout',
-'7':'whisper',
-'6':'chatter',
-'5':'icy',
-'4':'scream',
-'3':'moan',
-'2':'thought',
-'1':'exclaim',
-]
+{
+	"stfFile":"chat_bubble_icon_types",
+	"entries": {
+		"sad":"",		"evil2":"",		"evil":"",		"poetry":"recite",		"sing3":"rap",		"sing2":"sing",		"social":"social",		"threaten":"threaten",		"double_ring":"demand
+decree
+proclaim
+state
+preach
+command
+prophesize
+lecture",		"sarcastic":"jest
+parrot
+riddle
+boast",		"stutter":"stutter
+drawl
+lisp
+slur
+bleat",		"droid":"jabber
+tattle",		"shout":"shout
+yell
+bellow
+vent
+announce",		"whisper":"whisper
+mouth
+confide
+confess",		"chatter":"babble
+chatter
+drone
+prattle
+ramble
+drivel
+gab
+gossip
+blab
+jaw
+chat
+yack
+",		"icy":"retort
+huff",		"scream":"howl
+scream
+wail
+",		"moan":"mumble
+complain
+moan",		"thought":"emote
+muse
+theorize
+conclude
+surmise
+hypothesize
+suppose
+think",		"exclaim":"exclaim
+interject
+blurt
+interrupt
+yelp
+shrill"
+}}

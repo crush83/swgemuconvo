@@ -1,7 +1,7 @@
-[
-'5':'deliver_imp_easy_2',
-'4':'deliver_imp_easy_3',
-'3':'deliver_imp_easy_4',
-'2':'deliver_imp_easy_1',
-'1':'deliver_imp_easy_5',
-]
+{
+	"stfFile":"mission_deliver_imp_easy",
+	"entries": {
+		"deliver_imp_easy_2":"There is an Imperial in need of simple assistance. Meet with that individual at the coordinates listed and receive further instructions.
+",		"deliver_imp_easy_3":"Directive from Imperial Security Bureau, you are to report to the coordinates listed and pick up an important package for transportation. Do not inquire as to the nature or reason of this delivery. ",		"deliver_imp_easy_4":"Imperial Stormtroopers recently escorted a large quantity of supplies from one area of this world to another. Unfortunately, during an outbreak of violence created by rebel inciters, one of the items got left behind. Report to the supplier and deliver this last item so we can finish the paperwork.",		"deliver_imp_easy_1":"One of our loyal citizens on this planet voiced concerns about recent rebel activity interfering in his trade route. We wish to instill local business owners with confidence in the Empire's ability to deal with these criminals. You are to ensure the safe delivery of that cargo today.
+",		"deliver_imp_easy_5":"An rise in criminal activity on this planet has made it necessary for us to hand deliver certain packages that we would have normally left to local couriers. Report to the listed contact to receive your specific delivery orders."
+}}

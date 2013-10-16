@@ -1,9 +1,5 @@
-[
-'7':'task01_journal_entry_title',
-'6':'task01_journal_entry_description',
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/test_encounter",
+	"entries": {
+		"task01_journal_entry_title":"Kill them!",		"task01_journal_entry_description":"Kill the womprats you found.",		"task00_journal_entry_title":"Find the womprat lair",		"task00_journal_entry_description":"Go to (190, 190, 190) and kill all the womprats there.",		"journal_entry_title":"Encounter test",		"journal_entry_description":"Encounter test",		"category":"Testing"
+}}

@@ -1,20 +1,5 @@
-[
-'18':'jandodonna',
-'17':'imperialoutpost',
-'16':'luke',
-'15':'tankmite',
-'14':'palace_woolamander',
-'13':'blueleaf',
-'12':'rebel_base',
-'11':'whisper_bird',
-'10':'skreeg',
-'9':'choku',
-'8':'stintaril',
-'7':'spined_puc',
-'6':'mawgax',
-'5':'mamien',
-'4':'gackle_bat',
-'3':'crystal_snake',
-'2':'angler',
-'1':'kliknik',
-]
+{
+	"stfFile":"loading/yavin4_n",
+	"entries": {
+		"jandodonna":"General Dodonna",		"imperialoutpost":"Imperial Outpost on Yavin",		"luke":"Luke Skywalker on Yavin",		"tankmite":"Tanc Mites",		"palace_woolamander":"Palace of the Woolmander",		"blueleaf":"Blueleaf Temple",		"rebel_base":"Rebel Base",		"whisper_bird":"Whisper Bird",		"skreeg":"Skreeg",		"choku":"Choku",		"stintaril":"Stintaril",		"spined_puc":"Spined Puc",		"mawgax":"Mawgax",		"mamien":"Mamien",		"gackle_bat":"Gackle Bat",		"crystal_snake":"Crystal Snake",		"angler":"Angler",		"kliknik":"Klinknik"
+}}

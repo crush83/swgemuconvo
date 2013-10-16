@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_inspect_t',
-'7':'quest_inspect_d',
-'6':'quest_dock_t',
-'5':'quest_dock_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/inspect/naboo_privateer_tier3_3a",
+	"entries": {
+		"title_d":"Track down an errant Naboo Diplomatic Corps craft and uncover what their cargo is.",		"title":"Naboo System: Discover the Naboo Diplomatic Corps Cargo",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 We are decoding the information you took from that NDC craft now.  Travel to Lok Space, we need you to meet up with one of our fighters for a quick delivery. \#pcontrast3 >",		"quest_location_t":"Naboo System",		"quest_location_d":"A location in the Naboo System",		"quest_inspect_t":"Inspect Target",		"quest_inspect_d":"While you have the objective craft targeted, use /inspect command to determine their cargo.",		"quest_dock_t":"Docking",		"quest_dock_d":"If the craft you have inspected containes the cargo you need, use the default '[' or ']' keys to cycle through their components to the engine slot.  After disabling the craft, pull up close and use the /dock command to retreive the cargo.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

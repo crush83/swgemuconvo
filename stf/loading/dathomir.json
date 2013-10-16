@@ -1,7 +1,9 @@
-[
-'5':'trade_outpost',
-'4':'singing_mountain_clan',
-'3':'imperial_prison',
-'2':'dathomir',
-'1':'rancor',
-]
+{
+	"stfFile":"loading/dathomir",
+	"entries": {
+		"trade_outpost":"A few, tiny outposts have successfully established residence on Dathomir.  One, the trade outpost, is the common location for wary travelers to this dangerous planet.  Trade in Dathomir goods is usually based on a few rare resources that are unique to Dathomir, as well as infant creatures that can potentially be tamed.",		"singing_mountain_clan":"Enemies of the Night Sisters, the Singing Mountain clan are a group of force-sensitive people. People who have seen the home of the Singing Mountain Clan return with strange reports of unusual sights.",		"imperial_prison":"Dathomir is home to an Imperial Prison, where the Empire will send criminals meant to be forgotten (and they frequently are).",		"dathomir":"Home to outcasts from the Republic, the mighty rancor and the force-sensitive Nightsisters, Dathomir is a dangerous planet where few survive for any period of time.",		"rancor":"Part crustacean, part arachnid, the Rancor is a beast native to Dathomir.
+
+It is covered in knobby, natural armor and bony headplates.  Its claws, teeth, and massive size are what make the Rancor legendary.
+
+Some people have been known to keep Rancors as pets, whereas the Witches of Dathomir respect them for what they truly are."
+}}

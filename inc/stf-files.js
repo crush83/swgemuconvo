@@ -2376,5 +2376,5 @@ window.stfFiles = [
 	'spacequest/escort/yavin_rebel_16.stf',
 	'loot_tals_n.stf',
 	'spacequest/destroy_surpriseattack/naboo_privateer_tier3_4d.stf',
-	'spacequest/assassinate/corellia_privateer_tier4_1b.stf'
+	'spacequest/assassinate/corellia_privateer_tier4_1b.stf',
 ];

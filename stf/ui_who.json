@@ -1,35 +1,8 @@
-[
-'34':'displaying_faction_rank_false',
-'33':'displaying_faction_rank_true',
-'32':'customer_service_representative',
-'31':'developer',
-'30':'friend_list_group_other',
-'29':'friend_hidden',
-'28':'link_dead',
-'27':'away_from_keyboard',
-'26':'found_truncated',
-'25':'ignore_title',
-'24':'ignore_none',
-'23':'ignore_many',
-'22':'ignore_one',
-'21':'who_friend',
-'20':'friend_many',
-'19':'friend_title',
-'18':'friend_one',
-'17':'friend_none',
-'16':'title',
-'15':'roleplay_true',
-'14':'roleplay_false',
-'13':'roleplay',
-'12':'helper_true',
-'11':'helper_false',
-'10':'helper',
-'9':'looking_for_group_true',
-'8':'looking_for_group_false',
-'7':'looking_for_group',
-'5':'found_many',
-'4':'found_one',
-'3':'empty',
-'2':'anonymous_true',
-'1':'anonymous_false',
-]
+{
+	"stfFile":"ui_who",
+	"entries": {
+		"displaying_faction_rank_false":"You are no longer displaying your faction rank.",		"displaying_faction_rank_true":"You are now displaying your faction rank.",		"customer_service_representative":"CSR",		"developer":"Developer",		"friend_list_group_other":"Other Friends",		"friend_hidden":"(%DI hidden)",		"link_dead":"LD",		"away_from_keyboard":"AFK",		"found_truncated":"Your who request was truncated...too many matches.",		"ignore_title":"List of Ignored Players
+----------------------------------",		"ignore_none":"You are not ignoring any players. You can ignore a player by typing: /addignore <name>",		"ignore_many":"You are ignoring %DI players.",		"ignore_one":"You are ignoring 1 player.",		"who_friend":"FRIEND",		"friend_many":"You have %DI friends.",		"friend_title":"List of Friends
+----------------------------------",		"friend_one":"You have 1 friend.",		"friend_none":"You have no friends! Maybe you should add one by typing: /addfriend <name>",		"title":"Players near you in Star Wars Galaxies
+----------------------------------",		"roleplay_true":"You are now a roleplayer.",		"roleplay_false":"You are no longer a roleplayer.",		"roleplay":"ROLEPLAY",		"helper_true":"You are now a newbie helper.",		"helper_false":"You are no longer a newbie helper.",		"helper":"HELPER",		"looking_for_group_true":"You are now looking for a group.",		"looking_for_group_false":"You are no longer looking for a group.",		"looking_for_group":"LFG",		"found_many":"There are %DI matching players.",		"found_one":"There is 1 matching player.",		"empty":"There are no players who match those filters.",		"anonymous_true":"You are now anonymous.",		"anonymous_false":"You are no longer anonymous."
+}}

@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_station_emperors_access_quest_1",
+	"entries": {
+		"title_d":"The space station of Naboo received a emergency call from an Imperial freighter under attack by Rebels. You have volunteered to assist the freighter and need to hurry over to the coordinates the attacked Imperial ship provided.",		"title":"Naboo system: Rescue the freighter.",		"split_quest_alert_fail":"",		"split_quest_alert":"Imperial freighter: < I know it's a lot to ask but we think the Rebels uncovered our Yavin freighter route and are planning an attack. Can you please deliver the message to our station in the Yavin system? >",		"quest_update":"Imperial freighter: < %TO >",		"quest_location_t":"Naboo system.",		"quest_location_d":"This is Imperial territory and you should be safe here. The Rebels attacking freighters in this area are either really brave or really stupid, time for you to find out which.",		"quest_helpallies_t":"The freighter made it.",		"quest_helpallies_d":"The Imperial freighter has made it to the coordinates it provided but the Rebel scum are right on top of it. Deliver justice to the Rebel terrorists swiftly.",		"quest_findbattle_t":"Coordinates of attack.",		"quest_findbattle_d":"The freighter under attack provided the space station with these coordinates, explaining that they will try to make it there in hopes of being rescued. Get over there as quickly as you can.",		"found_loc":"This .. an em...ency bro..ca.. We a.. under att..k by Rebel figh..rs. N..d help at th..e coor..nat.. immed..tely!",		"enemies_win":"Imperial freighter: < We can't survive this, ejecting! >",		"enemies_remain":"Imperial freighter: < Yes! Good job pilot, only %DI of them left! >",		"enemies_arrived":"Here they come! Any Imperial ship that is receiving this, please assist!",		"battle_started":"Our systems are crippled, we're a sitting duck out here!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Imperial freighter: < Thank you pilot, you came just in time or we would have been done for. >",		"allies_remain":"Imperial freighter: < Ahh! Our ship is burning up! We need help n... >",		"allies_arrived":"We have made it to our emergency coordinates but the Rebel scum is right behind us!"
+}}

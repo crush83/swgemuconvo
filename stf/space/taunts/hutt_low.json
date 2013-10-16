@@ -1,22 +1,5 @@
-[
-'111':'death5',
-'110':'death4',
-'109':'death3',
-'108':'death2',
-'107':'death1',
-'106':'entercombat5',
-'105':'entercombat4',
-'104':'entercombat3',
-'103':'entercombat2',
-'102':'entercombat1',
-'101':'hityou5',
-'100':'hityou4',
-'99':'hityou3',
-'98':'hityou2',
-'97':'hityou1',
-'96':'gothit5',
-'95':'gothit4',
-'94':'gothit3',
-'93':'gothit2',
-'92':'gothit1',
-]
+{
+	"stfFile":"space/taunts/hutt_low",
+	"entries": {
+		"death5":"Your day will come!",		"death4":"You'll pay for this!",		"death3":"Jabba will avenge me!",		"death2":"Argh!!! You got me...",		"death1":"Nooooo!",		"entercombat5":"Let's see how you fare against a Hutt pilot!",		"entercombat4":"You're no match for a Hutt Pilot!",		"entercombat3":"Whoever you are, you are mine!",		"entercombat2":"You are a nobody!  I will destroy you!",		"entercombat1":"Fool! I work for the Hutts! We are everywhere!",		"hityou5":"Goodbye!  Nice try!  Now it's time for you to die!",		"hityou4":"GOTCHA!  Hoohaha!",		"hityou3":"You were a worthy advisary, but now you die!",		"hityou2":"You can't take much more of this!",		"hityou1":"You're going down!",		"gothit5":"Luck!  That was pure luck!",		"gothit4":"Hey!  I'll get that repaired as soon as I deal with you.",		"gothit3":"So this is how it's gonna be, huh?",		"gothit2":"Feeble, pilot.  Feeble!",		"gothit1":"You are weak and pathetic!"
+}}

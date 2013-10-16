@@ -1,24 +1,5 @@
-[
-'22':'blocking',
-'21':'dead',
-'20':'incapacitated',
-'19':'knockeddown',
-'18':'ridingcreature',
-'17':'drivingvehicle',
-'16':'skillanimating',
-'15':'sitting',
-'14':'lyingdown',
-'13':'flying',
-'12':'hovering',
-'11':'climbing',
-'10':'climbingstationary',
-'9':'crawling',
-'8':'prone',
-'7':'crouchwalking',
-'6':'crouchsneaking',
-'5':'kneeling',
-'4':'running',
-'3':'walking',
-'2':'sneaking',
-'1':'standing',
-]
+{
+	"stfFile":"locomotion_n",
+	"entries": {
+		"blocking":"Blocking",		"dead":"Dead",		"incapacitated":"Incapacitated",		"knockeddown":"Knocked Down",		"ridingcreature":"Riding a Creature",		"drivingvehicle":"Driving a Vehicle",		"skillanimating":"Skill Animating",		"sitting":"Sitting",		"lyingdown":"Lying Down",		"flying":"Flying",		"hovering":"Hovering",		"climbing":"Climbing",		"climbingstationary":"Stationary Climbing",		"crawling":"Crawling",		"prone":"Prone",		"crouchwalking":"Crouching",		"crouchsneaking":"Crouched Sneaking",		"kneeling":"Kneeling",		"running":"Running",		"walking":"Walking",		"sneaking":"Sneaking",		"standing":"Standing"
+}}

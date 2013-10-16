@@ -1,29 +1,5 @@
-[
-'27':'task11_journal_entry_title',
-'26':'task11_journal_entry_description',
-'25':'task10_journal_entry_title',
-'24':'task10_journal_entry_description',
-'23':'task09_journal_entry_title',
-'22':'task09_journal_entry_description',
-'21':'task08_journal_entry_title',
-'20':'task08_journal_entry_description',
-'19':'task07_journal_entry_title',
-'18':'task07_journal_entry_description',
-'17':'task06_journal_entry_title',
-'16':'task06_journal_entry_description',
-'15':'task05_journal_entry_title',
-'14':'task05_journal_entry_description',
-'13':'task04_journal_entry_title',
-'12':'task04_journal_entry_description',
-'11':'task03_journal_entry_title',
-'10':'task03_journal_entry_description',
-'9':'task02_journal_entry_title',
-'8':'task02_journal_entry_description',
-'7':'task01_journal_entry_title',
-'6':'task01_journal_entry_description',
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/c_darndroid1",
+	"entries": {
+		"task11_journal_entry_title":"Intimidated Amarent Loren",		"task11_journal_entry_description":"You intimidated Amarent Loren.  He gave you the information that you need, but I'm sure he reported you to his superiors.",		"task10_journal_entry_title":"Speak to Amarent Loren",		"task10_journal_entry_description":"Speak to Amarent Loren in Tyrena.  He can probably be bullied into giving you information.",		"task09_journal_entry_title":"Bribed Amarent Loren",		"task09_journal_entry_description":"You bribed Amarent Loren for his information.",		"task08_journal_entry_title":"Speak to Amarent Loren",		"task08_journal_entry_description":"Speak to Amarent Loren.  Functionaries like him are underpaid.  A well-placed bribe would loosen his tongue.",		"task07_journal_entry_title":"Mission Accomplished",		"task07_journal_entry_description":"Accomplished mission.",		"task06_journal_entry_title":"Valance's Reward",		"task06_journal_entry_description":"Valance Serth rewards you for saving his life.",		"task05_journal_entry_title":"Talk to Valance Serth",		"task05_journal_entry_description":"Kill the Black Sun thugs that are threatening Valance Serth and then talk to him.",		"task04_journal_entry_title":"Find the crashed ship.",		"task04_journal_entry_description":"Go to Talus and find the crashed ship.  It is near the Imperial Outpost.",		"task03_journal_entry_title":"Speak to Amarent Loren",		"task03_journal_entry_description":"Go to Tyrena on Corellia and speak with Amarent Loren, who should be in the spaceport.  One way or another, get him to tell you what happened to Valance Serth's ship.",		"task02_journal_entry_title":"Talk to Selan Ellison",		"task02_journal_entry_description":"Find Selan Ellison and talk to her.  She knows someone who may help you.",		"task01_journal_entry_title":"Go to Moenia Starport",		"task01_journal_entry_description":"Go to Moenia Starport and see if someone knows what happened to Valance Serth.",		"task00_journal_entry_title":"Speak to C-3TC",		"task00_journal_entry_description":"C-3TC told you that his master is missing.",		"journal_entry_title":"Shuttle Crash",		"journal_entry_description":"Valance Serth is missing.  His ship never landed in Moenia.  Find out what happened and save him.",		"category":"Ground Quest"
+}}

@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/tatooine_imperial_tier3_2_b",
+	"entries": {
+		"title_d":"It would seem that the Rebels didn't expect you to survive their trap. There is one of their recon freighters nearby that was coordinating the attack. Chances are good that they have the information we are after on that craft. Disable and inspect that vessel.",		"title":"Endor System: Inspect the Rebel Advanced Recon Freighter",		"split_quest_alert_fail":"",		"split_quest_alert":"Transfer the data that you captured from the communications vessel to an Imperial Intelligence shuttle. Stand by for nav location information.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"A navigation waypoint of the Rebel advanced recon freighter will be supplied to you. Intercept and disable that vessel.",		"quest_inspect_t":"Inspect the Rebel Advanced Recon Freighter",		"quest_inspect_d":"Once the vessel is disabled, inspect it and find any information that command can use.",		"quest_dock_t":"Transfer the Rebel Reports",		"quest_dock_d":"Dock with the Rebel advanced recon freighter and transfer the reports to your vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

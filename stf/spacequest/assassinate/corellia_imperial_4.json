@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_4",
+	"entries": {
+		"title_d":"Travel to the Corellia system and destroy the B-wing prototype. When you enter the system Imperial command will begin its scan for the B-wing prototype. Once they find it, they will send you a navigation waypoint to its current location. As the B-wing prototype moves through the system this navigation waypoint will update to its most current location. Follow these waypoints until you can intercept the B-wing prototype. Once you have caught up to the B-wing prototype, you must destroy the starfighter. You will have to hurry to catch up to the B-wing prototype because if it reaches the end of its route it will jump out of the system and you will lose your chance to kill it. When you complete this mission, return to Hakasha Sireen at the Imperial Base on Talus and Hakasha Sireen will train you in a new Imperial Pilot skill.",		"title":"Corellia System: Destroy the B-wing Prototype",		"split_quest_alert_fail":"",		"split_quest_alert":"Another B-wing Prototype have been located. Destroy this new prototype before it gets away as well.",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the B-wing Prototype",		"quest_target_d":"Intercept and destroy the B-wing prototype in the Corellian system. Follow the navigation waypoints to its most recent location until you have caught up to the B-wing prototype. If the B-wing prototype reaches the end of its path before you intercept it, the B-wing prototype will jump out of the system. Also keep an eye out for any escort fighters that might be traveling with it. They will retaliate when you attempt to destroy the B-wing prototype.",		"quest_location_t":"Travel to the Corellian System",		"quest_location_d":"Travel to the Corellian system and destroy the B-wing that is being tested there. When you enter the system wait until you receive a navigation waypoint to its most current location. As the B-wing prototype moves through the system the navigation waypoint will update to its most recent location. Catch up to and destroy the B-wing prototype before it can reach the end of its route and jump out of the system. ",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"You let the B-Wing escape. The Rebels probably think that they have gotten one over on us. Fortunately for you we have a trace on another of these prototypes that is in the system. Stand by for more information.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Escort fighters eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Nice work, pilot. That will show the Rebels that we are not afraid of them. Return to your commanding officer on Talus.",		"arrival_phase_2":"We have sent you the navigation location to the prototype. It looks like the Rebels are trying to get it out of the area. Destroy that ship before it can leave the system. We will update the waypoints with it's progress as it moves through the system.",		"arrival_phase_1":"Stand by. We are getting a lock on the Rebel prototype vessel. We will send you the navigation coordinates once we have it's location.",		"Quest Log Data":"Text"
+}}

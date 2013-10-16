@@ -1,24 +1,5 @@
-[
-'22':'organic_structure_large',
-'21':'organic_structure_small',
-'20':'organic_hide_large',
-'19':'organic_hide_small',
-'18':'organic_food_large',
-'17':'organic_food_small',
-'16':'inorganic_water_large',
-'15':'inorganic_water_small',
-'14':'inorganic_minerals_large',
-'13':'inorganic_minerals_small',
-'12':'inorganic_gas_large',
-'11':'inorganic_gas_small',
-'10':'inorganic_chemicals_large',
-'9':'inorganic_chemicals_small',
-'8':'energy_solid_large',
-'7':'energy_solid_small',
-'6':'energy_radioactive_large',
-'5':'energy_radioactive_small',
-'4':'energy_liquid_large',
-'3':'energy_liquid_small',
-'2':'energy_gas_large',
-'1':'energy_gas_small',
-]
+{
+	"stfFile":"resource_container_d",
+	"entries": {
+		"organic_structure_large":"This container holds large amounts of organic structural materials such as bones or wood.",		"organic_structure_small":"This container holds small amounts of organic structural materials such as bones or wood.",		"organic_hide_large":"This container holds large amounts of creature hides and pelts.",		"organic_hide_small":"This container holds small amounts of creature hides and pelts.",		"organic_food_large":"This container holds large amounts of consumable solid foodstuffs.",		"organic_food_small":"This container holds small amounts of consumable solid foodstuffs.",		"inorganic_water_large":"This container holds large amounts of water.",		"inorganic_water_small":"This container holds small amounts of water.",		"inorganic_minerals_large":"This container holds large amounts of non-reactive ore.",		"inorganic_minerals_small":"This container holds small amounts of non-reactive ore.",		"inorganic_gas_large":"This container holds large amounts of non-reactive gas.",		"inorganic_gas_small":"This container holds small amounts of non-reactive gas.",		"inorganic_chemicals_large":"This container holds large amounts of non-reactive liquids.",		"inorganic_chemicals_small":"This container holds small amounts of non-reactive liquids.",		"energy_solid_large":"This container holds large amounts of energetic ore.",		"energy_solid_small":"This container holds small amounts of energetic ore.",		"energy_radioactive_large":"This container holds large amounts of radioactive ore.",		"energy_radioactive_small":"This container holds small amounts of radioactive ore.",		"energy_liquid_large":"This container holds large amounts of energetic liquid.",		"energy_liquid_small":"This container holds small amounts of energetic liquid.",		"energy_gas_large":"This container holds large amounts of energetic gas.",		"energy_gas_small":"This container holds small amounts of energetic gas."
+}}

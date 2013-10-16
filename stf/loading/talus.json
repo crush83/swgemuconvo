@@ -1,16 +1,9 @@
-[
-'14':'kahmurra',
-'13':'sludge_panther',
-'12':'huf_dun',
-'11':'guf_drolg',
-'10':'lost_aquilish',
-'9':'binayre_pirates',
-'8':'aakuans',
-'7':'fed_dub',
-'6':'talus_liberation_party',
-'5':'dearic_and_nashal',
-'4':'hilltop_kima',
-'3':'kima',
-'2':'talus',
-'1':'vynock',
-]
+{
+	"stfFile":"loading/talus",
+	"entries": {
+		"kahmurra":"Kahmurra are a distant relative of the murra, genetically engineered as a possible all-terrain hunting beast.  The project was abandoned when funding ran out and the lead-geneticist's health began to fade.  They now run wild on Talus; some have since been caught and trained, though with great difficulty (and a few unfortunate early attempts).",		"sludge_panther":"The sludge panther is distantly related to the Corellian sand panther, and lives in swamps and dank jungles.  These creatures roll around in mud to mask their scent when hunting.",		"huf_dun":"A huf dun is a gigantic herbivorous herd creature. Relatively peaceful, they tend to ignore small creatures around them.  Few have successfully domesticated a huf dun or kept one in captivity.",		"guf_drolg":"These large, hostile creatures migrate in small groups (called pods) to warmer climates during the cold season.  They can be very territorial, and are often hunted for their meat and hides.",		"lost_aquilish":"Ancestors of the aqualish warriors were secretly positioned on Talus during the Aqualish-Corellian War centuries ago, but were forgotten when the war ended.  Believing that the war would one day begin anew, the Talus Aqualish have kept their base hidden from everyone, especially the human settlers on Talus.",		"binayre_pirates":"A two-bit group of smugglers and pirates operating in the Corellian sector who have twin home bases -- one on Talus, the other on Tralus.  They cling to the bottom rung of the criminal ladder.",		"aakuans":"These anarchists believe that all living beings have the right to govern themselves and that no authority (specifically, no government) should invade anyone's individual space.  Their doctrines, though extreme, find many followers on fiercely independent Corellia. Aakuans take their name from the old Corellian term aa'kua, "respect" (literally "respecting space").",		"fed_dub":"The Federation of Double Worlds (or Fed-Dub for short) is the government that controls Talus and Tralus.  Members are elected, and they control a minor force to keep the peace on these two planets.",		"talus_liberation_party":"One of the political factions active during the Starbuster plot, they were struggling for their world (along with Tralus) to secede from the Corellian alliance and govern themselves.",		"dearic_and_nashal":"Though these two cities will never challenge Coronet for glamour, they are almost the only places on Talus a traveller can find urban comforts such as banks, commodities markets, and cloning facilities.",		"hilltop_kima":"This breed of kima tends to live in rugged areas.  Slightly larger and more powerful than their cousins at lower altitudes, these creatures may travel alone or in packs.",		"kima":"A fast and agile quadruped unique to Talus, the kima hunts alone in remote rural areas.  Kimas are known for their powerful and intimidating growl, which sets hearts pounding and turns knees to jelly.",		"talus":"Talus and its twin planet Tralus orbit each other as they circle the star Corell in the Corellian system. Several species and many social groups are unique to Talus, and most are dangerous.  Talus has two main cities, Dearic and Nashal.",		"vynock":"A genetic offshoot of the more common mynock, these small creatures are found high in the mountains.
+
+Having no arms or legs, the vynock uses the small tentacles that surround its head to locate its food and draw it to its mouth.
+
+Woe be to the pirate who doesn't check for vynocks before take off. Because the vynock's diet consists only of metals, spacecraft are a banquet for these creatures."
+}}

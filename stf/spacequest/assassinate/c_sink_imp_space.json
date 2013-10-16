@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/c_sink_imp_space",
+	"entries": {
+		"title_d":"Destroy Binayre Black Jack before it exits the system.",		"title":"Destroy Binayre Black Jack before it exits the system.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Tactical Computer",		"quest_target_t":"Destroy Binayre Black Jack",		"quest_target_d":"Destroy a Binayre Black Jack before it exits the system.",		"quest_location_t":"Corellia System",		"quest_location_d":"Go to Corellia's System and destroy a pirate's ship.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"The Black Jack escaped to another system.  Let Ceth Laike know that you failed the mission.",		"escort_wiped_out":"Now that the protecting ships are gone, concentrate your fire on the leader.",		"escort_remaining":"%DI of 4 escorting ships remain.",		"destroy_escort":"",		"autorewardsubject":"Very Good Work!",		"autorewardfrom":"Ceth Laike",		"autorewardbody":"Great job!  I hope we sent the Binayre a message.  Come back down here.  I have a reward for you.  ",		"assigned_delayed":"",		"assassinate_success":"Binayre Black Jack destroyed.  Return to Talus and speak with Ceth Laike.",		"arrival_phase_2":"Kill the Binayre Black Jack before it leaves the system.",		"arrival_phase_1":"The Binayre is on the move.  Scanning to find the ship's location and trajectory."
+}}

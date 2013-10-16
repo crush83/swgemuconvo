@@ -1,7 +1,5 @@
-[
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/scholar_szingo",
+	"entries": {
+		"npc_3":"I am the chief advisor to King Terak, the mighty ruler of the Marauders.",		"npc_2":"Truly I have studied more than any Marauder in history.",		"player_2":"Who do you work for?",		"player_1":"Are you really a scholar?",		"npc_1":"What is it that you want?"
+}}

@@ -1,7 +1,5 @@
-[
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/charal",
+	"entries": {
+		"npc_3":"King Terak and his marauders!",		"npc_2":"I am the Night Sister of Endor, a powerful witch, and you will be sorry to have met me...",		"player_2":"By you?",		"player_1":"Who are you?",		"npc_1":"You will be punished severely for being here!"
+}}

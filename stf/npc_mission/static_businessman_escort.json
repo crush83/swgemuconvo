@@ -1,25 +1,5 @@
-[
-'35':'dontknowyou',
-'34':'escortother',
-'33':'npc_takeme_2',
-'32':'npc_takeme_1',
-'31':'player_3_2',
-'30':'player_3_1',
-'29':'npc_4_2',
-'28':'npc_4_1',
-'27':'player_2_2',
-'26':'player_1_2',
-'25':'npc_reward_2',
-'24':'npc_3_2',
-'23':'npc_2_2',
-'22':'npc_1_2',
-'21':'player_2_1',
-'20':'player_1_1',
-'19':'npc_reward_1',
-'18':'npc_3_1',
-'17':'npc_2_1',
-'16':'npc_1_1',
-'9':'not_it',
-'2':'cantwork',
-'1':'gotowork',
-]
+{
+	"stfFile":"npc_mission/static_businessman_escort",
+	"entries": {
+		"dontknowyou":"I don't know who you are, but I'm not going with you.",		"escortother":"I don't think I'm the person you're looking for.",		"npc_takeme_2":"Oh good, you made it.  I got the money transferred to our bank, but I'm lost out here.  Should have hired a guide, huh?",		"npc_takeme_1":"Great, you're here.  We don't want to be late for this meeting so let's get back quickly.",		"player_3_2":"What were you selling?",		"player_3_1":"What kind of meeting is it?",		"npc_4_2":"It's an autographed trophy from some sports figure.  I don't know who he is, but apparently it sold well.",		"npc_4_1":"Merger.  There's a lot of paperwork to sign and I'm not authorized to do it alone.",		"player_2_2":"Sorry, I'm a bit busy at the moment.",		"player_1_2":"No problem.  I was looking for something to do.",		"npc_reward_2":"Here you go.  See I had good seats, and I didn't let them tear it.  You should be able to get something for it if you want.",		"npc_3_2":"That's too bad.  I'll find somebody useful.",		"npc_2_2":"Great.  I'll make sure the message gets through that you're coming.",		"npc_1_2":"My partner was at an auction selling some assets for capital.  I need somone to find and bring them back.  can you help?",		"player_2_1":"Nah, I don't feel like it.",		"player_1_1":"Sure I'll find your friend.",		"npc_reward_1":"Here you go.  It needs some ink, but you'll never have one better.",		"npc_3_1":"Well, if you can't help me I hope I can find someone who can.",		"npc_2_1":"Excellent.  We'll pay you when you get back.",		"npc_1_1":"My partner needs to get back here fast.  We're going to be late for a meeting and I'm all alone.  Can you go get my partner?",		"not_it":"No, sorry, that's not the item I was looking for...",		"cantwork":"I understand you're already working for someone else.  Come back when you're done with that job.",		"gotowork":"I need you to finish that task I gave you earlier.  Ok?"
+}}

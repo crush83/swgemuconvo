@@ -1,23 +1,5 @@
-[
-'128':'rct_basic',
-'127':'tst_0',
-'126':'hgr_0',
-'125':'bdg_0',
-'124':'cms_0',
-'123':'wpn_1',
-'122':'wpn_0',
-'121':'ddi_0',
-'120':'bst_0',
-'119':'cap_0',
-'118':'arm_0',
-'117':'shd_0',
-'116':'eng_0',
-'115':'rct_0',
-'135':'wpn_basic',
-'134':'ddi_basic',
-'133':'bst_basic',
-'132':'cap_basic',
-'131':'arm_basic',
-'130':'shd_basic',
-'129':'eng_basic',
-]
+{
+	"stfFile":"ship_slot_compatabilities_n",
+	"entries": {
+		"rct_basic":"Main Reactor",		"tst_0":"Targeting Station",		"hgr_0":"Hangar",		"bdg_0":"Bridge",		"cms_0":"Countermeasure Launcher",		"wpn_1":"Ordnance",		"wpn_0":"Weapon",		"ddi_0":"Droid Interface",		"bst_0":"Booster",		"cap_0":"Capacitor",		"arm_0":"Armor",		"shd_0":"Shield",		"eng_0":"Engine",		"rct_0":"Main Reactor",		"wpn_basic":"Weapon",		"ddi_basic":"Droid Interface",		"bst_basic":"Booster",		"cap_basic":"Capacitor",		"arm_basic":"Armor",		"shd_basic":"Shield",		"eng_basic":"Engine"
+}}

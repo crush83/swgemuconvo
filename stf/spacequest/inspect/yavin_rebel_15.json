@@ -1,18 +1,5 @@
-[
-'16':'title_d',
-'15':'title',
-'14':'split_quest_alert_fail',
-'13':'split_quest_alert',
-'12':'quest_update',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/yavin_rebel_15",
+	"entries": {
+		"title_d":"A part of the database on the Death Star space station has been found fairly intact in the debris floating around the moon of Yavin 4. Unfortunately the Empire has already recovered it and are shipping it through the Lok system right now.. Your job is to steal it from them.",		"title":"Lok system: Intercept and steal data from Imperial recovery shuttle.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < The shuttle is wired with a self destruct system. Detecting incoming Imperial Fighters, destroy them! >",		"quest_update":"Rebel Command: < %TO >",		"quest_location_t":"Lok system.",		"quest_location_d":"Always be careful in the Lok system. The system is infested with pirate activity and even though the Nym pirates don't bother us there's plenty of other pirate clans that will jump at the chance of destroying a lone fighter. When you get to the waypoint, search the nearby area for the shuttle as it may not have arrived at those coordinates yet.",		"quest_inspect_t":"Make sure it's the right shuttle.",		"quest_inspect_d":"Inspect the Imperial shuttle to make sure it has what we need. If it does, disable its engines or reactor if you haven't already. To target specific components on a star ship, input the bracket commands ( ] or [ ) to your tactical computer.",		"quest_dock_t":"Error in the plan.",		"quest_dock_d":"The clever Empire has wired the whole shuttle with a self destruct system. They would rather have the database blown to pieces than fall in our hands. Ignore the shuttle, destroy the Imperial ambush and get out of there!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

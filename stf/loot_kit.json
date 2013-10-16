@@ -1,6 +1,5 @@
-[
-'4':'item_used',
-'3':'new_item_created',
-'2':'already_contains',
-'1':'incorrect_item',
-]
+{
+	"stfFile":"loot_kit",
+	"entries": {
+		"item_used":"The kit accepts the item and quickly disassembles it, leaving nothing recognizable behind.",		"new_item_created":"A new item was created, but it seems that the kit was destroyed in the process.",		"already_contains":"That item is already contained by this kit.",		"incorrect_item":"The kit examines the item and rejects it. This kit will only accept items that are compatible with its design. For a list of what items this kit will accept examine it by using its radial menu."
+}}

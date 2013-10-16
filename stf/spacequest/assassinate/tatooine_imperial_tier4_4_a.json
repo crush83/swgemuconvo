@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_imperial_tier4_4_a",
+	"entries": {
+		"title_d":"Destroy the captured Engineer transport in the Dantooine system. The location of another transport has been found. Destroy this transport as well.",		"title":"Dantooine System: Destroy the Captured Engineer Transport. Part II",		"split_quest_alert_fail":"",		"split_quest_alert":"The Inquisition officer requests that we capture the last transport and bring it back so he can question the Bothan spies.",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Captured Engineer Transport",		"quest_target_d":"Destroy the second captured Engineer transport in the Dantooine system to avoid allowing it to fall into enemy hands.",		"quest_location_t":"Remain in the Dantooine System",		"quest_location_d":"Remain in the Dantooine system and intercept the captured Engineer transport.",		"quest_escort_t":"Destroy the Escort",		"quest_escort_d":"All the Bothan pilots that are with the transport must also be destroyed.",		"failed_escape":"We lost the transport. Now there is nothing to stop them from delivering it to the Rebellion. Report your failure to your superior officer immediately.",		"escort_wiped_out":"\#pcontrast1Tactical Computer:\#pcontrast3 <Escort fighters eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escorts remaining.>",		"destroy_escort":"Some of the transport's escort still remain. Send a message and destroy them as well.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Excellent. We are now only missing one transport.",		"arrival_phase_2":"Sending the location to your navigation computer. Be alert, they are aware of your presence.",		"arrival_phase_1":"Getting a lock on the second transport. Once you have the location destroy it and all that fly with it.",		"Quest Log Data":"Text"
+}}

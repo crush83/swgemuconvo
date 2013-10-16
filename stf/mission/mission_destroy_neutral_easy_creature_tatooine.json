@@ -1,145 +1,36 @@
-[
-'143':'number_of_entries',
-'142':'m35t',
-'141':'m35s',
-'140':'m35o',
-'139':'m35d',
-'138':'m34t',
-'137':'m34s',
-'136':'m34o',
-'135':'m34d',
-'134':'m33t',
-'133':'m33s',
-'132':'m33o',
-'131':'m33d',
-'130':'m32t',
-'129':'m32s',
-'128':'m32o',
-'127':'m32d',
-'126':'m31t',
-'125':'m31s',
-'124':'m31o',
-'123':'m31d',
-'122':'m30t',
-'121':'m30s',
-'120':'m30o',
-'119':'m30d',
-'118':'m29t',
-'117':'m29s',
-'116':'m29o',
-'115':'m29d',
-'114':'m28t',
-'113':'m28s',
-'112':'m28o',
-'111':'m28d',
-'110':'m27t',
-'109':'m27s',
-'108':'m27o',
-'107':'m27d',
-'106':'m26t',
-'105':'m26s',
-'104':'m26o',
-'103':'m26d',
-'102':'m25t',
-'101':'m25s',
-'100':'m25o',
-'99':'m25d',
-'98':'m24t',
-'97':'m24s',
-'96':'m24o',
-'95':'m24l',
-'94':'m24d',
-'93':'m23t',
-'92':'m23s',
-'91':'m23o',
-'90':'m23d',
-'89':'m22t',
-'88':'m22s',
-'87':'m22o',
-'86':'m22d',
-'85':'m21t',
-'84':'m21s',
-'83':'m21o',
-'82':'m21d',
-'81':'m20t',
-'80':'m20s',
-'79':'m20o',
-'78':'m20d',
-'77':'m19t',
-'76':'m19s',
-'75':'m19o',
-'74':'m19d',
-'73':'m18t',
-'72':'m18s',
-'71':'m18o',
-'70':'m18d',
-'69':'m17t',
-'68':'m17s',
-'67':'m17o',
-'66':'m17l',
-'65':'m17d',
-'64':'m16t',
-'63':'m16s',
-'62':'m16o',
-'61':'m16d',
-'60':'m15t',
-'59':'m15s',
-'58':'m15o',
-'57':'m15d',
-'56':'m14t',
-'55':'m14s',
-'54':'m14o',
-'53':'m14d',
-'52':'m13t',
-'51':'m13s',
-'50':'m13o',
-'49':'m13d',
-'48':'m12t',
-'47':'m12s',
-'46':'m12o',
-'45':'m12d',
-'44':'m11t',
-'43':'m11s',
-'42':'m11o',
-'41':'m11d',
-'40':'m10t',
-'39':'m10s',
-'38':'m10o',
-'37':'m10d',
-'36':'m9t',
-'35':'m9s',
-'34':'m9o',
-'33':'m9d',
-'32':'m8t',
-'31':'m8s',
-'30':'m8o',
-'29':'m8d',
-'28':'m7t',
-'27':'m7s',
-'26':'m7o',
-'25':'m7d',
-'24':'m6t',
-'23':'m6s',
-'22':'m6o',
-'21':'m6d',
-'20':'m5t',
-'19':'m5s',
-'18':'m5o',
-'17':'m5d',
-'16':'m4t',
-'15':'m4s',
-'14':'m4o',
-'13':'m4d',
-'12':'m3t',
-'11':'m3s',
-'10':'m3o',
-'9':'m3d',
-'8':'m2t',
-'7':'m2s',
-'6':'m2o',
-'5':'m2d',
-'4':'m1t',
-'3':'m1s',
-'2':'m1o',
-'1':'m1d',
-]
+{
+	"stfFile":"mission/mission_destroy_neutral_easy_creature_tatooine",
+	"entries": {
+		"number_of_entries":"35",		"m35t":"Farmboy Dreams",		"m35s":"Thanks for helping me out. Since you agreed to help out, I've been able to spend even more time practicing in my skyhopper. The investment has been well worth it. In fact, I just snuck over to Bestine and applied to the Academy again. I took a flight test and, if I don't say so myself, I flew rings around the training drones. I think this time I finally caught the eye of the Imperial recruiter. I have a feeling I'm going to be spending the rest of my life shooting down enemies of the Empire!",		"m35o":"",		"m35d":"I'm young, but I'm not stupid. I know that it's going to be tough to leave Tatooine. I dream of someday joining the Academy, but just dreaming about something doesn't make it happen. So I spend every afternoon practicing my piloting skills in a beat-up skyhopper. I need alll those hours in the cockpit just to hone my skills. If I miss even a day, I lose my edge. But lately, my father has been asking me to spend more and more time out in the desert, patrolling the edge of our property looking for vermin that might bust up our moisture vaporators. Or I waste my afternoons repairing the stupid machines after the animals have bent the chilling panels trying to steal our water. So, here's my plan: I've saved a few credits and I'm willing to pay you to do my work for me. While you're destroying the nearest lair, I'll be racing through Beggar's Canyon. Someday, all this practice will pay off and I'll be one of the Empire's finest pilots.   ",		"m34t":"Wedding Planner",		"m34s":"Thank you for helping me prepare for my daughter's wedding. I plan to take her out to the site in a few days. I know she's going to be overjoyed with the scenic view. I've paid a fortune for a wagon full of chuba pies and imported Corellian ale, but there's a little left over for you. My daughter's smile is worth every credit.",		"m34o":"",		"m34d":"If the Force is with us, my little girl is only going to get married once. There aren't many good men around these parts - good, hard-working, honest men that can make a living out of moisture farming - but she's found one of the best. We don't have many credits to put towards the celebration, but I'm planning to make this a wedding even the Darklighters will remember. The ceremony will take place as the suns set, in the most pristine patch of desert I could find. The only problem with the site is a small vermin lair. I'd go take care of it myself, but I have a wedding to help plan and pay for. If you could eliminate the lair, I'd appreciate it. My daughter's happiness depends on it.",		"m33t":"Desert Demolition",		"m33s":"Good work, friend. You did a great job wiping out those small-brained, ankle-biting vermin. After transferring your reward to your account, though, I realized that I'm wasting my money. I could spend millions of credits trying to better my life on Tatooine, and the desert is still going to be overrun by nasty creatures. So, I took the rest of my credits and placed a bet on some demolition contest Jabba the Hutt was holding. Threw all my money behind that Jawa warlord, Wittin, and wouldn't you know that the little mercenary came through? He trashed the competition, and I won big. With my winnings, I've purchased a ticket out of Mos Eisley for Naboo. I'm going to live on a peaceful hillside somewhere, far away from Tatooine's ankle-biting vermin. Enjoy your reward, but don't expect to hear from me again.",		"m33o":"",		"m33d":"They say that nothing can survive in the desert on Tatooine. Well, that's a straight lie. There are creatures hiding under every rock and thorn bush all across the desert. You can't take five steps without some hungry, disease-ridden pest lurching out of the underbrush to snap at your toes. I'm sick of it. I'm sick of this whole, sandy planet, but most of all, I'm sick of the vermin. Go out there and kill something for me, make life a little more bearable out here, and I'll pay you for your troubles.",		"m32t":"Bantha Defense",		"m32s":"The Mighty Bantha, the legendary Horned-One who brings peace and tranquility to all who gaze upon Him, is safe once again! You have served the Enduring Bantha well! The Dim-U monks, loyal servants of the Wandering Bantha, are overjoyed at your success. Our coffers have been opened and you will be rewarded. The Dim-U monastery thanks you on behalf of the Horned-One, whose powerful bellow will roar your name across the desert and throughout the start so that all who worship at His hairy feet will know of your heroic deeds.",		"m32o":"Dim-U Monks of Tatooine",		"m32d":"We, the Dim-U monks of Tatooine, who worship at the hairy feet of the Mighty Bantha, are seeking defenders of our hirsute idol. While Tatooine should be the domain of the bantha alone, the Horned-One must share the planet with a host of lesser beings. Many of these beasts make life difficult for the Revered Bantha, most divine of all creatures! They badger the Wandering Bantha, or infect Him with disease, or steal His food or water. The coffers of the Dim-U monastery are full, ready to serve the cause of the Enduring Bantha, in whose eyes all Universal Truths are revealed. We only await a champion to step forward and purge the Stalwart Bantha's enemies!",		"m31t":"Desert Din",		"m31s":"As soon as you destroyed that lair, a calm came over me. The desert seemed awash in beautiful, soothing silence. I don't know quite how to thank you, but I hope you'll take a few credits for all your hard work on my behalf.",		"m31o":"",		"m31d":"It may surprise you to learn that I was born on Coruscant, right in the heart of the galaxy. I grew up surrounded by constant noise, which just about drove me insane. When I had the chance to relocate to someplace quieter, I took it. Now, I know that Tatooine isn't everyone's idea of paradise, but it is quiet. Or, at least it was quiet until the local creatures began screeching and bellowing. The problem with living in the desert is that sound carries for kilometers. With those creatures out there making such a racket, I can't sleep or concentrate. I think I might be going mad. I need someone to silence them, for good.   ",		"m30t":"Livestock Spooked",		"m30s":"Excellent work, my friend. You've chased off the vermin scaring my eopies. They've finally settled down. Life is almost back to normal on this rock.",		"m30o":"",		"m30d":"I need a professional to eliminate some vermin that have been spooking my eopies. I think I've located the source of the trouble. Should be an easy extermination job.",		"m29t":"Vermin Control",		"m29s":"Congratulations! You've successfully destroyed one of Tatooine's most tenacious vermin lairs. The Galactic Pest Authority has been authorized to provide you with a suitable reward for your efforts on behalf of the galaxy.",		"m29o":"Galactic Pest Authority",		"m29d":"The Galactic Pest Authority is responsible for monitoring reports of vermin, pests, and nuisance creatures throughout the galaxy. We have conclusive evidence of a dangerous rise in the number of vermin on Tatooine. In accordance with Galactic Pest Authority's mission statement, we are authorizing extermination of these vermin. This transmission includes information about a specific vermin lair; please destroy this lair and keep our galaxy clean!",		"m28t":"Minor Threat",		"m28s":"It's a hard life out here, but hopefully you've just made things a bit easier for those of us forced to live in the desert. Thanks for killing those creatures before they could kill one of us.",		"m28o":"",		"m28d":"The big-time hunters who spend all their time bagging giant beasts on Lok or Naboo might not think that the animals out here are dangerous, but let me tell you, everything is tougher that it looks out in the desert. If I had a credit for every poor moisture farmer trampled to death by rogue eopies or feral banthas, I'd be able to buy myself a new landspeeder. And I can't tell you how many times we've buried a friend who was chewed up and spat out by squills or womp rats. I don't care what off-worlders say, the animals out here are dangerous and we need brave adventurers like you to take care of them before anyone else gets killed. The best way to wipe out these beasts is by destroying their lair. I've done the footwork and found one for you; just go take care of it and you'll get paid in real, honest credits.",		"m27t":"The Hunted",		"m27s":"A job well done, friend. By eliminating that lair, you've hopefully sent the Sand People packing. Let them go hunt out by Jabba's Palace or the Great Pit of Carkoon if they're hungry.",		"m27o":"",		"m27d":"Lately, I've been seeing Tusken Raiders around here, hunting some of the smaller, less dangerous creatures in the area. I'm assuming the Sand People are eating these animals... They say a hungry Tusken is desperate and dangerous, but a Tusken with a full belly becomes strong and brave. And if he's not thinking about hunting food, a Tusken has too much to think about maybe hunting us. I need your help to keep these Sand People hungry. Maybe so hungry they decide to look for new hunting grounds. The way I see it, all you need to do is go out and kill some of the creatures that the Tuskens are eating. That should drive them away. I've given you the coordinates for a lair that the Tuskens might have their goggles on. Go destroy it and I'll pay you what I can.",		"m26t":"Imminent Arrival",		"m26s":"A most Festive Jabba the Hutt is celebrating your successful elimination of local vermin. He plans to take a tour of the desert soon to observe your handiwork first-hand. As instructed by the Mighty Jabba the Hutt, I have personally transferred a sizable reward to your account. The Entrepreneurial Jabba suggests that you spend your hard-earned credits at any of Mos Eisley's respectable businesses, most of which owe their current success to the Hutt's incredible influence.",		"m26o":"Bib Fortuna, on behalf of Jabba the Hutt",		"m26d":"The Illustrious Jabba the Hutt is expecting a visit from several prominent and influential Huttese "dignitaries," arriving shortly from Nal Hutta. The Hospitable Jabba has vowed that his most-respected associates will find Tatooine to their liking. However, the Transcendent Jabba is concerned that the arriving dignitaries will be offended by the number of disgusting vermin running rampant on Tatooine. Such beasts will surely mar any scenic trips to the Great Pit of Carkoon. In order to prepare for the arrival of his revered guests, the Wise Jabba is hiring mercenaries to rid the desert of unsightly vermin. Go and seek out the described lair. Do not fail his Sluggishness! ",		"m25t":"Reclamation Project",		"m25s":"The Tatooine Reclamation Society is pleased to report that Phase I of our proposed waystation project is nearly complete! Lairs blocking construction on these proposed waystations have been eliminated. Those citizens directly responsible for the destruction of these lairs have been rewarded and deserve the thanks of the entire planet!
+
+Phase II of the project - the actual construction of the waystations themselves - requires additional funding. We have been promised a substantial grant from the local Imperial prefect, but a recent military mishap near Yavin IV has evidently diverted all Imperial credits for the forseeable future. The Tatooine Reclamation Society is seeking other backers, including the generous Jabba the Hutt. We believe that the waystation project will be back on track within a few seasons! ",		"m25o":"Tatooine Reclamation Society",		"m25d":"The Tatooine Reclamation Society is a coalition that includes Bestine, Mos Espa, and several other major cities on Tatooine that have joined forces with generous Imperial forces to improve life on our desert planet. As part of the Tatooine Reclamation Project, the Tatooine Reclamation Society is planning to construct waystations between the planet's primary settlements. Unfortunately, the proposed sites of some planned waystations have already been "settled" by native Tatooine creatures. The Tatooine Reclamation Society does not take issue with the creatures themselves, but their lairs could potentially block construction of a waystation. The Tatooine Reclamation Society is broadcasting the coordinates of these problem lairs in the hopes that loyal Tatooine citizens will take it upon themselves to aid the Reclamation Project by destroying these obstacles. A suitable reward will be offered to anyone to helps in our efforts to develop these essential waystations.",		"m24t":"The Middleman",		"m24s":"TRANSMISSION TRANSLATED FROM HUTTESE
+
+Things don't look so grim around Watto's shop these days. Surprisingly, his sub-contracting scheme seems to be working, thanks in part to you. Even after paying you your reward, Watto has enough left over to upgrade his inventory and attract new customers. And, because he's proven to be so reliable, Watto is gaining quite a reputation with the Imperials. They're even starting to buy parts from the junkshop.
+
+As one of Watto's sub-contractors, you've been paid for your services. Please note that, while Watto did deduct his standard commission, I threw in a few credits of my own to thank you for a job well done.
+",		"m24o":"Wald",		"m24l":"Watto the Toydarian is hiring sub-contractors to complete Imperial missions.",		"m24d":"TRANSMISSION TRANSLATED FROM HUTTESE
+
+As you probably know by now, Watto the Toydarian, owner of the once-legendary Watto's Junkshop and Spare Parts in Mos Espa, has fallen on hard times. Ever since he lost his fortune betting against a Jedi in the Boonta Eve Podraces, Watto has been deep in debt with just about everyone on Tatooine, including Jabba the Hutt.
+
+I've known Watto all my life and I'm trying to help him out. He's not the friendliest gasgut, but he's practically an institution in Mos Espa. And maybe I feel a little responsible for Watto's plight, since it was my friend Anakin who won the Boonta Eve that year and left Watto without a credit to his name. Or maybe I'm just hoping that Watto will eventually give me the junkshop...
+
+When I heard that the Imperials were offering rewards to adventurers willing to kill some of the local vermin, I figured we could earn some quick credits by taking out overbreeding eopies. But Watto always wants to be the middle-man. He's identified some of the easiest targets the Imperials have to offer and has personally guaranteed that the creatures in question will be exterminated. Now, he just needs to hire adventurers like you to kill the beasts. We'll pay you the reward, after Watto takes his "commission" of course. It's not a perfect set-up, but I can guarantee that Watto has selected only the best assignments. And, by dealing with Watto directly, you avoid any Imperial entanglements...  ",		"m23t":"Harvesters Offline",		"m23s":"Our moisture vaporators are running smoothly and our facilities have never been  more productive. We're now shipping water to all parts of Tatooine, and have become the primary supplier for Bestine. We're extremely grateful for your efforts on our behalf.",		"m23o":"",		"m23d":"We lost power to our moisture harvesting facilities recently. Looks like something was chewing through the power cables. Can anyone try to exterminate whatever might be responsible?",		"m22t":"Crops in Danger",		"m22s":"I need to be thankin' you for savin' my crops. I was convinced that I was going to end up starving to death, or owin' my life to Jabba the Hutt. But now that you've chased off those leaf-eatin' creatures, my crops are growin' faster than ever before. I've sold a few barrels of pallies in order to put together your reward.",		"m22o":"",		"m22d":"My crops are gettin' chewed all up. Hard enough to grow anything on this sandy rock, and now somethin' is eatin' everything green that dares to show its leaves. I'm needin' someone to take care of whatever it is that's wipin' out my crops.",		"m21t":"Even the Odds",		"m21s":"I can't believe it! Just when the bottom was about to drop out of my business, you've saved me. My customers have stopped demanding "rewards" for every dead scurrier, but they're still coming into the store. Turns out, they just like the merchandise. Anyway, I've finally scraped together enough to pay back the Hutt, with a little left over to offer you as a reward. Thanks again for making sure my business survives another season.",		"m21o":"",		"m21d":"First off, let's keep this between you and me. I'm not proud about any of this... But I'm in some trouble. Financial trouble, which is the worst kind of trouble, right? A few months ago, I was in deep with the Hutt and trying to drum up some business. My brother-in-law came up with this crazy plan to give huge discounts to any client who could kill a "dangerous" creature with one of my weapons. The problem is, we never defined which animals were "dangerous." Heck, an eopie is "dangerous" if it catches you off-guard. Anyway, the gimmick brought people into the store to buy blasters and ammunition, and having so many would-be marksmen running around with my merchandise seemed like free advertising. But, like a dim-witted Dug, I promised to run this stupid promotion for five full seasons! Well, now my storehouse is full of stuffed animals, everything from little scurriers to disease-ridden rontos, and I've been practically giving away my merchandise. I'll be out of business soon...
+
+So, here's my new scheme: I'd rather pay you to wipe out all the easy targets before my over-eager clientele find these helpless creatures and I'm left selling them Corellian blasters at Lok-bottom prices. ",		"m20t":"Tatooine Creature Culling",		"m20s":"The Galactic Pest Authority is pleased to report that this season's culling expedition to the desert planet of Tatooine has been a monumental success. All agents assigned to this incredible endeavor will receive payment directly.",		"m20o":"Galactic Pest Authority",		"m20d":"The Galactic Pest Authority is paying operatives to conduct routine creature culling on Tatooine. This is a common practice on a number of worlds, used to control the spread of problem creatures. A "problem creature" might be defined as predatory, disease-bearing, invasive, or prone to violence. To aid in this specific creature culling, destroy the identified Tatooine lair.  ",		"m19t":"Nuisance Creature Control",		"m19s":"The Galactic Pest Authority has collected substantial data suggesting a dramatic decrese in the number of reported nuisance creatures on Tatooine. The organization attributes this sudden decline to your efforts. Your activities on behalf of the good citizens of Tatooine will be handsomely rewarded.",		"m19o":"Galactic Pest Authority",		"m19d":"The Galactic Pest Authority is disappointed to report a sharp rise in the number of problem animals reported on Tatooine. These so-called "nuisance creatures" damage moisture vaporators, steal delicate pallies and other foodstuffs, and harass honest moisture farmers. For the good of all, the lair of these recognized nuisance creatures must be eliminated.",		"m18t":"Tatooine Pest Control",		"m18s":"We've recently collected data that suggests a dramatic decrese in the number of recognized disease-carrying pests on Tatooine. We at the Galactic Pest Authority attribute that sudden decline to your efforts. Your activities on behalf of the good citizens of Tatooine will be handsomely rewarded.",		"m18o":"Galactic Pest Authority",		"m18d":"The Galactic Pest Authority has documented a significant increase in reported encounters with recognized disease-carrying pests on Tatooine. To protect the public health, destroy the identified lair. ",		"m17t":"Hubba Gourd Raiders",		"m17s":"Transmission Translated from Jawaese for you convenience!
+
+Most exalted hero of the Jawas! Thank you a hundred times for saving the precious hubba gourds, the Staff of Life, from thieving, dirty creatures. We will now pay you a sizable, big reward.",		"m17o":"Wimateeka",		"m17l":"Jawas are in danger of starving!",		"m17d":"Transmission Translated from Jawaese for you convenience!
+
+Our precious hubba gourds, the Staff of Life, are under attack by raving creatures! We Jawas keep to sandcrawlers mostly. We are ill equipped to stop this assault on our foodstuffs! We Jawas will give big credits to anyone who will help us!
+
+Wimateeka, Jawa Clan Leader",		"m16t":"Stop the Stench!",		"m16s":"Thank the Force! You've wiped out the source of that terrible stench. Now, we can all breathe comfortably again. Our meager credits will never convey how much we appreciate your help.",		"m16o":"",		"m16d":"There are so many things to complain about on Tatooine, I never thought I'd be whining about the way the planet smells. But the stench around here is just terrible. It's making all of us nauseous. On the hottest day, the smell is so bad you can't go outside without a breathing mask. For the first few days, we thought it was the garbage pile rotting, but we buried the refuse and the smell still lingered. So, a few of us tracked the source to an animal lair nearby. The creatures are wallowing in their own waste. It's disgusting, and we're living downwind. If you can destroy that lair, we'll all breathe a lot easier.",		"m15t":"Sandstorm Migrations",		"m15s":"Hello again. I wish to thank you for wiping out the creatures near my homestead. I've dug up my credits and will transfer them to your account soon.",		"m15o":"",		"m15d":"Hello. Please excuse the quality of this message. We don't have much use for datapads out here. Not even sure if I know how to send this transmission... But, if you're reading this, then I suppose I did something right. Let me get to the point. We all have work to do.
+
+Every season, the sandstorms kick up. They usually chase at least a few dozen animals onto my land. I'm taking precautions this year. I spotted some creatures near my farm. No doubt they'll be heading for my garage once the sandstorms start. Unless you destroy them first. I have some credits buried under a vaporator. I'll pay you to take care of this for me. Good luck.",		"m14t":"Plague Prevention",		"m14s":"Good citizen, I am happy to report that efforts to reduce the number of plague-bearing vermin in the area have been successful. While the Empire will publicly take full responsibility for the elimination of these pests, we will be paying your consulting fee, as agreed. Long live the Emperor.",		"m14o":"Prefect Talmont",		"m14d":"Tatooine's vermin are well-known for their ability to spread diseases, mutating viral infections, and lethal bacteria. Recent reports suggest that a local creature community is infected with an as-yet-unidentified disease. These reports are unsubstantiated, but previous outbreaks have made us extremely cautious. Destroy the potentially-infected lair as soon as possible to prevent any unnecessary deaths.",		"m13t":"Smash Little Creatures!",		"m13s":"Gartogg the Sturdy was very happy to learn that you had "smashed" the little creatures he hates so thoroughly. When he heard my report, he clapped his meaty hands and squealed with joy. Thankfully, he has also stopped complaining about the animals, at least for now. So, it is with great relief that I transfer a sizable reward to your account. Gartogg thanks you, and I most humbly thank you as well.",		"m13o":"Gartogg",		"m13d":"Message Composed by K8-LR, Protocol Droid, on Behalf of Gartogg the Sturdy
+
+It is my unfortunate duty to translate the disgusting grunts of Gartogg, a Gamorrean of exceptionally low intelligence. I don't know why Jabba endures such mindless guards... It's bad enough that I have to listen to their squealing screams every time one of them accidentally falls into the rancor pit, but now I'm being programmed to actually talk to these brutes! And all Gartogg does is complain. First, he complains bitterly about being forced to haul garbage, but really, he doesn't have the intellect for anything else. Then, he complains about the creatures that run amok at the garbage pits! He claims to hate the animals. Recently, he spotted what he assumes to be their lair. Now, it would give him no end of pleasure to know that someone has killed all of the creatures on his behalf. He keeps shouting "Smash little creatures!" as he runs through the palace corridors. So, please, I implore you, find and smash these animals. Hopefully, Gartogg will then stop his incessant whining.
+",		"m12t":"Mushroom Thieves",		"m12s":"I am so fortunate that you decided to help destroy the mushroom bandits that have been stealing part of my daily diet. Now that I have my mushrooms back, I only suffer moderate hunger pangs every night. We're still going hungry out here, but at least we have something to nibble on each night.",		"m12o":"",		"m12d":"There are few joys out here in the desert, but one of my small pleasures is picking mushrooms from the moisture vaporators on my land. I know that the mushrooms are small and ugly, and they taste terrible, but sometimes they're all we have to eat out here... Lately, though, something nasty has been eating the mushrooms before I can get to them. So, if you could try to stop the creatures eating my mushrooms, it would be your good deed for this season.",		"m11t":"Fixer's Guardian Angel",		"m11s":"Thank you for keeping Fixer out of trouble. Fixer likes to pretend he's pretty tough, but those creatures would have absolutely murdered him. I've liberated some credits from the power station's safe and transferred them to your account. Just remember to keep quiet about this mission.",		"m11o":"Camie",		"m11d":"Fixer would absolutely kill me if he knew I was hiring you for this job, so keep it between us, okay? I need you to help me keep Fixer out of trouble; if anything happened to him, the Tosche power station would go under, and I'd be left all alone on this dustbowl... Here's the situation: The Empire has decided that all of us Tatooine locals need to do our part to keep our planet clean and safe (like that's ever going to happen...). Prefect Talmont has demanded that each city appoint an exterminator responsible for hunting down and killing vermin. I guess the Imperials have gotten tired of tromping around the desert, so they're making us do their grunt work. Anyway, long story short (too late!): Anchorhead has nominated Fixer for this job, and I can't bear the thought of him out there in the desert on his own. He may be a bad-mannered, bald Wookiee, but he's my bad-mannered, bald Wookiee, and I'm planning to keep him by my side as long as possible. If you take care of these creatures instead, he'll be out of danger... at least for a little while longer.  I don't want him out there getting hurt!
+
+-Camie",		"m10t":"Kill all Vermin!",		"m10s":"The Philanthopric Jabba the Hutt is overjoyed at your recent successes in the field of vermin extermination. Enjoy your reward. I recommend spending it at the Mos Eisley cantina.",		"m10o":"Bib Fortuna, on behalf of Jabba the Hutt",		"m10d":"The Illustrious Jabba the Hutt, Tatooine's first and finest citizen, is troubled by reports of vermin running rampant across Tatooine's pristine deserts. These creatures offend the Magnanimous Jabba's refined sensibilities and threaten to overrun Tatooine's humble citizens. As a sign of his generosity, the Benevolent Jabba is offering a reward to brave adventurers willing to eradicate this terrible scourge.",		"m9t":"Union Dues",		"m9s":"Moisture farmers across Tatooine thank you for your efforts to protect our moisture vaporators! In accordance with our union bylaws, we have transferred your reward directly into your galactic account.",		"m9o":"Moisture Farmers of Tatooine #253",		"m9d":"We're not sure if it is the vibrations or the material components, but something about our moisture vaporizers is attracting small but destructive beasts. This is especially true with the older units. We've finally put it to a vote and decided that the union should offer a reward to exterminators who deal with some of the most suspect nests. We've assigned such a lair to you; you'll find it nearby. Good luck!",		"m8t":"Vehicular Vermin ",		"m8s":"The Bestine Transportation Safety Commission and Imperial Prefect Talmont have been notified of your successful attempts to improve landspeeder safety on Tatooine. We are pleased to inform you that, in light of your recent success, we will be forwarding the appropriate payment to your account. Thank you and have a safe day.",		"m8o":"Bestine Transportation Safety Commission",		"m8d":"Landspeeder accidents are up 8% this season, largely due to the presence of non-sentient animals alongside central travel routes. These creatures periodically dart in front of oncoming vehicles, causing operators to lose control and crash. The Bestine Transportation Safety Commission, in conjunction with Imperial Prefect Talmont, is hiring contract exterminators to help keep our landspeeder lanes safe. Please report to the identified lair and eliminate it in order to help with this endeavor. ",		"m7t":"Hunter's Quest",		"m7s":"Congratulations on elminating that vermin lair. I plan to tell all my neighbors about your willingness to step in and help out when all the "real" hunters were off chasing dragon tails. ",		"m7o":"",		"m7d":"Ever since it became fashionable to hunt Tatooine's larger predators, the vermin population has been breeding out of control. I'm not one to defend dangerous beasts, but they did eat the smaller pests. All I'm asking is that the hunters focus on vermin as well as the big prizes. Since all the high-profile adventurers are busy chasing krayts, I'm hoping that you can hunt some of the more populous creatures. I've located a lair that would be a good place to start.",		"m6t":"Medical Alert",		"m6s":"The Bestine Hospital would like to thank you for eliminating local creatures that we believe were carrying potentially dangerous bacteria. We have already recorded a marked decrease in the number of infected bites and scratches. We have transferred payment for services rendered.",		"m6o":"Bestine Hospital Medical Chief",		"m6d":"Recently, patients suffering from small bites or scratches have been seen by local medics. In at least two cases, the wounds have become infected with a strain of bacteria highly resistant to common medical approaches, including bacta. While the risk to individual patients from the actual bites is not severe, there is concern that the bacteria themselves might migrate to other hosts and cause much more severe problems. The medical professionals who have evaluated the threat recommend that the original host population be exterminated. ",		"m5t":"Ecological Disaster!",		"m5s":"The Tatooine Scientific Union has been informed of your successful attempts to reduce the exccessive populations of problem creatures in the area. We believe that your efforts will improve the ecological health of the planet. ",		"m5o":"Tatooine Scientific Union",		"m5d":"The local wildlife in this area is causing problems with the ecology. There is an overabundance of the specified creatures, which is causing plant life populations to drop dramatically.  This situation must be dealt with immediately.",		"m4t":"Beware of Diseased Animals!",		"m4s":"Our caravan was overwhelmed with relief when we heard that you had destroyed the disease-carrying vermin roaming the area. Thank you for being an unyielding hero in these desperate times. I promise that our children will always hear the story of how you saved us from certain death, even when faced with death yourself.  ",		"m4o":"",		"m4d":"Disease-carrying pests have infested the desert between many of Tatooine's major settlements. We need someone to remove these creatures, but be careful: One caravaner has already died from an infected bite!",		"m3t":"Burrowing Creature Dilemma",		"m3s":"We, the representatives of the Tatooine Business Bureau, extend our most heartfelt congratulations on a mission well-done! As noted in our original transmission, local economic health was threatened by the burrowing creatures disrupting our key aquifier. As a result of your incredible heroics, the ecological impact of these creatures has been significantly reduced. We hope that you appreciate our praise, but realize that financial gain may be more gratifying. We will transfer your payment immediately and look forward to working with you again in the future.
+
+Your Grateful Employer,
+The Tatooine Business Bureau  ",		"m3o":"Tatooine Business Bureau",		"m3d":"According to recent studies, the burrowing activities of several varieties of small verminous creatures may actually destabilize the water leaching patterns in the local aquifer. Given the criticality of this basic ecological mechanism to our Tatooine economy, a group of local businesspeople has pooled funds in order to offer a reward for the removal of any burrows, nests, mounds, heaps, or lairs that might contribute to the slow alkalinization that has been devastating our microcryptoaquazoology. The only caveat is that the destruction must be accomplished in an ecologically safe manner, not through poisons that might further damage the mineral substrates.",		"m2t":"Artist's Plea",		"m2s":"By the twin suns of Tatooine, I owe you everything! My career as an artist was stalling, until you rid the area of the ugly creatures disrupting my sensitive artistic sensibilities. I'm on the verge of painting the definitive Tatooine landscape, which I will dedicate to your efforts!",		"m2o":"",		"m2d":"I am an artist well known for my striking landscapes, but I do not see how I can be expected to paint serene, desert scenes lit by glowing twin sunsets if there are unsightly vermin in the way. Can anyone get rid of these horrible nests so I can resume my life's work? ",		"m1t":"Squash 'Em!",		"m1s":"Hope you had fun crushing those pests! Thanks for taking care of that, so I didn't need to.",		"m1o":"",		"m1d":"When I was a kid, I'd go out into the desert and squash 'em personally, but I'm getting too old for that type of nonsense. I want you to handle this for me.  These vermin are everywhere and are causing me trouble. It was easy enough to kill them forty years ago. I'm sure not much has changed..."
+}}

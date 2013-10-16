@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_rebel_tier4_3_a",
+	"entries": {
+		"title_d":"We have a problem, several of our B-Wings on the way to the space station have been ambushed. You need to hurry over to them and assist in defeating the attackers.",		"title":"Dathomir system: Save one of the ambushed Rebel B-Wing squadrons.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Snow Squadron Leader: < %TO >",		"quest_location_t":"Dathomir system.",		"quest_location_d":"As in your previous mission, you're in an area of the Dathomir system where the Imperial presence is extreme. Take caution and stay vigilant.",		"quest_helpallies_t":"Save the Snow Squadron.",		"quest_helpallies_d":"Although the Snow Squadron are all experienced pilots, their heavy B-Wings have problems with the nimbler TIE ships and will need your help in defeating them.",		"quest_findbattle_t":"Coordinates of ambush.",		"quest_findbattle_d":"These are the coordinates where the Snow Squadron reported in the ambush, hurry over there.",		"found_loc":"This is Snow Squadron Leader, my Bomber wing is under heavy fire! We will try to make it to these coordinates, need fighter support there!",		"enemies_win":"Get out of here pilot! There's noth...",		"enemies_remain":"Snow Squadron Leader: < Yes! Hang in there everyone! Only %DI more left! >",		"enemies_arrived":"The enemy is forming in to battle positions. Defensive formation Z guys, get your act together!",		"battle_started":"Good to see you pilot. This will get tough but we have seen worse, right guys? Lets show them they picked the wrong fight today!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Our gratitude pilot, we would have been cooked if you didn't show up when you did.",		"allies_remain":"Snow Squadron Leader: < We are not built for fighter combat...if you don't step it up pilot, we're all doomed! >",		"allies_arrived":"This is Snow Squadron Leader, we need fighter support, now! We have multiple enemy fighters closing in on our position!"
+}}

@@ -1,36 +1,294 @@
-[
-'36':'link_grouping',
-'35':'joystick_macros',
-'34':'grouping_in_space',
-'33':'quickstart_hud',
-'32':'astromech_stepbystep_summaries',
-'31':'astromech_droids',
-'30':'astromech_basic_overview',
-'29':'astromech_putting_them_together',
-'28':'astromech_chips',
-'27':'astromech_shipdroid_utilization_list',
-'26':'quickstart_pvp',
-'25':'quickstart_combat2',
-'24':'quickstart_combat1',
-'23':'quickstart_flight',
-'22':'quickstart_hyperspace',
-'21':'quickstart_landing',
-'20':'quickstart_takeoff',
-'19':'quickstart_ship',
-'18':'quickstart',
-'17':'pilotprivateer',
-'16':'pilotrebel',
-'15':'pilotimperial',
-'14':'shipwrightreverse',
-'13':'shipwrightcrafting',
-'12':'shipwrighttrainers',
-'11':'pilotskillpoints',
-'10':'shipwrightskillpoints',
-'9':'shipwright',
-'8':'pilottrainers',
-'6':'skilltiers',
-'5':'shipwrightxp',
-'4':'pilotability',
-'2':'pilot',
-'1':'space',
-]
+{
+	"stfFile":"kb/kb_space_d",
+	"entries": {
+		"link_grouping":"Tell me how Grouping works on the Ground",		"joystick_macros":"A macro is a set of user-entered commands bound to a hotkey. You can create your own macros in SWG by going to the The Command and Abilities Browser (CTRL-A or from the button bar) and choosing the Macro tab. From here, you can create macros, or combinations of commands you define yourself. After creating such a macro, you may then bind it to one of your joystick buttons and use that button to activate the macro.
+
+1. Create a macro. 
+2. Bind a toolbar slot to a joystick button. You will do this in the Keymap Browser which can be accessed from the Controls Tab in the Options Window. The Toolbar slots are under the UI tab and are named 'Toolbar Slot 1', 'Toolbar Slot 2', etc.
+3. Drag the macro into the joystick toolbar slot.",		"grouping_in_space":"Grouping in Space works mostly in the same way as it does on the ground, though there are two key ways in which they differ. One is in the way in which your group is represented in space, and the other involves POB ships.
+
+[Group Representation]
+On the ground, members of your group are represented by their player character. The attributes, name, and status of a group member would be those of a group member's character. In space, on the other hand, members of your group are represented by their ship. The status and attributes shown are those of your ship, and the name given for each group member is their ship's name rather than their character's name. The bars under a group member's ship name shows the status of their shields and armor. For POB ships, the number of passengers inside of the ship is shown next to the ship's name in parentheses.
+
+[POB ships]
+POB ships are those that have an interior in which your character can move and be active. These ships can have multiple passengers, and while one passenger is piloting the ship, others can operate different weapons on the ship and help defend it. 
+
+For any POB ship, everyone inside of the ship is part of the same group. You cannot have multiple groups within a single POB ship, and if a POB ship is added to a group, everyone within that POB ship becomes part of the new group. In such a situation, the two groups would essentially merge into a single group. Other grouping restrictions apply in the same way they do on the ground, so for example, if the number of people inside of the POB ship would cause the group to exceed 20 members, then the POB ship would not be allowed to join the group.
+
+Leaving a group or dismissing members from a group also involves a new twist or two. If an individual group member inside of a POB ships wishes to leave the group, they must first eject themselves from the ship. After they are on the ground, they may then leave the group. 
+
+For a group that is entirely within a single POB ship, the group leader can dismiss individual group members which will cause the dismissed member to be ejected to the ground. The group leader cannot dismiss the owner of the ship and also cannot disband the group altogether. To accomplish either of these, the ship must first land.
+
+For a group that contains multiple ships, each ship is considered to be an individual unit within the group. Any ship in the group can be dismissed from the group by the group leader or can leave the group on their own.   When this happens for a POB ship, everyone inside of the POB ship is removed from the previous group and immediately forms a new group.
+",		"quickstart_hud":"Many elements from the Heads-Up-Display (HUD) on the ground have been retained for use during spaceflight in Jump To Lightspeed (JtL). A couple of them have been added or altered. These include the radar and the system status flyouts.
+
+The radar for JtL is round like the one used during the ground portion of Star Wars Galaxies, with its  current maximum range setting still displayed as a number toward the bottom of the radar display, and the  current radar range setting is zoomed in and out using the large '-' and '+' symbols that can be seen when  'cursor' mode is engaged with the 'ALT' key. Other functionality on the radar display is quite different. For example, when you are walking around on the ground in Star Wars Galaxies, the radar is displayed in a 'top-down' fashion meaning that the radar displays things as if it were a bird's-eye view on the player's position, and things near the top of the display were in front, things toward the bottom were behind, and things to the left or the right are on the left or right of you. The closer the blip is to the center of the display, the closer the target is to the player.
+
+In JtL, the orientation of the radar during spaceflight is different from its orientation during ground usage: It is more of a fish-eye view than a bird's-eye view. That is, it is like a very wide-angle camera that always points in the same direction as your ship.
+
+The JtL radar display area is split into two sections: an inner circular zone, and an outer ring surrounding it. This inner and outer zone are separated by two red-colored semicircles. These two semicircles represent the starship's front and rear armor levels, and the red will slowly drain from the semicircle as the armor for a side takes damage and is vaporized. The radar display is surrounded by two large semicircles that are colored blue. These two semicircles indicate front and rear shield levels. As your shields are drained by absorbing damage, the blue will also drain from the related semicircle.
+
+During spaceflight, the radar display is projected as if it were a window that the player were looking through, oriented in the same direction the ship is pointed. All the targets within the central ring are in front of your ship, while targets outside this ring are to the side of your ship. The further the target is to the side of the radar display, the closer it is to being behind you. To put it another way, As a target gets further away from the middle of the radar its position gets further and further to the side of, and  eventually behind, your ship. 
+
+This orientation is intended to help you point your ship toward targets. If the blip is off to the right side of the display, you merely turn your ship right until the target blip is in the central part of the radar display. If the target is toward the top of the display, you merely pitch the ship upward until the blip is in the central part of the display.
+
+By changing the orientation of the JtL radar display design from the ground-game's 'birds-eye' radar view to be a 'fish-eye' we made it easier for you to fight in three dimensions and point your ship at a target that might be above or below you, but we lost the ability to show how far away the target is through its position on the display. To make up for this, the size of the radar blips will change relative to how close they are to you and what your current max radar range setting is. If the blip is quite large, then it fairly close to your ship. If the blip is small, then it is fairly far away. Remember that the size change in the blip is relative to the current radar range setting, so if that number is quite high, a 'close' target might still be some ways away from you.
+
+The color of blips on the radar indicate how those targets relate to you. If the blip is white in color, you cannot attack it and do damage. Any hits on that target will be ignored. If the blip is yellow in color, you can attack and damage it, but it will likely leave you alone if you leave it alone. If the blip is red in color, you can attack and damage it, and it will probably attack you if it notices you.
+
+A brand new part of the Jump to Lightspeed screen display are the system status flyouts. The system status flyouts are a stack of six icons along the right edge of the screen. Each of these icons corresponds to a different type of the ship's systems. The top icon is for your engines, the second one is for your reactor, the third is for your weapons, the fourth is for your weapon capacitor, the fifth is for your shield generators, and the sixth is for your armor. Whenever one of these systems' status changes, or if you click on the icon, a small note will pop out of the left side of that icon, showing what the current status of that component is. It might show major changes in status such as 'enabled' or 'disabled', or it might show a change in the health of the object such as what percentage of health it has left. After displaying the text for a moment, the note will disappear back into the icon.",		"astromech_stepbystep_summaries":"Droid Command Related Procedures, Step-By-Step
+
+[Programming an Unprogrammed Droid Command Module]
+	1) Acquire an 'Unprogrammed Droid Command Module'.
+                  It can be crafted, or purchesed from someone that has crafted one.
+	2) Bring up the context menu on module by right-clicking on it, or clicking and holding.
+                  Choose: 'Program Droid Memory Chip'
+	3) Select desired program you have knowledge of from the list.
+                  Do this by scrolling, highlighting selected entry, and clicking 'ok'.
+	4) Unprogrammed Command Module should rename itself 'Ready Chip: <program name>'.
+	5) Chip can now be stored, or traded, or programmed into an Astromech or flight computer.
+
+
+[Programming a droid command into an astromech or flight computer]
+	1) Posess the program to be loaded by either:
+                 a) Knowing the program due to Pilot skills acquired
+                 b) Start with a 'Ready Chip: <program name>' in your inventory.
+                   It must be the program you wish to load into your computer.
+	2) Open your datapad (CTRL-D).
+                  Make sure you are viewing the 'Data' page.
+                 Not the 'Waypoints, POI, or Draft Schematics' pages.
+	3) Bring up the context menu on the desired control device.
+	4) Select the 'Program' context menu option.
+
+	Note: Droid and Flight Computers have limited room for programs.
+                          You will have to be selective about what programs you load.
+
+
+[Using droid commands]
+	1) Use the Starship Terminal's 'Manage' functionality with your desired ship.
+                  Make sure you have a 'Droid Interface' associated with your ship.
+                  Use whichever is appropriate, given the type of ship you are using.
+                3) Using the terminal, associate your computer with your desired ship.
+	4) Launch into space.
+	5) Check to see what droid commands are available.
+                  (bring up the 'Command Browser' (CTRL-A) and view the 'astromech' windowpane)
+                  All commands that are programmed into the ship's computer will be listed here.
+	5) Trigger the desired command like any other (CTRL-A) command. 
+                  You can type the slash-name for that command. You can also setup your toolbar.
+
+
+",		"astromech_droids":"External computer units can be used with your starship to allow you to gain access to additional ship-performance controlling commands during spaceflight. These new types of commands are computer programs that we call 'droid commands'.
+
+The computer units involved with the droid command system can be classified into two categories: Astromechs and flight computers. The type of ship you have will determine what type of computer will be necessary. X-Wings use astromechs and TIE fighters use Flight Computers, for example.
+
+Astromechs are droids that have been craftable in Star Wars Galaxies for some time. They include the R5, R4, R2, and R3 type droids. Other types of droids are not considered 'Astromechs'. For an Astromech to be compatible with droid command usage, it must have been crafted with a data storage module. Crafting the astromech with this module gives the droid a datapad like the player's which is then used to store the useable form of the droid commands.
+Flight Computers are a type of object that are new to Star Wars Galaxies. They are crafted tangible objects that can be placed in the player's inventory. Once there, they can be 'initialized' at which point they will generate a datapad that is useable for the storage of droid commands, much like astromechs with a data storage module built in. A player can only have one intialized Flight Computer in their inventory at a time, and they are not tradeable once they have been initialized.
+
+To associate an external computer unit with a starship, the player must have a starship with a computer interface component loaded onto it, and either a properly configured astromech or flight computer, depending on what kind of starship it is. Mounting both the droid interface and an external computer on your ship are accomplished using the 'manage components' UI, accessible using a Starship Terminal. An Astromech that is associated with your ship is linked to the ship, but not actually placed within it until you choose to launch into space. Once you land on the ground it will be automatically unloaded from the ship, allowing you to use it normally.  Despite the fact that the droid is unloaded after flight, it will remain associated with the starship until you use the Starship Terminal's management screen to disassociate using the 'unload' option.
+A pilot must be certified to associate an Astromech or flight computer with their ship. The certifications are granted by acquisition of skills, and higher levels of certification are required to utilize higher levels of flight computer or data storage module on an astromech.
+
+Once the external computer is associated with a ship, launching into space with that ship will cause any programs loaded into that droid to be accessible once the player is in space through the CTRL-A abilities page 'astromech' window pane. This command listing works just like all of the other commands in the CTRL-A window, and they can be dragged into slots on the toolbar and activated with the related function keys.
+",		"astromech_basic_overview":"The primary purpose served by the presence of droids in a starfighter is to allow the pilot of that vessel to use droid commands.
+
+Droid commands are additional abilities that the pilot is given which allow the pilot to tune the performance of the various sub-systems of their ship. To utilize droid commands in space you must have an external computer unit associated with the ship you are flying (either an Astromech or a flight computer, depending on the ship type), and the desired droid programs loaded into that unit.",		"astromech_putting_them_together":"The primary purpose behind programmed Droid Command Modules, or 'Ready Chip's, are to allow players that don't know a droid program to use it anyway.
+
+To load a droid program that the player does not know into an Astromech or flight computer, they must have a 'Ready Chip' of that program in their inventory. When that player chooses to program their Astromech or flight computer with programs for use during space flight, the list of programs available for loading into their droid or flight computer will include not only all of the programs that they know via their skill grants, but also all of the programs that they don't know but that they have 'Ready Chip's for in their inventory.
+
+A person can create a 'Ready Chip' of any of the computer programs that they know by crafting or otherwise acquiring an Unprogrammed Droid Command Module and choosing 'Program Droid Memory Chip' from its context menu.",		"astromech_chips":"Droid programs exist in two basic forms, a transportable and transferrable inventory-based chip form, and  an intangible droid-based form.
+
+Droid programs are learned as pilot characters gain skill. The knowledge of the program allows the player to program it directly into their droid or flight computer using its control device located in their datapad, or to  take an 'Unprogrammed Droid Command Module' and turn it into a transferrable 'Ready Chip' of the program type that the player has knowledge of. 
+
+To program a droid, open the context menu of the droid control device in your datapad while on a planet and select 'program droid'. You will then be presented with the special droid programming interface which you can utilize to load the  droid or flight computer with any programs that you have the skills for, as well as any programs that exist as chips in your inventory.
+
+To program a chip, bring up the context menu on the chip in your inventory, and select the option to  'Program Droid Memory Chip'. This will bring up a listing of all the droid programs that you know.  Highlight one with the mouse by clicking on it, and select 'ok'. The chip's name will change to 'Ready  Chip:<program name>' and it cannot be reprogrammed. A chip in your inventory that has been programmed is  just as transferrable as one that has not. Once the chip has been programmed, the context menu for it will have a new 'Analyze' option, which will tell the player about the functionality of the program on the chip. 
+
+It is very important to note that posessing the skill that grants a particular program is not a prerequisite to using it, only to directly insert that program into a droid without using an inventory-based chip, and to making a transferrable inventory-based chip that contains the program in question.",		"astromech_shipdroid_utilization_list":"Starships Utilizing Astromechs:
+
+The current list of ships that make use of Astromechs include:
+
+	Z95 Headhunter
+	Y-Wing
+	Y-Wing Longprobe
+	X-Wing
+
+All other ships use Flight Computers and not Astromechs.",		"quickstart_pvp":"In order to do battle against other players within standard space zones, your character will need to be an declared member of a military faction; either Rebel or Imperial.
+
+In space, players are either neutral (meaning that no other player can do damage to them, and they cannot do damage to any other player) or they are Factionally declared (meaning that they can do damage to the opposing faction; a Rebel can damage an Imperial in space combat, and vice-versa).
+
+There are special player vs. player rules for the "Deep Space" and "Kessel" systems.
+
+WARNING: Do not enter either the "Deep Space" or "Kessel" systems if you do not want other players to be able to damage your starship in combat. These high-end zones are specifically designed to support large-scale player vs. player battles and the rules have been simplified to make this happen.
+",		"quickstart_combat2":"Much of the combat in Jump to Lightspeed involves lining up a target using your mouse or joystick and then unleashing a barrage of blaster fire. However, as you advance, you'll face increasingly more talented enemy pilots and you'll find yourself relying more heavily on secondary fire (such as missiles), counter-measures, and special moves.
+
+[Missiles]
+If your ship is equipped with guided missiles, you can fire them once you are locked on target. To lock on a target, you must keep that target in your targeting reticule for a small amount of time. Once you do so, the targeting bracket around the enemy ship will change, indicating that your missiles are "locked" and ready to fire.
+Use your secondary fire key (Mouse 2 by default) to fire a missile. Fire your missiles only when an enemy is actually "locked." The guided missile will track your enemy and hopefully damage or destroy him.
+Your missile can be foiled if your enemy drops a counter-measure.
+
+[Counter-measures]
+Counter-measures are designed to disrupt a missile's guidance system, causing that missile to miss its intended target.
+Whenever an enemy ship fires a missile at you, you will receive a Missile Lock warning appear on your HUD. Two vibrant arrows will appear on the left and right sides of your forward view indicating that the missile is in-flight towards your position.
+
+[Disabling and Inspecting Enemy Starships]
+Some missions will require you to disable starships for capture or inspection.
+
+To disable a ship...
+Target your enemy, and then target a specific ship sub-system (like the engines), by using the left and right bracket ( [ ] ) keys.
+After you target this system, fire as normal. Once you have done sufficient damage the enemy ship will come to a stop.
+Once a ship is disabled, you can inspect it by typing /inspect in the chat window or by using the INSPECT button on your HUD. 
+If you locate a mission objective, you can then dock with the starship using the /dock command or the DOCK button on your HUD.
+The objective cargo will be automatically transferred to your ship and you will then be un-docked from the target.
+
+[Booster]
+If your ship is equipped with a booster, you can use it to gain a temporary boost in speed. This is useful when trying to cover distances quickly, or when trying to evade an enemy or quickly get into a position to fire your weapons. The boost lasts until the booster energy reserve is exhausted, or until the player releases the boost key. The booster system works by increasing the thrust your engine is currently producing, so the magnitude of the effect will vary with your current throttle setting. Hitting the boost key while the throttle is set to zero will immediately reset the throttle to 100%, and engage the booster.
+The amount of booster energy you have is viewable as a numeric value and gauge positioned to the left of the throttle setting display on the HUD. Booster energy slowly replenishes up to its maximum storage level when the player is not boosting, assuming the component is in good working order and has enough energy. The default key for booster is the (b) key.",		"quickstart_combat1":"In most cases, combat is simply a matter of being able to line up your target in your targeting sights and opening fire at the right time.
+
+Target your enemy using the TAB key (which cycles through starships in the vicinity). If you are facing your enemy, use the X key to target him. The 'X' key targets anything directly in front of your ship. Or, if you wish to target-cycle only the player enemy ships in the area use the 'z' key. Pressing the 't' key will target cycle NPC enemies.
+
+NOTE: During certain missions you will be required to disable your target - instead of killing them! To do this you will need to select one of the enemy ship's components as a sub-target (using the bracket keys '[' and ']'). Once a sub-target is selected (like the engines or reactor) your weapons will be tuned to hit just that spot on the ship. Once significant damage has been done to the proper component, the ship will be disabled. See 'Advanced Starship Combat' for more information about disabling, inspecting, docking with, and transfering cargo from enemy vessels.
+
+To hit your target, try to aim for the small bright crosshair just in front of the ship's movement. This indicator shows the enemy ship's trajectory and will help you "lead" your target as it zooms away.
+
+
+Here are some basic combat tips from ace pilot Shug Ninx:
+
+Lead your target. Especially when your target is at a distance, fire your shots just in front of the enemy ship. As the ship moves, it will actually fly into your line of blaster fire.
+
+Tail your enemy. One of the most effective tactics is dropping in behind your enemy and sticking to his afterburners. This keeps you safe from return fire and you can concentrate all your fire on one set of shields. It's not always easy, especially if you're trying to tail an agile A-wing, but it's a tactic you should master. 
+
+Manage your speed. If you're in a speedy starship, like a TIE fighter, you might want to throttle back and slow down so you don't continually fly past your enemy. A TIE fighter tailing a Y-wing might only need to fly at half-speed to keep the Y-wing in its sights.
+
+Watch your back. Enemy pilots know some of the same tricks you do and will try to slip in behind you whenever possible. Keep an eye on your radar for approaching hostiles, especially when you're on a straight trajectory towards a waypoint. If you spot space vermin sneakin' up on you, turn and blast them.
+
+Spinning is a good trick. Liberal use of rolls can help shake enemy fighters and keep them from peppering you.
+
+Slam on the brakes. If you have a fast-moving enemy right on your tail, you might be able to trick him into buzzing past you by making a sudden stop. If this trick works, you'll find yourself looking into your enemy's engines and can start tailing him. 
+",		"quickstart_flight":"[SPEED SETTINGS]
+     Increase Speed - UP ARROW / 'W'
+     Decrease Speed - DOWN ARROW / 'S'
+     Full throttle set - 'HOME'
+     Cut throttle - 'END'
+
+[MOVEMENT]
+     Use your mouse to control ship heading - pitch up and down / yaw left and right
+     You can also use your joystick to control ship heading - if a compatible joystick is installed to your computer.
+
+     Additional controls for movement include:
+     Roll left - LEFT ARROW / 'Q'
+     Roll right - RIGHT ARROW / 'E'
+     Turn left - 'A'
+     Turn right - 'D'
+
+[CAMERA]
+     Use the mouse-wheel to zoom in and out.
+     When zoomed in fully you will be in 'cockpit' mode.
+     (Toggle the cockpit on or off with Control+Shift+F2)
+
+     Hold down the Keypad 'Insert' key for mouse-look. As long as they 'Ins' key is depressed, your mouse movements will simulate head movement inside the cockpit or allow you to spin the camera around your ship in third-person view.
+
+
+
+",		"quickstart_hyperspace":"You must be in space to use your starship's hyperspace system. Your hyperdrive must be functional and your engines must be in good working condition.
+
+To hyperspace:
+1. Open the hyperspace map (hotkey 'H' by default)
+2. Right-click on the space zone you want to reach.
+3. Choose a hyperspace point as your destination. Each space system has a list of viable hyperspace destinations.
+4. When you have chosen your destination, click on the 'Hyperspace' button at the bottom of the screen.
+
+At this point, your ship will be unable to move and a countdown will begin. This countdown indicates how long it will take for your ship to complete the calculations for the jump to lightspeed. At the end of the countdown you will be sent through hyperspace to the new system.
+
+If for some reason you need to escape from the hyperspace jump countdown sequence, you can type the command '/aborthyperspace' in the chat box and press 'Enter'. This will abort the hyperspace countdown and return control of the ship to you.
+
+NOTE: The free ship that piloting profession recruiters give you to start out with do NOT possess hyperdrives and cannot hyperspace. To use a hyperdrive, you must have a player-crafted ship.",		"quickstart_landing":"When you launch into space, a waypoint is created for you at the 'Planetary Landing Station.'
+You will want to return to this location when you are ready to land.
+To do this:
+1. Open your datapad (CTRL-D by default)
+2. Choose the space waypoint (generally named for the system you are in - "Tatooine System" for instance).
+3. Activate the space waypoint (right-click and choose 'Activate' from the radial menu).
+4. Fly toward the waypoint.
+When you have arrived at the 'Landing Station' you must communicate with the planetary defense system to acquire landing clearance.
+To do this:
+1. Target the closest space station and open communication with it (SHIFT+C by default).
+3. Tell the space station commander that you want to land on the planet.
+4. Choose the landing destination.
+Note: your starship will be parked at this starport until you land at another starport. For instance - if you land at the Bestine starport, then take a speeder bike to Mos Eisley, you will need to drive back to Bestine starport in order to use your ship. It will not be available at the Mos Eisley starport (because it is parked in Bestine).
+",		"quickstart_takeoff":"Once you have acquired a starship, you can fly into space.
+
+To fly into space follow these steps:
+1. Go to the nearest starport. If you do not know where to find a starport you can chat the command "/find starport" and a waypoint will be created for you. You can also open the planetary map (CTRL-V by default), and look for 'Starport' buildings on the right-side menu.
+2. Walk inside of the starport.
+3. Look for the 'Starship Terminals' located here. The placement of these terminals varies from place to place - but you can almost always find a small circular bay with numerous Starship Terminals if you enter the starport, take your first right, and head down the hallway towards the main exit (towards the tarmac).
+4. Use your mouse to click on the Starship Terminal.
+5. Choose the 'Launch Starship' option to take off.
+
+",		"quickstart_ship":"Your first-tier pilot trainer will provide access codes to a starship parked on this planet free of charge.
+Just ask!
+
+Most pilot trainers will identify your need for a starship and automatically transfer the access codes to your datapad.
+Some will require some coaxing.
+
+Listen to the pilot trainers carefully and make sure that you get your free starting ship before attempting to take off into space!",		"quickstart":"Agents of the Galactic Empire, the Rebel Alliance and the Free Pilots' Guild will attempt to contact you through email (if they can). Check your email for incoming messages from these sources by clicking on the letter-shaped icon on the lower left-hand side of your screen. Read these email messages carefully. They will provide instructions to starting your space adventure.
+
+Your first task is to find a pilot skill trainer in your area. First-tier pilot trainers (the only trainers that a new pilot is able to interact with) will be found on Naboo, Tatooine, and Corellia. If you are not on any of these three worlds, and have not yet begun your pilot training - you will need to travel. Purchase a ticket to any of these locations at the local starport.
+
+To find a pilot trainer:
+1. Open the planetary map (CTRL-V by default)
+2. Look for the 'Trainer' map category on the right-hand side of the planetary map window.
+3. Double-click the 'Trainer' category to expand a list containing all of the trainer types that exist on this planet.
+4. Locate the trainer of your choice.
+5. Right-click on the trainer of your choice and choose 'Create Waypoint.' This will place a waypoint in the world that will help you navigate.
+6. Locate the waypoint created on the planetary map, right-click on it and select 'Activate Waypoint.'
+
+Walk, run, take a shuttle, rent a speeder, or ride a mount to your pilot trainer's location.",		"pilotprivateer":"A Privateer is effectively a mercenary pilot. Loyal to neither the Rebel Alliance nor the Galactic Empire, most Privateers are willing to fly missions for any group with enough credits. Privateers might find themselves working for the Smugglers Alliance on Tatooine, the Corellian Security Forces (CorSec), or even the Royal Security Forces (RSF) of Naboo. 
+
+Privateers utilize a variety of craft, including those originally designed for criminal groups such as the Hutts and Black Sun. Through rigorous training and various underworld contacts, Privateers learn exotic piloting techniques and master black-market droid programs.
+
+The life of a Privateer involves a great deal of conflict. Privateers who work for reputable groups might find themselves policing systems and battling pirates. When running missions for the Hutts or the Smugglers Alliance, a Privateer is likely to run afoul of local authorities or even the Empire. 
+",		"pilotrebel":"The Alliance Pilot serves the Rebel Alliance, the ragtag coalition of heroes who oppose the tyranny of the Galactic Empire. As an Alliance pilot, you will have access to a wide range of powerful starships, including the versatile X-wing and the incredibly fast A-wing. Alliance pilots also learn special Rebel piloting techniques and custom astromech programs that improve a starfighter's defensive capabilities and other features. 
+
+Because the Rebel Alliance is embroiled in a violent war with the Empire, the life of an Alliance Pilot is fraught with danger. If you start down this path, you can expect to clash with Imperial forces on a regular basis.
+
+",		"pilotimperial":"Many claim that the Empire's greatest strength is its ready supply of talented and ruthless pilots. The Imperial Pilot serves the Emperor, battling Rebels, pirates, and others who threaten Imperial rule. An Imperial Pilot is expected to become proficient with the Empire's signature craft: the TIE fighter. 
+
+Advanced pilots gain the right to fly TIE variants, including the deadly TIE Interceptor and experimental TIE Aggressor. The Imperial training program requires Imperial Pilots to master proven Imperial Navy tactics and become well-versed in the use of special navi-computer programs that enhance starfighter performance.
+
+Imperial Pilots are devoted to winning the Galactic Civil War. Their undertake some of the most dangerous missions in the galaxy and continually engage Rebel forces wherever they are found.",		"shipwrightreverse":"Shipwrights are able to take looted components and reverse engineer them to produce superior items.
+
+Shipwrights have a special component analysis tool that is used to reverse engineer these components acquired from enemy, ai-controlled ships.
+
+Loot items have a Reverse Engineering difficulty level.  The max level of item a Shipwright can reverse engineer depends on how high his reverse engineering skill-mods are.
+
+To reverse engineer items, you must put X amount of Y items into a component analysis tool, where X is the reverse engineering level of all items involved, and Y is a type of component (armor, booster, capacitor, etc).  For instance, 4 level 4 capacitors would be a reverse engineerable combination.  Once these items are in the tool, select "Analyze Component" from the radial menu, and a finished item will be produced from the items put into the tool.  The finished item will have the highest stats from all of the components used in the process---the item you get out is always better than any individual item you put in.  All components put into the tool to make the finished product are consumed in the process.",		"shipwrightcrafting":"Shipwrights will have portable ship construction tools, but items of increasing complexity will require that the shipwright is standing near a ship crafting station. Ship crafting stations can be found in starports in NPC cities and near shuttleports in player cities. Installation of new components on a ship will require using a Starship terminal as well as being certified for the components you wish to install.
+
+Shipwrights will be able to construct all basic parts of a starship (chassis, booster, capacitor, droid interface, engine, reactor, shield, armor, and weapon).
+
+Chassis construction will be handled slightly differently than other aspects of starship construction. When a player constructs a chassis, instead of creating the chassis itself, they get a set of starship plans. To actually construct the chassis, a player must take this to a Chassis Broker NPC in a starport who can actually produce the item.  
+
+The chassis comes completely empty, and it must be equipped with an engine and reactor before it can be flown.",		"shipwrighttrainers":"You will find Shipwright trainers in the Starports of major cities. Theed, Mos Eisley, Coronet, and many other starport locations contain experienced trainers who can help you along in your development as a Shipwright.
+
+The planetary map can also be used to find your desired trainer. Use CTRL-V (by default) to open the planetary map. Search for Trainers and locate the 'Shipwright' trainer nearest you.",		"pilotskillpoints":"Starfighter Pilot Skill Point Costs",		"shipwrightskillpoints":"Like all other crafting professions, the Shipwright requires skill points. 
+There is a limit to the number of skill points that a character can expend.",		"shipwright":"Shipwright is an Advanced Profession, and it requires mastery of Engineering IV in the Artisan skill tree. The Shipwright discipline has the same skill point cost as other Advanced Professions, and it will cost money to train from a Shipwright trainer.
+
+The Shipwright handles construction of most starship chassis and other components.
+
+Players with the Shipwright profession will be allowed to craft starship parts, and will be able to reverse engineer components they did not make in order to gain knowledge useful in building new parts.",		"pilottrainers":"Starfighter Pilot Trainers",		"skilltiers":"Starfighter Skill Tiers",		"shipwrightxp":"Shipwrights gain experience points by creating ship components.",		"pilotability":"Starfighter Pilot Abilities",		"pilot":"There are three starfighter pilot professions. They are: Freelance Pilot, Imperial Navy Pilot, and Alliance Starfighter Pilot.
+
+These professions do not cost any skill points. Even an older SWG character that is fully-skilled can learn to be a pilot, without having to give any of their existing skills up.
+
+These professions are mutually exclusive of each other. This means you can only have one pilot profession at a time. For example, you cannot have skills from both Freelance Pilot and Imperial Navy Pilot simultaneously. For a pilot to learn skills from another piloting profession, they will have to first give up all of the skills of their current piloting profession.
+
+To retire from your current piloting profession, you must speak to a broker for pilot's of your faction and ask to retire.  An easy way to find such a broker is to open the Skills window (CTRL+S by default), click on the skill you wish to surrender and then click the 'Surrender' button. You will then be given a waypoint to a broker for pilot's of your faction: Imperial, Rebel, or Neutral. Proceed to that location and speak to the broker.
+",		"space":"(Choose the section "Quick-Start Guide" for information on how to get into space quickly.)
+
+As with An Empire Divided, your character can learn new professions in-game. All four of the new professions in "Jump to Lightspeed" can be gained after character creation by interacting with an appropriate Non-Player Character (NPC), usually called a trainer. 
+
+Trainers can teach you the basic piloting skills (or Novice Shipwright, if the character has mastered Engineering IV in the Artisan skill tree). In addition to a novice skill, pilot trainers (also called "Space Quest Trainers") can provide you with the certification necessary to fly your first starfighter and dole out missions that will earn you credits, faction standing, experience, and the opportunity to advance in your chosen Pilot profession.
+
+Each pilot type has specific trainers. If you want to be an Alliance Pilot, you should talk to a Rebel Space Quest Trainer. These trainers are located in major cities on Tatooine, Naboo, and Corellia.  
+
+Space Quest Trainers will only train like-faction or neutral players. For instance, if your character is a Declared Rebel, she will not be able to learn Imperial piloting skills from an Imperial Space Quest Trainer, and vice-versa. Separately, if you acquire the Imperial Pilot novice skill box without being an Declared Imperial, you will not be able to learn Rebel or Privateer pilot skills until you 'Surrender' the Imperial Pilot novice skill box.
+
+To surrender skills, open the Skills window (CTRL+S by default), click on the skill you wish to surrender and then click the 'Surrender' button. When surrendering Shipwright skills, you will be asked to confirm the removal of the skill. For Pilot skills, you will be given a waypoint to a broker for pilot's of your faction: Imperial, Rebel, or Neutral. You will need to speak with that broker in order to retire from your current branch of service as a pilot.
+"
+}}

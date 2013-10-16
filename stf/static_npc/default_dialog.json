@@ -1,10 +1,5 @@
-[
-'8':'its_ok',
-'7':'too_strong',
-'6':'too_weak',
-'5':'npc_continue',
-'4':'npc_quit',
-'3':'player_continue',
-'2':'player_quit',
-'1':'quit_quest',
-]
+{
+	"stfFile":"static_npc/default_dialog",
+	"entries": {
+		"its_ok":"I want the task anyway.",		"too_strong":"This task is beneath your capabilities.  Are you sure you want to do it?",		"too_weak":"The task I have seems beyond your capabilities. Come back when you're a bit stronger.",		"npc_continue":"Fine then.  Don't bother with me until you're ready to work for me.",		"npc_quit":"Fine.  You are now free of your prior obligation, and you can freely work for me.",		"player_continue":"No, I think I'll keep my current job, thanks.",		"player_quit":"I think I'd like to work for you.",		"quit_quest":"I can see that you're busy working for someone else at the moment.  Would you like to continue to do so, or would you like to work for me instead?"
+}}

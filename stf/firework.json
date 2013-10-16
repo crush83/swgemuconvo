@@ -1,21 +1,5 @@
-[
-'19':'prose_delay_update1',
-'18':'prose_delay_update',
-'17':'modify_delay_prompt',
-'16':'modify_delay_title',
-'15':'modify_index_prompt',
-'14':'modify_index_title',
-'13':'cannot_reorder',
-'12':'reorder_prompt',
-'11':'reorder_title',
-'10':'remove_prompt',
-'9':'remove_title',
-'8':'data_prompt',
-'7':'data_title',
-'6':'mnu_show_data',
-'5':'mnu_modify_event',
-'4':'mnu_remove_event',
-'3':'mnu_add_event',
-'2':'mnu_reorder_show',
-'1':'mnu_launch',
-]
+{
+	"stfFile":"firework",
+	"entries": {
+		"prose_delay_update1":"Event #%DI: delay set to 1 second.",		"prose_delay_update":"Event #%DI: delay set to %DF seconds.",		"modify_delay_prompt":"Select the amount of time (in tenths of a second) you would like to have as a delay between this event and the prior event.",		"modify_delay_title":"Delay Selection",		"modify_index_prompt":"Select the event index for which you would like to modify the delay time.",		"modify_index_title":"Event Modification",		"cannot_reorder":"The event reorder operation you have selected is not possible.",		"reorder_prompt":"Select the entry whose position you would like to modify and click the "Move Up" or "Move Down" button to update its position. Click "Done" when you are satisfied with the show event order.",		"reorder_title":"Reorder Show Events",		"remove_prompt":"Select the show event to remove then click "OK".",		"remove_title":"Remove Show Event",		"data_prompt":"The current status of your firework show is listed below.",		"data_title":"Firework Show Status",		"mnu_show_data":"Show Data",		"mnu_modify_event":"Modify Event",		"mnu_remove_event":"Remove Event",		"mnu_add_event":"Add Event",		"mnu_reorder_show":"Reorder Events",		"mnu_launch":"Launch"
+}}

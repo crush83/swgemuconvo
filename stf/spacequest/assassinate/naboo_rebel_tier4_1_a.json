@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_rebel_tier4_1_a",
+	"entries": {
+		"title_d":"The attack was led by an Inquisitor of the Empire. He's now trying to escape the lost battle, let's make sure that he pays for the attack!",		"title":"Endor system: Eliminate the escaping Inquisitor.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Brother Extok Evin: < %TO >",		"quest_target_t":"Imperial Inquisitor.",		"quest_target_d":"Inquisitors are always a dangerous foe. They are well trained, ruthless and have access to the best technology the Empire has to offer.",		"quest_location_t":"Endor system.",		"quest_location_d":"Even though the Imperial forces are confused by our strong counter attack, they still outnumber us and it will only be a moment before they regain morale.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"Bah, he got away! Return to base pilot.",		"escort_wiped_out":"Brother Extok Evin: < The escort is taken care of, now for the big prize! >",		"escort_remaining":"Brother Extok Evin: < Nice job pilot but don't let that Inquisitor escape! >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Splendid! This was truly a day of victories! Return to base for repairs and some well earned rest pilot.",		"arrival_phase_2":"Our reconnaissance ship has locked in on him. Intercept and terminate him pilot!",		"arrival_phase_1":"An Inquisitor was sent to oversee the annihilation of our shuttles. Now he's trying to escape, but we won't let him, will we?",		"Quest Log Data":"Text"
+}}

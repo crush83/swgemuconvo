@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_station_mission5b_3",
+	"entries": {
+		"title_d":"The whole operation to this point has been a distraction so that the Cloak leader could pass through the system while CorSec's attention was elsewhere. You must hurry and intercept him before he can hyperspace out.",		"title":"Corellia System: Destroy the Cloak Leader",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 CorSec Command: <\#pcontrast3  %TO\#pcontrast1  >",		"quest_target_t":"Destroy the Cloak Leader",		"quest_target_d":"You must intercept the Cloak leader and ensure his destruction. You must not allow him to hyperspace out of the system.",		"quest_location_t":"Remain in the Corellia System",		"quest_location_d":"The Cloak leader must not be allowed to escape. You should not leave the Corellia system until this mission is complete.",		"quest_escort_t":"Destroy the Leader's Escort",		"quest_escort_d":"All Cloak ships flying with the leader must be destroyed.",		"failed_escape":"The commander is not going to be pleased that you let the Cloak leader escape. Return to the station for debriefing.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer: <\#pcontrast3  All secondary targets destroyed.\#pcontrast1 >",		"escort_remaining":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Secondary target destroyed. %DI escort ships remaining.\#pcontrast1 >",		"destroy_escort":"Copy that. The Cloak leader is destroyed. Now take out the remaining escort craft.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Excellent work, pilot. The Cloak leader and his escort has been destroyed. Return to the station for debriefing.",		"arrival_phase_2":"We've plotted the Cloak leader's projected course. Intercept and destroy him. And hurry.",		"arrival_phase_1":"Listen up, pilot. This whole operation may have just been a distraction. The Cloak leader is passing through the system as we speak. Stand by."
+}}

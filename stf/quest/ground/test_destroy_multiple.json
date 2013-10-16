@@ -1,7 +1,5 @@
-[
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/test_destroy_multiple",
+	"entries": {
+		"task00_journal_entry_title":"Kill some Womprats",		"task00_journal_entry_description":"Go kill some womprats, and I'll be happy.",		"journal_entry_title":"Test Destroy Multiple",		"journal_entry_description":"Test the quest system for the "Destroy Multiple" task type. ",		"category":"Test"
+}}

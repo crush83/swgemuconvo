@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_rebel_tier3_4_d",
+	"entries": {
+		"title_d":"One of our reconnaissance ships spotted one of these new prototype fighters of the Empire. We've decided to launch an attack and try to find out as much as we can about the ship from its debris. You're ordered to assist in the attack pilot.",		"title":"Endor system: Help a Rebel Squadron fight the Empires prototype fighter.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Scythe Squadron Leader: < %TO >",		"quest_location_t":"Endor system.",		"quest_location_d":"You're heading back in to the areas heavily defended by Imperial forces. The good news is you will have reinforcements with you, the bad news is that you will fight a prototype fighter that may turn out to be very dangerous.",		"quest_helpallies_t":"Destroy the Imperial forces.",		"quest_helpallies_d":"Destroy all the Imperial forces in the vicinity. We can't take the risk of capturing that prototype fighter intact in such a hostile area, we'll just examine the debris after you have blown it to pieces.",		"quest_findbattle_t":"Battle coordinates.",		"quest_findbattle_d":"These are the coordinates supplied by our reconnaissance ship. The X-Wing squadron assisting you in the attack will meet you there.",		"found_loc":"The Empire is having a test of one of their new fighters at this location. We could use your help over here pilot.",		"enemies_win":"Pull out pilot, pull ou...",		"enemies_remain":"Tactical Computer: < Sensors show termination of enemy vessel. %DI enemy vessels remain. >",		"enemies_arrived":"The Imperial ships have detected us but they don't appear to withdraw, I guess they have trust in the capabilities of that new ship.",		"battle_started":"Lets show them that it doesn't matter what new ships they have, our skill is superior!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"I think they need to put that thing back in the garage for some more improvements. Return to base everyone, great job!",		"allies_remain":"Rebel pilot: < Taking heavy fire! Need help over he... >",		"allies_arrived":"Good to see you again pilot! Lets see what this new fighter of theirs can do.",		"Quest Log Data":"Text"
+}}

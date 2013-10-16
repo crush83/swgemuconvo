@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_tier4_4_d",
+	"entries": {
+		"title_d":"Remain in the Dathomir system and kill Onli Shi'en. Anderlock made a fatal error right before he perished. His distress signal gave away the position of the last priority target, Onli Shi'en. Onli is attempting to escape from the Dathomir system.",		"title":"Dathomir System: Kill Onli Shi'en",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy Onli Shi'en",		"quest_target_d":"Once you have intercepted Onli Shi'en in the Dathomir system, kill him.",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"Remain in the Dathomir system and intercept Onli Shi'en's fighter.",		"quest_escort_t":"Destroy Onli Shi'en's Escort",		"quest_escort_d":"Destroy all who fly with Onli Shi'en. Once you have completed this task return to your commander.",		"failed_escape":"Pilot, your orders were very clear. You were to destroy Onli Shi'en and all with him. By letting him get away, you have allowed his plans to continue. Return and report your failure to you superior.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Escort fighters destroyed.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"Nice work on destroying Shi'en, but there are still escort fighters that were with him alive. They all must be destroyed.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"You are a true servant of the Emperor. Make you final report to your commander.",		"arrival_phase_2":"We have a lock on the vessel. It is Onli Shi'en, the last of the enemy we are hunting. Destroy him and all that are flying with him.",		"arrival_phase_1":"We are getting a lock on the location of the ship that received the distress signal now. Stand by.",		"Quest Log Data":"Text"
+}}

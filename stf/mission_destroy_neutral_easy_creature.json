@@ -1,7 +1,5 @@
-[
-'5':'destroy_neutral_easy_creature_5',
-'4':'destroy_neutral_easy_creature_4',
-'3':'destroy_neutral_easy_creature_3',
-'2':'destroy_neutral_easy_creature_2',
-'1':'destroy_neutral_easy_creature_1',
-]
+{
+	"stfFile":"mission_destroy_neutral_easy_creature",
+	"entries": {
+		"destroy_neutral_easy_creature_5":"A particularly virulent strain of disease is progressing through the wildlife in this area.  In order to halt the spread of the virus we need the local wildlife to be depleted, to keep the virus contained to the creatures it's already affected.",		"destroy_neutral_easy_creature_4":"A pest problem is occurring in this area.  Local residents and hunters are wiling to pay to have the area cleansed of the pests.",		"destroy_neutral_easy_creature_3":"To facilitate the building of a possible new transportation system we need to eliminate the abundant wildlife in this area.",		"destroy_neutral_easy_creature_2":"The wildlife around this area has blossomed due to the accidental destruction of most of the area's predators.  In order to balance the wildlife ecology the specified creatures must be eliminated posthaste.",		"destroy_neutral_easy_creature_1":"The local wildlife in this area is causing problems with the ecology.  There is an overabundance of the specified creatures, which is causing plantlife to falter.  This situation must be dealt with immediately."
+}}

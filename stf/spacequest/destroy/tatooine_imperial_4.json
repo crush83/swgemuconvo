@@ -1,14 +1,5 @@
-[
-'12':'title_d',
-'11':'title',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/tatooine_imperial_4",
+	"entries": {
+		"title_d":"The Commerce Raiders are becoming a problem that is quickly growing out of control. Intelligence has managed to get a lock on where the pirate's leader is laying low. Without their leader, Imperial Command hopes that the pirates will lose a great deal of their effectiveness. You are to destroy this leader.",		"title":"Eliminate Pirate Leader",		"split_quest_alert":"",		"quest_location_t":"Travel to the Tatooine Sector",		"quest_location_d":"Intelligence reports that the leader is staged along a busy commerical route in the Tatooine sector. You will recieve a Nav location to the Commerce Raider Leader's last confirmed location on reaching the Tatooine sector.",		"quest_destroy_t":"Destroy the Commerce Raider Leader",		"quest_destroy_d":"In order for the Empire to have any control over these nefarious pirates you will have to take out their leader. Destroy the Commerce Raider Leader.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

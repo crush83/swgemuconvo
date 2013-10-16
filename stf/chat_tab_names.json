@@ -1,3 +1,5 @@
-[
-'1':'auction',
-]
+{
+	"stfFile":"chat_tab_names",
+	"entries": {
+		"auction":"Auction"
+}}

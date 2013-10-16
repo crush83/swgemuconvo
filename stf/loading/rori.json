@@ -1,12 +1,9 @@
-[
-'10':'rori_gungans',
-'9':'restuss',
-'8':'rori_miners',
-'7':'kobola_spice_miners',
-'6':'rorian_gungans',
-'5':'garyn_raiders',
-'4':'cobral_renegades',
-'3':'narmle',
-'2':'rori',
-'1':'squall',
-]
+{
+	"stfFile":"loading/rori",
+	"entries": {
+		"rori_gungans":"A group of Gungans relocated to Rori shortly after the peace was brokered between Boss Nass and Queen Amidala as a result of the Battle of Naboo. Rorian Gungans were violently opposed to any alliance between humans and Gungans. Living in relative isolation on Rori, they have become territorial, paranoid, and increasingly violent.  They are now likely to attack any beings who come into their territory on sight.",		"restuss":"One of two original cities, Restuss is one of the few vestiges of a civilized existence on Rori. It is here you find modern comforts such as banks, cloning centers, and hotels.",		"rori_miners":"Officially known as the Rori Spice Mining Collective, a group of honest spice miners who sell their goods to pharmaceutical companies.  They often engage in turf wars with the Kobola spice miners.",		"kobola_spice_miners":"A group of criminal spice miners who have established a foothold on Naboo and Rori. The Kobola spice miners sell their spice to the Hutts.  They are a violent group, often at war with both the Rorian Gungans and the Rori Spice Mining Collective.",		"rorian_gungans":"A group of gungans that relocated to Rori shortly after the peace brokered between Boss Nass and Queen Amidala as a result of the Battle of Naboo. Rorian Gungans were violently opposed to any alliance between humans and Gungans. Living in relative isolation on Rori, they have become territorial, paranoid, and increasingly violent.  They are now likely to attack any beings who come into their territory on sight.",		"garyn_raiders":"Ex-vigos of Alexi Garyn who managed (through luck and coincidence) to avoid Darth Maul's destruction of Garyn's organization. They are fiercely loyal to their leader, who was drowned by Darth Maul. They have since banded together on Rori to base their operations to harass Imperial troops and avenge their fallen leader.",		"cobral_renegades":"A criminal organization made up of former members of The Cobral - a powerful criminal faction lead by the crime family, Cobral, on the planet Frego. The Cobral family lost their power and authority shortly before the Battle of Naboo, but some members of the organization fled to Rori.",		"narmle":"One of two original cities, Narmle is one of the few vestiges of a civilized existence on Rori. It is here you find modern comforts such as banks, cloning centers, and hotels.",		"rori":"A moon of Naboo, Rori has a similar ecosystem to Naboo, but is less densely populated, and rich with resources.",		"squall":"Squalls, not a native lifeform of Rori, have been allowed to procreate unchecked since the inception of the New Order.
+
+The Squall, a docile rodent with long ears and a bushy tail, is a free-roaming creature found upon Rori.
+
+It is not uncommon to find packs of Squalls wandering into town, foraging for food.  The traffic jams that result from this disruption can take hours to clear."
+}}

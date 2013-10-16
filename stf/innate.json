@@ -1,16 +1,5 @@
-[
-'14':'innate_na',
-'13':'innate_wait',
-'12':'roar_active',
-'11':'roar_wait',
-'10':'equil_wait',
-'9':'equil_active',
-'8':'vit_active',
-'7':'vit_wait',
-'6':'regen',
-'5':'equil',
-'4':'vit',
-'3':'roar',
-'2':'regen_active',
-'1':'regen_wait',
-]
+{
+	"stfFile":"innate",
+	"entries": {
+		"innate_na":"Innate command parameter '%TO' is not available for your species.",		"innate_wait":"Innate ability: %TT unavailable. Command available in %TO.",		"roar_active":"You let out a mighty roar.",		"roar_wait":"You are still recovering from your last roar. Command available in %DI seconds.",		"equil_wait":"You are still recovering from your last equilization. Command available in %DI seconds.",		"equil_active":"Through sheer willpower, you force yourself into a state of equilibrium.",		"vit_active":"You feel adrenaline pour into your bloodstream as you become more vitalized.",		"vit_wait":"You are still recovering from your last vitalization. Command available in %DI seconds.",		"regen":"regeneration",		"equil":"equilibrium",		"vit":"vitalize",		"roar":"roar",		"regen_active":"You feel your blood course through your veins as your body begins to regenerate.",		"regen_wait":"You are still recovering from your last regeneration. Command available in %DI seconds."
+}}

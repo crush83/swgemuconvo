@@ -1,29 +1,5 @@
-[
-'27':'view',
-'26':'shield_recharge_rate',
-'25':'shield_front_hp_max',
-'24':'shield_front_hp',
-'23':'shield_back_hp_max',
-'22':'shield_back_hp',
-'21':'purgedroid',
-'20':'mass_max',
-'19':'mass',
-'18':'launch',
-'17':'help_details_viewer',
-'16':'engine_yaw_max',
-'15':'engine_yaw_accel',
-'14':'engine_speed_max',
-'13':'engine_roll_max',
-'12':'engine_roll_accel',
-'11':'engine_pitch_max',
-'10':'engine_pitch_accel',
-'9':'droid_tab',
-'8':'droid_slot',
-'7':'cpt_shipcomponent',
-'6':'component_tab',
-'5':'chassis_hp_max',
-'4':'chassis_hp',
-'3':'capacitor_recharge_rate',
-'2':'capacitor_max',
-'1':'capacitor',
-]
+{
+	"stfFile":"ui_shipcomponent",
+	"entries": {
+		"view":"View",		"shield_recharge_rate":"Shield Recharge Rate",		"shield_front_hp_max":"Front Shield (Max)",		"shield_front_hp":"Front Shield",		"shield_back_hp_max":"Back Shield (Max)",		"shield_back_hp":"Back Shield",		"purgedroid":"Remove Droid from the Ship",		"mass_max":"Mass (Max)",		"mass":"Mass",		"launch":"Launch",		"help_details_viewer":"Use this interface to install or uninstall components within your starship. All available ship equipment slots and all the components you possess are listed in the far left column. Items that are installed on your ship are shown in highlight on this list. Items not yet installed are shown with normal text. Click on the item you wish to install and then click the 'Install' button. If you have an installed component you wish to remove, select the installed component and choose 'uninstall.'",		"engine_yaw_max":"Yaw (Max)",		"engine_yaw_accel":"Yaw Acceleration",		"engine_speed_max":"Speed (Max)",		"engine_roll_max":"Roll (Max)",		"engine_roll_accel":"Roll Acceleration",		"engine_pitch_max":"Pitch (Max)",		"engine_pitch_accel":"Pitch Acceleration",		"droid_tab":"Droid",		"droid_slot":"Droid Slot",		"cpt_shipcomponent":"Ship Component Management",		"component_tab":"Components",		"chassis_hp_max":"Chassis (Max)",		"chassis_hp":"Chassis",		"capacitor_recharge_rate":"Capacitor Recharge Rate",		"capacitor_max":"Capacitor (Max)",		"capacitor":"Capacitor"
+}}

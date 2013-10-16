@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_rendezvous2_t',
-'18':'quest_rendezvous2_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_dock2_t',
-'14':'quest_dock2_d',
-'13':'hello_d',
-'12':'found_loc_d',
-'11':'failed_destroyed',
-'10':'docking_started_delivery',
-'9':'docking_complete_delivery',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_delivery',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/corellia_rebel_tier4_2_a",
+	"entries": {
+		"title_d":"The wreck of the Imperial Inquisitor you so efficiently terminated had some important data in it. Deliver this to one of our cunning smugglers immediately but be swift, the Empire is chasing you.",		"title":"Deliver Inquisitor data to Alliance Smuggler.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Worvog Arkon: < %TO >",		"quest_rendezvous2_t":"Smuggler coordinates.",		"quest_rendezvous2_d":"The Rebel smuggler has sent us these coordinates as your rendez-vous point. Get there quickly!",		"quest_location_t":"Dathomir system.",		"quest_location_d":"No time to consider your path. Bolt for our smuggler, quickest route possible. Try to avoid contact with any extra hostile presence if you can but get there fast! The longer you fly around, the more of the Imperial forces will be able to track you down.",		"quest_dock2_t":"Dock and transfer data.",		"quest_dock2_d":"Before you dock and transfer the data to the smuggler, make sure that the surrounding area is clear of enemy presence. Both your ships will be very vulnerable during the docking process and hostile fighters can make quick work of you if any of them are around.",		"hello_d":"G'day. Lets do this quickly, I don't like lingering around here.",		"found_loc_d":"The closest Rebel Smuggler can meet you at this location. Get there as fast as you can.",		"failed_destroyed":"What are you doing up there pilot? Sleeping? That man was a valuable asset! Return to base, now!",		"docking_started_delivery":"Docking, be ready to transfer that data.",		"docking_complete_delivery":"Alright I got it. Lets get out of here.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < No more fighter vessels within sensor range. >",		"attack_notify":"Tactical Computer: < Incoming fighter vessels. Scans show weapons armed. >",		"assigned_delayed":"",		"arrived_at_delivery":"Dock with the smuggler and get out of there quickly before more of the Empire's goons show up.",		"Quest Log Data":"Text"
+}}

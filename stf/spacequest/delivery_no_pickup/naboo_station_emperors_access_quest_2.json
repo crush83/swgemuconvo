@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_rendezvous2_t',
-'17':'quest_rendezvous2_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_dock2_t',
-'13':'quest_dock2_d',
-'12':'hello_d',
-'11':'found_loc_d',
-'10':'failed_destroyed',
-'9':'docking_started_delivery',
-'8':'docking_complete_delivery',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_delivery',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/naboo_station_emperors_access_quest_2",
+	"entries": {
+		"title_d":"The crew of the freighter you rescued in the Naboo system asked you to deliver their suspicions that the Rebels uncovered the Imperial freighter route in the Yavin system and are planning an attack.",		"title":"Yavin system: Delivering the bad news.",		"split_quest_alert_fail":"",		"split_quest_alert":"Imperial Space Station: < This couldn't have come at a worse time since we are terminating pirates in another sector of the debris field. Although you're not under my command, I'd appreciate if you flew out to where the freighter was attacked and recon the area. >",		"quest_update":"Imperial Space Station: < %TO >",		"quest_rendezvous2_t":"Security meeting coordinates.",		"quest_rendezvous2_d":"The security commander of the Yavin Imperial space station has ordered you to fly to these coordinates immediately.",		"quest_location_t":"Yavin system.",		"quest_location_d":"The Yavin system is heavily guarded by Imperial forces but there's still a rogue presence with unscrupulous bounty hunters, pirates and mercenaries so don't feel too safe.",		"quest_dock2_t":"Security scan.",		"quest_dock2_d":"You need to dock with the TIE Interceptor so he can confirm your identity and scan your ship for anything dangerous or illegal.",		"hello_d":"Pilot, shut down your weapon systems and dock with me for identity confirmation and scan.",		"found_loc_d":"This is the security commander of the Yavin system Imperial station. Continue to these coordinates immediately and prepare to identify yourself.",		"failed_destroyed":"We have enough problems here as it is and don't need you to lead Rebel scum to our operations. Get out of here!",		"docking_started_delivery":"Everything looks to be in order and his ship is clear of contraband commander. Now, why are you here?",		"docking_complete_delivery":"Rebels that have uncovered our freighter routes you say? I would have said you're crazy, but those Rebels attacking you on your way here does confirm that something is going on. Stand by.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < No more fighter vessels within sensor range. >",		"attack_notify":"Tactical Computer: < Incoming fighter vessels. Scans show weapons armed. >",		"assigned_delayed":"",		"arrived_at_delivery":"Hold your position pilot, we are sending over a TIE to scan your ship."
+}}

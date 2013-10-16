@@ -1,22 +1,5 @@
-[
-'20':'npc_msn_04_done_01',
-'19':'npc_msn_04_decline',
-'18':'npc_msn_04_greeting_onothermission',
-'17':'npc_msn_04_friend_work_01',
-'16':'npc_msn_04_friend_greeting_onmission',
-'15':'npc_msn_04_friend_greeting_02',
-'14':'npc_msn_04_greeting_onmission',
-'13':'npc_msn_04_greeting_02',
-'12':'npc_msn_04_friend_greeting_01',
-'11':'npc_msn_04_presp_getmission_05',
-'10':'npc_msn_04_presp_getmission_04',
-'9':'npc_msn_04_presp_getmission_03',
-'8':'npc_msn_04_work_01',
-'7':'npc_msn_04_presp_getmission_02',
-'6':'npc_msn_04_presp_getmission_01',
-'5':'npc_msn_04_work_02',
-'4':'npc_msn_04_busy_01',
-'3':'npc_msn_04_presp_greeting_02',
-'2':'npc_msn_04_presp_greeting_01',
-'1':'npc_msn_04_greeting_01',
-]
+{
+	"stfFile":"npc_mission/npc_mission_04",
+	"entries": {
+		"npc_msn_04_done_01":"Good, get out of my sight.  I've had it with you too.",		"npc_msn_04_decline":"Oh my.  Well, I'll have to wait for someone else then...",		"npc_msn_04_greeting_onothermission":"Aren't you a little busy to be talking to me right now?",		"npc_msn_04_friend_work_01":"You should speak to my friend. There's work to be done, but it's far too dangerous for me!",		"npc_msn_04_friend_greeting_onmission":"Aren't you supposed to be helping my friend, here?",		"npc_msn_04_friend_greeting_02":"Nice to see you again.",		"npc_msn_04_greeting_onmission":"Are you STILL not done with that job?",		"npc_msn_04_greeting_02":"You again.",		"npc_msn_04_friend_greeting_01":"Well, hello!",		"npc_msn_04_presp_getmission_05":"I've had about enough of you.",		"npc_msn_04_presp_getmission_04":"What is your problem?",		"npc_msn_04_presp_getmission_03":"I guess so.",		"npc_msn_04_work_01":"Doesn't everybody?",		"npc_msn_04_presp_getmission_02":"I can do whatever needs to be done.",		"npc_msn_04_presp_getmission_01":"Well, let's get to it then.",		"npc_msn_04_work_02":"I need this job done now.  Not later.  Now.",		"npc_msn_04_busy_01":"Not only are you late you're incompetent?  Is that what's happened?",		"npc_msn_04_presp_greeting_02":"About time?  What do you mean?",		"npc_msn_04_presp_greeting_01":"I need a job.",		"npc_msn_04_greeting_01":"Well it's about time you showed up."
+}}

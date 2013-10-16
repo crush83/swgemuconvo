@@ -1,3 +1,5 @@
-[
-'1':'housing',
-]
+{
+	"stfFile":"kb/kb_housing_n",
+	"entries": {
+		"housing":"Player Housing"
+}}

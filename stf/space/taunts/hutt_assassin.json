@@ -1,22 +1,5 @@
-[
-'20':'hityou5',
-'19':'hityou4',
-'18':'hityou3',
-'17':'hityou2',
-'16':'hityou1',
-'15':'gothit5',
-'14':'gothit4',
-'13':'gothit3',
-'12':'gothit2',
-'11':'gothit1',
-'10':'entercombat5',
-'9':'entercombat4',
-'8':'entercombat3',
-'7':'entercombat2',
-'6':'entercombat1',
-'5':'death5',
-'4':'death4',
-'3':'death3',
-'2':'death2',
-'1':'death1',
-]
+{
+	"stfFile":"space/taunts/hutt_assassin",
+	"entries": {
+		"hityou5":"Die, infidel! You have angered Jabba!",		"hityou4":"We will not fail!",		"hityou3":"We are Jabba's assassins and we shall prevail!",		"hityou2":"Ha ha! Luck is on my side now!",		"hityou1":"For Jabba!",		"gothit5":"Argh! Luck may be with you this time.. but not the next, %NU!",		"gothit4":"Even if I die, Jabba will find you again!",		"gothit3":"A lucky shot! Jabba's assassins will destroy you!",		"gothit2":"Jabba, be with me as I kill this infidel!",		"gothit1":"You will not win, %NU!",		"entercombat5":"May you die a slow, painful death for the disrespect you have shown Jabba!",		"entercombat4":"We shall eliminate you for denying Jabba the help he deserves!",		"entercombat3":"We're Jabba's assassins, sent to destroy you for denying him the help he requested of you!",		"entercombat2":"We have been sent by Jabba to destroy you! Never refuse to help him!",		"entercombat1":"You have refused to help Jabba! You will die for your insolence!",		"death5":"Be wary, for Jabba's assassins will be there, hunting you, when you least expect it!",		"death4":"%NU, your day will come!",		"death3":"Jabba will get you for this, %NU!",		"death2":"My allies will avenge me!",		"death1":"Jabba, I have failed you!"
+}}

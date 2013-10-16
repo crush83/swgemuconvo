@@ -1,31 +1,34 @@
-[
-'29':'bfq329',
-'28':'bfq328',
-'27':'bfq327',
-'26':'bfq326',
-'25':'bfq325',
-'24':'bfq324',
-'23':'bfq323',
-'22':'bfq322',
-'21':'bfq321',
-'20':'bfq320',
-'19':'bfq319',
-'18':'bfq318',
-'17':'bfq317',
-'16':'bfq316',
-'15':'bfq315',
-'14':'bfq314',
-'13':'bfq313',
-'12':'bfq312',
-'11':'bfq311',
-'10':'bfq310',
-'9':'bfq39',
-'8':'bfq38',
-'7':'bfq37',
-'6':'bfq36',
-'5':'bfq35',
-'4':'bfq34',
-'3':'bfq33',
-'2':'bfq32',
-'1':'bfq31',
-]
+{
+	"stfFile":"bib_newbie_quest_3",
+	"entries": {
+		"bfq329":"Good work! Jabba will be very pleased. Speaking of which - I wish to give you this letter of introduction. I am too busy to introduce you to Jabba myself... but he will be expecting you, and he will be eager to speak with you.
+",		"bfq328":"Search these traitors for their orders. I want you to bring their official orders back to me at the palace as soon as you find them.
+",		"bfq327":"Good. Now I want to know who this traitor was planning to meet. Examine the data disc and find the coordinates for his rendezvous. Go there and eliminate his contacts.
+",		"bfq326":"Encryption broken. That was easy! Here you go. I hope to see you again sometime.
+",		"bfq325":"Bib Fortuna told me to expect you. You have the disc? Let me have it.
+",		"bfq324":"The traitor should have a data disc on him. Find it and take it to our friend Beek at the Third Sun Hotel in Bestine. He will decode the disc.
+",		"bfq323":"No! Hutt enforcer! No! You DIE! You DIE!
+",		"bfq322":"You call me a liar?! LISTEN: She was young, she was beautiful, and she was in love with me, and she was a girl, and she wanted me because I'm a big winner at the casino and her boyfriend COULDN'T HANDLE IT! Good Bye!
+",		"bfq321":"I don't know where in Bestine... but it's your best bet. You should go there now. I need to get back to traveling. There will certainly be more bounty hunters and thugs to plague me. Being a man in my position is no easy business. Good bye! And, again... thanks for saving me.
+",		"bfq320":"You sure about the girl? Bib told me you gamble too much.
+",		"bfq319":"Where in Bestine?
+",		"bfq318":"When I was touring the casinos, his girlfriend fell in love with me. Poor girl - I had to leave her behind.
+",		"bfq317":"He is named Enic Yunga and he is probably somewhere near Bestine - on his way to meet his contacts.
+",		"bfq316":"Why was the bounty hunter after you?
+",		"bfq315":"Who is the traitor in Jabba's palace?
+",		"bfq314":"Not bad. That bounty hunter had no idea who he was dealing with.
+",		"bfq313":"Go to Romo Vax and protect him from the bounty hunter. Then talk to Vax and learn everything you can about the traitor. I will contact you with further instructions then.
+",		"bfq312":"What do you want me to do?
+",		"bfq311":"Romo told me that the traitor had a name... and that I could learn the name if I sent someone to save his life. You see, he's amassed some enormous gambling debts in other systems, which he'll never be able to pay, and they've sent a bounty hunter to kill him. He called to me from the Jundland Wastes - where he is now hiding.
+",		"bfq310":"No. Only Romo Vax knows the traitor's name - and he won't give it up until someone, meaning you, comes to help him. You see, Romo has amassed some huge gambling debts in other systems... that he'll never be able to pay. Now, Romo is in the Jundland Wastes hiding from a bounty hunter.
+",		"bfq39":"You will find Romo Vax hiding in the Jundland Wastes. Seems that he has run up some bad debts on other systems and is being pursued by a bounty hunter.
+",		"bfq38":"What did Vax tell you about the traitor?
+",		"bfq37":"Do you know who the traitor is?
+",		"bfq36":"Where do I find Romo Vax?
+",		"bfq35":"Because if you complete this next task properly, I assure you - Jabba will be most impressed. You see - your job is to root out a traitor... one who operates right under our noses. Our good friend Romo Vax has told me that the traitor exists - but nothing else.
+",		"bfq34":"Someone is out to betray Jabba. Our good friend Romo Vax has sent word of a traitor in our midst.
+",		"bfq33":"Why not introduce me to Jabba now?
+",		"bfq32":"That sounds good. What task?
+",		"bfq31":"You have done well. Our friends throughout the palace are in your debt. I should like very much to introduce you to Jabba himself... once you have performed one final task.
+"
+}}

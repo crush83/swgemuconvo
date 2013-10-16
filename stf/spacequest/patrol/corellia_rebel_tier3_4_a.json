@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/corellia_rebel_tier3_4_a",
+	"entries": {
+		"title_d":"We have lost contact with one of our squadrons and it is our hope that you can find them, or at least find out what happened to them. Search the area where they were last heard from.",		"title":"Endor system: Investigate area where Magenta squadron vanished.",		"split_quest_alert_fail":"",		"split_quest_alert":"Tactical Computer: < Sensors show several incoming fighter vessels, their targeting systems is trying to lock on this vessel. >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Last area of contact from Magenta squadron.",		"quest_patrol_d":"Search the designated area for any sign of what happened to Magenta squadron.",		"quest_location_t":"Endor system.",		"quest_location_d":"The Endor system seem to have more Imperial fighters than asteroids lately so it doesn't take a genius to guess what happened to Magenta squadron but we don't leave anyone behind if we can help it.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

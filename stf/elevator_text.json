@@ -1,7 +1,5 @@
-[
-'5':'lowest_floor',
-'4':'highest_floor',
-'3':'too_far',
-'2':'down',
-'1':'up',
-]
+{
+	"stfFile":"elevator_text",
+	"entries": {
+		"lowest_floor":"You are already on the lowest floor",		"highest_floor":"You are already on the highest floor",		"too_far":"You are too far away to use that.",		"down":"DOWN",		"up":"UP"
+}}

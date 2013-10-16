@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_privateer_tier2_1a",
+	"entries": {
+		"title_d":"Destroy the Ay'Nat Outlaws - Part I: First Mark: Ay'Nat Enforcer",		"title":"Naboo System: Destroy the Ay'Nat Enforcer",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 Tracking the second target now, prepare yourself. \#pcontrast3 >",		"quest_update":"\#pcontrast3 < %TO >",		"quest_target_t":"Ay'Nat Enforcer",		"quest_target_d":"An Ay'Nat Enforcer wanted for grevious attacks against the people of Naboo.",		"quest_location_t":"Naboo System",		"quest_location_d":"Somewhere in the Naboo System",		"quest_escort_t":"Ay'Nat Ghost",		"quest_escort_d":"Unimportant to this mission, target of opportunity",		"failed_escape":"The target has escaped, you fail.",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting ship has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Must destroy escort. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 RSF Command: < \#pcontrast1 The Enforcer is down, be ready for the second target's location. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 RSF Command: < \#pcontrast1 Location has been uploaded to you, be weary he is not alone. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 RSF Command: < \#pcontrast1 Tracking first target, stand by. \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

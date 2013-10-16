@@ -1,11 +1,5 @@
-[
-'9':'willpower',
-'8':'focus',
-'7':'mind',
-'6':'stamina',
-'5':'quickness',
-'4':'action',
-'3':'constitution',
-'2':'strength',
-'1':'health',
-]
+{
+	"stfFile":"att_n",
+	"entries": {
+		"willpower":"Willpower",		"focus":"Focus",		"mind":"Mind",		"stamina":"Stamina",		"quickness":"Quickness",		"action":"Action",		"constitution":"Constitution",		"strength":"Strength",		"health":"Health"
+}}

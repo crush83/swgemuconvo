@@ -1,33 +1,93 @@
-[
-'31':'garage',
-'30':'findgarage',
-'29':'findbarracks',
-'28':'barracks',
-'27':'findtavern',
-'26':'tavern',
-'25':'findmedicalcenter',
-'24':'medicalcenter',
-'23':'finduniversity',
-'22':'university',
-'21':'findcommerceguild',
-'20':'commerceguild',
-'19':'findcombatguild',
-'18':'combatguild',
-'17':'findshuttleport',
-'16':'shuttleport',
-'15':'findstarport',
-'14':'starport',
-'13':'findtheater',
-'12':'theater',
-'11':'findhospital',
-'10':'hospital',
-'9':'findhotel',
-'8':'hotel',
-'7':'findcantina',
-'6':'cantina',
-'5':'findcloningfacility',
-'4':'cloningfacility',
-'3':'findbank',
-'2':'bank',
-'1':'importantbuildings',
-]
+{
+	"stfFile":"kb/kb_buildings_d",
+	"entries": {
+		"garage":"Garages are used by the busy traveler to keep their speeder craft in top condition.  Just pull up close and give the "repair" command for prompt automated service.",		"findgarage":"Help Me Find a Garage",		"findbarracks":"Help Me Find a Barracks",		"barracks":"Originally used by the military, barracks are a type of all-purpose building. These structures provide the function of a cantina, medical center, and hotel. They are not very common anymore and usually can be found only in small towns, settlements, or outposts.
+
+Inside these structures, you can have your health and action wounds healed by a doctor or medic, as well as have your mind wounds healed and your Battle Fatigue lowered by entertainers. 
+
+Additionally, barracks also provide a safe logout from the game in the same manner as a hotel.
+
+
+",		"findtavern":"Help Me Find a Tavern",		"tavern":"Taverns are very much like a combination of a cantina and a medical center. You will most likely see these in small towns, settlements, or outposts.
+
+Inside these structures, you can have your health and action wounds healed by a doctor or medic, as well as have your mind wounds healed and your Battle Fatigue lowered by entertainers.
+
+
+",		"findmedicalcenter":"Help Me Find a Medical Center",		"medicalcenter":"After particularly harrowing battles, many adventurers can be seen visiting a medical center. Medical practitioners will often wait here to offer aid to those who have wounds in need of healing.
+
+While in a medical center, you are able to have your health and action wounds healed by a medic or doctor. Master medics can also normally be found at these locations, offering training to younger members of the medical profession.
+
+You may wish to visit a cantina to reduce your Battle Fatigue before visiting a medical center. Research has shown that bacta treatments are less effective against patients that are overly fatigued.
+
+
+",		"finduniversity":"Help Me Find a University",		"university":"At a university, masters of the medical and entertainment professions often come to study their art. You are likely to find entertainer and medic trainers, among others, here practicing their trade and teaching aspiring students.
+
+If you cannot find the medical or performance artist trainer that you are looking for at a university, worry not. Several advanced trainers are scattered throughout the galaxy in major cities and settlements.
+
+
+",		"findcommerceguild":"Help Me Find a Commerce Guild",		"commerceguild":"Masters of the exploration and trade professions are on hand at commerce guilds. Artisan and scout trainers are an example of the mentors that are ready to teach young apprentices in the fields of commerce.
+
+Do not worry if you are not able to find the commerce trainer that you need at a commerce guild. Several advanced commerce trainers are scattered throughout the galaxy in major cities and settlements.
+
+
+",		"findcombatguild":"Help Me Find a Combat Guild",		"combatguild":"Combat guilds keep on staff masters of the combat professions that have chosen to dedicate their time training younger students. Marksman and brawler trainers are a few of the professionals that can be found at these locations.
+
+If you are not able to find the combat trainer that you need at a combat guild, don't despair. Several advanced combat trainers are scattered throughout the galaxy in major cities and settlements.
+
+
+",		"findshuttleport":"Help Me Find a Shuttleport",		"shuttleport":"Shuttleports are extremely handy if you would like to travel from city to city without having to walk. A shuttle can fly to any other starport or shuttleport on the same planet. 
+
+In order to board a shuttle, you will first need to buy a ticket from the ticket terminal. When the shuttle is ready, give your ticket to the nearby ticket collector to climb on board.
+
+If a shuttle is not currently boarding, you can ask the ticket collector when the next one will arrive.
+
+
+",		"findstarport":"Help Me Find a Starport",		"starport":"Starports are generally a center of activity for those wanting to travel. Catch a transport ship here if you find yourself wanting to relocate to a new planet.
+
+In order to board a transport ship, you will first need to buy a ticket from a ticket terminal inside the starport. Transports have a set route on which they fly, so if you do not see your desired destination on the ticket terminal, you may need to stop over on a planet that has a route to where you want to go. When the transport is ready, give your ticket to the ticket collector to climb on board.
+
+If a transport is not currently boarding, you can ask the ticket collector when the next one will arrive.
+
+
+",		"findtheater":"Help Me Find a Theater",		"theater":"Inside a theater, you can find a large stage where plays, concerts, and other types of live entertainment can be produced. The seating area will accommodate a large audience, eager to see your performance art.
+
+Masters of the entertainment professions can also be found in theaters. Usually they are willing to train younger apprentices in the theatrical arts for a fee.
+
+As a common courtesy, if you enter a theater while a performance is in progress, please keep your voice down until the performance is over.
+
+
+",		"findhospital":"Help Me Find a Hospital",		"hospital":"Hospitals are very similar to medical centers, except larger and therefore able to accommodate more doctors and more patients. These three-story buildings are usually only found in the wealthiest of major cities.
+
+As with medical centers, you are able to have your health and action wounds healed by medics or doctors. Aspiring young medics can also come here to receive training from one of the medical professionals kept on staff.
+
+
+",		"findhotel":"Help Me Find a Hotel",		"hotel":"Hotels are able to offer you an extra level of safety that may not be available when concluding your adventures in the wilderness. Additionally, some larger hotels found in major cities also have a small cantina built inside, at which one can reduce Battle Fatigue and heal mind wounds.
+
+Normally, when logging out of Star Wars Galaxies, your character will remain in the world for up to thirty seconds. However, when you log out of the game while inside of a hotel, your character will be instantly removed from the world.
+
+
+",		"findcantina":"Help Me Find a Cantina",		"cantina":"Many adventurers enjoy visiting a local cantina after a long days work as a place to socialize and relax. People of all professions can usually be found there, basking in the lively atmosphere.
+
+Cantinas will often have visiting entertainers that will dance or play music for the patrons. Watching or listening to these performers is an effective way of reducing Battle Fatigue and healing Mind wounds.
+
+Don't forget that you can use the /tip command to offer a gratuity to your favorite entertainer.
+
+
+",		"findcloningfacility":"Help Me Find a Cloning Facility",		"cloningfacility":"Cloning facilities will normally house cloning terminals and insurance terminals, both of which can come in handy in the unfortunate circumstance of your character's death.
+
+Using a cloning terminal, you may pay a fee to have your clone information stored at that particular facility. Insurance terminals will insure your items against loss due to death, again for a small fee.
+
+In the event that your character does die, you will be given the choice to have your clone created at the nearest cloning facility, or at the most recent facility in which your clone data is stored. Any insured items will be replaced in your inventory upon construction of your clone. Uninsured items will need to be retrieved from your corpse.
+
+Keep in mind that once your insured items are returned, you will need to insure them again in order to have them returned the next time that you die.
+
+
+",		"findbank":"Help Me Find a Bank",		"bank":"In most major cities, banking terminals and usually bazaar terminals, can be found in these large outdoor structures. The banking terminals found at these locations allow you to store and/or retrieve your credits and items. 
+
+However, please be aware that while the credits you deposit may be withdrawn from any planet, the items that you place into a bank may only be removed from a terminal on the same planet on which they were stored.
+
+You may find banking and bazaar terminals in other places without a bank structure. Many times these can be seen in small settlements or outposts, which find it necessary to maintain only a handful of terminals.
+
+
+",		"importantbuildings":"In the course of your adventures, you may travel to some new and exciting cities, towns, and outposts. In many of these locations, you will find a variety of buildings, several of which provide a special and unique purpose. This is a list of some of those buildings and the services they provide."
+}}

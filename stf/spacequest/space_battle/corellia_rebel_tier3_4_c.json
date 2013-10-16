@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_rebel_tier3_4_c",
+	"entries": {
+		"title_d":"Blue squadron was ordered to terminate a TIE bomber squadron. Unfortunately the Imperial bombers got reinforced by TIE fighters. Our Y and B-Wings have a hard time defeating these small ships and need your assistance.",		"title":"Endor system: Assist Blue Squadron in destroying a TIE Bomber wing.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Fleet Command: < I got the report, good job pilot. We are about ready to get out of here but the Empire is launching a last desperate attack. >",		"quest_update":"Blue Squadron Leader: < %TO >",		"quest_location_t":"Endor system.",		"quest_location_d":"Small skirmishes are blossoming up all over the Endor system as the Empire is trying to find the location of the Rebel fleet. Although this was an attack by our ships, it turned ugly by the presence of the fast TIE fighters.",		"quest_helpallies_t":"Assist Blue Squadron.",		"quest_helpallies_d":"Concentrate on the small and fast TIE fighters first, those are the ships our heavy B and Y-Wings have a hard time fighting.",		"quest_findbattle_t":"Blue Squadrons location.",		"quest_findbattle_d":"This is the location of the Blue Squadron, hurry over there and assist them in their attack.",		"found_loc":"Listen up pilot, this is Blue Squad Leader. Rendez-vous with us at these coordinates.",		"enemies_win":"Damn the Empire! Damn you a...",		"enemies_remain":"Blue Squadron Leader: < %DI more! Keep it up! >",		"enemies_arrived":"There they are. This will be tough guys so no playing around, do your job and do it well!",		"battle_started":"Marvin, cover the left flank. Zeda, attack second from the right. Go go go!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"I knew we could take them, great job everyone!",		"allies_remain":"Rebel Pilot: < It burns! Please no! Nooo... >",		"allies_arrived":"We are here. Prepare for battle everyone.",		"Quest Log Data":"Text"
+}}

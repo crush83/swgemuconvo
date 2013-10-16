@@ -1,27 +1,5 @@
-[
-'25':'cannot_fire_without_lookat',
-'24':'gunner_fire_missile_failed',
-'23':'spacerepair_attack',
-'22':'vampiric_repair_other_underway_recipient',
-'21':'cannot_repair_other_must_shutdown',
-'20':'cannot_repair_other',
-'19':'pirateraid_none_available',
-'18':'inspacereload_notice',
-'17':'inspacerepair_service_fee',
-'16':'spacerepair_no_pob',
-'15':'bomberstrike_not_at_player',
-'14':'inspacerepair_ship_not_safe2',
-'13':'inspacerepair_ship_not_safe',
-'12':'spacereload_confirm_instructions',
-'11':'spacerepair_cannot_pay',
-'10':'spacerepair_not_enough_repair_rearm',
-'9':'spacerepair_not_enough_money_rearm',
-'8':'spacerepair_no_reload_needed',
-'7':'spacerepair_not_enough_money_repair',
-'6':'spacerepair_unnecessary',
-'5':'spacerepair_no_station',
-'4':'disrupted_standby',
-'3':'sub_system_restart',
-'2':'system_disrupted',
-'1':'multiple_systems_disrupted',
-]
+{
+	"stfFile":"space/space_pilot_command",
+	"entries": {
+		"cannot_fire_without_lookat":"You can't fire a missile unless you have a lookat target.",		"gunner_fire_missile_failed":"A gunner's attempt to fire a missile has failed.",		"spacerepair_attack":"We're under attack! Bugging out!",		"vampiric_repair_other_underway_recipient":"Repairs are underway on your most heavily-damaged system.",		"cannot_repair_other_must_shutdown":"The target ship needs to close any s-foils they might have and come to a stop before you can repair them.",		"cannot_repair_other":"You cannot repair another ship right now.",		"pirateraid_none_available":"There don't appear to be any pirates paying attention locally.",		"inspacereload_notice":"NOTE: A missile rack less than half empty can not usually be reloaded, due to weapon rack inner workings.",		"inspacerepair_service_fee":"A small service fee might be applicable regardless of if repairs are necessary or not.",		"spacerepair_no_pob":"Your ship is too large to be serviced by a repair or rearmament vessel. ",		"bomberstrike_not_at_player":"Fleet Operations will not allocate craft to attack that target.",		"inspacerepair_ship_not_safe2":"You are currently engaged in combat maneuvers with enemy vessels and repairship can't defend itself.",		"inspacerepair_ship_not_safe":"Scans indicate you are still currently targeted by hostile craft. Unable to call in the repair vessel.",		"spacereload_confirm_instructions":"Request reload again if you do. Otherwise, Do nothing and the rearmament ship will leave.",		"spacerepair_cannot_pay":"You can't pay for this. We're departing. Good luck.",		"spacerepair_not_enough_repair_rearm":"You don't have enough money in the bank to cover repairs and rearmament. Departing.",		"spacerepair_not_enough_money_rearm":"You don't have enough money in the bank to cover rearmament. Departing.",		"spacerepair_no_reload_needed":"Scans indicate that you don't appear to need any munitions reloaded that we can supply. Departing.",		"spacerepair_not_enough_money_repair":"You don't have enough money in the bank to cover repairs. Departing.",		"spacerepair_unnecessary":"Scans indicate that you don't appear to have any repair needs that we can help with. We are departing.",		"spacerepair_no_station":"There are no repair craft available to be dispatched in this sector.",		"disrupted_standby":"STANDBY...",		"sub_system_restart":"SUB-SYSTEM RESTART COMMENCING. INITIALIZATION SUBROUTINES COMING ON-LINE.",		"system_disrupted":"ALERT! ALERT! ALERT! SUB-SYSTEM DISRUPTED. ATTEMPTING SYSTEM RESTART.",		"multiple_systems_disrupted":"WARNING! WARNING! WARNING! MULTIPLE SYSTEMS DISRUPTED. ATTEMPTING SYSTEM RESTART."
+}}

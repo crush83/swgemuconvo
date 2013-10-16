@@ -1,17 +1,102 @@
-[
-'15':'manfingredients',
-'14':'selling',
-'13':'factories',
-'12':'manfschematics',
-'11':'customization',
-'10':'experimentation',
-'9':'assembly',
-'8':'toolsandstations',
-'7':'harvesters',
-'6':'foraging',
-'5':'harvesting',
-'4':'sampling',
-'3':'findingresources',
-'2':'draftschematics',
-'1':'crafting',
-]
+{
+	"stfFile":"kb/kb_crafting_d",
+	"entries": {
+		"manfingredients":"Manufacturing schematics represent the stored form of a completed  crafting session. The exact properties of the item that would have  been produced by the crafting session that produced the manufacturing  schematic are instead saved off as a manufacturing schematic, and  allow multiple copies of that exact item to be reproduced at a factory  of the appropriate type.
+
+Because the crafting session was saved off and the attributes are  being reproduced, all of the same ingredients that were used to craft  the manufacturing schematic must be used when the manufacturing  schematic is used at a factory to run off more copies of the item.  It's very important to remember that exactly the same ingredients must  be used.
+
+For example, if the imaginary resource 'Benzoite', a type of  Duralloy Steel was utilized to make a manufacturing schematic, then  you'll need a supply of Benzoite to make items from that schematic. No other type of Duralloy steel will suffice. This also means that once Benzoite is no longer available in the universe, all manufacturing schematics that were made from it are no longer useable because the resource ingredient requirements can no longer be satisfied, and any desired manufacturing schematics will have to be created fresh using the currently available equivalent resource.
+
+The idea of identical ingredients being needed for making items from manufacturing schematics carries over into the realm of component ingredients for manufacturing schematics. The copies of the exact same component that was used to create the manufacturing schematic will have to be used to create items from that particular manufacturing schematic. The key point to note here is that since all the components have to be identical, they all have to have been produced in a factory themselves, as that's the only way to get truly identical items.
+
+For example, if a person generated a particularly good DL-44 blaster during the crafting process and decided that they wanted to be able to mass produce them in a factory, they'd need enough of the same resources that they used to craft the manufacturing schematic to meet the needs of how many copies of the blaster they wanted to make at the factory. If the imaginary ingredient "Terg's Blaster Power Handler Mark2" was one of the ingredients used, they'd need enough of those same blaster power handlers to make more blasters from the new DL-44 manufacturing schematic. They only way that those blaster power handlers could possibly truly be the same, is if they themselves had come from a factory assembly run.
+
+Thus, Manufacturing Schematics that require components should only be built off of components that came from an extended factory production run, because that's the only way you'll be able to satisfy the identical component ingredient requirements, and thus be able to build more objects.",		"selling":"The Bazaar is a galactic communities market where you can place items up for sale, buy items, and even participate in auctions.
+
+The Bazaar is accessed through special terminals located in nearly every city. In some respects, Bazaar terminals are similar to mailboxes. Items that are put up for sale are physically deposited into Bazaar terminals and must later be retrieved by buyers.
+
+To review the types of items for sale at any given time, walk up to a Bazaar terminal and select Use from the terminal's radial menu. You can review items for sale from all across the galaxy. You can also see any items you have for sale and any bids you've placed on current auctions.
+
+Items for sale are either posted at a fixed price or placed up for auction. Once you find an item you'd like to purchase, you can either click on "Buy" or "Place Bid". You must have enough credits in your galactic bank account in order to buy an item.
+
+You can review any auction's status from any Bazaar terminal. If you win an auction, you will be notified through an in-game message.
+
+Whenever you buy an object (either through a direct purchase or winning an auction), you must still retrieve the item. You must be in the same region as the object in order to retrieve it from a Bazaar terminal. Travel to any terminal in the specified region and choose "Retrieve Items" from the "Available Items" tab in the Bazaar window.",		"factories":"If you have created a manufacturing schematic in place of creating an object, you can use it on an automated factory to mass-produce the object. Depending on how many items you created the schematic to produce, you will walk away with more items in less time (automated factories will continue to create the object even if you are offline).
+
+When you use a manufacturing schematic, you will need to insert the proper amount of resources listed in the schematic into the factory. Once you have everything set, you can the start producing these objects, which will deposit themselves into a crate that only you can access.
+
+The benefits of using an automatic factory is that, if you create a manufacturing schematic with good outcomes, you can create multiple objects of that same exact specification. In addition, you will not have to craft all of the objects by hand. Let the machine do it for you.
+",		"manfschematics":"When using a generic crafting tool, you produce an actual object that can be used by you or others (a "prototype"). However, while at a crafting station, you have the option of creating a manufacturing schematic instead. A manufacturing schematic can be used with factories to mass-produce the item.
+
+",		"customization":"Once you are done crafting the object, you will be brought to the Customization screen. This screen will allow you to make various changes to an object depending on your skill in question.
+
+The most common customization is the ability to give the object a name. This can be something as simple as "Kloohorn" or flashy like "Vemerik's Razzamatazz Kloo horn". As your skills rise, so will your options. For instance, if you were to tailor a Wookiee Hood, you may be given the chance to decide what color it will be. The better your skill gets, the more colors and color schemes become available.
+
+",		"experimentation":"More experienced crafters will gain the ability to experiment. Experimentation provides a chance to change the original design to increase an item's effectiveness.
+
+On the Experimentation screen, you can identify variables you want to improve (damage or range on a blaster, perhaps). Experimenting will increase an item's complexity, reducing your chances of successfully creating the item.
+",		"assembly":"The Assembly screen allows you to place components into your schematic. When you open a schematic, your available resources and components will appear in a window on the left side of the screen.
+
+Each schematic has "slots" for specific components. When you click on an available component or resource, any slots that can hold that type of component will glow green.
+
+Click and drag components into the appropriate schematic slots or double-click on the components to allow the crafting device to automatically assign them to an appropriate slot.
+
+Like characters, each resource and component has its own set of attributes that directly affect the quality of the object you're crafting. Some metals are more durable than others, for example. Putting a very durable metal into a blaster schematics likely to result in a very durable blaster.
+
+After assigning components to a schematic, click on the Assemble button, Once you have clicked on Assemble, you will attempt to construct the item. Whether or not you can successfully build the item depends upon your skills and the item's complexity.
+
+If you suffer a critical failure, you won't complete the item.  Assuming you were successful at your crafting attempt, you will receive a message when your item is complete. Unless your inventory is full, the item will be transferred there.  If your inventory is full, the item will be stored in the output hopper of the crafting tool.  You can access the hopper by holding down on the "Start Crafting -> Open Input Hopper -> Get Finished Prototype" option from the tool's radial menu until "Open Output Hopper" appears.
+",		"toolsandstations":"If you start the game as an Artisan, you'll find a "generic crafting tool" in your Inventory. These tools can be purchased in the game from other players.
+
+The generic crafting tool only allows you to assemble simple items. To construct larger or more complex items, you must visit stationary crafting stations (located in almost every major city). Each type of item has its own dedicated crafting station (you can't prepare food items at a clothing crafting station, for example).
+
+To build a simple item, double-click on your generic crafting tool or select "Start Crafting" from the device's radial menu. Once the crafting device is activated, it will provide you a list of items that you can build with the tools (to access additional schematics, you must use crafting stations). Schematics are organized by type.",		"harvesters":"In order to use a harvester, you will first need to build one. To build a harvester you need to acquire a deed for the structure. Deeds can be manufactured or purchased from other players or through the Bazaar.
+
+Once you have a deed, click on the Use button on the deed's radial menu. Your view will change to an overhead view. Use the arrow keys to view the surrounding area and to move the harvester's "footprint" around. Eventually, you should find an area where the "footprint" will glow green instead of red.  Any traces of red on the "footprint" will prevent you from placing it there. When you have found a place you wish the harvester to be built, click right mouse button to place a construction marker.
+
+Construction of your installation will take some time, depending upon the size and type of the structure. You can view the construction progress by producing a Radial Menu on the construction marker and selecting "Status" from the available options.
+
+Once the harvester has been built, you can then click on the building and choose from options available in its radial menu. Among the choices provided will be status reports, how much you have harvested, efficiency levels, changing the resource being harvested, and retrieving what the harvester has already collected.
+
+Keep in mind, harvesters have an upkeep cost to maintain their operations. Your galactic bank account will have the maintenance costs automatically deducted. If your account does not have the available funds, the harvester will stop functioning, fall into disrepair, and eventually disappear. If your harvester is no longer profitable, or you wish to pursue other careers, you can choose to "Destroy" the harvester to stop making payments on it.
+",		"foraging":"Scouts are given the ability to use their foraging skills to find organic resources and consumables in the surrounding area. When using the forage skill, your character will spend time searching the area for unseen resources that are available for the taking.
+
+Just because you attempt to forage does not guarantee that you will find something usable. The better a Scout's skill in foraging becomes, the better a chance at locating an organic resource or a useful consumable. 
+",		"harvesting":"Scouts have the ability to extract organic resources from dead creatures. To harvest these resources, bring up a radial menu on a creature's corpse, select the "Harvest Resources" tab, and select the type of resource you want to extract: bone, hide, or meat.
+
+This will provide you with a small number of resources based on the type of creature. You can use these resources yourself if you have invested skill points in a crafting skill, or you can sell them to other players who need them for their creations.
+",		"sampling":"Surveying:
+
+Minerals, liquids, and many other types of resources need to be located through a process known as surveying. Artisans begin the game with basic surveying skills. To use these skills, you must have a surveying device.
+
+There are different types of devices for each general resource type. Don't worry, surveying devices can be built by other players if you don't have one.
+
+Before using a surveying device, you must set the device's radius by clicking "Settings" on the device's radial menu. To survey, select "Survey" from the device's radial menu. This will produce a list of the specific resources that you can try to find on your current planet.
+
+Select any of the resources listed there and then select "Survey" again. Depending on your skills, you will see several deposits of your selected resource. Higher percentages on your Surveying screen indicate very dense deposits. You will want to head toward these deposits to efficiently mine resources. Every time you survey, a waypoint will be created to lead you to the largest discovered resource deposit.
+
+Sampling:
+
+Once you reach a resource deposit, you can use your surveying to extract small samples of the resource. Select the "Take Sample" option on your surveying tool's radial menu.
+
+Successfully drawing a sample depends upon the size of the deposit and your current skills. If you successfully produce a sample of the resource, it will appear in your inventory for use when crafting items.",		"findingresources":"Resources are any material that can be extracted from the land or creatures and used to create useful objects, including camps, clothing, and weapons.
+
+Resources include everything from strange minerals to the hide of a womp rat. Because they are necessary components for building virtually anything, resources are the foundation of the in-game economy.
+
+Due to the fact that they are essential to the economy, resources will either be horribly common or exceptionally rare. Resources come in all shapes and sizes, and from various sources. Resources that comes from the land will require harvesting to acquire them. Organic resources from a creature can be acquired by hunting and harvesting them.
+",		"draftschematics":"Schematics are basically blueprints for anything you can build. They include designs for weapons and other devices, recipes for foodstuffs, and patterns for items of clothing.
+
+Access your list of schematics through your Datapad (Ctrl+D). Double clicking on any schematic will bring up a description of that item, along with a list of the resources and other components required to build that object.
+
+Every item in the game requires specific components to craft. In many instances, these components will simply be resources. To craft a survival knife, for example, you might need several units of metal and a few units of polymer alloys.
+
+More complex items are actually composed from other crafted objects, or a combination of resource and crafted components. A blaster requires some resources, but also calls for a power cell, which is a separate craftable item. To build a blaster, you must first build (or buy) a power cell.
+
+Some items allow for optional components (you might be able to add spices to a meat stew or a scope to a rifle). The components are not required to complete the item, but may enhance the final product in some way. You can view the components required for any item by reviewing the object's schematic in your Datapad or through a crafting device.
+",		"crafting":"Crafting is a key component of the economy in Star Wars Galaxies. Artisans and other related characters (including Weaponsmiths, Tailors and even Chefs) can build virtually anything, ranging from blasters to buildings, and then place these items for sale through the Galactic Bazaar.
+
+It's very important to note that crafting covers a wide variety of activities beyond just assembling useful devices. In fact, Chefs and Tailors use the exact same crafting system as Armorsmiths and Droid Engineers; they just produce different types of goods.
+
+Artisans begin the game with the ability to craft a limited number of basic objects. Crafting requires three things: a schematic of the object you want to craft, the components necessary to build the item, and a crafting device of some kind.
+"
+}}

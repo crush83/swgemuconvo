@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_rebel_tier4_1_a",
+	"entries": {
+		"title_d":"Some of the Empires advanced ships that were close by are trying to escape the carnage. Hunt them down like the vermin they are!",		"title":"Dathomir system: Hunt down the Imperial advanced fighters.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"General Ufwol: < %TO >",		"quest_target_t":"Imperial TIE 'Aggressor'",		"quest_target_d":"This is one of the Empires latest and most dangerous TIE models. It's equipped with a rear firing turret so try to strafe it from the flanks.",		"quest_location_t":"Dathomir system.",		"quest_location_d":"Pay close attention to your sensors. This is a high risk area in a high risk system and you're chasing one of the Empires deadly new ships, you don't need to attract more enemies.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"You let him get away pilot! Return to base immediately!",		"escort_wiped_out":"General Ufwol: < Alright pilot, now take out that last TIE! >",		"escort_remaining":"General Ufwol: < Concentrate on the experimental TIE ship, I don't want that thing to get away! >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"That's what I expect from my pilots! Return to base.",		"arrival_phase_2":"Alright pilot, this is your assigned target, don't let him slip away!",		"arrival_phase_1":"The Empire is pulling out their advanced ships. I'm assigning each of you one to hunt down, stand by.",		"Quest Log Data":"Text"
+}}

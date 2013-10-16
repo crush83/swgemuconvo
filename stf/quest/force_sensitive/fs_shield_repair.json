@@ -1,15 +1,5 @@
-[
-'13':'default',
-'12':'fs_response12',
-'11':'fs_response11',
-'10':'fs_response10',
-'9':'fs_response09',
-'8':'fs_response08',
-'7':'fs_response07',
-'6':'fs_response06',
-'5':'fs_response05',
-'4':'fs_response04',
-'3':'fs_response03',
-'2':'fs_response02',
-'1':'fs_response01',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_shield_repair",
+	"entries": {
+		"default":"",		"fs_response12":"The meson dampener is in. We can start power up testing whenever you're ready.",		"fs_response11":"Tune down the power emitter or you're going to have a burnout.",		"fs_response10":"We've got switchover at 2.2 gigabuels and holding. Get the phase readings and then we'll shut down.",		"fs_response09":"Watch how you bundle those phase relay filaments. We don't have many left after you dropped that box over by Rohak's place.",		"fs_response08":"We're going to need more insulation on the power core. I'm reading a class 3 leak.",		"fs_response07":"Ow! Blast it! If I smack my thumb one more time Sivarra is going to think I'm addicted to pain killers.",		"fs_response06":"Great! Every indicator on the master control board just lit up. We've got an overload somewhere.",		"fs_response05":"The buffer power shunt is jammed. Can you hand me the power mallet?",		"fs_response04":"Hey! Do you see that? The meson generator is only .02 nanopulses off of nominal at over 4 gigabuels! We sure got a winner here.",		"fs_response03":"The power regulator is fluctuating on a resonance of 3.6 gigabuels. Can you see if you can lock that down?",		"fs_response02":"This phase relay conduit is shot. We're going to need another.",		"fs_response01":"Could you get me that hydro spanner over there?"
+}}

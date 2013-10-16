@@ -1,28 +1,5 @@
-[
-'26':'transmission_start',
-'25':'transmission_received',
-'24':'trans_update',
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_reachpoint_t',
-'17':'quest_reachpoint_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_defendpoint_t',
-'13':'quest_defendpoint_d',
-'12':'outofrange_failed',
-'11':'outofrange',
-'10':'mission_complete',
-'9':'found_loc',
-'8':'first_attack',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_loc',
-]
+{
+	"stfFile":"spacequest/survival/stn_endor_irs_imp_tier3_3f",
+	"entries": {
+		"transmission_start":"\#pcontrast3 Timer has begun.",		"transmission_received":"\#pcontrast3 The assault is complete. ",		"trans_update":"Operation in progress, %DI of 100 complete. ",		"title_d":"The Zynt'aia Spice Pirates have been increasing their activity in the Endor System. A threat to the growing research station on the local moon of Endor 2,an offensive patrol to disrupt and hopefully destroy their operations around the Declorian Territory has issued by Naval Operations.  You must survive assault by the pirates for 6 minutes to complete the operation.",		"title":"Endor System: Attenuation",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"%TO",		"quest_reachpoint_t":"Battlepoint",		"quest_reachpoint_d":"A battlepoint with pirates in the Declorian Territory.",		"quest_location_t":"",		"quest_location_d":"",		"quest_defendpoint_t":"Defend",		"quest_defendpoint_d":"Defend from the Zynt'aia attack, destroy as many fighters as you can before the time is up.",		"outofrange_failed":"\#pcontrast3 You have failed the mission for leaving the battle location.",		"outofrange":"\#pcontrast3 Nav Comptuer: < \#pcontrast1 Leaving the designated battlepoint. \#pcontrast3 >",		"mission_complete":"\#pcontrast3 Endor Station: < \#pcontrast3 Excellent job Captain.  This completes your tour of duty in the Endor System and your current contract is closed. Check back later, and we might have further work for you. \#pcontrast3 >",		"found_loc":"\#pcontrast3 Nav Comptuer: < \#pcontrast1 Waypoint set. \#pcontrast3 >",		"first_attack":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hyperspace signatures detected. \#pcontrast3 >",		"autorewardsubject":"The Grand Tour",		"autorewardfrom":"Endor Station",		"autorewardbody":"Completion Bonus: Attenuation (20000)",		"attack_stopped":"\#pcontrast3 Tactical Comptuer: < \#pcontrast1 Hostile activity has ceased. \#pcontrast3 >",		"attack_notify":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile craft detected on attack vector. \#pcontrast3 >",		"assigned_delayed":"",		"arrived_at_loc":"\#pcontrast3 Nav Computer: < \#pcontrast1 Destination reached. \#pcontrast3 >"
+}}

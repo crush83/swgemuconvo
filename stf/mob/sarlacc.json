@@ -1,9 +1,5 @@
-[
-'7':'sarlacc_dot',
-'6':'sarlacc_poison',
-'5':'sarlacc_erupt',
-'4':'bile_already',
-'3':'bile_success',
-'2':'bile_fail',
-'1':'extract_bile',
-]
+{
+	"stfFile":"mob/sarlacc",
+	"entries": {
+		"sarlacc_dot":"You suddenly feel weak and sick.",		"sarlacc_poison":"The air is thick with the smell of rot and disease.",		"sarlacc_erupt":"The Sarlacc suddenly erupts, spewing a diseased and corrosive substance into the air!",		"bile_already":"You already have a good sample of bile.  It probably isn't wise to risk getting more.",		"bile_success":"Despite being nearly overwhelmed by the stench of decay and the reaching tentacles, you manage to collect a sufficient sample of bile.",		"bile_fail":"You fail to find enough bile to collect.  You need to wait for more to accumulate.",		"extract_bile":"Extract Bile"
+}}

@@ -1,3 +1,5 @@
-[
-'1':'manage',
-]
+{
+	"stfFile":"harvester",
+	"entries": {
+		"manage":"Operate Machinery"
+}}

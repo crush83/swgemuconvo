@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_rebel_tier4_3",
+	"entries": {
+		"title_d":"Our squad has been assigned to assist in a guerilla strike on an Imperial space station. We need to pave the way through enemy defense for the Alliance B-Wing bombers.",		"title":"Dathomir system: Help the Alliance attack on an Imperial space station.",		"split_quest_alert_fail":"Worvog Arkon: < We managed to do some damage but our Bombers are in trouble. Stand by for orders. >",		"split_quest_alert":"Worvog Arkon: < Damnation! One of the Rebels B-Wing squadrons have been intercepted by Imperial ships and need help, stand by. >",		"quest_update":"Nym Squadron Leader: < %TO >",		"quest_location_t":"Dathomir system.",		"quest_location_d":"The Dathomir system is normally dangerous but this sector of it will be even worse. You will be close to an Imperial base and enemies will be everywhere.",		"quest_helpallies_t":"Crush the Imperial defence.",		"quest_helpallies_d":"Join up with the other ships from Worvog's squadron and destroy the Imperial presence in the area.",		"quest_findbattle_t":"Coordinates of attack.",		"quest_findbattle_d":"This is the point of attack. We will breach the Imperial defences here so that the B-Wing bombers can press through and launch their payload on the station.",		"found_loc":"We will meet you at this location, hurry over here or we will start without you.",		"enemies_win":"Pull out of there pilot! We're doomed, I can...",		"enemies_remain":"Nym Squadron Leader: < Yehaa! Take that you Imperial scum! Only %DI more guys! >",		"enemies_arrived":"My sensors show multiple bogeys. Looks like this will be a lot of fun guys.",		"battle_started":"Time to show these fools the wrath of the pirates of Nym, take no prisoners guys!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Great job everyone, the Rebel bomber squadrons are closing in. You are free to pull out.",		"allies_remain":"Nym Squadron Leader: < Hang in there guys! We can do this! >",		"allies_arrived":"We are in position to start the attack. Join up pilot."
+}}

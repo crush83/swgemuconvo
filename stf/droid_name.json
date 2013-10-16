@@ -1,97 +1,41 @@
-[
-'95':'blastromech',
-'94':'super_battle_droid',
-'93':'battle_droid',
-'92':'tip_solicitor_droid',
-'91':'arakyd_probot_crafted',
-'90':'arakyd_probot_crafted_advanced',
-'89':'arakyd_probot_base',
-'88':'po_crafted_advanced',
-'87':'wed_treadwell_crafted_advanced',
-'86':'tt_8l_y7_crafted_advanced',
-'85':'tt_8l_crafted_advanced',
-'84':'robo_bartender_crafted_advanced',
-'83':'ra7_bug_droid_crafted_advanced',
-'82':'r5_crafted_advanced',
-'81':'r4_crafted_advanced',
-'80':'r3_crafted_advanced',
-'79':'r2_crafted_advanced',
-'78':'probe_droid_crafted_advanced',
-'77':'mse_6_crafted_advanced',
-'76':'lin_demolitionmech_crafted_advanced',
-'75':'le_repair_droid_crafted_advanced',
-'74':'jedi_training_droid_crafted_advanced',
-'73':'it_o_interrogator_crafted_advanced',
-'72':'imperial_probot_crafted_advanced',
-'71':'ig_assassin_droid_crafted_advanced',
-'70':'eg_6_power_droid_crafted_advanced',
-'69':'dz_70_fugitive_tracker_crafted_advanced',
-'68':'droideka_crafted_advanced',
-'67':'dark_trooper_phase_ii_crafted_advanced',
-'66':'cll_8_binary_load_lifter_crafted_advanced',
-'65':'bomarr_monk_spider_droid_crafted_advanced',
-'64':'b_surgical_droid_crafted_advanced',
-'63':'r5_crafted',
-'62':'wed_treadwell_crafted',
-'61':'tt_8l_y7_crafted',
-'60':'tt_8l_crafted',
-'59':'robo_bartender_crafted',
-'58':'ra7_bug_droid_crafted',
-'57':'r4_crafted',
-'56':'r3_crafted',
-'55':'r2_crafted',
-'54':'mse_6_crafted',
-'53':'probe_droid_crafted',
-'52':'b_surgical_droid_crafted',
-'51':'jedi_training_droid_crafted',
-'50':'it_o_interrogator_crafted',
-'49':'imperial_probot_crafted',
-'48':'ig_assassin_droid_crafted',
-'47':'eg_6_power_droid_crafted',
-'46':'dz_70_fugitive_tracker_crafted',
-'45':'droideka_crafted',
-'44':'dark_trooper_phase_ii_crafted',
-'43':'cll_8_binary_load_lifter_crafted',
-'42':'po_crafted',
-'41':'lin_demolitionmech_crafted',
-'40':'le_repair_droid_crafted',
-'39':'bomarr_monk_spider_droid_crafted',
-'38':'probe_droid',
-'37':'bomarr_monk_spider_droid',
-'36':'wed_treadwell_base',
-'35':'tt_8l_base',
-'34':'shared_md_medical_specialist',
-'33':'robo_bartender_base',
-'32':'ra7_bug_droid_base',
-'31':'r5_base',
-'30':'r4_base',
-'29':'r3_base',
-'28':'r2_base',
-'27':'mse_6_base',
-'26':'messenger_droid',
-'25':'lin_demolitionmech_base',
-'24':'le_repair_droid',
-'23':'jedi_training_droid_base',
-'22':'it_o_interrogator_base',
-'21':'imperial_probot_base',
-'20':'imperial_mark_iv_sentry_base',
-'19':'ig_assassin_droid_base',
-'18':'g2_rd_guard_base',
-'17':'fx_medical_assistant_base',
-'16':'eg_6_power_droid_base',
-'15':'dz_70_fugitive_tracker_base',
-'14':'droideka_base',
-'13':'droid',
-'12':'dark_trooper_phase_iii_base',
-'11':'dark_trooper_phase_ii_base',
-'10':'dark_trooper_phase_i_base',
-'9':'cz_comm_droid_base',
-'8':'cll_8_binary_load_lifter_base',
-'7':'base_droid',
-'6':'automated_sabacc_dealer_base',
-'5':'d8_smelter_base',
-'4':'z_police_droid_base',
-'3':'po_base',
-'2':'b_surgical_droid_base',
-'1':'c_41_traffic_controller_base',
-]
+{
+	"stfFile":"droid_name",
+	"entries": {
+		"blastromech":"Blastromech",		"super_battle_droid":"Super Battle Droid",		"battle_droid":"Battle Droid",		"tip_solicitor_droid":"Tip Solicitor Droid",		"arakyd_probot_crafted":"Arakyd Probot",		"arakyd_probot_crafted_advanced":"Arakyd Probot ADVANCED",		"arakyd_probot_base":"Arakyd Probot",		"po_crafted_advanced":"3PO Protocol Droid ADVANCED",		"wed_treadwell_crafted_advanced":"WED Treadwell ADVANCED",		"tt_8l_y7_crafted_advanced":"TT-8L /Y7 Droid ADVANCED",		"tt_8l_crafted_advanced":"TT-8L Droid ADVANCED",		"robo_bartender_crafted_advanced":"Robo-Bartender Droid ADVANCED",		"ra7_bug_droid_crafted_advanced":"RA-7 Droid ADVANCED",		"r5_crafted_advanced":"R5 Droid ADVANCED",		"r4_crafted_advanced":"R4 Droid ADVANCED",		"r3_crafted_advanced":"R3 Droid ADVANCED",		"r2_crafted_advanced":"R2 Droid ADVANCED",		"probe_droid_crafted_advanced":"Probe Droid ADVANCED",		"mse_6_crafted_advanced":"MSE-6 'Mouse' Droid ADVANCED",		"lin_demolitionmech_crafted_advanced":"LIN Demolitionmech Droid ADVANCED",		"le_repair_droid_crafted_advanced":"LE Repair Droid ADVANCED",		"jedi_training_droid_crafted_advanced":"Seeker Droid ADVANCED",		"it_o_interrogator_crafted_advanced":"IT-O Interrogator Droid ADVANCED",		"imperial_probot_crafted_advanced":"Imperial Probot ADVANCED",		"ig_assassin_droid_crafted_advanced":"IG Assassin Droid ADVANCED",		"eg_6_power_droid_crafted_advanced":"EG-6 Power Droid ADVANCED",		"dz_70_fugitive_tracker_crafted_advanced":"DZ-70 Fugitive Tracker Droid ADVANCED",		"droideka_crafted_advanced":"Droideka ADVANCED",		"dark_trooper_phase_ii_crafted_advanced":"Dark Trooper - Phase 2 ADVANCED",		"cll_8_binary_load_lifter_crafted_advanced":"CLL-8 Binary Load Lifter Droid ADVANCED",		"bomarr_monk_spider_droid_crafted_advanced":"B'omarr Monk Spider Droid ADVANCED",		"b_surgical_droid_crafted_advanced":"2-1B Surgical Droid ADVANCED",		"r5_crafted":"R5 Droid",		"wed_treadwell_crafted":"WED Treadwell",		"tt_8l_y7_crafted":"TT-8L /Y7 Droid",		"tt_8l_crafted":"TT-8L Droid",		"robo_bartender_crafted":"Robo-Bartender Droid",		"ra7_bug_droid_crafted":"RA-7 Droid",		"r4_crafted":"R4 Droid",		"r3_crafted":"R3 Droid",		"r2_crafted":"R2 Droid",		"mse_6_crafted":"MSE-6 'Mouse' Droid",		"probe_droid_crafted":"Probe Droid",		"b_surgical_droid_crafted":"2-1B Surgical Droid",		"jedi_training_droid_crafted":"Seeker Droid",		"it_o_interrogator_crafted":"IT-O Interrogator Droid",		"imperial_probot_crafted":"Imperial Probot",		"ig_assassin_droid_crafted":"IG Assassin Droid",		"eg_6_power_droid_crafted":"EG-6 Power Droid",		"dz_70_fugitive_tracker_crafted":"DZ-70 Fugitive Tracker Droid",		"droideka_crafted":"Droideka",		"dark_trooper_phase_ii_crafted":"Dark Trooper - Phase 2",		"cll_8_binary_load_lifter_crafted":"CLL-8 Binary Load Lifter Droid",		"po_crafted":"3PO Protocol Droid",		"lin_demolitionmech_crafted":"LIN Demolitionmech Droid",		"le_repair_droid_crafted":"LE Repair Droid",		"bomarr_monk_spider_droid_crafted":"B'omarr Monk Spider Droid",		"probe_droid":"Seeker Probe Droid",		"bomarr_monk_spider_droid":"B'omarr Monk Spider Droid",		"wed_treadwell_base":"wed treadwell base
+",		"tt_8l_base":"tt 8l base
+",		"shared_md_medical_specialist":"shared md medical specialist
+",		"robo_bartender_base":"robo bartender base
+",		"ra7_bug_droid_base":"ra7 bug droid base
+",		"r5_base":"r5 base
+",		"r4_base":"r4 base
+",		"r3_base":"r3 base
+",		"r2_base":"r2 base
+",		"mse_6_base":"mse 6 base
+",		"messenger_droid":"messenger droid
+",		"lin_demolitionmech_base":"lin demolitionmech base
+",		"le_repair_droid":"le repair droid
+",		"jedi_training_droid_base":"jedi training droid base
+",		"it_o_interrogator_base":"it o interrogator base
+",		"imperial_probot_base":"imperial probot base
+",		"imperial_mark_iv_sentry_base":"imperial mark iv sentry base
+",		"ig_assassin_droid_base":"ig assassin droid base
+",		"g2_rd_guard_base":"g2 rd guard base
+",		"fx_medical_assistant_base":"fx medical assistant base
+",		"eg_6_power_droid_base":"eg 6 power droid base
+",		"dz_70_fugitive_tracker_base":"dz 70 fugitive tracker base
+",		"droideka_base":"droideka base
+",		"droid":"droid
+",		"dark_trooper_phase_iii_base":"dark trooper phase iii base
+",		"dark_trooper_phase_ii_base":"dark trooper phase ii base
+",		"dark_trooper_phase_i_base":"dark trooper phase i base
+",		"cz_comm_droid_base":"cz comm droid base
+",		"cll_8_binary_load_lifter_base":"cll 8 binary load lifter base
+",		"base_droid":"base droid
+",		"automated_sabacc_dealer_base":"automated sabacc dealer base
+",		"d8_smelter_base":"8d8 smelter base
+",		"z_police_droid_base":"501 z police droid base
+",		"po_base":"Z3PO
+",		"b_surgical_droid_base":"2 1b surgical droid base
+",		"c_41_traffic_controller_base":"12 4c 41 traffic controller base
+"
+}}

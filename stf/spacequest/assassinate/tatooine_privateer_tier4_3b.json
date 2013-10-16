@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_privateer_tier4_3b",
+	"entries": {
+		"title_d":"Hunt down and destroy Valarian operatives",		"title":"Tatooine System: Hunt Down and Destroy Valarian Operatives",		"split_quest_alert_fail":"\#pcontrast3 Nirame: < \#pcontrast1 He is right on top of you, take action. \#pcontrast3 >",		"split_quest_alert":"\#pcontrast3 Nirame: < \#pcontrast1 About that freighter we wanted: It is in route to Endor, perhaps you can convince them to alter course. \#pcontrast3 >",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Valarian Gunship",		"quest_target_d":"A Valarian fighter craft",		"quest_location_t":"Tatooine System",		"quest_location_d":"Valarian controlled space in the Tatooine System",		"quest_escort_t":"Valarian Bomber",		"quest_escort_d":"Important to this mission, all Valarian craft must be destroyed.",		"failed_escape":"\#pcontrast3 Tacticle Computer: < \#pcontrast3 Warning! Hyperspace signature detected in close proximity. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed, %DI remaining. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Primary objective destroyed, finish off any remaining escort craft. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Target objective has been destroyed. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Target craft identified. Tracking... \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Nirame: < \#pcontrast3 I'm sending you the target information, one of Valarias stooges.  Be quick about this, I will have more for you shortly. \#pcontrast3 >"
+}}

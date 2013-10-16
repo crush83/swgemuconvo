@@ -1,9 +1,6 @@
-[
-'7':'merchant_7',
-'6':'merchant_6',
-'5':'merchant_5',
-'4':'merchant_4',
-'3':'merchant_3',
-'2':'merchant_2',
-'1':'merchant_1',
-]
+{
+	"stfFile":"merchant_e3_convo",
+	"entries": {
+		"merchant_7":"An honest hutt?  HAHA!  No, I was just kidding.  Don't tell Jabba I said that, ok?",		"merchant_6":"What's a hard to find item?",		"merchant_5":"Well, by trade I guess I'm a merchant, though I occasionally deal in, hm...shall we say, hard to find items?",		"merchant_4":"Imperial thugs have that affect on a city.  Unless you're one of Jabba's cronies it's time to go.",		"merchant_3":"I was wondering what you do for a living.",		"merchant_2":"Yeah, I was going to ask about that....",		"merchant_1":"I guess you've noticed everyone's packing up and leaving town?
+"
+}}

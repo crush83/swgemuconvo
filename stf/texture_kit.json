@@ -1,8 +1,5 @@
-[
-'6':'inspace',
-'5':'imperial',
-'4':'changed_paint_job',
-'3':'pick_a_ship',
-'2':'pick_a_ship_title',
-'1':'btn_texture',
-]
+{
+	"stfFile":"texture_kit",
+	"entries": {
+		"inspace":"You cannot re-texture a ship while you are in space!",		"imperial":"This is an Imperial ship, and cannot be re-textured.",		"changed_paint_job":"Re-texturing completed.",		"pick_a_ship":"Please select a ship to change the texture of.",		"pick_a_ship_title":"Select a Ship",		"btn_texture":"Change Texture"
+}}

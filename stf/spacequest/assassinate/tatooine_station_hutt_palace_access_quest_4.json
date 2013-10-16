@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_station_hutt_palace_access_quest_4",
+	"entries": {
+		"title_d":"Your sensors have spotted Hortrix and he's making a break for it. Catch up to him and terminate him but be careful, he's a skilled and tricky pilot.",		"title":"Yavin system: Time to get paid.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Valarian Assassin Coordinator: < %TO >",		"quest_target_t":"Hortrix Steelarm.",		"quest_target_d":"Hortrix Steelarm is not a fighter pilot but he's an expert at avoiding enemies and he's got a few tricks up his sleeve so stay sharp!",		"quest_location_t":"Yavin system.",		"quest_location_d":"This area of the Yavin system should be relatively safe from Imperial enemies and pirates but you got other enemies to worry about, your target is in your sights!",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"You had him and you let him get away! That's it, come back when you know what you're doing.",		"escort_wiped_out":"Valarian Assassin Coordinator: < Alright, now claim your bounty, terminate Hortrix! >",		"escort_remaining":"Valarian Assassin Coordinator: < Good, but you better not let Hortrix escape! >",		"destroy_escort":"",		"autorewardsubject":"Transfer of funds to your account.",		"autorewardfrom":"Mos Espa Valid",		"autorewardbody":"Bank statement. Confirmation of fund transfer. Nairalav Shipping Co. transfered the sum of 10,000 credits to your bank account. Sincerely, Ovpi Urgon, Bank Manager, Mos Espa Valid.",		"assigned_delayed":"",		"assassinate_success":"Not bad, not bad at all. You should get an e-mail verifying the transfer of funds to your bank account in a few seconds. Pleasure doing business with you pilot.",		"arrival_phase_2":"He's trying to escape, but we've locked on to him. Your nav computer should have a waypoint now. Go get him!",		"arrival_phase_1":"There he is! Time to claim your bounty pilot! Don't let him get away!"
+}}

@@ -1,36 +1,168 @@
-[
-'35':'ignore',
-'34':'friendslist',
-'33':'search',
-'32':'matchmaking',
-'31':'community',
-'30':'mail',
-'29':'misc',
-'28':'controls',
-'27':'interfaceopt',
-'26':'afk',
-'25':'alarm',
-'24':'chatcolor',
-'23':'chatopt',
-'22':'combat',
-'21':'sound',
-'20':'terrain',
-'19':'graphics',
-'18':'options',
-'17':'datapad',
-'16':'inventory',
-'15':'planetarymap',
-'14':'personal',
-'13':'cs',
-'12':'actions',
-'11':'skills',
-'10':'windows',
-'9':'cursor',
-'8':'status',
-'7':'toolbar',
-'6':'buttonbar',
-'5':'radar',
-'4':'chat',
-'3':'hud',
-'1':'interface',
-]
+{
+	"stfFile":"kb/kb_interface_d",
+	"entries": {
+		"ignore":"Star Wars Galaxies allows you to block chat messages from other players who might annoy you. If you want to stop receiving chat message from a particular player, you should add them to your Ignore List.
+
+To add a character to your Ignore List, type that character's first name in the field at the bottom of the Ignore screen, and then click "Add". Remove a character from your Ignore List by clicking on the character's name, and then clicking "Remove".",		"friendslist":"Your Friends List lets you keep track of any friends you make in the game. To add a character to your Friends List, type that character's first name in the field at the bottom of the Friends screen, and then click "Add".
+
+Select a friend on your list by clicking on his or her name. "Select All" highlights everyone on your list. "Mail" generates an e-mail for your selected friend(s). "Remove" deletes the character from your Friends List.",		"search":"This interface screen allows you to find specific types of players in your area. To use the search function, simply select any desired options from the drop-down menus and/or check any of the checkboxes, then click on "Search".
+
+The search function will only identify characters who meet all of your criteria; if you're just looking for a Medic and don't care about his or her faction standing, species, or anything else, use the Profession drop-down menu and select Medic.",		"matchmaking":"There are two screens devoted to an in-game matchmaking service. To take advantage of the matchmaker, use the Personal page to establish some traits that describe you. Select a category using the first drop-down menu. Highlight your selection and click on the "Add Item" button. Once you've established your own profile, use the same process to define the traits that you're looking for in other players.
+
+When you're near a player with several of the traits you have listed in the "My Preference" section, you'll receive a notification that includes the player's name. You can now contact that player.
+
+The sensitivity bar determines how accurately another player must "match" the qualities you've selected for your desired online friends. If you set this to 100, a player will need to have every trait you've selected in the "My Preference" section.
+
+By default, the matchmaker searches for potential matches every ten minutes. You can change the search frequency using the drop-down menu beneath the sensitivity bar.
+
+The second matchmaking screen displays a list of players that match your preferences. The time column lists the time at which the match was made.",		"community":"The Community screen provides tools for finding friends online. You can press the keyboard shortcut Ctrl+P to bring up the Community Window.",		"mail":"Star Wars Galaxies includes an e-mail system that allows players to send one another persistent messages. You can send e-mail to players who aren't online, which remain in a player's e-mail screen until deleted.
+
+The e-mail icon will flash whenever you have new mail. To read an e-mail, click on it. The text will appear near the bottom of the In-Game Mail Window.
+
+Click "New" to create a new e-mail message. In the "To" field, enter the first name of the character you wish to send an e-mail. You only need to enter in a character's first name. Send the same message to multiple players by putting a semicolon (;) between each name in the "To" field.
+
+Send attachments, including waypoints, by dragging and dropping an icon into the "Attachment" field. "Reply" will generate an e-mail addressed to the sender of the e-mail you currently have highlighted. Delete will permanently remove the highlighted e-mail.
+
+You can press the keyboard shortcut Ctrl+E to bring up the In Game Mail Window.",		"misc":"In this menu, you can change various in-game settings that best suit your aesthetic style.",		"controls":"The Controls menu allows you to change mouse behavior, select different control schemes, and create your own keyboard maps. To select your control scheme or re-map your keys, press the "Keymap" button on the bottom of the menu.
+
+You can reassign any keyboard command by double-clicking on the action you want to change, hitting the new key, and then clicking "OK".",		"interfaceopt":"You can alter these options to change the way that the user interface and heads up display look and behave. Also from this menu, you can change the color palette used by the interface windows.",		"afk":"Click this box to disable or enable the Away From Keyboard (AFK) auto response (it is enabled by default). If you're AFK, players who try to contact you will receive an automated message. You can edit this message or change the time limit until AFK is activated.",		"alarm":"The alarm clock is useful for monitoring your time online. If you want to quit the game at a specific time, only play for a set amount of time, or set up a time to meet with friends, use the alarm clock to create reminders.",		"chatcolor":"This menu will enable you to customize the colors for different types of chat. Having colored chat sometimes makes it easier to decipher, especially when text is moving quickly through the Chat Window.",		"chatopt":"These options allow you to configure the way that your Chat Window and chat bubbles appear and behave. You can also turn chat bubbles off completely with this menu.",		"combat":"This menu allows you to customize or turn off the floating numbers that appear over your or your enemy's head when damage is dealt.",		"sound":"Audio options and sound volumes are customized from this menu. Move the slider to the far left on any of the volume settings to turn off a particular type of sound.",		"terrain":"Similarly to the graphics options, configuring the Terrain Options will enable you to increase the performance of your PC. Again, if you are aiming to improve performance, you may wish to try moving some of the sliding bars to the left.
+
+Here are some of the Terrain Options that you might want to adjust:
+
+Terrain High Detail Range: Sets the level of detail for the terrain around your character. Reducing the terrain detail may greatly improve performance.
+
+Render Non-Collidable Flora, Render Distant Radial Flora, and Render Nearby Radial Flora: Turning off any of these may increase performance.",		"graphics":"These options will allow you to configure the look of the game, and also enable you to get the most from your PC. The default settings are geared toward performance; you can improve the game's appearance by adjusting various options, but this is likely to impact the game's overall performance. Generally, you would want to move sliding bars to the left in order to improve game performance.
+
+Conversely, if you're having performance problems, you can turn off or reduce various options. Most of the options are self-explanatory, but some are covered here in more detail:
+
+Field of View: Increase field of view to show to show more of the world; reduce field of view to increase performance.
+
+Shadows: Choose from full, volumetric shadows on everything (worst performance), volumetric shadows on characters only, or simple shadows. Turn off shadows completely for the best performance.
+
+Object Detail: Increasing the level of detail on objects decreases performance.",		"options":"The in-game Options Window allows you to change everything from your graphic's settings to your control scheme. At any point, you can review and change your options by pressing the keyboard shortcut Ctrl+O to bring up the Options Window.",		"datapad":"The Datapad is used for storing data, including waypoints, mission details, and crafting schematics.
+
+Waypoints are navigational aids. Whenever you receive a mission, a waypoint is stored in your Datapad. In addition, the full details of a given mission, including any targets, are stored in the Datapad.
+
+You can activate and deactivate a mission's waypoint by double clicking on the mission icon and selecting "Activate Waypoint" or "Deactivate Waypoint". The waypoint will appear as an orange arrow on your radar; when you near the mission objective the waypoint will appear as a column of light in the world.
+
+You can create a new waypoint wherever you're standing by clicking the "New Waypoint" button. You can name a waypoint you've created by choosing "Set Name" from the waypoint's radial menu. Clicking the "Change View" button displays the waypoints as icons.
+
+You can only store a limited number of waypoints. The percentage listed in the waypoint window increases as you add waypoints; when the meter reads one hundred percent, you've reached your limit and must destroy a waypoint before creating a new one.
+
+Schematics are used to craft objects. The ones listed in the datapad are all of the schematics that your character currently has on hand. This will increase as your character acquires new schematics.
+
+You can press the keyboard shortcut Ctrl+D to bring up the Datapad.",		"inventory":"The Inventory displays all of the items you are currently carrying and your money. When clicking on an item, you can examine, destroy, equip, or use an item by selecting the appropriate command from the object's radial menu.
+
+Cycle between viewing your items as icons and viewing a list with pertinent information about your items by clicking the "Change View" button. You can drag any object into your hotkey bar to assign it to a Function key; this is especially useful for medical supplies.
+
+Click the small horizontal arrow at the top-left corner of your Inventory Window to display or hide your character. Click and drag your character to rotate the character model, zoom in or out, or reset the character to its original position.
+
+The bar at the bottom of your Inventory Window is your "carrying capacity". When this bar is full, you can no longer add any items to your inventory.
+
+Some inventory items are "containers" that allow you to store and organize your items, as well as create more room in your inventory. To put items into your container, move the cursor on top of the item and press and hold the left mouse button. Drag the object over the container and release the button. You can open a container by double-clicking it; your Inventory Window will switch to display the objects in your container. To close the container, click on the triangular icon near the image of the container.
+
+You can press the keyboard shortcut Ctrl+I to bring up the Inventory Window.",		"planetarymap":"The Planetary Map will show you a large map of the planet on which you are currently standing. You can use the scroll bar on the bottom of the map to zoom in and out. A direction arrow on the map indicates where you are currently standing and what direction you are facing. 
+
+You will also see icons on the planet depicting where any major cities may lie. Also on the map, you will see any waypoints that you may currently have active in your data pad. If you would like to create a new waypoint, simply right-click on the map where you would like the waypoint to be, and select "Create Waypoint" from the menu that pops up.
+
+On the right side of the Planetary Map, you will see a list of important buildings and other special locations that you may want to visit. Click on one of the items listed here to find one of these locations.
+
+You can press the keyboard shortcut Ctrl+V to bring up the Planetary Map.",		"personal":"The Character Sheet lists all of the vital information about your character, including your attributes and wounds. The Character Sheet is divided into two pages: status and personal.
+
+The status page contains the following information:
+
+Character Name
+
+Battle Fatigue: When engaged in combat, you may acquire Battle Fatigue points. The more Battle Fatigue that you have, the more difficult it will be to heal your wounds. To reduce your Battle Fatigue, you may wish to visit a nearby cantina and watch or listen to an entertainer.
+
+Food and Drink: While you do not need to eat or drink in the game, you can temporarily increase your attributes by consuming certain items. These bars represent your "stomach", or your capacity for eating and drinking.
+
+Faction Standing: Shows your current standing with both the Empire and Rebel Alliance. You gain faction standing by completing missions for either group and/or fighting on battlefields.
+
+Attributes: These represent your Health, Action, and Mind pools, as well as your secondary statistics.
+
+Stat Migration: This is a useful tool for changing your attributes over time. If you decide that you want to increase your mind attribute, you can adjust it though the Stat Migration window. However, you are working with a fixed pool of points; if you want to increase one attribute, you need to decrease another an equal amount. Stat migration does not occur instantly.
+
+The personal page displays interesting information about your character:
+
+Badges: You earn badges over time through adventuring, or completing quests.
+
+Bio: You can fill in your bio by clicking on the window and typing whatever you want. A bio could tell your character's "backstory" or even talk about you as a player.
+
+You can press the keyboard shortcut Ctrl+C to bring up the Character Sheet.",		"cs":"If you have a game related issue that is beyond your ability to resolve, you may turn to the Customer Service Window for more answers. Bring up this window by clicking the "Customer Service" button on the Holocron. The Customer Service Window has two main functions: searching the knowledge base, and submitting a ticket.
+
+The knowledge base should actually be your first stop whenever you have a problem. You can search for information about common problems by typing a keyword that best describes your issue. Please note that the knowledge base will evolve as the game grows.
+
+If you have exhausted the knowledge base and are still experiencing a problem, you can use the game help to send a message to customer service. From the Customer Service Window, click the "New Ticket" tab, select the topic and sub-topic from the pull down menus, and then enter the description of your problem in the large text box. In order for the customer service staff to assist you quickly and thoroughly, please be as detailed as possible in your description. When you are satisfied, click the "Submit" button at the bottom of the screen to send your ticket to a customer service representative.",		"actions":"The Command and Abilities Browser not only lists all of your current special abilities and commands, but also allows you to easily assign virtually any in-game command to your hotkey bar and create your own string of actions (called macros).
+
+You can assign anything listed in the Command and Abilities Browser to your hotkey bar by clicking on the icon and dragging it into a hotkey slot while holding down either mouse button.
+
+Below is a short description of the tabs shown in the Command Browser:
+
+Combat: Lists all of your combat abilities. Marksmen and brawlers begin the game with combat abilities, and others are gained quickly as you progress through the various combat-related professions.
+
+Moods and Socials: The moods tab gives you access to moods that you can set for your character, while the socials tab lists all of the game's emotes, or special communication gestures.
+
+Macro: In the macro tab, you can create macros, or combinations of commands you define yourself. You might decide that, during combat, you always want to follow a Leg Shot with a Headshot; you can turn this into one simple command using the macro feature.
+
+Other: Covers several dozen additional helpful commands, including Burst Run, posture changes, and chat functions.
+
+You can press the keyboard shortcut Ctrl+A to bring up the Command Browser.",		"skills":"The Skill window offers information about the skills you already have, along with a full rundown on all the skills available in the game so you can begin to plan your character's growth. Perhaps most importantly, the Skill window lists all of your current experience, which is the "currency" of the skills system.
+
+The My Character page lists your current professions and their associated skills. Highlighting any profession or skill will provide a description of it. Skills you currently possess are in green. You should read the descriptions of the skills you haven't yet learned to discover how much experience it will cost to learn them, as well as what new abilities and skill modifications you would earn along with that skill.
+
+Beneath your list of professions is a catalog of all your experience and skill modifiers. Every time you use a skill, you gain some amount of the appropriate experience. In addition, many skills give you modifiers for specific actions, like trying to hit an enemy with a given weapon. The modifiers you currently utilize are all listed here.
+
+The All Professions page works in the same manner as the My Character page, except that it lists all of the professions.
+
+You can press the keyboard shortcut Ctrl+S to bring up the Skill Window.",		"windows":"Using the Interface Windows is a versatile way of accessing invaluable information about your character, other players, and the world. You will undoubtedly use these screens frequently during your adventures.",		"cursor":"The mouse cursor in data mode is used to click on icons or resize user interface windows. While in world mode, the reticle attaches to your mouse cursor and can move around the screen. As you move your mouse over an object, the reticle will change color and shape depending upon how you can interact with that object.
+
+By default, you can hit the Alt key to toggle between data and world modes.",		"status":"The red, green, and blue bars (HAM bars) represent your Health, Action, and Mind pools respectively. These drain as you take damage.
+
+Any positive or negative states affecting your character are displayed in your status bar. A "state" is a special condition your character endures or enjoys for a short period of time, and can apply negative or positive modifiers to your attributes or combat abilities.",		"toolbar":"Each of the icons in the toolbar represents a separate data screen that remains hidden until you need it. To open a data screen, you can click on the appropriate icon, or you can use the keyboard shortcut as listed below. The data screens which the icons represent are as follows, listed from left to right:
+
+Map: Opens a planetary map that shows cities and other important locations (Ctrl+V).
+
+Inventory: Allows you to examine or equip and unequip items, including weapons and clothing (Ctrl+I).
+
+Data pad: Stores specific types of data, including navigational aides and schematics for crafting (Ctrl+D).
+
+Character Sheet: Provides all pertinent information about your character, including current attributes and your standing with the Empire and Rebel Alliance (Ctrl+C).
+
+Skills: Review your skills and skill requirements (Ctrl+S).
+
+E-mail: Allows you to send or receive persistent messages to or from other players respectively (Ctrl+E).
+
+Options: Access graphics, controls, and other settings (Ctrl+O).
+
+Community: Provides tools to find other players online (Ctrl+P).
+
+Abilities and Commands: Access your character's special moves, as well as general actions anyone can use. You can drag any action or ability from this screen into your hotkey bar to assign it to a Function key (Ctrl+A).
+
+Holocron: Puts you in touch with the Star Wars Galaxies in-game help system (Ctrl+H).
+
+Game Menu: Allows you to quit the game or review the credits (Shift+Esc).",		"buttonbar":"The hotkey bar is meant to be an easy method for performing virtually any action quickly and efficiently. Each box on the hotkey bar corresponds to one of your Function keys (F1-F12). You can click on most any icon, action, or piece of equipment and then drag it into the hotkey to assign it to a Function key.
+
+You have access to six hotkey bars, numbered one to six. You are able to drag the edges of the hotkey bar pane to expand the bar to two rows. The second row can be utilized by hitting the Shift key and the corresponding Function key.",		"radar":"Your radar shows you a mini-map of the terrain around you. You can zoom your radar in and out to give you a better perspective. The radar also reveals other characters, creatures, and objects in the environment.
+
+The following are just some of the icons you may come across on the radar display.
+
+Orange arrows: mission waypoints, out of range
+Blue arrows: generic waypoints, out of range
+Orange triangles: mission waypoints, in range
+Blue triangles: generic waypoints, in range
+Red dots: aggressive NPCs or creatures
+Yellow dots: non-aggressive NPCs or creatures
+Purple dots: other players within your faction (Imperial, Rebel, etc) 
+Green dots: group members
+Magenta dots: group leader
+Light blue dots: other players
+White "X"s: corpses
+White dot: player (you)",		"chat":"By default, the chatbar is activated simply by typing. The text that you type will automatically appear in the chatbar. The chatbar is also used for typing in special commands. You can begin typing a command by hitting the "/" key.
+
+This is where all chat and other important messages are displayed. You'll notice several tabs on the chat window. These represent different chat channels, which function similarly to chat rooms.
+
+You have the option of moving a chat tab from the standard chat window, which will allow you to monitor multiple channels at once. Simply drag the tab with your right mouse button away from the main chat window to anywhere on your screen. When you release the mouse button, you will create a new window. You can configure a chat tab by right-clicking on the tab.",		"hud":""Heads-Up Display" is a term for all the interface windows that remain on your screen even when you are not using the mouse cursor to interact with them. This is often referred to as a "HUD." Examples of HUD elements include your status bar, your chat box, and your radar.
+
+Click through the topics to the left in order to read more about these interface windows.",		"interface":"Interface and data screens contain a large amount of information and dozens of features. This section explains the importance and use of each interface screen that you may encounter."
+}}

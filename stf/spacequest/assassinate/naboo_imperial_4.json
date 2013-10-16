@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_imperial_4",
+	"entries": {
+		"title_d":"Destroy the Rebel X-wing Squad Leader in the Naboo system. Imperial Intelligence has a lead on the location of the Rebel team leader who was attempting to capture a shipment of the E-62s. The Rebellion cannot be allowed to get away with these strikes on Imperial interests and the leader of this raid must be destroyed. When you complete this mission, return to Lt. Barn Sinkko in Kadaara and Lt. Sinkko will train you in a new Imperial Pilot skill.",		"title":"Naboo System: Destroy the X-wing Squad Leader",		"split_quest_alert_fail":"",		"split_quest_alert":"By a stroke of luck you have another chance to take out the X-wing leader. Stand by for new navigation waypoint to his location.",		"quest_update":"\#pcontrast1 Imperial Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the X-wing Squad Leader",		"quest_target_d":"Intercept the X-wing Squad Leader in the Naboo system. It is possible that he will try to leave the system. In this case command will update the navigation waypoints of the route he is taking in order to exit the system. Track him down and destroy him before he is able to flee the system.",		"quest_location_t":"Travel to the Naboo System",		"quest_location_d":"Travel to the Naboo system and intercept the X-wing Squad Leader before he can leave the area.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"You let the leader of the squadron get away! That is unacceptable. Fortunately for you it would seem that the leader made a mistake in his jump coordinates and is still in the system. Stand by.",		"escort_wiped_out":"\#pcontrast1Tactical Computer:\#pcontrast3 <Escort fighters eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escorts remaining.>",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Nice work, pilot. The Rebel leader has been destroyed and the Rebels are on the run. Return to your commander and report in.",		"arrival_phase_2":"We have the location of the Rebel commander. We have sent you a navigaiton waypoint to his current position. He is on the move so you will have to destroy him before he can exit the system.",		"arrival_phase_1":"Stand by. We are scanning the system for the location of the Rebel commander.",		"Quest Log Data":"Text"
+}}

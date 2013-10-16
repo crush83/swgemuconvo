@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/corellia_privateer_tier3_1_a",
+	"entries": {
+		"title_d":"Patrol Endor space lanes for possible hostile activity",		"title":"Endor System: Patrol Supply Line",		"split_quest_alert_fail":"",		"split_quest_alert":" \#pcontrast3 CorSec command: < \#pcontrast1 We've received news that a damaged transport is along this supply line. Escort the ship and its crew to the nearest safe location. We suspect there's enemy activity. Be wary. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"Travel to this location",		"quest_location_t":"Endor System",		"quest_location_d":"Patrol route between multiple Endor trade lanes",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

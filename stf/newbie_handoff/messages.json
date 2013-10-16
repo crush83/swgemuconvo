@@ -1,20 +1,5 @@
-[
-'18':'heal_mission_wrong_target',
-'17':'heal_mission_need_target',
-'16':'heal_mission_use',
-'15':'heal_mission_menu',
-'14':'harvest_mission_complete',
-'13':'harvest_mission_target_dead',
-'12':'harvest_mission_start',
-'11':'heal_mission_complete',
-'10':'heal_mission_arrival',
-'9':'heal_mission_start',
-'8':'destroy_mission_complete',
-'7':'survey_mission_complete',
-'6':'gig_mission_complete',
-'5':'destroy_mission_start',
-'4':'survey_mission_start',
-'3':'gig_mission_arrival',
-'2':'gig_mission_music_start',
-'1':'gig_mission_dance_start',
-]
+{
+	"stfFile":"newbie_handoff/messages",
+	"entries": {
+		"heal_mission_wrong_target":"This is not the correct patient.",		"heal_mission_need_target":"You need to have a target to use this medicine.",		"heal_mission_use":"Use Medicine",		"heal_mission_menu":"Heal Patient",		"harvest_mission_complete":"You have sucessfully harvested resources from your target.",		"harvest_mission_target_dead":"Now that your target is dead, use your skills to harvest the natural resources from it.",		"harvest_mission_start":"Follow the waypoint to your target and kill it.",		"heal_mission_complete":"You have sucessfully healed your patient.",		"heal_mission_arrival":"You have found your patient, start healing %OT as soon as possible.",		"heal_mission_start":"Follow the waypoint to %TT and use the given medicine to heal %OT.",		"destroy_mission_complete":"You have completed your sample Destroy Mission",		"survey_mission_complete":"You have completed your sample Survey Mission.",		"gig_mission_complete":"You have completed your sample Gig Mission.",		"destroy_mission_start":"Follow the waypoint to target and destroy it.",		"survey_mission_start":"Use your survey tool to locate a XX% density patch of blah, a type of suchandsuch.",		"gig_mission_arrival":"You've arrived at the cantina, go inside and start your performance.",		"gig_mission_music_start":"Follow the waypoint to your local cantina, go inside and play a song for 2 minutes.",		"gig_mission_dance_start":"Follow the waypoint to your local cantina, go inside and dance for 2 minutes."
+}}

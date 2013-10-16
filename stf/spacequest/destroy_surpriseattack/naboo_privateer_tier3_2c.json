@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/naboo_privateer_tier3_2c",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Survive a final spearhead by the Ay'Nat in the Naboo System",		"title":"Naboo System: Survive the Ay'Nat Assault",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 The main convoy has been compromised.  Travel to Corellia space as soon as possible.  We are setting up an ambush for the Ay'Nat fighters heading that way. \#pcontrast3 >",		"leave_early":"",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Warning, more enemy craft have dropped from hyperspace. \#pcontrast3 >"
+}}

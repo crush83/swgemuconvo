@@ -1,23 +1,5 @@
-[
-'21':'task08_journal_entry_title',
-'20':'task08_journal_entry_description',
-'19':'task07_journal_entry_title',
-'18':'task07_journal_entry_description',
-'17':'task06_journal_entry_title',
-'16':'task06_journal_entry_description',
-'15':'task05_journal_entry_title',
-'14':'task05_journal_entry_description',
-'13':'task04_journal_entry_title',
-'12':'task04_journal_entry_description',
-'11':'task03_journal_entry_title',
-'10':'task03_journal_entry_description',
-'9':'task02_journal_entry_title',
-'8':'task02_journal_entry_description',
-'7':'task01_journal_entry_title',
-'6':'task01_journal_entry_description',
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/c_story1_1_imp",
+	"entries": {
+		"task08_journal_entry_title":"Found Sample",		"task08_journal_entry_description":"You found a sample of some kind.",		"task07_journal_entry_title":"More information is needed.",		"task07_journal_entry_description":"You found a corpse and a datapad with a message, apparently to you.  You need more information and hopefully your contact has something for you.",		"task06_journal_entry_title":"Too Late",		"task06_journal_entry_description":"Someone killed Moxxar Krieg before you could talk to him.  A datapad was laying on the corpse with a message addressed to you.",		"task05_journal_entry_title":"Go talk to Moxxar Krieg",		"task05_journal_entry_description":"Talk to Moxxar Krieg about the spice sample.",		"task04_journal_entry_title":"Talk to Doctor Vang",		"task04_journal_entry_description":"Doctor Edvar Vang should be able to analyze the spice sample and give you information.",		"task03_journal_entry_title":"Return to Jevan Monsul",		"task03_journal_entry_description":"Bring the locked datapad and the sample of spice back to Jevan Monsul.",		"task02_journal_entry_title":"Found Datapad",		"task02_journal_entry_description":"You found a locked datapad.",		"task01_journal_entry_title":"Search the Crash Site",		"task01_journal_entry_description":"Search around the crash site for some kind of information.",		"task00_journal_entry_title":"Go to the coordinates on Rori",		"task00_journal_entry_description":"Go to (0, 2012) on Rori and find out what happened to the missing pilot.",		"journal_entry_title":"Man Down!",		"journal_entry_description":"A pilot is lost.  Find out what happened and what he was transporting.",		"category":"Secrets of the Syren"
+}}

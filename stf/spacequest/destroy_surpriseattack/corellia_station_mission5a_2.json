@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_station_mission5a_2",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The ship that you captured was just a decoy! Since your auto-pilot override program is already wasted, you have no choice but to destroy the true Cloak leader.",		"title":"Corellia System: Destroy the True Cloak Leader",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"\#pcontrast1 CorSec Command: <\#pcontrast3  Good work, the REAL Cloak leader is destroyed. Return to the station for debriefing.\#pcontrast1  >",		"assigned_delayed":""
+}}

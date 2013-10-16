@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_rebel_tier3_3_d",
+	"entries": {
+		"title_d":"The Blacklight pirate leader is within your grasp, don't let him slip away!",		"title":"Endor system: Assassinate Blacklight Leader",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Vortex Command: < %TO >",		"quest_target_t":"Blacklight pirate leader.",		"quest_target_d":"Pirates often obtain their rank through their combat skill so the Blacklight pirate leader will probably be a tough opponent. He's also bound to be heavily guarded so prepare for a bloody battle.",		"quest_location_t":"Endor system.",		"quest_location_d":"You're heading straight for the center of the Blacklight pirates area so be prepared for anything!",		"quest_escort_t":"Teach the Blacklights to fear us.",		"quest_escort_d":"Eliminate the leader's retinue as well, it's time to teach these pirate scum a lesson!",		"failed_escape":"Pilot! You've failed your mission! Return to Ezkiel for further instruction.",		"escort_wiped_out":"Vortex Command: < Your work isn't over yet, pilot. His cronies are gone, but you still have the Blacklight leader to deal with. Proceed with your objective! >",		"escort_remaining":"Tactical Computer: < Scanning... ... Remaining Blacklight enemies in the area: %DI >",		"destroy_escort":"You've successfully assassinated the leader, but his cronies won't let you go unscathed. Destroy them all!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Excellent! You successfully assassinated the Blacklight Pirate leader. The Spynet will undoubtedly be grateful. Return to Ezkiel for further instruction.",		"arrival_phase_2":"There he is! The Blacklight Pirates are known for their dogfighting, so be careful. Good luck, pilot. We're counting on you.",		"arrival_phase_1":"We have pinpointed the ship of the leader of the Blacklight pirates and are uploading his coordinates to you now, stand by.",		"Quest Log Data":"Text"
+}}

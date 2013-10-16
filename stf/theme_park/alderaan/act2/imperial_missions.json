@@ -1,82 +1,21 @@
-[
-'80':'m3_failed',
-'79':'m4_finish',
-'78':'disk_text',
-'77':'disk_title',
-'76':'commander_rebel_response',
-'75':'m5_finish',
-'74':'m5_active_abort_response',
-'73':'m5_active_abort',
-'72':'m5_active_restart_response',
-'71':'m5_active_restart',
-'70':'m5_active_working_response',
-'69':'m5_active_working',
-'68':'m5_active',
-'67':'m5_begin_undeclared',
-'66':'m5_begin_no_response',
-'65':'m5_begin_no',
-'64':'m5_begin_yes_response',
-'63':'m5_begin_yes',
-'62':'m5_begin_message_response',
-'61':'m5_begin_message',
-'60':'m5_begin_vacca_response',
-'59':'m5_begin_vacca',
-'58':'m5_begin_drall_response',
-'57':'m5_begin_drall',
-'56':'m5_begin_deadeye_response',
-'55':'m5_begin_deadeye',
-'54':'m5_begin_declared',
-'53':'m4_finish_incomplete',
-'52':'m3_finish',
-'51':'m3_active_abort_response',
-'50':'m3_active_abort',
-'49':'m3_active_restart_response',
-'48':'m3_active_restart',
-'47':'m3_active_working_response',
-'46':'m3_active_working',
-'45':'m3_active',
-'44':'m3_begin_no_response',
-'43':'m3_begin_no',
-'42':'m3_begin_yes_response',
-'41':'m3_begin_yes',
-'40':'m3_begin',
-'39':'m2_slicer_taunt',
-'38':'m1_informant_taunt',
-'37':'m2_active_abort_response',
-'36':'m2_active_abort',
-'35':'m2_active_restart_response',
-'34':'m2_active_restart',
-'33':'m2_active_working_response',
-'32':'m2_active_working',
-'31':'m2_active',
-'30':'m2_begin_no_response',
-'29':'m2_begin_no',
-'28':'m2_begin_yes_response',
-'27':'m2_begin_yes',
-'26':'m2_begin_info1_response',
-'25':'m2_begin_info1',
-'24':'m2_begin',
-'23':'m1_informant_invalid',
-'22':'m1_informant_reprimand_response',
-'21':'m1_informant_reprimand',
-'20':'m1_informant_report_response',
-'19':'m1_informant_report',
-'18':'m1_informant',
-'17':'m1_active_abort_response',
-'16':'m1_active_abort',
-'15':'m1_active_restart_response',
-'14':'m1_active_restart',
-'13':'m1_active_working_response',
-'12':'m1_active_working',
-'11':'m1_active',
-'10':'m1_begin_no_response',
-'9':'m1_begin_no',
-'8':'m1_begin_yes_response',
-'7':'m1_begin_yes',
-'6':'m1_begin_info2_response',
-'5':'m1_begin_info2',
-'4':'m1_begin_info1_response',
-'3':'m1_begin_info1',
-'2':'m1_begin',
-'1':'coordinator_rebel_response',
-]
+{
+	"stfFile":"theme_park/alderaan/act2/imperial_missions",
+	"entries": {
+		"m3_failed":"Where's the disk? Did you leave it on the body? Unbelievable. Listen, Bantha brains, that disk is gone, but there may be another slicer you can intercept. Here's the waypoint. Try to remember to loot the body this time.",		"m4_finish":"You've done well. I'll see to it that our cryptologists get to decoding this right away. If you are willing, there is one final task I'd like completed.",		"disk_text":"Dr. Vacca, 
+
+I am writing to you not only as a friend, but as a fellow citizen of Alderaan with a plea for your help. Years ago your research was used to enrich the lives of the people on our homeworld. Lives that were cut short by the treachery of an Emperor bent on total domination by any means necessary.
+
+
+In opposition to the Emperor's rule is an Alliance of systems that seeks only to bring back the peace and harmony that governed our galaxy for thousands of years. We fight against the fear and disinformation that is used to oppress thousands of worlds
+
+In this dire time, the Alliance needs your help. We have learned of your Dead Eye project and fear that if the Empire is able to implement it, more innocent civilians will perish. Alderaan has shown us that the Empire can not be trusted with any type of new military technology.
+
+Now is a time of decision. The Empire will undoubtedly try to scare you into compliance by threatening you or your friends. We offer an alternative. We offer a life free of guilt and the knowledge that you are working to right the wrongs that have plagued so many for so long. 
+
+We both lost friends, family and heritage when the Empire brutally and callously destroyed Alderaan, a world devoted only to peace. It is a crime that cannot be left unanswered. Decide with your heart and with your conscience to help us defeat those who took so much from us both.
+
+Please help us, Dr. Vacca. Join with the Rebel Alliance before the decision is taken from you. We know you will make the correct choice and await your response.
+
+Princess Leia Organa",		"disk_title":"Rebel Alliance Message",		"commander_rebel_response":"We know all about your dealings with those rebel terrorists. You're lucky I don't order your execution right now where you stand. Now get out of here!",		"m5_finish":"The Empire owes you deep gratitude. Rebel meddling has been prevented and Dead Eye will continue on schedule without dissention. There is nothing more we need from you at this time.",		"m5_active_abort_response":"I usually do not tolerate failure. I will overlook it this time given your history of diligent service to the Empire. You are relieved of your obligation. Return if you change your mind.",		"m5_active_abort":"I can't do this right now.",		"m5_active_restart_response":"Hmm. It is possible that the data was faulty. I will upload the information to your datapad once again. Done. Now move out and finish the job.",		"m5_active_restart":"Are you sure this waypoint is correct?",		"m5_active_working_response":"Good. Get out there and finish the job. Success in this mission will earn you the gratitude of the Empire.",		"m5_active_working":"I'll get right on it.",		"m5_active":"You haven't done as I've asked. You are to go to that encampment of anti-imperialist Drall and exterminate them. The waypoint is already in your datapad. Do not fail me.",		"m5_begin_undeclared":"I'm sorry, this mission is too sensitive to entrust to just anyone. If you decide to officially declare your faction affiliation with the Empire, come back and we'll talk.",		"m5_begin_no_response":"If you decide to change you mind come back and let me know. You just may earn yourself a medal for your distinguished service.",		"m5_begin_no":"I'm not up to this now.",		"m5_begin_yes_response":"Good. A group of Drall are on this planet collecting samples. Go to these coordinates and destroy every one you find there. Killing some of his Drall friends will let Vacca know what can happen should he cross the Empire. Be warned. These Drall are suspected of having Rebel support and attacking a Rebel base will leave you open to retaliation from other declared rebel forces for short time. Be on your guard.",		"m5_begin_yes":"I'll complete your task.",		"m5_begin_message_response":"Vacca needs to know what can happen if he chooses to cross the Empire. Killing a few of his Drall friends who have expressed open distain for the Empire should be message enough.",		"m5_begin_message":"What is the message?",		"m5_begin_vacca_response":"Dr. Vacca is the lead of project Dead Eye. He is very valuable to us. He does have a bit of history though, so we have been keeping a very close eye on him.",		"m5_begin_vacca":"Who is Dr. Vacca?",		"m5_begin_drall_response":"The Drall have great knowledge of pharmaceuticals. Vacca believes their assistance is invaluable, so we've tolerated their presence. But open dissent is a threat to the project.",		"m5_begin_drall":"What do the Drall have to do with this?",		"m5_begin_deadeye_response":"The details of project Dead Eye are none of your concern. Just know that the success of this project is of the utmost importance for the Empire.",		"m5_begin_deadeye":"What is project Dead Eye?",		"m5_begin_declared":"Dr. Vacca has been working with Drall on project Dead Eye. We have been very tolerant so far. However, some of them have made statements against the Empire. We need a message sent.",		"m4_finish_incomplete":"Hello citizen, if you're looking to do some work for the Empire you should contact one of our Imperial Coordinators. Coordinators have been dispatched to Talus, Naboo, Tatooine, Corellia and Rori. I don't need anything from you right now but our coordinators could certainly use your help.
+",		"m3_finish":"You've done well and I commend you for your admirable service to the Empire. There is nothing more I need of you at this time.",		"m3_active_abort_response":"How unfortunate. If you have time later on, please see me again. I hope the commander understands for both of our sakes.",		"m3_active_abort":"I need to do something else right now.",		"m3_active_restart_response":"These missions are not to be taken lightly! Please be more careful next time. Here, I've uploaded the waypoint to your datapad once again.",		"m3_active_restart":"I seem to have lost the Commander's location.",		"m3_active_working_response":"Glad to hear it. I'm sure he will be very pleased.",		"m3_active_working":"I'm leaving on the next flight out.",		"m3_active":"You're still here? I've already contacted the Commander so he's expecting you. He's not the type of man you want to keep waiting.",		"m3_begin_no_response":"In that case, come back whenever your busy schedule allows.",		"m3_begin_no":"I don't have time for this right now.",		"m3_begin_yes_response":"Excellent! The commander is currently off world. I've uploaded his location to your datapad. Deliver the encoded message to him at once.",		"m3_begin_yes":"I will make the delivery.",		"m3_begin":"We need to get that encoded message to the commander. Would you be willing to make the delivery?",		"m2_slicer_taunt":"",		"m1_informant_taunt":"Just what are you looking at?",		"m2_active_abort_response":"That's too bad. If you change your mind, please feel free to come back later.",		"m2_active_abort":"I can't do this right now.",		"m2_active_restart_response":"We received intelligence that the slicer was on the move after you had left. We have his new location and I've updated the new location to your datapad.",		"m2_active_restart":"I was unable to locate the slicer.",		"m2_active_working_response":"That's the spirit. Now get moving!",		"m2_active_working":"I'll stop the slicer and get the encoded message.",		"m2_active":"Back again? Don't tell me you're getting cold feet. We have to stop that slicer and intercept that message before he's able to transmit it.",		"m2_begin_no_response":"That's alright. This sort of work is not for everyone. Come on back if you change your mind though.",		"m2_begin_no":"I'm not so sure I'm up to this.",		"m2_begin_yes_response":"Go to the slicer's location and recover the encoded message using any means. If you're not skilled in combat, bring some help. Return when you've retrieved the encoded message.",		"m2_begin_yes":"I'll do what is necessary.",		"m2_begin_info1_response":"That's just an expression. Lethal force is authorized considering the sensitive nature of this case. You don't need to worry about any legal repercussions.",		"m2_begin_info1":"Get my hands dirty?",		"m2_begin":"We need to prevent that encoded message from being transmitted and retrieve it. Are you ready to get your hands dirty?",		"m1_informant_invalid":"I said, what are you looking at? If I wanted to chat, I would have baked up wastril bread and we'd be having a tea party by now! I don't have any tea, so that's out of the question. Now get!",		"m1_informant_reprimand_response":"Hey, I was just joking with you! I hold the empire in the highest esteem as everyone knows.",		"m1_informant_reprimand":"Words like that can land you in hot water.",		"m1_informant_report_response":"It seems the rebels are planning on slicing an Imperial Communications terminal in order to deliver a message to someone. I wasn't able to find out who the message was for though.",		"m1_informant_report":"What have you learned?",		"m1_informant":"So you're the one the coordinator sent to relay the message, huh? The Empire must be getting desperate!",		"m1_active_abort_response":"I'm sorry to hear that. Perhaps we can find someone else for the job.",		"m1_active_abort":"I don't have time for this right now.",		"m1_active_restart_response":"It looks as though the informant has moved. Here, I've updated his current location into your datapad.",		"m1_active_restart":"Are you sure those coordinates were correct?",		"m1_active_working_response":"Good. Carry on.",		"m1_active_working":"I'll speak with the informant immediately.",		"m1_active":"Have you spoken with the informant yet? This information is vital to the Empire.",		"m1_begin_no_response":"Very well. If you change your mind, come back and we'll talk.",		"m1_begin_no":"No thanks.",		"m1_begin_yes_response":"We have an informant that has intercepted a rebel communication outlining their next move. Speak with the informant and return to me. I have added a waypoint to your data pad.",		"m1_begin_yes":"I would like to help.",		"m1_begin_info2_response":"That information is need-to-know only and you don't need to know. Be assured that success of project Dead Eye is extremely important to the Empire.",		"m1_begin_info2":"What is the Dead Eye Project?",		"m1_begin_info1_response":"Her codename is Skimmer. Her whereabouts are unknown. She joined the rebellion after both her father and brother were killed during earlier campaigns waged against the Empire.",		"m1_begin_info1":"Who is this agent?",		"m1_begin":"A rebel agent stole some very important documents concerning the Dead Eye project. We would like to stop this information from falling into the wrong hands. Would you like to help?",		"coordinator_rebel_response":"I have nothing to say to those who have dealings with rebel scum. I suggest you move along before you find yourself in a hail of blaster fire!"
+}}

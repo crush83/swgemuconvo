@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/corellia_privateer_tier3_4_b",
+	"entries": {
+		"title_d":"Recover information from the Evil Raider Tyrant",		"title":"Space Endor: Recover Information from the Raider Tyrant",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 CorSec Command: < \#pcontrast1 Excellent! Now.. deliver the information to one of our Lancers. Further intructions will be given to you as soon as we know them. \#pcontrast3 >",		"quest_location_t":"Endor System",		"quest_location_d":"Location of the Endor System with a confirmed Tyrant sighting",		"quest_inspect_t":"Evil Raider Tyrant",		"quest_inspect_d":"Disable this craft by shooting out their engines, then /inspect to search their cargo",		"quest_dock_t":"Docking",		"quest_dock_d":"If they have vital information, use the /dock command to retrive it",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'quest_log_data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_tier4_4",
+	"entries": {
+		"title_d":"Travel to the Dathomir system and kill Nej'a Berto'Lo. Insurgent has been able to put all the pieces together and has discovered the location of the first target, Nej'a Berto'Lo. You are ordered to intercept and destroy Nej'a, along with all that fly with him.",		"title":"Dathomir System: Kill Nej'a Berto'Lo",		"split_quest_alert_fail":"",		"split_quest_alert":"During your battle with Nej'a Berto'Lo, we discovered the presence of a Velocity communications ship nearby. Capture and escort that ship for the Empire.",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy Nej'a Berto'lo",		"quest_target_d":"Intercept and destory Nej'a Berto'Lo in the Dathomir system before he can jump out of the system.",		"quest_location_t":"Travel to the Dathomir System",		"quest_location_d":"Travel to the Dathomir system and intercept Nej'a Berto'Lo.",		"quest_escort_t":"Destroy Nej'a's Escort",		"quest_escort_d":"Destroy all fighters flying with Nej'a Berto'Lo.",		"failed_escape":"The Emperor will not be pleased at the news you let Nej'a escape. Report back to your superior and hope they show mercy.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Escort fighters destroyed.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"Send a message to our enemies and destroy everyone who was flying with Nej'a.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"The Emperor will be most pleased with your success. You have no idea of what you have just accomplished. Stand by for further instructions.",		"arrival_phase_2":"Nej'a Berto'Lo is right where the captured orders said he would be but it appears he is attempting to leave the sector. Intercept and destroy.",		"arrival_phase_1":"Scanning sector for target vessel. Stand by.",		"quest_log_data":"Text"
+}}

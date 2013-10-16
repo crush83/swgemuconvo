@@ -1,22 +1,13 @@
-[
-'20':'barrel',
-'19':'cask',
-'18':'large_glass',
-'17':'crystal',
-'16':'small_glass',
-'15':'additive',
-'14':'carbosyrup',
-'13':'plate',
-'12':'place_setting',
-'11':'glass',
-'10':'bottle',
-'9':'sugar',
-'8':'stuffing',
-'7':'spice',
-'6':'prepared_meat',
-'5':'ground_meat',
-'4':'icing',
-'3':'boullion',
-'2':'dough',
-'1':'drink',
-]
+{
+	"stfFile":"craft_food_ingredients_d",
+	"entries": {
+		"barrel":"Drink Container
+
+A massive, temperature regulated drink container designed to hold a crafted beverage.  This enhanced container offers a large bonus to the amount of beverage created when used in crafting.",		"cask":"Drink Container
+
+A very large drink container designed to hold a crafted beverage.  This enhanced container offers a moderate bonus to the amount of beverage created when used in crafting.",		"large_glass":"Drink Container
+
+A large drink container designed to hold a crafted beverage.  This enhanced container offers a slight bonus to the amount of beverage created when used in crafting.",		"crystal":"Crystal",		"small_glass":"Drink Container
+
+A small drink container required to hold a crafted beverage.  This basic container offers no special bonus to the crafted drink's quality.",		"additive":"This is an additive for flavor and texture.",		"carbosyrup":"A sticky syrupy substance fortified with carbohydrates.  Used as a sugary basis for many foods.",		"plate":"A clean plate.",		"place_setting":"This is a place setting.",		"glass":"An empty glass.",		"bottle":"This is a bottle.",		"sugar":"A small amount of sugar to sweeten food.",		"stuffing":"Some hearty stuffing.",		"spice":"A vial of spice.",		"prepared_meat":"Some prepared meat.",		"ground_meat":"A handful of ground meat.",		"icing":"Some sweet icing.",		"boullion":"A cube of boullion.",		"dough":"This is a clump of dough.",		"drink":"A type of drink."
+}}

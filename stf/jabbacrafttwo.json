@@ -1,15 +1,18 @@
-[
-'13':'jvc26',
-'12':'jvc25',
-'11':'jvc24',
-'10':'jvc23',
-'9':'jvc22',
-'8':'jvc21',
-'7':'jvc20',
-'6':'jvc19',
-'5':'jvc18',
-'4':'jvc17',
-'3':'jvc16',
-'2':'jvc15',
-'1':'jvc14',
-]
+{
+	"stfFile":"jabbacrafttwo",
+	"entries": {
+		"jvc26":"I have a friend who specializes in that kind of thing.  I'll get you those blasters.
+",		"jvc25":"I'll get right on that myself.
+",		"jvc24":"Great!  I need 50 blasters as soon as possible.
+",		"jvc23":"Excellent.  When the blasters arrive I'll make sure you are rewarded handsomely.
+",		"jvc22":"I have a friend who specializes in that kind of thing.  I'll get him to work right away.
+",		"jvc21":"I'll get right on that myself.
+",		"jvc20":"I need 50.  Do you think you can handle acquiring those?
+",		"jvc19":"How many do you need?
+",		"jvc18":"I'll get right on it.
+",		"jvc17":"Many of my smugglers are in need of blasters.  They're becoming difficult to acquire with the Empire being more stringent.
+",		"jvc16":"Not me, but I think know someone who can. What do you need?
+",		"jvc15":"Yes. What kind of supplies?
+",		"jvc14":"My associates are running short on supplies.  Are you capable of manufacturing some things for me? 
+"
+}}

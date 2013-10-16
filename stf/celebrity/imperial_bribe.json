@@ -1,33 +1,5 @@
-[
-'31':'you_got_nothing',
-'30':'droideka_story_long',
-'29':'tell_me_droideka',
-'28':'base_story_long',
-'27':'tell_me_base',
-'26':'the_good_stuff',
-'25':'no_more_droideka',
-'24':'anymore_droideka',
-'23':'end_droideka_info',
-'22':'no_more_base',
-'21':'anymore_base',
-'20':'end_base_info',
-'19':'thats_all',
-'18':'end_convo',
-'17':'add_100_bribe',
-'16':'need_more_cash',
-'15':'need_more_money',
-'14':'tell_me_more_droideka',
-'13':'tell_me_more_base',
-'12':'short_droideka_story',
-'11':'short_base_story',
-'10':'short_droideka_info',
-'9':'short_base_info',
-'8':'medium_info',
-'7':'give_100',
-'6':'give_50',
-'5':'what_you_got',
-'4':'nunya',
-'3':'perhaps_bribe',
-'2':'who_are_you',
-'1':'leave_me_alone',
-]
+{
+	"stfFile":"celebrity/imperial_bribe",
+	"entries": {
+		"you_got_nothing":"You don't have any money!",		"droideka_story_long":"Sure.  There's a bio-genics research facil- er...nevermind.",		"tell_me_droideka":"Dantooine?",		"base_story_long":"The base is actually one of the Imperial Inquisitors' pet projects. They chose to build the facility on Lok because the planet has an abundance of noxious chemicals. However, the Inquisitors loathe General Otto, who is technically in power here. They believe he has a brain the size of a meewit, and I'm inclined to agree. In order to bypass Otto and avoid his meddling, the Inquisitors avoided all official requisitions when building the facility. Freelance engineers were hired to build the base, and brutal mercenaries prevent any Rebel spies from interfering with the research. The plan seems to be working: I doubt Otto even realizes that the base exists. ",		"tell_me_base":"Tell me about the base and its guards.",		"the_good_stuff":"Alright. I can tell you that I worked for an Imperial Research base, but that we didn't use requisitioned Imperial soldiers for guards. Instead, we hired the most dangerous mercenaries we could find. The base is also guarded by reprogrammed droidekas that assaults anyone who approaches. The droidekas are so efficient we sent some to the Imperial mines as well as some places on Dantooine...",		"no_more_droideka":"I'm not saying anything else.  Sorry.",		"anymore_droideka":"How can I destroy the Droideka?",		"end_droideka_info":"There's no option but to fight it.  But that Droideka, it's pretty tough.  I think they've made some special mods to it.  I'm not saying what, I'm just saying I heard...",		"no_more_base":"That's all I'm saying. You don't need to know any more than that.",		"anymore_base":"Can you tell me anything else about the base?",		"end_base_info":"There's a feud between General Otto and other Imperials. To keep Otto from meddling in the affairs of the Lok research facility, it was built it in relative secrecy and staffed it with mercenaries rather than requisitioned soldiers.  ",		"thats_all":"Now go. I can't be seen talking to the likes of you.",		"end_convo":"I guess that's all I need.",		"add_100_bribe":"What about another 100 credits?",		"need_more_cash":"That kind of information requires credits, my friend.",		"need_more_money":"I'll need more credits to divulge that information.",		"tell_me_more_droideka":"How can I get past the Droideka?",		"tell_me_more_base":"No Imperials at the base?  Explain.",		"short_droideka_story":"Yes, the so-called "destroyer droids" used by the Trade Federation during the Clone Wars. The Empire has a stockpile of the droids and has reprogrammed them to guard various installations across the galaxy, including the research station and a mine here on Lok. The droidekas are programmed to attack anyone who shouldn't be there. They work so well, we also sent some to the mine to guard the slaves there.",		"short_base_story":"It's a research facility. That's all I can reveal. The base is responsible for manufacturing high-grade explosives for the Empire, including grenades. But there is no obvious Imperial presence at the base. No Imperial soldiers, no guards. The entire base is staffed by freelance mercenaries. ",		"short_droideka_info":"Droidekas?",		"short_base_info":"Tell me about the Imperial base.",		"medium_info":"A modest fee. You'll probably want to know about the Imperial facility where I once served the Empire. The base guarded by droidekas? Is that what you're here for?",		"give_100":"I could spare 100 credits...",		"give_50":"How about 50 credits?",		"what_you_got":"Credits, eh? I am a bit light in the pocket today. But the price of knowledge is steep. What are you offering? ",		"nunya":"Who are you? Some sort of Imperial assassin? I'm not going to make your job easier by confirming my identity. Now leave me alone.",		"perhaps_bribe":"Maybe some money will make you talk to me.",		"who_are_you":"Who are you?",		"leave_me_alone":"Go away.  I'm not talking to anyone today."
+}}

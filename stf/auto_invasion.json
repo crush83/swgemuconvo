@@ -1,7 +1,10 @@
-[
-'5':'ewok_end_starport',
-'4':'ewok_start_starport',
-'3':'ewok_boss_name',
-'2':'ewok_end_outpost',
-'1':'ewok_start_outpost',
-]
+{
+	"stfFile":"auto_invasion",
+	"entries": {
+		"ewok_end_starport":"***Outpost Communication: <Enemy Forces Depleted. Perimeter Secure. All forces stand down. Repeat, all forces stand down.>
+You breath a sigh of relief, but in the back of your mind you know this horror will someday return.",		"ewok_start_starport":"The peace of the day is broken by the screaming of citizens. Something just out of view is coming toward the starport. You grasp your weapon and prepare to face the coming horror.
+***Starport Security Transmission: <Warning! Unauthorized perimeter incursion. Unknown numbers of aliens inbound. All security units to defensive positions. >",		"ewok_boss_name":"An unusually large Ewok",		"ewok_end_outpost":"***Outpost Communication: <Enemy Forces Depleted. Perimeter Secure. All forces stand down. Repeat. All forces stand down.>
+You breath a sigh of relief, but in the back of your mind you know this horror will someday return.",		"ewok_start_outpost":"The sounds of wildlife suddenly cease, almost as if the animals could sense an impending evil.
+Then you hear it, a strange war chant followed by the rush of an invading horde.
+***Outpost Alert: <Warning! Perimeter breached. Unknown numbers of aliens inbound. All units to defensive positions. >"
+}}

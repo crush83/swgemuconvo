@@ -1,4 +1,5 @@
-[
-'2':'loot_item_other',
-'1':'loot_item_self',
-]
+{
+	"stfFile":"spam",
+	"entries": {
+		"loot_item_other":"%TU looted %TT from %TO.",		"loot_item_self":"You loot %TU from %TT."
+}}

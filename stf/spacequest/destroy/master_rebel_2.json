@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/master_rebel_2",
+	"entries": {
+		"title_d":"Now that the Imperial forces in the area have been reduced, there is a much better chance that the Imperial command vessel can be destroyed. The Imperial battlegroup contains a Corellian Corvette class star cruiser. Admiral Willham's plan is to destroy the corvette crippling the Imperial offense in the Kessel system. Without the support of thier capital ship the Imperials will have no choice but to pull their forces from the area.",		"title":"Kessel System: Seek and Destroy the Imperial Corvette",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Travel to the Kessel System",		"quest_location_d":"The Imperial battlegroup has stationed itself in the Kessel system. Because of the black holes in the region their command vessel is easily masked from long range scan so you must search the system until you find the Imperial's corvette.",		"quest_destroy_t":"Destroy the Imperial Corellian Corvette",		"quest_destroy_d":"In order to ensure that the Alliance is able to gain control of the Kessel system, the Imperial's command vessel, a Corellian Corvette class cruiser, needs to be destroyed. Hunt down the Corvette and destroy the vessel. In order to destroy a captial ship you must target and destroy each sub-component of the ship.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,7 +1,5 @@
-[
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/commander_byrne",
+	"entries": {
+		"npc_3":"Carry on then.",		"npc_2":"Do you think I'm a fool?  Where's your uniform?",		"player_2":"Salvage.",		"player_1":"I'm with you.",		"npc_1":"No one should be here but my regiment and the salvage company.  Which are you?"
+}}

@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_rebel_tier4_4_b",
+	"entries": {
+		"title_d":"We have found another of the new ships that you just encountered. Seeing how they were so dangerous, we are sending the squadron to assist you in bringing it down. We will keep monitoring it during the battle to try and find out as much as we can about it.",		"title":"Dathomir system: Defeat one of the Empires experimental ships.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"General Ufwol: < %TO >",		"quest_location_t":"Dathomir system.",		"quest_location_d":"You know the drill in the Dathomir system, extreme caution at all times. The target of attack is deep inside Imperial territory so be very careful approaching it, we don't want to lead more enemies over to the battle.",		"quest_helpallies_t":"The Crimson Phoenix attacks.",		"quest_helpallies_d":"Show these Imperial scum that the Crimson Phoenix fear no one, eliminate all of their forces in the area!",		"quest_findbattle_t":"Battle coordinates.",		"quest_findbattle_d":"The squadron will rally close to these coordinates and attack the enemy forces. Proceed to there with haste but use caution.",		"found_loc":"One of Nym's smugglers spotted the new TIE ship in this area. We're sending in the rest of the squadron to assist you.",		"enemies_win":"Retreat, retreat! Those new ships are beasts, we need to come up with new strategies before we try this again.",		"enemies_remain":"Tactical Computer: < Sensors show enemy target terminated. %DI enemy targets remain. >",		"enemies_arrived":"We have confirmed the enemies presence in this area.",		"battle_started":"Remember your training men and as some people would say, may the force be with you. Attack!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"And that my friends is why we are considered the best of the best. I'm proud of you all.",		"allies_remain":"Rebel Pilot: < My ship is falling apart, I need help! They are all ove... >",		"allies_arrived":"The rest of the squadron is here, join up with them quickly and prepare to attack."
+}}

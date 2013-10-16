@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_imperial_tier3_4",
+	"entries": {
+		"title_d":"We have a lock on the Rebel command vessel, but the time has not yet come to attack it. We still do not know exactly what the Rebels are doing in this system. But command wants to start culling the number of Rebels in the system. There is a Rebel X-wing squadron traveling through the Endor system. Intercept and destroy the entire squadron.",		"title":"Endor System: Destroy the Rebel X-wing Squadron",		"split_quest_alert_fail":"",		"split_quest_alert":"Reports that the Rebels have attacked one of our command shuttles has just reached us. The first wave crippled the shuttle and they are reporting that the Rebels are massing for another attack. Rescue that shuttle before they can be destroyed.",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_target_t":"Kill the X-wing Squadron Leader",		"quest_target_d":"Your primary target is the squadron leader. Make sure that this Rebel never makes it to his destination.",		"quest_location_t":"Travel to the Endor System",		"quest_location_d":"The X-wing squadron is moving through the Endor System. Intercept and destroy them as they make their way through the region.",		"quest_escort_t":"Destroy all Members of the Squadron",		"quest_escort_d":"Eliminate the Rebel threat by destroying the entire Rebel squadron.",		"failed_escape":"The squadron of X-wings has managed to escape the system. You have failed in your duty to protect the interests of the Empire. Report back to your commander immediately.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighter escorts eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI enemy fighter escorts remaining.>",		"destroy_escort":"The lead X-wing has been destroyed but other members of the squadron are still alive. Make sure that none of them are able to escape the system.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"The X-wing threat has been eliminated. Nice work, pilot.",		"arrival_phase_2":"X-wing fighter squadron located. Proceed to the supplied navigation waypoint and eliminate the threat.",		"arrival_phase_1":"Stand by for navigation waypoint to the X-wing fighter squadron."
+}}

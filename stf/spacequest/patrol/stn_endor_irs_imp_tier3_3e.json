@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/stn_endor_irs_imp_tier3_3e",
+	"entries": {
+		"title_d":"The Declorian Territory is a rather unimportant part of the Endor System; far from any trade lanes it is frequented by the Zynt'aia spice clan. These spice pirates have taken an interest in the Linear Miasma, though the gains of this particular cloud to their spice operations are unknown. The Empire sends patrols to this area on occasion at the behest of the Linear Scientists to keep the pirates in check. Your mission is to make a foray into this are and engage the forces there.",		"title":"Endor System: The Grand Tour - Declorian Territory",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Endor Station: < \#pcontrast1 The Zynt'aia are unlikely to be pleased with your presence in this area. Engage and destroy the pirates. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Leg Destination",		"quest_patrol_d":"Travel here to complete this portion of The Grand Tour",		"quest_location_t":"Declorian Territory",		"quest_location_d":"Fly an interrupted patrol to learn about the POI's around the Endor System.  The second stop is the Linear Miasma, a space cloud frequented by research scientists.",		"autorewardsubject":"The Grand Tour",		"autorewardfrom":"Endor Station",		"autorewardbody":"Completion Bonus: Declorian Territory (5000)",		"assigned_delayed":""
+}}

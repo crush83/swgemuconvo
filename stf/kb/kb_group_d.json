@@ -1,8 +1,13 @@
-[
-'6':'leaving',
-'5':'groupchat',
-'4':'grouplist',
-'3':'joining',
-'2':'forming',
-'1':'grouping',
-]
+{
+	"stfFile":"kb/kb_group_d",
+	"entries": {
+		"leaving":"When you are ready to leave a group, you can simply type /disband in the Chat Input box. Alternatively, you can bring up the radial menu on any one of your group members and choose the "Leave Group" option.",		"groupchat":"Members of a group can talk directly to one another by using a special and private group channel, which is automatically created with the group is formed. 
+
+You can speak in your group channel by using the /groupsay command. Press the keyboard shortcut Ctrl+G to automatically prefix your next chat message with the /groupsay command.",		"grouplist":"Once you form or join a group, you'll see a new element: the Group list. The Group list contains the names and HAM bars of every member of your group. If you target a group member, that character's Status box will be marked by a small white triangle. You can target group members by clicking on their Status box.
+
+The group leader's Status box always appears at the top of the Group list (but beneath your own HAM bars). If you target a group member, that character's HAM box will be marked by a white triangle.",		"joining":"To join a group, you must first be invited. When you receive a message that you have been invited to join a group, simply type /join in your Chat Input bar. You can also bring up a radial menu on the character who invited you and select "Join Group".
+
+If you are invited to a group and do not wish to join, type /decline in the Chat Input bar. A "Decline" option also appears on the radial menu of the character that invited you, connected to the "Join Group" option.",		"forming":"To start a group, just click and hold the left mouse button on any player, and then select the "Invite" option from the radial menu. You can also use the /invite command to invite someone to your group.",		"grouping":"Forming groups are often essential to surviving in the wild. Although groups can range from two to twenty players, most groups will typically contain four to eight characters that will band together to take on more dangerous opponents, perform as a band, or protect one another on battlefields.
+
+There are also certain professions in the game, such as Squad Leader, that are able to grant bonuses and abilities to his or her group."
+}}

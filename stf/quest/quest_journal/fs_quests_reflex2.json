@@ -1,12 +1,5 @@
-[
-'10':'d_04',
-'9':'s_04',
-'8':'d_00',
-'7':'s_00',
-'6':'d_03',
-'5':'s_03',
-'4':'d_02',
-'3':'s_02',
-'2':'d_01',
-'1':'s_01',
-]
+{
+	"stfFile":"quest/quest_journal/fs_quests_reflex2",
+	"entries": {
+		"d_04":"QUEST COMPLETE: You have successfully retrieved the much needed supplies for the village of Aurilia. As agreed, Whip has opened your mind to the possibilities of using the Force to enhance your vehicle control skills.",		"s_04":"QUEST COMPLETE",		"d_00":"Supply transports have been attacked. The supplies must be brought to the village of Aurilia!",		"s_00":"Retrieve supply crates.",		"d_03":"The crate of supplies must be returned safely to the village of Aurilia. You must return the crate before it is stolen or damaged.",		"s_03":"Take the supplies back to the village.",		"d_02":"It looks like there is a crate of supplies that has not yet been stolen, and can still be salvaged from the wreckage. You must get that crate! Be careful though, if the enemy spots you, they will likely attack.",		"s_02":"Pick up the box of supplies.",		"d_01":"The emergency beacon indicates the area where the transport was attacked. Find that location and the transport should be nearby.",		"s_01":"Find the transport crash site."
+}}

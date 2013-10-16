@@ -1,27 +1,5 @@
-[
-'25':'heavy_weapon_speed',
-'24':'heavy_weapon_accuracy',
-'23':'thrown_speed',
-'22':'thrown_accuracy',
-'21':'carbine_accuracy',
-'20':'carbine_speed',
-'19':'mask_scent',
-'18':'melee_defense',
-'17':'onehandmelee_accuracy',
-'16':'onehandmelee_speed',
-'15':'pistol_accuracy',
-'14':'pistol_speed',
-'13':'polearm_accuracy',
-'12':'polearm_speed',
-'11':'ranged_accuracy',
-'10':'rifle_accuracy',
-'9':'rifle_speed',
-'8':'twohandmelee_accuracy',
-'7':'twohandmelee_speed',
-'6':'unarmed_accuracy',
-'5':'unarmed_speed',
-'4':'ranged_defense',
-'3':'melee_accuracy',
-'2':'already_have',
-'1':'base',
-]
+{
+	"stfFile":"skill_buff_n",
+	"entries": {
+		"heavy_weapon_speed":"Deltoid Expansion Synthetic",		"heavy_weapon_accuracy":"Observation Supplement",		"thrown_speed":"Brachii Intensifier Compound",		"thrown_accuracy":"Keen-Eye Solution",		"carbine_accuracy":"Carpi Radialis Aligner",		"carbine_speed":"Carpi Ulnaris Flexor",		"mask_scent":"Aroma Screen",		"melee_defense":"Dermal Thickener",		"onehandmelee_accuracy":"Tricep Stretching Chemical",		"onehandmelee_speed":"Flexible Tendon Bolsterer",		"pistol_accuracy":"Enhanced View Cone",		"pistol_speed":"Phalange Intensification Injection",		"polearm_accuracy":"Bicep Advancement Shot",		"polearm_speed":"Sinew Expander",		"ranged_accuracy":"Magnified Sight Increaser",		"rifle_accuracy":"Pinpoint Vision Amplification",		"rifle_speed":"Metacarpal Facilitation Booster",		"twohandmelee_accuracy":"Ligament Extension Formula",		"twohandmelee_speed":"Tensile Muscle Supplement",		"unarmed_accuracy":"Perception Focus Augmentation",		"unarmed_speed":"Muscle Flexibility Enhancer",		"ranged_defense":"Synthesized Muscle Stimulant",		"melee_accuracy":"Accuracy Vapor",		"already_have":"You already have that skill modifier active.",		"base":"Basic Skill Enhancer"
+}}

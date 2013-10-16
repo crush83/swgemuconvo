@@ -1,20 +1,23 @@
-[
-'18':'tt8l18',
-'17':'tt8l17',
-'16':'tt8l16',
-'15':'tt8l15',
-'14':'tt8l14',
-'13':'tt8l13',
-'12':'tt8l12',
-'11':'tt8l11',
-'10':'tt8l10',
-'9':'tt8l9',
-'8':'tt8l8',
-'7':'tt8l7',
-'6':'tt8l6',
-'5':'tt8l5',
-'4':'tt8l4',
-'3':'tt8l3',
-'2':'tt8l2',
-'1':'tt8l1',
-]
+{
+	"stfFile":"tt8l",
+	"entries": {
+		"tt8l18":"Return when you are ready to serve Jabba.
+",		"tt8l17":"Your task is as follows.
+",		"tt8l16":"No. I am not ready, yet.
+",		"tt8l15":"Yes. Give me a task.
+",		"tt8l14":"I am TT-8L. If you wish audience with Jabba the Hutt, I can ask inside the palace if anyone has work for you.
+",		"tt8l13":"This is the Palace of Jabba the Hutt.  It is not open to the public. If you wish to enter, you must first complete tasks for Jabba and his associates.
+",		"tt8l12":"Wait here. I will inquire if anyone inside needs any minor tasks done by the likes of one such as yourself.
+",		"tt8l11":"Jabba does not mingle with tourists. Perform errands for Jabba and he may grant you audience.
+",		"tt8l10":"Who are you?
+",		"tt8l9":"What is this place?
+",		"tt8l8":"I am here to offer my services.
+",		"tt8l7":"I want to see Jabba the Hutt.
+",		"tt8l6":"Bib Fortuna will speak with you now. Go find him inside.
+",		"tt8l5":"There are no appointments currently scheduled with Imperials. Go away.
+",		"tt8l4":"Your kind is not welcome here.
+",		"tt8l3":"Welcome back.
+",		"tt8l2":"There is more work to be done. Are you ready for another mission?
+",		"tt8l1":"State your business.
+"
+}}

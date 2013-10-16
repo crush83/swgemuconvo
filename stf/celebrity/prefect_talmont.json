@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'npc_10',
-'19':'player_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'npc_9',
-'15':'npc_8',
-'14':'player_8',
-'13':'player_7',
-'12':'npc_4',
-'11':'player_6',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'npc_6',
-'6':'player_4',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/prefect_talmont",
+	"entries": {
+		"npc_11":"Thank you for the kind words.  I'll remember them if I ever have to arrest you.",		"npc_10":"No!  On the entire planet!",		"player_10":"Well, you're doing a great job.",		"player_9":"Just in Bestine?",		"npc_5":"It means keeping the streets safe for citizens like yourself.",		"npc_9":"I don't even know who that is.",		"npc_8":"Jabba is a respected businessman, and I shall hear no more of this slander.",		"player_8":"What about Lady Valarian?",		"player_7":"What about Jabba the Hutt?",		"npc_4":"Criminals?  Whatever do you mean?",		"player_6":"What exactly does that entail?",		"player_5":"Why don't you do something about the criminals?",		"npc_3":"I'm in charge of security here on Tatooine. ",		"npc_7":"Perhaps you should get a job first.",		"npc_6":"I don't have time for fools like you.",		"player_4":"Maybe I should get a title.",		"player_3":"If you're so respected why are you stuck here on Tatooine?",		"npc_2":"It's called a title.  That's what you get when you're respected at your job.",		"player_2":"What is it that you do here?",		"player_1":"What is a prefect anyway?",		"npc_1":"What is it that you want?"
+}}

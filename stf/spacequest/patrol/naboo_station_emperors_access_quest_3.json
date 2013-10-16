@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/naboo_station_emperors_access_quest_3",
+	"entries": {
+		"title_d":"The security commander of the Imperial space station in Yavin has asked you a favor. He wants you to confirm the freighter crews suspiciouns that the Rebels are planning to attack their freighter convoys. Travel out to the route and patrol it, to see if you can find any of the Rebel scum.",		"title":"Yavin system: Patrol the freighter route.",		"split_quest_alert_fail":"",		"split_quest_alert":"Imperial Space Station: < There! Rebel scout ships, get them! >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Follow the waypoints.",		"quest_patrol_d":"The Imperial space station will provide you with waypoints along the freighter route, follow them and keep your eyes on your radar.",		"quest_location_t":"Yavin system.",		"quest_location_d":"The freighter route is supposed to be secure but a lot talk for that the freighter crew was right and it's been compromised so be prepared.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

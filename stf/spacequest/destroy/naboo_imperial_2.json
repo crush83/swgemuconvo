@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/naboo_imperial_2",
+	"entries": {
+		"title_d":"Travel to the Naboo system, hunt down, and destroy four X-wing fighter cadets. Since the Empire is unsure where the X-wing fighter cadets are located in the Naboo system, you will receive a few navigation waypoints to suspected areas of Rebel activity. You can check out area around the waypoints to see if you can locate the Rebel cadets or just search the system yourself.  When you complete this mission, return to Lt. Barn Sinkko in Kadaara for your next assignment.",		"title":"Naboo System: Seek and Destroy X-Wing Fighter Cadets",		"split_quest_alert_fail":"",		"split_quest_alert":"You are still not done with your job. Even though you have failed, we still expect you to kill four X-wing Cadets. Get back to work.",		"quest_location_t":"Travel to the Naboo System",		"quest_location_d":"Our reports show that a squad of Rebel X-wing fighter cadets has moved into the Naboo system. Imperial command has supplied you with several areas that might be good to start your search.",		"quest_destroy_t":"Destroy Four X-Wing Fighter Cadets",		"quest_destroy_d":"Search the Naboo system for four Rebel X-wing fighter cadets. Once you have completed this task return to your commanding officer.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,13 +1,5 @@
-[
-'11':'dathomir_station',
-'10':'rori_station',
-'9':'yavin4_station',
-'8':'dantooine_station',
-'7':'nym',
-'6':'imperial_research_station_endor',
-'5':'valarian_sidequest',
-'4':'jabba_sidequest',
-'3':'neutral_category',
-'2':'rebel_category',
-'1':'imperial_category',
-]
+{
+	"stfFile":"spacequest/quests",
+	"entries": {
+		"dathomir_station":"Dathomir Space Station",		"rori_station":"Rori Space Station",		"yavin4_station":"Yavin 4 Space Station",		"dantooine_station":"Dantooine Space Station",		"nym":"Nym, Warlord of Lok",		"imperial_research_station_endor":"Imperial Research Station: 626 - Endor 2",		"valarian_sidequest":"Lady Valarian",		"jabba_sidequest":"Jabba the Hutt",		"neutral_category":"Privateer Assignments",		"rebel_category":"Rebel Alliance",		"imperial_category":"Imperial Navy"
+}}

@@ -1,17 +1,5 @@
-[
-'15':'dalyrake',
-'14':'rebel_hideout',
-'13':'selonians',
-'12':'kor_vella',
-'11':'beldonna_mercenaries',
-'10':'lord_nyax_cult',
-'9':'razor_cat',
-'8':'drall',
-'7':'corellian_butterflies',
-'6':'agrilat_swamp',
-'5':'corellia',
-'4':'bela_vistal',
-'3':'tyrena',
-'2':'coronet',
-'1':'slice_hound',
-]
+{
+	"stfFile":"loading/corellia_n",
+	"entries": {
+		"dalyrake":"Dalyrake",		"rebel_hideout":"Rebel Hideout",		"selonians":"Selonians",		"kor_vella":"Kor Vella",		"beldonna_mercenaries":"Beldonna Mercenaries",		"lord_nyax_cult":"Cultists of Lord Nyax",		"razor_cat":"Razor Cat",		"drall":"Drall",		"corellian_butterflies":"Corellian Butterflies",		"agrilat_swamp":"Agrilat Swamp",		"corellia":"Corellia",		"bela_vistal":"Bela Vistal",		"tyrena":"Tyrena",		"coronet":"Coronet City",		"slice_hound":"Slice Hound"
+}}

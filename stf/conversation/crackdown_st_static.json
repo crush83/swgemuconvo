@@ -1,13 +1,5 @@
-[
-'11':'salute_name',
-'10':'salute',
-'9':'loiter_s2',
-'8':'loiter_s1',
-'7':'bark_s3',
-'6':'bark_s2',
-'5':'bark_s1',
-'4':'follow_lost',
-'3':'follow_giveup',
-'2':'follow_start',
-'1':'rebel_breach',
-]
+{
+	"stfFile":"conversation/crackdown_st_static",
+	"entries": {
+		"salute_name":"Good day, %TT %TO.",		"salute":"Greetings, %TO.",		"loiter_s2":"No loitering here. Move along, citizen.",		"loiter_s1":"Move along, citizen. There's no loitering here.",		"bark_s3":"I don't care much for you, citizen. You'd better stay in line.",		"bark_s2":"Be careful, citizen. Those Rebel scum have been sighted in the area.",		"bark_s1":"Stay out of trouble, citizen. Do not make us detain you.",		"follow_lost":"This is %TO. I lost track of the target... keep your eyes open. Returning to my post.",		"follow_giveup":"This is %TO. It's nothing. Everything appears normal. Returning to my post.",		"follow_start":"This is %TO. I see someone suspicious... checking it out.",		"rebel_breach":"All units be advised. Be on the lookout for suspected Rebel sympathizer, %TO."
+}}

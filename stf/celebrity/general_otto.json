@@ -1,7 +1,5 @@
-[
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/general_otto",
+	"entries": {
+		"npc_3":"So am I.  If you find him, tell him that the Empire will no longer tolerate his existence!",		"npc_2":"Then don't let me keep you.",		"player_2":"I'm looking for Nym.",		"player_1":"Just a traveler.",		"npc_1":"What are you doing here?"
+}}

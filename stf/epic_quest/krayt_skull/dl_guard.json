@@ -1,23 +1,5 @@
-[
-'21':'notyet',
-'20':'npc_11',
-'19':'player_9',
-'18':'npc_10',
-'17':'npc_9',
-'16':'player_8',
-'15':'player_7',
-'14':'npc_8',
-'13':'npc_7',
-'12':'npc_6',
-'11':'player_6',
-'10':'player_5',
-'9':'npc_5',
-'8':'npc_4',
-'7':'player_4',
-'6':'player_3',
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"epic_quest/krayt_skull/dl_guard",
+	"entries": {
+		"notyet":"Huff doesn't want to be disturbed.  He's waiting for his shipment with a Tusken Rifle, and he's not talking to anyone until he finds out what happened to it.",		"npc_11":"Take it easy.",		"player_9":"Ok, talk to you later.",		"npc_10":"Come back when you are.",		"npc_9":"Go on in then, and talk to Huff.  He'll be glad to see you.",		"player_8":"I'm not ready to give it up yet.",		"player_7":"Yeah, I got it.",		"npc_8":"Did you bring the rifle?",		"npc_7":"Yeah, that guy.  Get it together.  You won't survive long on Tatooine if you can't keep up.",		"npc_6":"Well, I suggest you take your head out of the sand and look around you.",		"player_6":"Oh, that guy.",		"player_5":"Don't know him.",		"npc_5":"I hear some criminals got hold of it.  The criminal element has lots to do with these things, when stuff disappears you know?",		"npc_4":"We've checked everywhere on Tatooine.  Huff tried some of his contacts on Corellia but they were no help.  Personally I think it's on Naboo.",		"player_4":"What do you know about the rifle?",		"player_3":"Where have you looked for the rifle?",		"npc_3":"Huff Darklighter?  The head of the Darklighter estate?  He's only the biggest business magnate on Tatooine.  Where have you been?",		"npc_2":"He's very upset about a Tusken Rifle.  It was an antique, and someone's taken it off the planet.  He wants to get it back, but isn't sure how to go about it.",		"player_2":"Who is Huff?",		"player_1":"How come he's not seeing anyone?",		"npc_1":"Sorry, Huff's not seeing anyone today.  You'll have to move along."
+}}

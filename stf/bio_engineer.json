@@ -1,25 +1,11 @@
-[
-'23':'pet_sui_fix_error',
-'22':'pet_sui_stats_fixed',
-'21':'pet_sui_level_fixed',
-'20':'pet_sui_abort',
-'19':'pet_sui_fix_stats',
-'18':'pet_sui_fix_level',
-'17':'pet_sui_text',
-'16':'pet_sui_title',
-'15':'harvest_dna_out_of_range',
-'14':'harvest_dna_succeed',
-'13':'harvest_dna_target_baby',
-'12':'harvest_dna_target_pet',
-'11':'harvest_dna_target_corpse',
-'10':'harvest_dna_creature_killed',
-'9':'harvest_dna_begin_harvest',
-'8':'harvest_dna_attrib_too_low',
-'7':'harvest_dna_cant_harvest',
-'6':'harvest_dna_invalid_target',
-'5':'harvest_dna_failed',
-'4':'harvest_dna_creature_in_combat',
-'3':'harvest_dna_skill_too_low',
-'2':'harvest_dna_need_target',
-'1':'harvest_dna_already_harvesting',
-]
+{
+	"stfFile":"bio_engineer",
+	"entries": {
+		"pet_sui_fix_error":"There was an error trying to adjust this pet, unable to adjust.",		"pet_sui_stats_fixed":"The stats of your pet has been adjusted.  The new stats are the average for a level %DI creature.",		"pet_sui_level_fixed":"The level of your pet has been adjusted.  The new level is: %DI.",		"pet_sui_abort":"Cancel",		"pet_sui_fix_stats":"Adjust Pet Stats",		"pet_sui_fix_level":"Adjust Pet Level",		"pet_sui_text":"This pet has invalid stats for the level listed.  You will be unable to call the pet until it is corrected.  
+
+Adjust Pet Level - This option will keep the existing pet stats, but increase the level to a valid level for the stats.  NOTE:  This may cause the pet level to be higher than you are able to control.
+
+Adjust Pet Stats - This option will keep the listed level, but reduce the stats to the average acceptable stats for the level.  NOTE: Only average stats can be assigned you may lose variety that makees this pet unique.
+
+(You will need to manually call the pet again after it has been corrected.)",		"pet_sui_title":"Invalid Pet",		"harvest_dna_out_of_range":"Your target is too far away to be able to sample from.",		"harvest_dna_succeed":"You successfully collected a DNA sample.",		"harvest_dna_target_baby":"That creature is too young to get a viable DNA sample.",		"harvest_dna_target_pet":"You cannot sample DNA from that pet.",		"harvest_dna_target_corpse":"You cannot sample DNA from a corpse.",		"harvest_dna_creature_killed":"The shock to it's system was too much, the %TT falls over dead.",		"harvest_dna_begin_harvest":"You begin taking a DNA sample.",		"harvest_dna_attrib_too_low":"You are too tired to sample DNA now.",		"harvest_dna_cant_harvest":"You cannot sample DNA from that target.",		"harvest_dna_invalid_target":"You cannot sample DNA from that target.",		"harvest_dna_failed":"You failed to get a viable DNA sample.",		"harvest_dna_creature_in_combat":"It is too dangerous to sample DNA from a creature while it's in combat.",		"harvest_dna_skill_too_low":"You are not sufficiently skilled to take DNA samples.",		"harvest_dna_need_target":"You need to target the creature you wish to take a DNA sample from.",		"harvest_dna_already_harvesting":"You are already in the process of taking a DNA sample."
+}}

@@ -1,29 +1,5 @@
-[
-'27':'disk_name_slicer',
-'26':'mission_complete',
-'25':'m5_init_failure',
-'24':'waypoint_desc_5',
-'23':'waypoint_name_5',
-'22':'waypoint_desc_4',
-'21':'waypoint_name_4',
-'20':'m3_init_failure',
-'19':'waypoint_return_desc_3',
-'18':'waypoint_return_name_3',
-'17':'waypoint_name_3',
-'16':'waypoint_desc_3',
-'15':'decode_failed',
-'14':'decoded_data_disk',
-'13':'disk_name_decoded',
-'12':'disk_name_encoded',
-'11':'use',
-'10':'decode',
-'9':'close',
-'8':'m1_data_disk_denied',
-'7':'m1_data_disk_received',
-'6':'waypoint_failure',
-'5':'m1_init_failure',
-'4':'waypoint_return_desc_1',
-'3':'waypoint_return_name_1',
-'2':'waypoint_desc_1',
-'1':'waypoint_name_1',
-]
+{
+	"stfFile":"theme_park/alderaan/act2/shared_imperial_missions",
+	"entries": {
+		"disk_name_slicer":"Rebel Alliance Message",		"mission_complete":"CONGRATULATIONS!!  You have completed the Vacca's Allegience Event.",		"m5_init_failure":"The Drall must have moved their camp, they are no longer at these coordinates.",		"waypoint_desc_5":"Locate the Drall Camp and make an example of them for other Rebel dissidents.",		"waypoint_name_5":"Destroy Drall Camp",		"waypoint_desc_4":"Deliver the encoded message to the Imperial Commander.",		"waypoint_name_4":"Report to the Commander",		"m3_init_failure":"It appears the slicer is no longer at these coordinates.",		"waypoint_return_desc_3":"Return to the Imperial Coordinator with the encoded message.",		"waypoint_return_name_3":"Return to Coordinator",		"waypoint_name_3":"Intercept Rebel Slicer",		"waypoint_desc_3":"Stop the Rebel Slicer and intercept the encoded message.",		"decode_failed":"You do not have the required decoder to decode this message.",		"decoded_data_disk":"Using the old Imperial Decoder you were able to decode the Dead Eye message.",		"disk_name_decoded":"Dead Eye Disk [decoded]",		"disk_name_encoded":"Dead Eye Disk [encoded]",		"use":"Read",		"decode":"Decode",		"close":"Close",		"m1_data_disk_denied":"You were unable to receive the data disk because your inventory is full. You need to make space available.",		"m1_data_disk_received":"You have been given a data disk.",		"waypoint_failure":"Your datapad is unable to hold more information. Talk to me after you've cleaned out that useless data you are carrying and I'll download the information then.",		"m1_init_failure":"It appears your contact is no longer at this location.",		"waypoint_return_desc_1":"Return to the Imperial Coordinator and report your findings.",		"waypoint_return_name_1":"Return to Coordinator",		"waypoint_desc_1":"Contact the Imperial Informant at these coordinates and find out what has been found out about Skimmer.",		"waypoint_name_1":"Locate Informant"
+}}

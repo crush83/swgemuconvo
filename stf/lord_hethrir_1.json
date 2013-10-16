@@ -1,12 +1,5 @@
-[
-'10':'informant3',
-'9':'informant2_reply1',
-'8':'informant2',
-'7':'informant1_reply1',
-'6':'informant1',
-'5':'lord3',
-'4':'lord2',
-'3':'lord1_reply2',
-'2':'lord1_reply1',
-'1':'lord1',
-]
+{
+	"stfFile":"lord_hethrir_1",
+	"entries": {
+		"informant3":"They've established a small camp.  I load the coordinates into your datapad.",		"informant2_reply1":"Of course not.  I'll go now.",		"informant2":"What are you trying to do, blow my cover?",		"informant1_reply1":"Tell me.",		"informant1":"You must be who Lord Hethrir sent to talk to me.  Listen, I have discovered the whereabouts of a fringe group that has been selling explosives to radicals!",		"lord3":"Finish whatever business is delaying you immediately, and then speak to me again.",		"lord2":"Hurry up.  The safety of the Imperial Citizens depends on your quick action.",		"lord1_reply2":"No time for that now.",		"lord1_reply1":"Will do.",		"lord1":"Speak to my contact outside of Moenia and track down the insurgents."
+}}

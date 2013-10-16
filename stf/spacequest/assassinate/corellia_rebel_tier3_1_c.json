@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_rebel_tier3_1_c",
+	"entries": {
+		"title_d":"An Imperial scout patrol has spotted you destroying their friends and they are making a break for it to report the incident. They can't be allowed to escape!",		"title":"Yavin system: Destroy the Imperial scout patrol.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < We have a fighter wing that is being intercepted by TIE ships, help them out! >",		"quest_update":"Rebel Command: < %TO >",		"quest_target_t":"Destroy the Imperial scout ship.",		"quest_target_d":"The Empire often use a modified TIE Interceptor for scouting. The TIE Interceptor is a very fast fighter so it will be difficult to catch up to him but we're counting on you.",		"quest_location_t":"Yavin system.",		"quest_location_d":"You have to stop this Imperial scout patrol but as always in the Yavin system, be careful of attracting more Imperial presence.",		"quest_escort_t":"Destroy escort.",		"quest_escort_d":"The two escort TIE fighters are mainly there to slow you down and let the TIE Interceptor get away. Never the less, they can't be allowed to escape either as they can report the same information the Interceptor can.",		"failed_escape":"You let them get away! We are preparing a emergency plan. Return to base immediately!",		"escort_wiped_out":"Rebel Command: < Only one left, don't let him slip away pilot! >",		"escort_remaining":"Rebel Command: < Great pilot, destroy them all! Hurry before they get within communication distance of their fleet! >",		"destroy_escort":"Nice one pilot, you can't let any of them escape though, take out those TIE's!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Good work pilot! We are almost out of here.",		"arrival_phase_2":"Coordinates uploaded to your nav computer, intercept and destroy the scouts!",		"arrival_phase_1":"We are scanning the sector for an intercept course now, stay alert.",		"Quest Log Data":"Text"
+}}

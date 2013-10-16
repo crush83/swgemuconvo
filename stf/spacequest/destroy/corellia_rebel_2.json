@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/corellia_rebel_2",
+	"entries": {
+		"title_d":"Search the Corellia system for easy target TIE fighters and eliminate them. Eliminate four of them to succeed with your mission of sending a message to the Empire. When you complete this mission, return to Captain Kreezo in Tyrena for your next assignment.",		"title":"Corellia system: Hunt the TIE Fighters.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < Don't let them defeat you pilot. Get back out there and show them that the Alliance fold for no one! >",		"quest_location_t":"Corellia system.",		"quest_location_d":"The Corellia system is relatively safe for us. It's considered neutral and have been left alone by the Empire for the most part. Lately they have been starting to take more and more liberties in the system though and we have to be careful not to draw too much attention or the Empire might move in full force.",		"quest_destroy_t":"TIE Fighter.",		"quest_destroy_d":"The Imperial TIE fighter is built to be cheap and reliable. It doesn't have a shield system or heavy armor but it makes up for that in speed and agility. Lone TIE fighters are hard to come by, they usually travel in big packs to be more of a threat.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

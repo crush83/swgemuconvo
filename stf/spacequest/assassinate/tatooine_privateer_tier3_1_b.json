@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_privateer_tier3_1_b",
+	"entries": {
+		"title_d":"Continue destroying the Valarian Replacements, part 2 of 3.",		"title":"Yavin System: Hunt down Valarian replacements (continued)",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Beissa: < \#pcontrast1 Your third target will be in Yavin shortly.  This is all going very well, you might just work out yet. \#pcontrast3 >",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Valarian Replacement",		"quest_target_d":"A defected Imperial pilot living a mercenary life to avoid the Empire",		"quest_location_t":"Yavin System",		"quest_location_d":"An area of space around the gas giant Yavin",		"quest_escort_t":"Escort",		"quest_escort_d":"Leave no survivors",		"failed_escape":"\#pcontrast3 Beissa: < \#pcontrast1 Valarian's new hired killer managed to elude you.  Perhaps she was right in letting you get away. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Beissa: < \#pcontrast1 Leave none alive.  Do not think that for a moment they might have spared you. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 Beissa: < \#pcontrast3 I think I heard Our Lady screaming all the way from Mos Eisley. She has a wonderful voice. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Beissa: < \#pcontrast1 There they are, track them down before they can locate you. \#pcontrast3  >",		"arrival_phase_1":"\#pcontrast3 Beissa : < \#pcontrast1 You appear to have gotten their attention, your next target is coming to you now. \#pcontrast3 >"
+}}

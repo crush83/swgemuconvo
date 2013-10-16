@@ -1,18 +1,5 @@
-[
-'17':'escort_remaining',
-'16':'escort_wiped_out',
-'15':'abort',
-'14':'failed_destroy',
-'13':'failed_escape',
-'12':'complete',
-'11':'recovery_success',
-'10':'capture_complete',
-'9':'capture_started',
-'8':'target_disabled',
-'7':'quest_update',
-'5':'capture_phase_2',
-'4':'capture_phase_1',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'title',
-]
+{
+	"stfFile":"space/recovery_duty/corellia_privateer_12",
+	"entries": {
+		"escort_remaining":" \#pcontrast3 Tactical Computer: < \#00ff00 %DI ships remain in the vessel's escort. \#pcontrast3 >",		"escort_wiped_out":" \#pcontrast3 Tactical Computer: < \#00ff00 The targeted vessel's escort has been eliminated. \#pcontrast3 >",		"abort":"Abort code recognized. Stand by for course change... ... Confirmed. You are authorized to leave the system.",		"failed_destroy":"The Star Kimogila was destroyed! This is unacceptable! Return to base at once. You are to blame for this failure!",		"failed_escape":"The Star Kimogila has escaped the area. This is a disgrace! Return to base at once!",		"complete":"We've made it to safety. Jumping to lightspeed...now.",		"recovery_success":"The Star Kimogila has been secured. Good job, pilot.",		"capture_complete":" \#pcontrast3 Tactical Computer: < \#00ff00 Primary mission target capture operation complete! \#pcontrast3 >",		"capture_started":" \#pcontrast3 Tactical Computer: < \#00ff00 Primary mission target capture operation underway. \#pcontrast3 >",		"target_disabled":" \#pcontrast3 Tactical Computer: < \#00ff00 The Star Kimogila has been disabled. Capture operation will begin shortly. \#pcontrast3 >",		"quest_update":" \#pcontrast3 Hutt Command: < \#pcontrast1 %TO \#pcontrast3 >",		"capture_phase_2":"Resistance eliminated. We've taken the bridge. We'll be underway shortly.",		"capture_phase_1":"Boarding party is facing light resistance.",		"arrival_phase_2":"The Star Kimogila has arrived. Disable the vessel and eliminate her escorts!",		"arrival_phase_1":"Your targeted entourage will arrive at any moment.",		"title":"Capture the Star Kimogila"
+}}

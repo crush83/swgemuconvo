@@ -1,13 +1,7 @@
-[
-'11':'sui_prompt2',
-'10':'sui_prompt1',
-'9':'sui_title',
-'8':'msg_learned_command',
-'7':'msg_learned_schematic',
-'6':'msg_already_have_command',
-'5':'msg_already_have_schematic',
-'4':'msg_not_enough_xp',
-'3':'msg_no_xp',
-'2':'msg_no_min_skill',
-'1':'menu_learn',
-]
+{
+	"stfFile":"item/xp_purchase",
+	"entries": {
+		"sui_prompt2":" Experience to learn from this item?",		"sui_prompt1":"You must spend experience points in order to learn from this item.
+
+Do you really want to spend ",		"sui_title":"Learn From Item",		"msg_learned_command":"You have learned a new ability!",		"msg_learned_schematic":"You have learned a new draft schematic!",		"msg_already_have_command":"You already have that ability. You cannot learn from this item.",		"msg_already_have_schematic":"You already have that draft schematic. You cannot learn from this item.",		"msg_not_enough_xp":"You do not have enough experience to learn from this item. You need at least %DI %TO experience.",		"msg_no_xp":"You cannot learn from this item. You do not have any %TO experience. ",		"msg_no_min_skill":"You do not meet the minimum skill requirements to learn from this item. You must have the %TO skill.",		"menu_learn":"Learn"
+}}

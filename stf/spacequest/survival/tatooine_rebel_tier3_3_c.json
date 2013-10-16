@@ -1,29 +1,5 @@
-[
-'27':'transmission_start',
-'26':'transmission_received',
-'25':'trans_update',
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_reachpoint_t',
-'18':'quest_reachpoint_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_defendpoint_t',
-'14':'quest_defendpoint_d',
-'13':'outofrange_failed',
-'12':'outofrange',
-'11':'mission_complete',
-'10':'found_loc',
-'9':'first_attack',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_loc',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/survival/tatooine_rebel_tier3_3_c",
+	"entries": {
+		"transmission_start":"Rebel Command: < The Commando teams nav computer need about three minutes to calculate their hyperspace jump. Give them the time pilot! >",		"transmission_received":"Rebel Command: < Our Commando team report that they are starting their hyperspace jump sequence. >",		"trans_update":"Rebel Command: < Our commando team are %DI percent done with calculating their hyperspace jump, hang in there! >",		"title_d":"You have helped the commando team break through the Imperial blockade but there's multiple fighters still chasing after them. Get in their way and let none pass!",		"title":"Dathomir system: Make a stand.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Rebel Command: < %TO >",		"quest_reachpoint_t":"Coordinates of interception.",		"quest_reachpoint_d":"These are the coordinates we have calculated will put you in the middle of our commando team and their pursuers. Proceed to there immediately.",		"quest_location_t":"Dathomir system.",		"quest_location_d":"Not only have the Dathomir system been like an angry bee's nest of Imperials lately, they know where you are and they are heading your way! Be ready for anything!",		"quest_defendpoint_t":"None shall pass!",		"quest_defendpoint_d":"Let none of the Imperial forces get by you. The commando team has estimated that it will take their crippled ship about three minutes to get prepared for the jump to lightspeed, you need to provide them with that time.",		"outofrange_failed":"Rebel Command: < A squad of TIE Interceptors slipped by! Return to base immediately! >",		"outofrange":"Rebel Command: < Move back to original position, you're too far out, fighters will slip by! >",		"mission_complete":"Rebel Command: < Our team is safe. Get back to base pilot, you've more than deserved a long rest. >",		"found_loc":"I hope you still have some fighting left in you pilot, we're counting on you.",		"first_attack":"Here they come pilot!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < No more fighter vessels within sensor range. >",		"attack_notify":"Tactical Computer: < Incoming fighter vessels. Scans show weapons armed. >",		"assigned_delayed":"",		"arrived_at_loc":"Make a stand here, don't let any Imperial ships get by you.",		"Quest Log Data":"Text"
+}}

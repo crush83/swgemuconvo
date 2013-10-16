@@ -1,19 +1,5 @@
-[
-'17':'gemstone_crystalline',
-'16':'gas',
-'15':'ore',
-'14':'metal',
-'13':'gas_inert',
-'12':'gas_reactive',
-'11':'metal_nonferrous',
-'10':'gemstone_armophous',
-'9':'ore_siliclastic',
-'8':'ore_sedimentary',
-'7':'ore_extrusive',
-'6':'ore_igneous',
-'5':'metal_ferrous',
-'4':'radioactive',
-'3':'fuel_petrochem_solid',
-'2':'petrochem_inert',
-'1':'fuel_petrochem_liquid',
-]
+{
+	"stfFile":"mission/survey/survey_resource_names",
+	"entries": {
+		"gemstone_crystalline":"Crystalline Gemstone",		"gas":"Gas",		"ore":"Ore",		"metal":"Metal",		"gas_inert":"Inert Gas",		"gas_reactive":"Reactive Gas",		"metal_nonferrous":"Non-ferrous Metal",		"gemstone_armophous":"Armophous Gemstone",		"ore_siliclastic":"Siliclastic Ore",		"ore_sedimentary":"Sedimentary Ore",		"ore_extrusive":"Extrusive Ore",		"ore_igneous":"Igneous Ore",		"metal_ferrous":"Ferrous Metal",		"radioactive":"Radioactives",		"fuel_petrochem_solid":"Solid Petrochemicals",		"petrochem_inert":"Inert Petrochemicals",		"fuel_petrochem_liquid":"Liquid Petrochemical Fuel"
+}}

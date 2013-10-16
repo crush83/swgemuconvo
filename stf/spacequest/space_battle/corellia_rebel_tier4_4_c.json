@@ -1,28 +1,5 @@
-[
-'26':'title_d',
-'25':'title',
-'24':'split_quest_alert_fail',
-'23':'split_quest_alert',
-'22':'quest_update',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_helpallies_t',
-'18':'quest_helpallies_d',
-'17':'quest_findbattle_t',
-'16':'quest_findbattle_d',
-'15':'found_loc',
-'14':'enemies_win',
-'13':'enemies_remaining',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_rebel_tier4_4_c",
+	"entries": {
+		"title_d":"The Empire is trying to retaliate for your attack on their freighter, they want your head. We have sent reinforcements to the area, lets show the Empire that we are not afraid of them.",		"title":"Endor system: Defeat the Empires retaliation.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Worvog Arkon: < %TO >",		"quest_location_t":"Endor system.",		"quest_location_d":"If you can, avoid running in to more enemies on your way to your reinforcements. Keep in mind though, the Imperial fighters are close behind you and you can't allow yourself to be detoured for long.",		"quest_helpallies_t":"Reinforcements arrive.",		"quest_helpallies_d":"With the help of your reinforcements, turn the table on the Empire and teach them a lesson.",		"quest_findbattle_t":"Rendez-vous location.",		"quest_findbattle_d":"The Imperial fighters are closing in on you, proceed to this area immediately where your reinforcements will meet up with you.",		"found_loc":"The reinforcements will arrive at this location, get there fast pilot.",		"enemies_win":"Pull out! We don't need more casaulties!",		"enemies_remaining":"",		"enemies_remain":" Worvog Arkon: < Keep it up everyone, you can do this! There's only %DI left! >",		"enemies_arrived":"The Imperial forces have arrived, everyone prepare for battle.",		"battle_started":"Bring the fight to them. Be careful of those new TIE ships though, we're not sure what they are capable of.",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Good work everyone. We're sending in a Tech team to retrieve debris of those new Imperial vessels. Return to base.",		"allies_remain":"Allied Pilot: < What are those ships?! They are too tough! Tell my w... >",		"allies_arrived":"Our reinforcements have arrived, join up with them quickly, the Empire is closing in.",		"Quest Log Data":"Text"
+}}

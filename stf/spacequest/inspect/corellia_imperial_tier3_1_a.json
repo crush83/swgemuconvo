@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/corellia_imperial_tier3_1_a",
+	"entries": {
+		"title_d":"Remain in the Yavin system and inspect the Rebel spy. While on your patrol your short range scanners picked up the signature of a Rebel spy. Intercept and disable this Rebel, so you can inspect it for any sort of operations plan between Nym and the Rebellion.",		"title":"Yavin System: Inspect the Rebel Spy",		"split_quest_alert_fail":"",		"split_quest_alert":"Headquarters needs that information immediately. Transfer it to an Imperial shuttle for immediate delivery to command.",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The signature shows that the Rebel's vessel is located inside the Yavin system.",		"quest_inspect_t":"Inspect the Rebel Spy",		"quest_inspect_d":"Scans indicate that a Rebel spy is in the region. This vessel must be disabled and searched in order to discover what information he might have on the alliance between the Rebels and Nym. ",		"quest_dock_t":"Transfer the Joint Operations Plan",		"quest_dock_d":"Dock with the disabled spy and transfer the Joint Operations Plan to your ship. Once you have that you will need to delivery that a command shuttle immediatley.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

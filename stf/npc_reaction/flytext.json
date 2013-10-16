@@ -1,16 +1,5 @@
-[
-'16':'yum',
-'15':'nothungry',
-'14':'confused',
-'13':'nofood',
-'12':'repaired',
-'11':'recharged',
-'10':'low_power',
-'9':'nobattery',
-'8':'toofar',
-'5':'fail',
-'4':'success',
-'3':'afraid',
-'2':'threaten',
-'1':'alert',
-]
+{
+	"stfFile":"npc_reaction/flytext",
+	"entries": {
+		"yum":"Yummy!",		"nothungry":"Your pet isn't hungry.",		"confused":"?!!?!?!",		"nofood":"You don't have any food to give!",		"repaired":"*Repaired*",		"recharged":"*Recharged*",		"low_power":"*Low Power*",		"nobattery":"You don't have a power storage device.",		"toofar":"You are too far away to tame the creature.",		"fail":"You fail to tame the creature.",		"success":"You tame the creature.",		"afraid":"\\|/",		"threaten":"!",		"alert":"?"
+}}

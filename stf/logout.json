@@ -1,6 +1,5 @@
-[
-'4':'must_be_sitting',
-'3':'aborted',
-'2':'safe_to_log_out',
-'1':'time_left',
-]
+{
+	"stfFile":"logout",
+	"entries": {
+		"must_be_sitting":"You must be sitting in order to log out safely.",		"aborted":"Your attempt to log out safely has been aborted.",		"safe_to_log_out":"You may now log out safely.",		"time_left":"You have %DI seconds left until you may log out safely."
+}}

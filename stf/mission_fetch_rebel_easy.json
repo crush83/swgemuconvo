@@ -1,7 +1,5 @@
-[
-'5':'fetch_rebel_easy_2',
-'4':'fetch_rebel_easy_3',
-'3':'fetch_rebel_easy_4',
-'2':'fetch_rebel_easy_1',
-'1':'fetch_rebel_easy_5',
-]
+{
+	"stfFile":"mission_fetch_rebel_easy",
+	"entries": {
+		"fetch_rebel_easy_2":"Go fetch Princess Leia a pink lightsaber.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_rebel_easy_3":"Go fetch Princess Leia a pink lightsaber.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_rebel_easy_4":"Go fetch Princess Leia a pink lightsaber.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_rebel_easy_1":"Go fetch Princess Leia a pink lightsaber.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_rebel_easy_5":"Go fetch Princess Leia a pink lightsaber.  STUB MISSION DESCRIPTION, REMOVE LATER."
+}}

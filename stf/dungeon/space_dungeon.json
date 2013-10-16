@@ -1,23 +1,5 @@
-[
-'30':'corellian_corvette_travel_fail',
-'29':'corvette_imperial_pilot',
-'28':'corvette_neutral_pilot',
-'27':'corvette_rebel_pilot',
-'26':'corvette_imperial',
-'25':'corvette_rebel',
-'24':'corvette_neutral',
-'14':'dungeon_ticket_d',
-'13':'dungeon_ticket',
-'12':'request_travel',
-'11':'no_room_remaining',
-'10':'not_authorized',
-'9':'test_dungeon',
-'8':'request_travel_outstanding',
-'7':'validating_ticket',
-'6':'illegal_ticket',
-'5':'no_collector',
-'4':'no_ticket',
-'3':'test_failure',
-'2':'test_success',
-'1':'unable_to_find_dungeon',
-]
+{
+	"stfFile":"dungeon/space_dungeon",
+	"entries": {
+		"corellian_corvette_travel_fail":"The Corellian corvette is currently out of transport range making transportation impossible.",		"corvette_imperial_pilot":"Speak to an Imperial pilot at the Emperor's Retreat.",		"corvette_neutral_pilot":"Speak to Klaatu at Jabba's Palace.",		"corvette_rebel_pilot":"Speak to Lt. Lance at the Alliance Base.",		"corvette_imperial":"a Rebel controlled Corellian Corvette",		"corvette_rebel":"an Imperial controlled Corellian Corvette",		"corvette_neutral":"a CSF controlled Corellian Corvette",		"dungeon_ticket_d":"This appears to contain the necessary authorization to travel to a restricted location.",		"dungeon_ticket":"Travel Authorization Form",		"request_travel":"Present Travel Authorization",		"no_room_remaining":"There are too many people in this area.  Return transportation initiated.",		"not_authorized":"You do not have the proper authorization to be in this area.",		"test_dungeon":"Test Dungeon",		"request_travel_outstanding":"You already have an outstanding travel request.",		"validating_ticket":"Validating travel authorization.  Please stand by...",		"illegal_ticket":"That is not the proper travel authorization.",		"no_collector":"There is nobody that will accept your travel authorization.",		"no_ticket":"You do not have the proper authorization to access the %TO.",		"test_failure":"Space dungeon travel has failed.",		"test_success":"Space dungeon travel is successful.",		"unable_to_find_dungeon":"That area is currently unavailable.  Please try again later."
+}}

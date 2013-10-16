@@ -1,7 +1,5 @@
-[
-'5':'inspace',
-'4':'btn_color',
-'3':'pick_a_ship_title',
-'2':'pick_a_ship',
-'1':'imperial',
-]
+{
+	"stfFile":"color_kit",
+	"entries": {
+		"inspace":"You cannot paint a ship while you are in space!",		"btn_color":"Paint Ship",		"pick_a_ship_title":"Pick a ship.",		"pick_a_ship":"Select a ship to paint.",		"imperial":"You cannot paint an Imperial Ship."
+}}

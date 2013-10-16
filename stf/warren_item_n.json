@@ -1,20 +1,5 @@
-[
-'18':'warning_sign',
-'17':'inquisitor_letter',
-'16':'core_rod_storage',
-'15':'reactor_core',
-'14':'terminal',
-'13':'core_control_rod_s01',
-'12':'core_control_rod_s02',
-'11':'warren_encryption_key',
-'10':'warren_evidence_01',
-'9':'warren_evidence_02',
-'8':'warren_evidence_03',
-'7':'warren_evidence_04',
-'6':'farewell_letter',
-'5':'passkey_s01',
-'4':'passkey_s02',
-'3':'passkey_s03',
-'2':'passkey_s04',
-'1':'turret_sequence',
-]
+{
+	"stfFile":"warren_item_n",
+	"entries": {
+		"warning_sign":"Warning Sign",		"inquisitor_letter":"Imperial Communication Disk",		"core_rod_storage":"Core Rod Storage",		"reactor_core":"Reactor Core Access",		"terminal":"Active Data Terminal",		"core_control_rod_s01":"Core Control Rod",		"core_control_rod_s02":"Core Control Rod",		"warren_encryption_key":"Encryption Key",		"warren_evidence_01":"Evidence Disk",		"warren_evidence_02":"Evidence Disk",		"warren_evidence_03":"Evidence Disk",		"warren_evidence_04":"Evidence Disk",		"farewell_letter":"Farewell Letter Disk",		"passkey_s01":"Access Passkey",		"passkey_s02":"Control Room Passkey",		"passkey_s03":"Passkey",		"passkey_s04":"Passkey",		"turret_sequence":"Turret Sequence Disk"
+}}

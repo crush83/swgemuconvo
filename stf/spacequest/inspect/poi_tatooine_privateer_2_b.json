@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_inspect_t',
-'7':'quest_inspect_d',
-'6':'quest_dock_t',
-'5':'quest_dock_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/inspect/poi_tatooine_privateer_2_b",
+	"entries": {
+		"title_d":"You've been given the task from Garett to hunt down the Valarians. He has a feeling the Valarians are onto them and must find out for sure by disabling and inspecting. Looks like you're the person for the job. Dirty work at its best.",		"title":"Tatoo System: Hunting the Valarians for Information",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 Hutt Informant:\#pcontrast3 < Good work. Now, bring the information to me and we'll analyze it. I knew they were onto us, somehow. I'm glad we'll get to the bottom of this relatively soon. >",		"quest_location_t":"Travel to the Tatoo System",		"quest_location_d":"Fly your ship to the Tatoo System for some Valarian-inspecting fun.",		"quest_inspect_t":"Inspect Valarians",		"quest_inspect_d":"Somewhere around the waypoint you received from Garett, Valarians fly around like a moth to a flame. Disable them by targeting their engines or reactors (by using the []'s), and get close to inspect (by pressing 'i'). If you find what you're looking for, you'll need to /dock with the disabled ship and pull the information. Piece of Pyollian cake.",		"quest_dock_t":"Docking with Valarians",		"quest_dock_d":"To dock with a disabled ship, use the /dock command.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

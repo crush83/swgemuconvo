@@ -1,5 +1,5 @@
-[
-'3':'luke',
-'2':'dodonna',
-'1':'foyer1',
-]
+{
+	"stfFile":"theme_park_rebel/warning",
+	"entries": {
+		"luke":"You cannot enter here until you have completed Jan Dodonna's tasks.",		"dodonna":"You cannot enter here until you have completed Mon Mothma's tasks.",		"foyer1":"Access Denied. You must be a member of the Rebel Alliance to enter."
+}}

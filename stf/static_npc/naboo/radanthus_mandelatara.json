@@ -1,3 +1,5 @@
-[
-'1':'notyet',
-]
+{
+	"stfFile":"static_npc/naboo/radanthus_mandelatara",
+	"entries": {
+		"notyet":"I'm sorry, I'm a bit distracted.   I'm trying to remember something..."
+}}

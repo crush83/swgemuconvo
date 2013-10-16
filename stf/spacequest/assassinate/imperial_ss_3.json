@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_target_t',
-'19':'quest_target_d',
-'18':'quest_t',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_escort_t',
-'14':'quest_escort_d',
-'13':'quest_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/imperial_ss_3",
+	"entries": {
+		"title_d":"Destroy the Kimogila's Claw in the Lok system. The Kimogila's Claw contains many of Nym's top men, and with one strike you can hammer Nym's ability to command his fleet.",		"title":"Lok System: Destroy the Kimogila's Claw",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":" \#pcontrast3 Storm Squadron Command: < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Destroy the Kimogila's Claw",		"quest_target_d":"Intercept the Kimogila's Claw inside the Lok system. Once it is destroyed, Nym will have to focus more on control of his own system rather then assisting the Rebellion at this point.",		"quest_t":"a",		"quest_location_t":"Travel to the Lok System",		"quest_location_d":"Travel to the Lok system and destroy the Kimogila's Claw.",		"quest_escort_t":"Destroy the Kimogila's Claw's Escort",		"quest_escort_d":"Just to be certain that all the commanders are killed, destroy any escorts that are with the Kimogila's Claw as well. There is no need to let one escape because he was flying his own fighter.",		"quest_d":"b",		"failed_escape":"The Kimogila's Claw has escaped the region! You've missed your opportunity to deal a blow to Nym!",		"escort_wiped_out":" \#pcontrast3 Tactical Computer: < \#00ff00 The escort retinue has been eliminated. Destroy the Kimogila's Claw. \#pcontrast3 >",		"escort_remaining":" \#pcontrast3 Tactical Computer: < \#00ff00 %DI ships remain in the Kimogila's Claw's retinue. \#pcontrast3 >",		"destroy_escort":"The Kimogila's Claw is destroyed! Leave no witnesses. Eliminate the escort retinue.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"The Kimogila's Claw and her escort retinue have been destroyed!",		"arrival_phase_2":"Kimogila's Claw has been located. Waypoint created.",		"arrival_phase_1":"Scanning region for the Kimogila's Claw...",		"Quest Log Data":"Text"
+}}

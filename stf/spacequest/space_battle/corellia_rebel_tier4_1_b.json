@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_rebel_tier4_1_b",
+	"entries": {
+		"title_d":"Several Black Sun ship managed to slip by our and Nym's blockade and the mining vessels are under attack. Assist and save as many of them as you can.",		"title":"Dathomir system: Save the Nym freighters from total annihilation.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Nym Freighter Pilot: < %TO >",		"quest_location_t":"Dathomir system.",		"quest_location_d":"Although this part of the Dathomir system is relatively free from hostile ships normally, it's now crawling with Black Sun bombers and fighters.",		"quest_helpallies_t":"Assist the mining vessels.",		"quest_helpallies_d":"We need to save what can be saved. Assist the Nym Fighters and Freighters in this area and terminate the Black Sun threat.",		"quest_findbattle_t":"Your battle.",		"quest_findbattle_d":"These are your assigned coordinates, you will find some mining vessels under heavy attack by the Black Sun.",		"found_loc":"We need your help at this location! Now pilot!",		"enemies_win":"I'm going down! Save yourself pi..",		"enemies_remain":"Tactical Computer: < Scans show enemy vessel terminated. %DI remain. >",		"enemies_arrived":"We have multiple Black Sun fighter ships closing in, we need help now!",		"battle_started":"They are locking on to me, this is going to hurt!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"At least they didn't get us all. Return to base before more of them arrive pilot.",		"allies_remain":"Nym Freighter Pilot: < Too much damage! We have massive hull brea... >",		"allies_arrived":"Some of the Black Sun Fighters got past you? We need to get out of here!"
+}}

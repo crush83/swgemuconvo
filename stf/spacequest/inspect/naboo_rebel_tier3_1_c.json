@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_inspect_t',
-'7':'quest_inspect_d',
-'6':'quest_dock_t',
-'5':'quest_dock_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/inspect/naboo_rebel_tier3_1_c",
+	"entries": {
+		"title_d":"The Imperial officer that tricked us is trying to escape, don't let him. Hunt down his ship, disable its engine or reactor and steal any information he may have in his onboard computer.",		"title":"Dantooine system: Catch the Imperial spy.",		"split_quest_alert_fail":"",		"split_quest_alert":"Brother Ezkiel: < Good work, pilot. Bring the information to one of our data freighters. >",		"quest_location_t":"Dantooine system.",		"quest_location_d":"The Imperial forces in the area are in disarray and shouldn't pose much of a threat but you can never be too careful my friend.",		"quest_inspect_t":"The spies vessel.",		"quest_inspect_d":"The spy is piloting a civilian vessel, model YT-1300. It shouldn't be a difficult target for you but it does have some weaponry so don't relax. Disable the engines or the reactor of his ship.",		"quest_dock_t":"Dock and steal information.",		"quest_dock_d":"Dock with the spies disabled ship and transfer over the contents of his onboard computer.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

@@ -1,123 +1,55 @@
-[
-'133':'default',
-'132':'category_harassment',
-'131':'category_community_standard',
-'130':'newticket_tabs',
-'129':'cpt_community_standards',
-'128':'continue',
-'127':'harassment_message',
-'126':'or',
-'125':'instructions_ticket',
-'124':'instructions_bug',
-'123':'new_ticket',
-'122':'tab_new_ticket',
-'121':'tab_instructions',
-'120':'cpt_new_ticket',
-'119':'known_issues',
-'118':'knowledge_base',
-'117':'known_issues_footer',
-'116':'known_issues_welcome',
-'115':'known_issues_header',
-'114':'tab_known_issues',
-'113':'tab_how_to_search',
-'112':'bug',
-'111':'harassment',
-'110':'how_tickets_desc',
-'109':'how_harassment_desc',
-'108':'how_bug_desc',
-'107':'how_top_desc',
-'106':'how_know_desc',
-'105':'how_welcome_desc',
-'104':'ticket_pending_closed',
-'103':'know_article_retrieve',
-'102':'know_article_no_matches',
-'101':'harassment_ticket_limit',
-'98':'harassment_waiting_for_response',
-'97':'harassment_verify_needed',
-'95':'harassment_verify_success',
-'94':'harassment_verify_failed',
-'93':'cpt_report_harassment',
-'91':'harassment_verify_name',
-'90':'harassment_player_name',
-'89':'category_search_required',
-'88':'know_table_article',
-'87':'know_did_not_help',
-'86':'know_no_article_selected',
-'84':'know_search_required',
-'83':'comment_add_fail_closed',
-'82':'ticket_status',
-'81':'status_open',
-'80':'status_closed',
-'79':'ticket_create_failed_ticket_limit_reached',
-'78':'ticket_closed',
-'77':'category_ticket_limit',
-'76':'ticket_limit_message',
-'75':'ticket_click',
-'74':'ticket_email_subject',
-'73':'ticket_unread',
-'72':'ticket_email_message',
-'71':'ticket_usage',
-'70':'trade_fail_enemy',
-'69':'help_add',
-'68':'help_edit',
-'67':'help_details',
-'66':'help_delete',
-'65':'help_submit',
-'64':'help_comments',
-'63':'help_combo_subtopic',
-'62':'help_combo_topic',
-'61':'help_summary',
-'60':'help_table',
-'59':'help_article',
-'58':'help_string',
-'57':'help_tabs',
-'56':'ticket_none',
-'55':'server_no_connection',
-'54':'comment_ticket_id',
-'53':'comment_add_success',
-'52':'comment_add_fail',
-'51':'comment_add_submitted',
-'50':'comment_id',
-'49':'comment_from',
-'48':'ticket_delete_confirmation',
-'47':'know_article_search',
-'46':'know_article_response_error',
-'45':'no_categories_found',
-'44':'tickets_edit',
-'43':'edit_add',
-'42':'edit_cancel',
-'41':'ticket_details_add',
-'40':'ticket_list_delete',
-'39':'ticket_category',
-'38':'ticket_name',
-'37':'ticket_date',
-'36':'ticket_id',
-'35':'ticket_label_table',
-'34':'know_article_id',
-'33':'know_table_rank',
-'32':'know_table_id',
-'31':'know_label_summ',
-'30':'know_label_list',
-'29':'know_article',
-'28':'know_question',
-'27':'know_search_article',
-'26':'know_search_string',
-'25':'know_label_search',
-'24':'tab_know',
-'23':'cancel_ticket_failure',
-'22':'cancel_ticket_success',
-'18':'create_ticket_submitted',
-'17':'create_ticket_failure',
-'16':'create_ticket_success',
-'15':'querying_server',
-'10':'cpt_service',
-'9':'new_details_add',
-'8':'new_list_delete',
-'7':'done',
-'6':'new_submit',
-'5':'new_subtopic',
-'4':'new_topic',
-'3':'new_comments',
-'2':'tab_tickets',
-'1':'tab_new',
-]
+{
+	"stfFile":"ui_serv",
+	"entries": {
+		"default":"",		"category_harassment":"Harassment",		"category_community_standard":"Community Standards",		"newticket_tabs":"These tabs split out the New Ticket window into two panes.  You can view instructions or create service tickets.",		"cpt_community_standards":"About Community Standards",		"continue":"Continue",		"harassment_message":"Please read this entire message and at the end of the text you will find a button that will take you to the ticket submission form.
+
+Community Standards information, please review the following guidelines before submitting Community Standards tickets.  Please use the "community standards" categories only for reporting the various types of issues outlined below.  Inappropriate use of community standards categories can result in tickets being closed that must be resubmitted with the appropriate categories and repeated misuse can result in actions being taken against users' accounts.
+
+Harrassment
+Harrassment is defined as specifically targeting another player or group of players to harm or inconvenience them.  Harassment can take many forms and often what is seen as harassment by one person or group is perfectly acceptable game play.  An example of this in Star Wars is the way Bounty Hunter players hunt Jedi players (of course there may be cases where a Bounty Hunter player may specifically target a single Jedi player, this would be considered harassment and is not allowed.  Bounty Hunter players should not specifically target the same Jedi over and over).  Additionally, if someone calls you a bad name or offends you in any way, please first attempt to resolve the issue by using the built in features (/addignore, /filter) between the parties involved.  The ignore and language filter features provided in-game will help you to control and avoid most harassment.  Should you be unable to resolve the issue, please submit an in-game harassment ticket as a last course of action and the in-game staff will assist.
+Remember, if you feel you are the target of harassment, please make sure that you do a /report <offending player name>.  This will send us the relevent chat data and log it to our servers for secure review.
+
+Language
+For all issues of inappropriate language in game, a player report is needed by using the report command; /report <offending player name>.  This will capture and send us the revelent chat data and log it to our servers for secure review.  For cases of mild and sporadic profanity, please make use of the features already in the game to ignore or block profanity.  The profanity filter (/filter) will garble most profanity, and is defaulted to on.  Should you decide to turn this filter off, you are deciding that mild profanity is of no concern to you.  If this is not the case, please turn the filter back on to prevent viewing of most profanity.  Parents allowing children to play the game should always ensure that the profanity filter is on at all times, as the game is rated T (Teen).  The Ignore list (/addignore <player name>) will add any player to your list that will block any spatial messages, private messages, group messages, or emotes.  You will only see the in-game avatar one that player is added.
+Please do report severe cases of profane language, sexual/racial abuse, or hate mongering.
+
+Trade Fraud
+The /report <player name> command, although primarily used to report issues of harassment and language, is the preferred medium for recording a verbal agreement or "contract" between two players for buffing, items for credits, items to have repairs, slicing, ect. conducted on them.  This will send us the relevent data and log it to our servers for secure review.  These agreements must be logged for Customer Service to take any action should a deal go bad.  Unfortunately, without proof of the agreement, we are unable to assist in these issues.
+
+Kill Stealing
+Star Wars Galaxies does not recognize NPC/creature ownership for the point of attaining experience or gaining loot.  Corpse permissions are granted to the player/group that inflicts the most damage to the NPC/creature in question.  Additionally, we do not recognize any camp claims.  Customer Service will not be able to assist with claims of Kill Stealing.  We do however encourage players to play nice together and ask that everyone respect those already engaged in combat and only join in the attack if being asked for help.
+
+Exploitation
+All incidents of exploitation should be reported immediately for an in game support to assist.  A CSR must be able to physically witness the exploitation in game.
+
+Inappropriate Player Names
+Please report any inappropriate names you see while playing.  We also don't want to see them and will change the more severe names quickly.
+
+In-Game Mail
+All issues of verbal abuse and/or harassment experienced through the in-game mail system can be reported by using /report <offending player name> command or /report <system> command.  Please be sure to have the offending mail open prior to submitting the player report.
+
+Evidence
+Forum posts, eye witness testimonies, video footage, screenshots, player chat logs, and 3rd party website posts are not allowed as collaborating evidence in any of the above situations.
+
+For further information on any of the above topics, please reference the Game Rules at the official website, or FAQs contained in our knowledge base articles.
+",		"or":"or",		"instructions_ticket":"If you require the assistance of a Customer Server Representative (CSR) then please click on the New Ticket button below or click on the tab above.  Tickets are answered in the order received so please do not delete and resubmit your ticket if your issue has not been resolved.  Take a moment before submitting to review our Ticket Categories to pick the one that best fits your issue.  Using the proper category will help us locate your problem and resolve it as quickly as possible.
+
+If you are not online when a CSR attempts to contact you then a comment will be left in your ticket.  Simply respond to the ticket with any additional information the CSR requested and a CSR will be with you as quickly as possible.
+",		"instructions_bug":"Thank you for contacting us regarding your issue.  If you have experienced a Bug and would like to report it or provide additional information for one of our Top Known Issues then please click on the Report A Bug button below or click on the Tab above.  Bugs will go directly to the Quality Assurance department and be investigated.  Please note that Bugs are not, as a rule, responded to.  We do encourage you to place Bug reports when you encounter an issue in Star Wars Galaxies and provide as many details as possible to help us track down the root cause.
+",		"new_ticket":"New Ticket",		"tab_new_ticket":"New Ticket",		"tab_instructions":"Instructions",		"cpt_new_ticket":"New Ticket",		"known_issues":"Top Known Issues",		"knowledge_base":"Knowledge Base",		"known_issues_footer":"If you would like to provide more information about any of these issues, or any other issue you have encountered, please click on the "Report A Bug" button below.  Please provide as many details as possible and our Quality Assurance Department will review and investigate the issue.  Thank you for all Bug reports you send as they provide us with very valuable information.
+",		"known_issues_welcome":"This is a list of our top known issues.  This list does not include all bugs that are being resolved, but it does represent bugs and issues deemed to be of high importance.
+",		"known_issues_header":"Top Known Issues
+",		"tab_known_issues":"Top Known Issues",		"tab_how_to_search":"How To Search",		"bug":"Report A Bug",		"harassment":"Report A Harassment",		"how_tickets_desc":"You can also click on the Open Tickets tab to review any tickets you may currently have open and by CS responses.  This is also the area where you will respond or update any tickets as needed.  Please be sure to delete your ticket when your issue has been resolved.
+",		"how_harassment_desc":"You can also report any harassment directly to Customer Service at any time with the button below.
+",		"how_bug_desc":"Below you can submit any bugs to us that you find and QA will review them and investigate.  Be as detailed as you can and provide as many facts as possible to help us track the bug down!
+",		"how_top_desc":"By clicking on the Top Known Issues tab, you can review some the the Bugs that our Quality Assurance Department has identified and are working to resolve.  The Development Team is hard at work on these and other bugs.
+",		"how_know_desc":"You can click on the tabs above to navigate to several resources that provide valuable information.  By clicking on the Knowledge Base tab you can search our Knowledge Base.
+",		"how_welcome_desc":"Welcome to the Star Wars Galaxies Knowledge Base!  The Knowledge Base is a continuously updated resource for Star Wars Galaxies systems and policies.  You can use the Knowledge Base to search for information on your Profession or use it to solve many problems that you may encounter while playing Star Wars Galaxies.  To submit a ticket, you must first search the knowledge base and you will find the button to submit a ticket at the end of the article.
+
+",		"ticket_pending_closed":"The ticket you are adding a comment to has been closed. The ticket is now read-only.",		"know_article_retrieve":"Retrieving article...",		"know_article_no_matches":"Unable to find any matching articles.",		"harassment_ticket_limit":"You have reached your open ticket limit of one ticket. If you would like to create a new ticket, please go to the Customer Service window, click on the Open Tickets tab and remove tickets until you are under the ticket limit.",		"harassment_waiting_for_response":"Waiting for response",		"harassment_verify_needed":"Before submitting this report you must successfully verify the harassing player's first name using the Verify First Name button.",		"harassment_verify_success":"Successfully Verified",		"harassment_verify_failed":"Verify Failed",		"cpt_report_harassment":"Report A Harassment",		"harassment_verify_name":"Verify First Name",		"harassment_player_name":"Harassing Player/",		"category_search_required":"Knowledge base search required",		"know_table_article":"Article",		"know_did_not_help":"Just let me create a ticket, the search did not answer my issue.",		"know_no_article_selected":"No article selected",		"know_search_required":"Our knowledge base has been updated. You must perform a knowledge base search before creating a new ticket. After performing a search, if you are not satisfied with the search results, click the button at the bottom of the Knowledge Base page to create a ticket. Click the Knowledge Base tab above to perform a search.",		"comment_add_fail_closed":"Customer service comment failed to be added to ticket (%DI) because the ticket has been closed by a CSR.",		"ticket_status":"Status",		"status_open":"open",		"status_closed":"closed",		"ticket_create_failed_ticket_limit_reached":"Ticket creation failed because you have reached the ticket limit. To create another ticket, please delete an existing ticket.",		"ticket_closed":"The ticket you are adding a comment to no longer exists. The ticket was either manually deleted or removed by a CSR.",		"category_ticket_limit":"Account ticket limit reached",		"ticket_limit_message":"You have reached your open ticket limit of one ticket. If you would like to create a new ticket, please delete your existing ticket.  Tickets can be deleted at the Open Tickets tab on the Customer Service form.
+",		"ticket_click":"Double-click a ticket above to view its comments.",		"ticket_email_subject":"Customer Service Ticket",		"ticket_unread":"%DI (please read)",		"ticket_email_message":"Customer service ticket %DI for player %TT has been replied to by a customer service representative. Please read your ticket.",		"ticket_usage":"Only one open Customer Service (CS) ticket is allowed at a time, per account. You must delete existing CS tickets to create new tickets. When reporting a CS ticket, you are notified by an in game email when a Customer Service Representative (CSR) has responded to your ticket. In addition, the ticket is marked as "(please read)" in the Open Tickets: Id listing above. Tickets are responded to in the order they are received. If you want to report a player harassment with comments, click the "Report A Harassment" button in the Holocron. If you just want to report the player harassments without comments, use the /report <name of player> command in the chat window. Harassment reports contain a log of all chat you have received in the last few minutes. This chat log helps us resolve the harassment.
+
+Thank you,
+
+Customer Service",		"trade_fail_enemy":"You cannot trade with members of opposing factions",		"help_add":"Add a comment.",		"help_edit":"Edit the ticket.",		"help_details":"The details of the ticket.",		"help_delete":"Delete a pending ticket.",		"help_submit":"Submit the ticket.",		"help_comments":"Describe the issue here.",		"help_combo_subtopic":"The subtopic of the new ticket.",		"help_combo_topic":"The subject of the ticket.",		"help_summary":"The text of the article.",		"help_table":"The list of articles matching the criteria.",		"help_article":"A specific article Id to search for within the KnowledgeBase.",		"help_string":"A string to search for within the KnowledgeBase.",		"help_tabs":"These tabs split out the Service window into four pieces.  You can view How to Search, query the KnowledgeBase, view Top Known Issues, or view currently existing Tickets.",		"ticket_none":"You don't have any open tickets.",		"server_no_connection":"The connection to the customer service server could not be established. Please try again later.",		"comment_ticket_id":"Ticket Id: %DI",		"comment_add_success":"Customer service comment successfully added for ticket (%DI).",		"comment_add_fail":"Customer service comment failed to be added to ticket (%DI). Please try again later.",		"comment_add_submitted":"Customer service comment submitted for ticket (%DI).",		"comment_id":"Comment Id: %DI",		"comment_from":"From: %TT",		"ticket_delete_confirmation":"Are you sure you want to delete ticket %DI?",		"know_article_search":"Searching for matching articles...",		"know_article_response_error":"Unable to find the requested article.",		"no_categories_found":"No categories found",		"tickets_edit":"Add Ticket Comment",		"edit_add":"Add",		"edit_cancel":"Cancel",		"ticket_details_add":"Add Comment",		"ticket_list_delete":"Delete",		"ticket_category":"Category",		"ticket_name":"Name",		"ticket_date":"Date Modified",		"ticket_id":"Id",		"ticket_label_table":"Open Tickets/",		"know_article_id":"Article Id: %TT",		"know_table_rank":"Rank",		"know_table_id":"Id",		"know_label_summ":"Article Summary",		"know_label_list":"Search Results/",		"know_article":"Enter an article id here",		"know_question":"Enter your question here",		"know_search_article":"Search",		"know_search_string":"Search",		"know_label_search":"Search Criteria/",		"tab_know":"Knowledge Base",		"cancel_ticket_failure":"Customer service ticket (%DI) cancellation failed. Please try again later.",		"cancel_ticket_success":"Customer service ticket (%DI) successfully deleted.",		"create_ticket_submitted":"Customer service ticket submitted. Please wait for your ticket creation confirmation. If you do not receive confirmation, then your ticket was not successfully sent to the server.",		"create_ticket_failure":"Customer service ticket creation failed. Please try again later.",		"create_ticket_success":"Customer service ticket (%DI) successfully created.",		"querying_server":"Querying server...",		"cpt_service":"Services",		"new_details_add":"Add Comment",		"new_list_delete":"Delete Ticket",		"done":"Done",		"new_submit":"Submit",		"new_subtopic":"Sub Topic/",		"new_topic":"Topic/",		"new_comments":"Comments/",		"tab_tickets":"Open Tickets",		"tab_new":"New Ticket"
+}}

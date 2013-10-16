@@ -1,18 +1,10 @@
-[
-'16':'nym',
-'15':'gurk',
-'14':'gurnaset',
-'13':'spined_snake',
-'12':'pharple',
-'11':'perlek',
-'10':'langlatch',
-'9':'kusak',
-'8':'flit',
-'7':'kimogila',
-'6':'vesp',
-'5':'droideka',
-'4':'general_otto',
-'3':'imperial_base',
-'2':'nym_stronghold',
-'1':'snorbal',
-]
+{
+	"stfFile":"loading/lok",
+	"entries": {
+		"nym":"A notorious pirate and warlord during the Clone Wars, Nym has established a hidden retreat on the planet Lok. As a child, he was an orphan on this planet.",		"gurk":"Although gurk appear dangerous, they are actually fairly harmless animals. Despite their large size, they eat primarily nuts, berries, and fruit. On Lok, many have been trained for domestic use.",		"gurnaset":"A herd animal native to Lok, the Gurnaset is a fairly peaceful creature. It lay eggs and eat insects and shrubs. Its meat is tough and gamy.",		"spined_snake":"Hiding among the rocks and sand of the deserts of Lok is the spined snake. It exists in several sizes and varieties, some of which carry deadly venom and others of which are aggressive.",		"pharple":"A cowardly bird that roams flightless across the deserts of Lok, pharples are insectivores that are generally little trouble to sentient beings.",		"perlek":"Scavengers to the core, perlek follow predators around on Lok and scavenge off the carcasses of their kills.",		"langlatch":"A voracious predator, the langlatch survives by eating indiscriminately of any warm or cold-blooded creature it comes across on its native Lok. They are very aggressive and have been known to attack prey much larger than themselves.",		"kusak":"The kusak, powerful armored canines native to Lok, roam the rocky terrain hunting in packs. If tamed, they make for loyal companions.",		"flit":"The flit is a bloodsucking avian native to the plains of Lok. They hunt in swarms, alternately advancing and retreating, attacking with their sharp beaks.",		"kimogila":"The giant kimogila is notoriously difficult to kill. Native to Lok, its thick skin has evolved to protect it from the sulfur pools on the planet and is almost impervious to blaster fire. It also boasts one of the most toxic venoms known in the Galaxy.",		"vesp":"A poisonous reptilian creature with a spiked tail, vesps are native to Lok. They typically fight in pairs, attempting to encircle their prey.",		"droideka":"Lok was a testing ground for the Trade Federation's blockade of Naboo during the Clone Wars. During that time, numerous droids were left abandoned on the surface of the planet, including the deadly droideka assault droids.",		"general_otto":"General Otto is a less-than-distinguished Imperial officer who is stationed on Lok. He has lost a number of battles against Alliance forces in his career, and were it not for his friendship with Admiral Motti, might well have lost his commission or even his life.",		"imperial_base":"",		"nym_stronghold":"The notorious pirate and rogue Feeorin known as Nym keeps a stronghold on Lok, the planet where he was orphaned as a child. This imposing structure is well defended.",		"snorbal":"The snorbal are highly intelligent and also docile creatures, rarely ever attacking other than to defend the herd.
+
+The snorbal's trunk has two 'fingers' at the end, allowing it to manipulate simple objects.
+
+Possessing a highly efficient digestive system, the snorbal makes itself at home among Lok's arid wastelands.
+"
+}}

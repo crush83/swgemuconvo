@@ -1,44 +1,44 @@
-[
-'42':'serjix_arrogantus_q1_needed',
-'41':'ging_darjeek_q1_needed',
-'40':'luthin_dlunar_q2_needed',
-'39':'luthin_dlunar_q1_needed',
-'38':'grondorn_muse_q2_needed',
-'37':'vinya_maysor_q1_needed',
-'36':'karrek_film_q3_needed',
-'35':'karrek_film_q2_needed',
-'34':'karrek_film_q1_needed',
-'33':'chertyl_ruruwoor_q1_needed',
-'32':'gilker_budz_q1_needed',
-'31':'lasha_bindari_q1_needed',
-'30':'denell_kelvannon_q1_needed',
-'29':'jadam_questrel_q1_needed',
-'28':'talon_karrde_q4_needed',
-'27':'talon_karrde_q3_needed',
-'26':'talon_karrde_q1_needed',
-'25':'crev_bombaasa_q2_needed',
-'24':'crev_bombaasa_q1_needed',
-'23':'noren_krast_q3_needed',
-'22':'noren_krast_q2_needed',
-'21':'noren_krast_q1_needed',
-'20':'didina_lippinoss_q1_needed',
-'19':'karena_keer_q2_needed',
-'18':'karena_keer_q1_needed',
-'17':'shalera_q6_needed',
-'16':'shalera_q1_needed',
-'15':'hal_horn_q1_needed',
-'14':'kirkin_liawoon_q2_needed',
-'13':'zekka_thyne_q1_needed',
-'12':'thrackan_salsolo_q3_needed',
-'11':'dannik_malaan_q1_needed',
-'10':'garm_beliblis_q2_needed',
-'9':'gilad_pellaeon_q2_needed',
-'8':'gilad_pellaeon_q1_needed',
-'7':'brantlee_spondoon_q2_needed',
-'6':'brantlee_spondoon_q1_needed',
-'5':'daclif_gallamby_q6_needed',
-'4':'daclif_gallamby_q4_needed',
-'3':'daclif_gallamby_q3_needed',
-'2':'daclif_gallamby_q2_needed',
-'1':'daclif_gallamby_q1_needed',
-]
+{
+	"stfFile":"loot_corl_d",
+	"entries": {
+		"serjix_arrogantus_q1_needed":"Gleeb Tchotle's encrypted ledger.
+",		"ging_darjeek_q1_needed":"Information collected by smuggler "Professor" Minnet about "Offworld Backchannel Cargo Transit Permit" fees paid to Corellian Security officer Ging Darjeek in Bela Vistal.
+",		"luthin_dlunar_q2_needed":"An encrypted datadisc containing some bank codes.
+",		"luthin_dlunar_q1_needed":"An encrypted datadisc containing some bank codes.
+",		"grondorn_muse_q2_needed":"A popular Corellian anthem arranged for military band by militia officer Grondorn Muse of Bela Vistal.
+",		"vinya_maysor_q1_needed":"CSA shipping reports intended for Corellian data slicer Reeve Taggart.
+",		"karrek_film_q3_needed":"A precious stone from Tatooine, intended as a thank-you gift from Shalera the Lady Hutt of Tyrena to CSA Viceprex Karrek Flim on Vreni Island, Corellia.
+",		"karrek_film_q2_needed":"A compendium of evidence in an ongoing fraud investigation into Corellian shipping interests of Shalera the Lady Hutt.
+",		"karrek_film_q1_needed":"A compendium of evidence in an ongoing fraud investigation into Corellian shipping interests of Shalera the Lady Hutt.
+",		"chertyl_ruruwoor_q1_needed":"A holo recording of an Imperial anti-alien demonstration.
+",		"gilker_budz_q1_needed":"Recording made by Gran tourist Snee-Roos of poachers illegally killing a gronda outside Kor Vella on Corellia.
+",		"lasha_bindari_q1_needed":"A compendium of evidence in an ongoing fraud investigation into the Corellian shipping interests of Shalera the Lady Hutt.
+",		"denell_kelvannon_q1_needed":"A disk with evidence of a CorSec captain's complicity in a murder for the purpose of hiding his involvement in a smuggling operation.
+",		"jadam_questrel_q1_needed":"Jadam Questrel, Corellian Shipbuilders Union representative in Doaba Guerfel, prepared this list of suspicious "administrative surcharges" added to orders for Corellian Engineering Corporation cargo ships.
+",		"talon_karrde_q4_needed":"A sample of the Berserker Virus.
+",		"talon_karrde_q3_needed":"A mysterious package",		"talon_karrde_q1_needed":"High-clearance travel codes and permits for Talon Karrde in Doaba Guerfel.
+",		"crev_bombaasa_q2_needed":"Records of alleged criminal actions committed by Didina Lippinoss, companion to Corellian CSA Viceprex Karrek Flim.
+",		"crev_bombaasa_q1_needed":"Records of alleged criminal actions committed by Didina Lippinoss, companion to Corellian CSA Viceprex Karrek Flim.
+",		"noren_krast_q3_needed":"A request for the elimination of the human data slicer known as Fugue
+",		"noren_krast_q2_needed":"Stolen data with evidence of shipping fraud on the part of Dannik Malaan CSA rep in Coronet
+",		"noren_krast_q1_needed":"A bank disk authorizing a release of credits to Banyon Craddok
+",		"didina_lippinoss_q1_needed":"Correspondence of Corporate Sector Authority Viceprex Karrek Flim, stolen by data slicer Bin Huusir and urgently wanted by Flim's companion, Didina Lippinoss.
+",		"karena_keer_q2_needed":"A brick of spice to be brought to Jabba
+",		"karena_keer_q1_needed":"A bank credit disk authorizing the release of monies to Shalera the Hutt
+",		"shalera_q6_needed":"A strain of the Berserker Virus sent by Corellian crime lord Shalera the Hutt to Jabba the Hutt on Tatooine.
+",		"shalera_q1_needed":"An invitation from Corellian crime lord Shalera the Hutt to her rivals, Black Sun, to sit down and work out their differences.
+",		"hal_horn_q1_needed":"Correspondence of Doogo, a Rodian provider of illegal prescription drugs to disbarred physicians.
+",		"kirkin_liawoon_q2_needed":"A holorecording of a secret gathering of human Corellians espousing anti-Selonian beliefs, intended for Selonian ambassador Kirkin 
+",		"zekka_thyne_q1_needed":"A list of potential blackmail targets.
+",		"thrackan_salsolo_q3_needed":"A recording of an alleged death-squad attack sanctioned by the Corellian Diktat, Daclif Gallamby.
+",		"dannik_malaan_q1_needed":"Documents of questionable shipping practices by a CSA Viceprex in Coronet, Corellia.
+",		"garm_beliblis_q2_needed":"Encrypted internal CorSec report.
+",		"gilad_pellaeon_q2_needed":"A requisition order from Captain Needa.
+",		"gilad_pellaeon_q1_needed":"An encrypted datadisc containing orders from Captain Pellaeon.
+",		"brantlee_spondoon_q2_needed":"A crimson-colored delicacy imported from the Tapani Sector.
+",		"brantlee_spondoon_q1_needed":"This device gives dull, stringy Devaronian fur a delightful sheen.
+",		"daclif_gallamby_q6_needed":"Corellian Diktat Daclif Gallamby's instructions to Morgo One-Shot, a Hutt gangster, regarding Transport Commission official Merlyx Dolv.
+",		"daclif_gallamby_q4_needed":"Corellian Diktat Daclif Gallamby's generous donation to the favorite charity of Imperial Navy customs officer Lt. Mien Halloor, who has authority to approve the movement of certain ships sold to the Corporate Sector Authority world Bonadan. 
+",		"daclif_gallamby_q3_needed":"Credits sent by Corellian Engineering Corporation sales executive Dwynn Biuval to the favorite charity of Corellian Diktat Daclif Gallamby, after the Diktat "smoothed the way" for the sale of CEC ships to the Corporate Sector Authority world Bonadan.
+",		"daclif_gallamby_q2_needed":"An order (and administrative surcharge) approved by the Corellian Diktat, Daclif Gallamby, for Corellian Engineering Corporation cargo ships intended for the Corporate Sector Authority world Bonadan.",		"daclif_gallamby_q1_needed":"An order from the Corporate Sector Authority for Corellian Engineering Corportation cargo ships intended for the CSA world Bonadan."
+}}

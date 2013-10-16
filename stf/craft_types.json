@@ -1,23 +1,5 @@
-[
-'21':'weapon',
-'20':'vehicle',
-'19':'space',
-'18':'reverse_engineering',
-'17':'plant_breeding',
-'16':'mission',
-'15':'misc',
-'14':'mandalorian_tailor',
-'13':'mandalorian_droid_engineer',
-'12':'mandalorian_armorsmith',
-'11':'lightsaber',
-'10':'installation',
-'9':'genetics',
-'8':'generic_item',
-'7':'furniture',
-'6':'food',
-'5':'droid',
-'4':'clothing',
-'3':'chemical',
-'2':'armor',
-'1':'animal_breeding',
-]
+{
+	"stfFile":"craft_types",
+	"entries": {
+		"weapon":"Weapon",		"vehicle":"Vehicle",		"space":"Starship Components",		"reverse_engineering":"Ship Tools",		"plant_breeding":"Tissues",		"mission":"Mission",		"misc":"Misc",		"mandalorian_tailor":"Tailor, Mandalorian",		"mandalorian_droid_engineer":"Droid Engineer, Mandalorian",		"mandalorian_armorsmith":"Armorsmith, Mandalorian",		"lightsaber":"Lightsaber",		"installation":"Installation",		"genetics":"Genetics",		"generic_item":"Generic Item",		"furniture":"Furniture",		"food":"Food",		"droid":"Droid",		"clothing":"Clothing",		"chemical":"Chemical",		"armor":"Armor",		"animal_breeding":"Creatures"
+}}

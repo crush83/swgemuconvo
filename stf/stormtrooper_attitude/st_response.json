@@ -1,64 +1,42 @@
-[
-'62':'default',
-'61':'imperial_collection_email_t',
-'60':'imperial_fine_1000',
-'59':'imperial_fine_3500',
-'58':'imperial_fine_credits',
-'57':'pay_fine_total_suffix',
-'56':'pay_outstanding_fine_prefix',
-'55':'imperial_fine_500',
-'54':'imperial_fine_2000',
-'53':'imperial_fine_5000',
-'52':'imperial_fine_outstanding',
-'51':'imperial_fine_t',
-'50':'imperial_fine_10000',
-'49':'st_response_45',
-'48':'st_response_44',
-'47':'st_response_43',
-'46':'st_response_42',
-'45':'st_response_41',
-'44':'st_overdue_fine_warning_02',
-'43':'st_overdue_fine_warning_01',
-'42':'st_overdue_fine_warning_00',
-'41':'st_response_40',
-'40':'st_response_39',
-'39':'st_response_38',
-'38':'st_response_37',
-'37':'st_response_36',
-'36':'st_response_35',
-'35':'st_response_34',
-'34':'st_response_33',
-'33':'st_response_32',
-'32':'st_response_31',
-'31':'st_response_30',
-'30':'st_response_29',
-'29':'st_response_28',
-'28':'st_response_27',
-'27':'st_response_26',
-'26':'st_response_25',
-'25':'st_response_24',
-'24':'st_response_23',
-'23':'st_response_22',
-'22':'st_response_21',
-'21':'st_response_20',
-'20':'st_response_19',
-'19':'st_response_18',
-'18':'st_response_17',
-'17':'st_response_16',
-'16':'st_response_15',
-'15':'st_response_14',
-'14':'st_response_13',
-'13':'st_response_12',
-'12':'st_response_11',
-'11':'st_response_10',
-'10':'st_response_09',
-'9':'st_response_08',
-'8':'st_response_07',
-'7':'st_response_06',
-'6':'st_response_05',
-'5':'st_response_04',
-'4':'st_response_03',
-'3':'st_response_02',
-'2':'st_response_01',
-'1':'st_response_00',
-]
+{
+	"stfFile":"stormtrooper_attitude/st_response",
+	"entries": {
+		"default":"",		"imperial_collection_email_t":"Imperial Collection Agency",		"imperial_fine_1000":"You have been fined 1000 credits by the Empire.",		"imperial_fine_3500":"You have been fined 3500 credits by the Empire.",		"imperial_fine_credits":" credits.",		"pay_fine_total_suffix":" It comes to a total of ",		"pay_outstanding_fine_prefix":"You have an outstanding fine, I suggest you pay it!",		"imperial_fine_500":"You have been fined 500 credits by the Empire.",		"imperial_fine_2000":"You have been fined 2000 credits by the Empire.",		"imperial_fine_5000":"You have been fined 5000 credits by the Empire.",		"imperial_fine_outstanding":" Added to your outstanding fines, it comes to ",		"imperial_fine_t":"Imperial Fine",		"imperial_fine_10000":"You have been fined 10000 credits by the Empire.",		"st_response_45":"Right, that settles your fine debt, citizen. I suggest you mind your place from now on.",		"st_response_44":"Fine paid in full, move along.",		"st_response_43":"Yea, it's all here. Keep your nose out of trouble, citizen and you won't have to go through this again.",		"st_response_42":"I hope you've learned your lesson from this, citizen. It's does not pay to cross the Empire.",		"st_response_41":"Well citizen, that's quite a debt you've got there. How about we cut you a break and round it off to a cool million?",		"st_overdue_fine_warning_02":"Outstanding Imperial Fines",		"st_overdue_fine_warning_01":"IMMEDIATE ATTENTION REQUIRED.
+
+PAST DUE
+
+This is an overdue fine notice from the Imperial Collection Agency. You have an outstanding fine debt with the Empire. You must attend to this responsibility immediately. Proceed directly to your nearest Imperial representative, hail them and pay your fine. 
+
+We will be tracking your whereabouts and activities until this fine is paid. You will begin to notice certain members of the Empire that do not treat you with the same level of courtesy as is expected from the Empire. This is due solely to your decision to disregard your financial responsibilities. Do not let your Imperial standing and credit be destroyed by what can be resolved in a few moments. Pay your fine IMMEDIATELY citizen.  
+
+Valid representatives:
+
+Stormtroopers
+Imperial Officers
+Other Members of the Imperial Military
+
+Remember, the Empire relies upon the support of its citizens. We are fighting this rebellion for your safety and wellbeing. Please show proper respect for all Military and Police representatives of the Empire.
+
+
+Vice-Regent Accountant
+Llohm Dunney
+Imperial Treasury, Coruscant
+",		"st_overdue_fine_warning_00":"IMMEDIATE ATTENTION REQUIRED.
+
+This is an overdue fine notice from the Imperial Collection Agency. You have an outstanding fine debt with the Empire. You must attend to this responsibility immediately. Proceed directly to your nearest Imperial representative, hail them and pay your fine. 
+
+Valid representatives:
+
+Stormtroopers
+Imperial Officers
+Other Members of the Imperial Military
+
+Remember, the Empire relies upon the support of its citizens. We are fighting this rebellion for your safety and wellbeing. Please show proper respect for all Military and Police representatives of the Empire.
+
+
+Vice-Regent Accountant
+Llohm Dunney
+Imperial Treasury, Coruscant
+",		"st_response_40":"I heard that you seditious scum!",		"st_response_39":"Roger that!",		"st_response_38":"Affirmative.",		"st_response_37":"Aye!",		"st_response_36":"Aye, my actions were inexcusable.",		"st_response_35":"Please give me another chance. I will not fail you again!",		"st_response_34":"I don't have time for this.",		"st_response_33":"I won't stand for that, scum!",		"st_response_32":"What do you think you're doing?!",		"st_response_31":"Harassing a stormtrooper is a seditious act, citizen. I have every right to execute you in the name of the Emperor. Consider yourself lucky.",		"st_response_30":"What is it like to be inferior, %RT? Do you dream of being human? Probably not. You're just not that smart.",		"st_response_29":"Worthless aliens! Every last one of you will come to know the might of the Empire.",		"st_response_28":"When the Emperor buries the %RT race, I will be there to spit on the grave.",		"st_response_27":"Isn't that just like a %RT, too stupid to know what's dangerous to them.",		"st_response_26":"Do your superiors know about your brain damage? I'll have to make sure they find out.",		"st_response_25":"Hey pal, just because we're the same rank doesn't mean you can pull this stuff on me. I am reporting this to your superior.",		"st_response_24":"Can you not recognize rank insignia? Maybe going on report will refresh your memory.",		"st_response_23":"You have just made the worst mistake of your miserable life trooper! Consider yourself on report.",		"st_response_22":"Have you lost your mind soldier?! I'm writing you up.",		"st_response_21":"What is wrong with you troop?! You're going on report.",		"st_response_20":"How they let garbage like you rise to my rank is beyond me. Maybe this will open their eyes about you.",		"st_response_19":"Let me enlighten you troop, we don't need your kind in the Empire. You're going on report!",		"st_response_18":"All of you aliens are Rebel spies. Well this time you're in big trouble pal!",		"st_response_17":"It's bad enough I have to share mess with %RT slime, but I don't have to take this! This will be reported.",		"st_response_16":"One day humanity won't have to put up with %RT stupidity. Consider yourself on report.",		"st_response_15":"Just another worthless alien. This one stole an Imperial's identification. I am going to make sure to report this.",		"st_response_14":"Doesn't your kind usually fill out the latrine detail? You should have stayed there. Your actions will be reported.",		"st_response_13":"I don't know why they let you %RT scum in the service, but you can bet this is going to be reported to your superiors!",		"st_response_12":"You don't have enough money, citizen.  Hail a stormtrooper when you some credits.",		"st_response_11":"Yea, I didn't figure someone like you would have any money. Hail a stormtrooper if you ever find the funds.",		"st_response_10":"Sure, sure... just paid your taxes. I've heard it all before. Hail a stormtrooper when you get the credits.",		"st_response_09":"The Empire isn't your personal bank, citizen. Hail a stormtrooper when you're ready to pay your fine.",		"st_response_08":"I've seen more credits on a dead mynock. You now have an outstanding fine debt, citizen.  Hail a stormtrooper when you're ready to pay the fine.",		"st_response_07":"Some pocket lint and a maroj melon isn't going to cut it citizen. Your debt has been noted. Hail a stormtrooper when you want to pay your fine.",		"st_response_06":"You don't have enough credits to pay your fine. Your remaining debt has been noted. Hail a stormtrooper when you're capable of paying the rest.",		"st_response_05":"This pays your fine, but I think you should pay more. Hmmm... About this much more.",		"st_response_04":"What do you know! You must be a Trade Federation brat. Well, you won't miss a few extra credits.",		"st_response_03":"A little for the Empire, a little for me!",		"st_response_02":"Would you just look at that! I think you're rich enough to make a donation to the impoverished stormtroopers fund as well as pay your fine.",		"st_response_01":"Yea, you got enough here to cover your fine. You don't mind if I whip out a bonus, do you? Didn't think so.",		"st_response_00":"Looks like it's my lucky day! Consider your fine paid in full, pal.
+"
+}}

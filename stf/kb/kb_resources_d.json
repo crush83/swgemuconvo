@@ -1,100 +1,243 @@
-[
-'98':'beans',
-'97':'inert',
-'96':'reactive',
-'95':'gas',
-'94':'gemstoneunknown',
-'93':'crystalline',
-'92':'amorphous',
-'91':'gemstone',
-'90':'sedimentaryunknown',
-'89':'siliclastic',
-'88':'carbinate',
-'87':'sedimentary',
-'86':'igneousunknown',
-'85':'intrusive',
-'84':'extrusive',
-'83':'igneous',
-'82':'lowgradeore',
-'81':'nonferrousunknown',
-'80':'copper',
-'79':'aluminum',
-'78':'nonferrous',
-'77':'ferrousunknown',
-'76':'iron',
-'75':'steel',
-'74':'ferrous',
-'73':'metals',
-'72':'radioactives',
-'71':'solidpetrochem',
-'70':'minerals',
-'69':'vapor',
-'68':'water',
-'67':'fiberplast',
-'66':'polymers',
-'65':'lubricatingoil',
-'64':'inertpetrochem',
-'63':'liquidpetrochem',
-'62':'chemical',
-'61':'inorganic',
-'60':'evergreen',
-'59':'softwood',
-'58':'hardwood',
-'57':'florastructural',
-'56':'flower',
-'55':'berry',
-'54':'fruitfruit',
-'53':'fruit',
-'52':'fungi',
-'51':'tubers',
-'50':'greens',
-'49':'vegetable',
-'48':'seed',
-'47':'wheatwild',
-'46':'wheatdomestic',
-'45':'wheat',
-'44':'oatswild',
-'43':'oatsdomestic',
-'42':'oats',
-'41':'ricewild',
-'40':'ricedomestic',
-'39':'rice',
-'38':'cornwild',
-'37':'corndomestic',
-'36':'corn',
-'35':'cereal',
-'34':'florafood',
-'33':'flora',
-'32':'leathery',
-'31':'scaly',
-'30':'bristly',
-'29':'wooly',
-'28':'hide',
-'27':'horn',
-'26':'boneavian',
-'25':'bone',
-'24':'creaturestructural',
-'23':'mollusk',
-'22':'crustacean',
-'21':'fish',
-'20':'seafood',
-'19':'egg',
-'18':'meatinsect',
-'17':'meatavian',
-'16':'meatreptilian',
-'15':'meatcarnivore',
-'14':'meatherbivore',
-'13':'meatwild',
-'12':'meatdomestic',
-'11':'meat',
-'10':'milkwild',
-'9':'milkdomestic',
-'8':'milk',
-'7':'creaturefood',
-'6':'creature',
-'5':'organic',
-'4':'resourcetree',
-'3':'attributes',
-'2':'classesandtypes',
-'1':'resources',
-]
+{
+	"stfFile":"kb/kb_resources_d",
+	"entries": {
+		"beans":"Beans",		"inert":"Inert Gases are collected with a Gas Pocket Survey Device or Gas Processor.
+
+Resource Attributes
+    Overall Quality
+    Resistance to Decay
+
+There are several major classifications of inert gases, plus many unknown types.
+",		"reactive":"Reactive Gases are collected with a Gas Pocket Survey Device or Gas Processor.
+
+Resource Attributes
+    Overall Quality
+    Resistance to Decay
+
+There are several major classifications of reactive gases, plus many unknown types.
+",		"gas":"There are many different kinds of inert and reactive gases that can be found throughout the galaxy.",		"gemstoneunknown":"Unknown Gemstones",		"crystalline":"Crystalline Gemstones",		"amorphous":"Amorphous Gemstones",		"gemstone":"Gemstones are collected with a Mineral Survey Device or Mineral Mining Installation.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Cold Resistance
+    Heat Resistance
+    Toughness
+    Shock Resistance
+    Entanglement Resistance
+    Resistance to Decay
+
+There are two main classes of gemstones: Amorphous and Crystalline which each have several specific sub-classifications, plus many unknown types.
+",		"sedimentaryunknown":"Unknown Sedimentary Ores",		"siliclastic":"Siliclastic Ores",		"carbinate":"Carbinate Ores",		"sedimentary":"Sedimentary Ores are collected with a Mineral Survey Device or Mineral Mining Installation.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Cold Resistance
+    Heat Resistance
+    Toughness
+    Shock Resistance
+    Resistance to Decay
+
+There are two main classes of sedimentary ores: Carbinate and Siliclastic Ores which each have several specific sub-classifications, plus many unknown types.
+",		"igneousunknown":"Unknown Igneous Ores",		"intrusive":"Intrusive Ores",		"extrusive":"Extrusive Ores",		"igneous":"Igneous Ores are collected with a Mineral Survey Device or Mineral Mining Installation.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Cold Resistance
+    Heat Resistance
+    Toughness
+    Shock Resistance
+    Resistance to Decay
+
+There are two main classes of igneous ores: Extrusive and Intrusive Ores which each have several specific sub-classifications, plus many unknown types.
+",		"lowgradeore":"Low-Grade Ores include many different kinds of rock ores that are useful for all kinds of applications. ",		"nonferrousunknown":"Unknown Non-Ferrous Metals",		"copper":"Copper",		"aluminum":"Aluminum",		"nonferrous":"Non-Ferrous Metals are collected with a Mineral Survey Device or Mineral Mining Installation.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Cold Resistance
+    Heat Resistance
+    Toughness
+    Shock Resistance
+    Conductivity
+    Resistance to Decay
+
+There are two main classes of non-ferrous metal: Aluminum and Copper, plus many unknown types.
+",		"ferrousunknown":"Unknown Ferrous Metals",		"iron":"Iron",		"steel":"Steel",		"ferrous":"Ferrous Metals are collected with a Mineral Survey Device or Mineral Mining Installation.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Cold Resistance
+    Heat Resistance
+    Toughness
+    Shock Resistance
+    Conductivity
+    Resistance to Decay
+
+There are two main classes of ferrous metal: Iron and Steel, plus many unknown types.
+",		"metals":"Many differnt kinds of metals can be found throughout the galaxy.",		"radioactives":"Radioactives can be collected with a Mineral Survey Device or Mineral Mining Installation.
+
+Resource Attributes
+    Overall Quality
+    Potential Energy
+    Resistance to Decay
+
+There are seven main classes of radioactive materials plus many unidentified ones.
+",		"solidpetrochem":"Solid Petrochem Fuels can be collected with a Mineral Survey Device or Mineral Mining Installation.
+
+Resource Attributes
+    Overall Quality
+    Potential Energy
+    Resistance to Decay
+
+There are seven main classes of solid petrochemical fuel plus many unidentified ones.",		"minerals":"Mineral Resources include many different types of solid raw and refined resources.",		"vapor":"Mineral rich water vapors can be collected on many different planets and are useful for many different application.  Water Vapor can be collected with a Water Survey Device or Moisture Vaporator.
+
+Resource Attributes
+    Overall Quality
+    Resistance to Decay
+",		"water":"Water Resources include water collected in vapor form.",		"fiberplast":"Fiberplasts are made by collecting certain raw chemical resources and refining them into multi-purpose materials.  Fiberplasts can be collected with a Chemical Survey Tool or a Chemical Harvester.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Toughness
+    Shock Resistance
+    Resistance to Decay
+",		"polymers":"Polymers",		"lubricatingoil":"Lubricating Oils",		"inertpetrochem":"Inert Petrochemicals can be collected with a Chemical Survey Device or a Chemical Extractor.
+
+Resource Attributes
+    Overall Quality
+    Resistance to Decay
+
+There are two sub classes of inert petrochemicals: Lubricating Oils and Polymers.",		"liquidpetrochem":"Liquid Petrochem Fuels can be collected with a Chemical Survey Device or a Chemical Extractor.
+
+Resource Attributes
+    Overall Quality
+    Potential Energy
+    Resistance to Decay
+
+There are seven main classes of liquid petrochemicals plus many unidentified ones.",		"chemical":"Chemical Resources include many different kinds of natural chemicals as well as their manufactured by-products.",		"inorganic":"Inorganic Resources includes all types of non-organic materials including metals, gases, chemicals, rocks and many other types.",		"evergreen":"Evergreens",		"softwood":"Soft Wood resources can be collected with a Flora Survey Tool or a Flora Farm.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Toughness
+    Shock Resistance
+    Resistance to Decay
+
+Soft Woods also includes the sub class of Evergreens.",		"hardwood":"Hard Wood resources can be collected with a Flora Survey Tool or a Flora Farm.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Toughness
+    Shock Resistance
+    Resistance to Decay
+",		"florastructural":"Flora Structural resources include various kinds of woods which are useful for building things.",		"flower":"Flower",		"berry":"Berry",		"fruitfruit":"Fruit",		"fruit":"Fruits can be collected with a Flora Survey Tool or a Flora Farm.
+
+Resource Attributes
+    Overall Quality
+    Flavor
+    Potential Energy
+    Resistance to Decay
+
+There are three primary sub classes of fruit resources: Fruits, Berries and Flowers.",		"fungi":"Fungi",		"tubers":"Tubers",		"greens":"Greens",		"vegetable":"Vegetables resources can be collected with a Flora Survey Tool or a Flora Farm.
+
+Resource Attributes
+    Overall Quality
+    Flavor
+    Potential Energy
+    Resistance to Decay
+
+There are four primary sub classes of vegetable resources: Greens, Beans, Tubers and Fungi.",		"seed":"Seed resource include many different kinds of seeded plants.",		"wheatwild":"Wild Wheat",		"wheatdomestic":"Domestic Wheat",		"wheat":"Wheat",		"oatswild":"Wild Oats",		"oatsdomestic":"Domestic Oats",		"oats":"Oats",		"ricewild":"Wild Rice",		"ricedomestic":"Domestic Rice",		"rice":"Rice",		"cornwild":"Wild Corn",		"corndomestic":"Domestic Corn",		"corn":"Corn",		"cereal":"Cereal resources include various kinds of grains.  They can be collected with a Flora Survey Tool or a Flora Farm.
+
+Resource Attributes
+    Overall Quality
+    Flavor
+    Potential Energy
+    Resistance to Decay
+
+There are four primary sub classes of ceareal resources: Corn, Rice, Oats and Wheat.  Each of these comes in a wild and domestic strain.",		"florafood":"Flora Food includes all of the eatable plant resources.",		"flora":"Flora Resources contains every type of plant based resource.",		"leathery":"Leathery Hide",		"scaly":"Scaly Hide",		"bristly":"Bristly Hide",		"wooly":"Wooly Hide",		"hide":"Hides are collected by harvesting them from the corpses of recently killed creatures.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Toughness
+    Shock Resistance
+    Resistance to Decay
+
+There are several sub classes of hides: Wooly Hides, Bristly Hides, Scaly Hides and Leathery Hides.",		"horn":"Horns are collected by harvesting them from the corpses of recently killed creatures.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Toughness
+    Shock Resistance
+    Resistance to Decay
+",		"boneavian":"Avian Bones",		"bone":"Bones are collected by harvesting them from the corpses of recently killed creatures.
+
+Resource Attributes
+    Overall Quality
+    Malleability
+    Toughness
+    Shock Resistance
+    Resistance to Decay
+
+There are two basic categories of bones: Mammal Bones and Avian Bones.",		"creaturestructural":"Creature Structural resources include animal bones, horns and hide.",		"mollusk":"Mollusks",		"crustacean":"Crustaceans",		"fish":"Fish",		"seafood":"Seafood can be collected by fishing.
+
+Resource Attributes
+    Overall Quality
+    Flavor
+    Potential Energy
+    Resistance to Decay
+
+There are three different sub classes of seafood reasources: Fish, Crustacean and Mollusk.",		"egg":"Eggs 
+
+Resource Attributes
+    Overall Quality
+    Flavor
+    Potential Energy
+    Resistance to Decay
+",		"meatinsect":"Insect Meat",		"meatavian":"Avian Meat",		"meatreptilian":"Reptilian Meat",		"meatcarnivore":"Carnivore Meat",		"meatherbivore":"Herbivore Meat",		"meatwild":"Wild Meat",		"meatdomestic":"Domestic Meat",		"meat":"Meat resources are collected by harvesting the meat off of the corpses of recently killed creatures.
+
+Resource Attributes
+    Overall Quality
+    Flavor
+    Potential Energy
+    Resistance to Decay
+
+There are several sub classes of meat reasources that can be found: Wild Meat, Domestic Meat, Herbivore Meat, Carnivore Meat, Reptilian Meat, Avian Meat and Insect Meat.",		"milkwild":"Wild Milk",		"milkdomestic":"Domestic Milk",		"milk":"Milk comes in two varieties, Domestic Milks and Wild Milks.
+
+Resource Attributes
+    Overall Quality
+    Flavor
+    Potential Energy
+    Resistance to Decay
+",		"creaturefood":"Creature Food includes all types of animal meat, milk and eggs.",		"creature":"Creature Resources are the types of resources that come from animals.  
+
+There are two major sub-classes of Creature Resources: Creature Food and Creature Structural.",		"organic":"Organic Resources includes all types of creature and flora derived resources.",		"resourcetree":"The following is a tree of all the available resource classes that can be found throughout the galaxy.  
+
+Remember whenever you find yourself in need of a specific resource class for crafting an item any of the sub-classes can also be used.",		"attributes":"All resources have attributes. Resource attributes are quantified on a 1-1000 scale. Higher means more.
+
+The complete list of resource attributes used in the game is as follows:
+
+    Cold Resistance
+    Conductivity
+    Entanglement Resistance
+    Flavor
+    Heat Resistance
+    Malleability
+    Overall Quality
+    Potential Energy
+    Resistance to Decay
+    Shock Resistance
+    Toughness
+
+A resource type will never have all the possible resource attributes, and what attributes it does have is determined by what class it is. The values of those attributes are determined by random selection from a possible range, again determined by the class.
+
+Don't make assumptions about what is important to a particular schematic and what isn't. The draft schematic itself is the single source of information on what specific resource attributes are important to it, and how important they are
+",		"classesandtypes":"A tangible, instantiated, and ready-to-use resource in the game is a resource type. Resource types are transported in resource containers and in a specific number of units. All the resources in the game are organized into groups called classes. A resource class is inclusive of all the resource classes and types that inherit from it. For example, class Metal is under class Mineral, so metals are minerals with additional specifics attached to them. Anything that demands a higher-level class such as 'mineral' will also accept anything that inherits from that class, such as 'metal'.",		"resources":"Star Wars Galaxies includes an extensive and diverse Resource Tree.  These resources are used to craft various kinds of items by the skills artisans throughout the galaxy."
+}}

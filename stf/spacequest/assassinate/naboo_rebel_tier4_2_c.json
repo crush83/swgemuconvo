@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_rebel_tier4_2_c",
+	"entries": {
+		"title_d":"Uvqolo is on his way to the Dathomir system but you have one more chance at him before he reaches the Imperial fleet. Hyperspace to the Dathomir system immediately and try to intercept him before he gets away again.",		"title":"Dathomir system: Last chance at Uvqolo.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Brother Extok Evin: < %TO >",		"quest_target_t":"Master Inquisitor Uvqolo.",		"quest_target_d":"Uvqolo is as good at space combat as he is torturing innocents. He would prove a great challenge to you, if he was alone. Unfortunately, he won't be.",		"quest_location_t":"Dathomir system.",		"quest_location_d":"The Dathomir system is always dangerous and the closer Uvqolo get to the Imperial fleet, the more dangerous it will become.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"The slippery wretch got away. Return to base pilot.",		"escort_wiped_out":"Brother Extok Evin: < Great! Now show Uvqolo that he's met his match! >",		"escort_remaining":"Brother Extok Evin: < Good job pilot, make them fear you! >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"I'm most impressed my friend. This event will strike fear through the Empires ranks!",		"arrival_phase_2":"Locked in. Intercept and terminate him pilot, this is your last chance!",		"arrival_phase_1":"Our reconnaissance ships are checking ship signatures for Uvqolo's location now, give us a second."
+}}

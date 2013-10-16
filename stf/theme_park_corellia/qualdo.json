@@ -1,22 +1,5 @@
-[
-'20':'qualdo_10',
-'19':'qualdo_9',
-'18':'qualdo_8_r2',
-'17':'qualdo_8_r1',
-'16':'qualdo_8',
-'15':'qualdo_7',
-'14':'qualdo_6_r2',
-'13':'qualdo_6_r1',
-'12':'qualdo_6',
-'11':'qualdo_5',
-'10':'qualdo_4_r2',
-'9':'qualdo_4_r1',
-'8':'qualdo_4',
-'7':'qualdo_3',
-'6':'qualdo_2_r2',
-'5':'qualdo_2_r1',
-'4':'qualdo_2',
-'3':'qualdo_1_r2',
-'2':'qualdo_1_r1',
-'1':'qualdo_1',
-]
+{
+	"stfFile":"theme_park_corellia/qualdo",
+	"entries": {
+		"qualdo_10":"Excellent work.  I'm putting in a request right now to have you bumped up in pay scale.  When you're ready to do more work see Lt. Lance.  He'll have something for you to do.",		"qualdo_9":"Well, you've blown it.  We're going to have to scramble everything now and put a lot of operations on hold until we get a new technician who can work on those listening devices.  Too bad you weren't more helpful.",		"qualdo_8_r2":"Nope, not yet.",		"qualdo_8_r1":"Sorry.  I'm ready.",		"qualdo_8":"Well, we've been waiting. Are you ready yet?",		"qualdo_7":"For the Alliance sake, don't be long.  We don't have time to wait for rookies to get ready.  We need you in the field!",		"qualdo_6_r2":"I'll help you later.",		"qualdo_6_r1":"Ok, where is he?",		"qualdo_6":"He's an expert in Imperial listening devices.  Without him they'd be listening into every conversation we have.  Fortunately he's been able to block their scans.  But we need him back to do more research.  There's a constant cat and mouse game of spying going on, and he's the only hope we have of winning it.",		"qualdo_5":"I knew I could count on you.  Here, I'll upload his coordinates to your datapad.  Get to him and make sure he stays safe.  Bring him back here, for the good of the alliance, and I'll make sure our superiors know your name.",		"qualdo_4_r2":"What does he do?",		"qualdo_4_r1":"Where is he?",		"qualdo_4":"Wizard!  I need you to escort a friend of ours.  He's had some trouble with the imperials, but they aren't bothering with him personally.  They've contracted his life out to a bounty hunter.  I need you to get him here safely, he's one of our top scientists.",		"qualdo_3":"Sorry.  I thought you were with us.  Well, carry on then.",		"qualdo_2_r2":"I'm sort of busy now.",		"qualdo_2_r1":"Absolutely.",		"qualdo_2":"Good.  I've got some work for you to do.  This was handed down from the Priness herself, but we don't want to use one of our regular field agents.  Can we trust you with this?",		"qualdo_1_r2":"No, you're confused.",		"qualdo_1_r1":"That's me.",		"qualdo_1":"I'm Herm.  Qual'do Herm.  You must be the new recruit."
+}}

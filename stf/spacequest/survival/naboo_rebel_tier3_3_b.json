@@ -1,29 +1,5 @@
-[
-'27':'transmission_start',
-'26':'transmission_received',
-'25':'trans_update',
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_reachpoint_t',
-'18':'quest_reachpoint_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_defendpoint_t',
-'14':'quest_defendpoint_d',
-'13':'outofrange_failed',
-'12':'outofrange',
-'11':'mission_complete',
-'10':'found_loc',
-'9':'first_attack',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_loc',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/survival/naboo_rebel_tier3_3_b",
+	"entries": {
+		"transmission_start":"Brother Ezkiel: < Pilot, we need you to defend this area while our spy ships scan the area for the Blacklights command. >",		"transmission_received":"Brother Ezkiel: < The spy ships are complete, stand by. >",		"trans_update":"Brother Ezkiel: < Pilot, hold out for a while longer. The SpyNet are %DI% done with the scans. >",		"title_d":"We have found the Blacklight base of operations and need to pinpoint their command. The SpyNet have sent in some of their highly advanced recon ships. You need to keep them safe from the incoming mass of pirates while they scan the area.",		"title":"Endor system: Survival of the fittest.",		"split_quest_alert_fail":"",		"split_quest_alert":"Brother Ezkiel: < Pilot, you impress me. Songs of your success will be taught in the halls of the Vortex. Back to business. We need you to find the exact location of the Blacklight leader. Stand by. >",		"quest_update":"Brother Ezkiel < %TO >",		"quest_reachpoint_t":"Correct coordinates.",		"quest_reachpoint_d":"These are the coordinates that is best suited to intercept the incoming Blacklight pirates. Stay close to it.",		"quest_location_t":"Endor system.",		"quest_location_d":"The Endor system seem to be a high risk system normally but you are in the middle of Blacklight territory so it will be especially dangerous. We are all hoping for your success down here my friend.",		"quest_defendpoint_t":"Defend the area.",		"quest_defendpoint_d":"Defend this area and don't let any of the pirates get past you until the SpyNet ships are done. I know we ask a lot of you my friend but if anyone can do it, it's you.",		"outofrange_failed":"Brother Ezkiel: < Ack, some of the Blacklight pirates got past you and are making short work of the SpyNet recon ships. Return to base pilot. >",		"outofrange":"Tactical Computer: < Warning! Objective Point out of range! Return to initial coordinates immediately. >",		"mission_complete":"Mission success! Proceed with further objectives.",		"found_loc":"We've detected a suspicious amount of activity in this region. Defend this point against any Blacklight enemy while we scan for the Blacklight HQ.",		"first_attack":"Here they come, pilot! They're dangerous bastards. Keep your wits about you. Good luck!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < No more fighter vessels within sensor range. >",		"attack_notify":"Tactical Computer: < Incoming fighter vessels. Scans show weapons armed. >",		"assigned_delayed":"",		"arrived_at_loc":"Keep your eyes open, pilot. Our systems show multiple fighter ships heading toward you.",		"Quest Log Data":"Text"
+}}

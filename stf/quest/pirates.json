@@ -1,4 +1,5 @@
-[
-'2':'dont_hurt_us',
-'1':'ruin_life',
-]
+{
+	"stfFile":"quest/pirates",
+	"entries": {
+		"dont_hurt_us":"Wait! Don't hurt us! We give up!",		"ruin_life":"I'll be back! And I'll ruin your life!"
+}}

@@ -1,62 +1,46 @@
-[
-'60':'insert_rod',
-'59':'core_name_off',
-'58':'core_name_on',
-'57':'turret_term_off',
-'56':'turret_term_on',
-'55':'mcr_term_name_off',
-'54':'mcr_term_name_on',
-'53':'core_rod_name',
-'52':'switch_name_2',
-'51':'switch_name_1',
-'50':'access_granted',
-'49':'access_denied',
-'48':'get_evidence',
-'47':'got_evidence',
-'46':'core_warning',
-'45':'elev_toolow',
-'44':'elev_range',
-'43':'name_manx',
-'42':'name_mirla',
-'41':'name_heff',
-'40':'name_ovitt',
-'39':'name_phy',
-'38':'name_dirk',
-'37':'name_knag',
-'36':'name_jerrd',
-'35':'mirla_password',
-'34':'download_complete',
-'33':'mnu_download',
-'32':'dev_control_terminal',
-'31':'dev_control_name',
-'30':'bio_terminal',
-'29':'bio_terminal_name',
-'28':'cell_open',
-'27':'cell_locked',
-'26':'inq_letter_text',
-'25':'inq_letter_name',
-'24':'turret_pass_active',
-'23':'turret_pass_inactive',
-'22':'turret_pass_deactivated',
-'21':'switch_done',
-'20':'switch_two',
-'19':'switch_one',
-'18':'deactivate_core',
-'17':'elev_one_secure',
-'16':'mcr_term_active',
-'15':'mcr_term_deactivated',
-'14':'turret_data_name',
-'13':'letter_text',
-'12':'letter_name',
-'11':'passkey4_name',
-'10':'passkey3_name',
-'9':'passkey2_name',
-'8':'passkey1_name',
-'7':'passkey_name',
-'6':'comm_terminal_name',
-'5':'diary_terminal_name',
-'4':'diary_terminal',
-'3':'comm_terminal',
-'2':'welcome_terminal',
-'1':'waypoint_name',
-]
+{
+	"stfFile":"theme_park/warren/warren_system_messages",
+	"entries": {
+		"insert_rod":"You insert the reactor core control rods into the reactor core.",		"core_name_off":"Reactor Core: SHUTDOWN",		"core_name_on":"Reactor Core: OVERLOAD IMMINENT",		"turret_term_off":"Turret Control Terminal: DEACTIVATED",		"turret_term_on":"Turret Control Terminal: ACTIVATED",		"mcr_term_name_off":"Passkey Terminal: OFF",		"mcr_term_name_on":"Passkey Terminal: ON",		"core_rod_name":"Reactor Core Control Rod",		"switch_name_2":"Reactor Core Lockdown Override Switch Two",		"switch_name_1":"Reactor Core Lockdown Override Switch One",		"access_granted":"ACCESS GRANTED:  Passkey code accepted.  Welcome to this Imperial Research Facility",		"access_denied":"ACCESS DENIED:  YOU DO NOT HAVE THE PROPER PASSKEY TO ENTER THIS FACILITY",		"get_evidence":"DOWNLOAD EVIDENCE",		"got_evidence":"You have already downloaded evidence from this terminal",		"core_warning":"WARNING:  Reactor Core Overload Imminent.  Control Center Lock-Down initiated.",		"elev_toolow":"You are already on the bottom floor",		"elev_range":"You are too far away to use that",		"name_manx":"M'anx Try (a researcher)",		"name_mirla":"Mirla (a worker)",		"name_heff":"Captain Heff (an Imperial Captain)",		"name_ovitt":"O'Evitt Piboi (an escapee)",		"name_phy":"Phy Hudgen (an escaped worker)",		"name_dirk":"Dirk Maggin (a dying loyalist)",		"name_knag":"Doctor Knag (a researcher)",		"name_jerrd":"Jerrd Sonclim (a guard)",		"mirla_password":"The password is - %TO - just speak that near the cell door to unlock it.  Good luck.",		"download_complete":"DOWNLOAD COMPLETE",		"mnu_download":"DOWNLOAD CODE",		"dev_control_terminal":"[Authorization required.]
+
+Remote encryption transmission system v8.06.
+
+Last access [TODAY] transmission to destination Airlock Blast Door Security Lockdown procedure 8.2.1.5.67b.
+",		"dev_control_name":"Encryption Key Generator",		"bio_terminal":"BRAIN REMOVAL PROCEDURES-
+Obey all procedural rules for critical brain evacuation in order to prevent trauma.  The following information is CLASSIFIED.",		"bio_terminal_name":"Procedural Instruction Terminal",		"cell_open":"Cell 21342 is Unlocked",		"cell_locked":"The Cell Is Locked:  Authorization Required.  Speak the password to Unlock Cell #21342",		"inq_letter_text":"Attacked by surprise en route to the research facility's lower levels.  Teraud is no where to be seen, but his loyalists ambushed my Stormtrooper escort.  We were divided in the battle and I've been badly wounded, captured, and thrown into a cell.  I do not expect help to arrive in time.
+
+Any Imperial Citizen that finds this Communication Disk:  Consider this a direct order from Imperial Inquisitor Janna bel Arde:  Locate evidence to prove Colonel Teraud is a traitor and a madman.  He cannot be allowed to disrupt the peace and order of the Empire.  Blast your way through 'The Warren' (as they call it here) if you must, but locate enough evidence to bring down the might of the Empire on this would-be despot.  Deliver this letter and the evidence you collect to the Captain Heff in the Theed Palace on Naboo.
+
+The Captain will know what to do.",		"inq_letter_name":"FOUO: Imperial Communication Disk",		"turret_pass_active":"Master Control Room Turret Defense System is:  ACTIVE
+
+Speak the passkey code to deactivate the MCRTDS.",		"turret_pass_inactive":"Master Control Room Turret Defense System is:  INACTIVE.",		"turret_pass_deactivated":"Turret Defense System has been DEACTIVED.",		"switch_done":"* REACTOR CODE LOCKDOWN OVERRIDE COMPLETE *",		"switch_two":"* Reactor Core Lockdown Override #2 Activated *",		"switch_one":"* Reactor Core Lockdown Override #1 Activated *",		"deactivate_core":"* REACTOR CORE DEACTIVATED *",		"elev_one_secure":"+Master Control Security Lock Engaged:  ACCESS DENIED+",		"mcr_term_active":"+Passkey Not Found:  Security Lock is ACTIVE+",		"mcr_term_deactivated":"+Security Lock Deactivated+",		"turret_data_name":"Turret Sequence",		"letter_text":"Dearest Mirla, 
+
+We don't know what has happened down below, but shortly after the Imperials arrived, the beasts broke out of their cages and began a terrible rampage.  There is carnage everywhere here and I don't think we're going to last much longer.  I want you to know that I love you very much - as much today as the day of our marriage.
+
+I hope that you have found a safe place to hide until help arrives.  I'm writing this farewell letter in hopes that someone will find it and deliver it to you, because I don't think I'm going to make it out of here alive.
+
+Don't grieve for me.  I have known more happiness in the past few years than anyone deserves, and I'll always be with you in your heart.
+
+I love you!",		"letter_name":"a letter",		"passkey4_name":"Master Control Room Elevator Control Passkey Four",		"passkey3_name":"Master Control Room Elevator Control Passkey Three",		"passkey2_name":"Master Control Room Elevator Control Passkey Two",		"passkey1_name":"Master Control Room Elevator Control Passkey One",		"passkey_name":"Main Entry Passkey",		"comm_terminal_name":"Communications Terminal",		"diary_terminal_name":"Diary Terminal",		"diary_terminal":"Dear diary,
+
+Oh I am so sad today.  Just like yesterday and the day before.  I bet I will be even more sad tomorrow.  Working for Teraud is horrible.  First my friend Matlo vanished, and now my coworker whose name I can't even pronounce, let alone spell, has mysteriously disappeared.  And I have to do all his work!  The screaming from some of the rooms raises the hair on the back of my neck.
+
+They tell us those rooms are off-limits - they don't even trust us to go down one floor without approval from four supervisors.  Like any of us ever want to go down there anyway!  All the animals are creepy, and Teraud's personal Loyalists are even worse!  Considering this is an Imperial Research facility, these people don't seem very loyal to the Empire.
+
+Oh great, more screaming from the ... well that sounds closer than usual.  I better go see wha",		"comm_terminal":"SUBJECT:  IMPERIAL INSPECTION
+CLASSIFIED
+
+TO: COLONEL BORS TERAUD
+FROM : GRAND MOFF ARDUS KAINE
+
+Colonel, our impatience with your failure to account for the millions of credits in Imperial funding that have gone your way is increasingly leading us to the conclusion that some sort of malfeasance has been attempted. Our previous inspection by an Imperial Inquisitor resulted in the inquisitor never returning, and your bland answers to our inquiries have proven unsatisfactory.
+
+Expect a fresh inspection team, led by Imperial Inquisitor Janna bel Arde. She has the authority to inspect any aspect of your budget and finances, your team, your facility, and your experiments. Should she locate any irregularities whatsoever, you will be relieved of your command. Given the mysterious disappearance of our last auditor, Inquisitor bel Arde will be accompanied by a military contingent.
+
+I need not remind you that your extremely high levels of funding were in large part because of the personal interest that our illustrious Emperor took in your stated project goals. His eye on you can be valuable when you are doing well. I do not think you want his attention under any other circumstances.
+
+TRANSMISSION ENDS
+",		"welcome_terminal":"Welcome to the premier Imperial Research Facility in the known Galaxy! Under the command of the magnanimous and brilliant Colonel Bors Teraud, this facility engages in cybernetic and cyborg research for the greater glory of the Empire.
+
+Making use of cutting-edge technology, the brilliant scientists under Colonel Teraud's command are pushing forward the boundaries of cyborg technology and neural interaction!",		"waypoint_name":"The Warren"
+}}

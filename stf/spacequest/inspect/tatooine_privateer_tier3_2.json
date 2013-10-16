@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/tatooine_privateer_tier3_2",
+	"entries": {
+		"title_d":"Disable the Witchblood Clan Soldier and inspect him for information about a Witchblood Punisher rally",		"title":"Dathomir System: Disable and Inspect Witchblood Clan Soldiers",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Beissa: < \#pcontrast1 Excellent, now that you have the location of their Punisher rally get over there and find out where the burial ground is located. \#pcontrast3 >",		"quest_location_t":"Dathomir System",		"quest_location_d":"An area of Dathomir with known Witchblood activity",		"quest_inspect_t":"Inspect Target",		"quest_inspect_d":"While you have the objective craft targeted, use /inspect command to determine their cargo.",		"quest_dock_t":"Docking",		"quest_dock_d":"If the craft you have inspected containes the cargo you need, use the default '[' or ']' keys to cycle through their components to the engine slot.  After disabling the craft, pull up close and use the /dock command to retreive the cargo.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

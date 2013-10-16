@@ -1,5 +1,5 @@
-[
-'3':'quest_received',
-'2':'quest_task_failed',
-'1':'quest_task_completed',
-]
+{
+	"stfFile":"quest/ground/system_message",
+	"entries": {
+		"quest_received":"\#pcontrast3 Quest Received: < \#pcontrast1 %TT : %TO \#pcontrast3 >",		"quest_task_failed":"\#pcontrast3 You have failed: < \#pcontrast1 %TT : %TO \#pcontrast3 >",		"quest_task_completed":"\#pcontrast3 You have completed: < \#pcontrast1 %TT : %TO \#pcontrast3 >"
+}}

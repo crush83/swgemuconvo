@@ -1,3 +1,5 @@
-[
-'1':'sample_for',
-]
+{
+	"stfFile":"quest/sampling",
+	"entries": {
+		"sample_for":"You've discovered %TU."
+}}

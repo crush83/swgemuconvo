@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/tatooine_imperial_tier3_3_b",
+	"entries": {
+		"title_d":"In order to assist with the deception of the fake Imperial plans, you need to destroy a few of their craft as if the Empire is going on the offensive. Seek and destroy Rebel fighters until you are contacted by command that the decoy shuttle is ready.",		"title":"Endor System: Seek and Destroy Rebel Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"The decoy shuttle is all set up with the false information. Meet up with the shuttle and assist it through the system. In order to make sure that the Rebels are completely sold that it contains real and valuable information, you are going to have to make it look as real as possible. Destroy four of the enemy attack waves while you are escorting the shuttle. This should convince the Rebels that the plans they will find on the shuttle are real.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"Destroy the fighters inside of the Endor system. You will have to search for the fighters in the area.",		"quest_destroy_t":"Destroy Rebel Fighters",		"quest_destroy_d":"Seek and destroy any Rebel A-wing, B-wing, Y-wing, X-wing, or Z95's that can be found in the Endor system. Destroy them until you receive word from command that the decoy shuttle is ready.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

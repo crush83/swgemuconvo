@@ -1,8 +1,5 @@
-[
-'6':'stop_playing',
-'5':'play_instrument',
-'4':'watch_stop',
-'3':'listen_stop',
-'2':'watch',
-'1':'listen',
-]
+{
+	"stfFile":"radial_performance",
+	"entries": {
+		"stop_playing":"Stop Playing",		"play_instrument":"Play Instrument",		"watch_stop":"Stop Watching",		"listen_stop":"Stop Listening",		"watch":"Watch",		"listen":"Listen"
+}}

@@ -1,20 +1,5 @@
-[
-'18':'not_in_same_group',
-'17':'no_skills_for_student',
-'16':'no_skills',
-'15':'student_dead',
-'14':'no_teach_self',
-'13':'no_target',
-'12':'teaching_failed',
-'11':'learning_failed',
-'10':'experience_received',
-'9':'student_skill_learned',
-'8':'teacher_skill_learned',
-'7':'offer_refused',
-'6':'teacher_too_far_target',
-'5':'teacher_too_far',
-'4':'offer_given',
-'3':'student_has_offer_to_learn',
-'2':'student_too_far_target',
-'1':'student_too_far',
-]
+{
+	"stfFile":"teaching",
+	"entries": {
+		"not_in_same_group":"You must be within the same group as %TT in order to teach.",		"no_skills_for_student":"You have no skills that  %TT can currently learn."",		"no_skills":"You have no skills to teach.",		"student_dead":"%TT does not feel like being taught right now.",		"no_teach_self":"You cannot teach yourself.",		"no_target":"Whom do you want to teach?",		"teaching_failed":"Teaching failed.",		"learning_failed":"Learning failed.",		"experience_received":"You have received %DI Apprenticeship experience.",		"student_skill_learned":"You learn %TO from %TT.",		"teacher_skill_learned":"%TT learns %TO from you.",		"offer_refused":"%TT has refused your offer to teach.",		"teacher_too_far_target":"You are too far away from %TT to learn.",		"teacher_too_far":"Your teacher must be nearby in order to learn.",		"offer_given":"You offer to teach %TT %TO.",		"student_has_offer_to_learn":"%TT already has an offer to learn.",		"student_too_far_target":"You are too far away from %TT to teach.",		"student_too_far":"Your student must be nearby in order to teach."
+}}

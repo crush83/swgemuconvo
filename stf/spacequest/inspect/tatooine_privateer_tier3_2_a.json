@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/tatooine_privateer_tier3_2_a",
+	"entries": {
+		"title_d":"Disrupt a gathering of Witchblood Clan Punishers and inspect them for locations to the Witchblood Clan Burial Grounds",		"title":"Dathomir Sytem: Inspect Witchblood Punishers for Burial Ground Location",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Beissa: < \#pcontrast1 Excellent, now get over to their burial ground.  They will be all over you there, but you must stay in the area while we carry out our operation. \#pcontrast3 >",		"quest_location_t":"Dathomir System",		"quest_location_d":"The rally point for the Witchblood Clan Punishers",		"quest_inspect_t":"Inspect Target",		"quest_inspect_d":"You can /inspect a target to determine what if any cargo they posess",		"quest_dock_t":"Dock Target",		"quest_dock_d":"To dock with a target, destroy their engines and use the /dock command",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

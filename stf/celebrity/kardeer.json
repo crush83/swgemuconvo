@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'npc_10',
-'19':'player_10',
-'18':'npc_5',
-'17':'player_9',
-'16':'npc_9',
-'15':'npc_8',
-'14':'player_8',
-'13':'player_7',
-'12':'npc_4',
-'11':'player_6',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/kardeer",
+	"entries": {
+		"npc_11":"I'm feeling a little light headed, actually.  Perhaps it was all the pesticides...",		"npc_10":"Because.  There is nothing more to be said.  You should feel priveleged to exist in the same galaxy as such a wonderous creature.",		"player_10":"Are you ok?",		"npc_5":"She is so much more than that.  She is to be praised for her good works at every possible opportunity.",		"player_9":"Why should I care about her?",		"npc_9":"She does whatever needs to be done.  Her grace is an ever flowing fount of knowledge, wisdom, and generosity.",		"npc_8":"Perhaps you should ask around about her.  She is quite powerful here on Tatooine.",		"player_8":"What does she do?",		"player_7":"I think that's what I just said.",		"npc_4":"You've never heard of her eminence the Lady Valarian?",		"player_6":"The Whiphid?",		"player_5":"Never heard of her.",		"npc_3":"Her majesty, Lady Valarian.",		"npc_7":"Gardening is noble pursuit no matter where it is performed.",		"player_4":"Must not be much work on Tatooine.",		"npc_6":"My gloves didn't give it away?",		"player_3":"You're a gardener?",		"npc_2":"I'm Kardeer, her Ladyship's gardener.",		"player_2":"Who's the Madam?",		"player_1":"Who are you?",		"npc_1":"Madam's not here, but what can I help you with?"
+}}

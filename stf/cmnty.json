@@ -1,12 +1,5 @@
-[
-'14':'friend_fail_already_in_list_old',
-'13':'friend_not_found',
-'10':'friend_duplicate',
-'9':'friend_fail_is_ignored',
-'7':'ignore_duplicate',
-'6':'ignore_added',
-'5':'ignore_removed',
-'4':'friend_removed',
-'3':'friend_added',
-'1':'ignore_not_found',
-]
+{
+	"stfFile":"cmnty",
+	"entries": {
+		"friend_fail_already_in_list_old":"%TT is already in your friend list.",		"friend_not_found":"%TT is not a valid friend name.",		"friend_duplicate":"%TT is already in your friend list.",		"friend_fail_is_ignored":"%TT is being ignored, unable to put in your friends list.",		"ignore_duplicate":"%TT is already in your ignore list.",		"ignore_added":"%TT is now ignored.",		"ignore_removed":"%TT is no longer ignored.",		"friend_removed":"%TT is no longer your friend.",		"friend_added":"%TT is now your friend.",		"ignore_not_found":"%TT is not a valid ignore name."
+}}

@@ -1,35 +1,127 @@
-[
-'33':'jawa_mountain_fortress',
-'32':'dera_darklighter',
-'31':'max_rebo_and_the_max_rebo_band',
-'30':'bib_fortuna',
-'29':'lady_valarian',
-'28':'jabba_the_hutt',
-'27':'cu_pa',
-'26':'worrt',
-'25':'bocatt',
-'24':'ronto',
-'23':'womprat',
-'22':'krayt_dragon',
-'21':'dewback',
-'20':'bantha',
-'19':'eopie',
-'18':'sand_people',
-'17':'jawa',
-'16':'great_pit_of_carkoon',
-'15':'jawa_fortress',
-'14':'krayt_graveyard',
-'13':'fallen_star',
-'12':'lucky_despot',
-'11':'jabbas_palace',
-'10':'fort_tusken',
-'9':'imperial_oasis',
-'8':'wayfar',
-'7':'mos_taike',
-'6':'mos_espa',
-'5':'mos_entha',
-'4':'mos_eisley',
-'3':'bestine',
-'2':'anchorhead',
-'1':'tatooine',
-]
+{
+	"stfFile":"loading/tatooine",
+	"entries": {
+		"jawa_mountain_fortress":"The Jawas have turned this abandoned fortress into a giant ongoing bazaar. Here Jawa tribes, settlers, thieves, and visitors from all over Tatooine meet to buy, sell, and haggle. The fortress also shelters desperate fugitives and more than a few washed-up losers.",		"dera_darklighter":"Daughter of Huff Darklighter, Dera is a well known member of the Tatooine community.
+
+Rather than wallowing in grief, Dera has used the recent death of her brother, 'Biggs' Darklighter, as a source of inspiration.
+
+Sharing the same views as the rest of her family, Dera is a charming orater. She is known locally for speeches about matters such as 'Personal Rights', 'Oppression vs. Freedom', and 'Democracy'.",		"max_rebo_and_the_max_rebo_band":"Under an exclusive contract with Jabba the Hutt, Max Rebo entertains those in Jabba's throne room.
+
+The band consists of Max on keyboards, Droopy McCool on slitherhorn, and the irrepressible Sy Snootles doing vocals.
+
+Max isn't necessarily happy to be under exclusive contract, but it is unwise to break a deal with Jabba.",		"bib_fortuna":"Bib Fortuna is known across Tatooine as Jabba the Hutt's personal advisor and majordomo.
+
+An exiled Twi'lek, Bib Fortuna's desire for power and willingness to commit heinous crimes keep him in good standing with Jabba.
+
+All those who wish to work for Jabba go through Bib first.  ",		"lady_valarian":"Lady Valarian is the owner of the Lucky Despot in Mos Eisley, and one of the few to openly defy Jabba.
+
+In addition to her hotel, Lady Valarian is attempting to move in on Jabba's other illegal activities.
+
+She believes that if she could remove Jabba from the picture, she could get a much bigger piece of the action in the Outer Rim.",		"jabba_the_hutt":"As the most notorious crime-lord in the Outer Rim, Jabba the Hutt makes his home on Tatooine.
+
+A member of the Hutt species, Jabba resembles a bloated slug who resides upon a large dais to support his weight.
+
+Controlling most of the smuggling, spice shipping, and loan sharking within the region, Jabba is the unspoken ruler of the planet.",		"cu_pa":"A distant cousin of the Taun-Taun, the cu-pa has evolved as a warm-weather creature.  
+
+Usually not aggressive, the cu-pa is content to roam the deserts of Tatooine, avoiding larger predators with quick bursts of speed.
+
+The coloration of the cu-pa ranges deep tan to bright golden, and many have combinations of these colors.",		"worrt":"Worrts are large, voracious creatures that eat anything that passes by.  They digest their meals with a distinctive burp. 
+
+When threatened, most worrts respond by fleeing but will attack with their sticky tongues if pressured.
+
+Stories tell of the worrt growing to enormous sizes atop the mountains of Tatooine.",		"bocatt":"A strange hybrid of lizard and feline, the bocatt can be found out in the wastelands of Tatooine.
+
+They walk on all fours with reptilian claws and attack with fierce incisors that jut out below their chins.
+
+The bocatt can use its sense of smell to track a wounded animal or a particular smell for miles at a time.",		"ronto":"Towering beasts of burden, Rontos are prized for their ability to shrug off Tatooine's intense heat.
+
+Their size makes them particularly effective at discouraging predators, both animal and alien. 
+
+Somewhat skittish in urban environments, a ronto's poor eyesight is unable to adjust quickly enough to recognize fast moving vehicles.",		"womprat":"A large rodent, the womp rat is instantly recognized by its sharp incisors and aggressive nature.
+
+Womp rats have been known to attack even well-armed settlers and Sand People.
+
+Reproducing at a prodigious rate, they manage to survive all over Tatooine, despite sanitation efforts to eradicate them.",		"krayt_dragon":"One of the most fabled beasts of Tatooine, the krayt dragon is said to keep growing larger throughout its lifetime. The head of the dragon is heavily armored, and five large horns grow from its crown.
+
+Like some reptiles, the krayt dragon ingests stones and boulders and holds them in a series of gizzards. The smoothest of these stones are known throughout the galaxy as 'Dragon Pearls', and are extremely valuable.",		"dewback":"Large, omnivorous lizards found in the deserts, dewbacks are named for the sweat they exude during periods of rest. Active during the day, dewbacks become sluggish during the cold desert nights. Faster and more agile than a bantha, Imperials have trained dewbacks as mounts.  Sometimes a dewback will develop a taste for their own meat resulting in them becoming cannibalistic in nature.",		"bantha":"Huge beasts with curving horns, banthas are as much at home being used as a transport by the Sand People on Tatooine as they are roaming the wasteland of the planet.
+
+The bantha's tongue is used for holding and carrying, eating and drinking, and as a signifier for bantha communications.
+
+Incidentally, their incisors are dangerously sharp as well.",		"eopie":"Eopies have small, bulbous bodies supported by four spindly legs, but are quite graceful out in the sandy desert.
+
+Eopies are swift moving, herbivorous mammals that can cover long distances with minor moisture loss.
+
+Easily domesticated, they are mainly used as beasts of burden and in caravans, or sometimes as food.",		"sand_people":"Sand People, or "Tusken Raiders", are primitive warriors adept at surviving the harsh desert environment.
+
+Since most of their technology is stolen from settlers, it's not rare to find hundred year old rifles still being used by them.
+ 
+Tusken Raiders are a threat to all, primarily settlers and travelers.  Most inhabitants of Tatooine believe that until the Sand People are wiped out, no one is safe.",		"jawa":"Short, intelligent scavengers, Jawas dress in dark hooded robes covering all but glowing eyes.
+
+Scavengers by nature, Jawas tend to pick up an odd assortment of droids and mechanical parts. They use huge sandcrawlers for shelter, storage and mobility. ",		"great_pit_of_carkoon":"According to the rumors, only Jabba the Hutt and the Sand People know where the Great Pit of Carkoon can be found.
+
+The Great Pit of Carkoon is the home to the Sarlacc, a creature that takes 1,000 years to digest its victims.
+
+Jabba the Hutt treats the Sarlacc as a pet, making sure to feed it regularly...",		"jawa_fortress":"A collection of Sandcrawlers forming a formidable barrier, the Jawa Fortress is one of the few 'homes' to the Jawas.
+
+The Jawa Fortress is the site of the largest, permanent gathering place for the Jawas.
+
+Here you can find all kinds of working droids, broken droids, and more salvage than a Toydarian junk dealer could shake a chance cube at.",		"krayt_graveyard":"Ever since settlers first encountered the dreaded Krayt Dragons, they wondered where the dragons go to die.
+
+Due to the extreme danger associated with these creatures, not many have been too eager to find out.
+
+A few brave adventurers have searched for the graveyard, hoping to find a fabled 'dragon pearl'.  None have returned.",		"fallen_star":"Inspired by the success of the Lucky Despot in Mos Eisley, the Fallen Star is a grounded cargo ship-turned-cantina.
+
+The Fallen Star is known to attract the seedier sorts of people from this part of the Outer Rim.
+
+Whether you're in Mos Entha for business or pleasure, the Fallen Star is one place you don't want to miss.",		"lucky_despot":"Once a cargo ship, the Lucky Despot's final flight ended up causing her to crash - right into the heart of Mos Eisley.
+
+Too large to salvage, the wrecked ship was purchased by Lady Valarian and turned it into both a hotel and cantina.
+
+While in Mos Eisley, stop by and enjoy a drink or a live show.
+",		"jabbas_palace":"A great structure rising out of the dunes, Jabba's Palace is usually mistaken for a mirage.
+
+Jabba the Hutt holds court here, and a motley crew of lowlifes who work for him call his Palace home.
+
+The mysterious spider-like droids that walk the corridors are whispered to be the true owners of the building and are letting Jabba use it.  For now.",		"fort_tusken":"One of the first settlements upon Tatooine, Fort Tusken was assaulted by the indigenous Sandpeople in its early years.
+
+Due to the ferocity of the attack, the Sandpeople were later nicknamed "Tusken Raiders".
+
+Tusken Raiders now patrol the Fort and surrounding caves, intent on keeping the namesake structure as their own.",		"imperial_oasis":"One of the most luscious of oasii on Tatooine has come to be known as the Imperial Oasis.
+
+Not used to enduring the heat of the desert, the Empire has set up a permanent base around this oasis for their own personal use.
+
+According to some who have served with the Empire, they describe the place as the only paradise on all of Tatooine.",		"wayfar":"Found past the Jundland Wastes, and neighbor to the Western Dune Sea, Wayfar could barely be called a town.
+
+Were it not for the fact some find the hard life of moisture farming appealing, Wayfar would be nothing more than an abandoned settlement.
+
+It's not uncommon to see a wild desert hermit come into town for needed supplies every now and then.",		"mos_taike":"Located on the outskirts of Tatooine, Mos Taike is a welcome sight to those who find themselves lost among the dunes.
+
+Mos Taike is populated by those who don't like the easy life of cities like Mos Eisley.
+
+Tusken Raiders have been known to attack the town from time to time, so keep your blaster ready.
+",		"mos_espa":"The largest city on all of Tatooine, Mos Espa offers all types of services.  Whether you're looking for the mundane or the highly illegal, you can find it in Mos Espa.
+
+Mos Espa is known for producing some of the Galaxy's best Podracers.
+
+Whether you live on Tatooine or are just visiting, Mos Espa is the place to see.
+",		"mos_entha":"The citizens of Mos Entha are taking pains to clean up their town.  Don't be mistaken, for in Mos Entha you can still find back-alley trading and mysterious, unmarked ships.
+
+Throughout the town you'll find a mix of new, higher-class hotels and cantinas mixed with all manner of species hawking their wares and services.
+",		"mos_eisley":"You'll never find a more wretched hive of scum and villany than Mos Eisley.
+
+Due to the remote location of Tatooine, Mos Eisley is a prime location to ply a less than lawful trade.
+
+While visiting the city, stop by the cantina for a drink.  Just remember to leave your droids outside.",		"bestine":"Bestine could be considered the capital of Tatooine, at least by Imperial standards.  The Empire has made this city their primary base of operations upon Tatooine.
+
+With the welcomed Stormtrooper presence patrolling the area, Bestine is one of the most orderly and safe cities on the planet.
+
+A few words of advice to those who don't agree with the motives of the Empire: Move along.",		"anchorhead":"If there was any town on Tatooine that was the farthest from Imperial rule, Anchorhead would be the one.
+
+Due to the independent nature of the residents of Anchorhead, it is not uncommon to find those sympathetic to the Rebels' cause walking out in the open.
+
+Imperial loyalists may find a less than warm welcome here.",		"tatooine":"Twin suns have baked this once fertile planet into a dry, desert wasteland.
+
+This has not prevented the hardiest lifeforms to try to eke out an existence upon the planet's face.
+
+Tatooine is found at the far end of the Outer Rim of the galaxy.  Some go so far as to say that if there is a bright center to the Galaxy, this planet is the furthest from it."
+}}

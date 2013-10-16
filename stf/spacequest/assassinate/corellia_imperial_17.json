@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_17",
+	"entries": {
+		"title_d":"The Rebels have been sending drone X-wings to the Corellian system in order to get readings on Imperial formations. Black Epsilon wants to use the Rebels plan against them by attacking one of the drones. When it sends out it's distress signal Black Epsilon will trace it back to it's destination. Then you are to travel to that area and begin a jamming operation to distract the Rebels while a main assault is happening.",		"title":"Corellia System: Eliminate the Rebel X-wing Drone",		"split_quest_alert_fail":"",		"split_quest_alert":"Ok we have the location. Stand by for navigation location. Once you have the location, travel there immediately and begin the jamming operation.",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the X-wing Drone",		"quest_target_d":"Intercept the X-wing drone that is being tracked by Flight Command inside of the Corellian system. Once you destroy the vessel it will send out a distress signal that can be traced back the Rebel communications relay point.",		"quest_location_t":"Travel to the Corellian System",		"quest_location_d":"Travel to the Corellian system and eliminate the X-wing Drone.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"You let that ship escape. Report back to your superior and explain to him why this operation was a failure.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Escort fighters eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer :\#pcontrast3 <%DI escort fighters remanining.>",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Nice work, pilot. The drone sent out the distress signal right before you destroyed it. Stand by.",		"arrival_phase_2":"We have the lock. Sending you the navigation coordinates to it's current location. We will keep you updated as it progresses through the region.",		"arrival_phase_1":"We are getting a lock on the vessels position. Remember that it is going to be on the move so you have to destroy it before it reaches it's destination.",		"Quest Log Data":"Text"
+}}

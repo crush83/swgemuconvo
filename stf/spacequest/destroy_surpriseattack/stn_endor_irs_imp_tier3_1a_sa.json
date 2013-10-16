@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/stn_endor_irs_imp_tier3_1a_sa",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"A patrol of Rebel X-Wing fighters has interrupted your rescue operation. Dispatch them and carry on with the mission.",		"title":"Naboo System:  A Bump in the Road",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"\#pcontrast3 Imperial Station: < \#pcontrast1 You appear to be clear for the moment, continue on. \#pcontrast3 >",		"assigned_delayed":"\#pcontrast3 Imperial Station: < \#pcontrast1 Captain we have detected 3 craft heading your way at high speed.  Weapon signatures indicate x-wing attack fighters be advised. \#pcontrast3 >"
+}}

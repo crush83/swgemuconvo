@@ -1,38 +1,14 @@
-[
-'36':'number_of_entries',
-'35':'m5t',
-'34':'m5s',
-'33':'m5o',
-'32':'m5l',
-'31':'m5i',
-'30':'m5f',
-'29':'m5d',
-'28':'m4t',
-'27':'m4s',
-'26':'m4o',
-'25':'m4l',
-'24':'m4i',
-'23':'m4f',
-'22':'m4d',
-'21':'m3t',
-'20':'m3s',
-'19':'m3o',
-'18':'m3l',
-'17':'m3i',
-'16':'m3f',
-'15':'m3d',
-'14':'m2t',
-'13':'m2s',
-'12':'m2o',
-'11':'m2l',
-'10':'m2i',
-'9':'m2f',
-'8':'m2d',
-'7':'m1t',
-'6':'m1s',
-'5':'m1o',
-'4':'m1l',
-'3':'m1i',
-'2':'m1f',
-'1':'m1d',
-]
+{
+	"stfFile":"mission/special/mission_destroy_neutral_hard_creature_giant_tatooine",
+	"entries": {
+		"number_of_entries":"5",		"m5t":"Marauding Monsters",		"m5s":"You've vanquished the monsters and avenged so many senseless deaths. Every man, woman, and child who perished in the jaws of those monsters can now rest peacefully, knowing that the creatures will not soon return to plague the planet. Thank you for helping to make Tatooine slightly safer",		"m5o":"Tatooine Civilian Defense League",		"m5l":"Unexplained giant monsters are killing innocent victims on Tatooine.",		"m5i":"The Empire, in all its infinite wisdom, has sent a team of highly-trained specialists into the desert to deal with these "monsters." While Imperial forces claim that we are overreacting to the situation, we know that these beasts must be stopped. Fortunately, it appears that the stormtroopers can handle the deed. We're certain you'll find other work.",		"m5f":"The giant creatures continue to be a major threat on Tatooine! No one has come forward to stop these monsters, and their lairs remain intact. Worse still, the death toll continues to climb. By season's end, these beasts will have claimed well over a hundred lives.",		"m5d":"Tatooine is beset by a new and more terrifying threat. In seasons past, we only had to content with Tusken Raiders, rabid womp rats, and berserk krayt dragons. Now, we face a new species of enormous, mutant creatures. We don't know where they came from, or why they've chosen now to surface, but they have already killed an untold number of moisture farmers and other innocent civilians. Go forth and kill these creatures wherever they might be found! Wipe out their lairs and ensure that none survive to hunt us further!",		"m4t":"Genetic Mishap",		"m4s":"Nothing is ever as it seems. Those genetically-altered seedlings appeared harmless. The Sullustans appeared trustworthy. And you appeared to be just another worthless mercenary wandering the Outer Rim in search of work. Now, I grudgingly admit that you are much more than you first appeared. You've done well. The plague of monsters has been ended, at least for now, and Prefect Talmont will be none the wiser. Your reward is well-earned.",		"m4o":"Putten Beatus, Mos Eisley Customs Inspector",		"m4l":"Genetically-altered monsters are roaming Tatooine.",		"m4i":"The genetic mishap that created the monsters running rampant on Tatooine has also weakened their genetic code. It's remarkable, but the creatures are dissolving into pools of bubbling flesh and disintegrating bones. They can hardly attack any cities if they can't even walk. My future, it seems, is secure. Unfortunately for you, I don't need any mercenaries to help clean up this mess. You are free to seek other work.",		"m4f":"I was a fool for trusting the Sullustans, and an imbecile for trusting you. Those Sullustans released a genetic storm, and you failed to contain it. It's only a matter of time before the Imperials deduce how these monsters were created. I'm not long for this planet.",		"m4d":"I'm such a fool! I've allowed my position as Customs Inspector to be... compromised. I'm not known for trusting anyone, but I need to trust you if I want to stay out of the spice mines. I admit, I can be bribed. I've taken a few credits to grease the servomotors at the customs office. Usually, it's harmless. I'll let a few blasters or some illegal bacta shipments through, but I try to crack down on anything truly dangerous. But, a few seasons ago, I took a few hundred credits to let a group of Sullustan spacers bring a batch of genetically-engineered seedlings into Mos Eisley. I thought it was harmless: the plants couldn't hope to survive on Tatooine, the Sullustans were scheduled to depart the very next day, and I sorely needed the credits. Those wretched Sullustans betrayed me, though. They took the seedlings into the desert to see if they would grow, and they did. It wasn't long before the plants were eaten by local creatures, and those vermin were in turn eaten by other, larger beasts. But the mutant plants caused a genetic malfunction in everything that ate them. Now, the desert is home to dozens of giant, monstrous animals. They can kill virtually anything they encounter.
+
+This is my mess, and I intend to clean it up. I can't go to the Imperials, of course, so you're my only option. We need to destroy the creatures, and their lairs, before they can reproduce. If the Imperials discover the source of these monsters, I'll be executed, or worse.",		"m3t":"Mutant Creatures",		"m3s":"Thank the Force! If you hadn't destroyed the irradiated lair of those giant mutants, the unnatural monsters would have killed every living creature on the planet. I'm not sure how you managed such a heroic feat, but you should take great pride in your strength and skill.",		"m3o":"",		"m3l":"Giant mutant creatures are running amok!",		"m3i":"Maybe it's radiation poisoning... The monsters have suddenly started dying off. They're just dropping dead in the sand. In a few days, they should be completely extinct. You can relax now; you won't be facing down those mutant creatures any time soon.",		"m3f":"The giants are still on the prowl. I think they're getting larger, and hungrier. I've heard stories of them eating whole eopie herds, leaving nothing but a handful of broken bones behind. Tatooine might belong to the monsters soon.",		"m3d":"There's something in the water around here. Maybe it's all the radiation leaking from crashed starships and seeping into the ground. Whatever it is, it's causing the creatures to grow larger than should be natural. They're like monsters; big, violent, terrifying, bent-on-killing-all-of-us monsters. Now, they're even breeding. If we don't stop 'em, the monsters will rule the planet. 
+
+Fortunately, I've found one of the irradiated lairs. The creatures pouring out of it are so big, it's mind-bending. You won't believe it... But someone with nerves of durasteel needs to face down these monsters. ",		"m2t":"Mining Crew Disaster",		"m2s":"The Executive Board of SoroSuub would like to thank you for responding to the emergency transmission from Mining Crew 76. We believe that the entire crew is dead, but we are thankful that you have eliminated the threat. Now that the bloodthirsty monsters have been destroyed, we can send Mining Crew 77 to Tatooine to continue our search for valuable silicate ore. We are providing you with a sizable payment for your services, with the understanding that you will keep this entire incident confidential.",		"m2o":"SoroSuub Silicate Mining Crew 76",		"m2l":"A mining crew has been attacked by monstrous creatures.",		"m2i":"The Executive Board of SoroSuub is aware of the emergency transmission that you recently received from one of our mining crews on Tatooine. This message was not intended for public consumption; a computer error allowed the distress call to appear on inappropriate channels. However, we can understand if you are concerned about the fate of Mining Crew 76. We can assure you that the crew has been evacuated to safety. We appreciate your concern, but this matter has been resolved without your aid.",		"m2f":"The Executive Board of SoroSuub is aware of the emergency transmission that you recently received from one of our mining crews on Tatooine. We regret to inform you that the entire crew is dead and the monsters responsible for this carnage remain at large. Although we appreciate your concern for our employees, we will be dispatching our own recovery team to investigate the site. This matter is no longer your repsonsibility.",		"m2d":"EMERGENCY TRANSMISSION!
+
+Origin: SoroSuub Silicate Mining Crew 76, Tatooine
+Priority: Critical
+
+Stumbled across monster lair... Giant mutant creatures on murderous rampage... Entire Crew dead... I am sole survivor! Send help!",		"m1t":"Scout's Honor",		"m1s":"It seems my information about the monster you'd be facing was inaccurate. I thought it would prove a challenge, and that you'd undoubtedly be killed. I guess I have a great deal to learn about Tatooine's local fauna, and your skills. But, my information about the lair's location proved entirely accurate. My instincts have never been sharper. Once the local Imperials hear that my data was on target, I'm certain they'll be offering me steady work again. ",		"m1o":"Hem Dazon",		"m1l":"An infamous scout has coordinates to the lair of a particularly vicious creature.",		"m1i":"Perhaps I'm not the scout I claim to be. Maybe it is time I admitted that my skills have atrophied. Too much time on Tatooine, or too many glasses of juri juice, I'm not sure which. But, I do know that the information I gave you was incomplete, at best. You should stop wasting your time looking for any legendary "giants." I'm not sure they exist.",		"m1f":"Maybe you're the one whose reputation needs a little polishing. I thought you were a capable fighter, but I guess my information was incomplete. Now, the Empire suspects me of passing out false scouting data in order to lure unsuspecting victims to their deaths.",		"m1d":"I admit, my reputation is a little... tainted. The Imperials don't trust aliens to begin with, and I'm an ugly Arconan, which only makes it worse. And there's the rumors that I'm addicted to salt, or spend too much time in the Mos Eisley cantina sipping on juri juice. But I can tell you, I am one of the best scouts in the galaxy. To prove it, I've located the lair of a rare and dangerous mutant creature. They don't get much bigger or meaner than this beast. There's a reward being offered for the lair's destruction. I'll pay you that, and more, if only so I can polish my reputation. But be warned: the creatures you'll be facing are the deadliest monsters on Tatooine. You might not survive, and even if you do, there's no telling what shape you'll be in."
+}}

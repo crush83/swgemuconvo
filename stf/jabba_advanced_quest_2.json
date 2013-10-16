@@ -1,124 +1,126 @@
-[
-'122':'jaq122',
-'121':'jaq121',
-'120':'jaq120',
-'119':'jaq119',
-'118':'jaq118',
-'117':'jaq117',
-'116':'jaq116',
-'115':'jaq115',
-'114':'jaq114',
-'113':'jaq113',
-'112':'jaq112',
-'111':'jaq111',
-'110':'jaq110',
-'109':'jaq109',
-'108':'jaq108',
-'107':'jaq107',
-'106':'jaq106',
-'105':'jaq105',
-'104':'jaq104',
-'103':'jaq103',
-'102':'jaq102',
-'101':'jaq101',
-'100':'jaq100',
-'99':'jaq99',
-'98':'jaq98',
-'97':'jaq97',
-'96':'jaq96',
-'95':'jaq95',
-'94':'jaq94',
-'93':'jaq93',
-'92':'jaq92',
-'91':'jaq91',
-'90':'jaq90',
-'89':'jaq89',
-'88':'jaq88',
-'87':'jaq87',
-'86':'jaq86',
-'85':'jaq85',
-'84':'jaq84',
-'83':'jaq83',
-'82':'jaq82',
-'81':'jaq81',
-'80':'jaq80',
-'79':'jaq79',
-'78':'jaq78',
-'77':'jaq77',
-'76':'jaq76',
-'75':'jaq75',
-'74':'jaq74',
-'73':'jaq73',
-'72':'jaq72',
-'71':'jaq71',
-'70':'jaq70',
-'69':'jaq69',
-'68':'jaq68',
-'67':'jaq67',
-'66':'jaq66',
-'65':'jaq65',
-'64':'jaq64',
-'63':'jaq63',
-'62':'jaq62',
-'61':'jaq61',
-'60':'jaq60',
-'59':'jaq59',
-'58':'jaq58',
-'57':'jaq57',
-'56':'jaq56',
-'55':'jaq55',
-'54':'jaq54',
-'53':'jaq53',
-'52':'jaq52',
-'51':'jaq51',
-'50':'jaq50',
-'49':'jaq49',
-'48':'jaq48',
-'47':'jaq47',
-'46':'jaq46',
-'45':'jaq45',
-'44':'jaq44',
-'43':'jaq43',
-'42':'jaq42',
-'41':'jaq41',
-'40':'jaq40',
-'39':'jaq39',
-'38':'jaq38',
-'37':'jaq37',
-'36':'jaq36',
-'35':'jaq35',
-'34':'jaq34',
-'33':'jaq33',
-'32':'jaq32',
-'31':'jaq31',
-'30':'jaq30',
-'29':'jaq29',
-'28':'jaq28',
-'27':'jaq27',
-'26':'jaq26',
-'25':'jaq25',
-'24':'jaq24',
-'23':'jaq23',
-'22':'jaq22',
-'21':'jaq21',
-'20':'jaq20',
-'19':'jaq19',
-'18':'jaq18',
-'17':'jaq17',
-'16':'jaq16',
-'15':'jaq15',
-'14':'jaq14',
-'13':'jaq13',
-'12':'jaq12',
-'11':'jaq11',
-'10':'jaq10',
-'9':'jaq9',
-'8':'jaq8',
-'7':'jaq7',
-'6':'jaq6',
-'5':'jaq5',
-'4':'jaq4',
-'3':'jaq3',
-'2':'jaq2',
-'1':'jaq1',
-]
+{
+	"stfFile":"jabba_advanced_quest_2",
+	"entries": {
+		"jaq122":"You've done very well!  Very well indeed!  My retainers have prepared a special gift for you on this fine occasion.  This statue will link you to us here at the palace.  You can place it in your Association Hall, or your home, and use it to find work at any time, day or night.
+",		"jaq121":"Well, just be careful, that's all.
+",		"jaq120":"Thanks for the warning.
+",		"jaq119":"Aw...shucks.
+",		"jaq118":"Be sure to take them with you.  It'd be dangerous otherwise, and I think I'm starting to like you.
+",		"jaq117":"I'm not worried.
+",		"jaq116":"I have friends.
+",		"jaq115":"Handling a bith musician is one thing, and don't think I don't appreciate it, but Valarian's compound is something else entirely.
+",		"jaq114":"Don't worry about me.
+",		"jaq113":"Thanks for your help.
+",		"jaq112":"Thank you.  All right.  Daracca told me where he was examining the sword, and that that's where she's keeping it.  I hope you're not planning on breaking in alone.  I'll add the location to your datapad.
+",		"jaq111":"How bout we discuss how much pain I'm going to cause you!
+",		"jaq110":"How bout we discuss Cora's necklace?
+",		"jaq109":"Oh, this and that.
+",		"jaq108":"What could we possibly have to talk about?
+",		"jaq107":"Where's Cora's necklace?
+",		"jaq106":"I just want to talk to you.
+",		"jaq105":"What do you want?
+",		"jaq104":"How can I help out?
+",		"jaq103":"Well, he likes to impress people, like I said.  Especially us dancers.
+",		"jaq102":"Where can I find this Bith?
+",		"jaq101":"I've had enough of doing people favors.
+",		"jaq100":"Tell me about it.  So can you help a girl out?
+",		"jaq99":"Where can I find this bith?
+",		"jaq98":"What a jerk!
+",		"jaq97":"He punched me in the face last night as I was heading home.  Snatched if off my neck and ran off.
+",		"jaq96":"Where can I find this bith?
+",		"jaq95":"How did he get the necklace?
+",		"jaq94":"He's a failed musician.  He keeps coming around here trying to get a job, but he's terrible!  So he hates everyone here.  He was looking for a little revenge.
+",		"jaq93":"Sounds like dirty work to me.  I'm not interested.
+",		"jaq92":"Ok, what's the item?
+",		"jaq91":"Don't think of it as dirty work, honey, think of it as the necessary means to an end.
+",		"jaq90":"Well, then you can find out what you want on your own can't you?  See you later.
+",		"jaq89":"I've had enough of doing people favors.
+",		"jaq88":"What kind of a favor?
+",		"jaq87":"Yeah, I know that one.  You want to find out for yourself then you have to do me a favor.
+",		"jaq86":"Sounds like Daracca's quite the talker.
+",		"jaq85":"Like, maybe where Valarian might keep a stolen Rantok sword?
+",		"jaq84":"Well, he tells me where he goes, who he sees, where certain people keep certain things.
+",		"jaq83":"Good enough for me, sweetie.  See you soon.
+",		"jaq82":"I have enough jobs already.  I don't need another one.
+",		"jaq81":"All right, I'll bring you the necklace and you tell me what you know.  Deal?
+",		"jaq80":"He usually hangs out down by Fasser's Pawn shop.  He'll probably be trying to sell my necklace as soon as he gets up the nerve.
+",		"jaq79":"Why would this bith steal your necklace?
+",		"jaq78":"Where can I find this bith?
+",		"jaq77":"It's a necklace that's very special to me.  A bith stole it from me last night, and I need someone to get it back for me.
+",		"jaq76":"You want me to do your dirty work?
+",		"jaq75":"What is this item?
+",		"jaq74":"I need someone to retrieve something very valuable for me.  Daracca would normally do it, but like I said, he's out of the loop.
+",		"jaq73":"Do you know where Valarian might be keeping a Rantok sword?
+",		"jaq72":"What would you like to trade?
+",		"jaq71":"Not so fast, hot stuff.  Daracca's off planet for a while, but I probably have the information you're looking for if you want to trade.
+",		"jaq70":"What kinds of things?
+",		"jaq69":"Do you know where I can find him?
+",		"jaq68":"So you're looking for Daracca?  He's a nice enough fellow.  Always eager to impress us.  He tells us lots of things.
+",		"jaq67":"Daracca hangs out at the Rockribbon Cantina in Mos Espa.  He's very into the dancers there.  If he's not around try his friend Cora, she may know where he is.
+",		"jaq66":"I'd say we're pretty much done talking now.
+",		"jaq65":"Where can I find this Daracca?
+",		"jaq64":"No, but I can tell you exactly who will.  A wookiee named Daracca is the guy you'd take to appraise that too.  I'll bet she dragged him out there to check it out, wherever it is.
+",		"jaq63":"Guards, electronic countermeasures, the turrets, you name it, she's bought it.
+",		"jaq62":"Anything else?
+",		"jaq61":"Do you know where Valarian is keeping the Rantok sword?
+",		"jaq60":"Oh, she is.  And you'd better believe there will be guards around, making sure that if you do try to hack the turrets it won't be without distractions.
+",		"jaq59":"What else?
+",		"jaq58":"Sounds evil.
+",		"jaq57":"She likes to let the thieves get in, boost their confidence, and then gun them down with the turrets.  Cuts down on repeat customers that way.
+",		"jaq56":"What else?
+",		"jaq55":"Why use the lower level security on the crates?
+",		"jaq54":"You'd better take a damn good slicer with you, I know that for sure.  She has a tendency to use lower level security on the crates but the turrets will require top notch slicing.
+",		"jaq53":"What else?
+",		"jaq52":"How can I get past the security?
+",		"jaq51":"Two is plenty to rip a team of thieves to ribbons.  Besides, that won't be the only thing stopping you.
+",		"jaq50":"What else?
+",		"jaq49":"Just two?
+",		"jaq48":"I know that Valarian recently ordered enough components to put together two brand new turrets for base defense.
+",		"jaq47":"Do you know where Valarian is keeping the Rantok sword?
+",		"jaq46":"What do you know about Valarian's security?
+",		"jaq45":"Ok, what would you like to know?
+",		"jaq44":"Let's argue.  How bout you tell me what I want to know or I'll kill you.
+",		"jaq43":"Ok, let's do some business.
+",		"jaq42":"Do you want to do business or do you want to argue?
+",		"jaq41":"Ok, ok, here's 50.
+",		"jaq40":"Fine, I'll come back when you've come to your senses.
+",		"jaq39":"Sorry, I'm not going any lower than that.
+",		"jaq38":"For 50 you've got a deal.
+",		"jaq37":"I can go as high as 30.
+",		"jaq36":"Shrewd businessman that you are, I'll make you a deal.  Everything I know for 50.
+",		"jaq35":"75 it is.
+",		"jaq34":"Grab a guy off the street then, cause I'm not giving you more than 20.
+",		"jaq33":"Ten?  I could get eighty for it by just grabbing the next guy off the street.  Make it 75.
+",		"jaq32":"Sure thing.
+",		"jaq31":"A hundred?!?  How bout ten?
+",		"jaq30":"Tell you what, you slip me, say a hundred credits, and I'll tell you everything you ever wanted to know about Valarian's security.
+",		"jaq29":"True enough.  How bout we work out a deal?
+",		"jaq28":"I am working for Bib Fortuna...
+",		"jaq27":"Don't assume just because you're Bib's friend you get free advice.
+",		"jaq26":"What do you know about Valarian's security?
+",		"jaq25":"Well, how bout you do me a favor then?",		"jaq24":"You must be Bib Fortuna's friend.  I've heard about you.
+",		"jaq23":"I know that Sliv is probably the guy she hired to install it, so he's the man to see.
+",		"jaq22":"Ok.  I'll go see him.
+",		"jaq21":"What do you know about Valarian's security?
+",		"jaq20":"He helped her put together some of her security countermeasures, so he probably knows where she'd keep such a thing.
+",		"jaq19":"What do you know about Valarian's security?
+",		"jaq18":"Why would he know?
+",		"jaq17":"There's a slicer in Mos Eisley named Sliv Jurek.  He owns Jurek Security.  He may have some ideas about where the sword is.
+",		"jaq16":"What do you know about Valarian's security?
+",		"jaq15":"Who would know such things?
+",		"jaq14":"I don't know exactly where the sword is, but I know someone who might.
+",		"jaq13":"What do you know about Valarian's security?
+",		"jaq12":"I need to know where Valarian's keeping this Rantok sword.
+",		"jaq11":"So, you're Jabba's new errand boy, eh?  What do you need to know?
+",		"jaq10":"Then come back when you have them gathered.  Careful that you don't waste too much time.  If I don't get my hands on that blade I will be very disappointed.
+",		"jaq9":"I need time to put my team together.
+",		"jaq8":"Yes, Gracious Master.
+",		"jaq7":"That is why I'm sending you to see Belshu.  He knows more about the sword.
+",		"jaq6":"Do you know where the sword is?
+",		"jaq5":"Yes, Lord Jabba.
+",		"jaq4":"Lady Valarian has acquired a valuable Rantok Sword, and I will possess it.  Go see Belshu Dadar at the Mos Eisley Cantina for more information.
+",		"jaq3":"What is my next mission?
+",		"jaq2":"I can do that.
+",		"jaq1":"My henchmen seem to have problems working together so you will put your own team together to work my next task.
+"
+}}

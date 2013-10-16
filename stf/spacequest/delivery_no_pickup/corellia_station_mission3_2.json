@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_rendezvous2_t',
-'17':'quest_rendezvous2_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_dock2_t',
-'13':'quest_dock2_d',
-'12':'hello_d',
-'11':'found_loc_d',
-'10':'failed_destroyed',
-'9':'docking_started_delivery',
-'8':'docking_complete_delivery',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_delivery',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/corellia_station_mission3_2",
+	"entries": {
+		"title_d":"CorSec Command wants you to take the place of the Cloak agent and intercept the leaked information that is being delivered. You should travel to the coordinates provided by Command, dock with the delivery ship, and receive the information he is carrying. Once you have it, return to the station for analysis.",		"title":"Corellia System: Intercept the Leaked Information",		"split_quest_alert_fail":"",		"split_quest_alert":"Mission successful. Return to CorSec Station.",		"quest_update":"\#pcontrast1 CorSec Command: <\#pcontrast3  %TO\#pcontrast1  >",		"quest_rendezvous2_t":"Meet the Delivery Ship",		"quest_rendezvous2_d":"Travel to the coordinates provided by CorSec Command. The drop-off vessel will meet you there.",		"quest_location_t":"Remain in the Corellia System",		"quest_location_d":"The drop-off is supposed to happen elsewhere in the Corellia system.",		"quest_dock2_t":"Receive the Leaked Information",		"quest_dock2_d":"Dock with the drop-off vessel using the /dock command, and he will transfer the leaked information to your ship. Once you have it, return to the station for debriefing and anaysis.",		"hello_d":"Are you the agent I'm looking for? I'm ready to transfer the package. Do you copy?",		"found_loc_d":"Transmitting coordinates of delivery location. Proceed to the waypoint and meet the drop-off vessel.",		"failed_destroyed":"The mission is a wash, pilot. The delivery ship was destroyed. Return to base for debriefing.",		"docking_started_delivery":"Standing by for docking sequence.",		"docking_complete_delivery":"And... you're clear. Say, I don't recognize your ship markings. Eh, whatever... my job is done.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Enemy threat neutralized.\#pcontrast1 >",		"attack_notify":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Warning. Enemy craft inbound.\#pcontrast1 >",		"assigned_delayed":"",		"arrived_at_delivery":"Roger that, pilot. Arrival at delivery location acknowledged. Await the drop-off vessel here."
+}}

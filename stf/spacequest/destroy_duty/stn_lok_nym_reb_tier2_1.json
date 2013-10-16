@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/stn_lok_nym_reb_tier2_1",
+	"entries": {
+		"title_d":"Imperial Storm Squadron fighters have infested the Lok System.  Destroy them to preserve our pirate rights.",		"title":"Lok System: Duty: Destroy the Storm Squadron Fighters",		"taunt_5":"",		"taunt_4":"",		"taunt_3":"",		"taunt_2":"",		"taunt_1":"",		"targets_detected":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile craft detected on attack vector. \#pcontrast3 >",		"targets_behind":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile craft detected from the rear. \#pcontrast3 >",		"quest_location_t":"Lok System",		"quest_location_d":"The position of the Imperial fighters will be updated as you complete your tasks",		"quest_destroy_t":"Destroy Target",		"quest_destroy_d":"Travel here to engage the enemy.",		"level_increase":"\#pcontrast3 Enemy activity has increased.",		"level_boss_dead":"\#pcontrast3 Their captain has been dispatched.",		"level_boss":"\#pcontrast3 Advanced fighters detected.",		"found_loc":"\#pcontrast3 Nav Computer: < \#pcontrast1 Waypoint to the next concentration of Storm Squadron fighters found. \#pcontrast3 >",		"duty_update":"%TO",		"dd_boss_taunt_5":"",		"dd_boss_taunt_4":"",		"dd_boss_taunt_3":"",		"dd_boss_taunt_2":"",		"dd_boss_taunt_1":"",		"complete":"\#pcontrast3 The Duty is Complete",		"boss_title_5":"",		"boss_title_4":"",		"boss_title_3":"",		"boss_title_2":"",		"boss_title_1":"",		"boss_detected":"\#pcontrast3 An advanced craft has been dispatched."
+}}

@@ -1,3 +1,5 @@
-[
-'1':'mounts',
-]
+{
+	"stfFile":"kb/kb_mounts_n",
+	"entries": {
+		"mounts":"General Mount Information"
+}}

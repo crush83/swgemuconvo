@@ -1,6 +1,31 @@
-[
-'4':'corellia_station_mission_body_two',
-'3':'corellia_station_mission_body_one',
-'2':'corellia_station_mission_subject_two',
-'1':'corellia_station_mission_subject_one',
-]
+{
+	"stfFile":"space/quest_mail",
+	"entries": {
+		"corellia_station_mission_body_two":"The time has come to serve your purpose as a Cloak agent, CorSec.
+
+Very soon, a supply transport will need to passing through the Corellian system. However, they refuse to jump in unless they will have a CorSec escort.
+
+The supplies this freighter is carrying would help our cause tremendously, so of course we intend to take them. We need you to provide an "escort" for the freighter. When our attack wing comes in, you will of course allow them to attack and capture the freighter.
+
+Failure in this task will be detrimental. To you.
+
+You will not mention this to CorSec command.
+
+Cloaks over all,
+
+< Sender blocked >
+Cloak Representative",		"corellia_station_mission_body_one":"Greetings CorSec pilot.
+
+Allow me to introduce myself. I am a representative of the elite association known as the Cloaks.
+
+You have been selected due to your rank within the Correllia Security Force, and you are being offered a unique opportunity.
+
+We would like for you to consider working with our society as an agent. Your position allows you access to volumes of valuable CorSec information and supplies.
+
+If you are interested, I would encourage you to meet with me in Corellian space to discuss the details. It needs not be said that you should mention none of this to CorSec command.
+
+Cloaks over all,
+
+< Sender blocked >
+Cloak Representative",		"corellia_station_mission_subject_two":"The Time Has Come",		"corellia_station_mission_subject_one":"A Unique Opportunity"
+}}

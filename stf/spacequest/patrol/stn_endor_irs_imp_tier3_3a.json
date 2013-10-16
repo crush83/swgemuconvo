@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/stn_endor_irs_imp_tier3_3a",
+	"entries": {
+		"title_d":"A phenomenon in stellar communications, "beacons" are locations in space caused by the interactions of radiation, bodies of high gravity and a few unidentified but key forces are used to collect relayed burst transmissions. These natural relay stations are popular among pirates, smugglers and over the last few years the Rebel Alliance due to the high difficulty in intercepting transmissions.",		"title":"Endor System: The Grand Tour - Onyx Beacon",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile craft detected on attack vector. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Leg Destination",		"quest_patrol_d":"Travel here to complete this portion of The Grand Tour",		"quest_location_t":"The Onyx Beacon",		"quest_location_d":"Fly an interrupted patrol to learn about the POI's around the Endor System.  The first stop is the Onyx Beacon, frequented by the Black Light Pirates.",		"autorewardsubject":"The Grand Tour",		"autorewardfrom":"Endor Station",		"autorewardbody":"Completion Bonus: The Onyx Beacon (5000)",		"assigned_delayed":""
+}}

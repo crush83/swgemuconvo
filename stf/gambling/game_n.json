@@ -1,6 +1,5 @@
-[
-'4':'saarlac',
-'3':'roulette',
-'2':'sabacc',
-'1':'slot_standard',
-]
+{
+	"stfFile":"gambling/game_n",
+	"entries": {
+		"saarlac":"Saarlac Pit",		"roulette":"Jubilee Wheel",		"sabacc":"Sabacc",		"slot_standard":"Standard Lugjack"
+}}

@@ -1,3 +1,5 @@
-[
-'1':'equipped',
-]
+{
+	"stfFile":"armor_rehue",
+	"entries": {
+		"equipped":"You may only alter the color of your armor when it is unequipped."
+}}

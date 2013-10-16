@@ -1,14 +1,5 @@
-[
-'12':'shields_main_detail',
-'11':'defenses_main_detail',
-'10':'shields',
-'9':'defenses',
-'8':'get_shield_schematics_detail',
-'7':'get_defense_schematics_detail',
-'6':'get_shield_schematics',
-'5':'get_defense_schematics',
-'4':'shields_detail',
-'3':'defenses_detail',
-'2':'shields_main',
-'1':'defenses_main',
-]
+{
+	"stfFile":"quest/quest_journal/fs_quests_community_crafting",
+	"entries": {
+		"shields_main_detail":"Contribute crafted items to help build the village shields.",		"defenses_main_detail":"Contribute crafted items to help build the village defenses.",		"shields":"Craft The Ingredients",		"defenses":"Craft The Ingredients",		"get_shield_schematics_detail":"Talk to the droid QT-QC and get the schematics needed for the village shields.",		"get_defense_schematics_detail":"Talk to the droid QT-QC and get the schematics needed for the village defenses.",		"get_shield_schematics":"Get The Schematics",		"get_defense_schematics":"Get The Schematics",		"shields_detail":"Contribute 20 or more resources or components to the village shields crafting project.",		"defenses_detail":"Contribute 10 or more resources or components to the village defenses crafting project. The "Village Defenses" schematic has the details of what items are needed.",		"shields_main":"Help Build Village Shields",		"defenses_main":"Help Build Village Defenses"
+}}

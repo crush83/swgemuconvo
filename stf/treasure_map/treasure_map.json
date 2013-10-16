@@ -1,42 +1,11 @@
-[
-'41':'map_fail',
-'40':'wrong_planet',
-'39':'title_hedon1',
-'38':'text_hedon1',
-'37':'sys_inventory_full',
-'36':'sys_start_pinpoint',
-'35':'prose_loot_cash',
-'34':'prose_loot_cash_split',
-'33':'bark_pirate2',
-'32':'bark_pirate1',
-'31':'bark_bountyhunter1',
-'30':'sys_extracting',
-'29':'sys_found',
-'28':'extract_treasure',
-'27':'sys_pinpoint',
-'26':'sys_cant_pinpoint',
-'25':'sys_no_waypoint',
-'24':'sys_not_in_inv',
-'23':'sys_success',
-'22':'sys_not_yours',
-'21':'title_bountyhunter1',
-'20':'text_bountyhunter1',
-'19':'title_pirate2',
-'18':'text_pirate2',
-'17':'title_pirate1',
-'16':'text_pirate1',
-'15':'sys_waypoint_exists',
-'13':'sys_dist_far',
-'12':'sys_dist_near',
-'11':'sys_dist_here',
-'10':'search_area',
-'9':'waypoint_name',
-'8':'close',
-'7':'sys_decode_success',
-'6':'store_waypoint',
-'5':'sys_store_waypoint',
-'4':'sys_no_regions',
-'3':'decoded_name',
-'2':'use',
-'1':'decode',
-]
+{
+	"stfFile":"treasure_map/treasure_map",
+	"entries": {
+		"map_fail":"This map is obviously a fake.",		"wrong_planet":"The coordinates stored in the map data do not appear to be for this planet.",		"title_hedon1":"Ancient Holo Map",		"text_hedon1":"This holo map was created by someone named "Axkva Min" several hundred years ago. The location it leads to is named "Dragon Graveyard".",		"sys_inventory_full":"Unable to complete the action, your inventory is full.  Please free some inventory space and try again.",		"sys_start_pinpoint":"You begin to scan for the exact location of the treasure.",		"prose_loot_cash":"You find %DI credits in the chest.",		"prose_loot_cash_split":"You receive %DI credits from the chest as your share.",		"bark_pirate2":"Someone got to the treasure first, but we'll be the ones to leave with it.  Attack!",		"bark_pirate1":"Someone's trying to get our loot!  Take 'im down boys!",		"bark_bountyhunter1":"Don't lay a finger on my loot, thief!",		"sys_extracting":"You are already extracting the treasure.",		"sys_found":"You successfully extract the treasure!",		"extract_treasure":"Extract Treasure",		"sys_pinpoint":"You have successfully pinpointed the exact location of the treasure!",		"sys_cant_pinpoint":"You are not close enough to pinpoint the treasure's location.",		"sys_no_waypoint":"You must store the treasure's waypoint in your datapad before you can search for it!",		"sys_not_in_inv":"The treasure map must be in your inventory for you to use it!",		"sys_success":"You've found the treasure!",		"sys_not_yours":"That treasure chest doesn't belong to you.",		"title_bountyhunter1":"Bounty Hunter's Notes",		"text_bountyhunter1":"The datadisk appears to contain the notes of a successful local bounty hunter.  Wedged between various questionable tips on the profession is a sidenote indicating the general location of the bounty hunter's equipment stash.
+
+You may add a waypoint to this location by pressing the 'Store Waypoint' button below.  Once you are near that waypoint, use the disk's 'Search Area' option to pinpoint the exact location of the treasure.  After you have pinpointed the treasure's location, dig it up using the 'Extract Treasure' option on the disk.",		"title_pirate2":"Ancient Starship Log",		"text_pirate2":"You have found the discarded logbook from a long since scuttled pirate ship.  The last entry refers to a location where the pirates may have buried their haul.
+
+You may add a waypoint to this location by pressing the 'Store Waypoint' button below.  Once you are near that waypoint, use the disk's 'Search Area' option to pinpoint the exact location of the treasure.  After you have pinpointed the treasure's location, dig it up using the 'Extract Treasure' option on the disk.",		"title_pirate1":"Pirate Captain's Diary",		"text_pirate1":"You have found the diary of a famous and dreaded pirate captain.  Among the many embellished tales of his adventures, you find information on the possible location of a buried treasure.
+
+You may add a waypoint to this location by pressing the 'Store Waypoint' button below.  Once you are near that waypoint, use the disk's 'Search Area' option to pinpoint the exact location of the treasure.  After you have pinpointed the treasure's location, dig it up using the 'Extract Treasure' option on the disk.",		"sys_waypoint_exists":"A waypoint to this location already exists in your datapad.",		"sys_dist_far":"You aren't close enough to extract the treasure.",		"sys_dist_near":"You are not close enough to extract the treasure.",		"sys_dist_here":"You begin extracting the treasure.",		"search_area":"Search Area",		"waypoint_name":"Buried Treasure",		"close":"Close",		"sys_decode_success":"You have broken the data encryption and can now read the disk!",		"store_waypoint":"Store Waypoint",		"sys_store_waypoint":"A waypoint to the treasure coordinates has been added to your datapad.",		"sys_no_regions":"Major Error: No regions at your current location.  Destroying treasure map!",		"decoded_name":"Treasure Map",		"use":"Read",		"decode":"Decode"
+}}

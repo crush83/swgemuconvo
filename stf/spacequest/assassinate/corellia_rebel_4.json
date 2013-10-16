@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_rebel_4",
+	"entries": {
+		"title_d":"This Veteran TIE commander has been a trouble for us for too long. With a skilled pilot like you joining our ranks, we have a chance of getting rid of this nuisance. When you complete this mission, return to Captain Kreezo in Tyrena and Captain Kreezo will train you in a new Rebel Alliance Pilot Skill.",		"title":"Corellia system: Destroy TIE Veteran commander.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < It looks like the TIE Veteran had a malfunction and you will get another shot at him pilot. Don't mess up this time! >",		"quest_update":"Rebel Command: < %TO >",		"quest_target_t":"Hunt the commander down.",		"quest_target_d":"We will update the location of the commander as often as we can. Intercept him quickly before he escapes.",		"quest_location_t":"Corellia system.",		"quest_location_d":"A lot of our trouble can be traced to a TIE Veteran - commanding a small team of well-equipped forces in the Corellia region. Find him and bring him down.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"Bah, he got away. Return to base for a full report of what happened.",		"escort_wiped_out":"Tactical Computer: < Scans show target vessel escort terminated. No more escort vessels remain. >",		"escort_remaining":"Tactical Computer: < Scans show target vessel escort terminated. %DI escort vessels remain. >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Very good pilot, we're all impressed! Return to base.",		"arrival_phase_2":"Got him, proceed to the location and terminate him!",		"arrival_phase_1":"Scanning for the Imperial scum now, give us a few seconds.",		"Quest Log Data":"Text"
+}}

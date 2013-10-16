@@ -1,20 +1,61 @@
-[
-'18':'bountyhard',
-'17':'bountyeasy',
-'16':'link_hard',
-'15':'link_easy',
-'14':'bounty',
-'13':'recon',
-'12':'crafting',
-'11':'survey',
-'10':'dancer',
-'9':'musician',
-'8':'link_dance',
-'7':'link_music',
-'6':'gig',
-'5':'fetch',
-'4':'escort',
-'3':'destroy',
-'2':'deliver',
-'1':'missions',
-]
+{
+	"stfFile":"kb/kb_missions_d",
+	"entries": {
+		"bountyhard":"In a hard bounty, you will be looking for people who have expertly hidden themselves away. Your droid will have a harder time tracking down your prey. Let's hope your skills at Bounty Hunting will be able to program the droid with that in mind.
+
+Once your droid has managed to find your target, or after you have managed to track it down yourself, expect a hard fight. Your target hasn't managed to stay hidden without knowing how to easily deal with a Bounty Hunter.
+",		"bountyeasy":"In an easy bounty, your quarry will be a bit reckless in their attempts to hide themselves. Your droid will have an easier time locating the whereabouts of the person. You will also find that they don't put up too much of a fight. These jobs are likely to be taken by those who are new to the trade, or those who just need the cash.
+",		"link_hard":"Hard Bounty Details",		"link_easy":"Easy Bounty Details",		"bounty":"Some people have angered the wrong people. Or maybe they have forgotten to pay off their debts. Or perhaps they just don't want to be found. This is when a Bounty Hunter is needed for the job. Please note that only Bounty Hunters will be able to complete these jobs.
+
+In a Bounty Hunter mission, you will be asked to find a person and put an end to them. The giver of the mission will tell you who they want silenced, and direct you to a person who will have a good idea as to where to find your target.
+
+Once you have spoken with the informant, you will then need to program your droid to track down your quarry. Your droid will then seek out your prey, and then report back its last known location. At this point, you can then follow the waypoint where your target will likely be nearby. Depending on your Bounty Hunter skills, the droid's information may or may not be accurate.
+
+After you have exterminated your target, you will then be rewarded by your employer for a job well done. Some of the best bounty hunters in the galaxy can go on to get permanent contracts by important people, such as a powerful Hutt or perhaps even the Empire!
+",		"recon":"A recon mission will require you to have a keen eye for observing things. The giver of the mission will ask you to go to a specified location and observe what is going on there. You will be given a waypoint as to where you are asked to watch the events.
+
+Once you have observed long enough, your datapad will be updated to let you know that you've seen enough. At this point, you will want to follow your waypoint back to the person who gave you the mission. Report back what you learned from your reconnaissance and your mission will be complete.
+",		"crafting":"When you take a crafting mission, the person giving you the mission will have a number of components that they need assembled into an item. You will be given these components and asked to turn it into the requested item.
+
+Once you have managed to take the parts and craft an item out of them, you will then need to take it to the person the mission giver was supposed to make it for. You will be given a waypoint, at which time you will need to travel out to them. Give this person the item you made, and you will be rewarded for your efforts.
+",		"survey":"In a survey mission, you will be asked to locate a certain density of a specific resource type. The person giving you the mission will tell you how much of the resource they are looking for, and then it's your job to go find it for them.
+
+After accepting the mission, you will need to hunt high and low to find the designated percentage of that resource. Depending on the mission giver, you will be asked to look for all types of resources. You will need to conduct samples everywhere in the world until you find what you have been asked to look for.
+
+Once you have found the resource and amount as deemed by the mission, you will have completed your mission. Your datapad will automatically let the mission giver know where the resources can be found.
+",		"dancer":"In a dancer gig, you will be asked to go to an area and show off your moves for people in the surrounding area. You are given a waypoint to the location where you are expected to dance. 
+
+Once you get there, get your groove on for the amount of time you are asked to dance. Once you have done the number of routines for which you signed up, your mission will be complete and the payment will be deposited into your bank account.
+",		"musician":"In a musician gig, you will be asked to go to an area and play some tunes for people in the surrounding area. You are given a waypoint at the location you are expected to play. 
+
+Once you get there, jam out for the amount of time you are asked to play for. When you have played the number of sets for which you were contracted, your mission is complete and the payment is deposited in your bank account.
+",		"link_dance":"Dancer Gig Details
+",		"link_music":"Musician Gig Details",		"gig":"A gig mission is one that can be taken by someone who has chosen to pursue a career dedicated towards entertaining others. There are two types of gig missions, ones that cater to Musicians, and ones that cater to Dancers.
+",		"fetch":"Some people in the galaxy need things that only creatures have on them. Or perhaps someone else has an item that a person wants. For whatever the reason may be, in a fetch mission, you will be asked to recover this item from your target.
+
+After accepting the fetch mission, you will be assigned a waypoint showing you where the target will be found. Once you have reached that location, you will need to destroy whoever has the item on them. Once they have lost the battle, loot their corpse and then bring the item back to the person offering you the mission.
+",		"escort":"Though cities are usually quite safe, the wilderness is a different story altogether. In an escort mission, you will be asked to guide a person to safety. Along the way, natural or manmade hazards will make this quite difficult.
+
+Once you have accepted the escort mission, you will need to navigate to the area where you are to meet the person you are to escort. Let them know you are there to help them, and they will then follow you. Make sure this person doesn't come to harm while they are in your protection.
+
+You will be given a waypoint as to the location that you need to escort the person to. Once they are at their intended location, you will then be rewarded for your efforts.
+",		"destroy":"The Galaxy is in the middle of a Civil War, therefore not all of the missions given to you will keep you hands clean. A destroy mission will require you to eliminate a designated target.
+
+After the mission giver has given you the target you are asked to destroy, you will be assigned a waypoint. When you reach to the location, you will have no choice but to kill the offender.
+
+Most of the times, you will be asked to kill an enemy, but sometimes you may have to destroy a building, such as a power generator. Once done, you will receive your reward, or be asked to return to the person who gave you the mission.",		"deliver":"Some missions will require you to bring an item to another person. For whatever their reasons, they are unable to bring it themselves to their associate. Therefore, you will be asked to undertake a deliver mission.
+
+When you are given a deliver mission, you will be given a waypoint as to the general whereabouts of the person you are to deliver the item to.
+
+When you arrive, you will then give them the item they are expecting. Make sure you give them the right item, or else they might become a bit perturbed.
+",		"missions":"Whilst you explore the worlds of Star Wars Galaxies, you will be offered the chance to undertake missions for various people. These can come in different ways, ranging from people you encounter to mission terminals found in cities.
+
+Some people are known to have certain tasks they need help with. If they like the look of your face, feel comfortable with you, or possibly consider you to be an easy "mark", they may ask you to do various assignments for them. You'll find at times that when you are done, they may have more work for you. If you have made a reputation for yourself, don't be surprised if some more notable people give you assignments, such as Jabba the Hutt, or maybe even Luke Skywalker, himself.
+
+Not everyone has a schedule that allows them to stay in the same place at all times. It is not uncommon to find people on the streets or even the wilderness that need things done. These people are rarely found in the same spot, so don't expect for them to be there when you come back.
+
+When you speak with these people, they generally will tell you what task they have at hand. At times, you will be given the option to ask them more before you commit to help them. When you have decided, let them know if you wish to help them or not.
+
+Since the galaxy is a big place, it is sometimes more convenient for people to post their jobs in mission terminals. The terminals can be found all over large cities, easily accessible by anyone. The mission details are posted and if you're interested, you can accept the job.
+"
+}}

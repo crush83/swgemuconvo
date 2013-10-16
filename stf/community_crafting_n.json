@@ -1,30 +1,5 @@
-[
-'29':'catalyst',
-'28':'endrost',
-'27':'energy_backup',
-'26':'support',
-'25':'foundation',
-'24':'refined_ardanium_ii',
-'23':'refined_rudic',
-'22':'refined_endrine',
-'21':'unit_computer',
-'20':'shield_housing',
-'19':'regulator',
-'18':'primary_computer',
-'17':'power_supply',
-'16':'connections',
-'15':'village_shields',
-'14':'sensors',
-'13':'reinforcement',
-'12':'shell',
-'11':'refactor',
-'10':'energy',
-'9':'housing',
-'8':'electronics',
-'7':'village_defenses',
-'6':'lightweight_turret_electronics',
-'5':'lightweight_turret_hardware',
-'4':'lightweight_turret',
-'3':'raw_materials',
-'2':'reinforced_wall_module',
-]
+{
+	"stfFile":"community_crafting_n",
+	"entries": {
+		"catalyst":"Catalyst",		"endrost":"Endrost Alloy",		"energy_backup":"Backup Energy Supply",		"support":"Support",		"foundation":"Foundation",		"refined_ardanium_ii":"Refined Ardanium II",		"refined_rudic":"Refined Rudic",		"refined_endrine":"Refined Endrine",		"unit_computer":"Unit Computer",		"shield_housing":"Shield Housing",		"regulator":"Regulator",		"primary_computer":"Primary Computer",		"power_supply":"Power Supply",		"connections":"Shield Connections",		"village_shields":"Village Shields",		"sensors":"Sensors",		"reinforcement":"Reinforcement",		"shell":"Shield Unit Shell",		"refactor":"Refactored Component",		"energy":"Energy",		"housing":"Housing",		"electronics":"Electronics",		"village_defenses":"Village Defenses",		"lightweight_turret_electronics":"Turret Electronics",		"lightweight_turret_hardware":"Turret Hardware",		"lightweight_turret":"Small Turret",		"raw_materials":"Raw Materials",		"reinforced_wall_module":"Reinforced Wall Module"
+}}

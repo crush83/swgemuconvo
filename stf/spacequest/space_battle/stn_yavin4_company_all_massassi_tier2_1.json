@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/stn_yavin4_company_all_massassi_tier2_1",
+	"entries": {
+		"title_d":"A Yavin 4 Mining Company shipping convoy has come under fire from a mysterious assailant. The company has hired you to rescue its fleet and discover more information about these attackers.",		"title":"Space Yavin: Rescue Mining Fleet Under Attack",		"split_quest_alert_fail":"It is unfortunate that we lost the convoy but we are picking up a plasma trail from one of the fighters. It must be damaged. Follow that plasma leak and inspect that damaged fighter for any clues.",		"split_quest_alert":"We are picking up the signature of a damaged enemy fighter who is trying to escape from the battle. Intercept and inspect that fighter for any clue to their identity and why they attacking our ships. Return to the station when you have completed your search.",		"quest_update":"\#FF0000 Yavin Mining Company:\#FF0000 < %TO >",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The shipping convoy is located in the Yavin system.",		"quest_helpallies_t":"Rescue the Shipping Convoy",		"quest_helpallies_d":"Destroy the mysterious attackers before they can destroy the shipping convoy.",		"quest_findbattle_t":"Travel to the Attack Site",		"quest_findbattle_d":"The company has supplied you with the location of the distress signal. Travel to this location and rescue the shipping convoy.",		"found_loc":"We are sending you the location of the distress signal from the freighters. Travel to them immediately and drive off their attackers before the convoy is destroyed.",		"enemies_win":"The Yavin Mining Company freighters have all been destroyed.",		"enemies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 < %DI enemy fighters remaining. >\#pcontrast3 \#pcontrast1",		"enemies_arrived":"The enemy fighters have called in some backup. Our freighters are not going to last much longer.",		"battle_started":"Enemy fighters are swarming all over our convoy. They are in desperate need of your assistance.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Excellent work, pilot. You managed to at least save some of the fleet.",		"allies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 < %DI freighters remaining. >\#pcontrast3 \#pcontrast1",		"allies_arrived":"We are picking up distress signals from one of our convoys. They are under heavy fire from those strange fighters."
+}}

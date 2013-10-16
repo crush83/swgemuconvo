@@ -1,22 +1,5 @@
-[
-'20':'weapon_melee_speed_quest',
-'19':'weapon_mine_explosive',
-'18':'weapon_thrown_explosive',
-'17':'weapon_thrown_wiring',
-'16':'weapon_melee_lightsaber',
-'15':'weapon_melee_generic',
-'14':'weapon_ranged_barrel',
-'13':'weapon_ranged_muzzle',
-'12':'weapon_ranged_stock',
-'11':'weapon_ranged_grip',
-'10':'weapon_ranged_scope',
-'9':'weapon_ranged_power',
-'8':'weapon_heavy',
-'7':'weapon_mine',
-'6':'weapon_thrown',
-'5':'weapon_melee',
-'4':'weapon_ranged',
-'3':'armor',
-'2':'weapon',
-'1':'base',
-]
+{
+	"stfFile":"powerup_n",
+	"entries": {
+		"weapon_melee_speed_quest":"Durable Lathe",		"weapon_mine_explosive":"Mine Explosives Kit",		"weapon_thrown_explosive":"Grenade Explosives Kit",		"weapon_thrown_wiring":"Grenade Wiring Kit",		"weapon_melee_lightsaber":"Lightsaber Kit",		"weapon_melee_generic":"Generic Melee Weapon Kit",		"weapon_ranged_barrel":"Barrel",		"weapon_ranged_muzzle":"Muzzle",		"weapon_ranged_stock":"Stock",		"weapon_ranged_grip":"Grip",		"weapon_ranged_scope":"Scope",		"weapon_ranged_power":"Coupler",		"weapon_heavy":"Heavy Weapon Power-Up",		"weapon_mine":"Mine Weapon Power-Up",		"weapon_thrown":"Thrown Weapon Power-Up",		"weapon_melee":"Melee Weapon Power-Up",		"weapon_ranged":"Ranged Weapon Power-Up",		"armor":"Armor Power-Up",		"weapon":"Weapon Power-Up",		"base":"Base Power-Up"
+}}

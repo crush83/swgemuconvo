@@ -1,15 +1,12 @@
-[
-'13':'tree_villages',
-'12':'lake_villages',
-'11':'marauder',
-'10':'ewok',
-'9':'dulok',
-'8':'gorax',
-'7':'swirl_prong',
-'6':'remmer',
-'5':'merek',
-'4':'lantern_bird',
-'3':'condor_dragon',
-'2':'blurrg',
-'1':'hanadak',
-]
+{
+	"stfFile":"loading/endor",
+	"entries": {
+		"tree_villages":"Most Ewok tribes that dwell in the forest build their homes in the trees themselves. These villages are accessed via ramps and rope ladders.",		"lake_villages":"Some tribes of Ewoks built lake villages, with unique conical structures on stilts built over the water.",		"marauder":"Long ago, a reptilian species was stranded on the Forest Moon of Endor. These Marauders, as they are known, have been living there ever since, attacking visitors to the planet. A warlike society, they scavenge any technology they can find.",		"ewok":"A small race of furry humanoids, the Ewoks are the primary native civilization on the Forest Moon of Endor. They live in treetop villages, or in some cases, in homes built on stilts by the lakeshores.
+
+Although they lack high technology, they are intelligent and cunning.",		"dulok":"The "dark form" of the Ewoks, the Duloks are ill-proportioned cousins featuring fangs and large, pointed ears. Like the Ewoks, they are also native to the Forest Moon of Endor.",		"gorax":"A gigantic monster native to the Forest Moon of Endor, the gorax preys on Ewoks, since it is tall enough to reach directly into their treetop homes.",		"swirl_prong":"Commonly found alone or in small groups, the swirl prong of Endor easily navigates steep cliffs in order to stay away from predators. If need be, they will use their horns to defend themselves.",		"remmer":"Natives of the Forest Moon of Endor, remmer are disgusting little scavenger creatures. They eat practically everything: dirt, string, carrion, wood, paper, bugs...",		"merek":"Half-arachnid and half-monkey, the merek is a strange creature native to the Forest Moon of Endor. They do not live in families, generally, and are not particularly aggressive in the wild.",		"lantern_bird":"A beautiful flying creature from the Forest Moon of Endor, the lantern bird is notable for its brilliant plumage. ",		"condor_dragon":"The condor dragon, or mantigrue, is a large flighted lizard on the Forest Moon of Endor. They are often aggressive and can be quite dangerous.",		"blurrg":"Inhabiting the savannas of the Forest Moon of Endor, the blurrg is a remarkably stupid creature that has been domesticated by the Marauders. ",		"hanadak":"The hanadak looks like a cross between a large primate and a common boar, yet enlarged in all of its proportions.
+
+Having a fondness for meat, many a traveler to Endor has learned that the hanadak are as frightening as they appear to be.
+
+Some of the sentient species on the planet claim that the giant gorax are actually the true masters of the hanadak.
+"
+}}

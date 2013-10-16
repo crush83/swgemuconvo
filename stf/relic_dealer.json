@@ -1,14 +1,7 @@
-[
-'15':'no_items',
-'14':'btn_sell',
-'13':'btn_sell_all',
-'12':'prose_junk_sold',
-'11':'prose_no_buy_all',
-'10':'prose_no_all_sale',
-'9':'prose_sold_all_junk',
-'8':'sell_prompt',
-'7':'sell_title',
-'3':'prose_no_buy',
-'2':'prose_no_sale',
-'1':'prose_sold_junk',
-]
+{
+	"stfFile":"relic_dealer",
+	"entries": {
+		"no_items":"You have no items that the relic dealer wishes to buy.",		"btn_sell":"Sell",		"btn_sell_all":"Sell All",		"prose_junk_sold":"%TT is already in the process of being sold...",		"prose_no_buy_all":"%TT does not seem interested in buying any of your relics.",		"prose_no_all_sale":"%TT is unable to purchase all of your relics and declines the transaction.",		"prose_sold_all_junk":"You sell all of your relics to %TT for %DI credits.",		"sell_prompt":"Select an item and press the 'Sell' button to sell the relic to the dealer.
+
+Press the 'Sell All' button to sell all available relics to the dealer.",		"sell_title":"Relic Dealer",		"prose_no_buy":"%TU shows no interest in purchasing %TT.",		"prose_no_sale":"%TU cannot buy %TT from you at this time.",		"prose_sold_junk":"You sell %TT for %DI credits."
+}}

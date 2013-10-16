@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/lerat_zom",
+	"entries": {
+		"npc_11":"Nothing wrong with weird.  What worries me is you.  Right?",		"player_10":"Ok, you're too weird.",		"npc_10":"I'm sure you can.  See what my people have and we'll see how you do.  If you're really any good you won't need my help finding them.",		"player_9":"I can do the work.",		"npc_5":"There's not just one.  There's tons of jobs.  But I need good people.  Not just anybody off the street that strikes up a conversation.",		"player_6":"What's the job?",		"npc_9":"Then find one of my people and see what kind of work we have.  You'll know them when you see them.  Or you won't.  You know?",		"player_8":"I'm good.",		"npc_8":"You don't seem to know what we're talking about so I'm going to assume you already have another job and just go on about my business.",		"player_7":"What's the job?",		"npc_4":"You could be.  You seem fit enough.  Are you?  Are you any good at all?",		"player_5":"You think I'm good people?",		"npc_3":"Too bad.  I got a lot of work and no good people.",		"npc_7":"Anyone I don't know is a stranger.  You know?",		"player_4":"Strangers?",		"npc_6":"Exactly.  And if you don't know then you can't know can you?  So you should move on, before you know too much.",		"player_3":"Um...I don't know.",		"npc_2":"If you don't know then you probably don't want it.  Not the kind of work for strangers or those who don't know.  Ya know?",		"player_2":"No.  I'm not interested.",		"player_1":"What kind of work?",		"npc_1":"Plenty to do on Corellia.  Easier than working on Naboo.  Safer than Tatooine.  Did you come looking for work?"
+}}

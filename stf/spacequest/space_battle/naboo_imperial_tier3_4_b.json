@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_imperial_tier3_4_b",
+	"entries": {
+		"title_d":"Remain in the Dathomir system and help our TIE wing beat the Rebels in a battle. You will receive a navigation waypoint to the place where the battle is going to take place. Travel to this location and wait for the arrival of the TIEs and Rebels. When the battle is joined, assist the TIE wing with destroying  the Rebel force before the Rebels can wipe out the TIE wing. If all of the TIEs die then you will have lost the battle.",		"title":"Dathomir System: Battle the Rebel Forces",		"split_quest_alert_fail":"",		"split_quest_alert":"We have located the Rebel command ship in the Dathomir system. Launch an immediate strike at the heart of our enemy.",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"Remain in the Dathomir system and assist the TIE wing in destroying the attacking Rebels. Travel to the navigation waypoint that you will receive to the battle location.",		"quest_helpallies_t":"Help the TIE Wing Defeat the Rebels",		"quest_helpallies_d":"Once at the battle location, wait for the arrival of the TIE wing and for the battle to start. Destroy all of the attacking Rebels before they can destroy all of the TIEs. The TIEs are outnumbered so your assistance is important.",		"quest_findbattle_t":"Travel to the Battle Location",		"quest_findbattle_d":"Travel to the supplied navigation waypoint that will be given to you. This waypoint will lead you to the location that the battle will take place.",		"found_loc":"Sending your navigation computer the location of the TIE wing. Join up with them and help beat back the enemy.",		"enemies_win":"The Rebels have won this day. But we will return with a vengence. Return to your superior officer and give a full report.",		"enemies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI enemy fighters remaining.>",		"enemies_arrived":"Enemy fighters detected exiting hyper space.",		"battle_started":"Allied fighters have engaged the enemy.",		"battle_abandoned":"What are you doing? You left our forces outnumbered and outclassed! This is unacceptable! Report back to your commanding officer.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"The enemy has been destroyed. This is a great day for the Empire.",		"allies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI allied fighters remaining.>",		"allies_arrived":"TIE Fighter group has formed up to try to hold off the rebel fighters.",		"Quest Log Data":"Text"
+}}

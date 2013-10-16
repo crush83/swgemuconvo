@@ -1,33 +1,19 @@
-[
-'49':'err_cannot_open_noncombat_ship',
-'48':'countermeasurepacks',
-'47':'help_ship_stats',
-'46':'help_terminal',
-'45':'help_button_repair',
-'44':'help_button_unload',
-'43':'help_button_load',
-'42':'help_components_installed',
-'41':'help_components_selected',
-'40':'help_inventory',
-'39':'not_near_terminal',
-'38':'droid',
-'37':'repair_chassis',
-'36':'notcertifiedforship',
-'35':'repair',
-'34':'ammunition',
-'33':'err_cannot_open_ship_not_certified',
-'32':'err_cannot_open_newbie_ship',
-'31':'err_component_not_certified',
-'30':'err_too_heavy',
-'29':'not_certified',
-'28':'loaded',
-'27':'installedcomponent',
-'26':'selectedcomponent',
-'25':'power',
-'24':'energy',
-'23':'unload',
-'22':'load',
-'20':'mass',
-'9':'chassis',
-'1':'cpt_shipcomponent',
-]
+{
+	"stfFile":"ui_shipcomponents",
+	"entries": {
+		"err_cannot_open_noncombat_ship":"This is a non-combat ship and cannot be upgraded or modified.",		"countermeasurepacks":"Countermeasure Packs",		"help_ship_stats":"-ship info-",		"help_terminal":"-not near terminal-",		"help_button_repair":"Repair Ship Component
+
+When a ship component is damaged, the repair button becomes available. If you have the appropriate repair pack in your inventory, you can repair the ship component here.",		"help_button_unload":"Unload Current Ship Component
+
+Click this button to unload a ship component from your ship.",		"help_button_load":"Load Selected Ship Component
+
+Click this button to load the selected ship component onto your ship.",		"help_components_installed":"Installed Ship Component
+
+This shows information and statistics for the ship component currently loaded in the component slot you have selected.",		"help_components_selected":"Selected Ship Component
+
+This shows information and statistics for a ship component you select in the Ship Component Inventory.",		"help_inventory":"Inventory of Ship Components
+
+These are ship components that you own. This includes both ship components in your inventory as well as those currently loaded on your ship.
+
+This inventory list is broken down into categories of ship component types which correspond to component slots on your ship.",		"not_near_terminal":"While away from a space terminal, you may view but not modify your ship.",		"droid":"Droid/Flight Computer",		"repair_chassis":"Repair Chassis",		"notcertifiedforship":"NOT CERTIFIED TO FLY SHIP",		"repair":"Repair",		"ammunition":"Ammunition",		"err_cannot_open_ship_not_certified":"You are not certified for this ship and can't manage it.",		"err_cannot_open_newbie_ship":"This is a starter ship and cannot be upgraded.",		"err_component_not_certified":"You are not certified to install  this component.",		"err_too_heavy":"Installing this component would overload your ship's mass.",		"not_certified":" (NOT CERTIFIED)",		"loaded":" (LOADED)",		"installedcomponent":"Installed",		"selectedcomponent":"Selected",		"power":"Power",		"energy":"Energy",		"unload":"Unload",		"load":"Load",		"mass":"Mass",		"chassis":"Chassis",		"cpt_shipcomponent":"Ship Component Management"
+}}

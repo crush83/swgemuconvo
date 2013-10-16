@@ -1,7 +1,5 @@
-[
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/gethzerion",
+	"entries": {
+		"npc_3":"Fool!",		"npc_2":"Good!",		"player_2":"I like it here.",		"player_1":"Sorry, I'll go.",		"npc_1":"I am the ruler of the Nightsisters.  You have no place here..."
+}}

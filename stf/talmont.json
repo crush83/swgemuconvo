@@ -1,43 +1,46 @@
-[
-'41':'tal41',
-'40':'tal40',
-'39':'tal39',
-'38':'tal38',
-'37':'tal37',
-'36':'tal36',
-'35':'tal35',
-'34':'tal34',
-'33':'tal33',
-'32':'tal32',
-'31':'tal31',
-'30':'tal30',
-'29':'tal29',
-'28':'tal28',
-'27':'tal27',
-'26':'tal26',
-'25':'tal25',
-'24':'tal24',
-'23':'tal23',
-'22':'tal22',
-'21':'tal21',
-'20':'tal20',
-'19':'tal19',
-'18':'tal18',
-'17':'tal17',
-'16':'tal16',
-'15':'tal15',
-'14':'tal14',
-'13':'tal13',
-'12':'tal12',
-'11':'tal11',
-'10':'tal10',
-'9':'tal9',
-'8':'tal8',
-'7':'tal7',
-'6':'tal6',
-'5':'tal5',
-'4':'tal4',
-'3':'tal3',
-'2':'tal2',
-'1':'tal1',
-]
+{
+	"stfFile":"talmont",
+	"entries": {
+		"tal41":"You'll have to be careful   But your new identity will be perfect.  Go to Jabba's palace and talk to the TT8-L droid, and he'll get you started.  You and I are going to clean up this waste of a planet!
+",		"tal40":"Won't they kill me if they find out what I'm up to?
+",		"tal39":"Do whatever they tell you.  Accept any job they'll give you, no matter how illegal it may be.  After a while, you'll earn their trust.  Then you can find those ledgers!
+",		"tal38":"And then what?
+",		"tal37":"I'm going to give you a new identity.  Papers that will make you appear to be a criminal.  Like one of them.  I have such things at my disposal.
+",		"tal36":"How should I do that?
+",		"tal35":"I want you to infiltrate Jabba's organization.  Find Jabba's ledger books.  Bring me the evidence I need to bring them all down!
+",		"tal34":"What shall I do?
+",		"tal33":"I expect more from an Imperial Officer!  They're a bunch of criminals, in league with the Hutt, Jabba.
+",		"tal32":"They're low-life criminals, the lot of them!  They take bribes.  They gamble.  Some of them might as well work for that Jabba the Hutt!
+",		"tal31":"What do you expect on Tatooine?
+",		"tal30":"What do you mean?
+",		"tal29":"Now that you've proven yourself I'm going to level with you.  My superior officers on this planet are a bunch of scum.
+",		"tal28":"No.
+",		"tal27":"Yes.
+",		"tal26":"Feeling better about yourself?
+",		"tal25":"I'm too busy to talk to you.
+",		"tal24":"No sir.  I'm ready to work.
+",		"tal23":"I hope we won't have any more performances like the previous ones?
+",		"tal22":"You will suffer for this outrage!  Out of my office!
+",		"tal21":"The only shame would be actually taking orders from someone like you.
+",		"tal20":"Yes, I am.
+",		"tal19":"There's no shame in crawling back here.  Are you ready for your assignment?
+",		"tal18":"Get out!
+",		"tal17":"You're in charge of a desert.  How could I possibly be wasting YOUR time?
+",		"tal16":"Sorry.  I'm ready to work for you.
+",		"tal15":"Back again?  I hope this time you're not wasting my time.
+",		"tal14":"Enough of your attitude.  Leave at once!
+",		"tal13":"Good.  Very good.  Think you can you handle a group of thieves on your own?
+",		"tal12":"Respect?  You?  You must be joking.
+",		"tal11":"Yes sir.
+",		"tal10":"So, you've decided to return, eh?  Have you learned a little bit about respect?
+",		"tal9":"Well, if you're not up to the task perhaps you should return when you feel a bit more comfortable with your abilities.
+",		"tal8":"Excellent.  These thieves have a hideout at <location>.  There are three of them.  I want them dead or alive.  Now get moving!
+",		"tal7":"I'm not sure.
+",		"tal6":"I think so.
+",		"tal5":"Exactly the sort of insolence I would expect from someone on this planet.  Be gone with you.  And don't return until you've learned some manners!
+",		"tal4":"Very good.  We shall see about that soon enough.  Your first task will be to round up a group of thieves.  This planet is full of them.  Can you handle that?
+",		"tal3":"Why should I trust you?
+",		"tal2":"I am loyal to the Empire.
+",		"tal1":"I am the Prefect, Eugene Talmont.  I have a mission for you, but I must know where your loyalties lie first.  Tell me why I should trust you...
+"
+}}

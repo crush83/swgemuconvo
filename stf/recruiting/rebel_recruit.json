@@ -1,20 +1,5 @@
-[
-'18':'rr18',
-'17':'rr17',
-'16':'rr16',
-'15':'rr15',
-'14':'rr14',
-'13':'rr13',
-'12':'rr12',
-'11':'rr11',
-'10':'rr10',
-'9':'rr9',
-'8':'rr8',
-'7':'rr7',
-'6':'rr6',
-'5':'rr5',
-'4':'rr4',
-'3':'rr3',
-'2':'rr2',
-'1':'rr1',
-]
+{
+	"stfFile":"recruiting/rebel_recruit",
+	"entries": {
+		"rr18":"Thanks for nothing.",		"rr17":"All right then.",		"rr16":"Since I'm not bothering you, why don't you not bother me?",		"rr15":"Ok, we'll let you out of the Alliance.",		"rr14":"I'm tired of being shot at by Imperials!",		"rr13":"Hello friend.  What can I do for you?",		"rr12":"If all you're concerned about is how much trouble you're going to be in with the Empire then you're definitely not the kind of person we're looking for.",		"rr11":"Well, nevermind then.  I have more important things to do than stand around and explain myself to every nerf-herder that tries to chat with me.",		"rr10":"Good.  I will take your information and inform my commanding officers.  From this point on, you're officially part of the Rebellion.  Good luck soldier.",		"rr9":"I am.  I have no love for the Empire.",		"rr8":"Won't that get me in trouble with the Empire?",		"rr7":"Are you interested in joining the Rebel Alliance?",		"rr6":"I heard it from some of the rebel pilots.",		"rr5":"I was just guessing.",		"rr4":"Who gave you the password?",		"rr3":"Uh...I don't know what you're talking about.",		"rr2":"But the sun doesn't shine in the swamps.",		"rr1":"The wind whistles in the willows..."
+}}

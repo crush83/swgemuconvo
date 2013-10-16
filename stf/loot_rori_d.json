@@ -1,19 +1,5 @@
-[
-'17':'draya_korbinari_q3_needed',
-'16':'ajuva_vanasterin_q2_needed',
-'15':'ajuva_vanasterin_q1_needed',
-'14':'sidoras_bey_q1_needed',
-'13':'jaleela_bindoo_q3_needed',
-'12':'jaleela_bindoo_q1_needed',
-'11':'booto_lubble_q2_needed',
-'10':'booto_lubble_q1_needed',
-'9':'oxil_sarban_q2_needed',
-'8':'oxil_sarban_q1_needed',
-'7':'indintra_imbru_q2_needed',
-'6':'indintra_imbru_q1_needed',
-'5':'sindra_lintikoor_q2_needed',
-'4':'sindra_lintikoor_q1_needed',
-'3':'vordin_sildor_q3_needed',
-'2':'hefsen_zindalai_q1_needed',
-'1':'biribas_tarun_q1_needed',
-]
+{
+	"stfFile":"loot_rori_d",
+	"entries": {
+		"draya_korbinari_q3_needed":"The art holo centerpiece for the Restuss Arts Jubilee on Rori.",		"ajuva_vanasterin_q2_needed":"An order to purchase several paintings for Ajuva Vanasterin",		"ajuva_vanasterin_q1_needed":"An invitation to a dinner party from Ajuva Vanasterin",		"sidoras_bey_q1_needed":"The official announcement of the winner of an art competition held during the Arts Gala festival in Narmle on Rori.",		"jaleela_bindoo_q3_needed":"A list of finalists and their work for the judges of the Imperial Arts Grant competition at the Narmle Arts Gala on Rori.",		"jaleela_bindoo_q1_needed":"Painting by Gungan artist Odoof Grunda of Sidoras Bey sculpting a statue of the Emperor.",		"booto_lubble_q2_needed":"Merr-Sonn Munitions Class-A explosive device issued to personnel in Colonel Zarvold's Imperial Army battalion on Rori.",		"booto_lubble_q1_needed":"Standard security encoding and command device issued to Warrant Officer Luhin Jinnor of Colonel Zarvold's Imperial Army battalion on Rori.",		"oxil_sarban_q2_needed":"A collection of individually carved dust grains from across the galaxy, intended for the Narmle Arts Gala run by Oxil Sarban, Arts Minister of Narmle on Rori.",		"oxil_sarban_q1_needed":"Selected Chadra Fan heart-splitter wailing serenades, intended for the Narmle Arts Gala run by Narmle's Arts Minister, Oxil Sarban.",		"indintra_imbru_q2_needed":"Restuss socialite Indintra Imbru Yerevan's invitation to Shaultra Loraweet to attend the "Great Conversation" debate among Rori's philosophers -- a debate that includes (not coincidentally) Loraweet's former sweetheart, philosopher Bieque Lozan-Lippid.",		"indintra_imbru_q1_needed":"Restuss socialite Indintra Imbru Yerevan's suggestion to her friend, Briska Gil, to invite Narmle scholar Ingon Lakbo to a dinner party -- that happens to coincide with the previously scheduled "Great Conversation" debate among Rori's philosophers.",		"sindra_lintikoor_q2_needed":"Narmle Minister of Education Sindra Lintikoor's invitation to scholar Bieque Lozan-Lippid to participate in a "Great Conversation" debate among Rori's philosophers.",		"sindra_lintikoor_q1_needed":"Scholar Ingon Lakbo's response to Narmle Minister of Education Sindra Lintikoor's invitation to participate in a "Great Conversation" debate among Rori's philosophers.",		"vordin_sildor_q3_needed":"Transport permits.",		"hefsen_zindalai_q1_needed":"A special invitation to the Restuss Arts Jubilee.",		"biribas_tarun_q1_needed":"An incriminating holo recording"
+}}

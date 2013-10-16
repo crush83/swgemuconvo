@@ -1,56 +1,101 @@
-[
-'67':'kessel_tip',
-'66':'kessel_title',
-'65':'deepspace_tip',
-'64':'deepspace_title',
-'63':'zonemap_tip',
-'62':'zonemap_title',
-'61':'waypoint_tip',
-'60':'waypoint_title',
-'59':'pvp_tip',
-'58':'pvp_title',
-'57':'pobships_tip',
-'56':'pobships_title',
-'55':'pilotability_tip',
-'54':'pilotability_title',
-'53':'dutymissions_tip',
-'52':'dutymissions_title',
-'51':'missions_tip',
-'50':'missions_title',
-'47':'docking_tip',
-'46':'docking_title',
-'45':'booster_title',
-'44':'booster_tip',
-'43':'target_tip',
-'42':'eject_title',
-'41':'eject_tip',
-'40':'target_title',
-'38':'loot_tip',
-'37':'loot_title',
-'36':'shipdamage_tip',
-'35':'shipdamage_title',
-'33':'radar_title',
-'32':'station_title',
-'31':'station_tip',
-'28':'radar_tip',
-'26':'tiebomber_tip',
-'25':'tiebomber_title',
-'24':'tieadvanced_tip',
-'23':'tieadvanced_title',
-'20':'z95_tip',
-'19':'z95_title',
-'18':'ywing_tip',
-'17':'ywing_title',
-'14':'sublight_drive_tip',
-'13':'sublight_drive_title',
-'12':'flightcontrol_tip',
-'11':'flightcontrol_title',
-'10':'hyperdrive_tip',
-'9':'hyperdrive_title',
-'6':'tieinterceptor_tip',
-'5':'tieinterceptor_title',
-'4':'tiefighter_tip',
-'3':'tiefighter_title',
-'2':'xwing_tip',
-'1':'xwing_title',
-]
+{
+	"stfFile":"loading/space_tatooine",
+	"entries": {
+		"kessel_tip":"Enjoy the spoils of war! 
+Search out enemy transports and take them down.
+All of them...",		"kessel_title":"Kessel Zone",		"deepspace_tip":"You are entering a Player-versus-Player zone.
+
+Other players can attack you here.
+
+REBELS - defeat the Star Destroyer!
+
+IMPERIALS - eliminate the Rebel Base!",		"deepspace_title":"Deep Space Battle Zone",		"zonemap_tip":"The zone map contains information about spacestations, nebulae, asteroids, and mission-critical targets.
+
+Open the zone map using the N key or by chatting the /zonemap command in your chatbox.
+
+Use the zoom and rotate commands located at the bottom of the zone map display to navigate. Expand the categories on the right-hand side of the screen to browse points of interest.",		"zonemap_title":"Space Zone Map",		"waypoint_tip":"Space waypoints are critical for navigation.
+
+Use the on-screen waypoint monitor (set 'on' by default). This shows you the distance and direction to all active waypoints.
+
+Create your own waypoints by opening your datapad, selecting the Waypoints tab, and creating a new waypoint at your current location... or by using the /waypoint chat command.
+
+You can autopilot to waypoints in your datapad. Open the datapad, right-click on the desired waypoint and then select 'Autopilot' from the radial menu.",		"waypoint_title":"Space Waypoints",		"pvp_tip":"In order to participate in player versus player space combat, you will need to declare your overt status at a factional space station. All pilots are automatically set PvP-neutral when launching into space regardless of ground faction status.
+
+Search out a factional space station. Fly to it, target it (with the C key), and then communicate with the station using the back-slash key. You will be asked to verify your intent to declare overt status. When you affirm your overt status, you will have a short window of time before other overt player pilots will see you as a valid target (and vice-versa).
+",		"pvp_title":"Player versus Player Space Combat",		"pobships_tip":"Explore the galaxy with your friends!
+
+If you are certified to fly a multi-passenger starship such as the YT-1300 transport, you can bring a group of friends along for the ride.
+
+To launch into a multiplayer ship with a full crew, bring your group to the starport. Gather your group close to the starship terminal and invoke the launch sequence as normal.",		"pobships_title":"Multiplayer Starships",		"pilotability_tip":"As you gain skill as a starfighter pilot, you will be granted increasingly powerful pilot abilities.
+
+Check the abilities browser with Control A and look under the 'Space' tab.
+
+All of your current space combat abilities will be listed here. You are free to relocate these ability icons to the toolbar. When in-flight, you can execute these abilities by triggering the toolbar slot (a function key F1 through F12) or by chatting its associated slash command.",		"pilotability_title":"Starfighter Pilot Abilities",		"dutymissions_tip":"Duty missions are open-ended assignments that do not have a specific endpoint. It is up to you to decide when your duty mission is complete.
+
+While on a duty mission, your objectives will be automatically updated in-flight.
+
+To conclude your duty mission, go to your datapad with Control D, select the duty mission object and then select 'End Duty.'",		"dutymissions_title":"Duty Mission Types",		"missions_tip":"Starfighter trainers are eager to provide missions to all able-bodied pilots.
+
+Check your mission status in-flight by pressing the J key, or by using the journal icon on the lower left-hand corner of your heads' up display.
+
+When you are done with your mission, fly back to your launch waypoint, land on the planet surface, and return to your trainer for your reward... and your next mission!",		"missions_title":"Space Missions",		"docking_tip":"Starships have the ability to dock with various craft. Some missions will require you to dock with other ships to complete your objective.
+
+Target the ship with which you plan to dock and then use the /dock command - or press the docking button located just beneath the target indicator on your heads' up display.",		"docking_title":"Starship Docking System",		"booster_title":"Starship Engine Boosters",		"booster_tip":"Boosters can temporarily increase your movement speed, and are a great asset when trying to run away from more powerful enemies!
+
+If your starship is equipped with a booster, press the B key to engage them. Watch the booster power gauge on-screen (it is attached to your speed indicator). When the booster power is depleted, the boosters will stop automatically.
+
+Boosters will automatically recharge when not in use.",		"target_tip":"Effective targeting is critical to survival in space combat. Know your targeting commands:
+
+TAB - choose closest enemy starship
+T / Shift T - cycle through enemy starships
+
+Shift TAB - choose closest enemy player starship
+Z / Shift Z - cycle through enemy player starships
+
+K - choose closest friendly player starship
+L / Shift L - cycle friendly player starships
+
+; - choose closest friendly starship
+' - cycle friendly starships
+
+ESC - clear current target",		"eject_title":"Escape Pod Sequence",		"eject_tip":"When your ship has sustained too much damage to carry on - you can scuttle your ship and automatically transit to the nearest friendly space station.
+
+Press the 'EJECT' button that appears above your radar to begin the scuttle sequence. Note that your ship components must be severely damaged for this item to appear on-screen, and the 'EJECT' sequence will take several seconds to conclude.
+",		"target_title":"Targeting Commands",		"loot_tip":"Some enemies will drop 'loot' when you destroy them. These loot items are special pieces of equipment that you can use to upgrade your starship. If you are certified to use the equipment that you looted (find this out by examining the loot object in your inventory), you can install it on your starship. Note that 'free' starships (donated by the Imperial Navy, the Rebel Alliance or any free pilots association) cannot be upgraded in any way. Only starships crafted by other players can be upgraded.
+
+Install pieces on your ship using the 'Manage Components' option on the starship terminals found throughout major starports.
+
+Credits that you loot from fallen enemies will appear in your inventory as a hard-credit 'chip.' Right-click on this chip and 'transfer credits to bank account' whenever you like.",		"loot_title":"Starship Loot and Credits",		"shipdamage_tip":"Keep a close eye on your starship's health - especially when you are in combat! All ship status is super-imposed on the Radar display at the bottom-center of your screen. 
+
+The outer blue bars surrounding the radar display indicate your shield strength (if your ship is equipped with shields). When your ship is hit by enemy fire you will see this blue bar diminish. When it diminishes completely, your ship will start taking armor damage. 
+
+Your ship armor is denoted by a solid red circle at the center of the radar (surrounding your starship's radar position). As your armor is damaged, this red circle will shrink until all the armor is gone. Once your armor is eliminated your starship's sensitive equipment will be exposed to enemy blaster fire. 
+
+If your components are destroyed your starship will exhibit severe performance problems.",		"shipdamage_title":"Starship Damage",		"radar_title":"Starfighter Radar Display",		"station_title":"Space Stations",		"station_tip":"Space stations allow you to land on planets and repair your starship's damage. 
+
+In order to land your ship on a planet, you must communicate with a space station. 
+Fly to a space station, target it (with the C key) and then communicate with it (using the back-slash key). 
+
+Space stations will hail your starship automatically if you fly towards the station hangar.
+
+The space station commander will appear on-screen to ask what you'd like to do. If you have money for repairs (and your ship is sufficiently damaged) you will get an option to repair some percentage of your starship while still in-flight. If you would like to land, say so and the commander will give you permission to land at the starport of your choice.",		"radar_tip":"Your starship radar is at the bottom-center of your screen. It is a circular display that shows you the locations of craft around you.
+Your starship is always the 'dead center' of this radar display. 
+
+The dots you see on the radar above the center represent ships flying above you. Dots below the center zone represent ships that are flying below you. Dots to the left and right indicate ships that are to your left and right, respectively.
+
+The further a radar dot is from the center... the more you must turn in order to face it.",		"tiebomber_tip":"Of all the TIE fighter variants produced by Sienar Fleet Systems for the Galactic Empire, the TIE bomber was one of the most effective. The heavy assault ship, designed for strategic strikes against surface and deep space targets, proved one of the most heavily-armed starships in the Imperial fleet. It contributed to the capture of Yavin 4, aided in the search for the Millennium Falcon near Hoth and made direct attacks on Alliance capital ships at the Battle of Endor and other conflicts.",		"tiebomber_title":"Sienar Fleet Systems TIE Bomber",		"tieadvanced_tip":"The TIE Advanced was the prototype TIE fighter flown by Darth Vader at the Battle of Yavin. An experimental craft combining TIE fighter technology with more conventional starfighter components, like a hyperdrive and deflector shield generators, the TIE Advanced eventually became the template for the incredibly efficient TIE interceptor. Based on original Sienar TIE fighter designs, the TIE Advanced consisted of a rounded cockpit connected to two solar array wings. The vessel featured a durasteel-alloy hull, elongated rear deck, and powerful twin laser cannons located just below the large canopy.",		"tieadvanced_title":"Sienar Fleet Systems TIE Advanced x1 Prototype",		"z95_tip":"One of the oldest starfighters still in use by the New Republic, the Headhunter predates the Battle of Yavin by several decades  and has experienced several revivals since its first appearance. The starfighter's longevity is based on its legendary resilience and still remains an attractive option to mercenaries and security personnel throughout the galaxy",		"z95_title":"Incom/Subpro Z-95-AF4  Headhunter",		"ywing_tip":"While the Alliance relied on the Y-wing for everything from escort duty to reconnaissance, the starfighter was originally designed for close-quarters combat with space stations and large starships. Light bombing runs and surgical strikes are also part of the Y-wing's mission profile. The starfighter's weapons emplacements are fairly modular. Most Rebel Y-wing's used a pair of laser cannons and a rotating ion cannon. The Y-wing can be equipped with proton torpedoes, concussion missiles, and proton bombs for more direct assaults.",		"ywing_title":"Koensayr BTL-S3 Y-Wing Attack Starfighter",		"sublight_drive_tip":"Sublight drives maneuver vehicles through normal space, and usually employ one several different engine technologies, including ion drives. Sublight drives are almost always engaged upon leaving a planet's atmosphere, and during space battles. Most sublight drives also project varying gravity effects to protect pilots and passengers during sudden changes in sublight acceleration.",		"sublight_drive_title":"Sub-light Drive",		"flightcontrol_tip":"Control your starship with a mouse, keyboard, gamepad or joystick.
+
+Use the mouse or joystick to control your ship heading.
+
+To increase speed use the up-arrow, or '=' key.
+To slow down, use the down-arrow, or '-' key.
+In addition to mouse or joystick directional control, you can use the 'A' and 'D' keys to turn.
+Roll your ship with the left and right arrow keys, or the 'Q' and 'E' keys.
+
+Set full speed with the HOME key.
+Set speed to full stop with the END key.
+
+Press the M key to match speed with your currently selected target.",		"flightcontrol_title":"Starship Flight Controls",		"hyperdrive_tip":"A vital component on many starships, the hyperdrive is responsible for accelerating a vehicle to faster-than-lightspeed velocities and propelling it into the dimension known as hyperspace. While in hyperspace, a vehicle can cover huge expanses of space in an instant. 
+
+To use your hyperdrive, press the 'H' key and then select a star system by left-clicking on it. A list of possible hyperspace destinations will appear. Choose your preferred destination and then click the 'Hyperspace' button on the bottom-right of the hyperspace map.",		"hyperdrive_title":"Hyperspace Travel",		"tieinterceptor_tip":"Seinar Fleet Systems was never idle during the Galactic Civil War. After producing the effective TIE fighter, the Seinar design team began work on the TIE Advanced x1 prototype. When the TIE Advanced proved too costly for the Empire's tastes, Seinar transferred many of the prototype's features to its newest TIE design: the TIE Interceptor - as a direct response to the Rebel Alliance's development of faster and more dangerous starfighters.",		"tieinterceptor_title":"TIE Interceptor (Seinar Fleet Systems)",		"tiefighter_tip":"From the beginning of the Galactic Civil War, the Emperor believed that the conflict would be a war of attrition. Nowhere is that philosophy more evident than in the design and tactics of the staple starfighter of the Imperial Navy, the TIE fighter. TIE fighters are meant to overwhelm enemy forces in large numbers and have therefore been designed for speed and... affordability.",		"tiefighter_title":"TIE Fighter (Seinar Fleet Systems)",		"xwing_tip":"History will always report that the Rebel Alliance was saved from total annihilation by an X-wing starfighter. The X-wing played a pivotal role at the Battle of Yavin, enabling young pilot Luke Skywalker to fly into the Death Star's trench and target a small, two-meter-wide exhaust port. Luke was aided by the Force, but the mission would not have succeeded without the X-wing's superior capabilities.",		"xwing_title":"T-65 X-Wing (Incom Corporation)"
+}}

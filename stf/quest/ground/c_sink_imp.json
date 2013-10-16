@@ -1,27 +1,5 @@
-[
-'25':'task10_journal_entry_title',
-'24':'task10_journal_entry_description',
-'23':'task09_journal_entry_title',
-'22':'task09_journal_entry_description',
-'21':'task08_journal_entry_title',
-'20':'task08_journal_entry_description',
-'19':'task07_journal_entry_title',
-'18':'task07_journal_entry_description',
-'17':'task06_journal_entry_title',
-'16':'task06_journal_entry_description',
-'15':'task05_journal_entry_title',
-'14':'task05_journal_entry_description',
-'13':'task04_journal_entry_title',
-'12':'task04_journal_entry_description',
-'11':'task03_journal_entry_title',
-'10':'task03_journal_entry_description',
-'9':'task02_journal_entry_title',
-'8':'task02_journal_entry_description',
-'7':'task01_journal_entry_title',
-'6':'task01_journal_entry_description',
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/c_sink_imp",
+	"entries": {
+		"task10_journal_entry_title":"Mission Complete",		"task10_journal_entry_description":"You completed the mission.",		"task09_journal_entry_title":"Mission Reward",		"task09_journal_entry_description":"You were rewarded for a successful mission.",		"task08_journal_entry_title":"Go into Space to Kill Binayre.",		"task08_journal_entry_description":"Head into space and await instructions.",		"task07_journal_entry_title":"Talk to Ceth Laike",		"task07_journal_entry_description":"Once you have done as he asked, return to Ceth Laike and talk to him.",		"task06_journal_entry_title":"Get 10 Flail Symbols",		"task06_journal_entry_description":"Kill Flails on Corellia and recover 10 of their symbols as proof.  A location to one of their common camps has been added to your datapad.",		"task05_journal_entry_title":"Kill 15 Binayre Pirates",		"task05_journal_entry_description":"Kill 15 Binayre Pirates on Talus.  A location of one of their camps has been added to your datapad.",		"task04_journal_entry_title":"Reward for Returning Alive",		"task04_journal_entry_description":"You have been rewarded with credits and Rebel faction for returning alive with news.",		"task03_journal_entry_title":"Return and Talk to Ceth Laike",		"task03_journal_entry_description":"Tell Ceth Laike what happened to his friend.",		"task02_journal_entry_title":"ambush (invis)",		"task02_journal_entry_description":"You get ambushed by 4 Binayre baddies",		"task01_journal_entry_title":"timer 30-60 seconds (invis)",		"task01_journal_entry_description":"this times an ambush",		"task00_journal_entry_title":"Search and Rescue",		"task00_journal_entry_description":"Go out to a crashed Tie Fighter.",		"journal_entry_title":"Enough!!",		"journal_entry_description":"After a simple search and rescue mission, Imperial Officer Ceth Laike has had enough with the criminal element.",		"category":"Talus"
+}}

@@ -1,22 +1,5 @@
-[
-'111':'death5',
-'110':'death4',
-'109':'death3',
-'108':'death2',
-'107':'death1',
-'106':'entercombat5',
-'105':'entercombat4',
-'104':'entercombat3',
-'103':'entercombat2',
-'102':'entercombat1',
-'101':'hityou5',
-'100':'hityou4',
-'99':'hityou3',
-'98':'hityou2',
-'97':'hityou1',
-'96':'gothit5',
-'95':'gothit4',
-'94':'gothit3',
-'93':'gothit2',
-'92':'gothit1',
-]
+{
+	"stfFile":"space/taunts/rebel",
+	"entries": {
+		"death5":"Your skill is amazing, %NU!  You should be fighting FOR the Rebel Alliance, not - Aaaaarrghh...",		"death4":"You may have won the battle, but you'll never win the - Aarrrgghh!",		"death3":"No!  The Rebel Alliance will get you for this, %NU!",		"death2":"I couldn't shake you, %TU!",		"death1":"Argh!",		"entercombat5":"Prepare to die!",		"entercombat4":"%TU!  I know of you!  I'll try to make this quick.",		"entercombat3":"%NU, you are no match for me!",		"entercombat2":"Join the Rebel Alliance?  No?  Then I will destroy you, %TU!",		"entercombat1":"I'll kill you, %TU!",		"hityou5":"GOT YOU! %NU! HA! HA!",		"hityou4":"You can't win, %NU!",		"hityou3":"The Rebel Alliance WILL defeat the Empire, %NU!  Starting with you!",		"hityou2":"You can't beat me, %NU!",		"hityou1":"You see, %NU?  You're no match for me!",		"gothit5":"That was a lucky shot, %NU!",		"gothit4":"What?!  You're a good pilot, %NU, but I am better!",		"gothit3":"Gah!",		"gothit2":"My ship!  %NU, you'll regret that!",		"gothit1":"Is that all you've got, %NU?!"
+}}

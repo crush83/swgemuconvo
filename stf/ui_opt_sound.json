@@ -1,20 +1,5 @@
-[
-'27':'tooltip_ui_palette',
-'26':'tooltip_volume_combat_music',
-'25':'volume_combat_music',
-'24':'tooltip_volume_player_music',
-'23':'tooltip_volume_user_interface',
-'22':'tooltip_volume_background_music',
-'21':'tooltip_volume_effects',
-'20':'tooltip_volume_master',
-'19':'tooltip_max_sounds',
-'16':'tooltip_enable',
-'10':'max_sounds',
-'7':'volume_user_interface',
-'6':'volume_player_music',
-'5':'volume_background_music',
-'4':'volume_master',
-'3':'volume_effects',
-'2':'enable',
-'1':'caption',
-]
+{
+	"stfFile":"ui_opt_sound",
+	"entries": {
+		"tooltip_ui_palette":"You can choose between several previously defined color schemes for the UI.",		"tooltip_volume_combat_music":"Move this slider to modify the volume of the music during combat.",		"volume_combat_music":"Combat Music Volume",		"tooltip_volume_player_music":"Move this slider to modify the volume of player music heard in the game.  This also modifies what you hear from your own band, if you are a musician.",		"tooltip_volume_user_interface":"Move this slider to modify the volume of the sound effects heard while interacting with the user interface windows and controls.",		"tooltip_volume_background_music":"Move this slider to modify the volume of background music in the game.",		"tooltip_volume_effects":"Move this slider to modify the volume of sound effects in the game.",		"tooltip_volume_master":"Move this slider to modify the overall sound volume level in the game.",		"tooltip_max_sounds":"Use the pull-down menu below this option to choose the maximum number of sounds that can play at once.",		"tooltip_enable":"Check this box to enable or disable all sound.",		"max_sounds":"Max Sounds",		"volume_user_interface":"User Interface Volume",		"volume_player_music":"Player Music Volume",		"volume_background_music":"Background Music Volume",		"volume_master":"Master Volume",		"volume_effects":"Effects Volume",		"enable":"Enable Sound",		"caption":"Sound"
+}}

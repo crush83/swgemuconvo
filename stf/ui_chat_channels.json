@@ -1,7 +1,9 @@
-[
-'5':'help_join',
-'4':'help_name',
-'3':'help_default',
-'2':'help_tab',
-'1':'help_available',
-]
+{
+	"stfFile":"ui_chat_channels",
+	"entries": {
+		"help_join":"Click this button to display a window where you can subscribe to new chat channels.",		"help_name":"The name displayed for this chat tab.",		"help_default":"Click this button to set the channel where text entered from this chat tab goes.",		"help_tab":"This list contains the chat channels which will display in this tab.  To remove a channel from displaying in this tab, double-click it or select it and click the arrows.",		"help_available":"This is the Tab Management page.
+
+From here you can select what channels display in the tab.
+
+This first list displays what built in channels are available but are not currently being displayed in this tab."
+}}

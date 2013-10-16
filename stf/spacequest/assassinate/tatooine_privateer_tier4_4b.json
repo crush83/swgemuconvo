@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_privateer_tier4_4b",
+	"entries": {
+		"title_d":"Show the Corellian Security they do not belong in Lok",		"title":"Lok System: Eliminate the CorSec patrol",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Nirame: < \#pcontrast1 Travel to the Dantooine System, our final target has already hyperspace jumped away. \#pcontrast3 >",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"CorSec Gunboat",		"quest_target_d":"A Corellian fiend not fit to call himself an officer of peace",		"quest_location_t":"Lok System",		"quest_location_d":"A merchant trade route in the Lok System",		"quest_escort_t":"CorSec Interdiction Craft",		"quest_escort_d":"CorSec heavy patrol craft",		"failed_escape":"You have failed because the target escaped.",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Primary objective destroyed, finish off all escorting craft. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All hostile craft have been destroyed. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Target locked in. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Nirame: < \#pcontrast1 There is a CorSec pilot flying around in the system and this would be a good opportunity to show our power by removing their influence. \#pcontrast3 >"
+}}

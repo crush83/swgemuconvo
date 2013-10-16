@@ -1,23 +1,5 @@
-[
-'21':'title_d',
-'20':'title',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_tier3_4a",
+	"entries": {
+		"title_d":"",		"title":"Assasinate pilot",		"split_quest_alert":"Stand by for split quest",		"quest_update":"%TO",		"quest_target_t":"",		"quest_target_d":"",		"quest_location_t":"",		"quest_location_d":"",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"You have failed because the target escaped.",		"escort_wiped_out":"All escort craft have been destroyed.  Proceed to primary objective.",		"escort_remaining":"There are still %DI craft left in the escort.",		"destroy_escort":"Primary objective completed.  Finish taking out the escorting craft.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Target is destroyed, success.",		"arrival_phase_2":"Target located, proceed to waypoint.",		"arrival_phase_1":"Locating target"
+}}

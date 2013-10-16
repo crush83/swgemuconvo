@@ -1,27 +1,5 @@
-[
-'26':'hoop',
-'24':'outfit',
-'23':'brother',
-'22':'wookie',
-'21':'nu shooz',
-'20':'CD',
-'19':'baker',
-'18':'dumb',
-'17':'tall',
-'16':'robot',
-'15':'slave',
-'14':'luke',
-'13':'Han',
-'12':'leia answer',
-'11':'shoe',
-'10':'nwa',
-'9':'zombie',
-'8':'quest answer',
-'7':'seven',
-'6':'scrap',
-'5':'jawa answer',
-'4':'leia',
-'3':'quest',
-'2':'jawas',
-'1':'Opening',
-]
+{
+	"stfFile":"toadspeak",
+	"entries": {
+		"hoop":"why do they not like basketball?",		"outfit":"Oh, sorry, that is in the future.  You see I am psychic.  But trust me, when she is chained to the big slug and Han is blind and Luke starts doing backflips you will see what I mean.",		"brother":"Not at this point in our timeline.  We find that out in Jedi.",		"wookie":"Yeah, but fear not.  I think he might be, you know, in love with the Wookiee.",		"nu shooz":"Sounds pretty lucky to me.  You can find her on Naboo hanging around the palace, limping casually from place to place and trying not to fall over.",		"CD":"Great, just take the CD to Admiral Cube at the All-Star Cantina.  He will pay handsomely for it.",		"baker":"The Baker is over by the Starport, just around the corner from the Arena.  He should be able to tell you more when you get there.",		"dumb":"It is inexplicable.  You say, is it just one less than 8' and they scratch their heads.  If you actually have 7 things and try to make them count them, they explode.  Well, I have a meeting now, see you later.",		"tall":"Probably because they are short.  Also, they do not really like to play defense and the zone defense rules confuse them.  Well, I am off to get a smoothie.",		"robot":"Scrap robots are just robots that the Jawas found out in the desert and basically fixed up so they could sell them cheap.  Well my cell phone is ringing so I gotta go.",		"slave":"Slave outfit?",		"luke":"Is she Lukes sister?",		"Han":"Is she in love with Han Solo?",		"leia answer":"To be honest with you, I have always thought she was kind of uptight.  But man does she look good in that slave outfit.",		"shoe":"I trained as a shoe repairman!  How lucky is that?",		"nwa":"I think I have that CD.  Who should I give it to?",		"zombie":"Zombies sound cool.  Where can I find the baker?",		"quest answer":"Depends on what kind of quest you are looking for.  The Baker has zombies in his basement, the empire needs an NWAs Greatest Hits CD, and the princess needs her shoe repaired.",		"seven":"Um...number 7?...What?!?",		"scrap":"What is a scrap robot?",		"jawa answer":"Well, I can tell you this, they sell scrap robots they find in the desert, they hate basketball, and they do not have a concept for the number 7.",		"leia":"Is Leia really that hot?",		"quest":"Can you tell me where I can find a quest?",		"jawas":"What can you tell me about Jawas?",		"Opening":"I'm a conversationally experienced NPC.  What would you like to talk about?"
+}}

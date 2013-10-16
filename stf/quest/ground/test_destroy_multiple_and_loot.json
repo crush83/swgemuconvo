@@ -1,7 +1,5 @@
-[
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/test_destroy_multiple_and_loot",
+	"entries": {
+		"task00_journal_entry_title":"",		"task00_journal_entry_description":"",		"journal_entry_title":"",		"journal_entry_description":"",		"category":""
+}}

@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/poi_tatooine_general_2_a",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Kelen Wordkal was right. You've discovered, after a particularly interesting run-in with the Black Nemesis, something more foreboding has been causing the disappearances of the freighters traveling through the Ghost Tide Nebula.",		"title":"Tatoo System: Ghost Tide's Black Nemesis",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"\#pcontrast1 Mos Eisley Captain:\#pcontrast3 < Pilot! What happened out there? Did you find anything? Report back to me immediately! >",		"complete":"Your mission is a success!",		"assigned_delayed":""
+}}

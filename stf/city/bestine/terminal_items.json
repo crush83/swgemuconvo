@@ -1,12 +1,5 @@
-[
-'10':'history_disk_found_already',
-'9':'history_disk_found',
-'8':'inv_full',
-'7':'searched',
-'6':'receivemsg',
-'5':'receive1',
-'4':'receive',
-'3':'fail',
-'2':'download_complete',
-'1':'download',
-]
+{
+	"stfFile":"city/bestine/terminal_items",
+	"entries": {
+		"history_disk_found_already":"You search the area, but find nothing else of interest.",		"history_disk_found":"As you approach the terminal, you notice something sticking out of a dataslot and you take it. The object appears to be an aged datadisk, but it looks like it might still be readable.",		"inv_full":"Download Terminated: Inventory Full",		"searched":"Access Denied: You have already downloaded data from this terminal.",		"receivemsg":"You find a handheld viewscreen in the jumble of papers. It looks like it would contain valuable information.",		"receive1":"The desk is neat. It's easy to find the accountant's log book. You take the item. ",		"receive":"You find a handheld viewscreen in the jumble of papers. It looks like it would contain valuable information.",		"fail":"The desk is littered with business-related papers and miscellaneous items. You find nothing of interest.",		"download_complete":"Download Complete",		"download":"Download"
+}}

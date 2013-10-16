@@ -1,7 +1,5 @@
-[
-'5':'destroy_neutral_hard_structure_5',
-'4':'destroy_neutral_hard_structure_4',
-'3':'destroy_neutral_hard_structure_3',
-'2':'destroy_neutral_hard_structure_2',
-'1':'destroy_neutral_hard_structure_1',
-]
+{
+	"stfFile":"mission_destroy_neutral_hard_structure",
+	"entries": {
+		"destroy_neutral_hard_structure_5":"We need you to destroy a enemy taco stand.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"destroy_neutral_hard_structure_4":"We need you to destroy an enemy base.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"destroy_neutral_hard_structure_3":"We need you to destroy an enemy base.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"destroy_neutral_hard_structure_2":"We need you to destroy an enemy base.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"destroy_neutral_hard_structure_1":"We need you to destroy an enemy base.  STUB MISSION DESCRIPTION, REMOVE LATER."
+}}

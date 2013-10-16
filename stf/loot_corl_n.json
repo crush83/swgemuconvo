@@ -1,44 +1,46 @@
-[
-'42':'serjix_arrogantus_q1_needed',
-'41':'ging_darjeek_q1_needed',
-'40':'luthin_dlunar_q2_needed',
-'39':'luthin_dlunar_q1_needed',
-'38':'grondorn_muse_q2_needed',
-'37':'vinya_maysor_q1_needed',
-'36':'karrek_film_q3_needed',
-'35':'karrek_film_q2_needed',
-'34':'karrek_film_q1_needed',
-'33':'chertyl_ruruwoor_q1_needed',
-'32':'gilker_budz_q1_needed',
-'31':'lasha_bindari_q1_needed',
-'30':'denell_kelvannon_q1_needed',
-'29':'jadam_questrel_q1_needed',
-'28':'talon_karrde_q4_needed',
-'27':'talon_karrde_q3_needed',
-'26':'talon_karrde_q1_needed',
-'25':'crev_bombaasa_q2_needed',
-'24':'crev_bombaasa_q1_needed',
-'23':'noren_krast_q3_needed',
-'22':'noren_krast_q2_needed',
-'21':'noren_krast_q1_needed',
-'20':'didina_lippinoss_q1_needed',
-'19':'karena_keer_q2_needed',
-'18':'karena_keer_q1_needed',
-'17':'shalera_q6_needed',
-'16':'shalera_q1_needed',
-'15':'hal_horn_q1_needed',
-'14':'kirkin_liawoon_q2_needed',
-'13':'zekka_thyne_q1_needed',
-'12':'thrackan_salsolo_q3_needed',
-'11':'dannik_malaan_q1_needed',
-'10':'garm_beliblis_q2_needed',
-'9':'gilad_pellaeon_q2_needed',
-'8':'gilad_pellaeon_q1_needed',
-'7':'brantlee_spondoon_q2_needed',
-'6':'brantlee_spondoon_q1_needed',
-'5':'daclif_gallamby_q6_needed',
-'4':'daclif_gallamby_q4_needed',
-'3':'daclif_gallamby_q3_needed',
-'2':'daclif_gallamby_q2_needed',
-'1':'daclif_gallamby_q1_needed',
-]
+{
+	"stfFile":"loot_corl_n",
+	"entries": {
+		"serjix_arrogantus_q1_needed":"Datadisc
+",		"ging_darjeek_q1_needed":"Minnet's Permit Data
+",		"luthin_dlunar_q2_needed":"Datadisc
+",		"luthin_dlunar_q1_needed":"Datadisc
+",		"grondorn_muse_q2_needed":""Corellia Ho!"
+
+",		"vinya_maysor_q1_needed":"Shipping Documents
+",		"karrek_film_q3_needed":"Durindfire Gem 
+",		"karrek_film_q2_needed":"Evidence List
+",		"karrek_film_q1_needed":"Evidence List
+",		"chertyl_ruruwoor_q1_needed":"Datadisc
+",		"gilker_budz_q1_needed":"Gronda Killing
+",		"lasha_bindari_q1_needed":"Evidence List 
+",		"denell_kelvannon_q1_needed":"CorSec evidence
+",		"jadam_questrel_q1_needed":"Bonadan Contract Report
+",		"talon_karrde_q4_needed":"Virus Flask
+",		"talon_karrde_q3_needed":"Package
+",		"talon_karrde_q1_needed":"Official Travel Documents
+",		"crev_bombaasa_q2_needed":"Lippinoss Dossier
+",		"crev_bombaasa_q1_needed":"Lippinoss Dossier
+",		"noren_krast_q3_needed":"Message to Lasha Bindari
+",		"noren_krast_q2_needed":"A datadisc
+",		"noren_krast_q1_needed":"Credit disk
+",		"didina_lippinoss_q1_needed":"Flim's Correspondence
+",		"karena_keer_q2_needed":"Spice
+",		"karena_keer_q1_needed":"Bank authorizations
+",		"shalera_q6_needed":"Virus sample
+",		"shalera_q1_needed":"Message for Black Sun
+",		"hal_horn_q1_needed":"Slythmonger's Notes
+",		"kirkin_liawoon_q2_needed":"Anti-Selonian Meeting
+",		"zekka_thyne_q1_needed":"Datadisc
+",		"thrackan_salsolo_q3_needed":"Diktat's Death Squad
+",		"dannik_malaan_q1_needed":"Shipping Records
+",		"garm_beliblis_q2_needed":"Datadisc
+",		"gilad_pellaeon_q2_needed":"Datadisc
+",		"gilad_pellaeon_q1_needed":"Datadisc
+",		"brantlee_spondoon_q2_needed":"Neonan Red Cheese
+",		"brantlee_spondoon_q1_needed":"Devaronian Fur Glosser
+",		"daclif_gallamby_q6_needed":"Orders for a Gangster
+",		"daclif_gallamby_q4_needed":"Customs Charity Donation
+",		"daclif_gallamby_q3_needed":"Donation to Diktat's Charity
+",		"daclif_gallamby_q2_needed":"Approved Bonadan Order",		"daclif_gallamby_q1_needed":"Bonadan Shipping Order"
+}}

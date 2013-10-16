@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/naboo_privateer_tier4_3b",
+	"entries": {
+		"title_d":"Fly a patrol through Yavin Space to split Rebel observation",		"title":"Yavin System: Fly a Decoy Patrol",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 There is a heavy Black Sun force moving into Yavin not far from your location.  Their target is unknown, but we are not willing to wait and find out.  Go dispatch them. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"Travel here to complete the patrol",		"quest_location_t":"Yavin System",		"quest_location_d":"A patrol route in the Yavin System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

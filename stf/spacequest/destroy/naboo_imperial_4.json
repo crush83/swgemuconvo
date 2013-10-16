@@ -1,14 +1,5 @@
-[
-'12':'title_d',
-'11':'title',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/naboo_imperial_4",
+	"entries": {
+		"title_d":"Imperial Intelligence has a lead on the location of the rebel team leader who was attempting to capture a shipment of the E-62s. The rebellion cannot be allowed to get away with these strike on Imperial interests and the leader of this raid must be destroyed. You are to hunt down and destroy the rebel strike leader.",		"title":"Eliminate Rebel Team Leader",		"split_quest_alert":"",		"quest_location_t":"Travel to the Nabooian Sector",		"quest_location_d":"Intelligence reports that the rebel leader is still located inside the Nabooian sector. They have supplied a Nav waypoint to his last known location. Search that area for the rebel leader.",		"quest_destroy_t":"Destroy the Rebel Leader",		"quest_destroy_d":"Find the rebel leader at the given Nav location. If he is not there when you arrive destroy the xwings at the location and they will send out a distress signal that he is sure to respond to. Once you have eliminated him return to your commanding officer.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,29 +1,5 @@
-[
-'27':'accept_title',
-'26':'prose_wed_complete',
-'25':'ring_prompt',
-'24':'prose_propose',
-'23':'prose_end_unity',
-'22':'wed_oor',
-'21':'wed_error',
-'20':'prose_expire_target',
-'19':'prose_expire_player',
-'18':'expire_target',
-'17':'expire_player',
-'16':'prose_declined',
-'15':'declined',
-'14':'decline',
-'13':'prose_accept_fail',
-'12':'accept_fail',
-'11':'no_ring',
-'10':'target_proposed',
-'9':'target_married',
-'8':'target_not_player',
-'7':'prose_already_married',
-'6':'prose_already_proposed',
-'5':'out_of_range',
-'4':'bad_facing',
-'3':'bad_target',
-'2':'mnu_divorce',
-'1':'mnu_propose',
-]
+{
+	"stfFile":"unity",
+	"entries": {
+		"accept_title":"Accept Unity Proposal?",		"prose_wed_complete":"Your union with %TT is complete.",		"ring_prompt":"Select the ring you would like to offer, in return, for your unity.",		"prose_propose":"You propose unity to %TO.",		"prose_end_unity":"Your union with %TO has ended.",		"wed_oor":"You must remain within 15 meters during the unity process for it to complete.",		"wed_error":"An error has occurred during the unity process.",		"prose_expire_target":"The unity proposal extended to you by %TO has expired.",		"prose_expire_player":"The unity proposal you extended to %TO has expired.",		"expire_target":"The unity proposal extended to you has expired.",		"expire_player":"The unity proposal you extended has expired.",		"prose_declined":"Your unity proposal to %TO has been declined.",		"declined":"Your unity proposal has been declined.",		"decline":"You decline the unity proposal.",		"prose_accept_fail":"%TO has no ring to offer and therefore cannot accept.",		"accept_fail":"Your proposal target has no ring to offer in return.",		"no_ring":"You cannot accept a unity proposal without a ring to offer.",		"target_proposed":"Your proposal target is already engaged in a unity proposal.",		"target_married":"You cannot propose unity to someone who is already united.",		"target_not_player":"You may only propose unity to another player.",		"prose_already_married":"You cannot propose unity. You are already united with %TO.",		"prose_already_proposed":"But you already have an outstanding unity proposal to %TO.",		"out_of_range":"Your target is too far away to properly propose!",		"bad_facing":"You must be facing your target to properly propose!",		"bad_target":"You must have a valid player target to Propose Unity.",		"mnu_divorce":"Divorce",		"mnu_propose":"Propose Unity"
+}}

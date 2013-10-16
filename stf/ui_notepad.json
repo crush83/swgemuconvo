@@ -1,3 +1,5 @@
-[
-'1':'title',
-]
+{
+	"stfFile":"ui_notepad",
+	"entries": {
+		"title":"Notepad"
+}}

@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/naboo_imperial_tier2_1",
+	"entries": {
+		"title_d":"Travel to the Naboo system and inspect the Railgun mercenary courier. When you enter the system you will receive a navigation waypoint to an area that the Railgun mercenary courier should be. Travel to this location and look around it for the Railgun mercenary courier. Once you have found the courier you will need to disable his vessel. In order to disable a vessel use the '[' or ']' to target the ships subsystems and target its engines. Attack the Railgun mercenary courier until its engines are at 0%. Now move in close and use the 'I' key or type /inspect with the Railgun mercenary courier targeted. After you have found the encrypted documents, type /dock in order to transfer the documents onto your ship. Be wary because you will be very vulnerable while docking with another vessel.",		"title":"Naboo System: Inspect the Railgun Mercenary Courier",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Travel to the Naboo System",		"quest_location_d":"Travel to the Naboo system and inspect the Railgun mercenary courier. You will receive a navigation waypoint to the area that the Railgun mercenary courier can be found in. Travel to this navigation waypoint and look around for the Railgun mercenary courier.",		"quest_inspect_t":"Inspect the Railgun Mercenary Courier",		"quest_inspect_d":"Inspect the Railgun mercenary courier's vessel for the encrypted documents. To inspect a ship first you must disable it's engines by targeting its subsystems. Use the '[' or ']' key in order to target its engines. Attack the vessel until its engines are at 0%. Then move in close and use the /inspect or press the 'I' key to start inspecting the Railgun mercenary courier. Make sure you have the disabled Railgun mercenary courier targeted when you attempt this.",		"quest_dock_t":"Dock with the Railgun Mercenary Courier and Transfer the Encrypted Documents",		"quest_dock_d":"Once you have succeeded in finding the encrypted documents, you will need to dock with the ship in order to transfer the data. Use the /dock command in order to start the docking procedure. Wait until the procedure is complete and you receive the system message of success before leaving. Be very careful at this point because you will be vunlerable to attacks while docked with another vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

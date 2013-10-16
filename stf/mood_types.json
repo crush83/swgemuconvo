@@ -1,190 +1,1068 @@
-[
-'192':'none',
-'191':'firm',
-'190':'patient',
-'189':'hurried',
-'188':'malevolent',
-'187':'wary',
-'186':'diplomatic',
-'185':'contemptuous',
-'184':'disdainful',
-'183':'silly',
-'182':'goofy',
-'181':'obscure',
-'180':'haughty',
-'179':'dignified',
-'178':'dainty',
-'177':'squeamish',
-'176':'fastidious',
-'175':'obnoxious',
-'174':'belligerent',
-'173':'sheepish',
-'172':'enraged',
-'171':'fearful',
-'170':'vengeful',
-'169':'envious',
-'168':'ambivalent',
-'167':'gloomy',
-'166':'emotionless',
-'165':'cheerful',
-'164':'nice',
-'163':'panicked',
-'162':'troubled',
-'161':'emotional',
-'160':'logical',
-'159':'grumpy',
-'158':'remorseful',
-'157':'quiet',
-'156':'heroic',
-'155':'bubbly',
-'154':'wounded',
-'153':'painful',
-'152':'surly',
-'151':'crotchety',
-'150':'relaxed',
-'149':'shifty',
-'148':'alert',
-'147':'thirsty',
-'146':'hungry',
-'145':'suffering',
-'143':'calm',
-'142':'sedate',
-'141':'perturbed',
-'140':'annoyed',
-'139':'adventurous',
-'138':'youthful',
-'137':'wise',
-'136':'innocent',
-'135':'surprised',
-'134':'lazy',
-'133':'timid',
-'132':'friendly',
-'131':'exhausted',
-'130':'tired',
-'129':'worried',
-'128':'wistful',
-'127':'wicked',
-'126':'whiny',
-'125':'warm',
-'124':'unwilling',
-'123':'unhappy',
-'122':'uncertain',
-'121':'tolerant',
-'120':'thoughtful',
-'119':'thankful',
-'118':'terrified',
-'117':'taunting',
-'116':'suspicious',
-'115':'sullen',
-'114':'stubborn',
-'113':'spiteful',
-'112':'sorry',
-'110':'snobby',
-'109':'smug',
-'108':'sly',
-'107':'sleepy',
-'106':'sincere',
-'105':'shy',
-'104':'shocked',
-'103':'shameless',
-'102':'serious',
-'101':'scornful',
-'100':'scolding',
-'99':'scared',
-'98':'sarcastic',
-'97':'sad',
-'96':'rude',
-'95':'romantic',
-'94':'respectful',
-'93':'resigned',
-'92':'reluctant',
-'91':'relieved',
-'90':'regretful',
-'89':'puzzled',
-'88':'provocative',
-'87':'proud',
-'86':'pompous',
-'85':'polite',
-'84':'playful',
-'83':'pitying',
-'82':'philosophical',
-'81':'petulant',
-'80':'pessimistic',
-'79':'pedantic',
-'78':'optimistic',
-'77':'offended',
-'76':'neutral',
-'75':'nervous',
-'74':'mischievous',
-'73':'mean',
-'72':'lustful',
-'71':'loving',
-'70':'loud',
-'69':'lofty',
-'68':'joyful',
-'67':'jealous',
-'66':'interested',
-'65':'indignant',
-'64':'imploring',
-'63':'indifferent',
-'62':'hysterical',
-'61':'humble',
-'60':'hopeless',
-'59':'hopeful',
-'58':'honest',
-'57':'happy',
-'56':'guilty',
-'55':'frustrated',
-'54':'forgive',
-'53':'fanatical',
-'52':'exuberant',
-'51':'exasperated',
-'50':'evil',
-'49':'enthusiastic',
-'48':'encouraging',
-'47':'emphatic',
-'46':'embarrassed',
-'45':'ecstatic',
-'44':'earnest',
-'43':'drunk',
-'42':'dreamy',
-'41':'dramatic',
-'40':'doubtful',
-'39':'distracted',
-'38':'dismayed',
-'37':'disgusted',
-'36':'disgruntled',
-'35':'discreet',
-'34':'disappointed',
-'33':'dimwitted',
-'32':'devious',
-'31':'depressed',
-'30':'defensive',
-'29':'cynical',
-'28':'curious',
-'27':'cruel',
-'26':'crude',
-'25':'coy',
-'24':'courtly',
-'23':'content',
-'22':'confused',
-'21':'confident',
-'20':'condescending',
-'19':'compassionate',
-'18':'cold',
-'17':'cocky',
-'16':'clinical',
-'15':'casual',
-'14':'careless',
-'13':'careful',
-'12':'callous',
-'11':'brave',
-'9':'bloodthirsty',
-'8':'bitter',
-'7':'disoriented',
-'6':'approving',
-'5':'angry',
-'4':'amused',
-'3':'amazed',
-'1':'absentminded',
-]
+{
+	"stfFile":"mood_types",
+	"entries": {
+		"none":"none
+~
+**ADVERB FOR NONE***",		"firm":"firm
+~
+firmly
+decisively
+, clear and firm
+, brooking no disagreement",		"patient":"patient
+~
+patiently
+, showing great patience
+slowly and patiently",		"hurried":"hurried
+~
+hurriedly
+, talking fast
+, words tumbling over each other in haste",		"malevolent":"malevolent
+angry
+malevolently
+, full of evil
+evilly",		"wary":"wary
+~
+warily
+, looking wary
+, somewhat warily",		"diplomatic":"diplomatic
+~
+diplomatically
+, always the diplomat
+, in a conciliating tone",		"contemptuous":"contemptuous
+~
+contemptuously
+, full of contempt
+scornfully",		"disdainful":"disdainful
+~
+disdainfully
+, full of disdain
+scornfully",		"silly":"silly
+happy
+, acting silly
+, acting goofy
+, with a goofy grin
+, with a silly smile",		"goofy":"goofy
+happy
+goofily
+, with a silly smile
+, with a goofy smile",		"obscure":"obscure
+~
+obscurely
+mysteriously
+, sounding obscure",		"haughty":"haughty
+~
+haughtily
+, acting superior
+, nose in the air",		"dignified":"dignified
+~
+dignifiedly
+, all dignified
+, solemn and dignified
+solemnly",		"dainty":"dainty
+~
+daintily
+, all dainty and proper
+",		"squeamish":"squeamish
+sad
+squeamishly
+, fear and disgust in %PU voice
+, acting squeamish",		"fastidious":"fastidious
+~
+fastidiously
+, clearly fastidious
+somewhat fastidiously",		"obnoxious":"obnoxious
+~
+obnoxiously
+, always obnoxious
+annoyingly
+in an obnoxious tone",		"belligerent":"belligerent
+angry
+belligerently
+, quite belligerent
+, clearly belligerent",		"sheepish":"sheepish
+happy
+sheepishly
+, sheepish
+rather sheepishly",		"enraged":"enraged
+angry
+, enraged
+, full of rage
+ragingly",		"fearful":"fearful
+worried
+fearfully
+, full of fear
+, rather frightened
+, frightened
+, scared",		"vengeful":"vengeful
+angry
+vengefully
+, ready for revenge
+, ready for vengeance
+, vengeful and eager for action",		"envious":"envious
+~
+enviously
+, full of envy
+, green with envy
+, clearly envious",		"ambivalent":"ambivalent
+~
+ambivalently
+, clearly ambivalent
+, clearly undecided
+, of two minds about it",		"gloomy":"gloomy
+sad
+, gloomy
+, all gloomy
+darkly
+gloomily
+",		"emotionless":"emotionless
+~
+, emotionless
+, in a voice dead of emotion
+without inflection",		"cheerful":"cheerful
+happy
+cheerfully
+, all cheerful
+, with a big grin on %PU face
+, beaming
+happily",		"nice":"nice
+happy
+nicely
+, with a smile
+, all neat and nice",		"panicked":"panicked
+worried
+, panicked
+in a panic
+, panicky
+, ready to bolt
+, terrified
+, eyes rolling with panic
+, utterly panicked",		"troubled":"troubled
+sad
+, troubled
+, looking troubled
+, rather troubled
+, somewhat troubled",		"emotional":"emotional
+~
+emotionally
+, overflowing with emotion
+, voice trembling with emotion",		"logical":"logical
+~
+logically
+, quite logically
+, proud of %PU logic",		"grumpy":"grumpy
+angry
+, all grumpy
+, grumping
+, grumpy as usual
+grumpily",		"remorseful":"remorseful
+sad
+remorsefully
+apologetically
+sorrowfully
+, clearly sorry
+",		"quiet":"quiet
+~
+quietly
+, rather quietly
+softly
+in a soft voice",		"heroic":"heroic
+~
+heroically
+, like a hero
+, acting heroic
+",		"bubbly":"bubbly
+happy
+, all bubbly
+, full of enthusiasm
+, full of energy
+with boundless energy",		"wounded":"wounded
+sad
+woundedly
+, wounded by the very notion
+, dismay in %PU eyes",		"painful":"painful
+sad
+painfully
+with great difficulty
+with great pain",		"surly":"surly
+angry
+, surly
+surlily
+, all surly",		"crotchety":"crotchety
+angry
+, all crotchety
+, crotchety as usual
+, rather snappishly
+snappishly
+",		"relaxed":"relaxed
+~
+, relaxed
+relaxedly
+, quite relaxed
+, laid back and relaxed",		"shifty":"shifty
+~
+shiftily
+craftily
+slyly
+, with a glint in %PU eye.",		"alert":"alert
+~
+alertly
+, alert
+, looking around alertly",		"thirsty":"thirsty
+~
+thirstily
+, thirsty
+, a thirst in %PU voice",		"hungry":"hungry
+~
+hungrily
+, voice sounding hungry
+, with hunger in %PU eyes",		"suffering":"suffering
+sad
+, suffering
+, in a pained tone of voice
+, clearly suffering
+, clearly in pain",		"calm":"calm
+~
+calmly
+, quite calm
+, cool and calm
+, calm as can be",		"sedate":"sedate
+~
+sedately
+, rather sedately
+, quite calm and sedate",		"perturbed":"perturbed
+sad
+, somewhat perturbed
+, looking perturbed
+, rather perturbed
+
+",		"annoyed":"annoyed
+angry
+annoyedly
+, full of annoyance
+, somewhat annoyed",		"adventurous":"adventurous
+~
+adventurously
+, ready for adventure
+, eager for adventure",		"youthful":"youthful
+~
+youthfully
+, full of youthful exuberance
+, acting youthful",		"wise":"wise
+~
+wisely
+, looking wise
+, all wise",		"innocent":"innocent
+happy
+innocently
+, acting innocent
+, smiling innocently
+, looking innocent
+",		"surprised":"surprised
+worried
+, surprised
+in surprise
+, all surprised
+, quite surprised
+, taken by surprise
+",		"lazy":"lazy
+~
+lazily
+, drawling it out lazily
+, voice lazy
+, sounding lazy
+, slow and lazy",		"timid":"timid
+~
+timidly
+, quite timidly
+in a small voice",		"friendly":"friendly
+happy
+, with a smile
+in a friendly manner
+, acting friendly",		"exhausted":"exhausted
+~
+exhaustedly
+, exhausted
+, looking exhausted
+, all worn out
+, completely exhausted",		"tired":"tired
+~
+, tired
+tiredly
+, feeling tired
+, sounding tired
+, looking haggard",		"worried":"worried
+worried
+worriedly
+, somewhat troubled
+, strongly concerned
+uneasily
+anxiously
+",		"wistful":"wistful
+~
+wistfully
+, full of wishful yearning
+longingly
+, expressing unfulfilled desires
+",		"wicked":"wicked
+~
+wickedly
+evilly
+impishly
+devilishly
+darkly
+",		"whiny":"whiny
+~
+whiningly
+, in a plaintive tone
+, protesting childishly
+, habitually complaining
+, in a whining manner
+",		"warm":"warm
+~
+warmly
+cordially
+heartily
+, with warmth and sincerity
+, in a cordial manner
+",		"unwilling":"unwilling
+~
+unwillingly
+reluctantly
+hesitantly
+, feeling contrary
+",		"unhappy":"unhappy
+sad
+unhappily
+, somewhat displeased
+, without joy
+discontentedly
+, with a hint of sadness
+",		"uncertain":"uncertain
+~
+uncertainly
+, with uncertainty
+, expressing some doubt
+unsurely
+",		"tolerant":"tolerant
+~
+tolerantly
+, with respectful difference
+understandingly
+forbearingly
+, trying to keep an open mind
+",		"thoughtful":"thoughtful
+~
+thoughtfully
+considerately
+empathetically
+carefully
+, almost solicitously
+",		"thankful":"thankful
+~
+thankfully
+, expressing gratitude
+appreciatively
+, feeling grateful
+",		"terrified":"terrified
+~
+, with a shaky voice
+, filled with terror
+, almost in a panic
+, voice all a-tremble
+",		"taunting":"taunting
+~
+tauntingly
+jeeringly
+mockingly
+, trying to incite emotion
+provokingly
+",		"suspicious":"suspicious
+~
+suspiciously
+, expressing suspicion
+, with a hint of distrust
+mistrustfully
+",		"sullen":"sullen
+~
+sullenly
+sulkily
+, in dismal spirits
+, in a gloomy manner
+",		"stubborn":"stubborn
+~
+stubbornly
+resolutely
+unwaveringly
+unyieldingly
+, with purposeful determination
+, stubborn as a dewback
+",		"spiteful":"spiteful
+~
+spitefully
+, with spite
+, in a malicious manner
+ in a voice dripping with venom
+",		"sorry":"sorry
+~
+apologetically
+, feeling sorry
+, in an apologetic manner
+, conscious of %PU own shortcomings
+",		"snobby":"snobby
+~
+snobbishly
+pretentiously
+, with an air of self-satisfied superiority
+",		"smug":"smug
+~
+smugly
+, with self-righteous complacency
+, exhibiting great self-satisfaction
+self-righteously
+",		"sly":"sly
+~
+slyly
+roguishly
+, with playful mischievousness
+knavishly
+, with an artistic flair
+with a sly glint in %PU eyes
+",		"sleepy":"sleepy
+~
+sleepily
+, with drawn out words
+drowsily
+sluggishly
+",		"sincere":"sincere
+~
+sincerely
+earnestly
+, without pretense
+, with a heartfelt honesty
+",		"shy":"shy
+~
+shyly
+timidly
+hesitantly
+diffidently
+",		"shocked":"shocked
+~
+, taken aback
+, somewhat shocked
+, with moderate surprise
+",		"shameless":"shameless
+~
+shamelessly
+, without shame
+unblushingly
+, feeling impervious to disgrace
+brazenly
+",		"serious":"serious
+~
+seriously
+, in a serious tone
+gravely
+ earnestly
+",		"scornful":"scornful
+~
+scornfully
+contemptuously
+scoffingly
+, feeling disdain
+",		"scolding":"scolding
+~
+reproachfully
+reprovingly
+, in a scolding manner
+, being openly critical
+ in reproof
+",		"scared":"scared
+~
+, in a scared tone
+, with a trembling voice
+, expressing fear
+, appearing somewhat frightened
+",		"sarcastic":"sarcastic
+~
+sarcastically
+, in a sarcastic tone
+wittily
+",		"sad":"sad
+sad
+sadly
+unhappily
+, expressing sorrow
+, feeling sad
+,somewhat depressed
+, sounding kind of down
+sorrowfully
+",		"rude":"rude
+~
+rudely
+impolitely
+discourteously
+, with a rude manner
+, in an impolite tone
+",		"romantic":"romantic
+~
+romantically
+, with a hint of interest in %PU eyes
+, feeling romantic
+, given to feelings of romance
+",		"respectful":"respectful
+~
+respectfully
+, with due respect
+, begging your pardon
+",		"resigned":"resigned
+~
+resignedly
+, accepting the inevitability of things to come
+, with unresisting acquiescence
+, with patient submission
+",		"reluctant":"reluctant
+~
+reluctantly
+hesitantly
+, in a reluctant voice
+, with hesitation
+",		"relieved":"relieved
+~
+, feeling relieved
+, with concerns assuaged
+",		"regretful":"regretful
+sad
+regretfully
+remorsefully
+, with a sense of regret
+",		"puzzled":"puzzled
+~
+, feeling puzzled
+, filled with bewilderment
+, appearing somewhat perplexed
+",		"provocative":"provocative
+~
+provocatively
+, in a provocative manner
+provokingly
+",		"proud":"proud
+~
+proudly
+, with self-satisfaction
+, displaying strong self-respect
+",		"pompous":"pompous
+~
+pompously
+arrogantly
+haughtily
+pretentiously
+",		"polite":"polite
+~
+politely
+mannerly
+tactfully
+",		"playful":"playful
+happy
+playfully
+, with high-spirits
+sportively
+lightheartedly
+frolicsomely
+, full of gaiety
+",		"pitying":"pitying
+~
+pityingly
+compassionately
+, expressing %PU commiseration
+sympathetically
+",		"philosophical":"philosophical
+~
+philosophically
+loftily
+idealistically
+",		"petulant":"petulant
+~
+petulantly
+crankily
+peevishly
+testily
+",		"pessimistic":"pessimistic
+~
+pessimistically
+, taking a gloomy viewpoint
+, expecting unfavorable outcomes
+, exuding an air of negativity
+",		"pedantic":"pedantic
+~
+pedantically
+academically
+clinically
+, sounding very donnish
+",		"optimistic":"optimistic
+~
+optimistically
+hopefully
+sanguinely
+, expecting favorable future events
+",		"offended":"offended
+~
+, having taken offense
+",		"neutral":"neutral
+~
+neutrally
+, taking neither side
+impartially
+, trying to maintain neutrality
+",		"nervous":"nervous
+~
+nervously
+, in a slightly shaky voice
+, sounding a bit jumpy
+, with an air of apprehension
+",		"mischievous":"mischievous
+~
+mischievously
+playfully
+teasingly
+impishly
+puckishly
+",		"mean":"mean
+~
+meanly
+inconsiderately
+, without empathy
+spitefully
+ignobly
+",		"lustful":"lustful
+~
+lustfully
+, with lust in %PU eyes
+salaciously
+bawdily
+",		"loving":"loving
+~
+lovingly
+tenderly
+affectionately
+",		"loud":"loud
+~
+loudly
+boisterously
+, in a rather loud volume
+loudly, as if making sure to be heard
+",		"lofty":"lofty
+~
+loftily
+, with lofty overtones
+idealistically
+",		"joyful":"joyful
+happy
+joyfully
+, filled with joy
+gleefully
+, enjoying high-spirited delight
+, with immense happiness
+",		"jealous":"jealous
+~
+jealously
+, green with envy
+enviously
+, in an almost covetous manner
+",		"interested":"interested
+~
+interestedly
+, showing interest
+, displaying an aroused curiosity
+, desiring to know more
+",		"indignant":"indignant
+angry
+indignantly
+, filled with indignation
+, angered about something unjust
+, nearing outrage
+, feeling some righteous anger
+",		"imploring":"imploring
+~
+imploringly
+entreatingly
+, in an earnest request
+beseechingly
+",		"indifferent":"indifferent
+~
+indifferently
+apathetically
+, showing little emotion
+, seemingly uncaring
+",		"hysterical":"hysterical
+~
+hysterically
+, amidst a fit of hysteria
+, in a frenzy of unbridled emotion
+over-excitedly
+",		"humble":"humble
+~
+humbly
+, with submissive respect
+meekly
+modestly
+",		"hopeless":"hopeless
+~
+hopelessly
+, as if all was already lost
+bleakly
+, with a somber and gloomy outlook
+, without hope
+, almost despairingly
+",		"hopeful":"hopeful
+~
+hopefully
+, full of hope
+, looking forward with confidence
+, foreseeing fulfillment of expectations
+, thinking all will be well
+, with a pleasing expectancy
+",		"honest":"honest
+~
+honestly
+, trying to display integrity
+sincerely
+frankly
+earnestly
+",		"happy":"happy
+happy
+happily
+cheerily
+, with pleasure
+, marked by happiness
+contentedly
+",		"guilty":"guilty
+~
+guiltily
+, feeling guilty
+, with regret
+, feeling blameworthy
+, with a sense of guilt
+",		"frustrated":"frustrated
+~
+, feeling thwarted
+, experiencing discouragement
+, appearing bedeviled
+",		"forgive":"forgive
+~
+forgivingly
+, overlooking potential offenses
+, in a forgiving manner
+, with understanding and compassion
+",		"fanatical":"fanatical
+~
+fanatically
+, with passionate fanaticism
+, possessed with overwhelming zeal
+, in a verbal frenzy of unreasoning enthusiasm
+",		"exuberant":"exuberant
+happy
+exuberantly
+, with unrestrained joy
+, filled with excessive happiness
+, with zestful enthusiasm
+",		"exasperated":"exasperated
+angry
+exasperatedly
+, appearing greatly annoyed
+, out of patience
+, becoming more agitated
+",		"evil":"evil
+~
+evilly
+wickedly
+, with dark overtones
+, in a wicked evil manner
+",		"enthusiastic":"enthusiastic
+~
+enthusiastically
+, with enthusiasm
+zealously
+passionately
+fervently
+",		"encouraging":"encouraging
+~
+encouragingly
+, in an encouraging manner
+, trying to provide confidence
+inspiringly
+",		"emphatic":"emphatic
+~
+emphatically
+, with emphasis
+forcefully
+, emphasizing each word
+",		"embarrassed":"embarrassed
+~
+embarrassedly
+, feeling self-conscious
+, appearing ill at ease
+, with chagrin
+, somewhat abashed
+",		"ecstatic":"ecstatic
+happy
+ecstatically
+, with great enthusiasm
+, filled with immense joy
+, bouncing off the walls
+, bubbling with delight
+",		"earnest":"earnest
+~
+earnestly
+, with sincerity
+, trying to be earnest
+, with sincere intent
+",		"drunk":"drunk
+~
+drunkenly
+, slurring several words
+, in a drunken stupor
+, almost incomprehensibly
+",		"dreamy":"dreamy
+~
+dreamily
+, lost in the clouds
+, almost as an afterthought
+",		"dramatic":"dramatic
+~
+dramatically
+, after a dramatic pause
+, with dramatic emphasis
+",		"doubtful":"doubtful
+~
+doubtfully
+, experiencing doubt
+, with a tone of uncertainty
+",		"distracted":"distracted
+~
+, distracted
+, losing focus
+, diverting attention
+, returning to the topic
+",		"dismayed":"dismayed
+sad
+, disenchanted
+, somewhat upset
+, with disillusionment
+, with a loss of enthusiasm
+",		"disgusted":"disgusted
+~
+disgustedly
+, with disgust
+, filled with abhorrence
+",		"disgruntled":"disgruntled
+angry
+disappointedly
+, with discontent
+, expressing sulky dissatisfaction
+, dissatisfied
+",		"discreet":"discreet
+~
+discreetly
+circumspectly
+, exercising due prudence and self-restraint
+carefully
+politically
+, without pretension
+",		"disappointed":"disappointed
+sad
+, somewhat disappointed
+, appearing unsatisfied
+, unhappy with recent events
+, expressing thwarted expectations
+",		"dimwitted":"dimwitted
+~
+, being dimwitted
+obtusely
+dumbly
+densely
+, being thickheaded
+",		"devious":"devious
+~
+deviously
+shiftily
+evasively
+, in a roundabout manner
+, almost deceitfully
+",		"depressed":"depressed
+sad
+dejectedly
+, with low spirits
+, without fervor
+unpassionately
+sadly
+unhappily
+",		"defensive":"defensive
+~
+defensively
+protectively
+, trying to avoid criticism
+, at arm's distance
+",		"cynical":"cynical
+~
+cynically
+, being cynical
+, with scornful skepticism
+pessimistically
+",		"curious":"curious
+~
+curiously
+inquisitively
+, almost pryingly
+, eager to learn
+",		"cruel":"cruel
+~
+cruelly
+, intent on causing pain
+ferociously
+fiercely
+savagely
+",		"crude":"crude
+~
+crudely
+, in an earthy manner
+vulgarly
+, with coarse language
+tactlessly
+",		"coy":"coy
+~
+coyly
+demurely
+shyly, with a hint of playfulness
+over-modestly
+",		"courtly":"courtly
+~
+, in a courtly manner
+gallantly
+with a flourish
+with utmost politeness
+",		"content":"content
+happy
+contentedly
+, duly satisfied
+, with moderate happiness
+",		"confused":"confused
+~
+, confused
+, somewhat discombobulated
+, appearing slightly befuddled
+",		"confident":"confident
+~
+confidently
+, with self-assurance
+, with a strong sense of confidence
+",		"condescending":"condescending
+~
+condescendingly
+patronizingly
+, assuming an air of superiority
+",		"compassionate":"compassionate
+~
+compassionately
+, showing compassion
+, expressing sympathy
+humanely
+",		"cold":"cold
+~
+coldly
+aloofly
+, without enthusiasm
+, appearing emotionally distant
+, in an unfriendly manner
+",		"cocky":"cocky
+~
+cockily
+, overly self-confident
+, overly self-assertive
+, with a distinct cockiness
+",		"clinical":"clinical
+~
+clinically
+analytically
+objectively
+, devoid of emotion
+, as if scientifically detached 
+",		"casual":"casual
+~
+casually
+extemporaneously
+offhandedly
+, almost impulsively
+",		"careless":"careless
+~
+carelessly
+inconsiderately
+, without much forethought
+",		"careful":"careful
+~
+carefully
+cautiously
+, after due thought
+",		"callous":"callous
+~
+callously
+unfeelingly
+, sans any sense of empathy
+",		"brave":"brave
+~
+bravely
+courageously
+valiantly
+",		"bloodthirsty":"bloodthirsty
+~
+, bloodthirsty
+, eager for bloodshed
+bloodthirstily
+, with a cruelly ferocious demeanor
+",		"bitter":"bitter
+~
+bitterly
+, bitter
+cynically
+resentfully
+acrimoniously
+caustically
+, in a rancorous manner
+",		"disoriented":"disoriented
+~
+bewilderedly
+, having lost bearing
+, feeling disoriented
+, appearing slightly lost
+",		"approving":"approving
+~
+approvingly
+, approving
+, speaking favorably
+consentingly
+supportively
+",		"angry":"angry
+angry
+angrily
+, angry
+, filled with ire
+furiously
+",		"amused":"amused
+happy
+, amused
+, pleasantly entertained
+, appearing amused
+",		"amazed":"amazed
+~
+, amazed
+, in amazement
+incredulously
+, filled with wonder
+",		"absentminded":"absentminded
+~
+absentmindedly
+, showing preoccupation
+, lost in thought
+, deep in thought
+, heedless of the current situation
+"
+}}

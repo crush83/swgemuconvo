@@ -1,29 +1,5 @@
-[
-'27':'transmission_start',
-'26':'transmission_received',
-'25':'trans_update',
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_reachpoint_t',
-'18':'quest_reachpoint_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_defendpoint_t',
-'14':'quest_defendpoint_d',
-'13':'outofrange_failed',
-'12':'outofrange',
-'11':'mission_complete',
-'10':'found_loc',
-'9':'first_attack',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_loc',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/survival/corellia_privateer_tier3_2_a",
+	"entries": {
+		"transmission_start":"\#pcontrast3 CorSec Command: < \#pcontrast1 The assault waves are on your position now! \#pcontrast3 >",		"transmission_received":"\#pcontrast3 CorSec Command: < \#pcontrast1 We are detecting no more hyperspace surges. \#pcontrast3 >",		"trans_update":"Hang in there Pilot.",		"title_d":"Survive against the Black Sun assault",		"title":"Dathomir System: Survive the Black Sun Assault",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 CorSec Command: < \#pcontrast1 We're very impressed! Good work, pilot. Now that we have the weapons, we need get them to the proper facilities. We have a Lancer on its way out to meet you. \#pcontrast3 >",		"quest_update":"\#pcontrast3 < \#pcontrast1%TO \#pcontrast3 >",		"quest_reachpoint_t":"Battlepoint",		"quest_reachpoint_d":"Travel to this point for the confrontation, it will keep the whole attacking fleet from assaulting at once",		"quest_location_t":"Dathomir System",		"quest_location_d":"An area of near disorder near the planet of Dathomir",		"quest_defendpoint_t":"Survive",		"quest_defendpoint_d":"You must survive the onslaught over a period of several minutes",		"outofrange_failed":"\#pcontrast3 Tactical Computer: < \#pcontrast1 The Black Sun have detected our movements and are breaking the ambush, our mission has failed. \#pcontrast3 >",		"outofrange":"\#pcontrast3 Tactical Computer: < \#pcontrast1 You are leaving the ambush area, stay on target. \#pcontrast3 >",		"mission_complete":"\#pcontrast3 CorSec Command: < \#pcontrast1 That appears to be the last of them. \#pcontrast3 >",		"found_loc":"\#pcontrast3 CorSec Command: < \#pcontrast1 Excellent, the counter attack has been scrambled.  Go to this position, it will cause the attack craft to make multiple jumps and stagger the assault. \#pcontrast3 >",		"first_attack":" \#pcontrast3 Tactical Computer: < \#pcontrast1 Hyperspace surge detected. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":" \#pcontrast3 Tactical Computer: < \#pcontrast1 Scanning... No enemies detected in system. Scanning ... \#pcontrast3 >",		"attack_notify":" \#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy ships detected on attack vector. \#pcontrast3 >",		"assigned_delayed":"",		"arrived_at_loc":"\#pcontrast3 CorSec Command: < \#pcontrast1 Enemy ships dropping out of hyperspace.  Stay at this location at all costs \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

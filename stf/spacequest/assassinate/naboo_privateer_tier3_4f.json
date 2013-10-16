@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_privateer_tier3_4f",
+	"entries": {
+		"title_d":"Destroy the final Black Sun operative",		"title":"Lok System: Destroy the Black Sun Operative",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"%TO",		"quest_target_t":"Krayts Bane",		"quest_target_d":"A dangerous Black Sun Assassin",		"quest_location_t":"Lok System",		"quest_location_d":"An area of known Black Sun activity",		"quest_escort_t":"Black Sun Pirates",		"quest_escort_d":"Destroy these pirates so that they will not finish the task their leaders set out to do",		"failed_escape":"\#pcontrast3 RSF Command: < \#pcontrast1 The assassin has escaped. Your mission, is a failure. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Escort craft has been destroyed. %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Primary target has been destroyed.  Proceed to secondary objective. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 RSF Command: < \#pcontrast1 Good job, it seems to me that they are just about out of Assasins.  I imagine we won't be hearing from the Blacksun for some time now. Return to base.\#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 RSF Command: < \#pcontrast1 No survivors. Repeat, leave no survivors. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 RSF Command: < \#pcontrast1 Glad you made it out of that mess.  An attack fleet was detected entering Lok Space 15 minutes ago.  They are following the pattern derived from the intercepted transmission.  This operative goes by the name of 'Krayt's Bane'. Good luck. \#pcontrast3 >"
+}}

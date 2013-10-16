@@ -1,11 +1,56 @@
-[
-'9':'link_skillwindow',
-'8':'skilltrainers',
-'7':'skillpoints',
-'6':'skillboxes',
-'5':'skills',
-'4':'experiencetypes',
-'3':'experienceearning',
-'2':'experience',
-'1':'advancement',
-]
+{
+	"stfFile":"kb/kb_advancement_d",
+	"entries": {
+		"link_skillwindow":"Skill Window Details",		"skilltrainers":"Skill Trainers are NPCs (Non-Player Characters) that can train you in a specific profession. 
+
+Most of the Starting Profession trainers can be found in every city, in a couple of locations, whereas the Advanced Profession trainers might be a bit harder to locate. Most often trainers can be found in the streets or in their respective guildhalls. Using your map to find the guildhalls, or using the /find command in game, will greatly assist in this process.
+
+NPC Trainers will require that you have the necessary experience requirements to train in a skill box, (Novice boxes have no experience requirements), and they will also have a monetary requirement to train as well.
+
+Choosing the "Converse" option, from your radial menu, on a skill trainer will initiate the conversation necessary to train at that trainer.
+",		"skillpoints":"Skill Points are a set number of points that everyone starts out with from character creation and is never altered. 
+
+These points, totaling 250, are the number of points that the player can use to allot to skills for that character, and are viewable in the Skills Interface (CTRL-S) at the bottom. 
+
+As the player trains in skills, this number is subtracted from 250 until it hits zero and then the player can no longer add any more skills to that character unless they "surrender" skills to free up more points. The skill point meter in the Skills Interface shows how many points you have remaining out of the 250 total points, (XXX/250).
+
+Different skills have different skill point requirements. The level or complexity of the skill box does not make the skill cost more or less to train, however the Novice skill boxes are typically the most costly.
+",		"skillboxes":"Skill boxes are found in the Skills Interface, (CTRL-S). As you earn experience in a skill you eventually have enough to train in the next skill box. 
+
+Training in a skill box comprises of having met the requirements for that box, which always means having the necessary experience that the skill requires. If you decide that you wish to train at an NPC trainer, you will also need to provide the necessary credits to train in a particular skill box. Your other option would be to allow another player to "teach" you that skill box. The player that teaches you can either do it for free, or ask for money. It's up to you to work out a deal with them. Either way, you will need to have the necessary experience the particular skill box requires in order to train in it.
+
+By clicking on the skill box in the Skills Interface, you can see what skills, certifications, or schematics are granted to you when you have successfully trained in that particular skill. For instance, if an artisan elects to train in "Surveying I", he receives a wider range at which he can survey for resources whereas only having "Novice Artisan" will grant him a lower range for finding the resources he needs.
+
+Hovering your mouse over a skill box that you have not yet attained, in the Skills Interface, will tell you how many experience points you need to be eligible for that box and how many you currently have. This is very handy information to know as it directly relates to your character's progression in the Star Wars universe.
+
+A profession, whether it be a Starting Profession or an Advanced Profession, is made up of skill boxes that are strung together to make what we call the "Skill Onion". The onion, comprised of the Novice Skill box at the bottom, the Master Skill box at the top, with 4 branches of 4 boxes each in the middle, all require time and effort to achieve. The basic skill boxes at the bottom are typically the easiest to get with the lowest experience and monetary costs. As you move up the skill onion, however, the costs become greater and greater.
+",		"skills":"The Determining factor of what kind of character you have is what kind of skills they possess. If you are a combat oriented character, you most likely have some sort of weapon skills. On the other hand, if you are an Architect, you most definitely have skills relating to crafting. 
+
+Star Wars Galaxies is a skill-based character progression game, meaning there are no character "levels". Your character progresses solely on the use of skills to get better at those skills, and nothing more.
+
+See the sub menus below to learn more about skill boxes, skill points and skill trainers. 
+",		"experiencetypes":"As mentioned before there are different types of experience for different types of skills.
+
+To earn combat experience in a certain weapon, you need to use that weapon in combat and successfully defeat creatures. When you do this, you will earn weapon experience as well as general combat experience.
+
+Crafting experience is earned when you successfully craft an item, and then have someone use that item for X amount of time. At lower levels, you get more experience granted to you at the time of item creation than from its long time use. As you get into the higher levels of crafting, your experience allotment leans more towards the long time usage and less for the actual creation of the item.
+
+To earn healing experience, you need to successfully heal pool damage (Mind, Action, and Health), or successfully heal wounds on other players. Unfortunately, healing yourself will not grant you experience.
+
+Entertainer experience is earned by either dancing or playing an instrument while someone, who needs healing, chooses to "Watch" you dance or "Listen" to you play. "Watch" and "Listen", among other choices, are able to be selected through your radial menu (please see the appropriate section for more information on "radial menus"). This must be done inside a Cantina, Hotel, or Theater. As you slowly heal them, you earn small ticks of entertainer experience over time.
+",		"experienceearning":"Experience is only granted to you when you successfully do something in a particular skill. For instance, to get Surveying experience, you have to successfully perform a survey for resources. When this is done, you will get a message telling you how much Surveying experience you have been granted. You can't get Pistol experience from using a survey tool; you need to use your pistol in combat.
+
+Different skills require that you earn your experience in different ways. For instance, any of the Artisan professions, (crafters), only get part of their experience from actual crafting. The remainder of their experience is granted to them slowly over time, as their item is used. This is called "Usage Experience". There will be more about the different experience types in the sub category "Experience Types".
+
+As you continually succeed in surveying or using your pistol, you will notice that the experience points are accumulated in your Skills Interface (CTRL-S). When you get enough experience of a certain type, you will get a system message telling you that you have become eligible to train in a higher level skill box than you currently have. This is what earning experience is all about.
+",		"experience":"Experience is tallied in points and is awarded to the player after they have performed certain tasks. The amount of experience points awarded is presented to the player on their screen as a system message.
+
+Experience granted is only directly relative to the type of task that has just been successfully completed.
+
+See the sub menus below for more details on how to earn experience, and the different types of experience.
+",		"advancement":"Advancement in Star Wars Galaxies refers to gaining experience for completing certain tasks and training in skill boxes in order to get closer to the Master level of your desired profession. 
+
+See the sub menus below for more information about how character advancement works in Star Wars: Galaxies.
+
+"
+}}

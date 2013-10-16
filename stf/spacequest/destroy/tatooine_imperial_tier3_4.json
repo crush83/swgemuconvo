@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/tatooine_imperial_tier3_4",
+	"entries": {
+		"title_d":"We have a lock on the Rebel command vessel, but the time has not yet come to attack it. We still do not know exactly what the Rebels are doing in this system. But command wants to start culling the number of Rebels in the sector. Search the Endor system and destroy ten Rebel fighters.",		"title":"Endor System: Seek and Destroy Ten Rebel Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"We have a situation here! Our Imperial Command shuttle is under heavy assault. Immediately proceed to the following location and intercept the attacking fighters.",		"quest_location_t":"Travel to the Endor System",		"quest_location_d":"Find the rebel fighters in the Endor system.",		"quest_destroy_t":"Destroy Ten Rebel Fighters",		"quest_destroy_d":"Search the Endor system and destroy ten Rebel fighters. Any standard Rebel X-Wing, Y-Wing, A-Wing, or B-Wing will do.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,28 +1,5 @@
-[
-'26':'transmission_start',
-'25':'transmission_received',
-'24':'trans_update',
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_reachpoint_t',
-'17':'quest_reachpoint_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_defendpoint_t',
-'13':'quest_defendpoint_d',
-'12':'outofrange_failed',
-'11':'outofrange',
-'10':'mission_complete',
-'9':'found_loc',
-'8':'first_attack',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_loc',
-]
+{
+	"stfFile":"spacequest/survival/talus_station_mission4_1",
+	"entries": {
+		"transmission_start":"Transport hyperdrive undergoing repairs.",		"transmission_received":"Transport hyperdrive repairs complete.",		"trans_update":"Transport hyperdrive repair status: %DI% complete",		"title_d":"Your next assignment is to meet a transport in the Naboo system to receive a package for delivery.",		"title":"Naboo System: Pick Up Package From the Transport",		"split_quest_alert_fail":"",		"split_quest_alert":"Dock with the transport.",		"quest_update":"Talus Station: < %TO >",		"quest_reachpoint_t":"Meet With the Drop-off Ship",		"quest_reachpoint_d":"Travel to the specified location and await the arrival of the drop-off ship.",		"quest_location_t":"Remain in the Naboo System",		"quest_location_d":"You must meet the transport in the Naboo system.",		"quest_defendpoint_t":"Remain at This Location",		"quest_defendpoint_d":"The transport is experiencing hyperdrive difficulties. You must remain at this location until the transport arrives. If attacked, you may defend yourself, but do not leave this area.",		"outofrange_failed":"Talus Station: < You've gone out of range from the transport jump location. They will likely be boarded by the Empire. We're scrapping this mission. >",		"outofrange":"Talus Station: < Be careful. You are moving too far away from the transport jump location. >",		"mission_complete":"Talus Station: < The transport's hyperdrive is repaired. They should be arriving any second now. >",		"found_loc":"Navigation waypoint uploaded. Another standard pickup. Travel to this location and await the arrival of the transport.",		"first_attack":"The Imperial Navy has been monitoring our communications! They have sent an attack wing to intercept you. Defend yourself, but do not leave this area until the transport arrives.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < Enemy threat neutralized. >",		"attack_notify":"Tactical Computer: < Enemy craft inbound. Imperial signatures detected. >",		"assigned_delayed":"",		"arrived_at_loc":"The transport's arrival has been delayed due to hyperdrive malfunctions. You must remain within range of this location until the transport arrives. Do no leave this area."
+}}

@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_rebel_tier3_1_b",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"An Imperial patrol has spotted you! Destroy them quickly before they find our fleet!",		"title":"Yavin system: Destroy the Imperial patrol.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < An Imperial scout patrol has spotted you! They can not be allowed to escape! >",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,25 +1,155 @@
-[
-'23':'warning_sign',
-'22':'inquisitor_letter',
-'21':'core_control_rod_s02',
-'20':'core_control_rod_s01',
-'19':'turret_sequence',
-'18':'experiment_terminal',
-'17':'evidence_terminal_s04',
-'16':'evidence_terminal_s03',
-'15':'evidence_terminal_s02',
-'14':'evidence_terminal_s01',
-'13':'reactor_core',
-'12':'passkey_s04',
-'11':'passkey_s03',
-'10':'passkey_s02',
-'9':'passkey_s01',
-'8':'farewell_letter',
-'7':'warren_evidence_04',
-'6':'warren_evidence_03',
-'5':'computer_terminal',
-'4':'warren_evidence_02',
-'3':'warren_evidence_01',
-'2':'warren_encryption_key',
-'1':'core_rod_storage',
-]
+{
+	"stfFile":"warren_item_d",
+	"entries": {
+		"warning_sign":"A large sign stands next to the doorway with an illuminated inscription, reading:
+
+"WARNING-- due to the potentially dangerous nature of the droids created in this sector, an automatic turret secures the exit to this elevator.  To disable it, speak the passcode to the terminal in Room 201A (adjacent to the Droid Lab)."",		"inquisitor_letter":"This data disk contains a confidential Imperial communication.",		"core_control_rod_s02":"A reactor core control rod.",		"core_control_rod_s01":"A reactor core control rod.",		"turret_sequence":"This data disk has some letters etched on the outside casing.",		"experiment_terminal":"This terminal has been left active. There is a message on it which reads:
+
+Experiment # 1433
+
+Purpose: Vehicular cyborg initial experiments
+
+Approval Code: NOT APPROVED
+
+Project Status: Complete
+
+Notes: 
+First experiments regarding the implatation of an organic brain into a moderately large vehicle were successful, but the results were not as was hoped. The massive creature's brain that was used was resistant to cyborg technology, and even after sufficient modification, it was reluctant to accept commands from the Control Device. However, when it was under our control the brain did seem capable of maneuvering the All-Terrain Scout Transport sufficiently.
+
+The product of this experiment is deemed NOT SUITABLE for combat purposes, but further study into this branch of the project is recommended.",		"evidence_terminal_s04":"This terminal has been left active. There is a message on it which reads:
+
+NOTE: Choose 'download' from menu to download this message to disk --
+
+Personal Log of Bors Teraud -
+
+Entry 1784:
+
+The construction of my cyborg army continues, I was beginning to run out of "volunteers". I must remember to thank the Emperor for sending me so many soldiers that are willing to be killed by my men, only to be revived into my cyborg army!
+
+Before long, even the Emperor will recognize the might of my army and bow before me. All will see that the ability of the Force is insignificant next to the power of a centralized brain that can control armies of creatures and droids. And I will be immortal with a mechanical body that never dies...
+
+...unlike that pesky Imperial Inquisitor. I trust that she realized the power of my cyborgs only seconds before the one I sent to her cell struck her down.",		"evidence_terminal_s03":"This terminal has been left active. There is a message on it which reads:
+
+NOTE: Choose 'download' from menu to download this message to disk --
+
+Experiment # 1230
+
+Purpose: Test cyborg stability and stamina. Determine project feasibility.
+
+Approval Code: NOT APPROVED
+
+Project Status: Complete
+
+Notes: 
+Twenty unique sentient cyborg types were tested in physical capability and combat aptitude and compared to the Imperial standard for the Stormtrooper. The cyborgs uniformly displayed skills that were slightly less than average to that of the common Stormtrooper. The complete results can be found in the main compound computer.
+
+However, the cost of creating and maintaining a cyborg is far less expensive than the training and salary for a Stormtrooper. It is deemed that the monetary gain outweighs the decrease in combat ability. Additionally, it is possible that new cyborgs can be created from fresh corpses, yielding a potentially endless supply of soldiers.
+
+Recommend that the project move
+
+// Transfer interrupted.",		"evidence_terminal_s02":"This terminal has been left active. There is a message on it which reads:
+
+NOTE: Choose 'download' from menu to download this message to disk --
+
+Experiment # 1173
+
+Purpose: Remove creature brains, modify for implantation into a droid.
+
+Approval Code: NOT APPROVED
+
+Project Status: Complete
+
+Notes: 
+Creature brains have been removed and modified with cybernetic implants that allow transmission of electro-kinetic activity directy to a series of servo-motors (such as the type that are found in many types of droids). The results of this experiment fall along the projected outcomes; a decrease in the drain from the power supply, and a slight increase in subject response time. It should be noted that the organic brain cannot entirely replace only a portion of the central computer of the droid. A minor amount of damage control and visual feedback is left to the core processing unit. The success rate of this procedure is approximately one out of three.
+
+Results indicate that further experiments using larger droids or possibly vehicles may be
+
+// Transfer interrupted.",		"evidence_terminal_s01":"This terminal has been left active. There is a message on it which reads:
+
+NOTE: Choose 'download' from menu to download this message to disk --
+
+Experiment # 1046
+
+Purpose: Remove creature brains, modify with cyborg technology, and replace.
+
+Approval Code: NOT APPROVED
+
+Project Status: Complete
+
+Notes: 
+The experiment is complete, and was a moderate success. The brains of the animals that were collected from several different planets were removed and infused with cyborg technology developed here in the compound. Replacing the brains within the creatures was somewhat more difficult than expected, but recovery time fell within the established parameters. Device control is operating at 94% effectiveness, although an increased display of aggression has been observed. Recommend an official plan be drafted for containment of these creatures in the event of failure of the
+
+// Transfer interrupted.",		"reactor_core":"This container is designed to provide safe access for inserting core control rods into the reactor core. Two core control rods can be inserted at any one time. Foreign objects should not be placed in the reactor core.",		"passkey_s04":"A passkey.",		"passkey_s03":"A passkey.",		"passkey_s02":"This passkey is labeled with the words, "Master Control Room".",		"passkey_s01":"This passkey opens the door to the main access hall of the Warren.",		"farewell_letter":"A moving farewell letter written by an Imperial worker, now deceased, to his wife.",		"warren_evidence_04":"The data on this disk was downloaded from a terminal in the Warren. The information reads as follows:
+
+Personal Log of Bors Teraud -
+
+Entry 1784:
+
+The construction of my cyborg army continues, I was beginning to run out of "volunteers". I must remember to thank the Emperor for sending me so many soldiers that are willing to be killed by my men, only to be revived into my cyborg army!
+
+Before long, even the Emperor will recognize the might of my army and bow before me. All will see that the ability of the Force is insignificant next to the power of a centralized brain that can control armies of creatures and droids. And I will be immortal with a mechanical body that never dies...
+
+...unlike that pesky Imperial Inquisitor. I trust that she realized the power of my cyborgs only seconds before the one I sent to her cell struck her down.",		"warren_evidence_03":"The data on this disk was downloaded from a terminal in the Warren. The information reads as follows:
+
+Experiment # 1230
+
+Purpose: Test cyborg stability and stamina. Determine project feasibility.
+
+Approval Code: NOT APPROVED
+
+Project Status: Complete
+
+Notes: 
+Twenty unique sentient cyborg types were tested in physical capability and combat aptitude and compared to the Imperial standard for the Stormtrooper. The cyborgs uniformly displayed skills that were slightly less than average to that of the common Stormtrooper. The complete results can be found in the main compound computer.
+
+However, the cost of creating and maintaining a cyborg is far less expensive than the training and salary for a Stormtrooper. It is deemed that the monetary gain outweighs the decrease in combat ability. Additionally, it is possible that new cyborgs can be created from fresh corpses, yielding a potentially endless supply of soldiers.
+
+Recommend that the project move
+
+// Download interrupted.",		"computer_terminal":"This terminal has been left active. There is a message on it which reads:
+
+MEMORANDUM
+
+To: Research Staff
+
+From: Colonel Bors Teraud
+
+Re: Experimentation on sentient species
+
+Our recent experiments in the creature laboratories have shown excellent promise, and I believe that we can move forward to the next phase of our research. The studies that have been conducted show that the Device that is currently used to harness the cyborg creatures can be modified to also control cyborgs created from sentient beings.
+
+Doctor Knag wish to begin experiments along these lines as quickly as possible, but we will need test subjects. I will inquire amongst my loyal officers to see if there are any volunteers, but until then we may wish to "acquire" some subjects from the Worker's Quarters on the first floor. I doubt anyone will miss them.
+
+Keep me posted on any developments.
+
+// Message ends.",		"warren_evidence_02":"The data on this disk was downloaded from a terminal in the Warren. The information reads as follows:
+
+Experiment # 1173
+
+Purpose: Remove creature brains, modify for implantation into a droid.
+
+Approval Code: NOT APPROVED
+
+Project Status: Complete
+
+Notes: 
+Creature brains have been removed and modified with cybernetic implants that allow transmission of electro-kinetic activity directy to a series of servo-motors (such as the type that are found in many types of droids). The results of this experiment fall along the projected outcomes; a decrease in the drain from the power supply, and a slight increase in subject response time. It should be noted that the organic brain cannot entirely replace only a portion of the central computer of the droid. A minor amount of damage control and visual feedback is left to the core processing unit. The success rate of this procedure is approximately one out of three.
+
+Results indicate that further experiments using larger droids or possibly vehicles may be
+
+// Download interrupted.",		"warren_evidence_01":"The data on this disk was downloaded from a terminal in the Warren. The information reads as follows:
+
+Experiment # 1046
+
+Purpose: Remove creature brains, modify with cyborg technology, and replace.
+
+Approval Code: NOT APPROVED
+
+Project Status: Complete
+
+Notes: 
+The experiment is complete, and was a moderate success. The brains of the animals that were collected from several different planets were removed and infused with cyborg technology developed here in the compound. Replacing the brains within the creatures was somewhat more difficult than expected, but recovery time fell within the established parameters. Device control is operating at 94% effectiveness, although an increased display of aggression has been observed. Recommend an official plan be drafted for containment of these creatures in the event of failure of the
+
+// Download interrupted.
+",		"warren_encryption_key":"This datadisk contains an encryption key that was downloaded from the Device Control Room in the Warren. Most likely this is used to decode a useful piece of relevant information.",		"core_rod_storage":"A storage device used to contain reactor control rods for long durations. This type of container can hold only one core rod at a time."
+}}

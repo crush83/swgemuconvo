@@ -1,30 +1,5 @@
-[
-'28':'default',
-'27':'return_waypoint_description_1',
-'26':'return_waypoint_name_1',
-'25':'waypoint_description_1',
-'24':'waypoint_name_1',
-'23':'player_sorry',
-'22':'player_reset',
-'21':'player_5_1',
-'20':'player_4_1',
-'19':'player_3_1',
-'18':'player_2_1',
-'17':'player_1_1',
-'16':'npc_work_1',
-'15':'npc_reward_1',
-'14':'npc_reset',
-'13':'npc_noloc_1',
-'12':'npc_failure_1',
-'11':'npc_backtowork_1',
-'10':'npc_6_1',
-'9':'npc_5_1',
-'8':'npc_4_1',
-'7':'npc_3_1',
-'6':'npc_2_1',
-'5':'npc_1_1',
-'4':'notyet',
-'3':'notit_1',
-'2':'next',
-'1':'cant_work',
-]
+{
+	"stfFile":"spawning/static_npc/tusken_village_quest_npc",
+	"entries": {
+		"default":"",		"return_waypoint_description_1":"Return and inform Tolan Nokkar that the Tusken King has fallen.",		"return_waypoint_name_1":"Tolan Nokkar",		"waypoint_description_1":"This village is currently overrun with Tusken Raiders.",		"waypoint_name_1":"Pillaged village",		"player_sorry":"I think I can help you now.",		"player_reset":"I don't think I can handle this job.",		"player_5_1":"",		"player_4_1":"",		"player_3_1":"I'm so sorry. Is there anything I can do to help?",		"player_2_1":"Sorry, I don't think I can handle that right now.",		"player_1_1":"I will try to help. I'll go to your village and see what I can do.",		"npc_work_1":"Have you killed them yet? Have you killed their "King."",		"npc_reward_1":"He's dead? We are forever in your debt. The survivors of our village has gathered what we could to show our appreciation for your heroism. It's not much, but all we have, please accept it.",		"npc_reset":"Well, thanks for trying! Maybe you can come back when you are more capable.",		"npc_noloc_1":"I'm uh.. wait.. no.. Uh.. Come back later.",		"npc_failure_1":"You are pathetic! You couldn't kill a one legged wamp rat without getting knocked down!",		"npc_backtowork_1":"They are still in the village, won't you do something?!?",		"npc_6_1":"",		"npc_5_1":"",		"npc_4_1":"They're still in the village, looting and burning our homes! Tuskens are cowards when faced with a strong foe though. If you could take out their leader, they won't stand when we take back what is ours!",		"npc_3_1":"Nobody cares about anyone but themselves anymore! If you can't help, you should just get out of here!",		"npc_2_1":"Thank you! Thank you!",		"npc_1_1":"Our village has been attacked by Tusken Raiders! It was horrible, so many of my friends fell so swiftly, so few of us got away...",		"notyet":"I'm sorry, I can't speak with you just yet...",		"notit_1":"Hm...that's not exactly what I was looking for.",		"next":"Thanks to your brave efforts, we are about ready to move back in. Just planning our attack on the remaining Tusken Raiders. Thank you again for all your invaluable help.",		"cant_work":"Looks like you've got a full plate already. Maybe you should come back later."
+}}

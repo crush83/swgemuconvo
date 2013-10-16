@@ -1,40 +1,43 @@
-[
-'38':'jh_aq138',
-'37':'jh_aq137',
-'36':'jh_aq136',
-'35':'jh_aq135',
-'34':'jh_aq134',
-'33':'jh_aq133',
-'32':'jh_aq132',
-'31':'jh_aq131',
-'30':'jh_aq130',
-'29':'jh_aq129',
-'28':'gp10',
-'27':'jab10',
-'26':'gp09',
-'25':'jab09',
-'24':'pl08',
-'23':'pl07',
-'22':'gp08',
-'21':'jab08',
-'20':'gp07',
-'19':'jab07',
-'18':'gp06',
-'17':'jab06',
-'16':'gp05',
-'15':'jab05',
-'14':'pl06',
-'13':'pl05',
-'12':'pl04',
-'11':'pl03',
-'10':'gp04',
-'9':'jab04',
-'8':'gp03',
-'7':'jab03',
-'6':'pl02',
-'5':'pl01',
-'4':'gp02',
-'3':'jab02',
-'2':'gp01',
-'1':'jab01',
-]
+{
+	"stfFile":"jabba_advanced_quest_1",
+	"entries": {
+		"jh_aq138":"The Mighty Jabba is very impressed! For your trouble, you have been awarded a RANCOR PIT that may be installed in your association hall. Jabba hopes that it serves you well, and he bids you return to the palace when you are interested in more work.
+",		"jh_aq137":"What a vicious display of combat prowess! Valarian's losses are legendary! Bib Fortuna was right, you are truly my kind of scum. For this accomplishment, you and your friends will be awarded a RANCOR PIT! Return to the palace when you can and I will give you more lucrative tasks.
+",		"jh_aq136":"Oh dear! Hide me, please! We were followed on our way here. A huge gang of Valarian's thugs are coming right now!
+",		"jh_aq135":"Your contact is waiting outside!
+",		"jh_aq134":"Great Jabba wishes that you go to your association hall on <Planet Name> and wait for Scrib Leras to arrive. There, we will hide him - while you defend him against attack from Valarian's enforcers. Jabba bids you make haste to your association hall.
+",		"jh_aq133":"We will hide Scrib Leras at your association hall on <Planet Name>. Go there now! When he arrives, you and your comrades must protect him until I send further instructions. If I know Valarian she will send MOST of her forces to recapture this little snake...
+",		"jh_aq132":"The all-powerful Jabba no longer wishes you to bring Scrib Leras back to the palace. He will send a transport to your location, instead. Protect him from Valarian's soldiers if they find you.
+",		"jh_aq131":"It is too dangerous for you to bring Scrib Leras to the palace. I will send a transport to your location. Protect him if Valarian's soldiers show up.
+",		"jh_aq130":"Go to Vurs Kavak's location, free the bookkeeper and await further instructions!
+",		"jh_aq129":"Blast! That bookkeeper must be more valuable than I originally believed. Vurs Kavak is an interrogator - the most vile extractors in the Outer Rim. Go to Kavak's location, liberate the bookkeeper and await further instructions!
+",		"gp10":"Only the Hutts can offer reliable protection here on Tatooine. Out in the open, Scrib Leras would be immediately arrested by the Empire and sent to work in the mines... or worse.
+",		"jab10":"You think he would run to the Empire?
+",		"gp09":"The bookkeeper Scrib Leras made an error that cost Valarian a great deal of hardship. She is incapable of forgiveness - and thus the death mark was given. This shows how inferior she is when compared to the all-powerful Jabba.
+",		"jab09":"I hear that this bookkeeper made an accounting error that cost Valarian four or five credits. She put a death mark on him because she confuses leadership with villainy. She will never inspire people as I do.
+",		"pl08":"Why would the bookkeeper run to the Hutts for protection?
+",		"pl07":"Why did Valarian put a death mark on his head?
+",		"gp08":"The Great Jabba believes that this bookkeeper may have important information about Valarian's activities - since he came to our Hutt friends for sanctuary. Should he have valuable information, we want it. Otherwise, we have no need of him.
+",		"jab08":"Scrib Leras the bookkeeper ran to the Hutts when Valarian put a death mark on his head. It would appear that he knows something important. If he does not - then we'll throw him back to Valarian... as one throws a bone to a Narglatch.
+",		"gp07":"Lady Valarian is an enemy of the Hutts. She plots to overthrow Jabba someday - but Jabba is not concerned. She does not have the power to damage our operations on Tatooine... or anywhere else.
+",		"jab07":"Lady Valarian thinks she has a great criminal mind and that one day she will overtake this palace and put me to death. In truth, she is an arrogant coward... nothing more than a deluded parasite.
+",		"gp06":"Jabba respects your decision, and asks that you leave now and return when you are better prepared.
+",		"jab06":"I heard you, moron. Now get out of here! Come back when you've learned some respect!
+",		"gp05":"The Mighty Jabba wishes you fair weather and good fortune on your quest. And please do return with haste!
+",		"jab05":"I will be surprised if this ignorant fool survives the trip...
+",		"pl06":"What does the all-powerful Jabba want with a bookkeeper?
+",		"pl05":"Who is Lady Valarian?
+",		"pl04":"Maybe you didn't hear me. I'm not interested.
+",		"pl03":"I will find Scrib Leras for you. Goodbye.
+",		"gp04":"But Jabba insists that you do this favor. And, I beg you to comply. Go to the Dune Sea, find the safe-house and retrieve a human named Scrib Leras. Bring him back to the palace... please!
+",		"jab04":"WHAT! Insolent bantha fodder! You ARE ready. Go to our safe-house in the Dune Sea. Find the human Scrib Leras and bring him to me. He was once the bookkeeper for Lady Valarian - an old enemy of mine.
+",		"gp03":"His Greatness asks that you travel to the Dune Sea and retrieve a human named Scrib Leras. Convey him safely to the palace and you will be rewarded.
+",		"jab03":"Good. You will travel to a safe-house in the Dune Sea. There you will find the human called Scrib Leras. He used to be a bookkeeper for my long-time enemy, Lady Valarian. He has decided to work me now.
+",		"pl02":"No. I am not ready yet.
+",		"pl01":"Yes, I am ready.
+",		"gp02":"The Mighty Jabba welcomes you again and asks if you are now ready for work.
+",		"jab02":"So, fool - have you learned respect? Are you ready to work for me?
+",		"gp01":"The Great Jabba bids you welcome. He is very impressed with your abilities, and asks if you would perform a simple task for him.
+",		"jab01":"Ah... new scum. I can put you to work right away... if you're not a coward.
+"
+}}

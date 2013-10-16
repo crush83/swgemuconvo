@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_privateer_tier3_3d",
+	"entries": {
+		"title_d":"Destroy the Black Sun attack group",		"title":"Dantooine System: Destroy the Black Sun attack group",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Black Sun Gunboat",		"quest_target_d":"Priority target from this group",		"quest_location_t":"Dantooine System",		"quest_location_d":"An unknown location of Dantooine Space",		"quest_escort_t":"Black Sun Fighters",		"quest_escort_d":"Finish off all Black Sun craft in the area",		"failed_escape":"\#pcontrast3 CorSec Command: < \#pcontrast1 The attack group got away, this is no good. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Primary objective destroyed, finish off any escort. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 CorSec Command: < Excellent work Captain, they never saw it coming.  Return to base. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Black Sun  craft have exited hyperspace. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Warning, massive hyperspace signature detected. \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

@@ -1,6 +1,5 @@
-[
-'95':'spent_x_amount_for_ticket',
-'94':'not_enough_prestige',
-'93':'not_correct_faction_group',
-'92':'not_correct_faction_single',
-]
+{
+	"stfFile":"space/space_battlefields",
+	"entries": {
+		"spent_x_amount_for_ticket":"You have spent %DI of %TO to enter this battlefield.",		"not_enough_prestige":"You do not have enough %TO to enter this zone. You need %DI.",		"not_correct_faction_group":"You cannot sign up with this faction because a player in your ship is of the opposing faction.",		"not_correct_faction_single":"You cannot sign up with this faction as you are an enemy faction."
+}}

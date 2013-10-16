@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/stn_endor_irs_imp_tier3_3b",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Blacklight Assassins taking exception to your intrusion in the area of the Onyx Beacon have come do drive you away.",		"title":"Endor System: A Shade of Onyx",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Endor Station: \#pcontrast1 The next stop is the Linear Miasma, updating waypoint now. \#pcontrast3 >",		"leave_early":"\#pcontrast3 Blacklight: < \#pcontrast1 This one is not worth our efforts, lets get out of here. \#pcontrast3 >",		"complete":"The Blacklight Assassins have been defeated.",		"assigned_delayed":""
+}}

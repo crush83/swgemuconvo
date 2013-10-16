@@ -1,5 +1,5 @@
-[
-'4':'failed_items_disallowed',
-'3':'failed_subject',
-'2':'failed_jedi',
-]
+{
+	"stfFile":"character_transfer",
+	"entries": {
+		"failed_items_disallowed":"Character transfer failed because one or more items in the character inventory are not permitted to transfer. Factory crates and resource containers are examples of items that will not transfer. Refer to the terms of service for a definitive list of which items will not transfer.",		"failed_subject":"Character transfer failed!",		"failed_jedi":"Transfer of your character failed. Jedi characters are not allowed to transfer."
+}}

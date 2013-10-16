@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/tatooine_imperial_tier4_1_c",
+	"entries": {
+		"title_d":"During the battle, a Rebel A-wing scout was noticed in the area. This scout might have valuable information about the Rebel goals in this system. Disable and inspect the scout's databanks for any information on the Rebels intentions.",		"title":"Endor System: Inspect the Rebel A-wing Scout",		"split_quest_alert_fail":"",		"split_quest_alert":"Get that information back to headquarters immediately.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"The Rebel A-wing scout is still located inside the Endor system. A navigation waypoint to its most recent location will be supplied to you.",		"quest_inspect_t":"Inspect the Rebel A-wing Scout",		"quest_inspect_d":"Intercept, disable, and inspect the Rebel A-wing scout's databanks.",		"quest_dock_t":"Transfer the Sector Maps and Battle Plans",		"quest_dock_d":"Once you found the sector maps, dock with the disabled scout, and transfer those maps to your craft.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

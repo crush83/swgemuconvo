@@ -1,19 +1,5 @@
-[
-'17':'msg_phase_02_got_crate',
-'16':'msg_phase_01_quest_error_theater_fail',
-'15':'msg_phase_02_quest_fail_incap',
-'14':'msg_phase_01_quest_fail_logout',
-'13':'msg_phase_01_quest_fail_incap',
-'12':'msg_phase_01_quest_error_aborted',
-'11':'msg_phase_02_quest_error_aborted',
-'10':'msg_phase_02_quest_fail_phase_done',
-'9':'msg_phase_02_quest_failed',
-'8':'msg_phase_02_quest_continue',
-'7':'msg_phase_02_quest_finished',
-'6':'msg_phase_02_find_theater_waypoint',
-'5':'msg_phase_01_quest_fail_phase_done',
-'4':'msg_phase_01_quest_failed',
-'3':'msg_phase_01_quest_continue',
-'2':'msg_phase_01_quest_finished',
-'1':'msg_phase_01_find_theater_waypoint',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_reflex",
+	"entries": {
+		"msg_phase_02_got_crate":"Upon reaching the wreckage of a crashed transport, you pick up a crate of supplies from the debris. It appears to be the only cargo still in usable condition.",		"msg_phase_01_quest_error_theater_fail":"It looks like the Sith Shadows made a camp here, but have since packed up and left. You find a new set of tracks leading off into the distance...",		"msg_phase_02_quest_fail_incap":"Quest Failure: You have been incapacitated. The crate of supplies you were carrying has been destroyed. You should return to Aurilia and speak with Whip to continue.",		"msg_phase_01_quest_fail_logout":"Quest Failure: You have logged out and aborted your attempt to rescue the captured villager. You should return to Aurilia and speak with Whip to continue.",		"msg_phase_01_quest_fail_incap":"Quest Failure: You have been incapacitated, your attempt to rescue the captured villager has failed. You should return to Aurilia and speak with Whip to continue.",		"msg_phase_01_quest_error_aborted":"An error has occurred while transmitting to your datapad.",		"msg_phase_02_quest_error_aborted":"An error has occurred while transferring the emergency beacon location to your datapad.",		"msg_phase_02_quest_fail_phase_done":"You have failed to retrieve the supplies for the village of Aurilia in a timely manner. The supplies are presumed lost and the retrieval operation has been aborted.",		"msg_phase_02_quest_failed":"Oh no! The supplies you were carrying have been lost!  You should return and speak with Whip again before continuing...",		"msg_phase_02_quest_continue":"You have retrieved some supplies! But at least %DI more are still missing.",		"msg_phase_02_quest_finished":"You have retrieved all of the missing supplies! You feel your mind open itself to the potential secrets of Vehicle Control.",		"msg_phase_02_find_theater_waypoint":"The last transmission of the transport's emergency beacon was from here. The ship is probably somewhere nearby...",		"msg_phase_01_quest_fail_phase_done":"You have failed to rescue the villagers captured from Aurilia in a timely manner. The missing villagers are presumed dead and the rescue operation has been aborted.",		"msg_phase_01_quest_failed":"You failed to rescue the villager. You should return and speak with Whip again before continuing...",		"msg_phase_01_quest_continue":"You have rescued a prisoner! But at least %DI more are still missing. You should speak to Whip again for more information...",		"msg_phase_01_quest_finished":"You have rescued all of the missing villagers! You feel your mind open itself to the potential secrets of Survival.",		"msg_phase_01_find_theater_waypoint":"The tracks you are following end here. The Sith Shadows have probably stopped somewhere nearby recently. You might want to search the area for an encampment..."
+}}

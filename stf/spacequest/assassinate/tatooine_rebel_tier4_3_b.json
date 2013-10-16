@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_rebel_tier4_3_b",
+	"entries": {
+		"title_d":"After our failure to eliminate the space stations defense, the Empire is launching several counterattacks. A bomber wing is heading for one of our escaping frigates. You need to intercept and destroy them before they can launch their payloads on it.",		"title":"Endor system: Stop the Imperial bombers.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"General Ufwol: < %TO >",		"quest_target_t":"Imperial bomber wing.",		"quest_target_d":"There is one TIE Oppressor and five TIE Bombers heading for our frigate. You need to eliminate them all. They are bombers and shouldn't be as dangerous for you as fighters but they can still pack a punch so don't underestimate them.",		"quest_location_t":"Endor system.",		"quest_location_d":"The Empire is launching everything the have close to us. Your target is that bomber wing though, try to avoid everything else!",		"quest_escort_t":"Eliminate them all.",		"quest_escort_d":"Each of these bombers have a payload large enough to inflict serious damage to our frigate. You need to destroy them all pilot!",		"failed_escape":"They launched their payload! This day was a complete disaster! You have some explaining to do pilot, return to base!",		"escort_wiped_out":"General Ufwol: < Only one left pilot, hurry up! >",		"escort_remaining":"General Ufwol: < Good pilot but there's more of them left and they are getting close to launch distance! >",		"destroy_escort":"You have to take them all out before they get much closer pilot!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Good job pilot, we're pulling back for now. Return to base.",		"arrival_phase_2":"Alright, intercept and destroy them quickly, we can't let them launch those torpedoes!",		"arrival_phase_1":"The Empire has launched a bomber wing against one of our frigates! Uploading coordinates now.",		"Quest Log Data":"Text"
+}}

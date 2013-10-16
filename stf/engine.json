@@ -1,12 +1,5 @@
-[
-'12':'screenshot_failed_unknown_format',
-'11':'screenshot_failed_write_problem',
-'10':'screenshot_failed_wrong_format',
-'9':'screenshot_failed_unknown',
-'8':'screenshot_failed_off_desktop',
-'7':'desktop_same_not_32',
-'6':'desktop_too_small_not_32',
-'5':'desktop_same',
-'3':'desktop_too_small',
-'1':'desktop_not_32bit',
-]
+{
+	"stfFile":"engine",
+	"entries": {
+		"screenshot_failed_unknown_format":"The application could not sucessfully write the screen shot out to disk.   The screen shot format is not supported.",		"screenshot_failed_write_problem":"The application could not sucessfully write the screen shot out to disk.   The disk may be full.",		"screenshot_failed_wrong_format":"The application could not sucessfully create a screen shot because the rendering target is not set to 32bit color depth.",		"screenshot_failed_unknown":"The application could not sucessfully create a screen shot due to a DirectX failure.",		"screenshot_failed_off_desktop":"The application could not sucessfully create a screen shot because the game window is not completely contained within the desktop.",		"desktop_same_not_32":"The application could not run in windowed mode because the desktop resolution is too low to fit the game window with its border, and your desktop is not set to 32-bit color depth.  You may consider using the "Borderless Window" option available in the external options settings from the Launch Pad.",		"desktop_too_small_not_32":"The application could not run in windowed mode because the desktop resolution is smaller than the game resolution, and your desktop is not set to 32-bit color depth.",		"desktop_same":"The application could not run in windowed mode because the desktop resolution is too low to fit the game window with its border.  You may consider using the "Borderless Window" option available in the external options settings from the Launch Pad.",		"desktop_too_small":"The application could not run in windowed mode because the desktop resolution is smaller than the game resolution. ",		"desktop_not_32bit":"The application could not run in windowed mode because the desktop is not set to 32-bit color depth."
+}}

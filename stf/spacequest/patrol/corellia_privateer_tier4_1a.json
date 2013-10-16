@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/corellia_privateer_tier4_1a",
+	"entries": {
+		"title_d":"Run a patrol through Dantooine space, keep an eye on the radar for Black Sun pirates.",		"title":"Dantooine System: Patrol for the Blacksun Pirate",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 CorSec Command: < \#pcontrast1 We have located the signature of a Black Sun patrol near your area. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"Travel here to complete the patrol",		"quest_location_t":"Dantooine System",		"quest_location_d":"A patrol route in the Dantooine System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

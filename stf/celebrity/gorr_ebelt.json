@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/gorr_ebelt",
+	"entries": {
+		"npc_11":"Well, you're not doing me much good then are you?",		"player_10":"I don't have money and I don't want a job.",		"npc_10":"You're a funny guy.",		"player_9":"Don't bother, the pay's too low.",		"npc_5":"I could make your business my business...",		"player_6":"That's none of your business.",		"npc_9":"Maybe I should get into your line of "work" then.",		"player_8":"No.  I just don't like working.",		"npc_8":"Ah.  How much money do you have?  Nevermind.  I'll find out soon enough...",		"player_7":"That's right.",		"npc_4":"So you're just here on vacation?",		"player_5":"Work is for other people.",		"npc_3":"Yes.  Work.  You do know what work is, right?",		"npc_7":"Oh.  Well then ignore everything I say.",		"player_4":"Actually, I am.",		"npc_6":"Well, then perhaps you could check with some of my associates.  They might have some work for you.",		"player_3":"Well, no.",		"npc_2":"Well, not everything we do here is strictly above the bar.  Say, you're not with law enforcement are you?",		"player_2":"Work?",		"player_1":"Shady?",		"npc_1":"Shady work here on Naboo if you want it."
+}}

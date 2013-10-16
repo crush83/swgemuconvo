@@ -1,36 +1,19 @@
-[
-'34':'email_body',
-'33':'email_subject',
-'32':'mission_complete',
-'31':'access_key_received',
-'30':'terminal_locked',
-'29':'message_sent',
-'28':'imperial_station_unlocked',
-'27':'imperial_station_locked',
-'26':'use_terminal',
-'25':'m5_init_failure',
-'24':'waypoint_desc_5',
-'23':'waypoint_name_5',
-'22':'waypoint_desc_4',
-'21':'waypoint_name_4',
-'20':'m3_init_failure',
-'19':'waypoint_return_desc_3',
-'18':'waypoint_return_name_3',
-'17':'waypoint_name_3',
-'16':'waypoint_desc_3',
-'15':'decode_failed',
-'14':'decoded_data_disk',
-'13':'disk_name_decoded',
-'12':'disk_name_encoded',
-'11':'use',
-'10':'decode',
-'9':'close',
-'8':'m1_data_disk_denied',
-'7':'m1_data_disk_received',
-'6':'waypoint_failure',
-'5':'m1_init_failure',
-'4':'waypoint_return_desc_1',
-'3':'waypoint_return_name_1',
-'2':'waypoint_desc_1',
-'1':'waypoint_name_1',
-]
+{
+	"stfFile":"theme_park/alderaan/act2/shared_rebel_missions",
+	"entries": {
+		"email_body":"The Imperial Security Bureau has released the following public alert-
+
+Be on the lookout for a Rebel operative named Lyda Skims (Codename: Skimmer).
+
+This woman is responsible for stealing documents relating to the DEAD EYE project. These documents are believed to be in the hands of Rebel forces. 
+
+We have received intelligence that indicates the Rebellion has been searching for Dr. Vacca due to his involvement with DEAD EYE. We assure you that Vacca remains safe from harm.
+
+To take an active role in assisting the Empire with this most important case, please seek out an Imperial Coordinator for further instructions. Coordinators have been dispatched to Naboo, Tatooine, and Rori for easy access.
+
+It has been reported that Rebel Coordinators on Corellia, Tatooine and Talus also seek Lyda.
+
+[Note: The Rebels were victorious in Act 1 and will receive a 10% faction bonus during Act 2. For more information, visit http://www.starwarsgalaxies.com]
+
+",		"email_subject":"Imperial HoloVision News Alert",		"mission_complete":"CONGRATULATIONS!!  You have completed the Vacca's Allegience Event.",		"access_key_received":"You notice a pass-key drop from the Imperial Captain as he falls to the ground and pick it up.",		"terminal_locked":"You need either the correct access code or an Interface Override Device to use this terminal.",		"message_sent":"You successfully sent the message to Dr. Vacca, though your Interface Override Device was destroyed in the process.",		"imperial_station_unlocked":"You use the pass-key to unlock the Relay Station.",		"imperial_station_locked":"The Relay Station is locked and you do not have the pass-key.",		"use_terminal":"Use Terminal",		"m5_init_failure":"It appears the intel was wrong, there is no Imperial Relay Station at these coordinates.",		"waypoint_desc_5":"Locate the Imperial Relay Station and transmit the Dead Eye message",		"waypoint_name_5":"Transmit the Message",		"waypoint_desc_4":"Contact the Rebel Commander and deliver the decoded Dead Eye disk.",		"waypoint_name_4":"Contact the Commander",		"m3_init_failure":"It appears your Lyda is no longer at this location.",		"waypoint_return_desc_3":"Return to the Rebel Coordinator and report your findings.",		"waypoint_return_name_3":"Return to Coordinator",		"waypoint_name_3":"Verify Skimmer is Alive",		"waypoint_desc_3":"Scout these coordinates and verify that Skimmer is still alive.",		"decode_failed":"You do not have the required decoder to decode this message.",		"decoded_data_disk":"Using the old Imperial Decoder you were able to decode the Dead Eye message.",		"disk_name_decoded":"Dead Eye Disk [decoded]",		"disk_name_encoded":"Dead Eye Disk [encoded]",		"use":"Read",		"decode":"Decode",		"close":"Close",		"m1_data_disk_denied":"You were unable to receive the data disk because your inventory is full. You need to make space available.",		"m1_data_disk_received":"You have been given a data disk.",		"waypoint_failure":"I'm sorry but I've had problems downloading the data to your datapad.  Let me know once you have deleted some entries from your datapad.",		"m1_init_failure":"It appears your contact is no longer at this location.",		"waypoint_return_desc_1":"Return to the Rebel Coordinator and report your findings.",		"waypoint_return_name_1":"Return to Coordinator",		"waypoint_desc_1":"Contact Skimmer's friend at these coordinates and see if Skimmer has been in touch.",		"waypoint_name_1":"Locate Skimmer's Friend"
+}}

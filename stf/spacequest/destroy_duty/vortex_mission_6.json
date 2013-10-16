@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/vortex_mission_6",
+	"entries": {
+		"title_d":"You are ordered to assist in the attacks on Imperial patrols. When you feel that you have exhausted your ship, yourself or that you have enough experience to continue your training, you can return to base at anytime.",		"title":"Dantooine system: Duty mission: Attack Imperial Patrols",		"taunt_5":"I would run if I were you, Rebel scum!",		"taunt_4":"Cut your engines Rebel, your trial will be fair. There's no point resisting.",		"taunt_3":"Why are you doing this Rebel? The Empire is what's best for the galaxy.",		"taunt_2":"Foolish Rebel! We will hunt you all down, like the rats you are!",		"taunt_1":"The might of the Empire is unstoppable!",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"quest_location_t":"Dantooine system.",		"quest_location_d":"Travel to the Dantooine system to help the Rebel Alliance in their war on the Empire.",		"quest_destroy_t":"Coordinates of Imperial patrol.",		"quest_destroy_d":"An Imperial patrol has been spotted at these coordinates. Intercept and destroy it.",		"level_increase":"The Empire are increasing their activity in this sector to try and hunt you down.",		"level_boss_dead":"I can't believe it. Didn't think anyone would win a dog fight against that monster...",		"level_boss":"Rebel Command: < The Empire has sent an %TO to take you out. Be careful out there! >",		"found_loc":"Proceed to intercept coordinates of the next Imperial Patrol.",		"duty_update":"Rebel Command: < %TO >",		"dd_boss_taunt_5":"Imperial justice incoming, say good night.",		"dd_boss_taunt_4":"I hope you have a escape pod on that piece of trash Rebel.",		"dd_boss_taunt_3":"You will be the next kill notch on my cockpit, puny Rebel!",		"dd_boss_taunt_2":"I'm superior in every way, you should never have come here.",		"dd_boss_taunt_1":"Foolish Rebel, you actually think you can match my skill?",		"complete":"Fantastic! The pilotes of the Empire are speaking your name in fear now my friend.",		"boss_title_5":"Master TIE Interceptor pilot",		"boss_title_4":"Battle Scarred TIE Interceptor pilot",		"boss_title_3":"Ace TIE Interceptor pilot",		"boss_title_2":"Grim TIE Interceptor pilot",		"boss_title_1":"Experienced TIE Interceptor pilot",		"boss_detected":"Tactical Computer: < Vessel with veteran insignias on attack vector, weapon systems armed. >"
+}}

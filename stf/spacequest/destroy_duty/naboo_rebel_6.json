@@ -1,33 +1,5 @@
-[
-'31':'title_d',
-'30':'title',
-'29':'taunt_5',
-'28':'taunt_4',
-'27':'taunt_3',
-'26':'taunt_2',
-'25':'taunt_1',
-'24':'targets_detected',
-'23':'targets_behind',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_destroy_t',
-'19':'quest_destroy_d',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'duty_update',
-'13':'dd_boss_taunt_5',
-'12':'dd_boss_taunt_4',
-'11':'dd_boss_taunt_3',
-'10':'dd_boss_taunt_2',
-'9':'dd_boss_taunt_1',
-'8':'complete',
-'7':'boss_title_5',
-'6':'boss_title_4',
-'5':'boss_title_3',
-'4':'boss_title_2',
-'3':'boss_title_1',
-'2':'boss_title_0',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/naboo_rebel_6",
+	"entries": {
+		"title_d":"Break up TIE ambushes. These missions have been outlined to give you some much needed experience in space combat, you can stop when you feel that you have learned enough.",		"title":"Naboo system: Duty mission: Break up TIE ambushes",		"taunt_5":"Your little uproar ends here Rebel scum!",		"taunt_4":"Fry him boys!",		"taunt_3":"It was a mistake to come here Rebel fool!",		"taunt_2":"The might of the Empire is unstoppable!",		"taunt_1":"You're heading for the Imperial prisons, Rebel scum!",		"targets_detected":" \#pcontrast3 Tactical Computer:  < \#pcontrast1 Enemy targets on incoming attack vector! \#pcontrast3 >",		"targets_behind":" \#pcontrast3 Tactical Computer:  < \#pcontrast1 Enemy targets coming in from behind! \#pcontrast3 >",		"quest_location_t":"Naboo system.",		"quest_location_d":"Alliance HQ will provide waypoints to potential TIE fighter ambushes. Fly to each waypoint and eliminate all hostile fighters that enter the area. When you have cleared an area, Alliance HQ will upload a new wayppoint. Continue to beat back the enemy!",		"quest_destroy_t":"Destroy TIE fighters at each navigation point.",		"quest_destroy_d":"Be aware that the more successful attacks you perform, the more resistance you will face as the Empire steps up their alert level.",		"level_increase":"We've detected that more TIE ships have been sent into the sector.",		"level_boss_dead":"Good work, the commander has been destroyed. We're still picking up Imperial activity, however. Stand by...",		"level_boss":" \#pcontrast3 Alliance HQ: < \#ff0000 The Imperials are sending a highly trained %TO after you. Stand by for coordinates... \#pcontrast3 >",		"found_loc":"We are uploading coordinates of suspected Imperial ambushes. Investigate and eliminate all hostiles.",		"duty_update":" \#pcontrast3 Alliance HQ:  < \#pcontrast1 %TO \#pcontrast3 >",		"dd_boss_taunt_5":"I am the Grim Reaper Rebel, you will not leave this place alive!",		"dd_boss_taunt_4":"A thousand creds to the man who takes him out!",		"dd_boss_taunt_3":"I'm going to enjoy spacing you.",		"dd_boss_taunt_2":"If you cut your engines, I promise not to harm you.",		"dd_boss_taunt_1":"You killed my men. Now you're mine!",		"complete":"Excellent work, Pilot! The Imperial presence in this sector has been soundly beaten. Return to base!",		"boss_title_5":"TIE (Unknown) Ace",		"boss_title_4":"TIE Black Ops Commander",		"boss_title_3":"TIE Obsidian Squad Leader",		"boss_title_2":"TIE Combat Ace",		"boss_title_1":"TIE Combat Trainer",		"boss_title_0":"TIE Combat Trainer",		"boss_detected":" \#pcontrast3 Alliance HQ:  \#pcontrast1 < Warning! Enemy commander detected on attack vector! \#pcontrast3 >"
+}}

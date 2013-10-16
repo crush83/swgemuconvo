@@ -1,31 +1,5 @@
-[
-'31':'thug_npc_go_home',
-'30':'thug_npc_do_job',
-'29':'player_job_refuse',
-'28':'player_job_accept',
-'27':'thug_npc_job_offer_3',
-'26':'thug_npc_job_offer_2',
-'25':'thug_npc_job_offer_1',
-'24':'player_job_request',
-'23':'thug_npc_response_3_3',
-'21':'thug_npc_response_2_3',
-'20':'thug_npc_response_3_2',
-'19':'thug_npc_response_2_2',
-'17':'thug_npc_response_3_1',
-'16':'thug_npc_response_2_1',
-'15':'thug_player_line_3_3',
-'14':'thug_player_line_3_2',
-'13':'thug_player_line_3_1',
-'12':'thug_player_line_2_3',
-'11':'thug_player_line_2_2',
-'10':'thug_player_line_2_1',
-'9':'thug_npc_response_1_3',
-'8':'thug_npc_response_1_2',
-'7':'thug_npc_response_1_1',
-'6':'thug_player_line_1_3',
-'5':'thug_player_line_1_2',
-'4':'thug_player_line_1_1',
-'3':'thug_npc_greet_3',
-'2':'thug_npc_greet_2',
-'1':'thug_npc_greet_1',
-]
+{
+	"stfFile":"mob/base_npc_convo",
+	"entries": {
+		"thug_npc_go_home":"I knew you were a waste of my time.",		"thug_npc_do_job":"Then get to work!",		"player_job_refuse":"I think I'll pass on this one.",		"player_job_accept":"Sure, I'll take your job.",		"thug_npc_job_offer_3":"I don't know if I trust you, but I got something I need done if you're willing.",		"thug_npc_job_offer_2":"There's plenty to do if you're willing to bend a few laws...",		"thug_npc_job_offer_1":"I got work.  If you don't mind getting your hands dirty you can have it.  Want it?",		"player_job_request":"Do you need anything done?",		"thug_npc_response_3_3":"I'll forget this whole thing ever happened",		"thug_npc_response_2_3":"Well don't.",		"thug_npc_response_3_2":"Very.",		"thug_npc_response_2_2":"Do I care?  No.  Go away.",		"thug_npc_response_3_1":"Didn't everyone?",		"thug_npc_response_2_1":"Answering questions like that can get you killed.",		"thug_player_line_3_3":"Forget I asked.",		"thug_player_line_3_2":"You're rude aren't you?",		"thug_player_line_3_1":"Ever work for Jabba?",		"thug_player_line_2_3":"I'm just asking is all.",		"thug_player_line_2_2":"Um...that was me.",		"thug_player_line_2_1":"Ever work for Valarian?",		"thug_npc_response_1_3":"What's it to you?",		"thug_npc_response_1_2":"Who says I'm being hostile?",		"thug_npc_response_1_1":"Whoever pays the most.",		"thug_player_line_1_3":"You got somewhere to be?",		"thug_player_line_1_2":"Why are you being so hostile?",		"thug_player_line_1_1":"Who do you work for?",		"thug_npc_greet_3":"Make this quick, ok?",		"thug_npc_greet_2":"Yeah?  What?!?",		"thug_npc_greet_1":"What do you want?"
+}}

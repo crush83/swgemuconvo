@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_imperial_tier4_4_b",
+	"entries": {
+		"title_d":"Destroy the Prison Break Shuttle that is attempting to leave the Dathomir system. A vessel has left the planet's surface. It is believed to be containing more Imperial prison officers. They must be eliminated for their failure in their duty.",		"title":"Dathomir System: Destroy the Prison Break Shuttle",		"split_quest_alert_fail":"",		"split_quest_alert":"Alert! Another vessel detected attempting to leave Dathomir's surface. Intercept and destroy.",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Prison Break Shuttle",		"quest_target_d":"Intercept and destroy the prison break vessel before it can leave the system. The officers on board cannot be allowed to leave the system.",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"Remain in the Dathomir system and intercept the Prison Break Shuttle.",		"quest_escort_t":"Destroy the Escort",		"quest_escort_d":"Destroy the Coynite guards that are traveling with the prison break shuttle.",		"failed_escape":"This is a disaster. You let the ship jump out of the sector. Make a full report of your failure to your superior.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Escort fighters eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"You destoyed the ship leaving Dathomir but there are still members of its escort remaining. No one is to get out alive.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Very well done, pilot. But there is more work yet to be done. Stand by.",		"arrival_phase_2":"Vessel attempting to leave Dathomir has arrived in ordit. Destroy that ship and every ship with it.",		"arrival_phase_1":"We are tracking the vessels departure point. That ship is not to leave the sector. Destroy it as soon as it enters orbit.",		"Quest Log Data":"Text"
+}}

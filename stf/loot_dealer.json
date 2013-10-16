@@ -1,14 +1,7 @@
-[
-'12':'sell_title',
-'11':'sell_prompt',
-'10':'prose_sold_junk',
-'9':'prose_sold_all_junk',
-'8':'prose_no_sale',
-'7':'prose_no_buy_all',
-'6':'prose_no_all_sale',
-'5':'prose_no_buy',
-'4':'prose_junk_sold',
-'3':'no_items',
-'2':'btn_sell_all',
-'1':'btn_sell',
-]
+{
+	"stfFile":"loot_dealer",
+	"entries": {
+		"sell_title":"Loot Item Dealer",		"sell_prompt":"Select an item and press the "Sell" button to sell the item to the dealer. 
+
+Press the "Sell All" button to sell all available items to the dealer.",		"prose_sold_junk":"You sell %TT for %DI credits.",		"prose_sold_all_junk":"You sell all of your loot to %TT for %DI credits.",		"prose_no_sale":"%TU cannot buy %TT from you at this time.",		"prose_no_buy_all":"%TT does not seem interested in buying any of your loot items.",		"prose_no_all_sale":"%TT is unable to purchase all of your loot items and declines the transaction.",		"prose_no_buy":"%TU shows no interest in purchasing %TT.",		"prose_junk_sold":"%TT is already in the process of being sold...",		"no_items":"You have no items that the junk dealer wishes to buy.",		"btn_sell_all":"Sell All",		"btn_sell":"Sell"
+}}

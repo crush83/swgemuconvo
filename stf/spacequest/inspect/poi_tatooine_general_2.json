@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_inspect_t',
-'7':'quest_inspect_d',
-'6':'quest_dock_t',
-'5':'quest_dock_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/inspect/poi_tatooine_general_2",
+	"entries": {
+		"title_d":"Kelen Wordkal suspects that the Black Sun Aggressors in the Ghost Tide Nebula may have information regarding the where abouts of the missing freighters. Whether or not the Black Suns are responsible, hunting and disabling several Black Sun Aggressors may very well get to the bottom of the situation.",		"title":"Tatoo System: Black Sun Hunt",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 Mos Eisley Captain:\#pcontrast3 < Pilot! Keep your systems alert. I can't even identify what's on the radar! >",		"quest_location_t":"Travel to the Tatoo System",		"quest_location_d":"If in another system, travel to the Tatoo System by using your hyperspace map (by pressing "H") and clicking a Hyperspace point.",		"quest_inspect_t":"Inspect Black Sun Aggressors",		"quest_inspect_d":"To inspect a target, you must disable the ship by targeting their reactors or engines (use the []'s to twitch between different components of your enemy's ship). After having disabled your enemy, you must inspect it by using the "i" key.",		"quest_dock_t":"Dock with the Disabled Black Sun Aggressor",		"quest_dock_d":"After having disabled and inspected your enemy, use the /dock command to procure your designated cargo.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

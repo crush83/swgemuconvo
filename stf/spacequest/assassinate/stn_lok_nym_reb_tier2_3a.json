@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/stn_lok_nym_reb_tier2_3a",
+	"entries": {
+		"title_d":"The secrecy of operations in the Lok System is vital. Destroy an Imperial Scanner as they pass through the system to deny the Empire of vial information.",		"title":"Lok System: Blessed Obscurity",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Imperial Scan Freighter",		"quest_target_d":"An Imperial Scan Freighter used to monitor deep space activity.",		"quest_location_t":"Lok System",		"quest_location_d":"Passing through the Lok System, the location of the Scanner will be provided by Nym Forces while the operation is in progress.",		"quest_escort_t":"Storm Squadron",		"quest_escort_d":"An elite group of Imperial Pirates, the Storm Squadron is not to be taken lightly.",		"failed_escape":"\#pcontrast3 Vestil: < \#pcontrast1 The scanner has made the run and is out of the system. I see nothing good coming from this. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Vestil: < \#pcontrast1 No survivors, finish off their escort. \#pcontrast3 >",		"autorewardsubject":"Last Call",		"autorewardfrom":"Vestil",		"autorewardbody":"You have done fine work.  But I am done with you for now, maybe we can work together again in the future.  As usual, here is your fee of 10000 credits.",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 Vestil: < \#pcontrast1 The Empire has been blinded.  More will come, but these little windows of opportunity are vital. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Tactical Computer: < \#pcontrast3 Target locked in. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Vestil: < \#pcontrast1 Information is key, and being able to prevent your opponent from gaining that information is second only to that. Take down this deep space scanner, it will give us the upper hand. \#pcontrast3 >"
+}}

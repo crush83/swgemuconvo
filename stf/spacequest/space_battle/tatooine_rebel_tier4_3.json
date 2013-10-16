@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_rebel_tier4_3",
+	"entries": {
+		"title_d":"Unfortunately examining the stolen TIE Oppressor didn't give us any useful information about its origin. A lot of these new prototype ships have been deployed in the Endor system though so it's our suspicion that they may be manufactured there. We are about to launch a attack on one of the Imperial outposts in the system and Crimson Phoenix have been ordered to help clean out the base defensive fighters.",		"title":"Endor system: Defeat Imperial space station guard.",		"split_quest_alert_fail":"General Ufwol: < Blast! The Empire has launched a bomber wing toward one of our frigates that are trying to pull out of the area. Stand by for new orders. >",		"split_quest_alert":"General Ufwol: < I have intel data incoming, stand by for further orders. >",		"quest_update":"General Ufwol: < %TO >",		"quest_location_t":"Endor system.",		"quest_location_d":"We are not sure why the Empire has such a large part of their navy stationed in the Endor system but it makes it a dangerous place for us. It's our hope that there's so many of them here because they are manufacturing these new advanced TIE's in this system.",		"quest_helpallies_t":"Destroy the ships fighter defense.",		"quest_helpallies_d":"With the rest of the squadron, take out the fighter defense of the Imperial space station so that our bombers can make it through.",		"quest_findbattle_t":"Coordinates of attack.",		"quest_findbattle_d":"These are the coordinates of attack. The rest of the squadron will meet you close to this location. Make your way there with haste.",		"found_loc":"Proceed to these coordinates pilot, the rest of the squadron will meet you there.",		"enemies_win":"I'm giving the bombers an abort order, we are taking too heavy losses!",		"enemies_remain":"Tactical Computer: < Sensors show enemy target terminated. %DI enemy targets remain. >",		"enemies_arrived":"Your task here is to pave the way for our bombers through their fighters.",		"battle_started":"It's time men, give them all you got!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Good job, pull back for a breather. The bomber squadron will take it from here.",		"allies_remain":"Rebel Pilot: < Phew that was a close one! Alright, now I just need to shake this...ack! Nooo... >",		"allies_arrived":"Our fighter squadron has arrived, join up as fast as you can."
+}}

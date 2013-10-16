@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/naboo_privateer_3",
+	"entries": {
+		"title_d":"Patrol for hostile activity. When you complete this mission, return to Captain Dinge in the Theed Palace for your next assignment.",		"title":"Naboo System: Patrol Naboo Space",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 We have received a request for escort from a local freighter.  Proceed to the uploaded waypoint and take over this task. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"When you reach a patrol waypoint you will receive a new one to your next location. Follow each of the patrol waypoints until you reach the end of your patrol.  This is the third of four special assignments given to you by Captain Dinge of the RSF. When you complete this mission, return to Captain Dinge in the Theed Palace for your next assignment.  After you complete these four special assignments, Captain Dinge will train you in a new Pilot skill.",		"quest_location_t":"Naboo System",		"quest_location_d":"Patrol through the Naboo System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

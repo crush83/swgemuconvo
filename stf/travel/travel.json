@@ -1,3 +1,5 @@
-[
-'1':'ticket_purchase_complete',
-]
+{
+	"stfFile":"travel/travel",
+	"entries": {
+		"ticket_purchase_complete":"Ticket purchase complete."
+}}

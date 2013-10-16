@@ -1,3 +1,5 @@
-[
-'1':'bldg_destroy',
-]
+{
+	"stfFile":"theme_park_jabba/bldg_destroy",
+	"entries": {
+		"bldg_destroy":"System detects lifeforms inside building, shutting down self destruct"
+}}

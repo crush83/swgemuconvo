@@ -1,24 +1,5 @@
-[
-'22':'kaja8',
-'21':'kaja7_reply2',
-'20':'kaja7_reply1',
-'19':'kaja7',
-'18':'kaja6_reply1',
-'17':'kaja6',
-'16':'kaja5',
-'15':'default',
-'14':'kaja2_reply2',
-'13':'kaja4_reply2',
-'12':'kaja4_reply1',
-'11':'kaja4',
-'10':'kaja2_reply3',
-'9':'kaja2_reply1',
-'8':'gov2',
-'7':'gov1_reply1',
-'6':'gov1',
-'5':'kaja3',
-'4':'kaja2',
-'3':'kaja1_reply2',
-'2':'kaja1_reply1',
-'1':'kaja1',
-]
+{
+	"stfFile":"kaja_newbie_quest_1",
+	"entries": {
+		"kaja8":"That's the spirit!  Now, here's where you can find the governor.  I'll add the information to your datapad.  Make sure nothing happens to him.",		"kaja7_reply2":"Non-Essential?!?  I'm going home.",		"kaja7_reply1":"I'll have to change everyone's attitude then.",		"kaja7":"Well, the emperor has lost several good agents trying to protect the governor, so it was decided that we would use someone, a little more...um...non-essential.",		"kaja6_reply1":"And the second reason?",		"kaja6":"To be perfectly honest there are two reasons.  The first is, the Emperor wants to test your resolve.  See how good you really are.",		"kaja5":"That is most unfortunate.  Perhaps when your spine grows back you can return to speak with me again.",		"default":"",		"kaja2_reply2":"I'm not interested anymore.",		"kaja4_reply2":"Why was I requested for this?",		"kaja4_reply1":"Wait...I don't need to hear any more of this.  I'm out.",		"kaja4":"The governor has ruled against the Hutts and some of their more shady trade practices.  Rumor has it that Jabba himself has sent someone to "see" the governor about it.",		"kaja2_reply3":"What sort of unpleasantness?",		"kaja2_reply1":"I will see to it immediately.",		"gov2":"Let's get going then.  Lead the way.",		"gov1_reply1":"Kaja sent me to escort you to your ship.",		"gov1":"Excuse me?",		"kaja3":"Fine.  Don't be too long.",		"kaja2":"One of the regional governors needs an escort due to some unpleasantness.  I'll mark his location on your datapad, and you can escort him to his ship.",		"kaja1_reply2":"I am too busy at the moment.  I'll come back later.",		"kaja1_reply1":"I am.  What is it that must be done?",		"kaja1":"The Emperor has requested you personally for this task.  I hope that you are prepared to show your loyalty to the Empire."
+}}

@@ -1,53 +1,27 @@
-[
-'51':'attachments',
-'50':'text_max',
-'49':'delete_all_mail_success',
-'48':'delete_all_mail_fail',
-'47':'confirm_empty_mail',
-'46':'err_waypoint_matches',
-'45':'err_waypoint_exists',
-'44':'help_browse_attach',
-'43':'err_reply_system',
-'42':'returned_mail_prefix',
-'41':'failed_unknown_prose',
-'40':'popup_save_all',
-'39':'popup_save',
-'38':'popup_delete',
-'37':'new_message_received',
-'36':'table_status',
-'35':'text',
-'34':'table_subject',
-'33':'table_sender',
-'32':'table_date',
-'31':'subject',
-'30':'send',
-'29':'reply_prefix',
-'28':'reply',
-'27':'recipient_name',
-'26':'recipient_invalid_prose',
-'25':'recipient_ignored_prose',
-'24':'err_no_subject',
-'23':'err_no_recipients',
-'22':'err_no_body',
-'21':'new',
-'20':'loading_msg',
-'19':'fwd_prefix',
-'18':'fwd',
-'17':'failed_unknown',
-'16':'delete',
-'15':'close',
-'14':'err_bad_recipients',
-'13':'cpt_composer',
-'12':'cpt_browser',
-'11':'help_comp_body',
-'10':'help_comp_subject',
-'9':'help_comp_send',
-'8':'help_comp_recipient',
-'7':'help_comp_attach',
-'6':'help_browse_new',
-'5':'help_browse_delete',
-'4':'help_browse_fwd',
-'3':'help_browse_reply',
-'2':'help_browse_body',
-'1':'help_browse_table',
-]
+{
+	"stfFile":"ui_pm",
+	"entries": {
+		"attachments":"Attachments",		"text_max":"Max. email of 4000 chars. reached",		"delete_all_mail_success":"You have successfully emptied the mailbox of %TT.",		"delete_all_mail_fail":"Unable to empty the mailbox of %TT.",		"confirm_empty_mail":"Are you sure you want to delete all your email?",		"err_waypoint_matches":"You already have that waypoint in your datapad.",		"err_waypoint_exists":"You already have that waypoint in your datapad.",		"help_browse_attach":"Attachments are displayed here.
+
+You can right-click on an attachment to save it or use it.",		"err_reply_system":"You cannot reply to a Mail from the System.",		"returned_mail_prefix":"RETURNED MAIL: ",		"failed_unknown_prose":"An error has occurred on the chat server while sending the message to '%TT'.
+
+Please try sending your message again, or contact Customer Service for assistance.",		"popup_save_all":"Save All Attachments",		"popup_save":"Save Attachment",		"popup_delete":"Delete Attachment",		"new_message_received":"You have new mail.",		"table_status":"Status",		"text":"Message",		"table_subject":"Subject",		"table_sender":"Sender",		"table_date":"Date",		"subject":"Subject",		"send":"Send",		"reply_prefix":"RE: ",		"reply":"Reply",		"recipient_name":"To:",		"recipient_invalid_prose":"Are you sure you have the correct name? 
+
+There is no player named '%TT'.",		"recipient_ignored_prose":"Your Mail Message has not been delivered to '%TT' because the recipient has chosen not to receive mail from you at this time.",		"err_no_subject":"You need to enter a subject line for your message.",		"err_no_recipients":"You need to enter a name in the "To"  field in order to send your message.",		"err_no_body":"You need to enter text in the body of  your message!",		"new":"New",		"loading_msg":"Downloading your Mail Messages...",		"fwd_prefix":"FW: ",		"fwd":"Forward",		"failed_unknown":"An error has occurred on the chat server. 
+
+Please try sending your message again, or contact Customer Service for assistance.",		"delete":"Delete",		"close":"Close",		"err_bad_recipients":"You entered something in the "To" field that  didn't make any sense. 
+
+If you want to send a Mail Message to multiple people, simply put in their names separated by semicolons:
+
+   John; Sally; Fred",		"cpt_composer":"Compose New Message",		"cpt_browser":"Your Mail",		"help_comp_body":"The body of the mail message.",		"help_comp_subject":"The subject of the mail message can be typed here, if desired.",		"help_comp_send":"Send the message.",		"help_comp_recipient":"This is the Mail composer.
+
+The person or persons that should receive this mail.
+
+You can send a mail to multiple people by separating their names with a semicolon (;).
+
+You can send mail to your group by specifying 'group' as a recipient.",		"help_comp_attach":"This is where attachments go.  You can drag and drop waypoints into this window to send them to other people.",		"help_browse_new":"Compose a new mail message.",		"help_browse_delete":"Delete the selected mail.",		"help_browse_fwd":"Forward the mail to someone else.",		"help_browse_reply":"Reply to the selected message.",		"help_browse_body":"This is the body of the selected mail.",		"help_browse_table":"This is your Mail Browser.
+
+This window displays all the mail currently in your inbox. You can  write new messages and respond to messages sent to you.
+
+This first table displays your inbox."
+}}

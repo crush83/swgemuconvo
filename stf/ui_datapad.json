@@ -1,10 +1,15 @@
-[
-'8':'help_poi_icon',
-'7':'help_data_icon',
-'6':'help_draft_icon',
-'5':'help_wps_change',
-'4':'help_wps_capacity',
-'3':'help_waypoint',
-'2':'help_info',
-'1':'help_wps_icons',
-]
+{
+	"stfFile":"ui_datapad",
+	"entries": {
+		"help_poi_icon":"This pane displays a list of Points Of Interest for the given planet.  These do not take up any space in your datapad.",		"help_data_icon":"These pane holds Data items.  Like Waypoints, these data items take up space in your datapad.  Examples of Data items would be accepted missions, manufacturing schematics, and pet control devices.",		"help_draft_icon":"This second tab displays the Draft Schematics that you have learned.  Draft Schematics are necessary in order to craft items or Manufacturing Schematics.
+
+Like Points of Interest, these do not take up space in your datapad.
+
+You can browse your schematics to see the necessary ingrediants and other requirements for the items that you can craft.",		"help_wps_change":"Click this button to change the view of your Waypoints to a list view.",		"help_wps_capacity":"This is the capacity of your datapad.  As you create Waypoints, accept Missions, or gather other Data items, your datapad will fill up.",		"help_waypoint":"Click this button to create a new waypoint at the point where your character is standing.
+
+A waypoint represents a location in the world.  These are useful to help find your way around, and can be mailed to friends to help meet up or plan events.",		"help_info":"This window displays detailed information on the current item.",		"help_wps_icons":"This is your Datapad.
+
+Pieces of information like waypoints and missions are stored here, as well as the schematics that you have learned, and a list of interesting points of interest on the current planet.
+
+This first window displays all of the Waypoint items that you currently have.  These take up memory in your Datapad."
+}}

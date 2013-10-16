@@ -1,17 +1,5 @@
-[
-'15':'dead',
-'14':'incapacitated',
-'13':'knockeddown',
-'12':'ridingcreature',
-'11':'drivingvehicle',
-'10':'skillanimating',
-'9':'sitting',
-'8':'lyingdown',
-'7':'flying',
-'6':'climbing',
-'5':'blocking',
-'4':'sneaking',
-'3':'prone',
-'2':'crouched',
-'1':'upright',
-]
+{
+	"stfFile":"posture_n",
+	"entries": {
+		"dead":"Dead",		"incapacitated":"Incapacitated",		"knockeddown":"Knocked Down",		"ridingcreature":"Riding Creature",		"drivingvehicle":"Driving Vehicle",		"skillanimating":"Skill Animating",		"sitting":"Sitting",		"lyingdown":"Lying Down",		"flying":"Flying",		"climbing":"Climbing",		"blocking":"Lying Down",		"sneaking":"Sneaking",		"prone":"Prone",		"crouched":"Kneeling",		"upright":"Standing"
+}}

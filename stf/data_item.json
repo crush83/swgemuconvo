@@ -1,6 +1,5 @@
-[
-'4':'chose_redeem',
-'3':'redeem_rebel',
-'2':'redeem_imperial',
-'1':'redeem',
-]
+{
+	"stfFile":"data_item",
+	"entries": {
+		"chose_redeem":"Which data items would you like to turn in?",		"redeem_rebel":"Turn in Rebel data",		"redeem_imperial":"Turn in Imperial data",		"redeem":"Redeem data items"
+}}

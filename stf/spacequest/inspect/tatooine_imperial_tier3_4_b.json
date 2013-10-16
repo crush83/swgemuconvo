@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/tatooine_imperial_tier3_4_b",
+	"entries": {
+		"title_d":"During the attack, command picked up a signal being sent from the fighters to a Rebel command shuttle. Intercept and inspect that vessel inside the Endor system.",		"title":"Endor System: Inspect the Rebel Command Shuttle",		"split_quest_alert_fail":"",		"split_quest_alert":"Looks like that ship had all the information that was leaked to the Alliance. We no longer need the Rebel command ship intact. Stand by for coordinates to that ship.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"The location of the Rebel command shuttle has been found in the Endor system. A navigation waypoint to it will be supplied to you.",		"quest_inspect_t":"Inspect the Rebel Command Shuttle",		"quest_inspect_d":"Disable and inspect the Rebel command shuttle for any information that Storm Squadron can use against the Rebels.",		"quest_dock_t":"Transfer the Stolen Imperial Data",		"quest_dock_d":"Dock with the Rebel command shuttle and transfer the stolen Imperial data to your vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

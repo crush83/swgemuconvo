@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/naboo_imperial_tier3_2",
+	"entries": {
+		"title_d":"Your questioning of Lt. Colonel Barlow has led you to believe that Doctor Shinss was involved in Colonel Hend's traitorous activity. Inquisition command wants more proof against the doctor and you will need to inspect the doctor's personal yacht for proof that he was involved.",		"title":"Yavin System: Inspect Doctor Shinss' Yacht",		"split_quest_alert_fail":"",		"split_quest_alert":"Proceed immediately to Imperial Communications Satellite 247d to transmit data. Location will be downloaded to your nav computer shortly.",		"quest_location_t":"Travel to the Yavin System",		"quest_location_d":"Doctor Shinss is working on the salvage operation in the Yavin system and has been using his personal yacht a great deal. You will be supplied with a navigaiton waypoint to where the yacht is moored.",		"quest_inspect_t":"Inspect the Doctor Shinss' Yacht",		"quest_inspect_d":"Once you have located the doctor's yatch, disable and inspect it.",		"quest_dock_t":"Transfer the Personal Logs",		"quest_dock_d":"Dock with the yacht and transfer the logs to your vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

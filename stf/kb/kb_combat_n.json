@@ -1,29 +1,5 @@
-[
-'28':'corpseconsent',
-'27':'corpsealternate',
-'26':'corpserun',
-'25':'corpses',
-'24':'leavingafaction',
-'23':'perks',
-'22':'pvprules',
-'21':'joiningafaction',
-'20':'gcw',
-'19':'corpserecovery',
-'18':'incapacitation',
-'17':'cloning',
-'16':'insurance',
-'15':'death',
-'14':'looting',
-'13':'equipmentdamage',
-'12':'weapons',
-'11':'armor',
-'10':'range',
-'9':'states',
-'8':'postures',
-'7':'rules',
-'6':'status',
-'5':'ham',
-'4':'consider',
-'3':'targeting',
-'1':'combat',
-]
+{
+	"stfFile":"kb/kb_combat_n",
+	"entries": {
+		"corpseconsent":"Giving Corpse Consent",		"corpsealternate":"Alternatives to Corpse Runs",		"corpserun":"Corpse Runs",		"corpses":"Corpses",		"leavingafaction":"Leaving a Faction",		"perks":"Faction Perks",		"pvprules":"PvP Rules",		"joiningafaction":"Joining a Faction",		"gcw":"Galactic Civil War",		"corpserecovery":"Corpse Recovery",		"incapacitation":"Incapacitation",		"cloning":"Cloning",		"insurance":"Insurance",		"death":"Death",		"looting":"Looting",		"equipmentdamage":"Equipment Damage",		"weapons":"Combat Weapons",		"armor":"Armor and Combat",		"range":"Combat Ranges",		"states":"Combat States",		"postures":"Combat Postures",		"rules":"Rules of Engagement",		"status":"Status Effects",		"ham":"Understanding the HAM Bar",		"consider":"Using Consider",		"targeting":"Targeting",		"combat":"Combat"
+}}

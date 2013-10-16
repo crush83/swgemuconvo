@@ -1,10 +1,5 @@
-[
-'8':'resource_set_planet',
-'7':'resource_planet',
-'6':'resource_standard',
-'5':'harvester_deed',
-'4':'generator_deed',
-'3':'factory_deed',
-'2':'craft_station_deed',
-'1':'survey_tool',
-]
+{
+	"stfFile":"beta",
+	"entries": {
+		"resource_set_planet":"Set Planet",		"resource_planet":"Use - By Planet",		"resource_standard":"Use - Standard",		"harvester_deed":"Harvester Deeds",		"generator_deed":"Generator Deeds",		"factory_deed":"Factory Deeds",		"craft_station_deed":"Crafting Station Deeds",		"survey_tool":"Survey Tools"
+}}

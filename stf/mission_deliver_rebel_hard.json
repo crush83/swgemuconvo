@@ -1,7 +1,5 @@
-[
-'5':'deliver_rebel_hard_2',
-'4':'deliver_rebel_hard_3',
-'3':'deliver_rebel_hard_4',
-'2':'deliver_rebel_hard_1',
-'1':'deliver_rebel_hard_5',
-]
+{
+	"stfFile":"mission_deliver_rebel_hard",
+	"entries": {
+		"deliver_rebel_hard_2":"The Bothan Spy Network has an extremely important message that must be delivered to certain alliance members who are staging an attack on the Empire. For safety the message will be disguised in a package. The Bothans have given it to a third party to prevent it from being tracked. Pick it up and deliver it for us.",		"deliver_rebel_hard_3":"The Alliance needs your help in delivering vital supplies to one of our people. Seek out our contact and get the package. Time is of the essence here.",		"deliver_rebel_hard_4":"We have a vital package that must be picked up and delivered; however that is not your mission. We need you to pick up a decoy package to help throw Imperial spies off the trail of the real delivery. Hopefully, the Imperials will try to follow you. Take care not to be caught.",		"deliver_rebel_hard_1":"The Empire may be becoming aware of one of our pipelines for getting equipment to Alliance members in the field. We need you to help us throw them off the scent by delivering a random and unimportant item from our supplier. They will likely intercept it after you have finished the delivery and hopefully come to the conclusion that the supplier is not involved in the Alliance.",		"deliver_rebel_hard_5":"The Empire is closing in on one of our members who is carrying a package vital to the Rebellion. The Empire must not get their hands on it. We need you to relieve our agent of the package and take it to another Alliance member for safekeeping. May the Force be with you!"
+}}

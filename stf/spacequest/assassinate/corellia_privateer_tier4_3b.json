@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_privateer_tier4_3b",
+	"entries": {
+		"title_d":"Intercept a group of Black Sun fighters en route to the next space battle",		"title":"Dantooine System: Destroy the Black Sun Vehement",		"split_quest_alert_fail":"\#pcontrast3 CorSec Command: < \#pcontrast1 Drat, our attacking force will be dwarfed by the Black Sun assault group.  You had better get over there quickly. \#pcontrast3 >",		"split_quest_alert":"\#pcontrast3 CorSec Command: < \#pcontrast1 Excellent, we are starting the next offensive.  Get into position to assist. \#pcontrast3 >",		"quest_update":"%TO",		"quest_target_t":"Black Sun Vehement",		"quest_target_d":"A medium fighter",		"quest_location_t":"Dantooine System",		"quest_location_d":"Somewhere in the Dantooine System",		"quest_escort_t":"Black Sun Aggressor",		"quest_escort_d":"Must be destroyed to complete the mission",		"failed_escape":"You have failed because the objective escaped.",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Primary objective has been destroyed, finish off remaining escort. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 CorSec Command: < \#pcontrast1 Good, the odds should be more in our favor for the next assault. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Target locked in.  \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Searching for specified craft. \#pcontrast3 >"
+}}

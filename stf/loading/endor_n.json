@@ -1,15 +1,6 @@
-[
-'13':'tree_villages',
-'12':'lake_villages',
-'11':'marauder',
-'10':'ewok',
-'9':'dulok',
-'8':'gorax',
-'7':'swirl_prong',
-'6':'remmer',
-'5':'merek',
-'4':'lantern_bird',
-'3':'condor_dragon',
-'2':'blurrg',
-'1':'hanadak',
-]
+{
+	"stfFile":"loading/endor_n",
+	"entries": {
+		"tree_villages":"Tree Villages",		"lake_villages":"Lake Villages",		"marauder":"Marauders",		"ewok":"Ewok",		"dulok":"Duloks",		"gorax":"Gorax",		"swirl_prong":"Swirl Prong",		"remmer":"Remmer",		"merek":"Merek",		"lantern_bird":"Lantern Bird",		"condor_dragon":"Condor Dragon",		"blurrg":"Blurrg",		"hanadak":"Hanadak
+"
+}}

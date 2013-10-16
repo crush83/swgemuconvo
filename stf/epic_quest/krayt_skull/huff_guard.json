@@ -1,24 +1,5 @@
-[
-'106':'npc_smuggle_1',
-'113':'next',
-'36':'npc_breech_1',
-'33':'npc_work_1',
-'32':'dontknowyou_1',
-'31':'cantwork',
-'30':'npc_reset_1',
-'29':'npc_backtowork_1',
-'28':'player_sorry_1',
-'27':'player_reset_1',
-'24':'player_3_1',
-'109':'notyet',
-'21':'player_2_1',
-'112':'npc_noloc_1',
-'18':'player_1_1',
-'110':'npc_failure_1',
-'15':'npc_reward_1',
-'108':'gotowork',
-'12':'npc_4_1',
-'8':'npc_3_1',
-'5':'npc_2_1',
-'1':'npc_1_1',
-]
+{
+	"stfFile":"epic_quest/krayt_skull/huff_guard",
+	"entries": {
+		"npc_smuggle_1":"Yes, these are the documents.  Hey, will you look at that... you never opened them.  Good.  Well, glad to meet ya, friend. I'll let Huff know that we can trust you after all.  You passed the test.  Head back to Huff's guard, so he can let you in.",		"next":"Huff will see you now.   Now that we know we can trust you.  Give him the rifle and you'll have made a very powerful friend.",		"npc_breech_1":"Do you have all of the super secret documents?",		"npc_work_1":"What are you hanging around for?",		"dontknowyou_1":"Obviously you don't.  You're not the guy we're testing.",		"cantwork":"Sorry, friend, but this is private property.  You're not going to be allowed to walk around here.",		"npc_reset_1":"Yeah, that's what I thought.  Well, have a good day.  Hope a Tusken doesn't get ya!",		"npc_backtowork_1":"Oh, okay.  Sorry about being rude.",		"player_sorry_1":"I'm about to leave right now.",		"player_reset_1":"I've changed my mind.  I don't like where this is going.",		"player_3_1":"Why did you stutter a moment ago?",		"notyet":"Sorry, buddy, but you can't just walk in there and talk to Huff.  You need to show him that you're the kind of guy he can trust, which is no easy task.  Maybe if you can get him his grandpappy's gun that was stolen a while back, he might listen.  Last we heard, it was sold to some gun-runner on Naboo.",		"player_2_1":"Sorry, I won't do your work for you.",		"npc_noloc_1":"Darn!  I can't seem to remember where he'd meet you.  Hold on while I find out, then ask me again.",		"player_1_1":"Sure, I'll take them.",		"npc_failure_1":"He's dead?  How did he die?  That's impossible!!!",		"npc_reward_1":"I got word already.  Sorry to have to put you through that, but I thought you were working for those Hutts.  I hope you can understand our need for this test.  Anyways, thank you for the gun.  I've let Huff know that you checked out, and he wants to thank you as well.",		"gotowork":"You don't have them?  Yeah, that's what we thought... If you don't have the documents, then ",		"npc_4_1":"Oh... I... um... have this problem, you see.  I'm... umm... not good with talking to people and when you brought this gun back, I was so overjoyed that Huff will be pleased that I umm... uh, where was I?  Oh, yeah.  I stuttered when I thought you worked for... er... I mean, wanted to work for Huff.  So, are you going to take this te-- do this or not?",		"npc_3_1":"Yeah, that's what I thought.  Well, have a good day.  Hope a Tusken doesn't get ya!",		"npc_2_1":"Good!  Okay, look.  These are important blueprints, passcodes, and bank account access numbers for the Darklighter estate.  I'll need you to take this to a friend of Mr. Darklighter's whose waiting for them. Jabba would love these plans, but we trust you. Make sure the good guy -er- right guy gets them, okay?",		"npc_1_1":"Well, I'll be!  This is Huff's grandfather's gun, initials and all!  I don't know how you got this back fr- unless...hey - ummm.. I mean - Hey, that's great!  Ummm... Mr. Darklighter has a job that we can't do for him right now.  Do you think you can take these important documents to a contact for us?"
+}}

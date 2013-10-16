@@ -1,313 +1,196 @@
-[
-'311':'z95_wing_r',
-'310':'z95_wing_l',
-'309':'z95_cockpit',
-'308':'z95_chassis_token',
-'307':'z95_body',
-'306':'ywing_longprobe_chassis_token',
-'305':'ywing_chassis_token',
-'304':'yt1300_chassis_token',
-'303':'ykl37r_chassis_token',
-'302':'xwing_wing_r',
-'301':'xwing_wing_l',
-'300':'xwing_custom_kit',
-'299':'xwing_cockpit',
-'298':'xwing_chassis_token',
-'297':'xwing_booster_2',
-'296':'xwing_booster_1',
-'295':'xwing_body',
-'294':'wpn_spacebomb_missile_mk1',
-'293':'wpn_seismic_missile_mk2',
-'292':'wpn_seismic_missile_mk1',
-'291':'wpn_seismic_missile',
-'290':'wpn_proton_missile_mk2',
-'289':'wpn_proton_missile_mk1',
-'288':'wpn_proton_missile',
-'287':'wpn_missile_launcher_mk3',
-'286':'wpn_missile_launcher_mk2',
-'285':'wpn_missile_launcher_mk1',
-'284':'wpn_medium_ioncannon',
-'283':'wpn_medium_disruptor',
-'282':'wpn_medium_blaster',
-'281':'wpn_light_ioncannon',
-'280':'wpn_light_disruptor',
-'279':'wpn_light_blaster',
-'278':'wpn_launcher_spacebomb_mk2',
-'277':'wpn_launcher_spacebomb_mk1',
-'276':'wpn_launcher_spacebomb',
-'275':'wpn_launcher_seismic_mk3',
-'274':'wpn_launcher_seismic_mk2',
-'273':'wpn_launcher_seismic_mk1',
-'272':'wpn_launcher_seismic',
-'271':'wpn_launcher_proton_mk4',
-'270':'wpn_launcher_proton_mk3',
-'269':'wpn_launcher_proton_mk2',
-'268':'wpn_launcher_proton_mk1',
-'267':'wpn_launcher_proton',
-'266':'wpn_launcher_imagerec_mk2',
-'265':'wpn_launcher_imagerec_mk1',
-'264':'wpn_launcher_imagerec',
-'263':'wpn_launcher_concussion_mk3',
-'262':'wpn_launcher_concussion_mk2',
-'261':'wpn_launcher_concussion_mk1',
-'260':'wpn_launcher_concussion',
-'259':'wpn_imagerec_missile_mk2',
-'258':'wpn_imagerec_missile_mk1',
-'257':'wpn_imagerec_missile',
-'256':'wpn_heavy_ioncannon',
-'255':'wpn_heavy_disruptor',
-'254':'wpn_heavy_blaster',
-'253':'wpn_experimental_ioncannon',
-'252':'wpn_experimental_disruptor',
-'251':'wpn_experimental_blaster',
-'250':'wpn_concussion_missile_mk2',
-'249':'wpn_concussion_missile_mk1',
-'248':'wpn_concussion_missile',
-'247':'wpn_advanced_ioncannon',
-'246':'wpn_advanced_disruptor',
-'245':'wpn_advanced_blaster',
-'244':'weapon_microchaff_pack',
-'243':'weapon_microchaff_launcher',
-'242':'weapon_em_pack',
-'241':'weapon_em_launcher',
-'240':'weapon_decoy_pack',
-'239':'weapon_decoy_launcher',
-'238':'weapon_confuser_pack',
-'237':'weapon_confuser_launcher',
-'236':'weapon_chaff_pack',
-'235':'weapon_chaff_launcher',
-'234':'weapon_basic_missile_pack',
-'233':'weapon_basic_launcher',
-'232':'upgraded_retro_thrusters_mk5',
-'231':'upgraded_retro_thrusters_mk4',
-'230':'upgraded_retro_thrusters_mk3',
-'229':'upgraded_retro_thrusters_mk2',
-'228':'upgraded_retro_thrusters_mk1',
-'227':'tieoppressor_chassis_token',
-'226':'tieinterceptor_chassis_token',
-'225':'tiefighter_chassis_token',
-'224':'tiebomber_chassis_token',
-'223':'tieaggressor_chassis_token',
-'222':'tieadvanced_chassis_token',
-'221':'tie_light_duty_chassis_token',
-'220':'tie_in_chassis_token',
-'219':'tie_fighter_body',
-'218':'texture_kit_s06',
-'217':'texture_kit_s05',
-'216':'texture_kit_s04',
-'215':'texture_kit_s03',
-'214':'texture_kit_s02',
-'213':'texture_kit_s01',
-'212':'std_fuel_regulation',
-'211':'std_exhaust',
-'210':'standard_recharge_module',
-'209':'standard_projector_unit',
-'208':'standard_power_distributor',
-'207':'standard_fusion_core',
-'206':'standard_fuel_ignition',
-'205':'standard_capacitor_battery',
-'204':'speed_limiter_upgrade_mk5',
-'203':'speed_limiter_upgrade_mk4',
-'202':'speed_limiter_upgrade_mk3',
-'201':'speed_limiter_upgrade_mk2',
-'200':'speed_limiter_upgrade_mk1',
-'199':'ship_deed',
-'198':'shield_overcharger_mk5',
-'197':'shield_overcharger_mk4',
-'196':'shield_overcharger_mk3',
-'195':'shield_overcharger_mk2',
-'194':'shield_overcharger_mk1',
-'193':'shield_limiter_mk5',
-'192':'shield_limiter_mk4',
-'191':'shield_limiter_mk3',
-'190':'shield_limiter_mk2',
-'189':'shield_limiter_mk1',
-'188':'shield_intensifier_mk5',
-'187':'shield_intensifier_mk4',
-'186':'shield_intensifier_mk3',
-'185':'shield_intensifier_mk2',
-'184':'shield_intensifier_mk1',
-'183':'shield_energy_saver_kit_mk5',
-'182':'shield_energy_saver_kit_mk4',
-'181':'shield_energy_saver_kit_mk3',
-'180':'shield_energy_saver_kit_mk2',
-'179':'shield_energy_saver_kit_mk1',
-'178':'shield_effectiveness_intensifier_mk5',
-'177':'shield_effectiveness_intensifier_mk4',
-'176':'shield_effectiveness_intensifier_mk3',
-'175':'shield_effectiveness_intensifier_mk2',
-'174':'shield_effectiveness_intensifier_mk1',
-'173':'secondary_fuel_tank',
-'172':'rev_deed',
-'171':'retrofit_kit',
-'170':'reactor_overcharger_mk5',
-'169':'reactor_overcharger_mk4',
-'168':'reactor_overcharger_mk3',
-'167':'reactor_overcharger_mk2',
-'166':'reactor_overcharger_mk1',
-'165':'reactor_limiter_mk5',
-'164':'reactor_limiter_mk4',
-'163':'reactor_limiter_mk3',
-'162':'reactor_limiter_mk2',
-'161':'reactor_limiter_mk1',
-'160':'quick_shot_upgrade_mk5',
-'159':'quick_shot_upgrade_mk4',
-'158':'quick_shot_upgrade_mk3',
-'157':'quick_shot_upgrade_mk2',
-'156':'quick_shot_upgrade_mk1',
-'155':'quick_recharge_battery_mk5',
-'154':'quick_recharge_battery_mk4',
-'153':'quick_recharge_battery_mk3',
-'152':'quick_recharge_battery_mk2',
-'151':'quick_recharge_battery_mk1',
-'150':'primary_fuel_tank',
-'149':'min_damage_intensifier_mk5',
-'148':'min_damage_intensifier_mk4',
-'147':'min_damage_intensifier_mk3',
-'146':'min_damage_intensifier_mk2',
-'145':'min_damage_intensifier_mk1',
-'144':'max_damage_intensifier_mk5',
-'143':'max_damage_intensifier_mk4',
-'142':'max_damage_intensifier_mk3',
-'141':'max_damage_intensifier_mk2',
-'140':'max_damage_intensifier_mk1',
-'139':'mass_reduction_kit_mk5',
-'138':'mass_reduction_kit_mk4',
-'137':'mass_reduction_kit_mk3',
-'136':'mass_reduction_kit_mk2',
-'135':'mass_reduction_kit_mk1',
-'134':'maintenance_reduction_kit_mk5',
-'133':'maintenance_reduction_kit_mk4',
-'132':'maintenance_reduction_kit_mk3',
-'131':'maintenance_reduction_kit_mk2',
-'130':'maintenance_reduction_kit_mk1',
-'129':'light_deflector_shields',
-'128':'lgt_durasteel_plating',
-'127':'hyperdrive_class3',
-'126':'hyperdrive_class2',
-'125':'hyperdrive_class1',
-'124':'hvy_durasteel_plating',
-'123':'hutt_turret_ship_chassis_token',
-'122':'hutt_medium_chassis_token',
-'121':'hutt_light_chassis_token',
-'120':'hutt_lgt_wing_s02',
-'119':'hutt_lgt_wing_s01',
-'118':'hutt_lgt_body',
-'117':'hutt_heavy_chassis_token',
-'116':'heavy_fuel_cell_mk5',
-'115':'heavy_fuel_cell_mk4',
-'114':'heavy_fuel_cell_mk3',
-'113':'heavy_fuel_cell_mk2',
-'112':'heavy_fuel_cell_mk1',
-'111':'heavy_deflector_shields',
-'110':'heavy_battery_mk5',
-'109':'heavy_battery_mk4',
-'108':'heavy_battery_mk3',
-'107':'heavy_battery_mk2',
-'106':'heavy_battery_mk1',
-'105':'fusion_reactor_mk5',
-'104':'fusion_reactor_mk4',
-'103':'fusion_reactor_mk3',
-'102':'fusion_reactor_mk2',
-'101':'fusion_reactor_mk1',
-'100':'firespray_chassis_token',
-'99':'fast_charge_fuel_cell_mk5',
-'98':'fast_charge_fuel_cell_mk4',
-'97':'fast_charge_fuel_cell_mk3',
-'96':'fast_charge_fuel_cell_mk2',
-'95':'fast_charge_fuel_cell_mk1',
-'94':'extended_life_fuel_cell_mk5',
-'93':'extended_life_fuel_cell_mk4',
-'92':'extended_life_fuel_cell_mk3',
-'91':'extended_life_fuel_cell_mk2',
-'90':'extended_life_fuel_cell_mk1',
-'89':'extended_life_battery_mk5',
-'88':'extended_life_battery_mk4',
-'87':'extended_life_battery_mk3',
-'86':'extended_life_battery_mk2',
-'85':'extended_life_battery_mk1',
-'84':'exp_durasteel_plating',
-'83':'exp_deflector_shields',
-'82':'engine_overdriver_mk5',
-'81':'engine_overdriver_mk4',
-'80':'engine_overdriver_mk3',
-'79':'engine_overdriver_mk2',
-'78':'engine_overdriver_mk1',
-'77':'engine_mass_reduction_kit_mk5',
-'76':'engine_mass_reduction_kit_mk4',
-'75':'engine_mass_reduction_kit_mk3',
-'74':'engine_mass_reduction_kit_mk2',
-'73':'engine_mass_reduction_kit_mk1',
-'72':'engine_limiter_mk5',
-'71':'engine_limiter_mk4',
-'70':'engine_limiter_mk3',
-'69':'engine_limiter_mk2',
-'68':'engine_limiter_mk1',
-'67':'eng_mk5',
-'66':'eng_mk4',
-'65':'eng_mk3',
-'64':'eng_mk2',
-'63':'eng_mk1',
-'62':'energy_saver_battery_mk5',
-'61':'energy_saver_battery_mk4',
-'60':'energy_saver_battery_mk3',
-'59':'energy_saver_battery_mk2',
-'58':'energy_saver_battery_mk1',
-'57':'energy_absorption_layer',
-'56':'durasteel_plating',
-'55':'durasteel_panel',
-'54':'droid_brain_upgrade_mk5',
-'53':'droid_brain_upgrade_mk4',
-'52':'droid_brain_upgrade_mk3',
-'51':'droid_brain_upgrade_mk2',
-'50':'droid_brain_upgrade_mk1',
-'49':'deflector_shields',
-'48':'decimator_chassis_token',
-'47':'ddi_mk5',
-'46':'ddi_mk4',
-'45':'ddi_mk3',
-'44':'ddi_mk2',
-'43':'ddi_mk1',
-'42':'capacitor_mk5',
-'41':'capacitor_mk4',
-'40':'capacitor_mk3',
-'39':'capacitor_mk2',
-'38':'capacitor_mk1',
-'37':'bwing_chassis_token',
-'36':'booster_overdriver_mk5',
-'35':'booster_overdriver_mk4',
-'34':'booster_overdriver_mk3',
-'33':'booster_overdriver_mk2',
-'32':'booster_overdriver_mk1',
-'31':'booster_mk5',
-'30':'booster_mk4',
-'29':'booster_mk3',
-'28':'booster_mk2',
-'27':'booster_mk1',
-'26':'blaster_deflection_layer',
-'25':'blacksun_medium_chassis_token',
-'24':'blacksun_light_chassis_token',
-'23':'blacksun_heavy_chassis_token',
-'22':'awing_chassis_token',
-'21':'armor_reinforcement_panel_mk5',
-'20':'armor_reinforcement_panel_mk4',
-'19':'armor_reinforcement_panel_mk3',
-'18':'armor_reinforcement_panel_mk2',
-'17':'armor_reinforcement_panel_mk1',
-'16':'armor_effectiveness_intensifier_mk5',
-'15':'armor_effectiveness_intensifier_mk4',
-'14':'armor_effectiveness_intensifier_mk3',
-'13':'armor_effectiveness_intensifier_mk2',
-'12':'armor_effectiveness_intensifier_mk1',
-'11':'analysis_tool',
-'10':'advanced_recharge_module',
-'9':'advanced_projector_unit',
-'8':'advanced_power_distributor',
-'7':'advanced_fusion_core',
-'6':'advanced_fuel_ignition',
-'5':'advanced_capacitor_battery',
-'4':'adv_fuel_regulation',
-'3':'adv_exhaust',
-'2':'adv_durasteel_plating',
-'1':'adv_deflector_shields',
-]
+{
+	"stfFile":"space_crafting_d",
+	"entries": {
+		"z95_wing_r":"A disassembled right wing for a Z-95 Headhunter.",		"z95_wing_l":"A disassembled left wing for a Z-95 Headhunter.",		"z95_cockpit":"A cockpit for a Z-95 Headhunter.",		"z95_chassis_token":"Incom/Subpro Z-95-AF4 Headhunter 
+One of the oldest starfighters still in use, the Headhunter predates the Battle of Yavin by several decades and has experienced several revivals since its first appearance. The starfighter's longevity is based on its legendary resilience and it still remains an attractive option to mercenaries and security personnel throughout the galaxy. The starfighter is identified by a pair of fixed wings equipped equipped with rear-mounted maneuvering jets. Easy to modify, the Headhunter can support a wide range of laser cannons and missile-launcher, placing it on par with the Y-wing in terms of sheer destructive capability. The Rebel Alliance has even been known to convert Headhunters for short-range bombing runs. The Rebels also use Headhunters for training missions because the vehicle's controls are nearly identical to those of the X-wing and Y-wing. ",		"z95_body":"A wingless body of a Z-95 Headhunter.  This needs wings and a cockpit to be considered a complete chassis.",		"ywing_longprobe_chassis_token":"Koensayr BTL-A4 Y-Wing (LP) LongProbeAttack Starfighter 
+Prior to the advent of the X-wing, the Y-wing served as the Rebel Alliance's primary attack starfighter. The snub fighter, characterized by its triangular cockpit and two long engine pylons was considered outdated by the time of the Battle of Yavin, but its durability and heavy-firepower has ensured it a place in Alliance fleet. While the Alliance relies on the Y-wing for everything from escort duty to reconnaissance, the starfighter was originally designed for close-quarters combat with space stations and large starships. Light bombing runs and surgical strikes are also part of the Y-wing's mission profile. The starfighter's modular weapons emplacements allow it to be upgraded easily, yet another reason for its continued success. While the Rebel Alliance maintains the largest fleet of active Y-wings, the starfighters are also in heavy use by criminal organizations, mercenary groups, pirates, and privateers.",		"ywing_chassis_token":"Koensayr BTL-S3 Y-Wing Attack Starfighter 
+Prior to the advent of the X-wing, the Y-wing served as the Rebel Alliance's primary attack starfighter. The snub fighter, characterized by its triangular cockpit and two long engine pylons was considered outdated by the time of the Battle of Yavin, but its durability and heavy-firepower has ensured it a place in Alliance fleet. While the Alliance relies on the Y-wing for everything from escort duty to reconnaissance, the starfighter was originally designed for close-quarters combat with space stations and large starships. Light bombing runs and surgical strikes are also part of the Y-wing's mission profile. The starfighter's modular weapons emplacements allow it to be upgraded easily, yet another reason for its continued success. While the Rebel Alliance maintains the largest fleet of active Y-wings, the starfighters are also in heavy use by criminal organizations, mercenary groups, pirates, and privateers.
+
+The Y-Wing can accomodate a second person in the gunner position.  You must launch while grouped with a friend to take advantage of this feature.",		"yt1300_chassis_token":"YT-1300 
+Corellian Engineering Corporation YT-1300 Transport 
+A stock light freighter, the YT-1300 is an adaptable, all-purpose, cargo transport built on a modular design. Off the assembly line, a YT-1300 is a fairly standard vessel, with rudimentary engine, communications, and life-support systems. However, the vessel's appeal is the fact that it can be upgraded with great ease. In fact, Corellian Engineering Corporation has earned a small fortune selling conversion kits. The most popular modification is an enhanced hyperdrive package, although many pilots also outfit the craft with military-grade weapons, long-range sensor suites, and powerful deflector shields. Han Solo's Millennium Falcon is the most infamous (and most heavily-modified) YT-1300 in existence.
+",		"ykl37r_chassis_token":"Gallofree YKL-37R Nova Courier
+The Nova Courier follows the pattern well-established by Corellian Engineering Corporation's 'YT' series of transports. Although the larger freighters such as the Medium Transport are built to ply the shipping lanes which are patrolled and relatively free of obstructions, and make their profits on the idea of efficiency of scale, the smaller transports profit off of the special services they offer. They are smaller, more maneuverable vessels equipped for carrying smaller cargos through safe and hazardous space, and they possess a nominal ability to defend themselves. Intended to be crewed by just a handful, almost all systems are made to be accessible and maintainable by a small crew with light tools. In the hands of Rebellion pilots, the Nova Couriers have developed a reputation for being adept at ducking into asteroid belts to avoid pursuers, fighting off individual TIE patrol ships, and generally becoming masters of smuggling weapons, information, and personnel past Imperial blockades.",		"xwing_wing_r":"A disassembled right wing for an X-Wing starfighter.",		"xwing_wing_l":"A disassembled left wing for a X-Wing starfighter.",		"xwing_custom_kit":"A paint kit used to change the coloration of many starfighters.  
+
+RESTRICTIONS:  Imperial ships may not be colorized.",		"xwing_cockpit":"A cockpit for an X-Wing starfighter.",		"xwing_chassis_token":"X-Wing 
+Incom Corporation T-65 X-Wing Space Superiority Fighter 
+The X-wing is among the most advanced single-pilot starfighter ever produced. The starfighter receives its name from its double-layered wings, which separate into an "X" formation during combat to increase the craft's field of fire. Each wing is armed with a high-powered laser cannon and accurate proton torpedo launchers. Although the X-wing is designed for just one pilot and no passengers, the X-wing jockey is never truly alone thanks to the astromech socket located behind the cockpit. One of the X-wing's greatest assets is its durability: the fighter's reinforced titanium alloy hull, deflector shield projectors, and transparisteel canopy ensure that it can withstand several hits without suffering serious damage. The X-wing's history is nearly as important as its capabilities. Designed by Incom Corporation in the early days of the Empire, the X-wing schematics found their way into Rebel hands when several Incom engineers defected to the Alliance. The Rebels began producing the X-wings in modest numbers and the vehicle has quickly become one the most important weapons in the Alliance arsenal.",		"xwing_booster_2":"A Mark II booster designed for an X-Wing starfighter.",		"xwing_booster_1":"A Mark I booster designed for an X-Wing starfighter. ",		"xwing_body":"A wingless body of an X-Wing starfighter.  This needs wings and a cockpit to be considered a complete chassis.",		"wpn_spacebomb_missile_mk1":"A pack of high-yield spacebombs. These missiles are bulky and ponderous. They move toward a target slowly and can only track for a limited amount of time. Due to its slow rate of speed, spacebombs are particularly vulnerable to countermeasure and point defense systems. If the spacebomb survives to reach the target, it packs a wicked punch. Spacebombs are usually deployed against capital ships, undefended hard targets, and targets that aren't carrying countermeasures.",		"wpn_seismic_missile_mk2":"A pack of seismic missiles.  These can be loaded into a missile launcher by dragging them onto the launcher.",		"wpn_seismic_missile_mk1":"A pack of seismic missiles.  These can be loaded into a missile launcher by dragging them onto the launcher.",		"wpn_seismic_missile":"A pack of seismic armor piercing missiles. Seismic missiles, also called "shakers", are designed to penetrate the upper layers of a target's armor plating. The missile then shatters into a high frequency pulse-blast that buckles the remaining armor. These missiles are highly effective against armor, but have a hard time penetrating energy shields.",		"wpn_proton_missile_mk2":"A pack of proton missiles.  These can be loaded into a missile launcher by dragging them onto the launcher.",		"wpn_proton_missile_mk1":"A pack of proton missiles.  These can be loaded into a missile launcher by dragging them onto the launcher.",		"wpn_proton_missile":"A standard spec proton missile pack. This is a lightweight, small-sized missile in standard military use. It is moderately effective against shields and armor. A larger number of these missiles can be carried due to their compact size.",		"wpn_missile_launcher_mk3":"This is a missile launcher.  Missile packs can be equipped into this launcher by dragging the missiles onto the launcher when it is equipped in your ship.",		"wpn_missile_launcher_mk2":"This is a missile launcher.  Missile packs can be equipped into this launcher by dragging the missiles onto the launcher when it is equipped in your ship.",		"wpn_missile_launcher_mk1":"This is a missile launcher.  Missile packs can be equipped into this launcher by dragging the missiles onto the launcher when it is equipped in your ship.",		"wpn_medium_ioncannon":"Equipment Certification Level: 3
+
+A mid-grade ion cannon.  Ion cannons are effective at disabling the shield projectors and generators on starships, but lack strength when trying to penetrate heavy armor plating.",		"wpn_medium_disruptor":"Equipment Certification Level: 3
+
+A mid-grade starship disruptor.  Disruptor guns are most effective against armor plating and weaves on starships, and least effective against shield projectors and generators.",		"wpn_medium_blaster":"Equipment Certification Level: 3
+
+A mid-grade starship blaster.  Blasters are effective in disabling shield projectors and generators, but are also effective against armor plating on most starships.",		"wpn_light_ioncannon":"Equipment Certification Level: 1
+
+A light ion cannon.  Ion cannons are effective at disabling the shield projectors and generators on starships, but lack strength when trying to penetrate heavy armor plating.",		"wpn_light_disruptor":"Equipment Certification Level: 1
+
+A light starship disruptor.  Disruptor guns are most effective against armor plating and weaves on starships, and least effective against shield projectors and generators.",		"wpn_light_blaster":"Equipment Certification Level: 1
+
+A light starship blaster.  Blasters are effective in disabling shield projectors and generators, but are also effective against armor plating on most starships.",		"wpn_launcher_spacebomb_mk2":"Equipment Certification Level: 10
+
+This missile launcher accepts spacebombs.",		"wpn_launcher_spacebomb_mk1":"Equipment Certification Level: 5
+
+This missile launcher accepts spacebombs.",		"wpn_launcher_spacebomb":"This missile launcher accepts spacebombs.",		"wpn_launcher_seismic_mk3":"Equipment Certification Level: 9
+
+This missile launcher accepts seismic missiles.",		"wpn_launcher_seismic_mk2":"Equipment Certification Level: 6
+
+This missile launcher accepts seismic missiles.",		"wpn_launcher_seismic_mk1":"Equipment Certification Level: 3
+
+This missile launcher accepts seismic missiles.",		"wpn_launcher_seismic":"This missile launcher accepts seismic missiles.",		"wpn_launcher_proton_mk4":"Equipment Certification Level: 9
+
+This missile launcher accepts proton missiles.",		"wpn_launcher_proton_mk3":"Equipment Certification Level: 6
+
+This missile launcher accepts proton missiles.",		"wpn_launcher_proton_mk2":"Equipment Certification Level: 3
+
+This missile launcher accepts proton missiles.",		"wpn_launcher_proton_mk1":"Equipment Certification Level: 1
+
+This missile launcher accepts proton missiles.",		"wpn_launcher_proton":"This missile launcher accepts proton missiles.",		"wpn_launcher_imagerec_mk2":"Equipment Certification Level: 8
+
+This missile launcher accepts Image-Rec missiles.",		"wpn_launcher_imagerec_mk1":"Equipment Certification Level: 4
+
+This missile launcher accepts Image-Rec missiles.",		"wpn_launcher_imagerec":"This missile launcher accepts Image-Rec missiles.",		"wpn_launcher_concussion_mk3":"Equipment Certification Level: 8
+
+This missile launcher accepts concussion missiles.",		"wpn_launcher_concussion_mk2":"Equipment Certification Level: 5
+
+This missile launcher accepts concussion missiles.",		"wpn_launcher_concussion_mk1":"Equipment Certification Level: 2
+
+This missile launcher accepts concussion missiles.",		"wpn_launcher_concussion":"This missile launcher accepts concussion missiles.",		"wpn_imagerec_missile_mk2":"A pack of image-rec missiles.  These can be loaded into a missile launcher by dragging them onto the launcher.",		"wpn_imagerec_missile_mk1":"A pack of image-rec missiles.  These can be loaded into a missile launcher by dragging them onto the launcher.",		"wpn_imagerec_missile":"A pack of sophisticated Image-Rec missiles. These missiles have an advanced target identification and tracking computer loaded on board. Image-Rec missiles are able to track longer and avoid standard countermeasures. The missile is moderately effective against shields and armor.",		"wpn_heavy_ioncannon":"Equipment Certification Level: 5
+
+A heavy ion cannon.  Ion cannons are effective at disabling the shield projectors and generators on starships, but lack strength when trying to penetrate heavy armor plating.",		"wpn_heavy_disruptor":"Equipment Certification Level: 5
+
+A heavy starship disruptor.  Disruptor guns are most effective against armor plating and weaves on starships, and least effective against shield projectors and generators.",		"wpn_heavy_blaster":"Equipment Certification Level: 5
+
+A heavy starship blaster.  Blasters are effective in disabling shield projectors and generators, but are also effective against armor plating on most starships.",		"wpn_experimental_ioncannon":"Equipment Certification Level: 9
+
+An experimental ion cannon.  Ion cannons are effective at disabling the shield projectors and generators on starships, but lack strength when trying to penetrate heavy armor plating.",		"wpn_experimental_disruptor":"Equipment Certification Level: 9
+
+An experimental starship disruptor.  Disruptor guns are most effective against armor plating and weaves on starships, and least effective against shield projectors and generators.",		"wpn_experimental_blaster":"Equipment Certification Level: 9
+
+An experimental starship blaster.  Blasters are effective in disabling shield projectors and generators, but are also effective against armor plating on most starships.",		"wpn_concussion_missile_mk2":"A pack of concussion missiles.  These can be loaded into a missile launcher by dragging them onto the launcher.",		"wpn_concussion_missile_mk1":"A pack of concussion missiles.  These can be loaded into a missile launcher by dragging them onto the launcher.",		"wpn_concussion_missile":"A pack of anti-shield concussion missiles. These missiles explode just before impact with the target. The concussion blast rapidly expands across a large surface area, stressing shield generators. The missile is very effective against shields, but has no armor penetration.",		"wpn_advanced_ioncannon":"Equipment Certification Level: 7
+
+An advanced ion cannon.  Ion cannons are effective at disabling the shield projectors and generators on starships, but lack strength when trying to penetrate heavy armor plating.",		"wpn_advanced_disruptor":"Equipment Certification Level: 7
+
+An advanced starship disruptor.  Disruptor guns are most effective against armor plating and weaves on starships, and least effective against shield projectors and generators.",		"wpn_advanced_blaster":"Equipment Certification Level: 7
+
+An advanced starship blaster.  Blasters are effective in disabling shield projectors and generators, but are also effective against armor plating on most starships.",		"weapon_microchaff_pack":"Ammo pack for a Micro-Chaff launcher.",		"weapon_microchaff_launcher":"A Micro-Chaff launcher used to deter incoming missiles. More effective than standard chaff or a sensor decoy.",		"weapon_em_pack":"An ammo pack for an EM Emitter launcher.",		"weapon_em_launcher":"An EM Emitter launcher used to deter incoming missiles. It creates a small electromagnetic field that disrupts missile subsystems. Highly effective.",		"weapon_decoy_pack":"Ammo pack for a sensor decoy launcher.",		"weapon_decoy_launcher":"A sensor decoy system used to deter incoming missiles.",		"weapon_confuser_pack":"Ammo pack for a IFF Confuser launcher.",		"weapon_confuser_launcher":"An IFF Confuser launcher used to deter incoming missiles. Launches a small device that makes enemy missiles think they are headed toward a friendly target. More effective than Micro-Chaff.",		"weapon_chaff_pack":"Ammo pack for a chaff launcher.",		"weapon_chaff_launcher":"A chaff launcher used to deter incoming missiles.",		"weapon_basic_missile_pack":"A standard pack of homing missiles designed for a standard wing mounted missile launcher.",		"weapon_basic_launcher":"A standard wing mounted missile launcher.  Equip a missile pack into this launcher to make it operational.",		"upgraded_retro_thrusters_mk5":"This is a component used in the manufacture of starfighter engines.  These retro-thrusters increase the deceleration ability of the ship, but they adversely affect the mass of the ship.",		"upgraded_retro_thrusters_mk4":"This is a component used in the manufacture of starfighter engines.  These retro-thrusters increase the deceleration ability of the ship, but they adversely affect the mass of the ship.",		"upgraded_retro_thrusters_mk3":"This is a component used in the manufacture of starfighter engines.  These retro-thrusters increase the deceleration ability of the ship, but they adversely affect the mass of the ship.",		"upgraded_retro_thrusters_mk2":"This is a component used in the manufacture of starfighter engines.  These retro-thrusters increase the deceleration ability of the ship, but they adversely affect the mass of the ship.",		"upgraded_retro_thrusters_mk1":"This is a component used in the manufacture of starfighter engines.  These retro-thrusters increase the deceleration ability of the ship, but they adversely affect the mass of the ship.",		"tieoppressor_chassis_token":"Sienar Fleet Systems TIE Oppressor Strike Starfighter
+A recent development, the TIE Oppressor is being deployed in limited numbers among selected units of the Imperial starfighter cadre elite. It is an attempt to build a variant of the standard TIE hull that can carry heavy weapon payloads with sufficient armor and shielding to allow the ship to operate in the vanguard of an Imperial assault force. It also has enough solar array surface to assist in generation of the energy needed to power it all. All of the offensive and defensive equipment packed into the Oppressor comes at the cost of space for engine installations. Although most Imperial fighters are designed to have superior maneuverability, this is a trait in which the TIE Oppressor is rated by most of its pilots as merely average. This lack of dizzying maneuverability is a result of the Oppressor mounting the same basic engine arrangement as seen on earlier TIE starfighter types, but with its thrust being sapped by much heavier and more solid spaceframe. In return for the deficits in combat maneuvering capability, the Oppressor carries one of the most potent offensive and defensive packages fielded in any Imperial starfighter spaceframe. 
+
+Only the most veteran Imperial TIE pilots are being allowed to participate in the Oppressor flight test program as only these personnel are deemed to have the tactical know-how to properly employ the ship as well as the loyalty to be trusted with such as expensive flight article. Although currently serving in the fleet as part of a 'Limited Fielding Test Initiative' and considered a minor trial program by the Imperial Navy, the actual numbers of fighters being fielded would make most Alliance officers wince.
+",		"tieinterceptor_chassis_token":"Sienar Fleet Systems TIE Interceptor 
+The TIE interceptor is a direct response to the Rebel Alliance's development of faster and more dangerous starfighters. Hoping to develop a vehicle that could compete with the A-wing in both speed and maneuverability, Sienar Fleet Systems has invested huge sums into improving upon the standard TIE fighter's existing twin ion engines. The resulting ion stream projectors allow TIE interceptors to execute tight turns and rolls not possible in most other starfighters. This complex engine system makes the TIE interceptor one of the fastest starfighter in the Imperial fleet, and it outperforms nearly every starfighter in the galaxy during dogfights. The TIE interceptor's bent wings, an element lifted directly from the TIE Advanced prototype, give the starfighter a smaller profile and increased power.",		"tiefighter_chassis_token":"Sienar Fleet Systems TIE/Ln Space Superiority Starfighter 
+From the beginning of the Galactic Civil War, the Emperor has stressed that the conflict will be a war of attrition. Nowhere is that philosophy more evident than in the design and tactics of the staple starfighter of the Imperial Navy, the TIE fighter. TIE fighters are meant to overwhelm enemy forces in huge numbers and have therefore been designed for speed and affordability rather than resilience. The TIE fighter is built around twin ion engine technology and is among the fastest and most maneuverable craft in the galaxy. The TIE fighter can outrun most Alliance vehicles. And while the TIE fighter's standard laser cannons are not very powerful on their own, when dozens of TIE fighters attack simultaneously, they can demolish anything in their path.",		"tiebomber_chassis_token":"Sienar Fleet Systems TIE Bomber 
+Of all the TIE fighter variants produced by Sienar Fleet Systems for the Galactic Empire, the TIE bomber is one of the most effective. The heavy assault ship, designed for strategic strikes against surface and deep space targets, is one of the most heavily-armed starships in the Imperial fleet. TIE bombers utilize the distinctive bent wings found on the TIE Advanced prototype. These solar array panels frame a rounded TIE cockpit and a large ordnance pod that can be configured to carry a wide array of destructive weapons. While not nearly as fast or agile as the original TIE fighter, TIE bombers are much more destructive. A single TIE bomber's payload can include a volatile combination of torpedoes, missiles, and other explosives. TIE bombers are deployed against space stations, orbital docking platforms, and orbital facilities, but they are especially effective against capital ships. After standard TIE fighters weaken the target's defenses, the bombers swoop in to disable vital areas such as the shield generators and engines.",		"tieaggressor_chassis_token":"SANTHE/SIENAR Technologies TIE Aggressor
+The TIE Aggressor is a heavy fighter-bomber multi-role craft that was developed prior to the destruction of the first Death Star and as a direct response to a perceived growth in the amount of heavy shipping aligned with the Rebel Alliance. Its most obvious design feature is an anti-fighter defensive turret mounted on the aft dorsal surface of the fuselage, and a heavier than normal forward-firing laser cannon battery. 
+The TIE Aggressor is neither fighter nor bomber, but rather something in between. It's a favorite with the more free-spirited pilots of the Imperial fighter cadre who enjoy longer missions away from base where they can be apart from the larger formations normally associated with an Imperial raid on Rebellion re-supply shipping.
+
+The TIE Aggressor can accomodate a second person in the gunner position.  You must launch while grouped with a friend to take advantage of this feature.",		"tieadvanced_chassis_token":"Sienar Fleet Systems TIE Advanced x1 Prototype 
+The TIE Advanced is the prototype TIE fighter flown by Darth Vader at the Battle of Yavin. An experimental craft combining TIE fighter technology with more conventional starfighter components, like a hyperdrive and deflector shield generators, the TIE Advanced eventually became the template for the incredibly efficient TIE interceptor. As in all TIE starfighters, the prototype's propulsion system revolves around twin ion engines, although its solar ionization reactor is much more powerful than those on standard TIE fighters. Despite the improved power supply, Vader's TIE proved only slightly faster than the previous TIE models due to inefficient shield generators, which consumed a great deal of power, and the increased mass created by the addition of heavy armor plating. With Darth Vader at the controls, the TIE Advanced is a devastating starfighter. While piloting the prototype, Vader very nearly thwarted the Rebel Alliance's attempt to destroy the Death Star. Only the last-minute arrival of Han Solo and the Millennium Falcon prevented the Sith Lord from firing on Luke Skywalker's X-wing. After being clipped by the Falcon's quad laser cannons, the prototype spun into space. Vader eventually regained of control of the craft and fled to the nearest Imperial facility. The prototype has been repaired and remains one of Vader's most prized possessions. ",		"tie_light_duty_chassis_token":"Sienar Fleet Systems TIE Space Superiority Starfighter 
+From the beginning of the Galactic Civil War, the Emperor has stressed that the conflict will be a war of attrition. Nowhere is that philosophy more evident than in the design and tactics of the staple starfighter of the Imperial Navy, the TIE fighter. TIE fighters are meant to overwhelm enemy forces in huge numbers and have therefore been designed for speed and affordability rather than resilience. The TIE fighter is built around twin ion engine technology and is among the fastest and most maneuverable craft in the galaxy. The TIE fighter can outrun most Alliance vehicles. And while the TIE fighter's standard laser cannons are not very powerful on their own, when dozens of TIE fighters attack simultaneously, they can demolish anything in their path.
+
+The TIE Light Duty is a slighty less powerful version of the TIE fighter. It is used to allow new pilots to get used to the unique nature of flight combat operations in space, without using up more expensive higher-end vessels. TIE Light Duty's are either high-mileage units that are pulled off the line and rebuilt, or are new hulls fitted out with salvaged and refurbished parts. In addition to using lesser-rated parts in the construction of the TIE Light Duty, limiters are placed on the power generation and other systems in an effort to both keep the trainee pilot out of trouble, and prevent over-stressing the weaker equipment.
+",		"tie_in_chassis_token":"Sienar Fleet Systems TIE/ln Space Superiority Starfighter 
+From the beginning of the Galactic Civil War, the Emperor has stressed that the conflict will be a war of attrition. Nowhere is that philosophy more evident than in the design and tactics of the staple starfighter of the Imperial Navy, the TIE fighter. TIE fighters are meant to overwhelm enemy forces in huge numbers and have therefore been designed for speed and affordability rather than resilience. The TIE fighter is built around twin ion engine technology and is among the fastest and most maneuverable craft in the galaxy. The TIE fighter can outrun most Alliance vehicles. And while the TIE fighter's standard laser cannons are not very powerful on their own, when dozens of TIE fighters attack simultaneously, they can demolish anything in their path.
+
+The TIE/ln is the direct result of the continual evolution of the TIE fighter design. Revisions in the design brought on by analysis of engagements in which the TIE fighter participated have directed the implementation of little changes to the design which have reached their current level of development in the TIE/ln. This improved TIE can carry a slightly heavier load of weaponry and avionics. The only externally visible difference between the TIE/ln and the TIE is that the newer revision is a slightly darker color.
+",		"tie_fighter_body":"A body segment for a TIE style fighter.  This is a required component on all TIE variants.",		"texture_kit_s06":"This kit can change the paint style of a starfighter.
+
+RESTRICTIONS:  Imperial ships may not be re-textured.",		"texture_kit_s05":"This kit can change the paint style of a starfighter.
+
+RESTRICTIONS:  Imperial ships may not be re-textured.",		"texture_kit_s04":"This kit can change the paint style of a starfighter.
+
+RESTRICTIONS:  Imperial ships may not be re-textured.",		"texture_kit_s03":"This kit can change the paint style of a starfighter.
+
+RESTRICTIONS:  Imperial ships may not be re-textured.",		"texture_kit_s02":"This kit can change the paint style of a starfighter.
+
+RESTRICTIONS:  Imperial ships may not be re-textured.",		"texture_kit_s01":"This kit can change the paint style of a starfighter.
+
+RESTRICTIONS:  Imperial ships may not be re-textured.",		"std_fuel_regulation":"An advanced fuel regulation system for a starfighter engine.  The regulation system affects the fuel mixture burned by the sublight drives, so a well built system will positively affect engine performance.",		"std_exhaust":"A standard exhaust system for a starfighter engine.  A well built exhaust system can significantly affect engine performance.",		"standard_recharge_module":"A standard grade recharge module for a starship weapon capacitor.",		"standard_projector_unit":"A standard projector unit.  This is the system that projects the generated shields to the parts of the ship that require it.",		"standard_power_distributor":"As one might expect from the name, this system distributes energy generated by the reactor to the components in a ship that require it.  ",		"standard_fusion_core":"A standard fusion core.  A well built fusion core affects the generation rate of a reactor.",		"standard_fuel_ignition":"A standard booster fuel ignition system.  A component used in the production of starship boosters.",		"standard_capacitor_battery":"A standard grade starship weapon capacitor battery.",		"speed_limiter_upgrade_mk5":"This is a component used in the manufacture of starfighter weapons.  A limiter decreases the firing rate of a weapon, but also decreases the capacitor energy required per shot.",		"speed_limiter_upgrade_mk4":"This is a component used in the manufacture of starfighter weapons.  A limiter decreases the firing rate of a weapon, but also decreases the capacitor energy required per shot.",		"speed_limiter_upgrade_mk3":"This is a component used in the manufacture of starfighter weapons.  A limiter decreases the firing rate of a weapon, but also decreases the capacitor energy required per shot.",		"speed_limiter_upgrade_mk2":"This is a component used in the manufacture of starfighter weapons.  A limiter decreases the firing rate of a weapon, but also decreases the capacitor energy required per shot.",		"speed_limiter_upgrade_mk1":"This is a component used in the manufacture of starfighter weapons.  A limiter decreases the firing rate of a weapon, but also decreases the capacitor energy required per shot.",		"ship_deed":"A deed for a completed starship chassis.  If the owner of this deed does not currently own a ship, this can be unpacked into a working starship chassis.",		"shield_overcharger_mk5":"This is a component used in the manufacture of starfighter shield generators.  An overcharger increases the effectiveness of shields, but decreases the recharge rate.",		"shield_overcharger_mk4":"This is a component used in the manufacture of starfighter shield generators.  An overcharger increases the effectiveness of shields, but decreases the recharge rate.",		"shield_overcharger_mk3":"This is a component used in the manufacture of starfighter shield generators.  An overcharger increases the effectiveness of shields, but decreases the recharge rate.",		"shield_overcharger_mk2":"This is a component used in the manufacture of starfighter shield generators.  An overcharger increases the effectiveness of shields, but decreases the recharge rate.",		"shield_overcharger_mk1":"This is a component used in the manufacture of starfighter shield generators.  An overcharger increases the effectiveness of shields, but decreases the recharge rate.",		"shield_limiter_mk5":"This is a component used in the manufacture of starfighter shield generators.  A limiter decreases the effectiveness of the generator, but increases the recharge rate of the shields.",		"shield_limiter_mk4":"This is a component used in the manufacture of starfighter shield generators.  A limiter decreases the effectiveness of the generator, but increases the recharge rate of the shields.",		"shield_limiter_mk3":"This is a component used in the manufacture of starfighter shield generators.  A limiter decreases the effectiveness of the generator, but increases the recharge rate of the shields.",		"shield_limiter_mk2":"This is a component used in the manufacture of starfighter shield generators.  A limiter decreases the effectiveness of the generator, but increases the recharge rate of the shields.",		"shield_limiter_mk1":"This is a component used in the manufacture of starfighter shield generators.  A limiter decreases the effectiveness of the generator, but increases the recharge rate of the shields.",		"shield_intensifier_mk5":"This is a component used in the manufacture of starfighter shield generators.  An intensifier increases the shield effectiveness, but also increases the energy maintenance.",		"shield_intensifier_mk4":"This is a component used in the manufacture of starfighter shield generators.  An intensifier increases the shield effectiveness, but also increases the energy maintenance.",		"shield_intensifier_mk3":"This is a component used in the manufacture of starfighter shield generators.  An intensifier increases the shield effectiveness, but also increases the energy maintenance.",		"shield_intensifier_mk2":"This is a component used in the manufacture of starfighter shield generators.  An intensifier increases the shield effectiveness, but also increases the energy maintenance.",		"shield_intensifier_mk1":"This is a component used in the manufacture of starfighter shield generators.  An intensifier increases the shield effectiveness, but also increases the energy maintenance.",		"shield_energy_saver_kit_mk5":"This is a component used in the manufacture of starfighter shield generators.  An energy saver kit decreases the energy maintenance of the generator, but also decreases the shield effectiveness.",		"shield_energy_saver_kit_mk4":"This is a component used in the manufacture of starfighter shield generators.  An energy saver kit decreases the energy maintenance of the generator, but also decreases the shield effectiveness.",		"shield_energy_saver_kit_mk3":"This is a component used in the manufacture of starfighter shield generators.  An energy saver kit decreases the energy maintenance of the generator, but also decreases the shield effectiveness.",		"shield_energy_saver_kit_mk2":"This is a component used in the manufacture of starfighter shield generators.  An energy saver kit decreases the energy maintenance of the generator, but also decreases the shield effectiveness.",		"shield_energy_saver_kit_mk1":"This is a component used in the manufacture of starfighter shield generators.  An energy saver kit decreases the energy maintenance of the generator, but also decreases the shield effectiveness.",		"shield_effectiveness_intensifier_mk5":"This is a component used in the manufacture of starfighter weapons.  It increases a weapon's effectiveness against shields, but decreases its effectiveness against armor plating.",		"shield_effectiveness_intensifier_mk4":"This is a component used in the manufacture of starfighter weapons.  It increases a weapon's effectiveness against shields, but decreases its effectiveness against armor plating.",		"shield_effectiveness_intensifier_mk3":"This is a component used in the manufacture of starfighter weapons.  It increases a weapon's effectiveness against shields, but decreases its effectiveness against armor plating.",		"shield_effectiveness_intensifier_mk2":"This is a component used in the manufacture of starfighter weapons.  It increases a weapon's effectiveness against shields, but decreases its effectiveness against armor plating.",		"shield_effectiveness_intensifier_mk1":"This is a component used in the manufacture of starfighter weapons.  It increases a weapon's effectiveness against shields, but decreases its effectiveness against armor plating.",		"secondary_fuel_tank":"An alternate fuel source for a starship booster system.",		"rev_deed":"This is a disk containing a schematic for a spaceship component improved by the reverse engineering process.  Using this disk will give you the schematic.",		"retrofit_kit":"A retrofit kit is used in the reverse engineering process.  It contains parts necessary for breaking down and rebuilding used spaceship parts.",		"reactor_overcharger_mk5":"This is a component used in the manufacture of starfighter reactors.  An overcharger increases the amount of energy a reactor generates, but also increases the mass.",		"reactor_overcharger_mk4":"This is a component used in the manufacture of starfighter reactors.  An overcharger increases the amount of energy a reactor generates, but also increases the mass.",		"reactor_overcharger_mk3":"This is a component used in the manufacture of starfighter reactors.  An overcharger increases the amount of energy a reactor generates, but also increases the mass.",		"reactor_overcharger_mk2":"This is a component used in the manufacture of starfighter reactors.  An overcharger increases the amount of energy a reactor generates, but also increases the mass.",		"reactor_overcharger_mk1":"This is a component used in the manufacture of starfighter reactors.  An overcharger increases the amount of energy a reactor generates, but also increases the mass.",		"reactor_limiter_mk5":"This is a component used in the manufacture of starfighter reactors.  The limiter lowers the mass of the reactor, but also lowers the amount of energy it can generate.",		"reactor_limiter_mk4":"This is a component used in the manufacture of starfighter reactors.  The limiter lowers the mass of the reactor, but also lowers the amount of energy it can generate.",		"reactor_limiter_mk3":"This is a component used in the manufacture of starfighter reactors.  The limiter lowers the mass of the reactor, but also lowers the amount of energy it can generate.",		"reactor_limiter_mk2":"This is a component used in the manufacture of starfighter reactors.  The limiter lowers the mass of the reactor, but also lowers the amount of energy it can generate.",		"reactor_limiter_mk1":"This is a component used in the manufacture of starfighter reactors.  The limiter lowers the mass of the reactor, but also lowers the amount of energy it can generate.",		"quick_shot_upgrade_mk5":"This is a component used in the manufacture of starfighter weapons.  It increases the firing rate of the weapon, but also increases the capacitor energy required per shot.",		"quick_shot_upgrade_mk4":"This is a component used in the manufacture of starfighter weapons.  It increases the firing rate of the weapon, but also increases the capacitor energy required per shot.",		"quick_shot_upgrade_mk3":"This is a component used in the manufacture of starfighter weapons.  It increases the firing rate of the weapon, but also increases the capacitor energy required per shot.",		"quick_shot_upgrade_mk2":"This is a component used in the manufacture of starfighter weapons.  It increases the firing rate of the weapon, but also increases the capacitor energy required per shot.",		"quick_shot_upgrade_mk1":"This is a component used in the manufacture of starfighter weapons.  It increases the firing rate of the weapon, but also increases the capacitor energy required per shot.",		"quick_recharge_battery_mk5":"This is a component used in the manufacture of starfighter capacitors.  This battery recharges faster than most, but can store less energy overall.",		"quick_recharge_battery_mk4":"This is a component used in the manufacture of starfighter capacitors.  This battery recharges faster than most, but can store less energy overall.",		"quick_recharge_battery_mk3":"This is a component used in the manufacture of starfighter capacitors.  This battery recharges faster than most, but can store less energy overall.",		"quick_recharge_battery_mk2":"This is a component used in the manufacture of starfighter capacitors.  This battery recharges faster than most, but can store less energy overall.",		"quick_recharge_battery_mk1":"This is a component used in the manufacture of starfighter capacitors.  This battery recharges faster than most, but can store less energy overall.",		"primary_fuel_tank":"A primary fuel source for a starship booster system.",		"min_damage_intensifier_mk5":"This is a component used in the manufacture of starfighter weapons.  It increases the minimum damage potential of a weapon, but decreases the maximum damage.",		"min_damage_intensifier_mk4":"This is a component used in the manufacture of starfighter weapons.  It increases the minimum damage potential of a weapon, but decreases the maximum damage.",		"min_damage_intensifier_mk3":"This is a component used in the manufacture of starfighter weapons.  It increases the minimum damage potential of a weapon, but decreases the maximum damage.",		"min_damage_intensifier_mk2":"This is a component used in the manufacture of starfighter weapons.  It increases the minimum damage potential of a weapon, but decreases the maximum damage.",		"min_damage_intensifier_mk1":"This is a component used in the manufacture of starfighter weapons.  It increases the minimum damage potential of a weapon, but decreases the maximum damage.",		"max_damage_intensifier_mk5":"This is a component used in the manufacture of starfighter weapons.  It increases the maximum damage potential of a weapon, but decreases the minimum damage.",		"max_damage_intensifier_mk4":"This is a component used in the manufacture of starfighter weapons.  It increases the maximum damage potential of a weapon, but decreases the minimum damage.",		"max_damage_intensifier_mk3":"This is a component used in the manufacture of starfighter weapons.  It increases the maximum damage potential of a weapon, but decreases the minimum damage.",		"max_damage_intensifier_mk2":"This is a component used in the manufacture of starfighter weapons.  It increases the maximum damage potential of a weapon, but decreases the minimum damage.",		"max_damage_intensifier_mk1":"This is a component used in the manufacture of starfighter weapons.  It increases the maximum damage potential of a weapon, but decreases the minimum damage.",		"mass_reduction_kit_mk5":"This is a component used in the manufacture of starfighter armor.  This kit will reduce the weight of the armor, but will negatively affect the strength of the armor.",		"mass_reduction_kit_mk4":"This is a component used in the manufacture of starfighter armor.  This kit will reduce the weight of the armor, but will negatively affect the strength of the armor.",		"mass_reduction_kit_mk3":"This is a component used in the manufacture of starfighter armor.  This kit will reduce the weight of the armor, but will negatively affect the strength of the armor.",		"mass_reduction_kit_mk2":"This is a component used in the manufacture of starfighter armor.  This kit will reduce the weight of the armor, but will negatively affect the strength of the armor.",		"mass_reduction_kit_mk1":"This is a component used in the manufacture of starfighter armor.  This kit will reduce the weight of the armor, but will negatively affect the strength of the armor.",		"maintenance_reduction_kit_mk5":"This is a component used in the manufacture of starfighter droid interfaces.  This upgrade will bring the energy maintenance of the interface down, but will also negatively impact the droid command speed.",		"maintenance_reduction_kit_mk4":"This is a component used in the manufacture of starfighter droid interfaces.  This upgrade will bring the energy maintenance of the interface down, but will also negatively impact the droid command speed.",		"maintenance_reduction_kit_mk3":"This is a component used in the manufacture of starfighter droid interfaces.  This upgrade will bring the energy maintenance of the interface down, but will also negatively impact the droid command speed.",		"maintenance_reduction_kit_mk2":"This is a component used in the manufacture of starfighter droid interfaces.  This upgrade will bring the energy maintenance of the interface down, but will also negatively impact the droid command speed.",		"maintenance_reduction_kit_mk1":"This is a component used in the manufacture of starfighter droid interfaces.  This upgrade will bring the energy maintenance of the interface down, but will also negatively impact the droid command speed.",		"light_deflector_shields":"Equipment Certification Level: 1
+
+A Mark I deflector shield generator.  Shield generators provide a first line of defense against incoming energy weapons.",		"lgt_durasteel_plating":"Equipment Certification Level: 1
+
+A Mark I durasteel alloy that provides adequate protection for small starfighters.",		"hyperdrive_class3":"A class 3 hyperdrive.  A comparatively slow hyperdrive to the class 1 and 2 models, but still good for fast travel between systems.",		"hyperdrive_class2":"A class 2 hyperdrive.  This is a fairly standard hyperdrive equipped on many production model starfighters.  ",		"hyperdrive_class1":"A class 1 hyperdrive unit.   One of the fastest classes of hyperdrive commercially available.  Faster speeds can be achieved, but only through extensive modification.",		"hvy_durasteel_plating":"Equipment Certification Level: 5
+
+A Mark III durasteel alloy that provides quality protection for small starfighters.",		"hutt_turret_ship_chassis_token":"MandalorMotors M22-T heavy assault starfighter
+The Hutt crime faction's space piracy operations have met with a considerable amount of success of late. This is due in no small part to the Empire splitting its attention between piracy suppression and the growing Alliance threat. Sensing an opportunity and spurred on by his pirate fleet's recent accomplishments, Jabba has seen fit to commit more of his resources to the development of larger and more powerful craft. Thus, Jabba commissioned the development of the M22-T Krayt, a turreted heavy fighter designed with the goal of creating a more powerful craft that will hopefully allow fewer pilots to do the work of many. The way Jabba sees it, if he has fewer people flying for him, he doesn't have to split the proceeds from his piracy operation with as many people.
+	The M22-T Krayt is built in the same format seen in most in heavy star fighters, with flight crew being limited to workstations accessed from outside the craft. All other interior space is service-access only and can not be accessed during flight. Increases in chassis space have all been allocated to combat equipment such as the turret and its support systems. Regardless of whether the new design serves Jabba's needs, most independent operators are considering the possibility of operating a 2-person ship, something that prior to the M22-T had only been the purview of the military.
+",		"hutt_medium_chassis_token":"MandalorMotors G1-M4-C starfighter
+As Outer Rim merchants forged relationships with high-end starship armor and shield system suppliers, the Hutt crime organization had to change their tactics. To continue unfettered piracy of the remote regions, (and to maintain profit margins) the Hutts commissioned a second ship from MandalorMotors; a more capable, more heavily armored starship with significantly increased firepower over the "Scyk," but without sacrificing too much of the maneuverability upon which Hutt pilots had grown to rely. The result is the G1-M4-C "Dunelizard" starfighter: a lean, muscular space craft with impressive agility, and a generous weapons loadout. ",		"hutt_light_chassis_token":"MandalorMotors M3-A interceptor
+This lightly-armored interceptor was the first of a custom starfighter series commissioned by the Hutt crime organization (although no hard evidence remains to support this).  Rumors also indicate that MandalorMotors has reaped significant financial benefits from playing both sides of the Galactic Civil War. Even in the face of tremendous personal risk, the executives of MandalorMotors have opted to provide custom products to both the Empire and the Rebel Alliance, while supporting a gray-market of parts and accessories to private space pilots and the discerning smuggler. The M3-A "Scyk" is a very accurate, nimble fighter that functions especially well for base defense and capital ship escort duties. It's limited loadout makes it a reasonable choice for short-range strikes en masse, but it's obvious lack of armor make it unattractive for assaults on heavily armored targets.",		"hutt_lgt_wing_s02":"A wing variant for the Scyk M3-A fighter.",		"hutt_lgt_wing_s01":"A wing variant for the Scyk M3-A fighter.",		"hutt_lgt_body":"A body segment for a Scyk M3-A fighter.  Multiple wing types can be attached to this style of body.",		"hutt_heavy_chassis_token":"MandalorMotors M12-L multi-role starfighter
+The Hutt crime organization, having set their sites on uncontested domination of the Galaxy's space smuggling and pilot / mercenary economies, returned to MandalorMotors for yet another custom starship. The M12-L is a long-range multi-role starfighter with exceptional weapons capabilities and superb defensive systems. The numerous gun emplacements available aboard the M12 "Kimogila" allow it to serve as a heavy fighter, while its generous torpedo capabilities allow it to play the role of a 'bomber' in special circumstances. Due to its flexibility, this starfighter is beginning to enjoy a high degree of popularity among the free mercenaries in Dathomir and Endor.",		"heavy_fuel_cell_mk5":"This is a component used in the manufacture of starfighter boosters.  A heavy fuel cell increases the energy a booster can store, but also increases the consumption rate.",		"heavy_fuel_cell_mk4":"This is a component used in the manufacture of starfighter boosters.  A heavy fuel cell increases the energy a booster can store, but also increases the consumption rate.",		"heavy_fuel_cell_mk3":"This is a component used in the manufacture of starfighter boosters.  A heavy fuel cell increases the energy a booster can store, but also increases the consumption rate.",		"heavy_fuel_cell_mk2":"This is a component used in the manufacture of starfighter boosters.  A heavy fuel cell increases the energy a booster can store, but also increases the consumption rate.",		"heavy_fuel_cell_mk1":"This is a component used in the manufacture of starfighter boosters.  A heavy fuel cell increases the energy a booster can store, but also increases the consumption rate.",		"heavy_deflector_shields":"Equipment Certification Level: 5
+
+A Mark V deflector shield generator.  Shield generators provide a first line of defense against incoming energy weapons.",		"heavy_battery_mk5":"This is a component used in the manufacture of starfighter capacitors. A heavy battery increases the maximum energy storage of a capacitor, but also increases the energy maintenance.  ",		"heavy_battery_mk4":"This is a component used in the manufacture of starfighter capacitors. A heavy battery increases the maximum energy storage of a capacitor, but also increases the energy maintenance.  ",		"heavy_battery_mk3":"This is a component used in the manufacture of starfighter capacitors. A heavy battery increases the maximum energy storage of a capacitor, but also increases the energy maintenance.  ",		"heavy_battery_mk2":"This is a component used in the manufacture of starfighter capacitors. A heavy battery increases the maximum energy storage of a capacitor, but also increases the energy maintenance.  ",		"heavy_battery_mk1":"This is a component used in the manufacture of starfighter capacitors. A heavy battery increases the maximum energy storage of a capacitor, but also increases the energy maintenance.  ",		"fusion_reactor_mk5":"Equipment Certification Level: 9
+
+A Mark V fusion reactor.  This provides enough power to run a small starfighter.",		"fusion_reactor_mk4":"Equipment Certification Level: 7
+
+A Mark IV fusion reactor.  This provides enough power to run a small starfighter.",		"fusion_reactor_mk3":"Equipment Certification Level: 5
+
+A Mark III fusion reactor.  This provides enough power to run a small starfighter.",		"fusion_reactor_mk2":"Equipment Certification Level: 3
+
+A Mark II fusion reactor.  This provides enough power to run a small starfighter.",		"fusion_reactor_mk1":"Equipment Certification Level: 1
+
+A Mark I fusion reactor.  This provides enough power to run a small starfighter.",		"firespray_chassis_token":"KSE Firespray
+
+The Firespray-class patrol and attack ship has been recently re-introduced to the market by Kuat Systems Engineering. Although the original design was generated a number of years earlier, the prototype vessels built at that time were all lost in the hangar where they were being stored during an unfortunate prison escape incident. A sole ship survived the catastrophe and the design has since attained some notoriety owing to the escapades of its pilot. Rather than building to contract, KSE had generated the Firespray design as a project to shop around and had fronted all the cash for the prototypes, confident that once people had seen their performance purchase orders would come rolling in. Instead, the loss of the prototypes put the company in financial dire straights with nothing concrete to show for the Firespray project, and no way to generate interest in the product through demonstrations. Having already drained accounts originally stocked by a huge initial financial outlay, KSE mothballed the project and everything that had been built so far, including reams of technical data and all of the specialized tools used to build the prototype vessels. KSE then went on to enhance their existing offerings and go on to carve an even larger niche for themselves in the market for post-sale ship upgrade kits.",		"fast_charge_fuel_cell_mk5":"This is a component used in the manufacture of starfighter boosters.  A fast charge fuel cell recharges faster than other fuel cells, but can store less energy overall.",		"fast_charge_fuel_cell_mk4":"This is a component used in the manufacture of starfighter boosters.  A fast charge fuel cell recharges faster than other fuel cells, but can store less energy overall.",		"fast_charge_fuel_cell_mk3":"This is a component used in the manufacture of starfighter boosters.  A fast charge fuel cell recharges faster than other fuel cells, but can store less energy overall.",		"fast_charge_fuel_cell_mk2":"This is a component used in the manufacture of starfighter boosters.  A fast charge fuel cell recharges faster than other fuel cells, but can store less energy overall.",		"fast_charge_fuel_cell_mk1":"This is a component used in the manufacture of starfighter boosters.  A fast charge fuel cell recharges faster than other fuel cells, but can store less energy overall.",		"extended_life_fuel_cell_mk5":"This is a component used in the manufacture of starfighter boosters.  The extended life fuel cell increases the amount of energy a booster can store, but the energy recharges slower.",		"extended_life_fuel_cell_mk4":"This is a component used in the manufacture of starfighter boosters.  The extended life fuel cell increases the amount of energy a booster can store, but the energy recharges slower.",		"extended_life_fuel_cell_mk3":"This is a component used in the manufacture of starfighter boosters.  The extended life fuel cell increases the amount of energy a booster can store, but the energy recharges slower.",		"extended_life_fuel_cell_mk2":"This is a component used in the manufacture of starfighter boosters.  The extended life fuel cell increases the amount of energy a booster can store, but the energy recharges slower.",		"extended_life_fuel_cell_mk1":"This is a component used in the manufacture of starfighter boosters.  The extended life fuel cell increases the amount of energy a booster can store, but the energy recharges slower.",		"extended_life_battery_mk5":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery increases the amount of energy a capacitor can store, but has a slow recharge rate.",		"extended_life_battery_mk4":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery increases the amount of energy a capacitor can store, but has a slow recharge rate.",		"extended_life_battery_mk3":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery increases the amount of energy a capacitor can store, but has a slow recharge rate.",		"extended_life_battery_mk2":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery increases the amount of energy a capacitor can store, but has a slow recharge rate.",		"extended_life_battery_mk1":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery increases the amount of energy a capacitor can store, but has a slow recharge rate.",		"exp_durasteel_plating":"Equipment Certification Level: 9
+
+A Mark V durasteel alloy that provides excellent protection for small starfighters.",		"exp_deflector_shields":"Equipment Certification Level: 9
+
+A Mark V deflector shield generator.  Shield generators provide a first line of defense against incoming energy weapons.",		"engine_overdriver_mk5":"This is a component used in the manufacture of starfighter engines.  An overdriver increases acceleration and speed, but also increases energy maintenance.  ",		"engine_overdriver_mk4":"This is a component used in the manufacture of starfighter engines.  An overdriver increases acceleration and speed, but also increases energy maintenance.  ",		"engine_overdriver_mk3":"This is a component used in the manufacture of starfighter engines.  An overdriver increases acceleration and speed, but also increases energy maintenance.  ",		"engine_overdriver_mk2":"This is a component used in the manufacture of starfighter engines.  An overdriver increases acceleration and speed, but also increases energy maintenance.  ",		"engine_overdriver_mk1":"This is a component used in the manufacture of starfighter engines.  An overdriver increases acceleration and speed, but also increases energy maintenance.  ",		"engine_mass_reduction_kit_mk5":"This is a component used in the manufacture of starfighter engines.   This kit decreases the overall mass of an engine, but also decreases the deceleration ability of the ship.",		"engine_mass_reduction_kit_mk4":"This is a component used in the manufacture of starfighter engines.   This kit decreases the overall mass of an engine, but also decreases the deceleration ability of the ship.",		"engine_mass_reduction_kit_mk3":"This is a component used in the manufacture of starfighter engines.   This kit decreases the overall mass of an engine, but also decreases the deceleration ability of the ship.",		"engine_mass_reduction_kit_mk2":"This is a component used in the manufacture of starfighter engines.   This kit decreases the overall mass of an engine, but also decreases the deceleration ability of the ship.",		"engine_mass_reduction_kit_mk1":"This is a component used in the manufacture of starfighter engines.   This kit decreases the overall mass of an engine, but also decreases the deceleration ability of the ship.",		"engine_limiter_mk5":"This is a component used in the manufacture of starfighter engines.  A limiter decreases energy maintenance, but negatively impacts acceleration and speed.",		"engine_limiter_mk4":"This is a component used in the manufacture of starfighter engines.  A limiter decreases energy maintenance, but negatively impacts acceleration and speed.",		"engine_limiter_mk3":"This is a component used in the manufacture of starfighter engines.  A limiter decreases energy maintenance, but negatively impacts acceleration and speed.",		"engine_limiter_mk2":"This is a component used in the manufacture of starfighter engines.  A limiter decreases energy maintenance, but negatively impacts acceleration and speed.",		"engine_limiter_mk1":"This is a component used in the manufacture of starfighter engines.  A limiter decreases energy maintenance, but negatively impacts acceleration and speed.",		"eng_mk5":"Equipment Certification Level: 9
+
+A mark V starfigher engine.  A solid-performing midsize engine.",		"eng_mk4":"Equipment Certification Level: 7
+
+A mark IV starfighter engine.  A solid-performing midsize engine.",		"eng_mk3":"Equipment Certification Level: 5
+
+A mark III starfighter engine.  This is a midsize engine that can be tweaked for some serious speed.  It is still outclassed in size and speed by higher model engines, but for pilots working with smaller reactors and chassis, the mark III is a good choice.",		"eng_mk2":"Equipment Certification Level: 3
+
+A mark II starfighter engine.  Bigger and faster than the Mark I models.",		"eng_mk1":"Equipment Certification Level: 1
+
+A mark I starfighter engine.  Engines of this size are good for rookie pilots not comfortable with high performance models, or for pilots who want to concentrate their resources on higher firepower.",		"energy_saver_battery_mk5":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery reduces the energy maintenance of the capacitor, but decreases the amount of energy the capacitor can store.",		"energy_saver_battery_mk4":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery reduces the energy maintenance of the capacitor, but decreases the amount of energy the capacitor can store.",		"energy_saver_battery_mk3":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery reduces the energy maintenance of the capacitor, but decreases the amount of energy the capacitor can store.",		"energy_saver_battery_mk2":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery reduces the energy maintenance of the capacitor, but decreases the amount of energy the capacitor can store.",		"energy_saver_battery_mk1":"This is a component used in the manufacture of starfighter weapon capacitors.  This battery reduces the energy maintenance of the capacitor, but decreases the amount of energy the capacitor can store.",		"energy_absorption_layer":"A layer of material designed to soften the impact of energy weapons on a starfighter's hull.  ",		"durasteel_plating":"Equipment Certification Level: 3
+
+Mark II durasteel plating fit for most small starfighters.",		"durasteel_panel":"An armored panel made of a strong durasteel alloy.  This is the basic component in most starfighter armor.",		"droid_brain_upgrade_mk5":"This is a component used in the manufacture of starfighter droid interfaces.   This upgrade increases the command speed of the interface, but also increases the energy maintenance.",		"droid_brain_upgrade_mk4":"This is a component used in the manufacture of starfighter droid interfaces.   This upgrade increases the command speed of the interface, but also increases the energy maintenance.",		"droid_brain_upgrade_mk3":"This is a component used in the manufacture of starfighter droid interfaces.   This upgrade increases the command speed of the interface, but also increases the energy maintenance.",		"droid_brain_upgrade_mk2":"This is a component used in the manufacture of starfighter droid interfaces.   This upgrade increases the command speed of the interface, but also increases the energy maintenance.",		"droid_brain_upgrade_mk1":"This is a component used in the manufacture of starfighter droid interfaces.   This upgrade increases the command speed of the interface, but also increases the energy maintenance.",		"deflector_shields":"Equipment Certification Level: 3
+
+A Mark II deflector shield generator.  Shield generators provide a first line of defense against incoming energy weapons.",		"decimator_chassis_token":"VT49 Decimator
+
+The VT49 Decimator is most correctly classified as an Assault ship. It is heavily armed and armored, and built to carry light to medium loads into dangerous places. Its form follows its function, and its shape offers a relatively small target with no large fins or wings as seen in some of the less combat-oriented craft of the Empire, such as the Lambda-class shuttle. Armor and deflector shielding is particularly heavy, and the weapons load-out is fearsome and includes turrets capable of engaging any target fast enough to out-maneuver the VT49.
+",		"ddi_mk5":"Equipment Certification Level: 9
+
+A Mark V Droid Interface.  Droid interfaces are the link between the systems of a starfighter and the astromech droid or flight computer installed in them.",		"ddi_mk4":"Equipment Certification Level: 7
+
+A Mark IV Droid Interface.  Droid interfaces are the link between the systems of a starfighter and the astromech droid or flight computer installed in them.",		"ddi_mk3":"Equipment Certification Level: 5
+
+A Mark III Droid Interface.  Droid interfaces are the link between the systems of a starfighter and the astromech droid or flight computer installed in them.",		"ddi_mk2":"Equipment Certification Level: 3
+
+A Mark II Droid Interface.  Droid interfaces are the link between the systems of a starfighter and the astromech droid or flight computer installed in them.",		"ddi_mk1":"Equipment Certification Level: 1
+
+A Mark I Droid Interface.  Droid interfaces are the link between the systems of a starfighter and the astromech droid or flight computer installed in them.",		"capacitor_mk5":"Equipment Certification Level: 9
+
+A Mark V weapon capacitor.  Capacitors are used to the store the energy that powers starfighter weapon systems.",		"capacitor_mk4":"Equipment Certification Level: 7
+
+A Mark IV weapon capacitor.  Capacitors are used to the store the energy that powers starfighter weapon systems.",		"capacitor_mk3":"Equipment Certification Level: 5
+
+A Mark III weapon capacitor.  Capacitors are used to the store the energy that powers starfighter weapon systems.",		"capacitor_mk2":"Equipment Certification Level: 3
+
+A Mark II weapon capacitor.  Capacitors are used to the store the energy that powers starfighter weapon systems.",		"capacitor_mk1":"Equipment Certification Level: 1
+
+A Mark I weapon capacitor.  Capacitors are used to the store the energy that powers starfighter weapon systems.",		"bwing_chassis_token":"B-Wing
+Personally designed by Commander Ackbar with the help of skilled Verpine shipbuilders as part of the Shantipole Project, the B-wing has proved one the most versatile starfighters in the galaxy. Initially, only one B-wing was produced to test the ship's unique design. This single starfighter was then sent on a test mission to destroy an entire TIE fighter staging area on Yunkor IX. The B-wing succeeded, and the Rebellion commissioned a full squadron of the starfighters.",		"booster_overdriver_mk5":"This is a component used in the manufacture of starfighter boosters.  An overdriver gives a booster a higher speed and acceleration, but increases the overall mass of the ship.",		"booster_overdriver_mk4":"This is a component used in the manufacture of starfighter boosters.  An overdriver gives a booster a higher speed and acceleration, but increases the overall mass of the ship.",		"booster_overdriver_mk3":"This is a component used in the manufacture of starfighter boosters.  An overdriver gives a booster a higher speed and acceleration, but increases the overall mass of the ship.",		"booster_overdriver_mk2":"This is a component used in the manufacture of starfighter boosters.  An overdriver gives a booster a higher speed and acceleration, but increases the overall mass of the ship.",		"booster_overdriver_mk1":"This is a component used in the manufacture of starfighter boosters.  An overdriver gives a booster a higher speed and acceleration, but increases the overall mass of the ship.",		"booster_mk5":"Equipment Certification Level: 9
+
+A Mark V starship booster.  Boosters can be used for an extra, temporary burst of speed.",		"booster_mk4":"Equipment Certification Level: 7
+
+A Mark IV starship booster.  Boosters can be used for an extra, temporary burst of speed.",		"booster_mk3":"Equipment Certification Level: 5
+
+A Mark III starship booster.  Boosters can be used for an extra, temporary burst of speed.",		"booster_mk2":"Equipment Certification Level: 3
+
+A Mark II starship booster.  Boosters can be used for an extra, temporary burst of speed.",		"booster_mk1":"Equipment Certification Level: 1
+
+A Mark I starship booster.  Boosters can be used for an extra, temporary burst of speed.",		"blaster_deflection_layer":"A layer in advanced starfighter armor that helps reflect incoming blaster fire off the ship.",		"blacksun_medium_chassis_token":"TransGalMeg "Ixiyen" (ix-Ehn) Fast Attack Craft
+
+The "Ixiyen" is designed to be a dominant force in the average fighter-on-fighter confrontation. It is also armed and protected well enough to be able to harry much larger ships. Although not operated in large numbers by any governmental organizations, it isn't for lack of quality and performance. The "Ixiyen" is a deadly opponent and capable of holding its own against most of the front-line combat craft currently in existence.",		"blacksun_light_chassis_token":"TransGalMeg "Kihraxz" (ki-Rax) Assault Fighter
+The "Kihraxz" Assault Fighter is able to quickly close with and surgically attack its target before they are aware. TransGalMeg's design emphasis for this ship was on speed, and as a result defenses are at a premium and weapons loadout is reduced. This might be seen as a dire limitation, but the maneuverability of the ship is such that it can normally avoid attacks that would not be able to withstand. Although a cheaper ship, a number of pilots continue to fly the "Kihraxz" even though they could afford something larger, simply because the ship's performance suits their personal combat style.",		"blacksun_heavy_chassis_token":"TransGalMeg "Rihkxyrk" (rik-zerk) Attack Ship
+Being a relatively sluggish ship hasn't made the "Rihkxyrk" a push-over. Quite the contrary. The defenses and weapon load of most "Rihkxyrk" assault fighters is frightening, and is their hallmark. It can be very demoralizing to line up an "Rihkxyrk" in your sights and salvo off missiles and cannon pulses only to see them sloughed off by heavy-duty shielding systems and thick, heavy armor. Most "Rihkxyrk" pilots are an unflappable group, developing a high level of confidence in themselves and their machines after wading through heavy fire and coming through undamaged.",		"awing_chassis_token":"Alliance RZ-1 A-wing Starfighter 
+By far the fastest starfighter used in the Galactic Civil War, the compact A-wing is the Rebel Alliance's response to the Empire's growing number of TIE fighters and TIE variants. Because of its speed, the A-wing excels at hit-and-run missions, long-range patrols and reconnaissance, and surgical strikes against large starships. A stock A-wing's speed is provided by two powerful Novaldex J-77 "Event Horizon" engines. A combination of adjustable thrust-vector controls built into each engine and thruster-control jets located between the engines supply the vehicle's famed maneuverability. Unfortunately, the A-wing's controls are notoriously sensitive and few pilots can handle the craft at top speed. The A-wing relies on its speed and agility in combat. Its armament is relatively weak, consisting of two wing-mounted blaster cannons. A-wings require constant maintenance, and the Alliance has found it extremely difficult to keep a squadron of A-wings operational for any length of time. Despite this, the A-wing is quickly becoming one of the galaxy's most prominent interceptor fighters.
+",		"armor_reinforcement_panel_mk5":"This is a component used in the manufacture of starfighter armor.  Using these panels will strengthen the armor, but will make your starfighter heavier.",		"armor_reinforcement_panel_mk4":"This is a component used in the manufacture of starfighter armor.  Using these panels will strengthen the armor, but will make your starfighter heavier.",		"armor_reinforcement_panel_mk3":"This is a component used in the manufacture of starfighter armor.  Using these panels will strengthen the armor, but will make your starfighter heavier.",		"armor_reinforcement_panel_mk2":"This is a component used in the manufacture of starfighter armor.  Using these panels will strengthen the armor, but will make your starfighter heavier.",		"armor_reinforcement_panel_mk1":"This is a component used in the manufacture of starfighter armor.  Using these panels will strengthen the armor, but will make your starfighter heavier.",		"armor_effectiveness_intensifier_mk5":"This is a component used in the manufacture of starfighter weapons.  This component boosts the armor effectiveness of the weapon, but decreases the shield effectiveness.",		"armor_effectiveness_intensifier_mk4":"This is a component used in the manufacture of starfighter weapons.  This component boosts the armor effectiveness of the weapon, but decreases the shield effectiveness.",		"armor_effectiveness_intensifier_mk3":"This is a component used in the manufacture of starfighter weapons.  This component boosts the armor effectiveness of the weapon, but decreases the shield effectiveness.",		"armor_effectiveness_intensifier_mk2":"This is a component used in the manufacture of starfighter weapons.  This component boosts the armor effectiveness of the weapon, but decreases the shield effectiveness.",		"armor_effectiveness_intensifier_mk1":"This is a component used in the manufacture of starfighter weapons.  This component boosts the armor effectiveness of the weapon, but decreases the shield effectiveness.",		"analysis_tool":"This tool is used by Reverse Engineers to analyze starship components.  All looted ship components have a reverse engineering level---placing that number of identical components in this tool, then using the tool, will result in the creation of a starship component superior in quality to the ones consumed in the process.",		"advanced_recharge_module":"An advanced recharge module for a starship weapon capacitor.",		"advanced_projector_unit":"An advanced projector unit.  This is the system that projects the generated shields to the parts of the ship that require it.",		"advanced_power_distributor":"An advanced reactor power distributor.  As one might expect from the name, this system distributes energy generated by the reactor to the components in a ship that require it.  ",		"advanced_fusion_core":"An advanced fusion core.  A well built fusion core affects the generation rate of a reactor.",		"advanced_fuel_ignition":"An advanced booster fuel ignition system.  A component used in the production of high quality starship boosters.",		"advanced_capacitor_battery":"An advanced starship weapon capacitor battery.",		"adv_fuel_regulation":"An advanced fuel regulation system for a starfighter engine.  The regulation system affects the fuel mixture burned by the sublight drives, so a well built system will positively affect engine performance.",		"adv_exhaust":"An advanced exhaust system for a starfighter engine.  A well built exhaust system can significantly affect engine performance.",		"adv_durasteel_plating":"Equipment Certification Level: 7
+
+A Mark IV durasteel alloy plating that provides superior protection for small starfighters like the X-Wing and the Z95 Headhunter.",		"adv_deflector_shields":"Equipment Certification Level: 7
+
+A Mark IV deflector shield generator.  Shield generators provide a first line of defense against incoming energy weapons."
+}}

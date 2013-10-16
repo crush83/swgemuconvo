@@ -1,31 +1,6 @@
-[
-'29':'monthly_fiction_9',
-'28':'monthly_fiction_8',
-'27':'monthly_fiction_7',
-'26':'monthly_fiction_6',
-'25':'monthly_fiction_5',
-'24':'monthly_fiction_4',
-'23':'monthly_fiction_3',
-'22':'monthly_fiction_2',
-'21':'monthly_fiction_1',
-'20':'talk_to_me',
-'19':'prose_buy_pass',
-'18':'prose_buy_fail',
-'17':'inv_full',
-'16':'sui_prompt',
-'15':'sui_title',
-'14':'prose_rumor4',
-'13':'prose_rumor3',
-'12':'prose_rumor2',
-'11':'prose_rumor1',
-'10':'no_rumor',
-'9':'msg_no',
-'8':'msg_yes',
-'7':'query_buy',
-'6':'msg_buy',
-'5':'greet',
-'4':'opt_no',
-'3':'opt_yes',
-'2':'opt_rumor',
-'1':'opt_buy',
-]
+{
+	"stfFile":"bartender",
+	"entries": {
+		"monthly_fiction_9":"Something's got the Empire warping mad. I think it's got something to do with some scientist named Vacca spending too much time with the Drall. I hear the Imps are looking for someone to do a little dirty work to teach him a lesson in obedience.
+",		"monthly_fiction_8":"I got a friend who sells hyperdrives to the Alliance and he tells me that they have some mission planned to recruit some bigwig scientist away from the Empire. Normally I'd say it wouldn't work, but this guy's from Alderaan, so who knows?",		"monthly_fiction_7":"Did you scan that article on Dr. Vacca? I can't believe the Empire would fund a scientist who is that friendly with the Drall. If I were him, I'd be careful because you never know when the Empire will decide to send you a "message" to get with the party line.",		"monthly_fiction_6":"Some junk dealers were in here trying to sell some old Imperial decoders. They said they found a crashed shuttle with a whole cargo of them. I bet the Rebels would pay good money to get their hands on one of them, even if they are a bit out of date.",		"monthly_fiction_5":"The rebels are trying to find someone foolish enough to help them find their lost spy. I wouldn't do it. You'd have to be dumber than a newborn Wookiee to cross the Empire!",		"monthly_fiction_4":"I hear the Imperials are looking for loyal citizens to find some sort of disk the rebels are trying to protect. If you ask me, it's better to fight for the Empire than to fight against them. After all, who wants an AT-ST showing up at your door because you backed the wrong side?",		"monthly_fiction_3":"I got a regular who comes in here who tells me that his friend heard that the rebels are knocking themselves out trying to find one of their spies.  Some girl who stole plans from a scientist named Vacca.  I'd hate to be her!",		"monthly_fiction_2":"I've been hearing rumors that the empire is getting ready to step on some Drall that are getting out of line on Corellia. Ya know, sometimes it's better to just fly the course and not make trouble.",		"monthly_fiction_1":"I heard something about the drall...you know those guys from Corellia?  Rumor has it there's been some anti-imperial sentiment amongst them, and they're planning on doing something about it.  Couldn't tell you what, but I think the Empire might take matters into their own hands soon.",		"talk_to_me":"Tell me about current events.",		"prose_buy_pass":"You successfully purchase a %TT for %DI credits.",		"prose_buy_fail":"You were unable to purchase %TO. Perhaps you do not have enough credits?",		"inv_full":"The bartender was unable to hand you your %TO. It is likely your inventory is full.",		"sui_prompt":"Please select the beverage you would like from the list.",		"sui_title":"Bar Menu",		"prose_rumor4":"I'm not sure but it *did* sound like %TT said '%TO'.",		"prose_rumor3":"Well, there was some chatter about %TT saying something like '%TO'.",		"prose_rumor2":"I hear that %TT said something like '%TO'.",		"prose_rumor1":"I did overhear %TT say '%TO'.",		"no_rumor":"Can't say that I have heard anything recently...",		"msg_no":"Then get out of my bar you miserable wretch. Your kind is not appreciated around here...",		"msg_yes":"Your patronage is kindly appreciated.",		"query_buy":"You still look like you could use a drink though. Can I interest you in one of fine beverages?",		"msg_buy":"Well, you have come to the right place! Allow me to provide you with a menu of our choice selections.",		"greet":"Welcome! Hey, you look a bit parched. Is there anything I can do for you?",		"opt_no":"No",		"opt_yes":"Yes",		"opt_rumor":"Heard anything interesting lately?",		"opt_buy":"I'd like to buy a drink..."
+}}

@@ -1,7 +1,5 @@
-[
-'5':'imp_hard_fetch_2',
-'4':'imp_hard_fetch_3',
-'3':'imp_hard_fetch_4',
-'2':'imp_hard_fetch_1',
-'1':'imp_hard_fetch_5',
-]
+{
+	"stfFile":"mission_fetch_imp_hard",
+	"entries": {
+		"imp_hard_fetch_2":"Go fetch Darth Vader the head of Alfredo Garcia.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"imp_hard_fetch_3":"Go fetch Darth Vader the head of Alfredo Garcia.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"imp_hard_fetch_4":"Go fetch Darth Vader the head of Alfredo Garcia.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"imp_hard_fetch_1":"Go fetch Darth Vader the head of Alfredo Garcia.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"imp_hard_fetch_5":"Go fetch Darth Vader the head of Alfredo Garcia.  STUB MISSION DESCRIPTION, REMOVE LATER."
+}}

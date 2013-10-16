@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/tatooine_privateer_3",
+	"entries": {
+		"title_d":"Patrol and area of Tatooine Space. When you complete this mission, return to Dravis in back room of the Mos Eisley cantina for your next assignment.",		"title":"Tatooine System: Patrol Tatooine Space",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Smuggler Alliance: < \#pcontrast1 We have a friendly freighter requesting an escort, head on over there and check things out. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"When you reach a patrol waypoint you will receive a new one to your next location. Follow each of the patrol waypoints until you reach the end of your patrol.  This is the third of four special assignments given to you by Dravis of the Smuggler's Alliance. When you complete this mission, return to Dravis in back room of the Mos Eisley cantina for your next assignment.  After you complete these four special assignments, Dravis will train you in a new Pilot skill.",		"quest_location_t":"Tatooine System",		"quest_location_d":"A patrol route in the Tatooine System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

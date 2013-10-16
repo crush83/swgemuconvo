@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/rori_station_reb_storyquest_01_f",
+	"entries": {
+		"title_d":"An Imperial spy has discovered that you are helping the Rori Station obtain a supply of repair droids. His communication is being jammed. Stop him before he can report to his Imperial commanders.",		"title":"Dantooine system: Terminate the Imperial Spy",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Rori Station: < %TO >",		"quest_target_t":"Imperial Spy.",		"quest_target_d":"The Imperial Spy is dangerous in his own right, but also has an escort to help protect him. Even worse news is that he knows you are coming after him!",		"quest_location_t":"Dantooine system.",		"quest_location_d":"The Dantooine system is somewhat free of a strong Imperial influence, so the Imperial spy will most likely be jumping to another system. Stop him before that happens.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"He got away! We are trying to relocate him and continue to jam his comm transmissions. Return so that you can go after him again.",		"escort_wiped_out":"Rori Station: < Excellent, now for the head slime. Get that inquisitor! >",		"escort_remaining":"Rori Station: < Good job pilot, destroy them all! >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Great work my friend. Word getting out about our arrangement would have been dangerous.",		"arrival_phase_2":"Got him, intercept and terminate the Imperial scum!",		"arrival_phase_1":"We are locking on to the Imperial Spy and jamming his comm transmissions, stand by for coordinates.",		"Quest Log Data":"Text"
+}}

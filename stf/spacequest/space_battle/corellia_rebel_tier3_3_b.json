@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_rebel_tier3_3_b",
+	"entries": {
+		"title_d":"We have started some smaller attacks on parts of the Imperial Navy in the system. One of our Y-Wing squadrons has been hunted down after a successful mission and need your help in destroying the pursuing TIE fighters.",		"title":"Endor system: Assist Green Squadron in attacking the Empire.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Fleet Command: < Great work out there pilot. One of our smugglers have brought equipment we need to repair our hyperdrive systems. He needs a escort. >",		"quest_update":"Green Squadron Leader: < %TO >",		"quest_location_t":"Endor system.",		"quest_location_d":"The Endor system is now starting to look like a war zone. We have more reinforcements coming from the Lok system and more and more Imperial reinforcements are pouring in ahead of their main fleet.",		"quest_helpallies_t":"Assist the Green Squadron.",		"quest_helpallies_d":"The heavy Y-Wings are having trouble with the nimbler TIE fighters and will need your help in defeating them or perish.",		"quest_findbattle_t":"Green Squadron rendez-vous.",		"quest_findbattle_d":"The Green Squadron leader has given you these coordinates as the point where they will try to fight back the pursuing TIE fighters.",		"found_loc":"Proceed to these coordinates, We will rendez-vous with you there.",		"enemies_win":"Can't keep my ship together, I'm falling ap..",		"enemies_remain":"Green Squadron Leader: < Hang in there everyone! Only %DI left! >",		"enemies_arrived":"Alright, the fools have arrived, get ready.",		"battle_started":"Time to fry some Imperial scum, bring it to them guys!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"That's how it's done! Great job guys!",		"allies_remain":"Tactical Computer: < Sensors indicate termination of ally squad member. %DI allied ship remain in vicinity. >",		"allies_arrived":"Good to see you pilot. We've taken a beating so your presence is gladly accepted.",		"Quest Log Data":"Text"
+}}

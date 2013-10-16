@@ -1,20 +1,5 @@
-[
-'18':'jusani_zhord_q1_needed',
-'17':'igbi_freemo_q2_needed',
-'16':'gravin_attal_q2_needed',
-'15':'gravin_attal_q1_needed',
-'14':'radlee_mathiss_q1_needed',
-'13':'hagrin_zeed_q2_needed',
-'12':'hagrin_zeed_q1_needed',
-'11':'haleen_snowline_q2_needed',
-'10':'haleen_snowline_q1_needed',
-'9':'champhra_biahin_q2_needed',
-'8':'champhra_biahin_q1_needed',
-'7':'green_laser_q1_needed',
-'6':'sigrix_slix_q2_needed',
-'5':'sigrix_slix_q1_needed',
-'4':'xalox_guul_q2_needed',
-'3':'slooni_jong_q1_needed',
-'2':'nurla_slinthiss_q3_needed',
-'1':'nurla_slinthiss_q1_needed',
-]
+{
+	"stfFile":"loot_tals_d",
+	"entries": {
+		"jusani_zhord_q1_needed":"This briefcase is locked, but could contain almost anything.",		"igbi_freemo_q2_needed":"A briefcase filled with tainted spice earmarked for the Hutts.",		"gravin_attal_q2_needed":"A necessary component to a working hyperdrive",		"gravin_attal_q1_needed":"Requisition orders from an Imperial Colonel for an AT-ST redirected by a data slicer",		"radlee_mathiss_q1_needed":"A payoff to Security Chief Mathiss in Dearic from the Corporate Sector Authority.",		"hagrin_zeed_q2_needed":"A credit disc authorizing a release of funds to Hagrin Zeed",		"hagrin_zeed_q1_needed":"Copies of Imperial reports purchased from a data slicer ",		"haleen_snowline_q2_needed":"Evidence showing that Talusian Prime Minister Hagrin Zeed received illegal contributions from the Corporate Sector Authority.",		"haleen_snowline_q1_needed":"Credits contributed to representatives of the Talus and Tralus Liberation Party by Talusian Prime Minister Hagrin Zeed's Minister of Protocol, Haleen Snowline.",		"champhra_biahin_q2_needed":"Champhra Biahin, Drall ambassador to Talus, gave this recording of an anthem, sung by young students at the Boiling Sea Music Academy on Drall, to the Dearic Garden Club in gratitude for securing medicinal herbs to cure Drall diseases.",		"champhra_biahin_q1_needed":"This medicinal herb, native to Talus, exudes a pungent smell in early growth, then a sweet citrus scent during blooming season. Natterbloom may offer a cure for a persistent Drall disease, the Balding Sickness. ",		"green_laser_q1_needed":"Blueprints of a proposed new Star Destroyer weapon, procured by Drall data slicer "Green Laser" in Nashal on Talus.",		"sigrix_slix_q2_needed":"According to Nashal fizz musician Sigrix Slix, this container holds a small verovakin (a Selonian musical instrument) and absolutely no glitterstim spice, no matter what it sounds like when you shake it. ",		"sigrix_slix_q1_needed":"This container supposedly holds recordings of native Talus wildlife sounds (intended for Nashal fizz musician Sigrix Slix) and no glitterstim spice at all, despite what anyone says.",		"xalox_guul_q2_needed":"Forged Imperial transport permits.",		"slooni_jong_q1_needed":"Briefcase full of ryll spice.",		"nurla_slinthiss_q3_needed":"datadisc",		"nurla_slinthiss_q1_needed":"An incriminating holo recording"
+}}

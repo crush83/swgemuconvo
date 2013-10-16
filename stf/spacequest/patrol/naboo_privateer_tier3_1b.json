@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/naboo_privateer_tier3_1b",
+	"entries": {
+		"title_d":"Fly a holding pattern while RSF Intelligence attempts to discover what went wrong",		"title":"Dantooine System: Fly a Holding Pattern",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 I knew that was too easy.  We have phantom hyperspace signatures going off all over.  Registering Black Sun activity in Naboo, Corellia even at your position. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"Travel to this Waypoint",		"quest_location_t":"Dantooine System",		"quest_location_d":"Quick Route through the Naboo System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

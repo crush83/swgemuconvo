@@ -1,45 +1,113 @@
-[
-'48':'too_many_bases',
-'47':'cannot_change_from_combatant_in_field',
-'46':'gcw_status_info',
-'45':'read_headline',
-'44':'general_newsnet_name',
-'43':'naboo_newsnet_name',
-'42':'abort_field_change',
-'41':'handle_go_covert',
-'40':'gcw_status_change_covert',
-'39':'gcw_status_change_overt',
-'38':'gcw_status_change',
-'37':'headline_corellia_equal',
-'36':'headline_corellia_rebel_losing_2',
-'35':'corellia_newsnet_name',
-'34':'story_corellia_rebel_losing_1',
-'33':'headline_general_rebel_winning_4',
-'32':'headline_general_rebel_winning_3',
-'31':'headline_general_rebel_winning_2',
-'30':'headline_general_rebel_winning_1',
-'29':'headline_general_equal',
-'28':'headline_general_rebel_losing_1',
-'27':'headline_general_rebel_losing_2',
-'26':'headline_general_rebel_losing_3',
-'25':'headline_general_rebel_losing_4',
-'24':'headline_corellia_rebel_winning_4',
-'23':'headline_corellia_rebel_winning_3',
-'22':'headline_corellia_rebel_winning_2',
-'21':'headline_corellia_rebel_winning_1',
-'20':'headline_corellia_rebel_losing_1',
-'18':'headline_corellia_rebel_losing_3',
-'17':'headline_corellia_rebel_losing_4',
-'16':'headline_naboo_rebel_winning_4',
-'15':'headline_naboo_rebel_winning_3',
-'14':'headline_naboo_rebel_winning_2',
-'13':'headline_naboo_rebel_winning_1',
-'12':'headline_naboo_equal',
-'11':'headline_naboo_rebel_losing_1',
-'10':'headline_naboo_rebel_losing_2',
-'9':'headline_naboo_rebel_losing_3',
-'8':'headline_naboo_rebel_losing_4',
-'7':'newsnet_read_all',
-'6':'newsnet_terminal',
-'5':'newsnet_extra',
-]
+{
+	"stfFile":"gcw",
+	"entries": {
+		"too_many_bases":"There are too many bases in this area. Move to a new location and try again.",		"cannot_change_from_combatant_in_field":"You cannot change you status to combatant in the field. Go talk to a faction recruiter.",		"gcw_status_info":"To see the status of the Galactic Civil War, either talk to your local factional recruiter, or read the newsnet terminals in your nearest starport.",		"read_headline":"Read Headline",		"general_newsnet_name":"The Times",		"naboo_newsnet_name":"The Nabooian Citizen",		"abort_field_change":"You cancel your factional change.",		"handle_go_covert":"You will be flagged as a Combatant in 30 seconds.",		"gcw_status_change_covert":"You are changing your GCW Status to 'Combatant'. This transition will take 30 seconds. It will allow you to attack and be attacked by enemy NPC's. Type YES in this box to confirm the change.",		"gcw_status_change_overt":"You are changing your GCW Status to 'Special Forces'. This transition will take 5 minutes. It will allow you to attack and be attacked by hostile players and NPC's.Type YES in this box to confirm the change.",		"gcw_status_change":"GCW STATUS CHANGE CONFIRMATION",		"headline_corellia_equal":"          Peaceful Solution May Be On Horizon
+Coronet, Corellia (CP) -- Information coming 
+from Naboo today indicates that a peacful solution
+to the fighting may be closer than we think.  
+",		"headline_corellia_rebel_losing_2":"          Imperial Leaders Optimistic
+Theed, Naboo (CP) -- Imperial Leaders are optimistic tod-
+ay, indicating that fighting against the Rebels has taken a
+turn to their advantage. ",		"corellia_newsnet_name":"Corellia Metropolitan ",		"story_corellia_rebel_losing_1":"Coronet, Corellia (CP) -- Rebel forces suffered 
+a setback at Imperial hands today. 34 are reported 
+dead and 95 wounded in fierce fighting.",		"headline_general_rebel_winning_4":"          Rebel Victory Near
+Mos Taike, Tatooine (IP) -- "We look forward to
+a peace accord, signed by the Emperor himself." 
+These were the words of a Rebel General who spoke
+off the record to reporters.",		"headline_general_rebel_winning_3":"          Rebel Forces Optimistic
+Mos Espa, Tatooine (IP) -- With a series of 
+incredible victories over a superior army, Rebel 
+supporters are becoming more and more optimistic.
+",		"headline_general_rebel_winning_2":"          Imperial Forces Lose Ground
+Mos Espa, Tatooine (IP) -- Imperial Forces were 
+stunned today, after a serious defeat at the hands
+of what amounted to 'poorly armed partisan soldiers'.
+",		"headline_general_rebel_winning_1":"          Imperial Fleet Suffers Defeat
+Mos Eisley, Tatooine (IP) -- Rumors over the past 
+few days indicated that a team of Alliance pilots, fly-
+ing with no air support, destroyed a Super Star Destroyer
+in orbit around Tatooine.
+",		"headline_general_equal":"          Worrt Invasion Leaves Homeowners Hopping Mad
+Mos Espa, Tatooine (IP) -- KROAAAK! Mos Espa homeowners
+awoke to an unpleasant surprise last week. Local Worrt 
+populations have spiraled out of control in recent weeks.
+",		"headline_general_rebel_losing_1":"          Rebellion Puts Out Call For Enlistees
+Coronet, Corellia (IP) -- Rebellion spokesmen released another statement yesterday requesting able 
+bodied citizens to enlist in the fight against the Empire.
+",		"headline_general_rebel_losing_2":"          Rebel Leaders Losing Confidence
+Coronet, Corellia (IP) -- Rebellion leaders, speaking
+under conditions of anonymity, spoke frankly about 
+recent failures in the fight against the Empire.",		"headline_general_rebel_losing_3":"          Imperial Senate Happy With War Progress
+Theed, Naboo (IP) -- Rebellion leaders, speaking
+under conditions of anonymity, spoke frankly about 
+recent failures in the fight against the Empire. 
+",		"headline_general_rebel_losing_4":"          Imperial Victory Assured
+Mos Espa, Tatooine (IP) -- Imperial Officers today 
+declared through official channels that the battle
+with the Rebellion is about to end.  
+",		"headline_corellia_rebel_winning_4":"          Ex-Senator Calls For Troop Exit Plan
+Theed, Naboo (CP) -- Recent heavy Imperial losses have
+led senator Mcnamara to call for a full troop withdrawal
+from the Rebel conflict. 'We must protect the lives of our 
+soldiers from these terrorist attacks.'
+",		"headline_corellia_rebel_winning_3":"          Imperial Leaders Unhappy With Progress
+Theed, Naboo (CP) -- Imperial leaders are unhappy
+with progress against the Rebellion. Numerous unnamed
+sources have voiced concerns that more troops are needed.
+",		"headline_corellia_rebel_winning_2":"          Imperial Leaders Concerned Over Losses
+Theed, Naboo (CP) -- Imperial leaders are concerned
+over recent casualties. Logistical and supply failures this
+week have led to increased losses amongst Imperial forces.
+",		"headline_corellia_rebel_winning_1":"          Imperial Units Continue Deployment
+Theed, Naboo (CP) -- Imperial forces continued
+deployment, undeterred, even in the face of 
+increased casualties this week. Morale remains 
+mixed with the recent casualties.
+",		"headline_corellia_rebel_losing_1":"          Rebel Forces Suffer Setback
+Coronet, Corellia (CP) -- Rebel forces suffered 
+a setback at Imperial hands today. 3 are dead 
+and 12 wounded in fierce fighting. ",		"headline_corellia_rebel_losing_3":"          Rebel Forces Fear No End In Sight
+Coronet, Corellia (CP) -- Rebel forces fear the 
+fight against the Empire may continue indefinitely. 
+Hope for a cease fire vanished last week.",		"headline_corellia_rebel_losing_4":"          Rebel Forces Devastated!
+Coronet, Corellia (CP) -- Rebel forces suffered devastating
+casualties this week in an Imperial attack. Casualties were
+unusually high, indicating a failure in Rebellion intelligence. 
+",		"headline_naboo_rebel_winning_4":"          Rebel Terrorists Spread Disinformation!
+Theed, Naboo (IP) -- Information about the
+fighting going on in distant systems is not ent-
+irely accurate.  Rebel spies are planting disinformation
+on Imperial newsnet terminals in an attempt to discredit
+the Empire.",		"headline_naboo_rebel_winning_3":"          Rebel Forces Building Super Weapon?
+Moenia, Naboo (IP) -- Information gathered from
+captured Rebel Pilots indicates that the Rebels are 
+working on some kind of 'Super Laser' capable of
+planetary destruction.",		"headline_naboo_rebel_winning_2":"          Imperial Losses Due To Treason!
+Theed, Naboo (IP) -- Old Republic Supporters are
+being blamed for what can only be described as a
+military fiasco.  Information about troop movement
+was leaked to Rebel terrorists by unknown insurgents.",		"headline_naboo_rebel_winning_1":"          Lord Vader Leads Forces Personally
+Theed, Naboo (IP) -- It has come to this.  Lord
+Vader himself is moving his personal troops to the
+front lines to break up the Rebel assaults.",		"headline_naboo_equal":"          War Continues, Emperor Confidant
+Theed, Naboo (IP) -- The Emperor enjoyed a 
+quiet day at his retreat on Naboo today, taking a  
+break from military matters.  "He's confidant that
+the conflict will be resolved equitably".",		"headline_naboo_rebel_losing_1":"          Tide Turns Against Rebel Agitators
+Theed, Naboo (IP) -- Agitators and threats to
+Galactic security.  That's what the Imperial Soldiers 
+are calling the now thousands strong 'Alliance'.
+",		"headline_naboo_rebel_losing_2":"          Rebel Terrorists Suffer Serious Defeat
+Theed, Naboo (IP) -- Imperial Officers promoted  
+hundreds of soldiers today, following fierce fighting
+in which the Imperial Army overwhelmed a Rebel
+garrison.",		"headline_naboo_rebel_losing_3":"          Rebel Terrorist Forces Dwindling
+Moenia, Naboo (IP) -- Reports from outlying 
+systems today indicate that the vast majority of  
+Rebel soldiers are abandoning their posts in
+an attempt to escape the Imperial onslaught.",		"headline_naboo_rebel_losing_4":"          Imperial Forces Plan Celebration
+Theed, Naboo (IP) -- Imperial Officers got to
+plan something different today, a party.  After months 
+of battle, they finally get to turn their attention to more
+relaxing matters.",		"newsnet_read_all":"EXTRA! EXTRA! READ ALL ABOUT IT!",		"newsnet_terminal":"Newsnet Terminal",		"newsnet_extra":"EXTRA! EXTRA!"
+}}

@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/vortex_mission_4",
+	"entries": {
+		"title_d":"Your orders are to ambush the Imperial Officers shuttle and get the location of where the ship took off from by hacking its onboard computer.",		"title":"Dantooine system: Steal location of Imperial Research Project.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Dantooine system.",		"quest_location_d":"Quickly travel to the system of Dantooine to intercept the Imperial officer. When you arrive in the system, we will update your navigation computer with the correct coordinates for the interception. We don't have a confirmation on when the officers shuttle will pass these coordinates but our recon ship monitoring the area says he hasn't yet. When you get to the location wait until the shuttle appears and proceed with the ambush.",		"quest_inspect_t":"Imperial officer shuttle.",		"quest_inspect_d":"The officer is travelling in an Imperial shuttle class 'Lambda'. If it's not at this location when you arrive there, search the nearby area and find a good spot to ambush the shuttle from when it arrives. Disable the ships engine or reactor and get the travel routes from the shuttles navigation computer. To target specific components on a star ship, input the bracket commands ( ] or [ ) to your tactical computer.",		"quest_dock_t":"Transfer the travel routes.",		"quest_dock_d":"To transfer the shuttles travel routes and start location, dock with him as soon as he's disabled and you have inspected him to make sure it's the correct ship.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

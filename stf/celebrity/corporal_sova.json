@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/corporal_sova",
+	"entries": {
+		"npc_11":"Splendid!  There are recruiters even here on Naboo.  I can't give out their names, but you'll find them if you look.",		"player_10":"I'd like to join up actually.",		"npc_10":"You should be.  They agree with us as well, and they're doing something about it!",		"player_9":"Not too much.",		"npc_5":"Yes.  Are you interested in the plight of the rebels?",		"player_6":"The Alliance, eh?",		"npc_9":"Well, I'm sorry to hear that, but I'm glad to have found a kindred spirit.",		"player_8":"Me too.",		"npc_8":"That's right.  But enough about that.",		"player_7":"You speak from experience, eh?",		"npc_4":"That's true.  I know that all too well.",		"player_5":"Not everyone agrees.",		"npc_3":"I had a feeling you would.  That's why I joined the Alliance.  To meet new people like you who agreed with me.",		"npc_7":"For an Imperial?  Yep.  That's it.",		"player_4":"That's it?",		"npc_6":"Nope.  I've revealed too much already.  No more talking to you.",		"player_3":"Wait, I have a question.",		"npc_2":"Well that's too bad.  I guess we're done talking.",		"player_2":"I agree.",		"player_1":"I work for the Empire.",		"npc_1":"The Empire has too much control over our lives."
+}}

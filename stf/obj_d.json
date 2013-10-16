@@ -1,22 +1,5 @@
-[
-'20':'coal_bin',
-'19':'corvette_droid_maint_module',
-'18':'computer_mainframe',
-'17':'corvette_bootdisk_4',
-'16':'computer_desktop',
-'15':'trash_container',
-'14':'poison_stabilizer',
-'13':'poison_gas_cloud',
-'12':'chemical_reactor',
-'11':'droid_battery',
-'10':'obj_traz',
-'9':'obj_slitherhorn',
-'8':'obj_ommni_box',
-'7':'obj_mandoviol',
-'6':'obj_kloo_horn',
-'5':'obj_nalargon',
-'4':'obj_chidinkalu_horn',
-'3':'obj_fizz',
-'2':'obj_fanfar',
-'1':'obj_bandfill',
-]
+{
+	"stfFile":"obj_d",
+	"entries": {
+		"coal_bin":"A large container used for holding solid resources such as coal or ore.",		"corvette_droid_maint_module":"This module is used to regulate the maintenance functions of astromech droids.  It appears to be in working condition.",		"computer_mainframe":"A large computer, used for various purposes.",		"corvette_bootdisk_4":"A bootdisk for the internal systems of a Corellian Corvette class ship.  This one is marked #4.",		"computer_desktop":"A desktop monitor and keyboard, connected to a computer network of some kind.",		"trash_container":"A pile of trash.  There may be something hidden beneath or inside it...",		"poison_stabilizer":"A poison stabilizing agent.  It mixes with toxic fumes to convert them into breathable air.",		"poison_gas_cloud":"A cloud of poisonous or toxic gas.",		"chemical_reactor":"A chemical reactor, putting chemicals in it will change the make up of an experiment.",		"droid_battery":"A Droid Battery, used to recharge pet droids.",		"obj_traz":"A Traz.",		"obj_slitherhorn":"A Slitherhorn.",		"obj_ommni_box":"An Ommni Box.",		"obj_mandoviol":"A Mandoviol.",		"obj_kloo_horn":"A Kloo Horn.",		"obj_nalargon":"A Nalargon.",		"obj_chidinkalu_horn":"A Chidinkalu Horn",		"obj_fizz":"A Fizzz.",		"obj_fanfar":"A Fanfar.",		"obj_bandfill":"A Bandfill.  "
+}}

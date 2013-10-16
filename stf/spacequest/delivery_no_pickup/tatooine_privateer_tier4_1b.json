@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_rendezvous2_t',
-'17':'quest_rendezvous2_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_dock2_t',
-'13':'quest_dock2_d',
-'12':'hello_d',
-'11':'found_loc_d',
-'10':'failed_destroyed',
-'9':'docking_started_delivery',
-'8':'docking_complete_delivery',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_delivery',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/tatooine_privateer_tier4_1b",
+	"entries": {
+		"title_d":"Middle man the cargo from the two Hutt contacts under pressure from CorSec attacks",		"title":"Dantooine System: Deliver Hutt Cargo",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_rendezvous2_t":"Rendezvous Point",		"quest_rendezvous2_d":"Meet the transport for delivery of the goods here",		"quest_location_t":"Dantooine System",		"quest_location_d":"A quick route in the Dantooine System",		"quest_dock2_t":"Hutt Transport",		"quest_dock2_d":"Use the /dock command to transfer the cargo",		"hello_d":"Fortunate that you came along, these transports are not ideal for fending off attacks from military craft. You should get back to your contact soon, I doubt this extra bit was expected.",		"found_loc_d":"\#pcontrast3 Nav Computer: < \#pcontrast1 Coordinates locked in for rendezvous point. \#pcontrast3 >",		"failed_destroyed":"",		"docking_started_delivery":"The docking has begun.",		"docking_complete_delivery":"The docking is complete.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile activity has ceased. \#pcontrast3 >",		"attack_notify":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy craft detected on attack vector. \#pcontrast3 >",		"assigned_delayed":"",		"arrived_at_delivery":"\#pcontrast3 Nav Computer: < \#pcontrast1 Designated rendezvous waypoint reached. \#pcontrast3 >"
+}}

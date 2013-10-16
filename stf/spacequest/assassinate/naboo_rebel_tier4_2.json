@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_rebel_tier4_2",
+	"entries": {
+		"title_d":"The Empire is bringing in one of their most feared Inquisitors, Uvqolo. He's a master tactician and has an uncanny ability to find what he's looking for. One of our spy ships got lucky though and found his travel route through the Yavin system. Unfortunately most of our space fleet is used in escort missions but it is my hope that you will be able to terminate Uvqolo while he's still en route to the Inquisitions space station.",		"title":"Yavin system: Terminate Master Inquisitor Uvqolo.",		"split_quest_alert_fail":"Brother Extok Evin: < Look out! Sensors show multiple fighter ship signatures closing in on your position! Defend yourself pilot! >",		"split_quest_alert":"Brother Extok Evin: < Our reinforcements have arrived. Late of course but lets make something out of it, stand by for new orders. >",		"quest_update":"Brother Extok Evin: < %TO >",		"quest_target_t":"Master Inquisitor Uvqolo.",		"quest_target_d":"Uvqolo is as good at space combat as he is torturing innocents. He would prove a great challenge to you, if he was alone. Unfortunately, he won't be.",		"quest_location_t":"Yavin system.",		"quest_location_d":"For a expert pilot like yourself, the Yavin system should be low risk. With a important individual like Uvqolo travelling through the zone though, the security will be tight so stay alert.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"He got away! I know it wasn't easy pilot. Stand by for new orders.",		"escort_wiped_out":"Brother Extok Evin: < Great! Now show Uvqolo that he's met his match! >",		"escort_remaining":"Brother Extok Evin: < Good job pilot, make them fear you! >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"I'm most impressed my friend. This event will strike fear through the Empires ranks!",		"arrival_phase_2":"Coordinates confirmed. Good luck pilot!",		"arrival_phase_1":"The reconnaissance ship is locking in on Master Inquisitor Uvqolo now, stand by.",		"Quest Log Data":"Text"
+}}

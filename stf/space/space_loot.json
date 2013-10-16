@@ -1,22 +1,5 @@
-[
-'23':'item_list',
-'22':'sold_item',
-'21':'nothing_to_sell',
-'20':'sell_loot_button',
-'19':'sell_loot_prompt',
-'18':'sell_loot_title',
-'17':'privateer_only',
-'16':'imperial_only',
-'15':'rebel_only',
-'14':'loot_box_full',
-'13':'looted_item_you',
-'12':'looted_credits_you',
-'11':'looted_credits',
-'10':'no_group_leader',
-'9':'no_more_loot',
-'8':'no_permission',
-'7':'looted_item',
-'6':'group_credit_payout',
-'5':'split_with_group',
-'4':'use_credit_chip',
-]
+{
+	"stfFile":"space/space_loot",
+	"entries": {
+		"item_list":"[%DI] ----------- %TO",		"sold_item":"You sold an item: %TO for %DI Credits. They have been deposited into your bank account.",		"nothing_to_sell":"You do not have anything I wish to buy.",		"sell_loot_button":"Sell",		"sell_loot_prompt":"Select the item you wish to sell.",		"sell_loot_title":"Sell Loot",		"privateer_only":"You cannot equip this item because you are not a Neutral Pilot.",		"imperial_only":"You cannot equip this item because you are not an Imperial Pilot.",		"rebel_only":"You cannot equip this item because you are not a Rebel Pilot.",		"loot_box_full":"Your loot box is full so your ship cannot hold any more loot.",		"looted_item_you":"You have looted an item: %TO.",		"looted_credits_you":"You have looted a credit chip worth %DI credits.",		"looted_credits":"%TT has looted a credit chip worth %DI credits.",		"no_group_leader":"Your group leader is not available to auto loot. A random member has been chosen to receive the items.",		"no_more_loot":"Your inventory is full so you cannot receive any more loot.",		"no_permission":"You do not have permission to access that item.",		"looted_item":"%TT has looted an item: %TO.",		"group_credit_payout":"Your group member has split a credit chip.",		"split_with_group":"Split credits with group",		"use_credit_chip":"Transfer credits to bank account"
+}}

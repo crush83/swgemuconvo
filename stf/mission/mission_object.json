@@ -1,4 +1,5 @@
-[
-'2':'deliver_mission',
-'1':'destroy_mission',
-]
+{
+	"stfFile":"mission/mission_object",
+	"entries": {
+		"deliver_mission":"Deliver Mission",		"destroy_mission":"Destroy Mission"
+}}

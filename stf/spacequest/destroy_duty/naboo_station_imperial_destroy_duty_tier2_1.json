@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/naboo_station_imperial_destroy_duty_tier2_1",
+	"entries": {
+		"title_d":"The Rebels has been hiding under the protection of Nym in the Lok system for too long. Nym is quite powerful and we don't want to invoke his full rage but we have to show the Rebels that they are not safe anywhere. By sending you in alone, we should be able to give that message without provoking Nym too much. He's a proud man that should see it as a honorable challenge by a good pilot.",		"title":"Lok system: Duty mission: Rebels can't hide anywhere.",		"taunt_5":"You can't defeat us all!",		"taunt_4":"We will stop your oppression!",		"taunt_3":"Never again will you take another mans life!",		"taunt_2":"Lackey of the false Emperor, you will fall!",		"taunt_1":"Imperial hound, prepare to die!",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"quest_location_t":"Lok system.",		"quest_location_d":"This is enemy territory! Stay sharp and be careful out there pilot, an Imperial ship in this zone is like having a bullseye on your back.",		"quest_destroy_t":"Terminate targets of opportunity.",		"quest_destroy_d":"We will provide you with locations of Rebel and Nym ships. Follow the waypoints and deliver Imperial justice!",		"level_increase":"The Rebel and Nym scum are increasing their efforts in tracking you down, be ready.",		"level_boss_dead":"Excellent, the Rebel fools will miss that one!",		"level_boss":"We see a familiar ship signature on our sensors. %TO, one of the Rebel Ace pilots are coming your way!",		"found_loc":"Locked in a target area, transfering waypoint.",		"duty_update":"Imperial Command: < %TO >",		"dd_boss_taunt_5":"You will never kill another pilot of the Alliance again!",		"dd_boss_taunt_4":"You should never have come here Imperial!",		"dd_boss_taunt_3":"I will destroy you, mark my words!",		"dd_boss_taunt_2":"Imperial scum, prepare to pay for your crimes!",		"dd_boss_taunt_1":"I've come to claim revenge!",		"complete":"Incredible! You should get some rest pilot, you've gone well beyond your call of duty today!",		"boss_title_5":"General Boawa",		"boss_title_4":"Walfer Whitehand",		"boss_title_3":"Uowas Irgon",		"boss_title_2":"Poew Scar",		"boss_title_1":"Infio Argon",		"boss_detected":"The Rebel Ace is inbound, prepare yourself pilot!"
+}}

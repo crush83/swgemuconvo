@@ -1,7 +1,6 @@
-[
-'5':'deliver_rebel_easy_2',
-'4':'deliver_rebel_easy_3',
-'3':'deliver_rebel_easy_4',
-'2':'deliver_rebel_easy_1',
-'1':'deliver_rebel_easy_5',
-]
+{
+	"stfFile":"mission_deliver_rebel_easy",
+	"entries": {
+		"deliver_rebel_easy_2":"General Rieekan needs a package picked up from an Alliance member in the field. Find the operative, get the package and you will be informed where to take it.",		"deliver_rebel_easy_3":"Princess Leia needs you to deliver a very important item from one undercover operative to another.  May the Force be with you!
+",		"deliver_rebel_easy_4":"We have received a message from someone claiming to have something of great importance to our cause. Meet with this individual and find out what it is and whom it needs to go to.",		"deliver_rebel_easy_1":"The Alliance is indebted to a local of this planet who helped us escape Imperial detection. We wish to return the favor. Please see if there is anything we can do for this person.",		"deliver_rebel_easy_5":"The Alliance needs some goods moved from one location to another to prevent Imperial detection. Report to our contact and ensure the package gets safely and discreetly transported."
+}}

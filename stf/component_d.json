@@ -1,10 +1,5 @@
-[
-'8':'barrel_blaster',
-'7':'base_electronic_component',
-'6':'base_dna',
-'5':'base_food',
-'4':'base_component',
-'3':'blaster_power_handler',
-'2':'blaster_pistol_barrel',
-'1':'scope_weapon',
-]
+{
+	"stfFile":"component_d",
+	"entries": {
+		"barrel_blaster":"A barrel for a blaster.",		"base_electronic_component":"This is an Electronic Component used as an ingredient for crafting larger and more complicated items.",		"base_dna":"A DNA sample",		"base_food":"A food component",		"base_component":"A component",		"blaster_power_handler":"This is the fuel converter and energy-pulse generator component for blaster-type ranged weapons.",		"blaster_pistol_barrel":"This is the barrel and muzzle component for a blaster-pistol-type ranged weapon.",		"scope_weapon":"This is an electro-optical targetting aid for a ranged weapon."
+}}

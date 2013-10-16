@@ -1,239 +1,101 @@
-[
-'238':'waypoint_to_vendor',
-'237':'create_waypoint',
-'236':'table_entrance_fee',
-'235':'table_distance_to',
-'234':'list_tab_location',
-'233':'err_create_sale_not_owner',
-'232':'err_create_sale_too_many_vendor_items',
-'231':'err_create_sale_too_many_vendors',
-'230':'err_bid_outbid',
-'229':'container_warning_prose',
-'228':'err_create_auction_in_trade',
-'227':'err_create_sale_in_crate',
-'226':'err_create_sale_not_allowed',
-'225':'err_create_sale_not_empty',
-'224':'err_create_auction_not_empty',
-'223':'err_create_auction_not_allowed',
-'222':'err_create_auction_in_crate',
-'221':'err_create_sale_in_trade',
-'220':'err_auction_terminal_error',
-'219':'err_vendor_deactivated',
-'218':'err_retrieve_reimbursed',
-'217':'err_retrieve_item_does_not_exist',
-'216':'table_premium',
-'215':'err_accept_bid_auction_already_complete',
-'214':'help_sell_auction_desc',
-'213':'page_text_prefix',
-'212':'page_next',
-'211':'page_prev',
-'210':'err_cancel_auction_already_completed',
-'209':'err_inventory_full',
-'208':'list_test_status_no_list_filter',
-'207':'list_test_status_no_entries',
-'206':'list_test_status_no_list',
-'205':'help_sell_ok',
-'204':'help_sell_desc',
-'203':'help_sell_auction_time',
-'202':'help_sell_auction',
-'201':'help_sell_instant',
-'200':'help_sell_stockroom_price',
-'199':'help_sell_info',
-'198':'help_sell_container',
-'197':'help_sell_tabs',
-'196':'help_sell_stockroom',
-'195':'err_sell_cannot_sell_intangible',
-'194':'sell_tab_datapad',
-'193':'sell_tab_inv',
-'192':'sell_premium',
-'191':'help_bid_proxy',
-'190':'help_bid_bid',
-'189':'help_bid_high',
-'188':'help_details_desc',
-'187':'help_details_attribs',
-'186':'help_details_price',
-'185':'help_details_info',
-'184':'help_details_viewer',
-'183':'buy_vendor_buyer_successful',
-'182':'buy_vendor_owner_successful_remote',
-'181':'buy_vendor_owner_successful_local',
-'180':'buy_successful_galaxy_prose',
-'179':'buy_successful_planet_prose',
-'178':'help_v_available',
-'177':'help_available',
-'176':'help_sales_new',
-'175':'help_sales',
-'174':'help_bids',
-'173':'help_all_bid',
-'172':'help_all_table',
-'171':'help_all_filter_type',
-'170':'help_all_filter_location',
-'169':'help_all',
-'168':'help_vb_offers',
-'167':'help_vb_buy',
-'166':'help_vb_table',
-'165':'help_vb_filter_type',
-'164':'help_vb_selling',
-'163':'help_vs_stock',
-'162':'help_vs_offers',
-'161':'help_vs_new',
-'160':'help_vs_table',
-'159':'help_vs_filter_type',
-'158':'help_vs_filter_location',
-'157':'help_vs_selling',
-'156':'confirm_reject',
-'155':'waiting_reject',
-'154':'err_bid_bid_too_high',
-'153':'err_create_auction_bid_too_high',
-'152':'err_create_sale_bid_too_high',
-'151':'minutes',
-'150':'hours',
-'149':'days',
-'148':'sell_new',
-'147':'err_create_sale_invalid_item',
-'146':'waiting_auction_info',
-'145':'err_too_many_auctions',
-'144':'err_create_sale_not_enough_money_prose',
-'143':'err_create_auction_not_enough_money_prose',
-'142':'err_create_sale_unknown',
-'141':'err_create_auction_unknown',
-'140':'loc_market_name',
-'139':'loc_region',
-'138':'loc_planet',
-'137':'sale_type_auction',
-'136':'sale_type_instant',
-'135':'err_retrieve_not_at_location_prose',
-'134':'details_desc',
-'133':'details_attribs',
-'132':'err_accept_bid_no_bids',
-'131':'cpt_list',
-'130':'bid',
-'129':'cpt_set_price',
-'128':'set_price_input',
-'127':'set_price_name',
-'126':'error_sell_invalid_instant_price',
-'125':'retrieve_successful',
-'124':'waiting_withdraw',
-'123':'waiting_vendor_sell',
-'122':'waiting_vendor_owner',
-'121':'waiting_accept_bid',
-'120':'err_vendor_terminal_error',
-'119':'err_vendor_terminal_no_owner',
-'118':'err_vendor_sell_no_item_selected',
-'117':'err_vendor_sell_invalid_price',
-'116':'err_sell_no_item_selected',
-'115':'err_sell_invalid_time',
-'114':'err_sell_invalid_min_bid',
-'113':'err_sell_invalid_instant_price',
-'112':'err_retrieve_not_owner',
-'111':'err_retrieve_invalid_item',
-'110':'err_retrieve_invalid_container',
-'109':'err_retrieve_invalid_auctioner',
-'108':'err_create_sale_invalid_price',
-'107':'err_create_sale_invalid_length',
-'106':'err_craete_auction_invalid_item',
-'105':'err_create_sale_invalid_container',
-'104':'err_create_sale_invalid_auctioner',
-'103':'err_create_sale_already_auctioned',
-'102':'err_create_auction_not_owner',
-'101':'err_create_auction_invalid_price',
-'100':'err_create_auction_invalid_length',
-'99':'err_create_auction_invalid_item',
-'98':'err_create_auction_invalid_container',
-'97':'err_create_auction_invalid_auctioner',
-'96':'err_create_auction_already_auctioned',
-'95':'err_cancel_not_owner',
-'94':'err_cancel_invalid_item',
-'93':'err_cancel_invalid_auctioner',
-'92':'err_buy_rejected',
-'91':'err_buy_not_enough_money',
-'90':'err_buy_invalid_item',
-'89':'err_buy_invalid_auctioner',
-'88':'err_buy_invalid',
-'87':'err_bid_rejected',
-'86':'err_bid_not_enough_money',
-'85':'err_bid_invalid_item',
-'84':'err_bid_invalid_container',
-'83':'err_bid_invalid_auctioner',
-'82':'retrive_successful',
-'81':'create_sale_successful',
-'80':'confirm_withdraw',
-'79':'confirm_accept',
-'78':'buy_successful_local',
-'77':'accept_bid_successful',
-'76':'cpt_vendor_owner_list',
-'75':'cpt_vendor_list',
-'74':'set_price',
-'73':'details_vendor_price',
-'72':'err_selected_item_invalid',
-'71':'err_no_item_selected',
-'70':'reject',
-'69':'table_price',
-'68':'offer',
-'67':'list_tab_vendor_seller_stockroom',
-'66':'list_tab_vendor_seller_selling',
-'65':'list_tab_vendor_seller_offers',
-'64':'list_tab_vendor_buyer_selling',
-'63':'list_tab_vendor_buyer_offers',
-'62':'sell_from_stock',
-'61':'buy',
-'60':'waiting_buy',
-'59':'bid_on_instant_name',
-'58':'cpt_bid_instant',
-'57':'bid_instant_sale_msg',
-'56':'bid_instant_sale_price',
-'55':'ok_sell',
-'54':'instant_sale_amount',
-'53':'min_bid_amount',
-'52':'set_time_limit',
-'51':'sell_instant',
-'50':'sell_auction',
-'49':'sell_describe',
-'48':'cpt_sell',
-'47':'bid_input',
-'46':'bid_input_proxy',
-'45':'bid_high_bid',
-'44':'bid_on_name',
-'43':'cpt_bid',
-'42':'err_bid_invalid',
-'41':'waiting_sell',
-'40':'waiting_retrieve',
-'39':'waiting_list',
-'38':'waiting_details',
-'37':'waiting_bid',
-'36':'details_close',
-'35':'details_time_remaining',
-'34':'cpt_details',
-'33':'cpt_auction_list',
-'32':'table_type',
-'31':'table_time',
-'30':'table_owner',
-'29':'table_name',
-'28':'table_my_bid',
-'27':'table_my_proxy',
-'26':'table_location',
-'25':'table_sale_type',
-'24':'table_high_bidder',
-'23':'table_bid',
-'22':'details_instant_sale',
-'21':'details_high_bid',
-'20':'cancel_successful',
-'19':'bid_successful',
-'18':'create_auction_successful',
-'17':'retrieve',
-'15':'accept_bid',
-'14':'withdraw',
-'13':'region',
-'12':'planet',
-'11':'galaxy',
-'10':'details',
-'9':'place_bid',
-'8':'refresh',
-'7':'list_tab_available',
-'6':'list_tab_bids',
-'5':'list_tab_sales',
-'4':'list_tab_all',
-'3':'exit',
-'2':'type_filter',
-'1':'location_filter',
-]
+{
+	"stfFile":"ui_auc",
+	"entries": {
+		"waypoint_to_vendor":"Waypoint to Vendor",		"create_waypoint":"Create Waypoint",		"table_entrance_fee":"Entrance Fee",		"table_distance_to":"Distance",		"list_tab_location":"Vendor Location",		"err_create_sale_not_owner":"You cannot sell an item you do not own.",		"err_create_sale_too_many_vendor_items":"This vendor is at maximum capacity and cannot accept any more items for sale. ",		"err_create_sale_too_many_vendors":"You have more vendors than you can manage. You must either gain sufficient skill to manage the vendors you have, or remove one or more vendors before being allowed to place items for sale.",		"err_bid_outbid":"The bid failed. You have been outbid.",		"container_warning_prose":"You are attempting to buy a container named "\#pcontrast1 %TT\#.".  The container's name does not necessarily reflect its contents.  Do not make this purchase unless you trust this seller.",		"err_create_auction_in_trade":"You cannot sell an item that you are also trading.",		"err_create_sale_in_crate":"You are not allowed to sell an item in a crate.",		"err_create_sale_not_allowed":"You are not allowed to sell that item.",		"err_create_sale_not_empty":"You can only sell empty containers.",		"err_create_auction_not_empty":"You can only sell empty containers.",		"err_create_auction_not_allowed":"You are not allowed to sell that item.",		"err_create_auction_in_crate":"You cannot sell an item that is in a crate.",		"err_create_sale_in_trade":"You cannot sell an item that you are trading.",		"err_auction_terminal_error":"This market is unavailable.",		"err_vendor_deactivated":"This vendor is currently deactivated and is not accepting new items to be placed up for sale or offer.  If you are the owner of this vendor, please make sure the maintenance fees for this vendor have been paid to reactivate the vendor.",		"err_retrieve_reimbursed":"The item no longer exists.  Your bank has been reimbursed for the amount of the sale price of this item.",		"err_retrieve_item_does_not_exist":"This item cannot be retrieved because it no longer exists.",		"table_premium":"Premium",		"err_accept_bid_auction_already_complete":"That auction is complete.  You cannot accept the high bid.",		"help_sell_auction_desc":"To sell the item in an Auction, select this radio button and set the minimum bid.",		"page_text_prefix":"Items ",		"page_next":"Next Items",		"page_prev":"Previous Items",		"err_cancel_auction_already_completed":"That auction has already been completed.  It is too late to cancel.",		"err_inventory_full":"You have no room in your inventory to retrieve this item.",		"list_test_status_no_list_filter":"To request an item listing, select the desired filter parameters from the left, or hit the Refresh button.",		"list_test_status_no_entries":"No items found that meet the request criteria.",		"list_test_status_no_list":"To request an item listing, hit the Refresh button.",		"help_sell_ok":"When you have configured the sale to your liking, press this button to create the sale.",		"help_sell_desc":"Potential buyers will be able to see all the attributes of the item for sale.
+
+You can add additional information here if desired.",		"help_sell_auction_time":"If you are creating a new Auction, specify the duration of the Auction.
+
+Once the auction duration expires, the item will be awarded to the highest bidder.",		"help_sell_auction":"To sell the item in an Auction, select this radio button and set the minimum bid.",		"help_sell_instant":"To sell the item as an Instant Sale, select this radio button and set the selling price.",		"help_sell_stockroom_price":"Specify the selling price of the item here.",		"help_sell_info":"Information about the item to sell is shown here.",		"help_sell_container":"This is the container view of your inventory or datapad.
+
+Select an item here to sell it.",		"help_sell_tabs":"This is the Selling Window.
+
+You can choose to sell an item from your inventory, or from your datapad, by using these tabs.",		"help_sell_stockroom":"This is the Selling Window.
+
+It will allow you to sell the selected item from your Vendor Stock.",		"err_sell_cannot_sell_intangible":"You cannot sell this item.
+
+The only data types that can be sold on the market are Manufacturing Schematics.",		"sell_tab_datapad":"Datapad",		"sell_tab_inv":"Inventory",		"sell_premium":"Premium Sale",		"help_bid_proxy":"Enter your Proxy Bid here.
+
+The Proxy Bid is the limit to which the Auction system will automatically raise your bid.  Your bid is only automatically raised if you are out-bid by another player.",		"help_bid_bid":"Enter your bid here.",		"help_bid_high":"Use this window to place a bid on an item.
+
+This field displays the current high bid on the item.",		"help_details_desc":"The description of the item, as provided by the seller, is displayed here.",		"help_details_attribs":"The Guaranteed Attributes of the item are shown here.",		"help_details_price":"The item's price is displayed here, if the item is currently for sale.
+
+If the item is up for auction, the current high bid is displayed.",		"help_details_info":"This panel shows information about the item, such as its name, type, who put it up for sale, and where the item is located.",		"help_details_viewer":"Item Details
+
+Use this window to inspect an item in the Market.",		"buy_vendor_buyer_successful":"The item has been purchased.
+
+If you have room in your inventory, it will be placed there.  Otherwise, you may pick up the item later using the 'Available Items' tab.",		"buy_vendor_owner_successful_remote":"The item has been purchased.
+
+You can retrieve or sell the item by clicking on the 'Stockroom' tab.
+
+In order to retrieve the item, you will need to travel to the vendor which now has the item.",		"buy_vendor_owner_successful_local":"The item has been purchased.
+
+You can retrieve or sell the item by clicking on the 'Stockroom' tab.",		"buy_successful_galaxy_prose":"The item has been purchased.
+
+To retrieve the item, click on the 'Available Items' tab, choose the item from the list, and press the button labeled 'Retrieve'.
+
+You will first need to travel to %TT, on %TO, and access a Market Terminal there.
+",		"buy_successful_planet_prose":"The item has been purchased.
+
+To retrieve the item, click on the 'Available Items' tab, choose the item from the list, and press the button labeled 'Retrieve'.
+
+You will first need to travel to %TT and access a Market Terminal there.",		"help_v_available":"Available Items",		"help_available":"Available Items
+
+When you purchase an item, cancel a sale, or if one of your sales has expired, the item shows up here.
+
+You can retrieve the item from the Market from here.
+
+Please note that you must be in the same Market Region as the item in order to retrieve it.",		"help_sales_new":"Put one of your Items up for sale on the Commodities Market by pressing this button.",		"help_sales":"Outstanding Sales
+
+Use this tab to view items which you have placed for Sale on the Commodities Market.
+
+You can use the information here to determine who is bidding on your items, and how much is being bid.  You can also cancel sales or accept the current high bid on any item.",		"help_bids":"Bids Outstanding
+
+View your currently Outstanding Bids using this tab.  You can watch your bids and bid higher if someone outbids you on an item.",		"help_all_bid":"Buy or Bid on the Selected Item by pressing this button.",		"help_all_table":"Items for sale or auction are displayed here.
+
+Items for sale in the Commodities Market can be classified by sale type in two ways:
+
+- Auction: Item item up for Auction can be bid on until the time runs out.  When the time runs out, the person with the highest bid gets the item.
+
+- Instant Sale:  Items up for Instant Sale are available for purchase to the first person willing to pay the listed price.
+ 
+Double click on an item to view a detailed description of it.",		"help_all_filter_type":"Item Type Filter.
+
+Use this filter to choose what type of items for which to browse.",		"help_all_filter_location":"Commodities Market Location Filters
+
+Use these filters to narrow or widen your search.  You can browse the Region for Items that can be bought and picked up here.  You can also browse by Planet or even the entire Galaxy.  
+
+If you purchase an item from a distant location you will need to travel to that location to pick up your new item.
+",		"help_all":"View All Sales
+
+Using this tab, you can browse the Commodities market for Items which you can bid on or buy.",		"help_vb_offers":"Items offered to this Vendor by you.
+
+By offering an item for sale, you give the Vendor an opportunity to buy your item at the price you specify.  The owner of the Vendor will review your item and choose to buy it or reject it.  If the vendor owner rejects the item, you ",		"help_vb_buy":"Buy the Selected Item by pressing this button.",		"help_vb_table":"Items currently for sale at this vendor are displayed here.
+
+Double click on an item to view a detailed description of it.",		"help_vb_filter_type":"Item Type Filter
+
+Use this to choose what type of items to show in the list.",		"help_vb_selling":"Items for Sale
+
+This tab displays the Items currently for sale at this vendor.
+
+",		"help_vs_stock":"Vendor Stock.
+
+Use this tab to browse the items you have stored in the Stock of your vendor(s).  An item in your stockroom can be put up for sale in your vendors, or retrieved from the Stock and used.
+
+",		"help_vs_offers":"This tab shows the items that have been offered for sale by other players.
+
+You can choose to buy or reject any item on this list.  If you buy an item, it will be placed in your stockroom.  If you reject it, it will be returned to the player who originally offered it.",		"help_vs_new":"Put a new item up for sale at this Vendor by pressing this button.",		"help_vs_table":"Items currently for sale in your vendor(s) are displayed here.
+
+Double click on an item to view a detailed description of it.",		"help_vs_filter_type":"Item Type Filter
+
+Use this filter to choose what type of items for which to browse.",		"help_vs_filter_location":"Vendor Location Filters.
+
+You can choose to view items for sale at this vendor only, or all of your vendors in the Region, on the Planet, or in the Galaxy.",		"help_vs_selling":"Items for Sale in your Vendor.
+
+You can view all items for sale at your vendors here.",		"confirm_reject":"Reject this item?",		"waiting_reject":"Rejecting Item, please wait...",		"err_bid_bid_too_high":"The commodities market does not accept bids higher than %DI credits.",		"err_create_auction_bid_too_high":"Items can not be auctioned on the bazaar for more than %DI credits.",		"err_create_sale_bid_too_high":"Items can not be sold on the bazaar for more than %DI credits.",		"minutes":"Minutes",		"hours":"Hours",		"days":"Days",		"sell_new":"Sell an Item",		"err_create_sale_invalid_item":"You cannot sell an invalid item.",		"waiting_auction_info":"Waiting for Commodities Market Data...",		"err_too_many_auctions":"You have too many auctions on the commodities market.  Please withdraw some sales and pick up any items waiting in the Available Items tab.",		"err_create_sale_not_enough_money_prose":"You don't have enough credits to post that Sale.
+The Commodities Market requires %DI credits.",		"err_create_auction_not_enough_money_prose":"You don't have enough credits to post that Auction.
+The Commodities Market requires %DI credits.",		"err_create_sale_unknown":"An unknown error occured while creating the sale.",		"err_create_auction_unknown":"An unknown error occured while creating the auction.",		"loc_market_name":"Terminal",		"loc_region":"Region",		"loc_planet":"Planet",		"sale_type_auction":"Auction",		"sale_type_instant":"Instant",		"err_retrieve_not_at_location_prose":"You can't retrieve that item from this location.
+That item is located in the market at %TO.
+",		"details_desc":"Seller's Description of Item",		"details_attribs":"Guaranteed Item Attributes",		"err_accept_bid_no_bids":"There are currently no bids on this item",		"cpt_list":"List",		"bid":"Bid",		"cpt_set_price":"Set Price",		"set_price_input":"Set Price Input",		"set_price_name":"Set Price Name",		"error_sell_invalid_instant_price":"Invalid Price",		"retrieve_successful":"You have retrieved this item.",		"waiting_withdraw":"Withdrawing sale, please wait...",		"waiting_vendor_sell":"Placing the item for sale.",		"waiting_vendor_owner":"Initializing the vendor.",		"waiting_accept_bid":"Sending command to accept the bid.",		"err_vendor_terminal_error":"This market is unavailable.",		"err_vendor_terminal_no_owner":"This vendor has not been initialized.",		"err_vendor_sell_no_item_selected":"Please select an item to sell.",		"err_vendor_sell_invalid_price":"Please specify a sale price for the item.",		"err_sell_no_item_selected":"Please select an item to sell.",		"err_sell_invalid_time":"Please specify a valid auction duration.",		"err_sell_invalid_min_bid":"Please specify a valid minimum bid.",		"err_sell_invalid_instant_price":"Please specify a valid selling price.",		"err_retrieve_not_owner":"You cannot retrieve an item you do not own.",		"err_retrieve_invalid_item":"Please specify a valid item to retrieve.",		"err_retrieve_invalid_container":"You cannot retrieve the item right now.",		"err_retrieve_invalid_auctioner":"You are not allowed to retrieve that item.",		"err_create_sale_invalid_price":"You must specify a valid sale price.",		"err_create_sale_invalid_length":"Invalid sale duration.",		"err_craete_auction_invalid_item":"You cannot sell an invalid item.",		"err_create_sale_invalid_container":"Sale failed because the vendor is malfunctioning.",		"err_create_sale_invalid_auctioner":"You cannot sell that item because the auctioner is invalid.",		"err_create_sale_already_auctioned":"That item is already for sale.",		"err_create_auction_not_owner":"You cannot auction an item you do not own.",		"err_create_auction_invalid_price":"The specified auction price is invalid.",		"err_create_auction_invalid_length":"You must specify a valid auction duration.",		"err_create_auction_invalid_item":"You cannot auction an invalid item.",		"err_create_auction_invalid_container":"Auction failed because the local market is malfunctioning.",		"err_create_auction_invalid_auctioner":"Auction failed because the auctioner was invalid.",		"err_create_auction_already_auctioned":"That item is already for sale.",		"err_cancel_not_owner":"You must be the owner of an item to cancel the sale.",		"err_cancel_invalid_item":"You can't cancel that item because it is invalid.",		"err_cancel_invalid_auctioner":"You are not allowed to cancel that auction.",		"err_buy_rejected":"Your purchase request was rejected.",		"err_buy_not_enough_money":"You don't have enough money to buy that item.",		"err_buy_invalid_item":"The purchase failed because the item was invalid.",		"err_buy_invalid_auctioner":"The purchase failed because the auctioner is invalid.",		"err_buy_invalid":"The purchase failed.",		"err_bid_rejected":"The bid was rejected.",		"err_bid_not_enough_money":"You don't have enough money to place that bid.",		"err_bid_invalid_item":"The bid failed because the item is invalid.",		"err_bid_invalid_container":"The bid failed because the local commodity market is malfunctioning.",		"err_bid_invalid_auctioner":"The bid failed because the auctioner data was invalid.",		"retrive_successful":"Item retrieved.",		"create_sale_successful":"The item has been put up for sale.",		"confirm_withdraw":"Withdraw this item?",		"confirm_accept":"Accept this bid?",		"buy_successful_local":"The item has been purchased.
+
+If you have room in your inventory and the item is located in this region, it will be placed in your inventory automatically.  Otherwise, to retrieve the item, go the the correct region, click on the 'Available Items' tab, choose the item from the list, and press the button labeled 'Retrieve'.",		"accept_bid_successful":"Bid Accepted.",		"cpt_vendor_owner_list":"Vendor Owner List: ",		"cpt_vendor_list":"Vendor List: ",		"set_price":"Set Price",		"details_vendor_price":"Sale Price",		"err_selected_item_invalid":"The selected item is invalid.",		"err_no_item_selected":"No item selected.",		"reject":"Reject",		"table_price":"Price",		"offer":"Offer Item",		"list_tab_vendor_seller_stockroom":"Stockroom",		"list_tab_vendor_seller_selling":"For Sale",		"list_tab_vendor_seller_offers":"Offers",		"list_tab_vendor_buyer_selling":"For Sale",		"list_tab_vendor_buyer_offers":"Offers to Vendor",		"sell_from_stock":"Sell Item",		"buy":"Buy",		"waiting_buy":"Purchasing item, please wait...",		"bid_on_instant_name":"Item to Buy",		"cpt_bid_instant":"Buy Item",		"bid_instant_sale_msg":"Do you wish to purchase this item at the listed price?",		"bid_instant_sale_price":"Instant Sale Price",		"ok_sell":"Sell Item",		"instant_sale_amount":"Instant Sale Price",		"min_bid_amount":"Minimum Bid",		"set_time_limit":"Set Time Limit",		"sell_instant":"Instant Sale",		"sell_auction":"Auction",		"sell_describe":"Describe Item:",		"cpt_sell":"Sell an Item",		"bid_input":"Input your Bid",		"bid_input_proxy":"Input Proxy Bid",		"bid_high_bid":"Current High Bid",		"bid_on_name":"Item to Bid On",		"cpt_bid":"Bid on Item",		"err_bid_invalid":"The bid was invalid.",		"waiting_sell":"Loading item into the market, please wait...",		"waiting_retrieve":"Retrieving item, please wait...",		"waiting_list":"Downloading Auction List, please wait..",		"waiting_details":"Waiting for details download...",		"waiting_bid":"Placing bid, please wait...",		"details_close":"Close Details Window",		"details_time_remaining":"Time Remaining",		"cpt_details":"Item Details",		"cpt_auction_list":"Auction List: ",		"table_type":"Item Type",		"table_time":"Time Remaining",		"table_owner":"Item Owner",		"table_name":"Item Name",		"table_my_bid":"My Bid",		"table_my_proxy":"My Proxy",		"table_location":"Location",		"table_sale_type":"Sale Type",		"table_high_bidder":"High Bidder",		"table_bid":"Bid",		"details_instant_sale":"Instant Sale Price",		"details_high_bid":"High Bid",		"cancel_successful":"The Auction was successfully cancelled.",		"bid_successful":"The bid was posted successfully.",		"create_auction_successful":"Auction Successfully Created!",		"retrieve":"Retrieve Item",		"accept_bid":"Accept Bid",		"withdraw":"Withdraw Sale",		"region":"This Region",		"planet":"This Planet",		"galaxy":"Entire Galaxy",		"details":"Details",		"place_bid":"Place Bid",		"refresh":"Refresh",		"list_tab_available":"Available Items",		"list_tab_bids":"My Bids",		"list_tab_sales":"My Sales",		"list_tab_all":"All Auctions",		"exit":"Exit",		"type_filter":"Object Type Filter",		"location_filter":"Location Filter"
+}}

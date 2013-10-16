@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/naboo_imperial_tier3_1_a",
+	"entries": {
+		"title_d":"The Yacht made a stop in the Yavin system and met with a mercenary fighter. The computers indicate that some information was transfered between the two vessels and Command wants to know what that information contained.",		"title":"Yavin System: Inspect the Mercenary Spy",		"split_quest_alert_fail":"",		"split_quest_alert":"Nice work, pilot. We are sending a freighter to your area for transfer of that data. Stand by for coordinates to the transfer vessel.",		"quest_location_t":"Travel to the Yavin System",		"quest_location_d":"Command has a lock on the mercenary craft inside the Yavin system. You are to travel to the Yavin system and inspect the fighter. A navigation waypoint will be supplied to the mercenary spy's location.",		"quest_inspect_t":"Inspect the Mercenary Spy",		"quest_inspect_d":"Intercept the mercenary spy, disable his craft, and inspect it for the data that was transfered between the yacht and fighter.",		"quest_dock_t":"Transfer the Pirate Sector Report",		"quest_dock_d":"Once you have found the report, dock with the fighter, and transfer it to your craft.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

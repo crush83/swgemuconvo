@@ -1,7 +1,5 @@
-[
-'5':'areabroadcast',
-'4':'trando_warning',
-'3':'time_is_up',
-'2':'wp_wookiee_slave',
-'1':'wookiee_slave',
-]
+{
+	"stfFile":"event/ep3_trando_herald",
+	"entries": {
+		"areabroadcast":"<Incoming Emergency Transmission> Mayday - Mayday; This is transport vessel Severed Talon 4 coming in for an emergency landing. Repeat, transport vessel Severed Talon 4 coming in for an emergency landing.",		"trando_warning":"I can't believe this! Oh no... Look out everyone, it's going to blow!",		"time_is_up":"The transponder signal has been lost. The wookiee escaped!",		"wp_wookiee_slave":"Escaped Wookiee Slave",		"wookiee_slave":"escaped wookiee slave"
+}}

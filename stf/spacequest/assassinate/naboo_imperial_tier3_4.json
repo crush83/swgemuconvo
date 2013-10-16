@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_imperial_tier3_4",
+	"entries": {
+		"title_d":"Kill General Breckon inside the Dathomir system. The Rebel plans, the use of the Dathomir system, and the Doctor's statements all point that General Breckon was involved in the plot. The General is heading to Naboo in order to dispute these claims. It would be too much of a black eye on the Imperial Army when he is found guilty. Therefore, he must never make it to Naboo. See that he has an accident on his way out of Dathomir.",		"title":"Dathomir System: Kill General Breckon",		"split_quest_alert_fail":"",		"split_quest_alert":"Hold position. You are needed to escort Dr. Shinss to the prison planet drop location. Stand by for further instructions.",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the General's Shuttle",		"quest_target_d":"Intercept and kill General Breckon in the Dathomir system. To assist with the cover up, make sure that he never makes it out of the Dathomir system.",		"quest_location_t":"Travel to the Dathomir System",		"quest_location_d":"Travel to the Dathomir and intercept General Breckon's shuttle.",		"quest_escort_t":"Destroy the General's Escort",		"quest_escort_d":"There can be no witnesses to what happened to the General. All of the General's escorts must meet the same fate as he did.",		"failed_escape":"Fool! You allowed General Breckon to escape. Report back to your superior officer immediately.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Escort fighters have been eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escorts remaining.>",		"destroy_escort":"No one can know about this operation. Destroy the general's escort fighters as well.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Very nicely done. Breckon will no longer be a black eye on the Empire.",		"arrival_phase_2":"General Breckon's ship has been located. Proceed immediately and elimate the traitor and all with him.",		"arrival_phase_1":"Scanning sector for General Breckon's ship. Stand by for location.",		"Quest Log Data":"Text"
+}}

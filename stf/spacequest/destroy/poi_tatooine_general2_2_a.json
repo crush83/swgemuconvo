@@ -1,14 +1,5 @@
-[
-'12':'title_d',
-'11':'title',
-'10':'split_quest_alert_fail',
-'9':'split_quest_alert',
-'8':'quest_location_t',
-'7':'quest_location_d',
-'6':'quest_destroy_t',
-'5':'quest_destroy_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy/poi_tatooine_general2_2_a",
+	"entries": {
+		"title_d":"A'Lerris has instructed me to move on to another area to continue my work. She's effortlessly transmitted the information I need to find my objective and I will continue my task with little interruption. ",		"title":"Tatoo System: Extinguish the Influence",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 A'Lerris Verata:\#pcontrast3 < Pilot. Listen carefully as this is a highly sensitive mission and must be undertaken with utmost care. We've been contacted by the captured crew of one of our missing freighters. It seems that the Zynt'aia pirates have taken a freighter and its crew hostage. It is your duty to rescue it and bring it home. Please be careful. We're counting solely on you. >",		"quest_location_t":"Remain in the Tatoo System",		"quest_location_d":"My task directs me to the Tatoo System. I must travel there if I haven't already and complete my mission as directed.",		"quest_destroy_t":"Destroy the Zynt'aia Pirates",		"quest_destroy_d":"A'Lerris has transmitted a new area in which I must extinguish the influence of the Zynt'aia Order. Once I have completed my mission, the balance will be restored and the miners can continue their work undauntedly.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

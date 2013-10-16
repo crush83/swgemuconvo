@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_privateer_tier3_4",
+	"entries": {
+		"title_d":"Destroy the Tyrant of Endor",		"title":"Endor System: Destroy the Evil Raider Tyrant",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 CorSec Command: < \#pcontrast1 Keep on the alert Captain, I don't like the looks of this. Our computers detect a rather large hyperspace surge. \#pcontrast3 >",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Evil Raider Tyrant",		"quest_target_d":"Primary Objective, bring down at all costs",		"quest_location_t":"Endor System",		"quest_location_d":"An area of Endor Space controlled by pirates",		"quest_escort_t":"Evil Raiders",		"quest_escort_d":"Not to be taken lightly, these targets need to be destroyed as well",		"failed_escape":"Pilot! The target escaped! The mission is a failure! Return to your superior for further instruction.",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 CorSec Command: < \#pcontrast1 You've destroyed the Tyrant. But we also need to get his cronies. Continue with your objective, Captain. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 CorSec Command: < \#pcontrast1 Ha! I knew you could do it, Captain. The mission is a success! \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 CorSec Command: < \#pcontrast1 We've detected the target. It seems as if he's got his cronies with him. You better watch out. It's gonna be ugly. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 CorSecCommand: < \#pcontrast1 Captain , do you read me? Your target will arrive soon and you must be ready for a fight. This could get pretty dangerous. Good luck! \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

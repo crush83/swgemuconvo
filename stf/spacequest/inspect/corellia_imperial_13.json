@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/corellia_imperial_13",
+	"entries": {
+		"title_d":"Travel to the Corellia system and inspect the Rebel smuggler. When you enter the system you will receive a navigation waypoint to an area that the Rebel smuggler should be. Travel to this location and look around it for the Rebel smuggler. Once you have found the smuggler you will need to disable his vessel. In order to disable a vessel use the '[' or ']' to target the ships subsystems and target its engines. Attack the Rebel smuggler until its engines are at 0%. Now move in close and use presse the 'I' key or type /inspect with the Rebel smuggler targeted. After you have found the personnel dossier, type /dock in order to transfer the dossier onto your ship. Be wary because you will be very vunerable while docking with another vessel.",		"title":"Corellia System: Inspect the Rebel Smuggler",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Travel to the Corellian System",		"quest_location_d":"Travel to the Corellia system and inspect the Rebel smuggler. You will receive a navigation waypoint to the area that the Rebel smuggler can be found in. Travel to this navigation waypoint and look around for the Rebel smuggler.",		"quest_inspect_t":"Inspect the Rebel Smuggler",		"quest_inspect_d":"Inspect the Rebel smuggler vessel for the Personnel Dossier. To inspect a ship first you must disable it's engines by targeting its subsystems. Use the '[' or ']' key in order to target its engines. Attack the vessel until its engines are at 0%. Then move in close and use the /inspect or press the 'I' key to start inspecting the Rebel smuggler. Make sure you have the disabled Rebel smuggler targeted when you attempt this.",		"quest_dock_t":"Dock with the Rebel Smuggler and Transfer the Personnel Dossier",		"quest_dock_d":"Once you have succeeded in finding the Personnel Dossier you will need to dock with the ship in order to transfer the data. Use the /dock command in order to start the docking procedure. Wait until the procedure is complete and you receive the system message of success before leaving. Be very careful at this point because you will be vunlerable to attacks while docked with another vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

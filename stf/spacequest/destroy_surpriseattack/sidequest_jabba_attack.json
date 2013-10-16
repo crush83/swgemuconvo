@@ -1,12 +1,5 @@
-[
-'10':'unused2_t',
-'9':'unused2_d',
-'8':'unused1_t',
-'7':'unused1_d',
-'6':'title_d',
-'5':'title',
-'4':'split_quest_alert_fail',
-'3':'split_quest_alert',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/sidequest_jabba_attack",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Jabba's assassins have been sent after you and you begin to wonder why. Thinking back the last couple of days, you remember an informant associated with Jabba, named Rakkim Warstai. He had asked for your help in the name of Jabba and you refused. It clicks. Rakkim sent the assassins after you. He had warned you, right? Be wary of Jabba and his cronies in the future.",		"title":"Jabba's Assassins!",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"complete":"You have defeated Jabba's assassins!",		"assigned_delayed":"Navigational Computer: < Warning! Warning! Enemy ships detected! Identifying... .. Jabba Assassins. Warning! Warning! Weapon systems armed! >"
+}}

@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/corellia_imperial_tier4_1_a",
+	"entries": {
+		"title_d":"Remain in the Dantooine system and inspect the Velocity mercenary captain. The officer's starfighter has been spotted on your radar. Intercept, disable, and inspect that vessel.",		"title":"Dantooine System: Inspect the Velocity Mercenary Captain",		"split_quest_alert_fail":"",		"split_quest_alert":"Interesting, the reports you have recovered have a communications relay point and frequency indicated in them. Travel to location and tune into the frequency.",		"quest_location_t":"Remain in the Dantooine System",		"quest_location_d":"The target vessels signal is coming from inside the Dantooine system. Intercept the Velocity mercenary captain at the supplied navigation waypoint.",		"quest_inspect_t":"Inspect the Velocity Mercenary Captain",		"quest_inspect_d":"Disable and inspect the captain for any information regarding their operation in the Dantooine system.",		"quest_dock_t":"Transfer the Navigation Information Charts",		"quest_dock_d":"Once you have found the navigation charts, dock with the vessel and transfer the charts to your ship.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

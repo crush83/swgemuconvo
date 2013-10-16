@@ -1,22 +1,5 @@
-[
-'20':'npc_msn_03_done_01',
-'19':'npc_msn_03_decline',
-'18':'npc_msn_03_greeting_onothermission',
-'17':'npc_msn_03_friend_work_01',
-'16':'npc_msn_03_friend_greeting_onmission',
-'15':'npc_msn_03_friend_greeting_02',
-'14':'npc_msn_03_greeting_onmission',
-'13':'npc_msn_03_greeting_02',
-'12':'npc_msn_03_friend_greeting_01',
-'11':'npc_msn_03_presp_getmission_05',
-'10':'npc_msn_03_presp_getmission_04',
-'9':'npc_msn_03_presp_getmission_03',
-'8':'npc_msn_03_work_01',
-'7':'npc_msn_03_presp_getmission_02',
-'6':'npc_msn_03_presp_getmission_01',
-'5':'npc_msn_03_work_02',
-'4':'npc_msn_03_busy_01',
-'3':'npc_msn_03_presp_greeting_02',
-'2':'npc_msn_03_presp_greeting_01',
-'1':'npc_msn_03_greeting_01',
-]
+{
+	"stfFile":"npc_mission/npc_mission_03",
+	"entries": {
+		"npc_msn_03_done_01":"My problems are my own...",		"npc_msn_03_decline":"Oh my.  Well, I'll have to wait for someone else then...",		"npc_msn_03_greeting_onothermission":"Aren't you a little busy to be talking to me right now?",		"npc_msn_03_friend_work_01":"You should speak to my friend. There's work to be done, but it's far too dangerous for me!",		"npc_msn_03_friend_greeting_onmission":"Aren't you supposed to be helping my friend, here?",		"npc_msn_03_friend_greeting_02":"Nice to see you again.",		"npc_msn_03_greeting_onmission":"I'm starting to lose my faith in you.  I understand you haven't finished that job we talked about...",		"npc_msn_03_greeting_02":"You again.",		"npc_msn_03_friend_greeting_01":"Well, hello!",		"npc_msn_03_presp_getmission_05":"You've got some serious problems...",		"npc_msn_03_presp_getmission_04":"You seem upset...can I help out?",		"npc_msn_03_presp_getmission_03":"No really.  I need some work.",		"npc_msn_03_work_01":"Sure you are...working against me, right?",		"npc_msn_03_presp_getmission_02":"Let's get started then.  What can I do for you?",		"npc_msn_03_presp_getmission_01":"What can I do?",		"npc_msn_03_work_02":"There might be something you can do...if I can trust you...",		"npc_msn_03_busy_01":"Don't act like you don't know!",		"npc_msn_03_presp_greeting_02":"With WHO?",		"npc_msn_03_presp_greeting_01":"Actually I'm looking for some work.",		"npc_msn_03_greeting_01":"Wait...who are you?  You're not with THEM are you?"
+}}

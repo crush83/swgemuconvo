@@ -1,10 +1,5 @@
-[
-'8':'fs_response08',
-'7':'fs_response07',
-'6':'fs_response06',
-'5':'fs_response05',
-'4':'fs_response04',
-'3':'fs_response03',
-'2':'fs_response02',
-'1':'fs_response01',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_wall_repair",
+	"entries": {
+		"fs_response08":"The new grating is taking longer than expected. We're running short on metal.",		"fs_response07":"I'm done with the keystone for the main arch. Where do you want it?",		"fs_response06":"Is there going to be room for the blaster turret there?",		"fs_response05":"I don't think we're going to be able to repair this section. Might as well start tearing it down.",		"fs_response04":"The rock cutter is running out of juice. We're going to need to shut it down to recharge soon.",		"fs_response03":"Where is that binary load lifter with the raw stone?",		"fs_response02":"Has anyone measured for the new gate yet?",		"fs_response01":"We're going to need a power sledge to break up this section of rock."
+}}

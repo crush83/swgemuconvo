@@ -1,7 +1,6 @@
-[
-'5':'lord3',
-'4':'lord2',
-'3':'lord1_reply2',
-'2':'lord1_reply1',
-'1':'lord1',
-]
+{
+	"stfFile":"emp_int_3",
+	"entries": {
+		"lord3":"You are trying my patience.",		"lord2":"Excellent.",		"lord1_reply2":"I'm not ready to do that right now.",		"lord1_reply1":"Will do.",		"lord1":"Clear an area of rebel forces in preparation for a strike team's landing.  I'll enter the location into your datapad and send further instruction when the area is clear.
+"
+}}

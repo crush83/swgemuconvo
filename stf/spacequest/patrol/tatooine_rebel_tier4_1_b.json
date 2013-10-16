@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/tatooine_rebel_tier4_1_b",
+	"entries": {
+		"title_d":"That didn't go as planned pilot; let's hope that your escape will! We have a pre planned escape route for you, follow it but move quickly!",		"title":"Dathomir system: Escape the Empires counter attack.",		"split_quest_alert_fail":"",		"split_quest_alert":"General Ufwol: < Imperial Interceptors close by! Defend yourself! >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Pre-planned escape route.",		"quest_patrol_d":"We will update your nav computer with the waypoints of the pre-planned escape route. Follow them but not to the point where you run in to more hostile forces. If you have to circle around something, do so, just do it quickly.",		"quest_location_t":"Dathomir system.",		"quest_location_d":"There couldn't be a worse place to be on the run. Keep a close eye on your sensors. If you see any hostile blips, try to take a route around them. Move quickly though, the Empire is on your tail!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

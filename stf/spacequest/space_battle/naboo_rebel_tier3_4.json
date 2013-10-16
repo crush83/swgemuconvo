@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_rebel_tier3_4",
+	"entries": {
+		"title_d":"With the sliced data from the Imperial spy we have now found what we hope to be the right location of the Empires heinous experiments. One of our fighter wings has come under heavy attack though and require your assistance.",		"title":"Dathomir system: The Imperial Inquisition attacks.",		"split_quest_alert_fail":"",		"split_quest_alert":"Brother Ezkiel: < Good work, pilot. Now, find us a lone target and disable his ship. We need as much information as possible. Continue on the patrol and report as soon as you find something. >",		"quest_update":"Brother Ezkiel: < %TO >",		"quest_location_t":"Dathomir system.",		"quest_location_d":"It makes sense that the Imperial Inquisition is in the Dathomir system. It's heavily guarded by the Empire for some reason and a extremely dangerous area. Whenever you are here, proceed with caution.",		"quest_helpallies_t":"Assist the X-Wing squadron.",		"quest_helpallies_d":"Help the X-Wing squadron fight off their pursuers. They have heard of you and their morale is lifted knowing that you are coming to assist them. Don't let them down my friend.",		"quest_findbattle_t":"Coordinates of attack.",		"quest_findbattle_d":"The X-Wing squadron will try to make it to these coordinates and prepare a stand against the Imperial attackers. Proceed to this waypoint as fast as you can.",		"found_loc":"We found the supposed location of the experimental operations for the Imperial Inquisition. Proceed with caution and good luck.",		"enemies_win":"Our cause is lost. You fought well, but we had very little resources to attack the base to begin with. Return to me, pilot, for further instruction.",		"enemies_remain":"Tactical Computer: < Sensors show enemy target terminated. %DI enemy target(s) remain.",		"enemies_arrived":"Sensors are picking up heavy enemy presence in this area. Be prepared for anything my friends.",		"battle_started":"Be careful out there, our side looks to be sorely outnumbered. The Imperial Inquisition has been trained to be ruthless in every situation. Good luck to you all, may the force be with you!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"That was a fantastic show of skill out there, pilot! Our side was successful in defeating the Imperial Inquisitor. Soon, the information we seek will be in our hands.",		"allies_remain":"Rebel Pilot: < I got this one in my sights, just need one more second... No! Where did he come fro... >",		"allies_arrived":"Your reinforcements are on their way, join up with them immediately pilot."
+}}

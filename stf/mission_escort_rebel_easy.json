@@ -1,7 +1,5 @@
-[
-'5':'escort_rebel_easy_5',
-'4':'escort_rebel_easy_4',
-'3':'escort_rebel_easy_3',
-'2':'escort_rebel_easy_2',
-'1':'escort_rebel_easy_1',
-]
+{
+	"stfFile":"mission_escort_rebel_easy",
+	"entries": {
+		"escort_rebel_easy_5":"One of our slicers has managed to get lost and needs someone to give them an escort to the proper location.",		"escort_rebel_easy_4":"Radio traffic indicates that an Imperial patrol may be coming through the area sometime soon, so we need someone to escort the linquistics expert to a new location.",		"escort_rebel_easy_3":"The local wildlife in the area has gotten dangerous of late.  We're still checking on why that is, but for the moment we need someone to act as an escort for a diagnostic technician.",		"escort_rebel_easy_2":"Due to the increased activity by Imperials in the area, we want you to act as an escort for one of our better tacticians.",		"escort_rebel_easy_1":"One of the local shopkeepers has had some run ins with the imperials recently and wants to know if we'll act as an escort for them until they get where they're going."
+}}

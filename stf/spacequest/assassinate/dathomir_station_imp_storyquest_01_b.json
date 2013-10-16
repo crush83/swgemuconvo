@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/dathomir_station_imp_storyquest_01_b",
+	"entries": {
+		"title_d":"We have the Rebel pilot in custody, but she refuses to talk. Maybe if we kill enough of her friends, her tongue will loosen.",		"title":"Dathomir System: Destroy a Squad of Rebel Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Station Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy Rebel Squad Leader",		"quest_target_d":"Destroy the Rebel squad leader.",		"quest_location_t":"Travel to the Dathomir System",		"quest_location_d":"Destroy a designated Rebel squadron in the Dathomir system.",		"quest_escort_t":"Destroy the entire Rebel squad.",		"quest_escort_d":"Destroy all ships in the Rebel squadron. Make sure none escape.",		"failed_escape":"You let them escape! Return to the station for further instructions. Hopefully, we'll try again.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy Rebel fighters eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI Rebel fighters remaining.>",		"destroy_escort":"The entire squad must be eradicated.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Good work, pilot. Perhaps now our captured Rebel pilot will be more inclined to talk.",		"arrival_phase_2":"Nav location to the target squad has been located. Proceed with extreme prejudice.",		"arrival_phase_1":"Scanning system for a Rebel squadron. Stand by to proceed with the attack."
+}}

@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_tier3_4_a",
+	"entries": {
+		"title_d":"Intercept and destroy the Nym Patrol Craft in the Lok system. Thanks to the information we gathered from the smuggler's vessel we have a lock on one of the craft Nym uses to patrol the Lok system. The patrol craft is a perfect target for our retribution on Nym.",		"title":"Lok System: Destroy the Nym Patrol Craft",		"split_quest_alert_fail":"",		"split_quest_alert":"Nyms is sending out his fleet to intercept you. This is a perfect opportunity for us to hit his smuggling fleet. You have to keep his combat fleet busy while we hit the transports and freighters.",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Nym Patrol Craft",		"quest_target_d":"Intercept and destroy the Nym Patrol Craft as it travels around the Lok system.",		"quest_location_t":"Remain in the Lok System",		"quest_location_d":"Remain in the Lok system and intercept the Nym Patrol Craft as it patrols the system.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"We have lost the patrol vessel from our scans. You let it get away? Who knows when we will get another chance like this. Report this failure to your commander.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy escort fighter eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"Take out all of the escort fighters that were with the main target as well.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"One of the patrol vessels sent out a distress signal before being destroyed. Nym is aware of your presence.",		"arrival_phase_2":"We have the patrol vessel's location. Intercept vessel, destroy it, and all that fly with it.",		"arrival_phase_1":"Checking valid locations that we found in the transports logs for the patrol vessel. Stand by.",		"Quest Log Data":"Text"
+}}

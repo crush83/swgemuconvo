@@ -1,12 +1,5 @@
-[
-'10':'fs_response10',
-'9':'fs_response09',
-'8':'fs_response08',
-'7':'fs_response07',
-'6':'fs_response06',
-'5':'fs_response05',
-'4':'fs_response04',
-'3':'fs_response03',
-'2':'fs_response02',
-'1':'fs_response01',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_lamentations",
+	"entries": {
+		"fs_response10":"no... lightning... no, please don't... please? No, NOOOOO!!!",		"fs_response09":"Doc! Doc... you gotta get this letter to my brother. He needs to know what happened to me. Promise me you'll get it to him if I die.",		"fs_response08":"momma? MOMMA! I... I don't want to die! MOMMA!!",		"fs_response07":"Wha?... who.. who is that? I can hear you but I can't see you. I can... I... Ungh. ",		"fs_response06":"My arm! I can't feel my arm! Doc, I can't feel my arm!",		"fs_response05":"Why did they attack us? Why did they have to kill so many of us?",		"fs_response04":"They... they were everywhere! They killed Obandi right before my eyes. ",		"fs_response03":"Where is Sasha? SASHA! I have to find her! ",		"fs_response02":"Ooooooh... It hurts! Doc, you have to give me some pain killers.",		"fs_response01":"HELP ME!! help me... please."
+}}

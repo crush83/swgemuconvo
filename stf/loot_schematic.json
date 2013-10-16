@@ -1,23 +1,5 @@
-[
-'21':'waypoint',
-'20':'ability',
-'19':'skill',
-'18':'schematic',
-'17':'skill_granted',
-'16':'waypoint_granted',
-'15':'already_have_ability',
-'14':'unable_to_add_waypoint',
-'13':'unable_to_learn_skill',
-'12':'already_have_skill',
-'11':'use_vehicle',
-'10':'use_pet',
-'9':'use_waypoint',
-'8':'use_ability',
-'7':'use_skill',
-'6':'must_be_holding',
-'5':'use_schematic',
-'4':'schematic_learned',
-'3':'already_have_schematic',
-'2':'not_enough_skill',
-'1':'nothing_to_learn',
-]
+{
+	"stfFile":"loot_schematic",
+	"entries": {
+		"waypoint":"Waypoint",		"ability":"Ability",		"skill":"Skill",		"schematic":"Schematic",		"skill_granted":"You have learned %TO.",		"waypoint_granted":"A waypoint to %TO has been added to your datapad.",		"already_have_ability":"You already have this ability.",		"unable_to_add_waypoint":"Unable to add waypoint to your datapad.  Make certain that you have sufficient space remaining.",		"unable_to_learn_skill":"You are unable to learn this skill due to insufficient skill points or prerequisites.",		"already_have_skill":"You already have this skill.",		"use_vehicle":"Acquire Vehicle",		"use_pet":"Acquire Pet",		"use_waypoint":"Download Waypoint",		"use_ability":"Learn Ability",		"use_skill":"Learn Skill",		"must_be_holding":"You must be holding that in order to use it.",		"use_schematic":"Learn Schematic",		"schematic_learned":"You acquire a new crafting schematic!",		"already_have_schematic":"You already have this schematic.",		"not_enough_skill":"You must have %TO skill in order to understand this.",		"nothing_to_learn":"There is nothing you can learn from this."
+}}

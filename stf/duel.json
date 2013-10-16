@@ -1,16 +1,5 @@
-[
-'14':'not_here',
-'13':'not_dueling',
-'12':'cancel_target',
-'11':'cancel_self',
-'10':'reject_target',
-'9':'reject_self',
-'8':'end_target',
-'7':'end_self',
-'6':'accept_target',
-'5':'accept_self',
-'4':'already_challenged',
-'3':'already_dueling',
-'2':'challenge_target',
-'1':'challenge_self',
-]
+{
+	"stfFile":"duel",
+	"entries": {
+		"not_here":"You cannot duel here.",		"not_dueling":"You are not currently dueling %TT.",		"cancel_target":"%TT cancels %PT challenge.",		"cancel_self":"You cancel your challenge to %TT.",		"reject_target":"%TT rejects your challenge.",		"reject_self":"You reject %TT's challenge.",		"end_target":"%TT ends your duel.",		"end_self":"You end your duel with %TT.",		"accept_target":"%TT accepts your challenge.",		"accept_self":"You accept %TT's challenge.",		"already_challenged":"You have already challenged %TT to a duel.",		"already_dueling":"You are already dueling %TT.",		"challenge_target":"%TT challenges you to a duel.",		"challenge_self":"You challenge %TT to a duel."
+}}

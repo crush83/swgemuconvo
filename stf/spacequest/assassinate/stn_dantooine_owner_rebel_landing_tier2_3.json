@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/stn_dantooine_owner_rebel_landing_tier2_3",
+	"entries": {
+		"title_d":"The Dantooine station owner blames the Imperial Logistics Officer located in the Dantooine station for his lost freighters. You are to intercept and destroy the officer so he cannot take any more of the station's supply fleet.",		"title":"Dantooine System: Kill the Imperial Logistics Officer",		"split_quest_alert_fail":"",		"split_quest_alert":"The Imperials are attacking the remaining fleet of the Dantooine station. Move to the location where they are attacking the fleet and help those freighters survive.",		"quest_update":"Dantooine Station: < %TO >",		"quest_target_t":"Destroy the Logistics Officer",		"quest_target_d":"Destroy the Imperial Officer so he cannot take any more of the Dantooine supply fleet.",		"quest_location_t":"Remain in the Dantooine System",		"quest_location_d":"The Imperial officer is stationed inside the Dantooine system. He doesn't have any reason to mask his location so he should not be very hard to find.",		"quest_escort_t":"Destroy the Escort Fighters",		"quest_escort_d":"Destroy everyone with the Logistics Officer.",		"failed_escape":"Hmmm...looks like he got away. We will just have to try again, I guess.",		"escort_wiped_out":"Tactical Computer: < Escort fighters eliminated. >",		"escort_remaining":"Tactical Computer: < %DI escort fighters remaining. >",		"destroy_escort":"There are still a few escorts flying around. Take them out too.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Yes, that will make anyone who takes his place think twice about acting on reckless policies.",		"arrival_phase_2":"I have a lock on his vessel. Intercept and destroy that ship for taking my ships.",		"arrival_phase_1":"Stand by for the location of the Logistics Officer's ship."
+}}

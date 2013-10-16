@@ -1,74 +1,60 @@
-[
-'72':'rovim_minnoni_q1_needed',
-'71':'brass_marshoo_q2_needed',
-'70':'brass_marshoo_q1_needed',
-'69':'lob_dizz_q3_needed',
-'68':'rep_been_q1_needed',
-'67':'nass_q1_needed',
-'66':'damalia_korde_q1_needed',
-'65':'arven_wendik_q1_needed',
-'64':'pooja_naberrie_q5_needed',
-'63':'pooja_naberrie_q2_needed',
-'62':'pooja_naberrie_q1_needed',
-'61':'leb_slesher_q3_needed',
-'60':'leb_slesher_q2_needed',
-'59':'leb_slesher_q1_needed',
-'58':'mullud_bombo_q2_needed',
-'57':'mullud_bombo_q1_needed',
-'56':'brennis_doore_q3_needed',
-'55':'brennis_doore_q2_needed',
-'54':'brennis_doore_q1_needed',
-'53':'lergo_brazee_q1_needed',
-'52':'bardo_klinj_q3_needed',
-'51':'bardo_klinj_q2_needed',
-'50':'bardo_klinj_q1_needed',
-'49':'athok_dinvar_q2_needed',
-'48':'kritus_morven_q5_needed',
-'47':'kritus_morven_q3_needed',
-'46':'kritus_morven_q2_needed',
-'45':'kritus_morven_q1_needed',
-'44':'vana_sage_q1_needed',
-'43':'jyr_koble_q4_needed',
-'42':'jyr_koble_q3_needed',
-'41':'jyr_koble_q1_needed',
-'40':'crider_trant_q1_needed',
-'39':'throme_gormengal_q3_needed',
-'38':'throme_gormengal_q1_needed',
-'37':'dea_tore_q4_needed',
-'36':'dea_tore_q3_needed',
-'35':'dea_tore_q2_needed',
-'34':'graf_zapalo_q3_needed',
-'33':'graf_zapalo_q2_needed',
-'32':'oron_wintree_q1_needed',
-'31':'ric_olie_q1_needed',
-'30':'liane_q3_needed',
-'29':'liane_q2_needed',
-'28':'liane_q1_needed',
-'27':'junelle_astor_q3_needed',
-'26':'junelle_astor_q1_needed',
-'25':'sayama_edosun_q3_needed',
-'24':'sayama_edosun_q2_needed',
-'23':'sayama_edosun_q1_needed',
-'22':'kadil_nurugen_q1_needed',
-'21':'ayn_eckener_q3_needed',
-'20':'vrir_unglan_q2_needed',
-'19':'vrir_unglan_q1_needed',
-'18':'mal_sikander_q5_needed',
-'17':'mal_sikander_q1_needed',
-'16':'ian_lago_q3_needed',
-'15':'ian_lago_q1_needed',
-'14':'kylantha_q2_needed',
-'13':'kylantha_q1_needed',
-'12':'serena_fenner_q3_needed',
-'11':'serena_fenner_q1_needed',
-'10':'arrek_vonsarko_q1_needed',
-'9':'bab_esrus_q3_needed',
-'8':'bab_esrus_q1_needed',
-'7':'dilvin_lormurojo_q2_needed',
-'6':'radanthus_mandelatara_q3_needed',
-'5':'radanthus_mandelatara_q2_needed',
-'4':'ebenn_baobab_q3_needed',
-'3':'ebenn_baobab_q2_needed',
-'2':'borvo_q6_needed',
-'1':'borvo_q1_needed',
-]
+{
+	"stfFile":"loot_nboo_d",
+	"entries": {
+		"rovim_minnoni_q1_needed":"Locator device used by tour guide Zazzi Yown at the Lake Retreat on Naboo.
+",		"brass_marshoo_q2_needed":"The meat of the peko-peko is poisonous but if you use the proper technique in making a sace out of the blood, it provides not only the anti-toxin but a savory treat unsurpassed in all de galaxy",		"brass_marshoo_q1_needed":"An ingrediant in "de seared rawl wit splinterfern and hsuberry reduction"",		"lob_dizz_q3_needed":"An encrypted datadisc
+",		"rep_been_q1_needed":"A holorecord of the historic meeting between Boss Nass and Queen Amidala of Naboo at the Gungan Sacred Place.
+",		"nass_q1_needed":"An encrypted datadisc
+",		"damalia_korde_q1_needed":"Data from the Naboo Ministry of Science for Damalia Korde, groundskeeper at Dee'ja Peak.
+",		"arven_wendik_q1_needed":"Forged Imperial trade permits for Alliance "procurement specialist" Alowi Fintz on Naboo.
+",		"pooja_naberrie_q5_needed":"A part of a diseased hide ",		"pooja_naberrie_q2_needed":"A message to a Naboo noble who has pledged his help against the Empire
+",		"pooja_naberrie_q1_needed":"A request for supplies for rebel refugize that reside on Naboo",		"leb_slesher_q3_needed":"A fee collected from a Naboo polotician for the Fee to hire and "Expert" slicer to review some data.",		"leb_slesher_q2_needed":"A fee collected from a Naboo merchant for covert ISB agent Leb Slesher in Kaadara.
+",		"leb_slesher_q1_needed":"A "bureaucratic processing fee" collected from a Naboo merchant for Leb Slesher, "expediter of merchant relations" in Kaadara.
+",		"mullud_bombo_q2_needed":"A list of rich Naboo socialites who are to be invited to a party
+",		"mullud_bombo_q1_needed":"Some survey equipment.
+",		"brennis_doore_q3_needed":"A job application for the Imperial Preservation & Refocusing Authority.
+",		"brennis_doore_q2_needed":"A job application for the Imperial Preservation & Refocusing Authority.
+",		"brennis_doore_q1_needed":"A request to collect a gambling debt.
+
+",		"lergo_brazee_q1_needed":"Codes provided by Keren businessman Lergo Brazee to help pilot Breggs Ker'tani launch safely from Naboo.
+",		"bardo_klinj_q3_needed":"Codes to the bank account of the late Gungan Mubarr, debtor to Naboo crimelord Borvo the Hutt.
+",		"bardo_klinj_q2_needed":"Imperial export permits for Naboo crimelord Borvo the Hutt.
+",		"bardo_klinj_q1_needed":"Kassoti spice sent by Bardo Klinj to an Imperial courier on Naboo.
+",		"athok_dinvar_q2_needed":"A jar of Mr. Morven's spice",		"kritus_morven_q5_needed":"A sample of the Berserker Virus.
+",		"kritus_morven_q3_needed":"Kritus Morven's authorization of credits for Naboo security officer Dagrus Rhine.
+",		"kritus_morven_q2_needed":"The location of one of Borvo the Hutt's spice refineries on Naboo.
+",		"kritus_morven_q1_needed":"A business offer made by Naboo crimelord Borvo the Hutt to Kritus Morven.
+",		"vana_sage_q1_needed":"Authorization of credits to bribe Vana Sage, RSF officer in Keren on Naboo.
+",		"jyr_koble_q4_needed":"Private files stolen from Imperial High Inquisitor Mal Sikander of Naboo.
+",		"jyr_koble_q3_needed":"Edited recording of a Rebel assault on an Imperial base.
+",		"jyr_koble_q1_needed":"Documentary by COMPNOR official Jyr Koble portraying the Empire's version of the destruction of Alderaan.
+",		"crider_trant_q1_needed":"Corporate Sector Authority bank codes intended for Naboo government inspector Ganz Drilby.
+",		"throme_gormengal_q3_needed":"A holo recording of the destruction of Alderaan.
+",		"throme_gormengal_q1_needed":"An encrypted datadisc.
+",		"dea_tore_q4_needed":"A sick shaupat corpse needed to further research on the unknown plague",		"dea_tore_q3_needed":"Blood samples of the failed success of the anti-venom",		"dea_tore_q2_needed":"A manufactured anti-venom using the ikopi horn",		"graf_zapalo_q3_needed":"A potentially controversial analysis of the Berserker Virus by Naboo's former Minister of Science, Graf Zapalo.
+",		"graf_zapalo_q2_needed":"Waterborne specimens collected for Naboo's former Minister of Science, Graf Zapalo, to document the spread of the Berserker Virus.
+",		"oron_wintree_q1_needed":"An encrypted datadisc.
+",		"ric_olie_q1_needed":"Reports of recent pirate activity on Naboo, compiled by Jamel Luffa for retired pilot Captain Ric Olie in Theed.
+",		"liane_q3_needed":"This order from Queen Kylantha of Naboo commissions an ode from the poet Biude Lop Quanna celebrating her pet voorpak's new litter.
+",		"liane_q2_needed":"This order from Queen Kylantha of Naboo commissions a new ceremonial dress from tailor Niamora Ingidge.
+",		"liane_q1_needed":"Queen Kylantha of Naboo has ordered this old musical instrument restored by crafter Bowrun Stradalla.
+",		"junelle_astor_q3_needed":"A gift from Boss Nass for Queen Kylantha of Naboo.
+",		"junelle_astor_q1_needed":"Private correspondence of Naboo's High Inquisitor Mal Sikander.
+",		"sayama_edosun_q3_needed":"A corpse of a chuba",		"sayama_edosun_q2_needed":"An encrypted datadisc.
+",		"sayama_edosun_q1_needed":"A sample of discovered blue colored glie (moss)",		"kadil_nurugen_q1_needed":"An encrypted datadisc.
+",		"ayn_eckener_q3_needed":"An order to the research camp leader to stop wearing their carrion-smelling perfume",		"vrir_unglan_q2_needed":"An encrypted datadisc.
+",		"vrir_unglan_q1_needed":"An encrypted datadisc.
+",		"mal_sikander_q5_needed":"An encrypted datadisc.
+",		"mal_sikander_q1_needed":"A modified disruptor pistol
+",		"ian_lago_q3_needed":"An encrypted datadisc.
+",		"ian_lago_q1_needed":"A Neuro-Saav Sensor Pack
+",		"kylantha_q2_needed":"Naboo Queen Kylantha's polite refusal to join a sightseeing trip organized by Imperial Army General Liles Dorond
+",		"kylantha_q1_needed":"Makeup kit used by Queen Kylantha of Naboo.
+",		"serena_fenner_q3_needed":"An equipment storage request to the Gungans about storing equipment for the Alliance away from prying Imperial eyes",		"serena_fenner_q1_needed":"A scathing review of the latest Imperial opera",		"arrek_vonsarko_q1_needed":"An invitation to a respected art critic, Huffee Vindaag",		"bab_esrus_q3_needed":"Kowakian monkey-lizard with multicolored blood",		"bab_esrus_q1_needed":"Pigmentation-production chromosomes of the common capper spineflap",		"dilvin_lormurojo_q2_needed":"The latest satire by Dilvin Lormurojo",		"radanthus_mandelatara_q3_needed":"Anelectrical device crafted just so by a particular craftsman 
+",		"radanthus_mandelatara_q2_needed":"A container holding pinfeathers freshly plucked from two fine peko-pekos
+",		"ebenn_baobab_q3_needed":"Supposedly a collection of poetry submitted to Ebenn Q3 Baobab, celebrated writer, politician, and scholar in Moenia on Naboo
+",		"ebenn_baobab_q2_needed":"Funds sent by Ebenn Q3 Baobab, celebrated writer, politician, and scholar in Moenia on Naboo, supposedly to set up a (belated) commission to prevent the fall of the Old Republic.
+",		"borvo_q6_needed":"A strain of the Berserker Virus sent by Naboo crimelord Borvo the Hutt to a Black Sun representative from Corellia.
+",		"borvo_q1_needed":"An invitation from Naboo crimelord Borvo the Hutt to his rival, Kritus Morven, to sit down and work out their differences.
+"
+}}

@@ -1,4 +1,5 @@
-[
-'2':'minefield',
-'1':'covert_detector',
-]
+{
+	"stfFile":"faction_perk_d",
+	"entries": {
+		"minefield":"A large field of mines designed to kill and hinder forward enemy movement.",		"covert_detector":"An area scanning device that cross-references personal data signatures with known covert faction members."
+}}

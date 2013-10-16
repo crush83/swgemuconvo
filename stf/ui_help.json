@@ -1,17 +1,5 @@
-[
-'16':'report_harassment',
-'15':'bug',
-'14':'help_services',
-'13':'info',
-'12':'topics',
-'11':'help_buttons',
-'10':'services',
-'9':'debugreload',
-'8':'cpt_help',
-'7':'intro_text',
-'6':'exit',
-'4':'back',
-'3':'next',
-'2':'help_info',
-'1':'help_topics',
-]
+{
+	"stfFile":"ui_help",
+	"entries": {
+		"report_harassment":"Report A Harassment",		"bug":"Report A Bug",		"help_services":"Click this button to access technical support, or to request assistance.",		"info":"Entry",		"topics":"Topics",		"help_buttons":"Use these buttons to manually move forwards and backwards through the help pages.",		"services":"Customer Service",		"debugreload":"Reload Data",		"cpt_help":"Holocron",		"intro_text":"This is your help screen.  You can open this screen with Ctrl-H.",		"exit":"Exit",		"back":"Back",		"next":"Forward",		"help_info":"This page displays the information for the page selected on the left.",		"help_topics":"This is the list of all topics in the help systems."
+}}

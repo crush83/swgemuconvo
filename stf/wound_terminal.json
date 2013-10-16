@@ -1,14 +1,5 @@
-[
-'12':'beta_terminal_wound',
-'11':'inflict_wound_willpower',
-'10':'inflict_wound_focus',
-'9':'inflict_wound_mind',
-'8':'inflict_wound_stamina',
-'7':'inflict_wound_quickness',
-'6':'inflict_wound_action',
-'5':'inflict_wound_constitution',
-'4':'inflict_wound_strength',
-'3':'inflict_wound_health',
-'2':'inflict_wound',
-'1':'inflict_damage',
-]
+{
+	"stfFile":"wound_terminal",
+	"entries": {
+		"beta_terminal_wound":"Wound Terminal",		"inflict_wound_willpower":"Inflict Willpower Wound",		"inflict_wound_focus":"Inflict Focus Wound",		"inflict_wound_mind":"Inflict Mind Wound",		"inflict_wound_stamina":"Inflict Stamina Wound",		"inflict_wound_quickness":"Inflict Quickness Wound",		"inflict_wound_action":"Inflict Action Wound",		"inflict_wound_constitution":"Inflict Constitution Wound",		"inflict_wound_strength":"Inflict Strength Wound",		"inflict_wound_health":"Inflict Health Wound",		"inflict_wound":"Inflict Wound",		"inflict_damage":"Inflict Damage"
+}}

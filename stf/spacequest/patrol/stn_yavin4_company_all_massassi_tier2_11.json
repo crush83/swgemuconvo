@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/stn_yavin4_company_all_massassi_tier2_11",
+	"entries": {
+		"title_d":"The Yavin 4 Mining Company wants you to check out a region of space mentioned on the Massassi document you recovered. You are to fly a patrol around the region to see if you can find anything unusual.",		"title":"Yavin System: Searching for Clues",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol the Third Region",		"quest_patrol_d":"Travel from assigned nav point to nav point looking for anything unusual.",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The area to be searched is in the Yavin system.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/corellia_privateer_tier3_3_a",
+	"entries": {
+		"title_d":"Follow the Patrol to get into position for the attack",		"title":"Dantooine System: Follow the Patrol to get into position for the attack",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 CorSec Command: < \#pcontrast1 Here they come, you should be able to detect their hyperspace signatures.  Good luck, you will need it. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"Stay on this path until more information can be provided",		"quest_location_t":"Dantooine System",		"quest_location_d":"Estimated jump points in the Dantooine System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

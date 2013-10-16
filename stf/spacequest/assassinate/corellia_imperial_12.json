@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_12",
+	"entries": {
+		"title_d":"Black Epsilon has discovered that a Rebel diplomat, Darmin Lerspri, is on his way to Corellia on a mission to sway the government to be more supportive of the Rebellion. You are being charged with making sure that the diplomat never reaches his destination. You will also have to destroy all escort fighters with Darmin to ensure that no one can report of what the Empire has done.",		"title":"Corellia System: Eliminate The Rebel Diplomat, Darmin Lerspri.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":" \#pcontrast3 Black Epsilon Command: < \#pcontrast1 %TO \#pcontrast3 >",		"quest_target_t":"Kill the Rebel Diplomat",		"quest_target_d":"Intercept and destroy the Rebel diplomat in the Corellian system. You are to make sure that Darmin never makes his meeting with the Corellian government. Once you have completed your assignment report back into your superior.",		"quest_location_t":"Travel to the Corellia System",		"quest_location_d":"Travel to the Corellian system and intercept the diplomat. Command will locate Darmin's ship and update you with its progress as it moves through the system.",		"quest_escort_t":"Destroy the Diplomat's Escort",		"quest_escort_d":"To ensure that no one knows what happened to Darmin, you must also destroy all escort fighters that are with him.",		"failed_escape":"The diplomat has escaped, this will be a serious blow to our negotiations in the area.",		"escort_wiped_out":" \#pcontrast3 Tactical Computer: < \#pcontrast1 Defending ships have been nullified, destroy the primary objective. \#pcontrast3 >",		"escort_remaining":" \#pcontrast3 Tactical Computer: < \#pcontrast1 %DI ships remain of the diplomats escort. \#pcontrast3 >",		"destroy_escort":"The diplomat's vessle has been destroyed! Eliminate the support craft.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"The diplomat and escort have been destroyed!",		"arrival_phase_2":"The diplomats vessle has been detected.  Transmiting waypoint.",		"arrival_phase_1":"Scanning area for the Rebel diplomat.",		"Quest Log Data":"Text"
+}}

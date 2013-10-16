@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_rebel_4",
+	"entries": {
+		"title_d":"The Empire has a Veteran commander stationed in the Tatooine system that has been a problem for us ever since he's arrived. You're about to take care of that problem. When you complete this mission, return to Commander Da'la Socuna in back room of the Mos Espa cantina and Commander Socuna will train you in a new Rebel Alliance Pilot Skill.",		"title":"Tatooine system: Eliminate TIE Veteran commander.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < It looks like the TIE Veteran had a malfunction and you will get another shot at him pilot. Don't mess up this time! >",		"quest_update":"Rebel Command: < %TO >",		"quest_target_t":"Time for action.",		"quest_target_d":"The Veteran commander is being tracked. Intercept and terminate him pilot!",		"quest_location_t":"Tatooine system.",		"quest_location_d":"In our continous war against the Empire, eliminating key enemies like this Veteran Commander can sway the battle of a whole system.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"You let him get away pilot! What happened up there?! Return to base immediately!",		"escort_wiped_out":"Tactical Computer: < Scans show target vessel escort terminated. No more escort vessels remain. >",		"escort_remaining":"Tactical Computer: < Scans show target vessel escort terminated. %DI escort vessels remain. >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Very impressive pilot. The loss of that pilot will be a big blow to the Empire in this system. Return to base.",		"arrival_phase_2":"Got him! Proceed to intercept and terminate him immediately. We will update his coordinates as he's moving.",		"arrival_phase_1":"We are tracking the TIE Veteran, stand by pilot.",		"Quest Log Data":"Text"
+}}

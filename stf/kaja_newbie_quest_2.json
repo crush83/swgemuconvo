@@ -1,25 +1,5 @@
-[
-'23':'droid2',
-'22':'droid1_reply1',
-'21':'droid1',
-'20':'thug4',
-'19':'thug3_reply1',
-'18':'thug3',
-'17':'thug2_reply1',
-'16':'thug2',
-'15':'thug1_reply1',
-'14':'thug1',
-'13':'droidmerch5',
-'12':'droidmerch4_reply1',
-'11':'droidmerch4',
-'10':'droidmerch3',
-'9':'droidmerch2_reply1',
-'8':'droidmerch2',
-'7':'droidmerch1_reply1',
-'6':'droidmerch1',
-'5':'kaja3',
-'4':'kaja2',
-'3':'kaja1_reply2',
-'2':'kaja1_reply1',
-'1':'kaja1',
-]
+{
+	"stfFile":"kaja_newbie_quest_2",
+	"entries": {
+		"droid2":"Certainly!",		"droid1_reply1":"Follow me.",		"droid1":"Activated!",		"thug4":"Here's where their camp is.  Now let me go!",		"thug3_reply1":"Ok, tell me where to find them.",		"thug3":"I didn't do anything!  I sold them a modified chip is all!  Leave me alone and I'll tell you where to find them.",		"thug2_reply1":"Ok, ok.",		"thug2":"Leave me alone!  I already told you everything I know!",		"thug1_reply1":"Some men you know stole a droid.  Tell me where they are, or else!",		"thug1":"Don't kill me!  What do you want?",		"droidmerch5":"Well good luck finding it!",		"droidmerch4_reply1":"Not yet.",		"droidmerch4":"Did you find the droid?  I bet that guy at the cantina knows where those people took it.",		"droidmerch3":"I don't know where they went.  But I've seen them talking to someone in the cantina.",		"droidmerch2_reply1":"Where are the people who picked-up that droid?",		"droidmerch2":"But that droid's already been picked up!  Oh no!  Those people's credentials must have been fake!",		"droidmerch1_reply1":"I'm here to pick up a droid for the Emperor's Retreat.",		"droidmerch1":"Can I help you?",		"kaja3":"Maybe you can help me later then.",		"kaja2":"Thanks.  He's at the droid shop in Deeja Peak.",		"kaja1_reply2":"Maybe later.",		"kaja1_reply1":"Will do!",		"kaja1":"Go to the droid shop and pickup our new protocol droid, ok?"
+}}

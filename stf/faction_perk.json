@@ -1,33 +1,5 @@
-[
-'31':'alarm_destruct_n',
-'30':'alarm_hack_n',
-'29':'new_old_fbase_refunded',
-'28':'faction_base_one_more',
-'27':'faction_base_refunded_one',
-'26':'faction_base_unit_last',
-'25':'faction_base_unit_used',
-'24':'bonus_base_name',
-'23':'given_extra_bases',
-'22':'not_enough_base_units',
-'21':'faction_base_unit_refunded',
-'20':'old_fbase_refunded',
-'19':'prose_not_neutral',
-'18':'destroy_turrets',
-'17':'gcw_tied',
-'16':'gcw_rebel_ahead',
-'15':'gcw_imperial_ahead',
-'14':'hq',
-'13':'turret',
-'12':'covert_detector',
-'11':'minefield',
-'10':'prose_wrong_faction',
-'9':'minefield_exit',
-'8':'minefield_near',
-'7':'no_build_inside',
-'6':'no_build_area',
-'5':'prose_nsf_lots',
-'4':'prose_be_declared_faction',
-'3':'prose_be_declared',
-'2':'packup',
-'1':'deploy',
-]
+{
+	"stfFile":"faction_perk",
+	"entries": {
+		"alarm_destruct_n":"Base Destruct Alarm",		"alarm_hack_n":"Terminal Hacking Alarm",		"new_old_fbase_refunded":"Building Lots and Faction Points for an old Faction Base have been refunded. You have been given %DI lots back.",		"faction_base_one_more":"You have placed a faction base. You can place one more base.",		"faction_base_refunded_one":"A faction base you placed has been destroyed and you have been refunded a base unit. You can now place an additional base.",		"faction_base_unit_last":"You have placed a faction base. You have now used up your faction base allotment and cannot place any more, without some of the others going away first.",		"faction_base_unit_used":"You have placed a faction base. You can now place up to %DI more bases.",		"bonus_base_name":"You received a: %TO",		"given_extra_bases":"Congratulations! In addition to the base that you purchased, we have given you two additional bases. They are:",		"not_enough_base_units":"You do not have any base units allotments left, and so cannot place this factional base.",		"faction_base_unit_refunded":"A faction base you placed has been destroyed and you have been refunded a base unit. You can now place up to %DI bases.",		"old_fbase_refunded":"Building Lots and Faction Points for an old Faction Base have been refunded. You have been given %DI lots back and have been granted %DF faction points.",		"prose_not_neutral":"You cannot use %TT if you are neutral or on leave.",		"destroy_turrets":"You cannot enter this HQ until all Turrets have been destroyed.",		"gcw_tied":"Neither the Rebellion or the Empire has the advantage.",		"gcw_rebel_ahead":"The Rebellion has the advantage over the Empire.",		"gcw_imperial_ahead":"The Empire is has the advantage over the Rebellion.",		"hq":"Headquarters",		"turret":"Turret",		"covert_detector":"Covert Detector",		"minefield":"Minefield",		"prose_wrong_faction":"You must be declared to the %TO faction to use that %TT.",		"minefield_exit":"You have left the perimeter of an enemy minefield.",		"minefield_near":"You have breached the perimeter of an enemy minefield.",		"no_build_inside":"You cannot deploy this object inside another structure.",		"no_build_area":"You are within a no-build area. Please try this action elsewhere.",		"prose_nsf_lots":"Insufficient Lots: You lack the required %DI available lots to place this item.",		"prose_be_declared_faction":"You must be a declared %TO to use %TT.",		"prose_be_declared":"You must be declared to a faction to use %TT.",		"packup":"Pack Up",		"deploy":"Deploy"
+}}

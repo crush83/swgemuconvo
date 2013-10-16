@@ -1,12 +1,6 @@
-[
-'10':'final_fail',
-'9':'final_complete',
-'8':'exit_detail',
-'7':'exit_sum',
-'6':'leave',
-'5':'old_man_exit',
-'4':'old_man_greeting',
-'3':'taunt3',
-'2':'taunt2',
-'1':'taunt1',
-]
+{
+	"stfFile":"quest/force_sensitive/exit",
+	"entries": {
+		"final_fail":"You have failed the Mellichae encounter, you will be given the oppertunity to attempt it again in the near future.",		"final_complete":"Congratulations, you have completed the Force sensitive quests! You are now qualified to begin the Jedi Padawan Trials.
+",		"exit_detail":"Defeat Mellichae at his camp.",		"exit_sum":"Find Mellichae's camp.",		"leave":"Well it appears you are busy,  I will return later.",		"old_man_exit":"Very well then %TT,  I shall return another time!",		"old_man_greeting":"%TT.  It is good to see you again.  I have some urgent news to share with you!",		"taunt3":"%TT, You may have destroyed my power crystals, but now I will destroy you!  SOLDIERS ATTACK!!!",		"taunt2":"This cannot be! Soldiers protect Mellichae immediately!",		"taunt1":"%TT, You shall pay for your tresspass here - SOLDIERS - defend the crystals! Let no one leave here alive."
+}}

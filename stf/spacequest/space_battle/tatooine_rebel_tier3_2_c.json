@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_rebel_tier3_2_c",
+	"entries": {
+		"title_d":"A squad of B-Wing bombers were on their way to attack some Imperial freighters but were spotted by a TIE wing. Assist them in eliminating the Imperial fighters.",		"title":"Dantooine system: Assist B-Wing Bomber squad in eliminating intercepting TIE Fighters.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Crimson Squadron Leader: < %TO >",		"quest_location_t":"Dantooine system.",		"quest_location_d":"Though the Dantooine system doesn't have a heavy presence of Imperial forces, this area is one that they are controlling. Try to avoid getting the attention of more enemy forces on your way to the B-Wing squadron.",		"quest_helpallies_t":"Assist the Crimson Squadron.",		"quest_helpallies_d":"B-Wings are designed to eliminate capital ships and space stations. When they come under fire from massed forces of fighters, they are in trouble. That's where you come in pilot, help them break through the Imperial forces.",		"quest_findbattle_t":"Rendez-vous coordinates.",		"quest_findbattle_d":"The B-Wing squadron estimate that they will be intercepted by the Imperial fighters near these coordinates. Get over there ASAP pilot!",		"found_loc":"Meet with the B-Wing squad at this location pilot. Hurry, the TIE Fighters following them are getting closer by the second.",		"enemies_win":"Get out of here pilot! The mission is a failure, we are taking heavy lo...",		"enemies_remain":"Crimson Squadron Leader: < Excellent! Only %DI more! >",		"enemies_arrived":"There they are, we have no choice but to try and fight our way through them.",		"battle_started":"Here they come! Crimson squad, anti fighter battle plan razor. May the Force be with you all!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Excellent, we will continue to our original target, you can return to base. Thanks again pilot.",		"allies_remain":"Crimson Squadron Leader: < We are taking heavy losses, this is looking grim. Step it up everyone! >",		"allies_arrived":"Good to see you pilot. We were on our way to bomb some Imperial Freighters but were spotted by those fighters."
+}}

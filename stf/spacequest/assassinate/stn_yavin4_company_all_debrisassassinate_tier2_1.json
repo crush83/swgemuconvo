@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/stn_yavin4_company_all_debrisassassinate_tier2_1",
+	"entries": {
+		"title_d":"The Yavin 4 Mining Company wants to take a bit of revenge on the Debris Cult for their recent attacks on the company. They have found out where the current leader of the cult is located and have hired you to kill him.",		"title":"Yavin System: Kill the Debris Cult Leader",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#FF0000 Yavin Mining Company:\#FF0000 < %TO >",		"quest_target_t":"Destroy the Cult Leader",		"quest_target_d":"Intercept and destroy the Debris Cult Leader",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The leader of the cult, like the rest of his cult, is in the Yavin system.",		"quest_escort_t":"Destroy the Escort Fighters",		"quest_escort_d":"For good measure, also destroy his escort fighters.",		"failed_escape":"Blast it! The command vessel escaped. Return to the station and maybe we will get another shot at it.",		"escort_wiped_out":"\#pcontrast1Tactical Computer:\#pcontrast3 < Escort fighters eliminated. >\#pcontrast3 \#pcontrast1",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 < %DI escort fighters remaining. >\#pcontrast3 \#pcontrast1",		"destroy_escort":"There are still a few escort vessels around. Let's clean them up too.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"That should slow down the Debris Cult's growth. Excellent work, pilot. You have really made this system safer for us to travel.",		"arrival_phase_2":"The lock on the command vessel has been established. Sending the navigation location to your flight computer. Intercept and destroy the Debris Cult command vessel.",		"arrival_phase_1":"We are getting a lock on the Debris Cult command vessel now. Stand by."
+}}

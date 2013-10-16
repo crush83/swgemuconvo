@@ -1,38 +1,15 @@
-[
-'36':'number_of_entries',
-'35':'m5t',
-'34':'m5s',
-'33':'m5o',
-'32':'m5l',
-'31':'m5i',
-'30':'m5f',
-'29':'m5d',
-'28':'m4t',
-'27':'m4s',
-'26':'m4o',
-'25':'m4l',
-'24':'m4i',
-'23':'m4f',
-'22':'m4d',
-'21':'m3t',
-'20':'m3s',
-'19':'m3o',
-'18':'m3l',
-'17':'m3i',
-'16':'m3f',
-'15':'m3d',
-'14':'m2t',
-'13':'m2s',
-'12':'m2o',
-'11':'m2l',
-'10':'m2i',
-'9':'m2f',
-'8':'m2d',
-'7':'m1t',
-'6':'m1s',
-'5':'m1o',
-'4':'m1l',
-'3':'m1i',
-'2':'m1f',
-'1':'m1d',
-]
+{
+	"stfFile":"mission/special/mission_destroy_neutral_easy_creature_womp_rats_tatooine",
+	"entries": {
+		"number_of_entries":"5",		"m5t":"Civic Duty",		"m5s":"Your assigned womp rat nest has been successfully destroyed, and your duty as a citizen of or visitor to Tatooine has been upheld. You will be rewarded for your civic responsibility. Congratulations on behalf of all Tatooine civilians and Imperials forces stationed on the planet.",		"m5o":"Bestine Imperial Security Department",		"m5l":"A rise in womp rat attacks has prompted swift response from local authorities, who are now hiring mercenaries to destroy the creature's nests.",		"m5i":"Due to an computer error at Imperial Intelligence on Tatooine, you were inadvertently assigned a nest that was first identified over five seasons ago. Since that first sighting, the nest has evidently been destroyed or disappeared. We apologize for the inconvenience, but Imperial regulations forbid us from reimbursing you for your time.",		"m5f":"Your assigned womp rat nest has not been destroyed. You have failed in your mission and will not receive any payment for your efforts.",		"m5d":"By Imperial decree, all able-bodied men, women, and even aliens have been asked to take up arms against the sudden influx of womp rats into civilized areas of Tatooine. These vermin, viewed by many to be the most dangerous creatures on Tatooine, have been sighted throughout the desert, often near major settlements. Womp rat-related deaths have increased three-fold in the past two seasons, and a recent bantha stampede outside Bestine has been blamed on a womp rat attack. Those individuals willing to perform their civic duty will be assigned an identified womp rat nest to locate and destroy. Anyone who serves the Empire and the good people of Tatooine in this manner will be duly rewarded.  ",		"m4t":"Eopie Emergency",		"m4s":"Thank you so much for taking out that womp rat nest. The past few nights, I've been unable to sleep, haunted by sounds of my eopies being eaten alive... The crunching bones and womp rat hisses, and the moans from my pour eopies... It's been terrible. But with their nest destroyed, I doubt the womp rats will be back. Enjoy your reward, friend.",		"m4o":"",		"m4l":"A local rancher has lost several eopies to womp rat attacks. He's hiring an exterminator to eliminate the dangerous creatures.",		"m4i":"It's the strangest thing... The eopie killings have suddenly stopped. Maybe the womp rats have moved on, or maybe they were wiped out by a dune lizard. Whatever the case, my eopies are safe and I won't be needing you to destroy that womp rat nest.",		"m4f":"The womp rats returned and took another of my eopies. A small calf this time. I heard it screaming as they tore it apart, but there was nothing I could do. As long as that nest remains, my eopies will keep dying.",		"m4d":"Another one of my eopies is dead, dragged down into the dirt and eaten alive by a swarm of evil womp rats. At this rate, the womp rats will have killed by entire herd by next season. The only way to stop them is to kill 'em at the source: their nest needs to be completely destroyed. I found the nest, but I don't have the weapons to get rid of it. I'll hire you to do the job for me. Help me keep my eopies safe. ",		"m3t":"Jawa Biters",		"m3s":"Transmission Translated from Jawaese for you convenience!
+
+Most exalted hero of the Jawas! Thank you a hundred times for making the desert sands safe, welcoming, home to the Jawas. We will now pay you a sizable, big reward.",		"m3o":"Wimateeka",		"m3l":"Jawas are in danger from womp rats",		"m3i":"Transmission Translated from Jawaese for you convenience!
+
+Ugly, diseased womp rats have stopped chewing on Jawas! We can leave the safety of our sandcrawler again, but you were not the Jawa hero. You will not receive our Jawa credits.",		"m3f":"Transmission Translated from Jawaese for you convenience!
+
+Jawas still bitten, gnawed, mutilated by womp rats in the desert! It is not safe for us to leave the sandcrawler! You did not help the Jawas, you will not receive your credits.",		"m3d":"Transmission Translated from Jawaese for you convenience!
+
+We Jawas keep to sandcrawlers, except to pull metal, scraps, treasure from the sand... When we travel on foot, our robes dragging on the ground, we become prey for hungry, nasty womp rats. We Jawas will give credits to adventurers, heroes, mercenaries who kill the womp rats before they maul, murder, mutilate us! Destroy, wreck, burn the nest we have spotted from our sandcrawler!
+
+Wimateeka, Jawa Clan Leader",		"m2t":"Womp Rat Emergency",		"m2s":"The Galactic Pest Authority is pleased to report that Tatooine's womp rat population has been reduced significantly due to the destruction of several key nests. As one of many operatives responsible for this decrease, you will receive a substantial financial reward, along with the thanks of a grateful planet.",		"m2o":"Galactic Pest Authority",		"m2l":"Womp rats pose a significant threat to Tatooine citizens and must be eliminated.",		"m2i":"The Galactic Pest Authority is pleased to report that a recent womp rat-specific plague has swept through the populations of Tatooine's most dangerous carnivore. The womp rat population is now at comfortable levels. As a result, your mission has been cancelled.",		"m2f":"The Galactic Pest Authority is distressed to report that the number of deaths attributed to womp rats has increased dramatically this season. Failure to eliminate key womp rat nests has been cited as the primary factor in this increase.",		"m2d":"The Galactic Pest Authority recognizes the womp rat as Tatooine's most dangerous predator. Not only does the womp rat attack and kill sentient beings with surprising frequency, the creature also spreads disease, destroys livestock, fouls water supplies, and consumes key crops. When one considers that womp rats breed uncontrollably throughout all areas of Tatooine, it is obvious that the creature poses a significant threat to public safety. In order to control the womp rat populations, we are offering rewards for the destruction of womp rat nests.",		"m1t":"Deak's Defender",		"m1s":"Good job on that nest. Deak would congratulate you himself, but he still hasn't regained the use of his arms or legs and can't even hold a datapad. Anyway, I really do appreciate your help here. There are still too many womp rat nests out in the desert, but we're making progress.  ",		"m1o":"Fixer",		"m1l":"Fixer, Anchorhead's self-proclaimed defender, is hiring mercenaries to kill womp rats on Tatooine.",		"m1i":"Deak is on a rampage. He's so upset at being mauled by the womp rats, he bought himself a new blaster rifle and has taken to hunting them down himself. I think he just destroyed the nest I told you about, so you can give up the chase.",		"m1f":"I'm beginning to think that Tatooine's womp rats are mutating or something... They're tougher and more vicious than ever. I am sorry you got hurt trying to defend Anchorhead, but it's your neck. If you didn't think you could handle the job, you shouldn't have accepted it. ",		"m1d":"I don't have a lot of time to spend trying to sell you on taking this mission. You either need the credits, or you don't. But here's the situation: Anchorhead is my home. Or, it's the closest thing I've ever known to a home. I have a good job running the Tosche power station, a great girl, and enough friends to keep me from going stir-crazy. And the folks around here, they look up to me. So, when anyone from Anchorhead has a problem, it becomes my problem too. Recently, my buddy Deak was attacked by womp rats. He barely escaped with his life. In order to protect my people, I've vowed to wipe 'em all out. I've located quite a few womp rat nests, and now that Deak can finally talk again, he's told me about a few more. If you're interested in helping out, I'll transmit the coordinates to one of these nests. Just destroy it and I'll slip you a few credits."
+}}

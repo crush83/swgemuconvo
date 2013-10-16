@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_privateer_tier3_1d",
+	"entries": {
+		"title_d":"Saysmond Varg has evaded our nets and moved into Naboo Space.  We cannot chance an assassin of Saysmond's caliber this close to the Royal seat; destroy him by any means necessary.",		"title":"Naboo System: Finish off Saysmond Varg",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"%TO",		"quest_target_t":"Saysmond Varg",		"quest_target_d":"A dangerous assassin who has evaded capture a number of times",		"quest_location_t":"Naboo System",		"quest_location_d":"Intercept the assassin as he makes his way towards an unknown target",		"quest_escort_t":"Black Sun Fighters",		"quest_escort_d":"Some of Saysmond's crack pilots, only their leader is a concern",		"failed_escape":"\#pcontrast3 RSF Command: < \#pcontrast1 Varg has escaped. The force be with his mark. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escort craft have been destroyed.  Proceed to main objective. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed. %DI escorts remain. \#pcontrast3 >",		"destroy_escort":"Destroy the Escort",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"\#pcontrast3 RSF Command: <\#pcontrast1 Saysmond Varg has been located in the Naboo Sector.  New orders are to destroy him.  Repeat, destroy Saysmond Varg. \#pcontrast3 >",		"assassinate_success":"\#pcontrast3 Tactical Computer: <\#pcontrast1 The deed is done.  Good job Captain, return to base. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 RSF Command: < \#pcontrast1 Uploading location to you now.  We need him destroyed, no time to chance him escaping us here in Naboo space. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 RSF Command: < \#pcontrast1 Calculating intercept course for you, stand by. \#pcontrast3 >"
+}}

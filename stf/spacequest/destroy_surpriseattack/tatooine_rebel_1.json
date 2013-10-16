@@ -1,14 +1,5 @@
-[
-'12':'unused2_t',
-'11':'unused2_d',
-'10':'unused1_t',
-'9':'unused1_d',
-'8':'title_d',
-'7':'title',
-'6':'split_quest_alert_fail',
-'5':'split_quest_alert',
-'4':'quest_t',
-'3':'quest_d',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/tatooine_rebel_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"TIE Fighter Cadets have intercepted your sensor sweep. Eliminate them with extreme prejudice!",		"title":"Tatooine system: Destroy the TIE Cadets!",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < We have uploaded a new patrol route for you to check out pilot. Hopefully we will have more success this time. >",		"quest_t":"Destroy the TIE Cadets!",		"quest_d":"TIE Fighter Cadets have intercepted your sensor sweep. Eliminate them with extreme prejudice!",		"complete":"Rebel Command: < Mission Complete!  Return to base for your next assignment by travelling to the Tatooine Space Station and using /comm. >",		"assigned_delayed":""
+}}

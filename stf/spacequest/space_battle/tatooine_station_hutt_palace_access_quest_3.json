@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_station_hutt_palace_access_quest_3",
+	"entries": {
+		"title_d":"Hortrix Steelarm has planned a ambush on some Valarian smugglers in the Yavin system and your employer think he knows here. Just as he's about to give you the coordinates you receive a distress call from one of the smugglers, the ambush is already taking place!",		"title":"Yavin system: Save the Valarian smugglers.",		"split_quest_alert_fail":"Tactical Computer: < Scans show ship signature of vessel Scythe IV. Registered owner: Chiss male known as Hortrix Steelarm. >",		"split_quest_alert":"Tactical Computer: < Scans show ship signature of vessel Scythe IV. Registered owner: Chiss male known as Hortrix Steelarm. >",		"quest_update":"Valarian smuggler: < %TO >",		"quest_location_t":"Yavin system.",		"quest_location_d":"If you're a enemy of the Empire, the Yavin system should be considered very dangerous as they are widespread through out the system. There's also a number of smugglers, bounty hunters and pirates trying to scavenge parts of the large debris field in the system and they are not afraid to prey on targets of opportunity.",		"quest_helpallies_t":"Save the smugglers.",		"quest_helpallies_d":"Although it doesn't look like Hortrix is part of the ambush force, you should assist the smugglers and save them from the Hutt scum.",		"quest_findbattle_t":"Ambush coordinates.",		"quest_findbattle_d":"The Valarian smugglers are trying to make it to these coordinates in hope that someone will assist them there. Get over there quickly before they are annihilated.",		"found_loc":"...eavy attack! We n... hel... Heading for th... coor...",		"enemies_win":"Pull out of there pilot! That battle is lost!",		"enemies_remain":"Valarian Smuggler: < Haha! Take that you Hutt scum! >",		"enemies_arrived":"They are right on top of us! Please, someone, we need help!",		"battle_started":"Here they come! We will try to hold out for as long as we can but we need help now!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Thank you pilot, I thought I was done for!",		"allies_remain":"Valarian Smuggler: < Ahh! My ship is falling apart! Eje... >",		"allies_arrived":"To any nearby Valarian pilots! We have been ambushed and need assistance quickly! Our coordinates are..."
+}}

@@ -1,285 +1,112 @@
-[
-'283':'syren2_datapad',
-'282':'syren1_warning',
-'281':'syren1_locked_datapad',
-'280':'starmap_box',
-'279':'starmap_piece',
-'278':'syren1_spice_sample',
-'277':'veteran_reward_antidecay',
-'276':'zicx_spice_jar',
-'275':'zicx_sarlacc_bile',
-'274':'zicx_calling_card',
-'273':'zicx_bug_jar',
-'272':'work_light',
-'271':'wind_crystal',
-'270':'weapon_upgrade_kit',
-'269':'voritor_skull',
-'268':'viewscreen_s2',
-'267':'viewscreen_s1',
-'266':'viewscreen_broken',
-'265':'victor_questp_testimony',
-'264':'victor_questp_receipt',
-'263':'victor_questp_jregistry',
-'262':'victor_questn_journal',
-'261':'victor_questn_hlist',
-'260':'victor_questn_dseal',
-'259':'victor_campaign_disk',
-'258':'vehicle_customization_kit',
-'257':'valarian_dagger',
-'256':'tusken_head',
-'255':'treasure_map_hedon',
-'254':'treasure_map_base',
-'253':'trap_webber',
-'252':'trap_tranq_dart',
-'251':'trap_state_def_1',
-'250':'trap_sonic_pulse',
-'249':'trap_ranged_def_1',
-'248':'trap_noise_maker',
-'247':'trap_melee_ranged_def_1',
-'246':'trap_melee_def_1',
-'245':'trap_flash_bomb',
-'244':'trap_enraging_spur',
-'243':'trap_drowsy_dart',
-'242':'toxic_rations',
-'241':'ticket_expired',
-'240':'ticket_collectors_item_s01',
-'239':'thune_skull',
-'238':'test_pastry',
-'237':'taloscope_broken',
-'236':'survey_tool_wind',
-'235':'survey_tool_solar',
-'234':'survey_tool_organic',
-'233':'survey_tool_moisture',
-'232':'survey_tool_mineral',
-'231':'survey_tool_lumber',
-'230':'survey_tool_liquid',
-'229':'survey_tool_inorganic',
-'228':'survey_tool_gas',
-'227':'survey_tool_all',
-'226':'squill_skull',
-'225':'sports_award_s01',
-'224':'spectrum_recorder',
-'223':'speaker_s01',
-'222':'speaker',
-'221':'socket_gem',
-'220':'smooth_stone',
-'219':'slave_collar',
-'218':'shisa_decorative_s01',
-'217':'shellfish_harvester',
-'216':'sean_questp_mdisk',
-'215':'sean_questp_htestimony',
-'214':'sean_questp_ctestimony',
-'213':'sean_questn_tdisk',
-'212':'sean_questn_gpapers',
-'211':'sean_questn_alog',
-'210':'sean_history_disk',
-'209':'sean_campaign_disk',
-'208':'sandstat_broken',
-'207':'rudic',
-'206':'repaired_grav_unit',
-'205':'relic_gbb_tech_kit',
-'204':'relic_gbb_spice_container',
-'203':'relic_gbb_small_ball',
-'202':'relic_gbb_ration_kit',
-'201':'relic_gbb_honey_carafe',
-'200':'relic_gbb_data_tab',
-'199':'relic_gbb_chemical_tab',
-'198':'recording_rod_s01',
-'197':'recording_rod_broken',
-'196':'rebel_rescue_intel',
-'195':'rebel_rescue_filler02',
-'194':'rebel_rescue_filler01',
-'193':'rebel_destroy_intel',
-'192':'rebel_destroy_filler02',
-'191':'rebel_destroy_filler01',
-'190':'rebel_assassin_intel',
-'189':'rebel_assassin_filler02',
-'188':'rebel_assassin_filler01',
-'187':'readable_datapad',
-'186':'proclamation_s01',
-'185':'power_regulator',
-'184':'poi_droid_head',
-'183':'poi_droid_body',
-'182':'picture_handheld_s02',
-'181':'picture_handheld_s01',
-'180':'petrified_egg',
-'179':'pet_control_device',
-'178':'personal_effects',
-'177':'palm_frond',
-'176':'painting_endor_style_01',
-'175':'ostrine',
-'174':'ornamental_sconce',
-'173':'ore_recycler',
-'172':'neutral_rescue_intel',
-'171':'neutral_rescue_filler02',
-'170':'neutral_rescue_filler01',
-'169':'neutral_destroy_intel',
-'168':'neutral_destroy_filler02',
-'167':'neutral_destroy_filler01',
-'166':'neutral_assassin_intel',
-'165':'neutral_assassin_filler02',
-'164':'neutral_assassin_filler01',
-'163':'mystical_powered_orb',
-'162':'mystical_orb',
-'161':'multipocket_bandolier',
-'160':'mt_soup',
-'159':'mt_pie',
-'158':'mt_flatbread',
-'157':'mt_casserole',
-'156':'moraj_marker',
-'155':'molecular_clamp',
-'154':'microphone',
-'153':'metal_recycler',
-'152':'message_fragment_base',
-'151':'message_assembled_base',
-'150':'mercenary_bandolier',
-'149':'medallion_dark_jedi_s01',
-'148':'medallion_black_sun_s01',
-'147':'magic_eight_ball',
-'146':'ledger_s01',
-'145':'laser_knife',
-'144':'large_bones',
-'143':'krayt_skull_01',
-'142':'krayt_skull',
-'141':'key_electronic_s01',
-'140':'keepsakes',
-'139':'jetpack_stabilizer',
-'138':'jetpack_injector_tank',
-'137':'jetpack_fuel_dispersion_unit',
-'136':'jetpack_ducted_fan',
-'135':'jetpack_base',
-'134':'jawa_beads',
-'133':'ithorian_skull',
-'132':'ith_multipocket_bandolier',
-'131':'ith_mercenary_bandolier',
-'130':'ith_double_bandolier',
-'129':'interplanetary_survey_droid',
-'128':'interface_override_device',
-'127':'insects_rare_s01',
-'126':'inkpen_engraved_s01',
-'125':'impulse_detector_broken',
-'124':'imperial_rescue_intel',
-'123':'imperial_rescue_filler02',
-'122':'imperial_rescue_filler01',
-'121':'imperial_destroy_intel',
-'120':'imperial_destroy_filler02',
-'119':'imperial_destroy_filler01',
-'118':'imperial_assassin_intel',
-'117':'imperial_assassin_filler02',
-'116':'imperial_assassin_filler01',
-'115':'hyperdrive_part_s01',
-'114':'hunt_quest_bol_skull',
-'113':'human_skull',
-'112':'huff_quest_top_secret_documents',
-'111':'huff_quest_corsec_badge',
-'110':'huff_quest_borvos_money',
-'109':'holocron_splinters_sith_s01',
-'108':'holocron_light',
-'107':'holocron_dark',
-'106':'heirloom_bowl',
-'105':'harvester_no_power',
-'104':'gungan_signet',
-'103':'gungan_lance',
-'102':'grav_unit_repair_kit',
-'101':'glass_heirloom_s01',
-'100':'fs_sculpture_4',
-'99':'fs_sculpture_3',
-'98':'fs_sculpture_2',
-'97':'fs_sculpture_1',
-'96':'fs_mellichae_cyborg_arm',
-'95':'fs_buff_item',
-'94':'force_crystal',
-'93':'flow_analyzer',
-'92':'flora_recycler',
-'91':'fishing_pole',
-'90':'fishing_marker',
-'89':'fishing_bait_worm',
-'88':'fishing_bait_insect',
-'87':'fishing_bait_grub',
-'86':'fishing_bait_chum',
-'85':'fishing_bait',
-'84':'firework_dud',
-'83':'endrine',
-'82':'encoded_disk_base',
-'81':'emulsion_protector',
-'80':'droid_customization_kit',
-'79':'double_bandolier',
-'78':'disruptor_broken',
-'77':'dermal_analyzer',
-'76':'decryptor_broken_s01',
-'75':'decoder_comp_translation',
-'74':'decoder_comp_screen',
-'73':'decoder_comp_reader',
-'72':'decoder_comp_processor',
-'71':'decoder_comp_power',
-'70':'decoder_comp_housing',
-'69':'dead_eye_prototype',
-'68':'dead_eye_decoder',
-'67':'de10_barrel',
-'66':'datapad_broken',
-'65':'datadisk_corrupt',
-'64':'data_item_unknown',
-'63':'data_item_rebel',
-'62':'data_item_imperial',
-'61':'data_geiger_counter',
-'60':'credit_chip',
-'59':'creature_recycler',
-'58':'creature_inventory',
-'57':'corvette_bootdisk_4',
-'56':'corsec_id_badge',
-'55':'comlink_naboo_broken',
-'54':'coa3_encoded_data_disk',
-'53':'claw_bones',
-'52':'chemical_recycler',
-'51':'casserole_binna_jode',
-'50':'carved_stone',
-'49':'campfire_logs_smoldering',
-'48':'campfire_logs_fresh',
-'47':'campfire_logs_burnt',
-'46':'campfire_logs_ash',
-'45':'camp_quality',
-'44':'camp_multi',
-'43':'camp_luxury',
-'42':'camp_improved',
-'41':'camp_elite',
-'40':'camp_basic',
-'39':'camokit_yavin',
-'38':'camokit_tatooine',
-'37':'camokit_talus',
-'36':'camokit_rori',
-'35':'camokit_naboo',
-'34':'camokit_lok',
-'33':'camokit_endor',
-'32':'camokit_dathomir',
-'31':'camokit_dantooine',
-'30':'camokit_corellia',
-'29':'camera_s01',
-'28':'calibrator_broken',
-'27':'cage_s01',
-'26':'broken_grav_unit',
-'25':'briefcase_s01',
-'24':'bowl_s01',
-'23':'bol_skull',
-'22':'blood_vial',
-'21':'bith_skull',
-'20':'biogenic_passkey',
-'19':'biogenic_engineering_key',
-'18':'biogenic_engineering_datapad',
-'17':'binoculars_broken',
-'16':'binary_liquid',
-'15':'bestine_quest_sword',
-'14':'bestine_quest_statue',
-'13':'bestine_quest_rug',
-'12':'bestine_quest_painting',
-'11':'bestine_quest_imp_banner',
-'10':'bestine_quest_badge',
-'9':'bestine_history_quest_painting',
-'8':'basket_expensive_s01',
-'7':'bank',
-'6':'artifact_rare_s01',
-'5':'art_crate',
-'4':'armor_upgrade_kit',
-'3':'ardanium_ii',
-'2':'alum_reward',
-'1':'alderaan_flora',
-]
+{
+	"stfFile":"item_d",
+	"entries": {
+		"syren2_datapad":"A datapad that has only the location:  Rori 4846, -1084. ",		"syren1_warning":"This datapad has a message for you.  "This is our only warning: stop looking into the source of the new spice.  If you do not, this will happen to you."",		"syren1_locked_datapad":"An encrypted datapad found at a crash site on Rori.  ",		"starmap_box":"An old box with ornate inscribing in an unknown language on it.",		"starmap_piece":"This appears to be a piece of an old star map.",		"syren1_spice_sample":"A sample of unknown spice.  It appears to be organic in nature.",		"veteran_reward_antidecay":"This is an Anti Decay Kit which can make an item not decay when a player dies or uses the item.  To use the Anti Decay Kit, both the Kit and the item you want to use the Kit on must be in your inventory.  Place the item inside the Kit by dragging and dropping the item onto the Anti Decay Kit.  Use the radial menu option on the Kit called Apply Anti Decay to make the item not decay.  If you change your mind, you can retrieve the item by selecting the radial menu option Retrieve Item From Kit.   Only items that can be insured are valid to be used with the Anti Decay Kit.  Items that are weapons are also valid to be used with the Anti Decay Kit.",		"zicx_spice_jar":"A jar of specially processed spice. Using his skills as a xenobiologist, Jowir Ar'Lensa has developed a clever method of refining spice using only a handful of common Tatooine insects.",		"zicx_sarlacc_bile":"The jar contains a generous amount of the Sarlacc's mysterious digestive fluid. ",		"zicx_calling_card":"This is the calling card for Goru Rainstealer, a disgraced weapons designer whose blatantly unethical treatment of his clients has made numerous powerful enemies. Both the Empire and the Alliance would love to see him disintegrated. The Hutts, Black Sun and the Valarian gang would also welcome his demise.",		"zicx_bug_jar":"The jar contains a healthy amount of living Zicx. The insects are of special interest to science because they appear to be invulnerable to all known forms of kinetic, ambient and energy damage. In nature, these creatures are quite docile. However, if they become (even slightly) irritated, they unleash a lethal torrent of stings and bites.",		"work_light":"When it was operational, this worklight provided much-needed illumination for courageous spelunkers and daring miners.",		"wind_crystal":"Similar to the crystal formations found on the Forest Moon of Endor, these crystals are very rare sources of powerful energy when used properly.",		"weapon_upgrade_kit":"A kit used to modify weapons.  This item is used in slicing.",		"voritor_skull":"Even in death, this slender skull of the Voritor seems to project a powerful and deadly presence.",		"viewscreen_s2":"Although in working condition, the viewscreen appears to be worn and in need of maintenance. The data contained inside can still be read.",		"viewscreen_s1":"This viewscreen appears to be working normally, though it's not useful for guarding secure information.",		"viewscreen_broken":"This hand-held viewscreen seems to have taken quite a beating. It appears that it is far beyond repair.",		"victor_questp_testimony":"A testimony which reads as follows:
+
+Victor Visalis came to my aid when I needed help most. After a particularly brutal attack from the Sand People, I lost he who meant more to me than anything in this life; my son. The Sand People stole him away from me. I couldn't save him. I have never been taught in the arts of the pistol or that of brawling. Somehow, Victor Visalis heard of my plight and ordered his own personal band of troopers to save my son from the clutches of evil. I write this testimony in hopes that it will be good enough to be presented as sufficient evidence in the upcoming election. Not only did Victor Visalis save my son, but he was also kind enough to supply us with enough money so that we may receive proper education. I'm currently studying to become a politician. Just like Victor Visalis.
+
+- one in-debted to Victor Visalis",		"victor_questp_receipt":"Donations for Lightwind Orphanage
+Name/Sum of donation
+------------------------------
+
+N'cor Silver/100 credits
+T`liha i`Ora/50 credits
+Jiloa Frost/1k credits
+Victor Visalis/1mil credits *
+Kliyna Furthen/2k credits
+Mlinoa Blue/150 credits
+
+* Most sizable donation given to date. Mr. Visalis' generosity provided the children with toys, upgrade in beds, new clothes, just to name a few. His donation also helped our crew repair the orphanage building, ridding it of cracks and helped us in repairing broken pipes.",		"victor_questp_jregistry":"System Registry v5.2
+
+.... searching ...
+.....................
+.......
+_
+_
+
+Detected change in system...
+...............
+
+Job Registry
+
+Description of new entry found in database:
+
+- More than one hundred new jobs opened for the growing number of homeless species in the town of Bestine.
+- New jobs established by: Victor Visalis, Officer of Defense.
+
+.... searching .....
+_
+_
+
+Entry created by: Tour Aryon, Governor of Bestine"",		"victor_questn_journal":"Entries sorted by date, containing information and events in one's life. The following entry is the only one that pertains to the current situation:
+
+... My troops carried out my plans earlier this evening regarding a particular Edwind Vintue. Constantly, he has tried to ruin my campaign by spreading falsified rumors and damaging stories. I am thankful that such things will no longer be heard by the common folk of Bestine. There is no need to fill their mind with things of which they do not know... and should not know. Let this be a lesson to those who try to oppose me. I will win this election even if it is the last thing I do. Edwind Vintue is no more and those who follow his steps will find themselves in the same fate as their predecessor ...
+
+- Victor Visalis",		"victor_questn_hlist":"A list of names. Further manipulation reveals the following information:
+
+P`lya Hera - Known Rebel informant. Frequents the cantinas in hopes of recruiting the common folk to the Alliance. Must be destroyed. Fairly harmless.
+Petre Fairlight - Rebel commander. Bravely lives within the "safety" of Bestine. Use extreme caution.
+
+Tyanna R`khila - Rebel operative. Heads the smuggling efforts in Bestine. Must be eliminated to prevent supplies from being stolen.
+
+We must keep Bestine clean. Those affiliated with the names listed above are to be eliminated quickly. Members of the Rebel Alliance are to be viewed as a disease and must be cleansed from our city.
+
+Signed,
+
+Victor Visalis
+Officer of Defense",		"victor_questn_dseal":"A sealed document. The seal has long been broken and the letter contains the following information therein:
+
+I, Victor Visalis, Officer of Defense of the city of Bestine, state that questionable activities conducted by approved members, or affiliates of, the Hutts shall be 'unseen' to the authority of the Officer of Defense or his official troopers. In return for this 'service', members of the Hutts will do nothing to damage Victor Visalis' reputation to the people of Bestine in hopes to win the upcoming election.
+
+Signed,
+
+Victor Visalis
+Officer of Defense",		"victor_campaign_disk":"Purpose: To protect and preserve the life of the honorable people of Bestine by hightening security against unwanted attacks. By hiring new Troopers, more jobs will open up for the unfortunate and reduce the number of homeless men and women.
+
+To vote: Evidence of a good deed, done by Victor Visalis, is needed in order for your vote to be registered. To find such evidence, you may speak with the political citizens around the capitol or within the city of Bestine. Example of evidence would be, but not limited to:
+	- Written Testimony from a Bestine citizen
+	- Diskette containing information of the deed
+	- Journal entries
+
+By receiving this diskette, you have agreed to represent Victor Visalis in the upcoming election. Our campaign encourages the free will of its representatives, but our patience is limited. Thus, if you decide our views are not for you, you may visit our opponent for more information. However, by doing so, we have the right to discharge you from our campaign to prevent from being in the company of spies and other such acts of sabotage.
+
+Next Contact: Keanna Li`kyna, Secretary to the Officer of Defense
+",		"vehicle_customization_kit":"A toolkit to be used to colorize a vehicle's frame and trim (if it has some) to the colors of the user's choice. Target the vehicle and use this kit. To colorize someone else's vehicle, they must /consent you before you may change their vehicle's color scheme.",		"valarian_dagger":"A dagger not used as a weapon but as a badge of recognition between Lady Valarian's secretive assassins.",		"tusken_head":"The head of a Tusken Executioner.",		"treasure_map_hedon":"A datadisk used for transporting information between computer systems.  This disk contains a old holo map with a single waypoint on it, named "Dragon Graveyard"",		"treasure_map_base":"A datadisk used for transporting information between computer systems.  This disk contains information regarding the location of a possible treasure.",		"trap_webber":"A trap containing some form of compressed mucilage based adhesive.  This trap is thrown at a target creature.  If the adhesive mesh successfully traps the creature, the target will become immobile for a short time and will suffer significant damage to its action pool.",		"trap_tranq_dart":"A small Phecnacine tranquililzer delivery system.  This object is thrown at a target in combat.  When it strikes something, it releases a thin mist of poison.  The poison will cause the target's movement to slow significantly.",		"trap_state_def_1":"A small container filled with the natural musk of an animal.  The musk has a repellent smell and can cause a target to become distracted.  This has the effect of making the target more vulnerable to status effects like stun or intimidate.",		"trap_sonic_pulse":"The sonic pulse is a small bomb activated by impact.  When triggered, it emits an extremely powerful pulse of sonic energy.  This has the result of stunning and dizzying any creatures caught within its effective radius.",		"trap_ranged_def_1":"A small container of natural bioluminescent liquid.  Splashing the target with this substance has the effect of making the target easier to hit with ranged attacks.",		"trap_noise_maker":"A special device that emits annoying noises.  When thrown at a creature by a sufficiently skilled scout, the trap will cause the target to become stunned.  The raw shock of the noise will also cause a large amount of damage to the target's mind pool.",		"trap_melee_ranged_def_1":"Similar to the wire mesh trap, but this trap has been enhanced.  The wire mesh has been strengthened and treated with a bioluminescent goo.  The target will become easier to hit with both melee and ranged attacks.",		"trap_melee_def_1":"A small cannister packed with a fine and somewhat sticky mesh.  When it strikes the target, the mesh entangles them making movement more difficult.  This has the effect of making the target easier to hit with melee attacks.",		"trap_flash_bomb":"A small bomb that emits a bright flash on impact.  This flash is intense enough to blind most creatures for a short amount of time.",		"trap_enraging_spur":"A spur fashioned from natural organics.  A knowledgable scout can throw this at an enemy creature, placing it in a perfect spot to cause pain.  This has the effect of damaging the creature's mind.  However, the effects are never fatal.",		"trap_drowsy_dart":"A small dart delivery system, ingeniously crafted from natural organics.  The tip is coated with a light Lecepanine poison.  This object is thrown at a target in combat.  If it hits, the poison will cause the target to become drowsy and slightly confused.  This has the effect of making the target dizzy as well as causing a slight decrease in the target's action pool.  This weapon cannot kill and only works on animals.",		"toxic_rations":"A battery of spoiled rations that would spell certain death to anyone unlucky enough to consume them.",		"ticket_expired":"Someone must have missed their arranged travel plans and retained it for sentimental value, as this ticket is quite expired.",		"ticket_collectors_item_s01":"The ticket has no monetary value - but perhaps represents significant sentimental value to its owner.",		"thune_skull":"The massive skull of a deceased Thune. It would surely impress any collector with its immense size.",		"test_pastry":"Mmm....delicious.",		"taloscope_broken":"This meson taloscope has seen better days. Unfortunately for this particular instrument, its focusing mechanism has been thoroughly fried.",		"survey_tool_wind":"This tool checks local weather conditions and measures the average wind velocity. Its primary use is for determining a good place to construct a wind generator.",		"survey_tool_solar":"This tool checks average local ambient solar radiation. Its primary use is for determining a good place to construct a solar power generator.",		"survey_tool_organic":"This advanced tool allows the local environment to be scanned for any organic resources.",		"survey_tool_moisture":"This tool scans the local environment for water resources that can be gathered with the appropriate types of harvesters and even has the ability to acquire minute samples of the resources it detects.",		"survey_tool_mineral":"This tool scans the local environment for mineral resources that can be extracted with the appropriate types of harvesters and even has the ability to acquire minute samples of the resources it detects.",		"survey_tool_lumber":"This tool scans the local environment for soil fertility and lumber resources that can be grown with harvesters.",		"survey_tool_liquid":"This tool scans the local environment for chemical resources that can be extracted with the appropriate types of harvesters and even has the ability to acquire minute samples of the resources it detects.",		"survey_tool_inorganic":"This advanced device allows the local environment to be scanned for any inorganic resources.",		"survey_tool_gas":"This tool scans the local environment for gas resources that can be extracted with the appropriate types of harvesters and even has the ability to acquire minute samples of the resources it detects.",		"survey_tool_all":"This is an advanced survey device, capable of surveying both organic and inorganic resources that can be gathered in a given region.",		"squill_skull":"A squill skull. The skull appears to be some sort of trophy. Perhaps someone would be interested in it.",		"sports_award_s01":"An award given to outstanding athletes as a reward for executing feats of uncommon grace and power - under the powerful scrutiny of sporting fans.",		"spectrum_recorder":"The device weaves light beams of alternating color and fluctuating intensities to detect microsopic imperfections in refined minerals.",		"speaker_s01":"This speaker is undoubtedly part of a more elaborate sound reproduction system.",		"speaker":"Speaker",		"socket_gem":"An attachment that can increase the skill-related assistance provided by a suitable parent item.",		"smooth_stone":"A smooth stone, boasting an almost crystalline luster. The object refracts light if held a certain way.",		"slave_collar":"A standard slave collar.",		"shisa_decorative_s01":"A fine ornamental shisa. Many affluent travelers decorate thier homes with decorations like this one.",		"shellfish_harvester":"A tool used to locate mollusks and crustaceans. Tool is ineffective unless standing in water.",		"sean_questp_mdisk":"A disk containing information. Placing the disk in your datapad reveals the following:
+
+With this letter, I have attached a note worth over 50k in credits for use in building the new Market place. The note has been made out to Itko-Fris, appointed director of the new market place and all related elements.
+
+Sean Trenwell
+Director of Commerce",		"sean_questp_htestimony":"A testimony. Further manipulation of the object reveals the following:
+
+Sean Trenwell opened his home to the victims of a tragic incident, sacrificing his own comfort and, in some cases, freedom for their benefit. His heart is a golden one and should be rewarded. He is too humble to ask for anything. In hopes that this will be used as evidence for him, I write this testimony for the upcoming election. I know you, the Governor of Bestine, will make the right decision in whom will be allowed to work for you in office.
+
+- humble servant of Sean Trenwell",		"sean_questp_ctestimony":"A written testimony from the Curator of the local museum regarding Sean Trenwell's generous donation.",		"sean_questn_tdisk":"A terminal disk detailing the agreement between Sean Trenwell and the Hutt faction. The evidence contained supports profound negative information against the Director of Commerce.",		"sean_questn_gpapers":"Grade papers from several years ago. It is evident, from reading the information, that Sean Trenwell barely passed school. It provides valuable evidence against him.",		"sean_questn_alog":"A disk containing information regarding the Commerce account. In the notes, the accountant mentions that mysterious deductions have been made in the name of Sean Trenwell. The evidence contained within supports the assumption and brings it to light; Director of Commerce has been stealing from the accounts for years.",		"sean_history_disk":"A disk containing vital information regarding the history of Bestine and the problematic ancestor of Sean Trenwell.",		"sean_campaign_disk":"Sean Trenwell, Director of Commerce
+
+Purpose: To enrich the lives of the people of Bestine through Commerce by establishing new market places, funding the museum and hiring historians to uncover the mysteries surrounding the city. Our artisans will be ecstatic with the new changes!
+
+Voting Process: In order for your vote to be registered with the Governor, you must bring her a record, or evidence, of a good deed done by Sean Trenwell. Evidence can be found by speaking with any citizen of Bestine. It may take some searching, so be patient! The capitol is a central point of intrigue for politics and would be a good place to start with. Examples of evidence:
+	- Journals
+	- Disks
+	- Written Testimonies
+
+Having this disk identifies you as having agreed to represent Sean Trenwell in the upcoming election. However, if you are found conversing with our rival, we have no choice but to remove you from our campaign.
+
+Next Contact: Indigo Siyan, Secretary to the Director of Commerce",		"sandstat_broken":"Originally created by residents of Tatooine to assist in cleanup after sandstorms, this particular electrostatic sandstat is unusable.",		"rudic":"This crystalline mineral is mostly found on the planet Hirsi, but can be found in smaller amounts buried with other minerals.  It is a prime component in the manufacture of sensor devices.",		"repaired_grav_unit":"A 100 GU Grav Unit for a landspeeder.",		"relic_gbb_tech_kit":"Geonosian Relic
+
+A collection of Geonosian technical material.",		"relic_gbb_spice_container":"Geonosian Relic
+
+A container filled with an unrefined form of spice.",		"relic_gbb_small_ball":"Geonosian Relic
+
+A potential weapon if hurled with great force, maybe a prop from a recreational game, or a small part of a larger machination. The exact use of this object is unknown at this time.",		"relic_gbb_ration_kit":"Geonosian Relic
+
+The geonosian ration consists of some as ot yet unidentified meat, a subterranean fungus and a light coating of Royal Jelly.  The combination is highly inedible to all but the staunchest digestive systems.",		"relic_gbb_honey_carafe":"Geonosian Relic
+
+An empty glass of Royal Jelly.  While mildly toxic to other beings, the Geonosian Royal Jelly is a staple for this insectile race who are able to safely digest the viscus fluid for its high concentration of nutrients.",		"relic_gbb_data_tab":"Geonosian Relic
+
+An encrypted data disk.",		"relic_gbb_chemical_tab":"Geonosian Relic
+
+A type of Geonosian Stimpack, fatal to other races.",		"recording_rod_s01":"Perhaps long ago, this recording rod helped surveyors graph the myriad resources tucked away beneath the planet's surface... but now it is just a hunk of durasteel.",		"recording_rod_broken":"This type of recording rod was probably used by scouts, surveyors, and investigators to act as a portable audio-video recording assistant. However, this particular unit seems to have been left for scrap.",		"rebel_rescue_intel":"Security override codes for a Corellian Corvette.  These will allow a ship to slip past the defenses of a Corellian Corvette if used properly.",		"rebel_rescue_filler02":"An Imperial Purchase order for an exhaust port cover.",		"rebel_rescue_filler01":"A resignation form from a Stormtrooper to his superior officer.  Scrawled in the notes section is an illegible smudge, but the words "Dancer" and "Quit" can be made out.",		"rebel_destroy_intel":"This is a ship's preparation log, signed by an Imperial officer, detailing the whereabouts of a number of named ships.",		"rebel_destroy_filler02":"This is a PTO request from someone named General Otto.  His time off request is apparently due to his wanting to enter a race of some kind.  The form has been signed.",		"rebel_destroy_filler01":"This is an internal memorandum questioning the building of a starport on Dathomir.  Someone seems concerned about the Nightsisters escaping the planet...",		"rebel_assassin_intel":"An Imperial Dossier documenting the career of a high ranking Imperial Officer.  A quick glance shows that this man is very ruthless and could be considered fanatically devoted to violence.",		"rebel_assassin_filler02":"A transfer order for a Wookiee prisoner being moved from cellblock 1138 to level 5 detention block AA23.",		"rebel_assassin_filler01":"A recall notice for a shipment of E-11 blasters indicating that their barrels are not aligned properly.",		"readable_datapad":"A datapad device.  These are used to store text of various types including letters, memos, account sheets, works of fiction, etc.",		"proclamation_s01":"This official government proclamation could mean the difference between life and death for certain inhabitants of this planet.",		"power_regulator":"This power regulator is used to control power surges and maintain a level amount of power as much as possible.",		"poi_droid_head":"The head of a dismembered droid.",		"poi_droid_body":"The body of a dismembered droid.",		"picture_handheld_s02":"You can make out shapes and shadow in the image - but they seem to shift... like black clouds, eluding description.",		"picture_handheld_s01":"The image on the main viewscreen is impossible to discern.",		"petrified_egg":"An extremely interesting archaeological find - shrouded in mystery. Learning the truth about this artifact could take many lifetimes.",		"pet_control_device":"a pet control device",		"personal_effects":"The container appears to hold a vast array of common personal items... which are potentially important on a sentimental level.",		"palm_frond":"A worn palm frond. Surprisingly, this particular frond remains green even after it fell from its tree.",		"painting_endor_style_01":"A painting of the forest moon Endor's landscape.",		"ostrine":"This mineral, found in large amounts on the planet Hargeeva, can also be found in trace amounts along with other more common ores if you know how to look for them.  Ostrine's chief property is that it can absorb heat like a sponge, making it ideal for the production of armor plating.",		"ornamental_sconce":"This ornamental sconce can provide a suite of interesting lighting solutions when mounted on a special interface. Unfortunately, these interfaces are no longer available to the general public... ",		"ore_recycler":"This tumble driven machine combines different types of stones, including igneous, sedimentary, and gemstones.",		"neutral_rescue_intel":"This is a CorSec prisoner transfer document, detailing the exact movements of a prisoner at all times.",		"neutral_rescue_filler02":"A wealth of human and alien expressions for use by travelers across the galaxy.  Written by Ebenn Q3 Baobab.",		"neutral_rescue_filler01":"A documentary about the unusual life of the Dorumaa leviathan, hosted by noted xenobiologist Dr. A. Rahring.",		"neutral_destroy_intel":"These are the destruction code sequences for a CorSec Cruiser.",		"neutral_destroy_filler02":"This document, written by someone named Armennion Ullgusta, covers many aspects of the purge of the Jedi Knights.  This book is banned by Imperial Authority.",		"neutral_destroy_filler01":"A paper written by someone named Soras Varn.   It documents the wide variety of personalities and modes of operation used by bounty hunters.  It appears that it was first published in the proceedings of the Institute of Imperial Psychological Studies.  ",		"neutral_assassin_intel":"This is a list of people who owe a pirate organization money for gambling debts and a list of their last known locations.",		"neutral_assassin_filler02":"This is an order form for a crate of eye-patches.",		"neutral_assassin_filler01":"This is a research request, asking for information on some bat-like creature that flies upside down during the day.",		"mystical_powered_orb":"The powers and purpose of this mystical orb remain unknown... even to its rightful owner. It has a strange glow emitting from it.",		"mystical_orb":"The powers and purpose of this mystical orb remain unknown... even to its rightful owner.",		"multipocket_bandolier":"A Multi-pocket Bandolier.  A clothing item wearable by most humanoid species.  This is a special version of the normal bandolier, and can also be used as a container to hold other items.  To wear a this item, click on it in your inventory and choose "equip" from the radial menu. To open it, click on it in your inventory and choose "open".",		"mt_soup":"A special gift from Bren Kingal - his sister's secret recipe.",		"mt_pie":"A special gift from Bren Kingal - his sister's secret recipe.",		"mt_flatbread":"A special gift from Bren Kingal - his sister's secret recipe.",		"mt_casserole":"A special gift from Bren Kingal - his sister's secret recipe.",		"moraj_marker":"Dedicated by the first settlers of Tatooine - founders of Bestine Township -  in memory of brave Captain Moraj.",		"molecular_clamp":"A small clamp that will fuse to power nodes.  Mounted with a polarity indicator light.  This item is used in slicing.",		"microphone":"microphone",		"metal_recycler":"A smelting machine used to combine different types of ferrous and non-ferrous metals.",		"message_fragment_base":"A datadisk used for transporting information between computer systems.  The disk appears to contain a partial transmission of some sort.",		"message_assembled_base":"A datadisk used for transporting information between computer systems.  The disk contains an assembled transmission.",		"mercenary_bandolier":"A Mercenary Bandolier.  A clothing item wearable by most humanoid species.  This is a special version of the normal bandolier, and can also be used as a container to hold other items.  To wear a this item, click on it in your inventory and choose "equip" from the radial menu. To open it, click on it in your inventory and choose "open".",		"medallion_dark_jedi_s01":"A Sith engraving haunts the surface of this dark jewel.",		"medallion_black_sun_s01":"The medallion bears the striking insignia of the Black Sun criminal organization.",		"magic_eight_ball":"Eyes of Mesra",		"ledger_s01":"The ledger describes past business transactions, current personnel details, and depricated resource traffic.",		"laser_knife":"A precision cutting instrument.  This item is used in slicing.",		"large_bones":"Strong and light, these appear to be the bones of a once large and mighty creature.",		"krayt_skull_01":"A rare polished Krayt Dragon hunting trophy awarded to you by Huff Darklighter. ",		"krayt_skull":"The skull of a mighty Krayt Dragon. An imposing sight, even in death. A highly prized collectible.",		"key_electronic_s01":"Although the main identity circuits of this key are now burned out and dysfunctional, the key may have once been used to unlock high-security areas.",		"keepsakes":"This container is full of keepsakes, greeting cards, ticket stubs, and other miscellanea of significant sentimental value.",		"jetpack_stabilizer":"A stabilizing unit for a Jetpack.  ",		"jetpack_injector_tank":"A fuel injection tank for a personal jetpack.",		"jetpack_fuel_dispersion_unit":"This unit spins rapidly, dispersing fuel to the jet engines of a jetpack.",		"jetpack_ducted_fan":"This fan serves a dual purpose, both cooling the jetpacks engines and giving a boost of air used in controlling the direction of the jetpack.",		"jetpack_base":"A base carrying apparatus for a jetpack.  The straps fit over the shoulders of the individual who will operate the jetpack, and the backing holds the pieces together.",		"jawa_beads":"Beads commonly worn by Jawas.",		"ithorian_skull":"The skull of a fallen Ithorian.",		"ith_multipocket_bandolier":"An Ithorian Multi-pocket Bandolier.  A clothing item wearable by Ithorians.  This is a special version of the normal bandolier, and can also be used as a container to hold other items.  To wear a this item, click on it in your inventory and choose "equip" from the radial menu. To open it, click on it in your inventory and choose "open".",		"ith_mercenary_bandolier":"An Ithorian Mercenary Bandolier.  A clothing item wearable by Ithorians.  This is a special version of the normal bandolier, and can also be used as a container to hold other items.  To wear a this item, click on it in your inventory and choose "equip" from the radial menu. To open it, click on it in your inventory and choose "open".",		"ith_double_bandolier":"An Ithorian Two-strap Bandolier.  A clothing item wearable by Ithorians.  This is a special version of the normal bandolier, and can also be used as a container to hold other items.  To wear a this item, click on it in your inventory and choose "equip" from the radial menu. To open it, click on it in your inventory and choose "open".",		"interplanetary_survey_droid":"This droid is capable of using various survey tools and travelling to other planets to report on the resources available on that planet.",		"interface_override_device":"This device is able to override the security lockouts on an Imperial Relay Station terminal.",		"insects_rare_s01":"Rare insects are preserved in a suspension of bacta and common comestibles.",		"inkpen_engraved_s01":"A set of ink pens with fine custom engraving.",		"impulse_detector_broken":"This impulse detector has less than half of its components still intact.",		"imperial_rescue_intel":"This is an alliance document detailing a prisoner named Dr. Bledsoe, and the scheduled times at which he will be moved.",		"imperial_rescue_filler02":"This is a research request on Womprat sizes, signed by Wedge Antilles.  In the margins the words "2 meters??" are scrawled in an unknown hand.",		"imperial_rescue_filler01":"This is an Alliance purchase order for a large number of parkas, gloves, and cold weather gear.",		"imperial_destroy_intel":"These are the destruct sequences for a Corellian Corvette.",		"imperial_destroy_filler02":"This document lays out guidelines for establishing a safeworld on an uncharted or remote planet.",		"imperial_destroy_filler01":"An Alliance datafile documenting the list of activities considered to be against the interests and/or benefit of Alliance operations and/or security.",		"imperial_assassin_intel":"A transport document detailing its flight plan.  Signed by a Rebel commander.",		"imperial_assassin_filler02":"These are transfer orders for an Alliance officer named Lt. Lance.  They are more than three years old and have never been signed.",		"imperial_assassin_filler01":"This appears to be a lunch menu for a "Commander's Picnic" and details the food that will be served.",		"hyperdrive_part_s01":"A non-functional hyperdrive component.",		"hunt_quest_bol_skull":"A Bol skull from the planet Dantooine. Given to members of the Hunters guild that has proved themselves skilled hunters.",		"human_skull":"A human skull, a haunting reminder of our own mortality.",		"huff_quest_top_secret_documents":"These are documents related to the Darklighter Estate. They are unopened.",		"huff_quest_corsec_badge":"The name on this badge is Niskel. The picture is faded and could be almost anyone.",		"huff_quest_borvos_money":"This money is evidence in the crimes against Borvo the Hutt.",		"holocron_splinters_sith_s01":"The pieces of this ancient holocron cannot be repaired. The markings are incomprehensible... yet somehow familiar to you.",		"holocron_light":"A Holocron.",		"holocron_dark":"A Sith Holocron.",		"heirloom_bowl":"Borvo the Hutt's prized family heirloom bowl. Cryptic huttese colloquialisms are engraved along the rim.",		"harvester_no_power":"This veteran reward lets you change one of your harvesters to use 0 power. To enable this, select the harvester you want to change, and then select the "Convert Harvester" option from the reward's menu. You will get a message saying that the harvester has been converted, and the reward will delete itself.",		"gungan_signet":"Traditional earring worn by many gungans.",		"gungan_lance":"Lance used by gungans in combat. This one appears to have been recently broken.",		"grav_unit_repair_kit":"A repair kit for grav units.",		"glass_heirloom_s01":"The glass is far from beautiful, but holds high sentimental value for its owner.",		"fs_sculpture_4":"Hand crafted by the citizens of the village Aurilia, this sculpture represents how they are but one part of the greater whole. (section 4 of 4)",		"fs_sculpture_3":"Hand crafted by the citizens of the village Aurilia, this sculpture represents how they are but one part of the greater whole. (section 3 of 4)",		"fs_sculpture_2":"Hand crafted by the citizens of the village Aurilia, this sculpture represents how they are but one part of the greater whole. (section 2 of 4)",		"fs_sculpture_1":"Hand crafted by the citizens of the village Aurilia, this sculpture represents how they are but one part of the greater whole. (section 1 of 4)",		"fs_mellichae_cyborg_arm":"Mellichae's mechanical arm. You cannot help but feel the anger and hatred emanating from the broken circuitry and metals.",		"fs_buff_item":"a Crystal cut and faceted to focus the powers held inside. It has been fitted with sensors to monitor power levels, and reflectors to help refocus energies after use. ",		"force_crystal":"The crystal is said to amplify the user's connection to the Force. Unfortunately, there is no way to activate it.",		"flow_analyzer":"A small systems analysis device.  This item is used in slicing.",		"flora_recycler":"This machine is used for mulching and combining different types of flora, including vegetables, fruits, wood, and cereals.",		"fishing_pole":"This long, slender pole allows for a quick motion to apply sudden force at the end of the line, hooking fish that have started swallowing the bait on the hook.",		"fishing_marker":"This marker lets you know when a fish is nibbling on your bait.",		"fishing_bait_worm":"This live worm bait uses wiggling worms to attract fish to your fishing line.",		"fishing_bait_insect":"This insect bait uses an insect to attract fish to your fishing line.",		"fishing_bait_grub":"This grub bait uses small larva that wriggle to attract fish to your fishing line.",		"fishing_bait_chum":"This chum bait uses ground animal or fish parts to attract fish to your fishing line.",		"fishing_bait":"This is used to trick fish into biting the hook at the end of your fishing line.",		"firework_dud":"The fuse on this firework seems to have been spent but it did not fire.",		"endrine":"This ore is valuable in the production of walls and defenses because in its liquid state it acts as an adhesive, and as it dries it increases the hardness of any other substance it comes in contact with.",		"encoded_disk_base":"A datadisk used for transporting information between computer systems.  The disk is encoded with some form of encryption.",		"emulsion_protector":"A protective coating that increases permanence by protecting emulsions from abrasions and water absorption.",		"droid_customization_kit":"A toolkit to be used to colorize a droid's frame and trim (if it has some) to the colors of the user's choice. Target the droid and use this kit. To colorize someone else's droid, they must /consent you before you may change their droid's color scheme.",		"double_bandolier":"A Two-strap Bandolier.  A clothing item wearable by most humanoid species.  This is a special version of the normal bandolier, and can also be used as a container to hold other items.  To wear a this item, click on it in your inventory and choose "equip" from the radial menu. To open it, click on it in your inventory and choose "open".",		"disruptor_broken":"Kwin Moonraiser's infamous disruptor beam cannon. It is clear that the device has been battered and abused... perhaps by Kwin himself. It is no longer functional.",		"dermal_analyzer":"This device is most often used by xeno-biologists to test skin reactions to various stimuli. It can also be used in forensic analysis to determine a myriad of circumstances invisible to the naked eye.",		"decryptor_broken_s01":"This very old model of decryption device probably burned out due to over-use.",		"decoder_comp_translation":"An Imperial translation circuit for an old decryption scheme.",		"decoder_comp_screen":"An old vid screen.",		"decoder_comp_reader":"An optical data disk reader.",		"decoder_comp_processor":"On antiquated micro-processor core.",		"decoder_comp_power":"A power core with an obsolete coupling.",		"decoder_comp_housing":"The housing for an obsolete decryption tool.",		"dead_eye_prototype":"A dosage of the prototype drug Dead Eye.  This drug will significantly increase the users accuracy for a brief period of time.",		"dead_eye_decoder":"This old Imperial decoder should be able to decrypt the message on the Dead Eye data disk.",		"de10_barrel":"A special barrel needed for the creation of a DE-10 pistol",		"datapad_broken":"This view area of this datapad has been destroyed, rendering the unit useless.",		"datadisk_corrupt":"The data on this disk can only be read sporadically, at best. Any trace of coherent information must have been lost long ago.",		"data_item_unknown":"This data fragment contains encrypted data of an unknown nature.",		"data_item_rebel":"This data item seems to contain encoded Rebellion information.",		"data_item_imperial":"This data item seems to contain encoded Imperial information.",		"data_geiger_counter":"A device used to track radiation sources.",		"credit_chip":"A Credit Chip",		"creature_recycler":"This machine is used to combine parts that come from creatures including hides, horns, bones, meat, milk, and different types of seafood.",		"creature_inventory":"a creature's inventory",		"corvette_bootdisk_4":"An operations disk for a computer system of some kind.  Probably a starship software package.  This one is labeled #4.",		"corsec_id_badge":"Corsec ID Badge.",		"comlink_naboo_broken":"This particular comlink unit, used by many residents of Naboo for short range communications, does not seem to be functional.",		"coa3_encoded_data_disk":"A data disk with information about the Alderaanian Flora caravans encoded on it.  The information is useless until the data can be decoded.",		"claw_bones":"The massive claw bones of some giant creature.",		"chemical_recycler":"This machine safely mixes chemical compounds.  It can be used on chemicals, water, petrochemical fuels, and radioactive materials.",		"casserole_binna_jode":"A delicious casserole made by Binna Jode.",		"carved_stone":"A carved stone, boasting crude designs and jagged edges. It is apparent that this particular object belongs to a ruthless tribe.",		"campfire_logs_smoldering":"Smoldering logs.",		"campfire_logs_fresh":"Fresh, unburned logs.",		"campfire_logs_burnt":"Burned logs.",		"campfire_logs_ash":"Ashes of a burned log.",		"camp_quality":"A set of tools and equipment necessary to build a medium encampment.  This camp can repel aggressive creatures and offers a minor regeneration bonus.  Requires a moderate amount of camping skill to assemble.",		"camp_multi":"A set of tools and equipment necessary to build a small encampment for two.  Requires very little camping skill to assemble.",		"camp_luxury":"A set of tools and equipment necessary to build an extremely nice encampment.  This camp improves on every feature of lesser camps and also includes a crafting station.  Requires an extreme amount of camping skill to assemble.",		"camp_improved":"A set of tools and equipment necessary to build a small encampment.  This camp can repel aggressive creatures.  Requires a small amount of camping skill to assemble.",		"camp_elite":"A set of tools and equipment necessary to build a large encampment.  This camp can repel aggressive creatures and offers a minor regeneration bonus as well as other amenities.  Requires a large amount of camping skill to assemble.",		"camp_basic":"A set of tools and equipment necessary to build a small encampment.  Requires very little camping skill to assemble.",		"camokit_yavin":"A camouflage kit customized for the natural environment on Yavin.",		"camokit_tatooine":"A camouflage kit customized for the natural environment on Tatooine.",		"camokit_talus":"A camouflage kit customized for the natural environment on Talus.",		"camokit_rori":"A camouflage kit customized for the natural environment on Rori.",		"camokit_naboo":"A camouflage kit customized for the natural environment on Naboo.",		"camokit_lok":"A camouflage kit customized for the natural environment on Lok.",		"camokit_endor":"A camouflage kit customized for the natural environment on Endor.",		"camokit_dathomir":"A camouflage kit customized for the natural environment on Dathomir.",		"camokit_dantooine":"A camouflage kit customized for the natural environment on Dantooine.",		"camokit_corellia":"A camouflage kit customized for the natural environment on Corellia.",		"camera_s01":"A photographic camera. The exposed film inside is irretrievable.",		"calibrator_broken":"This tool, which (ironically) is used to calibrate and restore other tools, has fallen into disrepair.",		"cage_s01":"An ornate cage intended for the care and keeping of small animals and birds.",		"broken_grav_unit":"A broken 100 GU Grav Unit.",		"briefcase_s01":"A strongly armored briefcase sealed with an impenetrable lock.",		"bowl_s01":"A pristine heirloom bowl with fine engravings and made of choice materials.",		"bol_skull":"The skull of a Bol, it would make quite a nice conversation piece in somebodys home.",		"blood_vial":"The vial appears to be filled with a red fluid. It would be wise to return this vial to Commander D`krn as soon as possible.",		"bith_skull":"The skull of a very unfortunate Bith.",		"biogenic_passkey":"A passkey used to open security doors in the hidden Geonosian bio-genetics laboratory.",		"biogenic_engineering_key":"A passkey specially modified to open a specific security door in the hidden Geonosian bio-genetics laboratory.",		"biogenic_engineering_datapad":"An engineering datapad that contains the computer codes needed to restart the power core of the hidden Geonosian bio-genetics laboratory.",		"binoculars_broken":"In its current condition, this set of electrobinoculars might as well be sold for spare parts.",		"binary_liquid":"A binary liquid that combines to perform a chemical effect of some kind, usually beneficial in manufacturing.",		"bestine_quest_sword":"A prized weapon of ages past. The blade of the weapon is well-worn which suggests that it has seen many battles.",		"bestine_quest_statue":"A large statue meant to be used as a house decoration. Attached to the statue is a small inscription which reads: "Sean Trenwell, Director of Commerce".",		"bestine_quest_rug":"A well-made rug given as a gift from Sean Trenwell. The rug would be perfect for many a house, providing comfort and style to any dwelling.",		"bestine_quest_painting":"A rare painting depicting an Imperial prison, shadowed by an omnious storm.",		"bestine_quest_imp_banner":"An imperial banner. The banner is meant to be used as a house decoration for the proud citizen of the Empire.",		"bestine_quest_badge":"Badge - "Loyalist"
+
+A necklace given as a gift from Victor Visalis in appreciation of the loyal efforts of the wearer.
+",		"bestine_history_quest_painting":"A unique painting. This photorealistic painting, no longer in regular circulation, depicts an artist's rendition of a star being revealed as it emerges behind a planet.",		"basket_expensive_s01":"A basket woven of the finest quality materials - crafted with excellence and attention to detail.",		"bank":"A bank box.",		"artifact_rare_s01":"A rare ancient artifact of unknown origin. ",		"art_crate":"A packed crate containing something heavily.  A manifest slip on the side of the crate indicates that it's a piece of art.",		"armor_upgrade_kit":"A kit used to modify armor pieces.  This item is used in slicing.",		"ardanium_ii":"The ore Ardanium has the strange property of growing stronger in the presence of radiation, making it the perfect material for creating star ship fuel.  Ardanium II is a seperate chemical that shares many of the same characteristics, including the property of growing stronger with radiation, although by a much smaller factor, making it safer for use than Ardanium for smaller energy sources.",		"alum_reward":"Alum minerals - a double sulfate composed of a trivalent metal (aluminum) and a univalent metal (potassium or sodium).  This mineral can be used as either a clarifying agent or a hardening agent.",		"alderaan_flora":"Rare Flora from the planet Alderaan."
+}}

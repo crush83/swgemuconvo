@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_imperial_tier3_4_c",
+	"entries": {
+		"title_d":"Destroy the Rebel Command Shuttle in the Endor system. The recovered data reveals the secrets of the Endor project that were leaked to the Rebellion. Fortunately there was nothing there that couldn't be covered up and not enough information to keep the Rebels interested if we make things too costly. The Rebel command vessel is no longer needed and is to be eliminated.",		"title":"Endor System: Destroy the Rebel Command Shuttle",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Rebel Command Shuttle",		"quest_target_d":"Intercept and destroy the Rebel's command shuttle in the Endor system. It appears that the vessel is attempting to leave the system. You must destroy it before it can leave the area.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"Remain in the Endor system and intercept the Rebel Command Shuttle.",		"quest_escort_t":"Destroy the Escort Craft",		"quest_escort_d":"Destroy all vessels that fly with the command ship.",		"failed_escape":"You let it get away! Failure is unacceptable. Report to your superior immediately.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy escort fighters completely eliminated. Focus attack on command ship.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy escort ship destroyed. %DI Escorts Remaining.>",		"destroy_escort":"Send a clear message to the Rebels. Destroy all the vessels that are with the command vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Excellent work, pilot. This is a glorious day for the Empire. Report back to your superior and give a full report.",		"arrival_phase_2":"Target confirmed. Be wary it will probably be heavily guarded.",		"arrival_phase_1":"Proceed to target location immediately. Rebel command ship is attempting to hyper jump out of the system.",		"Quest Log Data":"Text"
+}}

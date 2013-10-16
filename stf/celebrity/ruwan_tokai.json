@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/ruwan_tokai",
+	"entries": {
+		"npc_11":"Forget it.  I'll get a Wookiee to do it next time.  At least they don't talk back.",		"player_10":"Machine?",		"npc_10":"I think you've done a pretty good job of confusing yourself.",		"player_9":"You have me confused with--",		"npc_5":"Oh dear...you do know what a machine is right?",		"player_6":"Machine parts?",		"npc_9":"Then don't play dumb.  Where are my parts?",		"player_8":"Don't get smart.",		"npc_8":"Which part of the sentence confused you then?  Did.  You.  Bring.  My.  Parts?  Forget it....(sigh)",		"player_7":"Yeah, I know...",		"npc_4":"Do you know what 'bring' means?",		"player_5":"I know what parts are.",		"npc_3":"You do know what parts are right?  Machine parts?  Metal and gears?  Make stuff work?",		"npc_7":"Forget it.  You're not the delivery guy.  Sorry.  Thought you were someone else.",		"player_4":"I'm not the deliver--",		"npc_6":"Great.  What use are you to me then?",		"player_3":"Well...no.",		"npc_2":"The parts I ordered!  Did you bring them or not?",		"player_2":"I don't know what you mean?",		"player_1":"What parts?",		"npc_1":"I'm the technician here.  Did you bring my parts?"
+}}

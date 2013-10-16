@@ -1,12 +1,5 @@
-[
-'10':'toomany',
-'9':'goodbye2',
-'8':'goodbye',
-'7':'swoop',
-'6':'bike',
-'5':'x34',
-'4':'choose',
-'3':'no',
-'2':'start',
-'1':'yes',
-]
+{
+	"stfFile":"beta/vehicle_vendor",
+	"entries": {
+		"toomany":"Hmm.  Didn't I give you one already?  If you'd like a different vehicle, please destroy your old one first.",		"goodbye2":"Remember, this is only a free trial.  The vehicle will expire and self-destruct in 16 DAYS.  Have fun!",		"goodbye":"Oh, well.  Alright then.  Goodbye.",		"swoop":"Swoop",		"bike":"Speeder Bike",		"x34":"X34 Landspeeder",		"choose":"Choose one of these vehicles!",		"no":"Nope.",		"start":"Hey!  You there!   Our company is trying out their new vehicle line in this city, and you look the kind of person who might want a free vehicle.  Am I right?",		"yes":"Why, yes!  Yes I would!"
+}}

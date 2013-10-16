@@ -1,14 +1,5 @@
-[
-'12':'prose_junk_sold',
-'11':'prose_no_buy_all',
-'10':'prose_no_all_sale',
-'9':'prose_sold_all_junk',
-'8':'sell_prompt',
-'7':'sell_title',
-'6':'mnu_sell_all_junk',
-'5':'mnu_sell_junk',
-'4':'convo_start',
-'3':'prose_no_buy',
-'2':'prose_no_sale',
-'1':'prose_sold_junk',
-]
+{
+	"stfFile":"junk_dealer",
+	"entries": {
+		"prose_junk_sold":"%TT is already in the process of being sold...",		"prose_no_buy_all":"%TT does not seem interested in buying any of your junk.",		"prose_no_all_sale":"%TT is unable to purchase all of your junk and declines the transaction.",		"prose_sold_all_junk":"You sell all of your junk to %TT for %DI credits.",		"sell_prompt":"Select the item you wish to sell to this junk dealer.",		"sell_title":"Sell Junk",		"mnu_sell_all_junk":"Sell All Junk",		"mnu_sell_junk":"Sell Junk",		"convo_start":"If you have any items you wish to sell, just hand them to me and I'll give you credits... if I am interested.",		"prose_no_buy":"%TU shows no interest in purchasing %TT.",		"prose_no_sale":"%TU cannot buy %TT from you, at this time.",		"prose_sold_junk":"You sell %TT for %DI credits."
+}}

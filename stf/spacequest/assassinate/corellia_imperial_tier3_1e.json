@@ -1,23 +1,5 @@
-[
-'21':'title_d',
-'20':'title',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_tier3_1e",
+	"entries": {
+		"title_d":"",		"title":"Assasinate Rebel Contact",		"split_quest_alert":"",		"quest_update":"%TO",		"quest_target_t":"",		"quest_target_d":"",		"quest_location_t":"",		"quest_location_d":"",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"The target has escaped, you fail.",		"escort_wiped_out":"The escort has been destroyed, proceed to primary objective.",		"escort_remaining":"An escorting craft has been destroyed, %DI remain.",		"destroy_escort":"Primary objective has been destroyed, proceed with escort.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"The target and escort has been destroyed, mission is a success.",		"arrival_phase_2":"The target and escort has arrived, updating waypoint.",		"arrival_phase_1":"The target will arive soon, stand by for waypoint."
+}}

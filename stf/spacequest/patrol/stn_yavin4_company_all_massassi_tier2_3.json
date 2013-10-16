@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/stn_yavin4_company_all_massassi_tier2_3",
+	"entries": {
+		"title_d":"Your scanners is picking up the trail of a damaged fighter. It is probably one of the fighters that was attacking the mining convoy. Follow the trail and investigate this damaged fighter.",		"title":"Yavin System: Follow the Damaged Fighter",		"split_quest_alert_fail":"",		"split_quest_alert":"The damaged vessel is directly ahead. Prepare to intercept and inspect that fighter. \#FF0000 WARNING!\#FF0000 Enemy fighters detected on an interception course. Defeat the enemy fighters.",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Follow the Trail",		"quest_patrol_d":"Follow the trail until you can locate the damaged fighter.",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The fighter is still inside of the Yavin system.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

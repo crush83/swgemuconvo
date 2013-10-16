@@ -1,21 +1,5 @@
-[
-'31':'player_3_2',
-'30':'player_3_1',
-'29':'npc_4_2',
-'28':'npc_4_1',
-'27':'player_2_2',
-'26':'player_1_2',
-'25':'npc_reward_2',
-'24':'npc_3_2',
-'23':'npc_2_2',
-'22':'npc_1_2',
-'21':'player_2_1',
-'20':'player_1_1',
-'19':'npc_reward_1',
-'18':'npc_3_1',
-'17':'npc_2_1',
-'16':'npc_1_1',
-'9':'not_it',
-'2':'cantwork',
-'1':'gotowork',
-]
+{
+	"stfFile":"npc_mission/static_businessman_destroy",
+	"entries": {
+		"player_3_2":"Why Twileks?",		"player_3_1":"Who does he work for?",		"npc_4_2":"I'm not sure.  Maybe he was jilted by one.  Or maybe he's just crazy.  Does the why really matter at this point?",		"npc_4_1":"I can't discuss it for legal reasons.",		"player_2_2":"Nah.  It's not my problem.",		"player_1_2":"I'll take care of it.  Someone has to.",		"npc_reward_2":"Here you go.  See I had good seats, and I didn't let them tear it.  You should be able to get something for it if you want.",		"npc_3_2":"That's too bad.  I'll find somebody useful.",		"npc_2_2":"Great!  Hurry back.",		"npc_1_2":"There's a madman claiming to be a business executive killing young Twilek women on this planet.  I know where he is, but the police won't listen to me.  I'll pay you myself if you'll take care of this.",		"player_2_1":"There's no way.  Sounds dangerous.",		"player_1_1":"I'll be back before you know it.",		"npc_reward_1":"Here you go.  It needs some ink, but you'll never have one better.",		"npc_3_1":"Surely somebody will be able to help me.  Thanks for nothing, though.",		"npc_2_1":"Thank you...I'll be waiting anxiously for your return.",		"npc_1_1":"An industrial spy has decided that the best way to help his company is by becoming a murderer and killing our top executives.  I want this guy eliminated, and I don't care to know the details.  Up for this?",		"not_it":"No, sorry, that's not the item I was looking for...",		"cantwork":"I understand you're already working for someone else.  Come back when you're done with that job.",		"gotowork":"I need you to finish that task I gave you earlier.  Ok?"
+}}

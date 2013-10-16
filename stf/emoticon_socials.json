@@ -1,34 +1,59 @@
-[
-'46':'nod',
-'45':'shake',
-'44':'love',
-'43':'shush',
-'42':'nausea',
-'41':'snore',
-'40':'curse',
-'39':'steam',
-'37':'laugh',
-'35':'groan',
-'34':'rose',
-'33':'blush',
-'32':'eyebrow',
-'31':'ponder',
-'29':'eek',
-'28':'drool',
-'27':'snarl',
-'16':'cry',
-'15':'smirk',
-'14':'raspberry',
-'13':'tongue',
-'12':'halo',
-'11':'gape',
-'10':'surprised',
-'9':'kiss',
-'8':'fume',
-'7':'evilgrin',
-'6':'grin',
-'4':'frown',
-'3':'wink',
-'2':'beam',
-'1':'smile',
-]
+{
+	"stfFile":"emoticon_socials",
+	"entries": {
+		"nod":"(Y)",		"shake":"(N)",		"love":"(L)",		"shush":":$
+:-$",		"nausea":":&
+:-&
+(&)",		"snore":"|)
+|-)",		"curse":">:O
+>:o",		"steam":"x(
+X(
+:@",		"laugh":":))",		"groan":":/
+=/",		"rose":"-<@
+@>-
+@};-
+(F)",		"blush":"*^_^*
+*o_o*
+*O_O*
+:")",		"eyebrow":"-_^
+^_-
+o_^
+^_o
+O_^
+^_O
+:\
+=\",		"ponder":".oO",		"eek":"8o",		"drool":":o~
+:O~",		"snarl":":[
+=[",		"cry":":((
+:'(
+:,(
+='(
+=,(",		"smirk":":|
+=|",		"raspberry":":P~
+:p~
+:b~
+=P~
+=p~
+=b~",		"tongue":":P
+:p
+:b
+=P
+=p
+=b",		"halo":"o:)
+O:)
+o=)
+O=)
+(a)
+(A)",		"gape":":O
+=O",		"surprised":":o
+=o",		"kiss":":x
+:X
+:*",		"fume":">:(
+>=(",		"evilgrin":">:)
+>=)
+(6)",		"grin":":>
+=>",		"frown":":(
+=(",		"wink":";)",		"beam":":D
+=D",		"smile":":)
+=)"
+}}

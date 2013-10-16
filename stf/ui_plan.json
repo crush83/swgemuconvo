@@ -1,4 +1,5 @@
-[
-'2':'search',
-'1':'label_search',
-]
+{
+	"stfFile":"ui_plan",
+	"entries": {
+		"search":"Search",		"label_search":"Label Search"
+}}

@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/tatooine_imperial_2",
+	"entries": {
+		"title_d":"With it's lucrative shipping routes and small police force the Tatooine system has become ripe with pirate activity. If the Empire wants any chance at gaining a serious foot hold on Outer Rim worlds the pirates of those sectors must be eliminated. The Commerce Raider's numbers are growning constantly and it is time for them to be culled. Imperial command has supplied you with several navigation waypoints to areas of high pirate activity. When you complete this mission, return to Lt. Akal Colzet in the Imperial Pilot's Association Hall next to the Bestine Capital building for your next assignment.",		"title":"Tatooine System: Seek and Destroy Four Commerce Raiders",		"split_quest_alert_fail":"",		"split_quest_alert":"Failure is not an option! You are still expected to kill four Commerce Raiders.",		"quest_location_t":"Travel to the Tatooine System",		"quest_location_d":"The Commerce Raiders operate in the Tatooine system attacking it's rich shipping lanes and then selling the cargo to one of Tatooines many criminal overlords, such as Jabba the Hutt. Imperial command has supplied you with several navigation waypoints to areas of high pirate activity.",		"quest_destroy_t":"Destroy the Commerce Raiders",		"quest_destroy_d":"The Empire realizes that the war against these pirates will not be won in a single battle. Instead they just want you to control the numbers of pirates in the region. Seek and destroy four commerce raiders in the Tatooine sector.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

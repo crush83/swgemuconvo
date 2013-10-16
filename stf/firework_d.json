@@ -1,17 +1,5 @@
-[
-'15':'firework_s18',
-'14':'firework_s11',
-'13':'firework_s10',
-'12':'firework_s05',
-'11':'firework_s04',
-'10':'firework_s03',
-'9':'firework_s02',
-'8':'firework_s01',
-'7':'firework_five',
-'6':'firework_four',
-'5':'firework_three',
-'4':'firework_two',
-'3':'firework_one',
-'2':'show',
-'1':'base',
-]
+{
+	"stfFile":"firework_d",
+	"entries": {
+		"firework_s18":"A type 18 air-bursting firework device.",		"firework_s11":"A 11 eleven air-bursting firework device.",		"firework_s10":"A type 10 air-bursting firework device.",		"firework_s05":"A type 5 air-bursting firework device.",		"firework_s04":"A type 4 air-bursting firework device.",		"firework_s03":"A type 3 air-bursting firework device.",		"firework_s02":"A type 2 air-bursting firework device.",		"firework_s01":"A type 1 air-bursting firework device.",		"firework_five":"A type 5 air-bursting firework device.",		"firework_four":"A type 4 air-bursting firework device.",		"firework_three":"A type 3 air-bursting firework device.",		"firework_two":"A type 2 air-bursting firework device.",		"firework_one":"A type 1 air-bursting firework device.",		"show":"A package for creating firework displays. Once created, a choreographed show may be used to provide dazzling visual entertainment.",		"base":"Firework"
+}}

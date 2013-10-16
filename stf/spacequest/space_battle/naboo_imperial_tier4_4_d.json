@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_imperial_tier4_4_d",
+	"entries": {
+		"title_d":"The Coynite have attacked the 701st TIE wing over Dathomir. That TIE defense force is highly important for the security of the Dathomir system and must be keep alive. Assist the 701st in its defense against the Coynite.",		"title":"Dathomir System: Battle the Coynite Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"The attack is taking place in the Dathomir system. A navigaiton waypoint will be supplied to you.",		"quest_helpallies_t":"Help the 701st Defeat the Coynite",		"quest_helpallies_d":"You must destroy all the enemy attacking vessels before they can destroy the remaining TIEs in the 701st.",		"quest_findbattle_t":"Travel to Battle Location",		"quest_findbattle_d":"Meet the 701st at the supplied navigation waypoint and wait for the arrival of the enemy.",		"found_loc":"We have located the squadron. Travel immediately to their location and assist them in the destruction of the enemy. Keep the 701st alive, they are essential to the protection of the Dathomir sector.",		"enemies_win":"TIE 701st wing has been destroyed. Thier destuction means loss of control in system. Report to your superior immediately.",		"enemies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI enemy fighters remaining.>",		"enemies_arrived":"Enemy fighters assembled.",		"battle_started":"Warning! TIE 701st wing engaging enemy. Highly outnumbered.",		"battle_abandoned":"You left the 701st alone! They will not stand much of chance against the superior force. Report your failure to your commander.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Enemy fighters have been eliminated. Scans indicate last few remaining Coynite vessels fleeing the system.",		"allies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI allied fighters remaining.>",		"allies_arrived":"TIE 701st wing assembled.",		"Quest Log Data":"Text"
+}}

@@ -1,22 +1,5 @@
-[
-'111':'death5',
-'110':'death4',
-'109':'death3',
-'108':'death2',
-'107':'death1',
-'106':'entercombat5',
-'105':'entercombat4',
-'104':'entercombat3',
-'103':'entercombat2',
-'102':'entercombat1',
-'101':'hityou5',
-'100':'hityou4',
-'99':'hityou3',
-'98':'hityou2',
-'97':'hityou1',
-'96':'gothit5',
-'95':'gothit4',
-'94':'gothit3',
-'93':'gothit2',
-'92':'gothit1',
-]
+{
+	"stfFile":"space/taunts/hutt",
+	"entries": {
+		"death5":"%NU, your day will come!",		"death4":"You'll pay for this, %NU!  With your life!",		"death3":"Jabba will get you for this, %NU!",		"death2":"Argh!!! You got me, %NU.",		"death1":"Nooooo!",		"entercombat5":"Let's see how you fare against a Hutt pilot!",		"entercombat4":"You're no match for a Hutt Pilot, %NU!",		"entercombat3":"%TU, you are mine!",		"entercombat2":"HA!  So I get to destroy the infamous %TU.",		"entercombat1":"Fool!  I work for the Hutts!  We know where you live, %TU!",		"hityou5":"Goodbye!  Nice try!  Now it's time for you to die!",		"hityou4":"GOTCHA, %NU!  Hoohaha!",		"hityou3":"I'll get a bonus for killing the infamous %TU!  And here it comes!",		"hityou2":"%NU, you can't take much more of this!",		"hityou1":"You're going down!",		"gothit5":"Luck!  That was pure luck, %NU!",		"gothit4":"Hey!  %TU, I'll get that repaired as soon as I deal with you.",		"gothit3":"So this is how it's gonna be, huh?",		"gothit2":"%TU!  You will regret that!",		"gothit1":"You are strong, %NU, but I am better than you!"
+}}

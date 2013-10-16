@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_station_mission3_1",
+	"entries": {
+		"title_d":"Intelligence shows that a Cloak agent will be picking up leaked CorSec information in the Corellia system. CorSec command wants you to destroy the agent and intercept the drop-off.",		"title":"Corellia System: Destroy the Cloak Agent",		"split_quest_alert_fail":"",		"split_quest_alert":"Phase one complete. Begin mission phase two.",		"quest_update":"\#pcontrast1 CorSec Command: <\#pcontrast3  %TO\#pcontrast1  >",		"quest_target_t":"Destroy the Cloak Agent",		"quest_target_d":"You must destroy the Cloak agent before he realizes that we are hunting him and leaves the system.",		"quest_location_t":"Travel to the Corellia System.",		"quest_location_d":"Travel to the Corellia system. Once there, CorSec command will identify the Cloak agent and send you coordinates to his location via a navigation waypoint.",		"quest_escort_t":"Destroy the Agent's Escort",		"quest_escort_d":"There must be no suvivors to report back about what we are doing. You must also eliminate any escort that is traveling with the Cloak agent.",		"failed_escape":"That's no good, pilot. The agent found us out and called off the delivery. Come back to the station for debriefing.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Secondary target destroyed. Escort wing eliminated.\#pcontrast1 >",		"escort_remaining":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Secondary target destroyed. %DI escort ship(s) remaining.\#pcontrast1 >",		"destroy_escort":"Good work, pilot. Primary target destroyed. Now eliminate the escort wing.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Copy that. Destruction of primary and secondary targets confirmed.",		"arrival_phase_2":"Cloak vessel found. Intercept and destroy the agent and his escort.",		"arrival_phase_1":"Deep scanning for Cloak agent signature. Stand by for coordinates."
+}}

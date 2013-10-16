@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/yavin_rebel_9",
+	"entries": {
+		"title_d":"Hutt ships have been an increasing threat in the Yavin system. Show them not to mess with the Rebel Alliance.",		"title":"Yavin system: Duty mission: Cripple Hutt activity in sector.",		"taunt_5":"You can run but you can't hide little Rebel!",		"taunt_4":"I want his helmet guys!",		"taunt_3":"The hunter becomes the hunted!",		"taunt_2":"You were foolish coming here Rebel, you're no match for us!",		"taunt_1":"Finally some action!",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"quest_location_t":"Yavin 4 system.",		"quest_location_d":"Travel to the Yavin 4 system for further orders.",		"quest_destroy_t":"Location of Hutt activity.",		"quest_destroy_d":"Proceed to these coordinates and terminate any Hutt pirates found.",		"level_increase":"We've detected that more Hutt ships have been sent into the sector.",		"level_boss_dead":"Good work, the gunship has been destroyed. We're still picking up Hutt activity, however. Stand by...",		"level_boss":"Rebel Command: < Stay alert, pilot! Hutt Gunships coming your way... >",		"found_loc":"We are uploading coordinates of suspected Hutt ambushes. Investigate and eliminate all hostiles immedaitely.",		"duty_update":"Rebel Command: < %TO >",		"dd_boss_taunt_5":"Your silly crusade ends here Rebel!",		"dd_boss_taunt_4":"A thousand creds to the man who takes him out!",		"dd_boss_taunt_3":"I'm going to enjoy spacing you.",		"dd_boss_taunt_2":"If you cut your engines, I promise not to harm you.",		"dd_boss_taunt_1":"You killed my men. Now you're mine!",		"complete":"Excellent work, Pilot! The Hutt presence in this sector has been soundly beaten. Return to base!",		"boss_title_5":"Hutt Dark Gunship",		"boss_title_4":"Hutt Obsidian Gunship",		"boss_title_3":"Hutt Stealth Gunship",		"boss_title_2":"Hutt Black Star Gunship",		"boss_title_1":"Hutt Gunship",		"boss_detected":"Rebel Command: < Warning! Enemy commander detected on attack vector! >"
+}}

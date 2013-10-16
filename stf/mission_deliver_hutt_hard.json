@@ -1,7 +1,5 @@
-[
-'5':'deliver_hutt_hard_2',
-'4':'deliver_hutt_hard_3',
-'3':'deliver_hutt_hard_4',
-'2':'deliver_hutt_hard_1',
-'1':'deliver_hutt_hard_5',
-]
+{
+	"stfFile":"mission_deliver_hutt_hard",
+	"entries": {
+		"deliver_hutt_hard_2":"Due to a death threat against one of our agents all pertinent items to their mission are being re-routed.  We want you to pick up a package and deliver it immediately.",		"deliver_hutt_hard_3":"An important package needs to get to the proper individuals in order for a job that is happening imminently.  Get the package from the agent in charge and make the delivery to the field team.",		"deliver_hutt_hard_4":"Jabba himself is aware of this package and it's importance to the scope of our operations on this planet.  If you fail to make this delivery don't bother showing your face on Tatooine for a while.",		"deliver_hutt_hard_1":"One of our infiltrators in the Imperial Military has something he needs delivered.  You will be met incognito by the informant or one of his agents and given the package to deliver.  Make sure you're not followed by Imperials or Alliance agents, who may also want the package.",		"deliver_hutt_hard_5":"Due to the increased number of bounty hunters looking for one of our agents the delivery schedule has had to be altered.  Go get the package so the agent can disappear, and make sure it reaches it's destination."
+}}

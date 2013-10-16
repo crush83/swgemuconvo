@@ -1,7 +1,5 @@
-[
-'5':'destroy_imp_hard_creature_5',
-'4':'destroy_imp_hard_creature_4',
-'3':'destroy_imp_hard_creature_3',
-'2':'destroy_imp_hard_creature_2',
-'1':'destroy_imp_hard_creature_1',
-]
+{
+	"stfFile":"mission_destroy_imp_hard_creature",
+	"entries": {
+		"destroy_imp_hard_creature_5":"A deadly animal has been terrorizing this sector, causing problems with stormtroopers who are doing routine drills.  Eliminate the beast so our soldiers can get back to training.",		"destroy_imp_hard_creature_4":"Our sources tell us that a group of rebel spies has led a dangerous creature to this area in order to disrupt our operations.  Eliminate this creature with extreme prejudice.",		"destroy_imp_hard_creature_3":"A large predator is terrorizing the loyal imperial citizens who live and work around this area.  We want you to destroy this creature immediately in order to keep our people safe.",		"destroy_imp_hard_creature_2":"Something destroyed a power generator at this location.  Our investigators tell us it wasn't an explosive device, and rebel activity in the area has been limited.  We suspect something large and hungry has decided to try our generators as an alternative food source.  We want you to eliminate this threat.",		"destroy_imp_hard_creature_1":"A scout patrol has disappeared in this area and hasn't checked in for some time.  We fear the worst.  Our intelligence indicates there aren't any rebel patrols in the area, so it must be something else."
+}}

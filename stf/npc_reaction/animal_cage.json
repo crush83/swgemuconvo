@@ -1,3 +1,5 @@
-[
-'1':'animal_cage',
-]
+{
+	"stfFile":"npc_reaction/animal_cage",
+	"entries": {
+		"animal_cage":"Thank you.  This is all I have to offer..."
+}}

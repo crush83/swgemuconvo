@@ -1,7 +1,5 @@
-[
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/kais",
+	"entries": {
+		"npc_3":"We are the Sisters of the Night!",		"npc_2":"Good!",		"player_2":"Who are you?",		"player_1":"Sorry, I'll go.",		"npc_1":"You are not one of us..."
+}}

@@ -1,153 +1,51 @@
-[
-'159':'phase1_msg_schematic_already_loaded',
-'158':'tracking_device_target_updated',
-'157':'crafting4_core_destroyed_over',
-'156':'crafting4_kit_destroyed_over',
-'155':'crafting4_tracking_device_destroyed_over',
-'154':'crafting4_tracking_device_destroyed',
-'152':'crafting4_kit_destroyed',
-'148':'crafting4_core_destroyed',
-'147':'crafting4_core_cancel_button',
-'142':'crafting4_phase_change_title',
-'141':'crafting4_phase_over',
-'140':'phase1_msg_dont_have_component',
-'139':'phase1_status_not_calibrated',
-'138':'phase1_status_damaged',
-'137':'phase1_status_operational',
-'136':'msg_cant_use_yet',
-'135':'name_access_terminal',
-'134':'phase1_msg_calibration_aborted',
-'133':'tracking_device_not_on_quest',
-'132':'phase1_msg_comp_installed',
-'131':'crafting4_core_current_no_testing',
-'130':'crafting4_core_current_status_11',
-'129':'crafting4_core_current_status_07',
-'128':'crafting4_core_current_status_02',
-'127':'crafting4_core_current_status_05',
-'126':'crafting4_core_current_status_04',
-'125':'crafting4_core_current_status_03',
-'124':'crafting4_core_current_status_01',
-'123':'crafting4_core_completed_status',
-'122':'crafting4_core_current_result',
-'121':'crafting4_core_current_status_10',
-'120':'crafting4_core_current_status_09',
-'119':'crafting4_core_current_status_08',
-'118':'crafting4_core_current_status_06',
-'117':'crafting4_core_ruined',
-'116':'crafting4_core_integrity',
-'115':'crafting4_core_flickering',
-'114':'crafting4_core_indicators_lit',
-'113':'crafting4_core_completed',
-'112':'crafting4_core_close_button',
-'111':'crafting4_core_msgbox_title',
-'110':'crafting4_core_no_selection_made',
-'109':'crafting4_core_a_yellow_wire',
-'108':'crafting4_core_a_blue_wire',
-'107':'crafting4_core_a_red_wire',
-'106':'crafting4_core_nothing',
-'105':'crafting4_core_connection_four_set',
-'104':'crafting4_core_connection_three_set',
-'103':'crafting4_core_connection_two_set',
-'102':'crafting4_core_connection_one_set',
-'101':'crafting4_core_set_connection_four',
-'100':'crafting4_core_set_connection_three',
-'99':'crafting4_core_set_connection_two',
-'98':'crafting4_core_set_connection_one',
-'97':'crafting4_core_menu_four_yellow',
-'96':'crafting4_core_menu_four_nothing',
-'95':'crafting4_core_menu_four_blue',
-'94':'crafting4_core_menu_four_red',
-'93':'crafting4_core_menu_three_yellow',
-'92':'crafting4_core_menu_three_blue',
-'91':'crafting4_core_menu_three_nothing',
-'90':'crafting4_core_menu_three_red',
-'89':'crafting4_core_menu_two_yellow',
-'88':'crafting4_core_menu_two_blue',
-'87':'crafting4_core_menu_two_red',
-'86':'crafting4_core_menu_two_nothing',
-'85':'crafting4_core_menu_one_yellow',
-'84':'crafting4_core_menu_one_blue',
-'83':'crafting4_core_menu_one_red',
-'82':'crafting4_core_menu_one_nothing',
-'81':'crafting4_core_error',
-'80':'crafting4_core_menu_test',
-'79':'crafting4_core_menu_status',
-'78':'crafting4_core_menu_configure',
-'77':'crafting4_core_config_help',
-'76':'tracking_data_cancel_button',
-'75':'tracking_data_purchase_data',
-'74':'tracking_data_msg',
-'73':'tracking_data_title',
-'72':'tracking_data_menu_obtain_data',
-'71':'crafting4_menu_modify_core',
-'70':'tracking_data_purchase_msg_03',
-'69':'tracking_data_purchase_msg_02',
-'68':'tracking_data_purchase_msg_01',
-'67':'tracking_data_no_money',
-'66':'inventory_full',
-'65':'crafting4_menu_core_received',
-'64':'crafting4_menu_retrieve_core',
-'63':'tracking_device_target_relocated',
-'62':'tracking_device_target_located',
-'61':'tracking_device_no_loc',
-'60':'tracking_device_wrong_planet',
-'59':'tracking_device_needs_data',
-'58':'tracking_device_menu_use',
-'57':'phase1_msg_quest_finished',
-'56':'phase1_msg_quest_fail_phase_done',
-'55':'sui_ssa_slider5',
-'54':'sui_ssa_slider4',
-'53':'sui_ssa_slider3',
-'52':'sui_ssa_slider2',
-'51':'sui_ssa_slider1',
-'50':'sui_ssa_description',
-'49':'sui_ssa_title',
-'48':'sui_amp_slider3',
-'47':'sui_amp_slider2',
-'46':'sui_amp_slider1',
-'45':'sui_amp_description',
-'44':'sui_amp_title',
-'43':'sui_gyro_slider3',
-'42':'sui_gyro_slider2',
-'41':'sui_gyro_slider1',
-'40':'sui_gyro_description',
-'39':'sui_gyro_title',
-'38':'sui_calibration_failure',
-'37':'sui_calibration_success',
-'36':'phase1_msg_component_replaced',
-'35':'sui_config_description',
-'34':'sui_config_title',
-'33':'sui_attempts_remaining',
-'32':'phase1_msg_cant_open_sui',
-'31':'sui_calibrator_no_comp',
-'30':'sui_calibrator_prompt',
-'29':'sui_calibrator_title',
-'28':'menu_use_calibrator',
-'27':'phase1_msg_schematic_loaded',
-'26':'menu_use_analyzer',
-'25':'sui_analyzer_no_schematic',
-'24':'sui_analyzer_no_comp',
-'23':'sui_analyzer_get_schematic',
-'22':'sui_analyzer_analyze_component',
-'21':'sui_analyzer_prompt2',
-'20':'sui_analyzer_prompt1',
-'19':'sui_analyzer_prompt0',
-'18':'sui_analyzer_title',
-'17':'phase1_msg_component_analyzed',
-'16':'phase1_msg_component_retrieved',
-'15':'phase1_msg_already_have_component',
-'14':'phase1_msg_inventory_full',
-'13':'phase1_msg_comp_not_installed',
-'12':'sui_access_terminal_operational',
-'11':'sui_access_terminal_damaged',
-'10':'sui_access_terminal_empty',
-'9':'sui_access_terminal_online',
-'8':'sui_access_terminal_offline',
-'7':'sui_access_terminal_prompt2',
-'6':'sui_access_terminal_prompt1',
-'5':'sui_access_terminal_prompt0',
-'4':'sui_access_terminal_title',
-'3':'sui_btn_replace',
-'2':'sui_btn_retrieve',
-'1':'menu_access_terminal',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_crafting",
+	"entries": {
+		"phase1_msg_schematic_already_loaded":"You already have a draft schematic for that component.",		"tracking_device_target_updated":"Tracking... Updated! The location of the fallen satellite has been updated and the waypoint to it's location has been corrected in your datapad.",		"crafting4_core_destroyed_over":"The computer core has been destroyed.The chief engineer at Aurilia has been killed. You will have to wait until a new chief engineer has been appointed before you will be able speak with him and then continue by seeking the rights to another downed satellite.",		"crafting4_kit_destroyed_over":"The tracking device loot kit has been destroyed. The chief engineer at Aurilia has been killed. You will have to wait until a new chief engineer has been appointed before you will be able speak with him and then continue by getting a new tracking device kit.",		"crafting4_tracking_device_destroyed_over":"The tracking device has been destroyed. The chief engineer at Aurilia has been killed. You will have to wait until a new chief engineer has been appointed before you will be able speak with him and then continue by getting a new tracking device kit.",		"crafting4_tracking_device_destroyed":"The tracking device has been destroyed. You will have to get another kit from a gadget specialist if you wish to complete your mission. ",		"crafting4_kit_destroyed":"The tracking device loot kit has been destroyed. You will have to get another one from a gadget specialist if you wish to complete your mission. ",		"crafting4_core_destroyed":"The computer core has been destroyed. You will have to get another one if you wish to complete your mission.",		"crafting4_core_cancel_button":"Cancel",		"crafting4_phase_change_title":"Incorrect Village Phase",		"crafting4_phase_over":"Unfortunately, you failed to get the replacement computer core to the village in time. 
+
+The Aurilia's chief engineer was killed during the final attack on the village, but it's possible the new chief engineer could put your replacement core to use. Once a new chief engineer has been appointed, that is.",		"phase1_msg_dont_have_component":"You don't currently have that component in your inventory.",		"phase1_status_not_calibrated":"Not Calibrated",		"phase1_status_damaged":"Damaged",		"phase1_status_operational":"Operational",		"msg_cant_use_yet":"You can see no reason to use this right now.",		"name_access_terminal":"Sensor Array Access Terminal",		"phase1_msg_calibration_aborted":"You have aborted the calibration process causing the component with which you were working to burn out. You will need to craft and calibrate a new component.",		"tracking_device_not_on_quest":"[Satellite Tracking Device Usage Error]: The tracking device has gone into dormant mode. It will not respond until re-authorized for use.",		"phase1_msg_comp_installed":"A component is already installed in that socket.",		"crafting4_core_current_no_testing":"
+
+There has not yet been an attempt to reconfigure this computer core.",		"crafting4_core_current_status_11":"
+
+",		"crafting4_core_current_status_07":"
+	Connection 1: ",		"crafting4_core_current_status_02":"
+	Connection 1: ",		"crafting4_core_current_status_05":"
+	Connection 4: ",		"crafting4_core_current_status_04":"
+	Connection 3: ",		"crafting4_core_current_status_03":"
+	Connection 2:",		"crafting4_core_current_status_01":"Current Configuration:",		"crafting4_core_completed_status":"This computer core has been successfully reconfigured.",		"crafting4_core_current_result":"Testing Result:
+",		"crafting4_core_current_status_10":"
+	Connection 4: ",		"crafting4_core_current_status_09":"
+	Connection 3: ",		"crafting4_core_current_status_08":"
+	Connection 2: ",		"crafting4_core_current_status_06":"
+
+Last Tested Configuration:",		"crafting4_core_ruined":"The circuitry of the computer core has sustained too much damage and is no longer able to be used. It will now self-destruct.",		"crafting4_core_integrity":"
+	Circuit Integrity: ",		"crafting4_core_flickering":"
+	Number of Indicators Flickering: ",		"crafting4_core_indicators_lit":"	Number of Indicators Lit: ",		"crafting4_core_completed":"All of the indicators are lit.
+
+The computer core has been correctly configured!",		"crafting4_core_close_button":"Close",		"crafting4_core_msgbox_title":"Reconfiguring the Computer Core",		"crafting4_core_no_selection_made":"You did not make a selection so no change was made.",		"crafting4_core_a_yellow_wire":"a yellow wire",		"crafting4_core_a_blue_wire":"a blue wire",		"crafting4_core_a_red_wire":"a red wire",		"crafting4_core_nothing":"unconnected",		"crafting4_core_connection_four_set":"Connection 4 has been connected to %TO.",		"crafting4_core_connection_three_set":"Connection 3 has been connected to %TO.",		"crafting4_core_connection_two_set":"Connection 2 has been connected to %TO.",		"crafting4_core_connection_one_set":"Connection 1 has been connected to %TO.",		"crafting4_core_set_connection_four":"Which wire would you like to connect to Connection 4?
+
+Current Setting: ",		"crafting4_core_set_connection_three":"Which wire would you like to connect to Connection 3?
+
+Current Setting: ",		"crafting4_core_set_connection_two":"Which wire would you like to connect to Connection 2?
+
+Current Setting: ",		"crafting4_core_set_connection_one":"Which wire would you like to connect to Connection 1?
+
+Current Setting: ",		"crafting4_core_menu_four_yellow":"Connection 4: yellow wire",		"crafting4_core_menu_four_nothing":"Connection 4: unconnected",		"crafting4_core_menu_four_blue":"Connection 4: blue wire",		"crafting4_core_menu_four_red":"Connection 4: red wire",		"crafting4_core_menu_three_yellow":"Connection 3: yellow wire",		"crafting4_core_menu_three_blue":"Connection 3: blue wire",		"crafting4_core_menu_three_nothing":"Connection 3: unconnected",		"crafting4_core_menu_three_red":"Connection 3: red wire",		"crafting4_core_menu_two_yellow":"Connection 2: yellow wire",		"crafting4_core_menu_two_blue":"Connection 2: blue wire",		"crafting4_core_menu_two_red":"Connection 2: red wire",		"crafting4_core_menu_two_nothing":"Connection 2: unconnected",		"crafting4_core_menu_one_yellow":"Connection 1: yellow wire",		"crafting4_core_menu_one_blue":"Connection 1: blue wire",		"crafting4_core_menu_one_red":"Connection 1: red wire",		"crafting4_core_menu_one_nothing":"Connection 1: unconnected",		"crafting4_core_error":"Unknown",		"crafting4_core_menu_test":"Test Configuration",		"crafting4_core_menu_status":"Current Status",		"crafting4_core_menu_configure":"Reconfigure Interface",		"crafting4_core_config_help":"To reconfigure this computer core to work with your array of computers, you will need to rewire its modular interface. When properly reconfigured, the four indicators on the core's interface will light up.
+
+To reconfigure the core, you will need to connect four wires in the proper order to contacts on the core. There are red wires, yellow wires, and blue wires.  Each color set of of wires connects to a different power source, and any combination of the wires may be used to reconfigure the computer core. 
+
+When you have the wires configured the way you desire, you may test the configuration to see if it is correct. For each wire that is connected to the correct contact, one of the four indicators will be lit. If the correct type of wire is used but is connected to the wrong contact, then one of the indicators will flicker. You can use this feedback to determine the final configuration of the interface for the new computer core.
+
+Be careful though... each time you test your configuration, power is sent through the core.  An incomplete configuration can damage the core. This is reported as 'Circuit Integrity' which gives the percentage chance that the core is still viable. Be sure to keep an eye on this value. On average, a core can survive 6 - 7 attempts without sigificant damage, but beyond that you risk frying the computer core's circuits and rendering it useless.",		"tracking_data_cancel_button":"Cancel",		"tracking_data_purchase_data":"Purchase Data",		"tracking_data_msg":"Would you like to purchase the rights to a fallen and abandoned satellite for purposes of salvage?
+
+If so, for 1100 credits I can access the  CSD, or Central Satellite Database, obtain the satellite data, and process the transaction for you.",		"tracking_data_title":"Purchasing Satellite Tracking Data",		"tracking_data_menu_obtain_data":"Obtain Satellite Data",		"crafting4_menu_modify_core":"Modify Core Interface",		"tracking_data_purchase_msg_03":"Search successful. Abandoned satellite data uploaded to satellite tracking device.",		"tracking_data_purchase_msg_02":"Connection established. Searching for abandoned satellites...",		"tracking_data_purchase_msg_01":"Purchase confirmed. Accessing CSD (Central Satellite Database)...",		"tracking_data_no_money":"You do not have enough credits available for this transaction.",		"inventory_full":"There is no room in your inventory for another item. Please clear some space and then try again.",		"crafting4_menu_core_received":"You have successfully extracted the satellite's computer core and placed it into your inventory.",		"crafting4_menu_retrieve_core":"Retrieve Computer Core",		"tracking_device_target_relocated":"Tracking... successful! The location of the fallen satellite has been confirmed. A waypoint to it's location has been uploaded to your datapad.",		"tracking_device_target_located":"Tracking... successful! The fallen satellite has been located and a waypoint to it's location has been uploaded to your datapad.",		"tracking_device_no_loc":"[Satellite Tracking Device Tracking Error]: Unable to pinpoint target satellite. Please move to a new location and try again.",		"tracking_device_wrong_planet":"Tracking... successful! The fallen satellite has been located on the following planet: %TO",		"tracking_device_needs_data":"[Satellite Tracking Device Data Error]: You must upload tracking data for a downed satellite. Such data may be acquired from any starport ticket droid.",		"tracking_device_menu_use":"Activate Tracking Device",		"phase1_msg_quest_finished":"You have successfully repaired the sensor array! You feel your mind open itself to the potential secrets of experimentation.",		"phase1_msg_quest_fail_phase_done":"You have failed to repair Aurilia's sensor array in a timely manner. The equipment has been presumed destroyed.",		"sui_ssa_slider5":"Element Five Alignment",		"sui_ssa_slider4":"Element Four Alignment",		"sui_ssa_slider3":"Element Three Alignment",		"sui_ssa_slider2":"Element Two Alignment",		"sui_ssa_slider1":"Element One Alignment",		"sui_ssa_description":"Use the sliders on the right to adjust the solid state devices (represented by the horizontal bars) so that they are aligned around the transmission bus (vertical line). Changes made to the sliders will not be reflected in real-time. You must press the "OK" button in order to view your changes.
+
+Calibration will have a detrimental effect on the integrity of a component. If the integrity of a component reaches 0%, or if the calibration process is interrupted before completion, the component will be rendered useless and a new one must be crafted and calibrated.",		"sui_ssa_title":"Solid State Array",		"sui_amp_slider3":"Post-amp Tuning",		"sui_amp_slider2":"Amplification",		"sui_amp_slider1":"Pre-amp Boost",		"sui_amp_description":"Use the sliders on the right to adjust the frequency amplification so that the component output (top graph) matches the expected output (bottom graph). Changes made to the sliders will not be reflected in real-time. You must press the "OK" button in order to view your changes.
+
+Calibration will have a detrimental effect on the integrity of a component. If the integrity of a component reaches 0%, or if the calibration process is interrupted before completion, the component will be rendered useless and a new one must be crafted and calibrated.",		"sui_amp_title":"Signal Amplifier",		"sui_gyro_slider3":"Vertical Resolution",		"sui_gyro_slider2":"Latitude Resolution",		"sui_gyro_slider1":"Longitude Resolution",		"sui_gyro_description":"Use the sliders on the right to adjust the geographical resolution so that the component parameters (top shades) match the expected parameters (bottom shades). Changes made to the sliders will not be reflected in real-time. You must press the "OK" button in order to view your changes.
+
+Calibration will have a detrimental effect on the integrity of a component. If the integrity of a component reaches 0%, or if the calibration process is interrupted before completion, the component will be rendered useless and a new one must be crafted and calibrated.",		"sui_gyro_title":"Gyroscopic Receiver",		"sui_calibration_failure":"Calibration of this component was not complete due to integrity failure. Further calibration of this item is not possible. Please insert a new component to continue.",		"sui_calibration_success":"This component has been successfully calibrated and is operating within acceptable parameters.",		"phase1_msg_component_replaced":"You have replaced a component into its socket in the sensor array.",		"sui_config_description":"Press the small triangular buttons to adjust the configuration setting so that the component configuration (top pattern) matches the expected configuration (bottom pattern). Pressing a button will toggle its illumination state, as well as the state of two other buttons.
+
+Calibration will have a detrimental effect on the integrity of a component. If the integrity of a component reaches 0%, or if the calibration process is interrupted before completion, the component will be rendered useless and a new one must be crafted and calibrated.",		"sui_config_title":"Configuration Processor",		"sui_attempts_remaining":"Integrity:",		"phase1_msg_cant_open_sui":"You are too busy to do that now.",		"sui_calibrator_no_comp":"You do not currently  have any items that are able to be used in the multi-phase calibrator.",		"sui_calibrator_prompt":"Choose an item to use in the multi-phase calibrator.",		"sui_calibrator_title":"Multi-phase Calibrator",		"menu_use_calibrator":"Use Calibrator",		"phase1_msg_schematic_loaded":"You have loaded a draft schematic from the recursive analyzer into your datapad.",		"menu_use_analyzer":"Use Analyzer",		"sui_analyzer_no_schematic":"The recursive analyzer does not currently  have any schematics loaded into its memory.",		"sui_analyzer_no_comp":"You do not currently have any components that are able to be used with the recursive analyzer.",		"sui_analyzer_get_schematic":"Load Schematic from Memory",		"sui_analyzer_analyze_component":"Deconstruct a Component",		"sui_analyzer_prompt2":"Please choose a draft schematic to load:",		"sui_analyzer_prompt1":"Please choose a component to place inside the recursive analyzer:",		"sui_analyzer_prompt0":"Please choose if you would like to deconstruct and create a draft schematic from a component in your inventory, or if you would like to load an existing draft schematic from memory:",		"sui_analyzer_title":"Recursive Analyzer",		"phase1_msg_component_analyzed":"The recursive analyzer deconstructs the component and loads a draft schematic into your datapad. The schematic will now remain resident in the analyzer memory. If you need to access another schematic, simply use the analyzer again.",		"phase1_msg_component_retrieved":"You have successfully retrieved a component from the sensor array.",		"phase1_msg_already_have_component":"You already have that component in your possession.",		"phase1_msg_inventory_full":"Your inventory is currently full. Please clear some space and try again.",		"phase1_msg_comp_not_installed":"COMPONENT NOT FOUND: That component is not currently installed and is unable to be retrieved.",		"sui_access_terminal_operational":"(COMPONENT OPERATIONAL)",		"sui_access_terminal_damaged":"<COMPONENT DAMAGED>",		"sui_access_terminal_empty":"[COMPONENT NOT FOUND]",		"sui_access_terminal_online":"ONLINE",		"sui_access_terminal_offline":"OFFLINE",		"sui_access_terminal_prompt2":"Diagnostic report follows...",		"sui_access_terminal_prompt1":"Sensor array status:",		"sui_access_terminal_prompt0":"Press 'Retrieve' to retrieve a component from its socket.
+Press 'Replace' to replace a component into its socket.",		"sui_access_terminal_title":"Sensor Array - Access Terminal",		"sui_btn_replace":"Replace",		"sui_btn_retrieve":"Retrieve",		"menu_access_terminal":"Access Terminal"
+}}

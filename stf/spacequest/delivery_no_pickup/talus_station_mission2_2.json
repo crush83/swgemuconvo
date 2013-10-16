@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_rendezvous2_t',
-'17':'quest_rendezvous2_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_dock2_t',
-'13':'quest_dock2_d',
-'12':'hello_d',
-'11':'found_loc_d',
-'10':'failed_destroyed',
-'9':'docking_started_delivery',
-'8':'docking_complete_delivery',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_delivery',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/talus_station_mission2_2",
+	"entries": {
+		"title_d":"Since you are now carrying the freighter's cargo, you must make the last delivery on it's route to naboo.",		"title":"Naboo System: Deliver the Freighter Cargo",		"split_quest_alert_fail":"",		"split_quest_alert":"Stand by for next assignment.",		"quest_update":"Talus Station: < %TO >",		"quest_rendezvous2_t":"Meet With the Pick-up Ship",		"quest_rendezvous2_d":"Travel to the specified location and await the arrival of the pick-up ship.",		"quest_location_t":"Tavel to the Naboo System",		"quest_location_d":"Hyperspace to the Naboo system.",		"quest_dock2_t":"Dock With the Pick-up Ship",		"quest_dock2_d":"Move in close to the pick-up ship and use the /dock command to transfer the cargo.",		"hello_d":"Oh... what? We were expecting a Talus freighter. Oh well, if you've got the supplies go ahead and dock when ready.",		"found_loc_d":"We're transmitting the delivery location from the freighter to you. Meet the drop-off ship here and deliver the cargo.",		"failed_destroyed":"That didn't work exactly the way that we planned. We're scrapping the rest of your assignments. Return to the station if you want to try again.",		"docking_started_delivery":"Accepting your request for dock, pilot.",		"docking_complete_delivery":"Docking completed. Everything looks in order here. See you around.",		"autorewardsubject":"Compensation for Services Rendered",		"autorewardfrom":"Talus Station Command: Dept. 4S",		"autorewardbody":"You have been paid 4000 credits for services rendered to the Talus Space Station.",		"attack_stopped":"Tactical Computer: < Enemy threat neutralized. >",		"attack_notify":"Tactical Computer: < Warning. Enemy craft inbound. Imperial signatures detected. >",		"assigned_delayed":"",		"arrived_at_delivery":"Stay here until the pickup ship arrives."
+}}

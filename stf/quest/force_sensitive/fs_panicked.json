@@ -1,22 +1,5 @@
-[
-'20':'fs_response20',
-'19':'fs_response19',
-'18':'fs_response18',
-'17':'fs_response17',
-'16':'fs_response16',
-'15':'fs_response15',
-'14':'fs_response14',
-'13':'fs_response13',
-'12':'fs_response12',
-'11':'fs_response11',
-'10':'fs_response10',
-'9':'fs_response09',
-'8':'fs_response08',
-'7':'fs_response07',
-'6':'fs_response06',
-'5':'fs_response05',
-'4':'fs_response04',
-'3':'fs_response03',
-'2':'fs_response02',
-'1':'fs_response01',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_panicked",
+	"entries": {
+		"fs_response20":"I've never seen so much blood! Oh, it's horrible!",		"fs_response19":"Are they all gone? How do we know!? They could still be here!",		"fs_response18":"It's useless! How can we fight them? We should just surrender.",		"fs_response17":"Where is Seropf? SEROPF!? Where are you!? I have to find him!",		"fs_response16":"They destroyed everything! Those beasts!",		"fs_response15":"Oh, the carnage! So many dead.",		"fs_response14":"Please... no more! I can't take it anymore!",		"fs_response13":"Where are my children? Has anyone seen my children?",		"fs_response12":"What do they want? We're just farmers.",		"fs_response11":"What did we do to deserve this?",		"fs_response10":"The leader was a sorcerer! I saw him shoot lightning from his finger tips!",		"fs_response09":"They blew through the defenses like they weren't even there!",		"fs_response08":"They said they were Sith. Sith! We're all going to die!",		"fs_response07":"Did you see the leader? I think he was a droid!",		"fs_response06":"Where did they come from? Why do they want to hurt us!?",		"fs_response05":"We have to get out of here!",		"fs_response04":"We're doomed! DOOMED I SAY!",		"fs_response03":"AHHHHH!!!",		"fs_response02":"They are coming back to finish us off! I know it!",		"fs_response01":"HELP US!! Help us... please."
+}}

@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_inspect_t',
-'7':'quest_inspect_d',
-'6':'quest_dock_t',
-'5':'quest_dock_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/inspect/stn_yavin4_company_all_tier2_1",
+	"entries": {
+		"title_d":"The missing executive of the Yavin 4 Mining Company is being held hostage by the Debris Cult. The location of the executive is unknown but the ship that has been sending in the demands is not making any attempt to hide. Inspect this vessel to see if you can locate the executive.",		"title":"Space Yavin: Inspect the Debris Cult Communication Vessel",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The communication vessel is in the Yavin system.",		"quest_inspect_t":"Inspect the Communication Vessel",		"quest_inspect_d":"The Debris Cult's ship probably has the location to the executive's holding place.",		"quest_dock_t":"Dock with the Vessel",		"quest_dock_d":"Tranfer the information to your ship and return it to the Yavin station.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

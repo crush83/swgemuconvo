@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/master_imperial_1",
+	"entries": {
+		"title_d":"Grand Admiral Nial Declann has formulated a plan to take control of the Kessel system for the Empire. You have been ordered to weaken the Rebel forces who have already taken up positions inside the system. The black holes in the system make it impossible to get a lock on individual ships so it will be nessecary to seek and destroy all targets involved. You are required to hunt down fighters and smaller, none capital, command vessels. The vessels that you are required to destroy are X-Wings, B-Wings, A-Wings, Y-Wings, and the Rebel gunboats.",		"title":"Kessel System: Seek and Destroy Rebel Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Travel to the Kessel System",		"quest_location_d":"The target system is Kessel. You are to travel to Kessel and attack any Rebel forces that are within the system. This should weaken the Rebels so that they are unable to properly fortify the system.",		"quest_destroy_t":"Destroy Thirty Rebel Fighters",		"quest_destroy_d":"Be on the look out for A-Wings, B-Wings, X-Wings, Y-Wings, and Rebel Gunboats to destroy. You need to destroy 30 of those craft.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

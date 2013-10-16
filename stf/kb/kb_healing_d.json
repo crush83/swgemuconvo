@@ -1,9 +1,50 @@
-[
-'7':'entertainment',
-'6':'fatigue',
-'5':'hospitals',
-'4':'medpacks',
-'3':'stimpacks',
-'2':'wounds',
-'1':'healing',
-]
+{
+	"stfFile":"kb/kb_healing_d",
+	"entries": {
+		"entertainment":"Healing typically refers to the replenishment of HAM bar damage and stat wound healing in the Health and Action categories.
+
+Entertainers on the other hand, focus on the replenishment of Mind category pool and wound damage. 
+
+They also have the unique talent of reducing Battle Fatigue by playing music or dancing for their patrons. 
+
+These tasks can only be performed in Cantinas, Hotels, Theaters, Campsites* and player houses that have been declared as Player Cantinas. 
+
+*Battle Fatigue cannot be healed in a Campsite, but normal Mind wounds can be healed.
+",		"fatigue":"Battle Fatigue is the measure of a character's weariness and exhaustion from partaking in the fervor of combat. Once Battle Fatigue reaches certain levels, it begins to reduce the effectiveness of medicines and their healing powers.
+
+To cure Battle Fatigue, you must seek out a member of one of the Entertainer professions. By watching or listening to these performers dance or play music in the comfortable confines of a Hotel, Theatre, or Cantina the Battle Fatigue will slowly go away until it is completely cured.
+
+You can watch or listen to an Entertainer outside of the above locations but it will not cure Battle Fatigue.",		"hospitals":"In Star Wars Galaxies, you can only heal wounds at specific locations. These are in a hospital or medical facility, in a camp created by someone with Scout skills, or by a droid that has been constructed with a medical module.
+
+Hospitals are the most effective areas for healing as they offer bonuses due to the benefits of being in a dedicated medical facility.
+
+Camps and the aformentioned droids allow healing of wounds but have modifiers based on the quality of a camp and the module in the droid. Those made with the highest skill will allow healing at almost a Hospital's level of effectiveness.",		"medpacks":"In addition to Stimpacks and Wound Medpacks, the healing professions gain access to many more Medpacks at the higher skill levels.
+
+Combat Medics receive ranged versions of Stimpacks as well as Medpacks that apply poisons or diseases to their targets. Poison damages a target's pool over time while diseases cause wounds over time.
+
+Doctors receive Medpacks for curing disease and poison, states, and enhancing attributes temporarily providing a stat boost to the target.
+
+Doctors are the only profession to gain the ability to revive a dead player before they clone.",		"stimpacks":"Stimpacks are used much the same as Wound Medpacks are from the previous section with some small differences.
+
+Stimpacks are for the healing of pools and not wounds. They are used to heal someone to keep them from getting incapacitated or assisting someone so they can continue to function.
+
+Like Wound Medpacks, Stimpacks require skill based on the quality of their healing effect.
+
+You can use a Stimpack via the radial menu on the item or by targeting and typing /healdamage.
+
+There is a hotkey in your command browser you can place on the toolbar as well.",		"wounds":"One of the most common, and most needed, functions a healer provides in Star Wars Galaxies is to assist people with the treatment of wounds to their statistics.
+
+Some of the most common wounds seen are those to the Action and Health pool stats. If someone chose to not have their wounds healed, they would slowly get worse, effectively lowering the maximums of these stats until healed.
+
+Wound Medpacks can be created by Medics, Doctors, and Combat Medics or purchased from other players of these professions. Using a Wound Medpack requires skill based on the effectiveness of the Woundpack.
+
+To heal someone's wounds you must be in a Hospital/Medical Facility, in a camp, or by a droid with a medical module.
+
+You can target the patient you wish to heal and use the radial menu on the Wound Medpack selecting the target self or target other option. Or you can target the patient and type /healwound nameofstat (For example /healwound health would attempt to use a health Woundpack to heal the target's health wounds).
+
+Healing of stat wounds is affected by the target's Battle Fatigue. It is in the best interest of the person seeking healing to seek out a member of the entertainer professions before finding a doctor or medic.",		"healing":"Healing is an integral part of Star Wars Galaxies, in such an expansive and dangerous world it is easy for someone to be injured while adventuring.
+
+Healing has broad applications from assisting someone with their stat wounds to helping someone relax and deal with the strain and fatigue of battle.
+
+See the sections below for more detail on the differenct facets of this important part of Star Wars Galaxies."
+}}

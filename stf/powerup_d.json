@@ -1,11 +1,5 @@
-[
-'9':'weapon_melee_speed_quest',
-'8':'weapon_heavy',
-'7':'weapon_mine',
-'6':'weapon_thrown',
-'5':'weapon_melee',
-'4':'weapon_ranged',
-'3':'armor',
-'2':'weapon',
-'1':'base',
-]
+{
+	"stfFile":"powerup_d",
+	"entries": {
+		"weapon_melee_speed_quest":"Durable Lathe",		"weapon_heavy":"Heavy Weapon Power-Up",		"weapon_mine":"Mine Weapon Power-Up",		"weapon_thrown":"Thrown Weapon Power-Up",		"weapon_melee":"Melee Weapon Power-Up",		"weapon_ranged":"Ranged Weapon Power-Up",		"armor":"Armor Power-Up",		"weapon":"Weapon Power-Up",		"base":"Base Power-Up"
+}}

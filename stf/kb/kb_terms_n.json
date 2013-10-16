@@ -1,7 +1,5 @@
-[
-'5':'sw',
-'4':'chat',
-'3':'online',
-'2':'swg',
-'1':'terms',
-]
+{
+	"stfFile":"kb/kb_terms_n",
+	"entries": {
+		"sw":"Star Wars terminology",		"chat":"Online Chat Lingo",		"online":"Terms from Online Games",		"swg":"Star Wars Galaxies terms",		"terms":"Glossary of Terms"
+}}

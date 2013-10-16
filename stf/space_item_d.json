@@ -1,7 +1,5 @@
-[
-'5':'palace_access_doc',
-'4':'newbie_ship',
-'3':'firespray_schematic_part',
-'2':'transfer_auth',
-'1':'encoded_document',
-]
+{
+	"stfFile":"space_item_d",
+	"entries": {
+		"palace_access_doc":"These appear to be forged documents for entry into the palace of Jabba the Hutt. They don't seem to have been used yet, so you only need to glue a photo of yourself onto them and sign the dotted line. Thumb print is apparently accepted for those without reading and writing comprehension.",		"newbie_ship":"This is a spaceship entrusted to you by a pilot trainer.  It is limited in its capabilities---you may not modify it, and the ship is not equipped with a hyperdrive.  You will need to get a crafted chassis before you can modify your ship, or travel at lightspeed.",		"firespray_schematic_part":"This is a fragment of a Kuat Systems Engineering technical schematic.  Maybe if you had the other pieces, an analysis tool could make sense of its garbled contents.",		"transfer_auth":"This is an Imperial Authorization of Transfer form, digitally encoded on a thick reinforced military disk. The form details the official record of your service in the Imperial Navy. It needs to be countersigned before you can be officially accepted for transfer.",		"encoded_document":"Data encoded on a disk, compatible with a standard datapad or computer system."
+}}

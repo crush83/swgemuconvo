@@ -1,14 +1,5 @@
-[
-'12':'visitor_12',
-'11':'visitor_11',
-'10':'visitor_10',
-'9':'visitor_9',
-'8':'visitor_8',
-'7':'visitor_7',
-'6':'visitor_6',
-'5':'visitor_5',
-'4':'visitor_4',
-'3':'visitor_3',
-'2':'visitor_2',
-'1':'visitor_1',
-]
+{
+	"stfFile":"visitor_convo",
+	"entries": {
+		"visitor_12":"No problem.",		"visitor_11":"Heh, well, Jabba did always hire the fearless and inventive.  All right.  Here's all the cash I have on me.  Now can we go to the palace?",		"visitor_10":"Well, if you die out here Jabba won't hear anything about it, will he?",		"visitor_9":"Sorry, I'll escort you to the palace.",		"visitor_8":"Thank you.",		"visitor_7":"What?!?  Is this a shakedown?  Do you know what Jabba will do when I tell him about this?",		"visitor_6":"How bout you make it worth my while?",		"visitor_5":"Ok, just follow me.",		"visitor_4":"Yes.  Get me to the palace, and make sure nothing happens to me.",		"visitor_3":"I suppose you want my help now?",		"visitor_2":"Sounds like you're having a rough day.",		"visitor_1":"About time you showed up.  My bodyguard was killed by those sandpeople, then I had to dodge that imperial patrol."
+}}

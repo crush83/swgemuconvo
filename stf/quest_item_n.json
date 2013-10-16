@@ -1,23 +1,5 @@
-[
-'21':'fs_craft_puzzle_terminal',
-'20':'crowd_pleaser_dance_reward',
-'19':'crowd_pleaser_music_reward',
-'18':'fs_crafting4_computer_core',
-'17':'fs_crafting4_downed_satellite',
-'16':'fs_reflex_supply_crate',
-'15':'fs_craft_puzzle_solid_state_array',
-'14':'fs_craft_puzzle_signal_amp',
-'13':'fs_craft_puzzle_gyro_receiver',
-'12':'fs_craft_puzzle_decryption_chip',
-'11':'fs_craft_puzzle_config_processor',
-'10':'fs_craft_puzzle_calibrator',
-'9':'fs_craft_puzzle_analyzer',
-'8':'hero_of_tatooine_mark_altruism',
-'7':'hero_of_tatooine_mark_courage',
-'6':'hero_of_tatooine_mark_honor',
-'5':'hero_of_tatooine_mark_intellect',
-'4':'contract_crate',
-'3':'hero_of_tatooine_explosives',
-'2':'hero_of_tatooine_rock_crevice',
-'1':'hero_of_tatooine_explosives_crate',
-]
+{
+	"stfFile":"quest_item_n",
+	"entries": {
+		"fs_craft_puzzle_terminal":"Sensor Array Access Terminal",		"crowd_pleaser_dance_reward":"Dance Steps: Theatrical Style",		"crowd_pleaser_music_reward":"Sheet Music: Western Style",		"fs_crafting4_computer_core":"A Salvaged Computer Core",		"fs_crafting4_downed_satellite":"A Fallen Satellite",		"fs_reflex_supply_crate":"Crate of Supplies",		"fs_craft_puzzle_solid_state_array":"Solid State Array",		"fs_craft_puzzle_signal_amp":"Signal Amplifier",		"fs_craft_puzzle_gyro_receiver":"Gyroscopic Receiver",		"fs_craft_puzzle_decryption_chip":"Decryption Chip",		"fs_craft_puzzle_config_processor":"Configuration Processor",		"fs_craft_puzzle_calibrator":"Multi-phase Calibrator",		"fs_craft_puzzle_analyzer":"Recursive Analyzer",		"hero_of_tatooine_mark_altruism":"Mark of Altruism",		"hero_of_tatooine_mark_courage":"Mark of Courage",		"hero_of_tatooine_mark_honor":"Mark of Honor",		"hero_of_tatooine_mark_intellect":"Mark of Intellect",		"contract_crate":"Crafter's Job Crate",		"hero_of_tatooine_explosives":"a pack of explosives",		"hero_of_tatooine_rock_crevice":"a rocky crevice",		"hero_of_tatooine_explosives_crate":"an old crate"
+}}

@@ -1,20 +1,5 @@
-[
-'18':'m_ididallthework',
-'17':'m_chatter_4',
-'16':'m_chatter_3',
-'15':'m_chatter_2',
-'14':'m_chatter_1',
-'13':'m_thanks',
-'12':'m_wesurvived',
-'11':'m_help_2',
-'10':'m_help_1',
-'9':'m_hereitcomes_help',
-'8':'m_hereitcomes_nohelp',
-'7':'r_m_thebeast_nohelp',
-'6':'r_m_thebeast_help',
-'5':'m_thebeast',
-'4':'r_m_studying',
-'3':'m_studying',
-'2':'r_m_greet',
-'1':'m_greet',
-]
+{
+	"stfFile":"poi/rabidbeast/basic",
+	"entries": {
+		"m_ididallthework":"I survived!  Quite excellent.  It seems to me, however, that I did all the work in dispatching the things.  I'm sorry, but I cannot reward you for you seemed rather...ineffective.",		"m_chatter_4":"Weren't you supposed to be in the test chamber half an hour ago?  Oh...I'm sorry, I thought you were someone else.",		"m_chatter_3":"I wonder what the ecosocial implications of biodiverse herd behavior are?",		"m_chatter_2":"If only the head academician would approve my request for a larger grant.",		"m_chatter_1":"My work here is very serious.  We need to know more about the life on this planet.",		"m_thanks":"Thank you for your assistance.  I am truly in your debt.  I do not have sufficient funding to reward you, but please, bear my mark as a symbol of your deed.",		"m_wesurvived":"Excelsior!  I am saved!",		"m_help_2":"I'm too intelligent to die!  Help me!",		"m_help_1":"Help!  Save me from this thing!",		"m_hereitcomes_help":"Just in time too.  The creatures are returning!  HELP!",		"m_hereitcomes_nohelp":"You won't help?  Most perturbatory.  Gah!  The beast returns!  HELP!",		"r_m_thebeast_nohelp":"I don't have any interest in biological research, Imperial or otherwise.  I'm afraid you are on your own.",		"r_m_thebeast_help":"I can help you defend yourself from the creature.",		"m_thebeast":"AH!  I almost forgot!  I angered one of the nastier species of creature I have been studying and it attacked me!  It nearly killed me before I managed to drive it away.  Its only a matter of time before it comes back to finish the job.  Who knows, it might even bring its pack!",		"r_m_studying":"Yes, but why were you panicking just a moment ago?",		"m_studying":"Oh, I apologize!  I forgot to tell you who I am!  I am an Imperial research scientist studying the fauna in this area.  Most interesting creatures, indeed.",		"r_m_greet":"Why? What's wrong?",		"m_greet":"Great Scott!  You came just in time!  *Gasp*  I'm so relieved!"
+}}

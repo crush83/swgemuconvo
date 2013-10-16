@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/corellia_rebel_tier4_1",
+	"entries": {
+		"title_d":"The Black Sun is taking more and more liberties against us. Let's teach them a lesson by launching guerilla attacks against their fighters. When you feel that you have exhausted your ship, yourself, or that you have enough experience to continue your training, you can return to base at any time.",		"title":"Dantooine system: Duty mission: Strike a blow to the Black Sun.",		"taunt_5":"I'm getting closer, the next bolt will fry your engine and then it's all over!",		"taunt_4":"I got you in my sights scum, there's no escape!",		"taunt_3":"For the dark prince!",		"taunt_2":"You Rebel fools will wish you never messed with the Black Sun!",		"taunt_1":"Take him out boys!",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"quest_location_t":"Dantooine system.",		"quest_location_d":"You're an experienced pilot, and the Dantooine system shouldn't pose a big threat, but don't relax too much, the sneaky Black Sun are sure to have some surprises.",		"quest_destroy_t":"Destroy Black Sun ships.",		"quest_destroy_d":"Proceed with terminating Black Sun scum. We will update your navigation computer with new coordinates of where they have been spotted.",		"level_increase":"The Black Sun are waking up, you'll find that they will send tougher pilots in response to your attacks.",		"level_boss_dead":"Whow! %TO has been a thorn in our side for a long time, great job!",		"level_boss":"The stinking Black Sun is responding to the attacks by sending %TO, one of their captains.",		"found_loc":"Alright we are tracking more Black Sun fighters in this area. Give 'em hell!",		"duty_update":"Nym Command Officer: < %TO >",		"dd_boss_taunt_5":"I'm your worst nightmare Rebel and there's no waking up from this one!",		"dd_boss_taunt_4":"The Black Sun will crush you and your pathetic Nym friends!",		"dd_boss_taunt_3":"Pathetic worm, prepare to face my wrath!",		"dd_boss_taunt_2":"You're no match for my skill Rebel!",		"dd_boss_taunt_1":"You fool! Standing up to the Black Sun is suicide!",		"complete":"Amazing! The Black Sun will not forget this day! Return to base and rest up, you did good today pilot.",		"boss_title_5":"Amos Torq",		"boss_title_4":"Walwer Bealwo",		"boss_title_3":"Rita 'the Razor'",		"boss_title_2":"L'kew Rawo",		"boss_title_1":"Ovlaw Grimclaw",		"boss_detected":"Our sensors are picking up the ship signature of Black Sun captain, get ready!"
+}}

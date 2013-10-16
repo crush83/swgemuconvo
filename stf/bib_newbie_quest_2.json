@@ -1,51 +1,45 @@
-[
-'49':'bfnq2_49',
-'48':'bfnq2_42',
-'47':'bfnq2_48',
-'46':'bfnq2_47',
-'45':'bfnq2_46',
-'44':'bfnq2_45',
-'43':'bfnq2_44',
-'42':'bfnq2_43',
-'41':'bfnq2_41',
-'40':'bfnq2_40',
-'39':'bfnq2_39',
-'38':'bfnq2_38',
-'37':'bfnq2_37',
-'36':'bfnq2_36',
-'35':'bfnq2_35',
-'34':'bfnq2_34',
-'33':'bfnq2_33',
-'32':'bfnq2_32',
-'31':'bfnq2_31',
-'30':'bfnq2_30',
-'29':'bfnq2_29',
-'28':'bfnq2_28',
-'27':'bfnq2_27',
-'26':'bfnq2_26',
-'25':'bfnq2_25',
-'24':'bfnq2_24',
-'23':'bfnq2_23',
-'22':'bfnq2_22',
-'21':'bfnq2_21',
-'20':'bfnq2_20',
-'19':'bfnq2_19',
-'18':'bfnq2_18',
-'17':'bfnq2_17',
-'16':'bfnq2_16',
-'15':'bfnq2_15',
-'14':'bfnq2_14',
-'13':'bfnq2_13',
-'12':'bfnq2_12',
-'11':'bfnq2_11',
-'10':'bfnq2_10',
-'9':'bfnq2_9',
-'8':'bfnq2_8',
-'7':'bfnq2_7',
-'6':'bfnq2_6',
-'5':'bfnq2_5',
-'4':'bfnq2_4',
-'3':'bfnq2_3',
-'2':'bfnq2_2',
-'1':'bfnq2_1',
-]
+{
+	"stfFile":"bib_newbie_quest_2",
+	"entries": {
+		"bfnq2_49":"Can I enter the Audience chamber now?
+",		"bfnq2_42":"Back off with the attitude.  I'm a friend.",		"bfnq2_48":"I'll let the guards know to allow you into the main Audience chamber.  Enjoy the entertainment, but don't bother Jabba if you know what is good for you. Speak to Ephant Mon if you need more things to do.
+",		"bfnq2_47":"Ah, you have returned with my shipping information.  Good job.
+",		"bfnq2_46":"Heh, I know better than to think Bib would send someone incompetent.  Good luck. ",		"bfnq2_45":"If that's the way you want to be then talk to someone else.",		"bfnq2_44":"You're awfully friendly for someone I don't know.",		"bfnq2_43":"I'll get them.",		"bfnq2_41":"Yes.  He told me he'd be sending someone.  You have to find those thugs.  I'm going to add a waypoint to your datapad.  This was the last place they were seen.  Kill them and take the shipping information Bib needs!",		"bfnq2_40":"Do I know you?
+",		"bfnq2_39":"Yes.  Are you the contact?",		"bfnq2_38":"Bib Fortuna sent you?",		"bfnq2_37":"Not again.  I won't go! Somebody help me, please!
+",		"bfnq2_36":"Sirad Far, you're under arrest! Come with us.
+",		"bfnq2_35":"You can find him at the Mos Eisley Cantina.  Take the discs to him now!
+",		"bfnq2_34":"I couldn't find him.
+",		"bfnq2_33":"Oh, right.  On my way.
+",		"bfnq2_32":"I thought I told you to take those disks to Sirad Far?
+",		"bfnq2_31":"Good job!  Deliver those discs to Sirad Far in the Mos Eisley Cantina.
+",		"bfnq2_30":"On my way!
+",		"bfnq2_29":"I changed my mind.  I don't have time to do this mission.
+",		"bfnq2_28":"What are you doing wasting time?  Jabba wants that shipping information.
+",		"bfnq2_27":"I can't help you with this right now.
+",		"bfnq2_26":"Okay, I'll do it.
+",		"bfnq2_25":"Jabba's Audience chamber is where the Palace's most most important guests are entertained.
+",		"bfnq2_24":"I can't help you with this right now.
+",		"bfnq2_23":"What's in the Audience Chamber?
+",		"bfnq2_22":"Ok, it's a deal.
+",		"bfnq2_21":"No, Jabba is not to be bothered.  But I will let you into the Audience chamber if you are successful.
+",		"bfnq2_20":"I don't have time to do this right now.
+",		"bfnq2_19":"Will you introduce me to Jabba if I do this for you?
+",		"bfnq2_18":"Ok, I'll do it.
+",		"bfnq2_17":"Jabba is generous to his friends.  Get the information and you will be well paid.
+",		"bfnq2_16":"What's in it for me?
+",		"bfnq2_15":"No, Jabba is busy.  You should be busy, too.  Are you ready to work?
+",		"bfnq2_14":"Can I meet Jabba now?
+",		"bfnq2_13":"He's already sold it to a man in Mos Eisley, who is waiting for it now.  So do you want the job or not?
+",		"bfnq2_12":"Why does Jabba want shipping information?
+",		"bfnq2_11":"I see.  So am I supposed to steal some shipping information?
+",		"bfnq2_10":"Jabba likes to keep up-to-date on local shipping schedules.  Of course, shipping companies don't like to share that information.
+",		"bfnq2_9":"What's the mission?
+",		"bfnq2_8":"Come see me when you're ready to work.
+",		"bfnq2_7":"I don't have time for that now.
+",		"bfnq2_6":"Ok, on my way.
+",		"bfnq2_5":"Good.  Our contact at Notsub shipping has informed me that the stolen documents he delivers to us on a regular basis were stolen by Valarian's thugs.  Go talk to him and find out where the thugs went.  I want that information back in my hands!  Our contact will meet you at the location I've marked on your datapad.
+",		"bfnq2_4":"No, not right now.
+",		"bfnq2_3":"Yes, I am ready.
+",		"bfnq2_2":"So you've come back.  Are you ready for another mission now?
+",		"bfnq2_1":"Jabba's visitor says to give you his thanks.  You've done good work for us so far, are you ready to do some more?"
+}}

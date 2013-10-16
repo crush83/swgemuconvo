@@ -1,232 +1,780 @@
-[
-'240':'link_medicsamplehealmission',
-'239':'link_medichealmission',
-'238':'medichealcomplete',
-'237':'medichealmissionskip',
-'236':'medichealmission',
-'235':'medicstimpacksskip',
-'234':'scoutharvestmissionskip',
-'233':'link_scoutsampleharvestmission',
-'232':'link_scoutharvestmission',
-'231':'scoutharvestcomplete',
-'230':'scoutharvestmission',
-'229':'scoutharvestingskip',
-'228':'professions',
-'226':'link_brawlersampledestroymission',
-'225':'link_brawlerdestroymission',
-'224':'brawlerdestroycomplete',
-'223':'brawlerdestroyskip',
-'222':'brawlerdestroymission',
-'221':'brawlertacticsskip',
-'220':'link_entertainergigmission',
-'219':'link_entertainermusicgig',
-'218':'link_entertainerdancegig',
-'217':'entertainergigcomplete',
-'216':'entertainergigskip',
-'215':'entertainergigmission',
-'214':'entertainerinstrumentsskip',
-'213':'finishhandoff',
-'212':'friendslist',
-'211':'playerjobs',
-'210':'scoutcrafting',
-'209':'scouttraps',
-'208':'scoutexperience',
-'207':'entertainerexperience',
-'206':'medicexperience',
-'205':'brawlerexperience',
-'204':'marksmanexperience',
-'203':'link_marksmansampledestroymission',
-'202':'link_marksmandestroymission',
-'201':'marksmandestroycomplete',
-'200':'marksmandestroyskip',
-'199':'marksmandestroymission',
-'198':'marksmantacticsskip',
-'196':'link_artisancraftingdetails',
-'195':'artisancraftingfinish',
-'194':'artisansurveycomplete',
-'193':'link_samplesurveymission',
-'192':'link_artisansurveymission',
-'191':'artisansurveymissionskip',
-'190':'artisansurveymission',
-'189':'artisanresourcesskip',
-'188':'link_planetmapdetails',
-'187':'link_finddetails',
-'186':'finishtourprofessions',
-'185':'finishtourplanetmap',
-'184':'finishtourfind',
-'183':'finishtourintro',
-'182':'link_skilltrainertour',
-'181':'link_skilltrainerdetails',
-'180':'arrivedskilltrainer',
-'179':'findskilltrainerskip',
-'178':'findskilltrainerintro',
-'177':'link_cantinatour',
-'176':'link_cantinadetails',
-'175':'arrivedcantina',
-'174':'findcantinaskip',
-'173':'findcantinaintro',
-'172':'link_hospitaltour',
-'171':'link_hospitaldetails',
-'170':'arrivedhospital',
-'169':'findhospitalskip',
-'168':'findhospitalintro',
-'167':'link_cloningtour',
-'166':'link_cloningdetails',
-'165':'arrivedcloning',
-'164':'findcloningskip',
-'163':'findcloningintro',
-'162':'link_banktour',
-'161':'link_bankdetails',
-'160':'arrivedbank',
-'159':'findbankskip',
-'158':'findbankintro',
-'157':'link_finishhandoff',
-'156':'link_matchmaker',
-'155':'link_friendslist',
-'154':'link_globalchat',
-'153':'link_searching',
-'152':'link_findingpeople',
-'151':'link_chatchannels',
-'150':'link_playerjobs',
-'149':'link_strongholds',
-'148':'link_themeparks',
-'147':'link_npcmissions',
-'146':'link_missionterminals',
-'145':'link_thingstodo',
-'144':'link_scoutromhere',
-'143':'link_scoutdisciplines',
-'142':'link_scoutexperience',
-'141':'link_scoutcrafting',
-'140':'link_scoutdraftschematics',
-'139':'link_scoutharvesting',
-'138':'link_scouttraps',
-'137':'link_scoutcamps',
-'136':'link_marksmanfromhere',
-'135':'link_marksmandisciplines',
-'134':'link_marksmanexperience',
-'133':'link_marksmantactics',
-'132':'link_marksmanarmor',
-'131':'link_marksmanweapons',
-'130':'link_brawlerfromhere',
-'129':'link_brawlerdisciplines',
-'128':'link_brawlerexperience',
-'127':'link_brawlertactics',
-'126':'link_brawlerarmor',
-'125':'link_brawlerweapons',
-'124':'link_medicfromhere',
-'123':'link_medicdisciplines',
-'122':'link_medicexperience',
-'121':'link_medichospitals',
-'120':'link_medicforaging',
-'119':'link_medicdraftschematics',
-'118':'link_medicstimpacks',
-'117':'link_medicdamage',
-'116':'link_entertainerfromhere',
-'115':'link_entertainerdisciplines',
-'114':'link_entertainerexperience',
-'113':'link_entertainercantinas',
-'112':'link_entertainerwounds',
-'111':'link_entertainerinstruments',
-'110':'link_artisanfromhere',
-'109':'link_artisandisciplines',
-'108':'link_artisanexperience',
-'107':'link_artisancrafting',
-'106':'link_artisanresources',
-'105':'link_artisandraftschematics',
-'104':'link_playingscout',
-'103':'link_playingmarksman',
-'102':'link_playingbrawler',
-'101':'link_playingmedic',
-'100':'link_playingentertainer',
-'99':'link_playingartisan',
-'98':'link_professions',
-'97':'link_finishtour',
-'96':'link_findskilltrainer',
-'95':'link_findcantina',
-'94':'link_findhospital',
-'93':'link_findcloning',
-'92':'link_findbank',
-'91':'link_exploring',
-'90':'globalchat',
-'89':'searching',
-'88':'findingpeople',
-'87':'strongholds',
-'86':'themeparks',
-'85':'matchmaker',
-'84':'chatchannels',
-'83':'npcmissions',
-'82':'missionterminals',
-'81':'thingstodo',
-'80':'trained',
-'79':'qualified',
-'78':'advancingcharacter',
-'77':'scoutfromhere',
-'76':'scoutdisciplines',
-'75':'scoutcamps',
-'74':'scoutdraftschematics',
-'73':'scoutharvesting',
-'72':'playingscout',
-'71':'entertainerfromhere',
-'70':'entertainerdisciplines',
-'69':'entertainercantinas',
-'68':'entertainerwounds',
-'67':'entertainerinstruments',
-'66':'playingentertainer',
-'65':'medicfromhere',
-'64':'medicdisciplines',
-'63':'medichospitals',
-'62':'medicforaging',
-'61':'medicdraftschematics',
-'60':'medicstimpacks',
-'59':'medicdamage',
-'58':'playingmedic',
-'57':'brawlerfromhere',
-'56':'brawlerdisciplines',
-'55':'brawlertactics',
-'54':'brawlerarmor',
-'53':'brawlerweapons',
-'52':'playingbrawler',
-'51':'marksmanfromhere',
-'50':'marksmandisciplines',
-'49':'marksmantactics',
-'48':'marksmanarmor',
-'47':'marksmanweapons',
-'46':'playingmarksman',
-'45':'artisanfromhere',
-'44':'artisandisciplines',
-'43':'artisancrafting',
-'42':'artisanresources',
-'41':'artisanexperience',
-'40':'artisandraftschematics',
-'39':'playingartisan',
-'38':'findcantina',
-'37':'findhospital',
-'36':'findcloning',
-'35':'findbank',
-'34':'findskilltrainer',
-'33':'exploring',
-'32':'intheworld',
-'31':'missions',
-'30':'experience',
-'29':'combat',
-'28':'equipment',
-'27':'insurance',
-'26':'cloning',
-'25':'dying',
-'24':'bank',
-'23':'buyingitems',
-'22':'toolbar',
-'21':'inventory',
-'20':'containers',
-'19':'conversations',
-'18':'radialmenu',
-'17':'usingobjects',
-'16':'lookatobjects',
-'15':'chatwithplayers',
-'14':'mousemode',
-'13':'lookandmove',
-'12':'tutorialrecap',
-'11':'aboutholocube',
-'10':'welcometoswg',
-'1':'wheredoibegin',
-]
+{
+	"stfFile":"kb/kb_begin_d",
+	"entries": {
+		"link_medicsamplehealmission":"I'm Ready To Begin",		"link_medichealmission":"Let Me Try Using My Healing Skills",		"medichealcomplete":"Congratulations, you have successfully harvested resources from a creature.  You have begun the first steps in becoming a master scout.
+
+Click on the button below when you are ready to start learning about Medical Draft Schematics and how to craft the tools of your trade.
+",		"medichealmissionskip":"If you would rather just start learning how to make the tools of your trade, then press the button below to begin learning about Medical Draft Schematics.
+",		"medichealmission":"So you think you're ready to have people lives in you hands?  Perhaps you should test your skills in a slightly less stressful situation first.
+
+If you would like to get a feel for how to administer medicines then press the button below and we'll give you an opportunity to use them in a simple exercise.  You will be given an inoculation that needs to be administered to a citizen within the city.  A waypoint will lead you to the location of the patient.  Once there you can administer the medicine by targeting your patient and selecting the Use option from the medicines Radial Menu, or you can use the Radial Menu on the patient to administer the medicine.
+",		"medicstimpacksskip":"Or you can proceed straight on to the next section to learn how you can craft your own medicines.  When you are ready, press the button below to learn more.
+",		"scoutharvestmissionskip":"If you would rather just start learning how to make the tools of your trade, then press the button below to begin learning about Draft Schematics.
+",		"link_scoutsampleharvestmission":"I'm Ready to Begin",		"link_scoutharvestmission":"Let Me Try Harvesting Resources",		"scoutharvestcomplete":"Congratulations, you have successfully harvested resources from a creature.  You have begun the first steps in becoming a master scout.
+
+Click on the button below when you are ready to start learning about Draft Schematics and how to craft the tools of your trade.
+",		"scoutharvestmission":"If you feel up to the task of harvesting resources you can press the button below to get started.  You will only need to kill a single creature, which should be relatively easy to destroy at your skill level, but be on your guard on your way to the target, there are other things out there that aren't so easy to kill which may not take kindly to your approach.  Once the target has been killed you will need to extract the resources.  Then we will come back to the Holocron and continue teaching you about your profession.
+",		"scoutharvestingskip":"Or if you would rather proceed onto learning how to make the tools of your trade, then press the button below to begin learning about Draft Schematics.
+",		"professions":"Choose a Starting Profession to learn more about it.
+",		"link_brawlersampledestroymission":"Give Me a Sample Destroy Mission",		"link_brawlerdestroymission":"Teach Me About Destroy Missions",		"brawlerdestroycomplete":"Congratulations, you completed the Destroy Mission.  You have begun the first steps in becoming a master of melee combat.
+
+Click on the button below when you are ready to continue learning about playing a Brawler.
+",		"brawlerdestroyskip":"If you would rather not attempt the destroy mission and just continue learning about your profession, press the button below.
+",		"brawlerdestroymission":"Destroy Missions are a good way to make a little extra cash.
+
+You can be given Destroy Missions from NPC who require someone with a little muscle to help them out or from the mission terminals in the major cities.  Once you have accepted the Destroy Mission you will get a Waypoint to where the mission is to be completed.  At that location will be a target, either a creature lair or a facility.  You will need to destroy the target and anything that is guarding it.
+
+Once you have destroyed the target the agreed upon payment will be automatically deposited in your bank account.
+
+If you feel up to the task a simple destroy mission can be started by pressing the button below.  You will only need to kill a single creature, which should be relatively easy to destroy at your skill level, but be on your guard on your way to the target, there are other things out there that aren't so easy to kill which may not take kindly to your approach.  Once the target is destroyed we'll continue learning about the Brawler profession.
+",		"brawlertacticsskip":"If you are not interested in practicing you combat maneuvers, press the following button to learn about earning experience.
+",		"link_entertainergigmission":"Teach Me About Gig Missions",		"link_entertainermusicgig":"Give Me a Sample Music Gig Mission",		"link_entertainerdancegig":"Give Me a Sample Dance Gig Mission",		"entertainergigcomplete":"Congratulations, you completed the Gig Mission.
+
+Click on the button below when you are ready to continue learning about playing an Entertainer.
+",		"entertainergigskip":"If you would rather move on to learning more about Entertainment Healing now, then click the button below.
+",		"entertainergigmission":"Gig Missions are a good way to make a little extra cash while performing.
+
+Certain NPCs can hire you to do a performance for them.  They'll have a specific place they wish you to perform at and an amount of time you need to perform for.  Don't dally around if you choose to accept the mission though, they usually have a time restraint for when you need to complete the performance.  Once you've performed at the correct location for the contracted amount of time your payment will be automatically deposited in your bank account.
+
+All-in-all, Gig Missions are quite simple.  The trickiest part can just be getting there, many times you'll be asked to perform in a completely different city than you are currently in requiring a long cross-country trek or an expensive shuttle flight.  If you decide to take the role of the wandering minstrel and hoof it, keep in mind your deadline, you won't make a single credit if you arrive late.
+
+If you are ready to try your hand at a simple sample mission press one of the buttons below.  You won't make any money doing these missions, but we guarantee you won't have to go far.  Plus, you'll get a chance to experiment with some of the techniques you've recently learned.  Once you've completed the mission, the Holocron will automatically open up and we'll continue teaching you about your profession.
+",		"entertainerinstrumentsskip":"If you would rather skip the Gig Mission, press the following button and we'll teach you a bit about some of the beneficial uses of Entertainment Healing.
+",		"finishhandoff":"Well, this just about brings us to the end of our extended gameplay tutorial.
+
+The last thing you'll want to know is how to safely log out of the game.  When you are through playing Star Wars Galaxies, take your character to a safe place, somewhere within a city or camp site will work.  Then sit down using the /sit command and type "/logout" to quit.  After a short period, you will exit the game and your character will be safe and sound waiting for your return.  If you do not do this, your character will stay at the spot you left it for a couple minutes and could be attacked by passing creatures, so remember to always find a safe place before quiting.
+
+Hopefully, you now have a better understanding of the basic game concepts and are not quite so overwhelmed.  There is a lot more to learn about Star Wars Galaxies, however.  At any time, you can look through this Holocron to find more detailed explanations of the various game system.
+
+Remember that the most powerful assistance feature of this game could be standing right next to you.  Ask your fellow players, chances are they had similar questions when they started playing and would be happy to help out a new player.  Don't be afraid to ask or experiment and above all, have fun playing.
+
+May the Force be with you.
+",		"friendslist":"The Friends List is a great way to keep track of your online friends.
+
+When viewing your Friends list, you will be able to see at a glance which ones are currently online and which one are not.  Additionally, you can be notified whenever a friend comes online.  By setting the Listen option on, you will be notified whenever that person comes online.  This will only work if they have their Broadcast option selected for you, however.  It is possible someone wants a bit of privacy and doesn't want people knowing instantly when they come online.  You have the same choice by turning off the Broadcast option for a friend you will set it so that they will not get a notification when you come online.
+
+A useful flip side to the Friends list is the Ignore list.  This is a list of player whom you would like to ignore.  It is useful for those situations where someone may be annoying you.  Add them to your Ignore list and all of their chat comments will be filtered out and you'll never have to hear from them again.
+
+Press the button below to learn about the in game Matchmaker system.
+",		"playerjobs":"Often times the best place to look for jobs is from other players.  The world is big and no one person will be able to do everything.  Perhaps you have the skills the person next to you is looking for.
+
+Whether it's as simple as someone needing a Medic or Entertainer to heal them, or an Artisan requiring a bodyguard while they search for rare resources, it's guaranteed that someone out there could use some help and you have the perfect skill set to assist them.
+
+Talk to people, don't be afraid to ask around for jobs.  Perhaps you have a job in mind but need more people to help out, ask for assistance and you're sure to find the help you need soon enough.  Find the local hangout and stay around there for a while.  If you are unsure of where to find people, try the Cantina - everyone ends up there eventually.  
+
+When you are ready to learn more about chatting with other players, press the following button.
+",		"scoutcrafting":"Once you have the necessary resources you can begin crafting a Camp or Trap.
+
+Use the crafting tool and select the item you wish to craft from the list. You will be taken to the assembly screen and there will be a box, and in it, the resources that you have that can be used for this schematic. Double click or drag resources into the appropriate boxes. You must use the same resource to fill a slot if it requires more than one resource. This means you cannot take two different types of bone and put them in the same slot. It would need to be a stack of the same resource in order to be used in a single slot. When all slots are full that are required for the item click assemble. It is possible to fail during the assembly. Once you have succeeded you will get a screen telling you how the item turned out. Continue on to the next screen in the crafting interface and name your item. After doing this and continuing again, your crafting tool will generate the prototype. You will see the numbers on your crafting tool count down and the item will be deposited in your inventory. Note: the pop up help can be very useful the first couple times you craft and will help guide you through this.
+
+More advanced crafting is possible with specific crafting tools and crafting stations.  Crafting stations are very useful when crafting items and are very easy to use.  You only need to be standing near the correct type of crafting station and your special crafting tool will automatically connect to the station to take advantage of its advanced features. Using a Crafting Station will allow you to experiment with the final product and could increase its value and usability. 
+
+When you are ready to learn about earning experience click on the button below.
+",		"scouttraps":"An extremely useful tool for fighting the local wildlife is a trap.
+
+There are many different types of hand-crafted traps available to the skilled scout.  Initially, you will only have the ability to craft one type of trap, but as you become a more skilled trapper, you will learn other types.  These traps have differing effects from poisons to make a creature slow and drowsy to nets to temporarily immobilize your target.
+
+To use a trap equip it like any other weapon.  Then, at the most opportune moment, throw it at your designated target.  Depending on your skill, you will be able to hit the target causing the trap to go off for the desired effect.
+
+Press the following button to learn about the resources needed to create these traps.
+",		"scoutexperience":"There are three types of experience Scouts can earn; Scouting Experience, Trapping Experience and Wilderness Survival Experience.
+
+Hunting wild creatures and harvesting the natural resources from their corpses earns Scouting Experience.
+
+Trapping Experience is earned through the crafting and use of Traps.
+
+Finally, Wilderness Survival Experience is earned by crafting and using camps or by foraging.
+
+Press the button below to learn about the Scout disciplines.
+",		"entertainerexperience":"Entertainers gain four types of experience; Hairstyling Experience, Music Experience, Dance Experience and Entertainment Healing Experience.  Each experience type is used in each of the four Entertainer disciplines.
+
+Hairstyling Experience is gained through the use of the Hairstyling skill.
+
+Music Experience is gained through the playing of musical instruments.  While sitting alone practicing with an instrument will gain you slight amounts of experience, true expertise is only gained when playing for an audience.
+
+Dance Experience is gained by dancing.  Similar to Music Experience, the true rewards come when you are dancing for an audience.  Dancers and Musicians can join together in bands to improve their performances.  Performing with other people is both rewarding and highly educational.
+
+Entertainment Healing Experience is gained when soothing away someone's Battle Fatigue or Mind wounds.  This experience type can be earned using either the Dance or Musicianship skills, but only when you are healing someone.
+
+Press the button below to learn about how these experience types are used with the Entertainer Disciplines.
+",		"medicexperience":"There are two types of Medical experience that a Medic can earn, Medical Experience and Medical Crafting Experience.
+
+Medical Experience is used for almost all aspects of the Medic Profession.  You gain this experience through the use of you healing skills.  Whenever healing a patient, you will receive an amount of experience relative to the severity of their wounds.
+
+Medical Crafting Experience is earned through the creation and use of medicines.  It is not required that you personally use the medicines you craft but they must be used by someone with medical skills before you will gain any Medical Crafting Experience.
+
+To learn about the medical disciplines, press the following button.
+",		"brawlerexperience":"There are four kinds of Brawler experience one for each kind of weapon class (Unarmed, One-Handed, Two-Handed and Polearm) available.
+
+All Brawler experience is earned by winning battles.  After each battle, you will earn some experience for each of the weapon types you used.  The more you use a specific class of weapon the more of that type of experience you will earn.
+
+Each of the four Brawler experience types are used to advance in each of the four Brawler skill trees.  Click the button below to learn more about the Brawler skill trees.
+",		"marksmanexperience":"There are four kinds of Marksman experience one for each kind of ranged weapon class (Pistol, Carbine and Rifle) and one general purpose Combat Experience.
+
+All Marksman experience is earned by winning battles.  After each battle, you will earn some Combat Experience and some specialized experience for each of the weapon types you used.  The more you use a specific class of weapon the more of that type of experience you will earn.
+
+Each of the four Marksman experience types are used to advance in each of the four Marksman skill trees.  Click the button below to learn more about the Marksman skill trees.
+",		"link_marksmansampledestroymission":"Give Me a sample Destroy Mission",		"link_marksmandestroymission":"Teach Me About Destroy Missions",		"marksmandestroycomplete":"Congratulations, you completed the Destroy Mission.  You have begun the first steps in becoming a master of ranged weaponry.
+
+Click on the button below when you are ready to continue learning about playing an Marksman.
+",		"marksmandestroyskip":"If you would rather not attempt the destroy mission and just continue learning about Marksmen, press the button below.
+",		"marksmandestroymission":"Destroy Missions are a good way to make a little extra cash.
+
+You can be given Destroy Missions from NPC who require someone with a little muscle to help them out or from the mission terminals in the major cities.  Once you have accepted the Destroy Mission you will get a Waypoint to where the mission is to be completed.  At that location will be a target, either a creature lair or a facility.  You will need to destroy the target and anything that is guarding it.
+
+Once you have destroyed the target the agreed upon payment will be automatically deposited in your bank account.
+
+If you feel up to the task, a simple destroy mission can be started by pressing the button below.  You will only need to kill a single creature, which should be relatively easy to destroy at your skill level. But be on your guard on your way to the target, there are other things out there that aren't so easy to kill which may not take kindly to your approach.  Once the target is destroyed, we'll continue learning about the Marksman profession.
+",		"marksmantacticsskip":"If you would rather skip the Destroy Mission and continue learning about the Marksman profession, press the button below.
+",		"link_artisancraftingdetails":"Teach Me About Advanced Crafting",		"artisancraftingfinish":"Click on the button below when you are ready to continue learning about the Artisan profession.
+",		"artisansurveycomplete":"Congratulations, you completed the Survey Mission.
+
+Click on the button below when you are ready to continue learning about playing an Artisan.
+",		"link_samplesurveymission":"Give Me a Sample Survey Mission",		"link_artisansurveymission":"Teach Me About Survey Missions",		"artisansurveymissionskip":"If you would rather move on to learning more about crafting, click the button below.
+",		"artisansurveymission":"Survey Missions are a good way to make a little extra cash.  They are easy to do, but that doesn't mean that they are risk free.
+
+Certain NPCs will hire you to locate a specific resource pocket for them.  A certain resource density will be required to meet the needs of the NPC.  All you will need to do is locate the resource deposit by using the Survey function of your survey tool.  You won't actually need to collect the resources; they'll be able to do that once they know where to find it.  
+
+Locate the requested resource type on your Survey Tool window and begin surveying.  Keep going towards the highest concentration of the resource and continue surveying.  You'll automatically send the coordinates via your Datapad as soon as your survey tool has detected a pocket of sufficient density.  The contracted amount of credits will be deposited in your bank account upon completion.
+
+That's all there is to Survey Missions.  Not too hard, but it can get quite risky wandering the wilderness looking for the proper density of resources. 
+",		"artisanresourcesskip":"If you would rather move on to learning more about crafting, click the button below.
+",		"link_planetmapdetails":"Tell Me More About the Planetary Map",		"link_finddetails":"Tell Me More About /find",		"finishtourprofessions":"Now that you have a good idea of how to navigate around the city, it's time to learn a bit about playing your chosen profession.  When you are ready, press the button below to learn about all the critical aspects of your profession.
+",		"finishtourplanetmap":"Another important navigation tool is the Planetary Map.  This map shows all of the explorable area on the planet.  You can show city locations, waypoints and other important information on the Planetary Map.  At any time, you can bring up the Planetary Map by pressing Ctrl+V.
+",		"finishtourfind":"There are several tools available to you to help find your way around the city, the most powerful of which is the /find command.  At any time you can type /find from the command console for assistance in finding nearby important structures.  Typing /find by itself will cause a window to open with a list of the available things you can search for.  You may also specify the thing to search for directly with the /find command.  For example "/find bank" will locate the nearest bank, creating a waypoint to it for easier navigation.  You can read more about the /find command in the Holocron later if you desire.
+",		"finishtourintro":"That concludes this little tour of the city.  As you've probably noticed by now, the city is very big and there's lots of other sights to see.  You were only shown the more important buildings that will be needed while playing Star Wars Galaxies.
+",		"link_skilltrainertour":"Take Me to My Skill Trainer",		"link_skilltrainerdetails":"Tell Me More About Skill Trainers",		"arrivedskilltrainer":"Congratulations, you have found your skill trainer.  You probably aren't able to learn new skills yet, but you may still want to talk to your trainer to learn about the skills he can teach you.  When you are ready, press the button below to finish the tour.
+",		"findskilltrainerskip":"If you don't need any assistance finding your Skill Trainer, press the button below and we'll finish up the tour.
+",		"findskilltrainerintro":"Skill trainers are very important for advancement in your chosen profession.  As you gain experience, you will need to go to the skill trainer to learn new skills and abilities.
+
+Skill training isn't always cheap and, as you need to learn more advanced skills, you'll find the training gets more and more expensive.  If you are on a tight budget, an alternative to learning from the Skill Trainers is to seek out a sufficiently skilled player and see if they are able and willing to train you.  The Skill Trainer prices are set by the Empire and will never fluctuate, however, players may be negotiated with for prices that fit better to your budget.
+",		"link_cantinatour":"Take Me to the Cantina",		"link_cantinadetails":"Tell Me More About the Cantina",		"arrivedcantina":"Congratulations, you have found the Cantina.  You may find the urge to sit back and enjoy the surroundings.  When you are ready, press the button below to continue the tour.
+",		"findcantinaskip":"If you don't need any assistance finding the Cantina, press the button below and we'll continue on to the next leg of the tour.
+",		"findcantinaintro":"The Cantina is a great place to sit back and relax.  Many people come here to unwind and talk about their adventures while listening to Musicians and watching Dancers.  Mind wounds and Battle Fatigue will quickly fade away while relaxing and enjoying the soothing ministrations of your local Entertainers.
+
+The Cantina can also be a good place to find fellow adventurers before embarking on a dangerous outing.  In general, you'll find that the Cantina is the social hub of the city.
+
+Some cities have Theaters or Hotels which provide the same conveniences as a Cantina.  Many of the bigger cities have more than one such structure and some of the smaller outposts have none, so be careful out there.",		"link_hospitaltour":"Take Me to the Hospital",		"link_hospitaldetails":"Tell Me More About the Hospital",		"arrivedhospital":"Congratulations, you have found the Hospital.  It's unlikely that you need any medical attention right now, however, you may want to look around as these faces may become very familiar to you in the future.  When you are ready, press the button below to continue the tour.
+",		"findhospitalskip":"If you don't need any assistance finding the Hospital, press the button below and we'll continue on to the next leg of the tour.
+",		"findhospitalintro":"Hospitals and Medical Centers are important places to know about if you are inclined to violence.  Anyone who engages in combat is going to need the assistance of a Medic eventually and Hospitals are a good place to find one.  Inside the Hospital, you'll be able find Medics and Doctors who will be able to heal your wounds.
+
+If you are interested in pursuing a career in a medical field then remember that patients in need of care can generally be found at the Hospital.  You don't have to remain at the hospital, however.  Medical attention can be given at a properly prepared encampment as well.
+
+Some very large cities might have more than one Hospital or Medical Center while the smaller outposts may have none.  Make sure you are familiar with the local amenities before getting into too much trouble.",		"link_cloningtour":"Take Me to the Cloning Facility",		"link_cloningdetails":"Tell Me More About Cloning Facilities",		"arrivedcloning":"Congratulations, you have found the Cloning Facility.  Your cloning information has already been stored at this facility.  When you are ready, press the button below to continue the tour.
+",		"findcloningskip":"If you don't need any assistance finding the Cloning Facility, press the button below and we'll continue on to the next leg of the tour.
+",		"findcloningintro":"The Cloning Facility is where you may end up if you are not quite so fortunate during your adventuring.  Any time you are killed out in the field your clone will be activated at the Cloning Facility.  Don't forget to transfer your clone information to the local Cloning Facility whenever you travel to a new city.  If you forget to, you may be in for a long walk back.
+
+Insurance Terminals are also located at the Cloning Facility.  Through these terminals, you can insure all of your carried items.  Whenever your clone is activated, all insured items will be instantly returned to you.  Any uninsured items, however, will be left on your corpse.  In that event, you will need to travel out to your corpse to pick up those items.
+",		"link_banktour":"Take Me to the Bank",		"link_bankdetails":"Tell Me More About the Bank",		"arrivedbank":"Congratulations, you have found the bank.  You probably don't need to do any banking right now, but if you do go on ahead and do it.  When you are ready, press the button below to continue the tour.
+",		"findbankskip":"If you don't need any assistance finding the bank, press the button below and we'll continue on to the next leg of the tour.
+",		"findbankintro":"The Bank is important for several obvious reasons.  Money and items deposited in the bank are safe.  Regardless of what unfortunate events may happen while adventuring, your stuff in the bank will be safe.  Keeping money in the bank is also very convenient; most transactions throughout the galaxy can automatically deduct funds from you bank eliminating the need to carry around lots of credits.
+
+Remember that you must join the bank before you are able to deposit and withdraw from it. You automatically joined the bank in your starting city so you shouldn't have to worry about it now, but if at some future date you decide to relocate to a different city, you'll need to remember to join the bank there. You can only access your Safety Deposit Box from the bank you joined. For instance, if you join the bank on Tatooine, you cannot access your items from Naboo.
+",		"link_finishhandoff":"Let's Wrap Up This Tutorial",		"link_matchmaker":"Tell Me About Setting Up My Matchmaker",		"link_friendslist":"Tell Me About Using the Friends List",		"link_globalchat":"Tell Me About Using the Chat Channels",		"link_searching":"Tell Me About Using Search",		"link_findingpeople":"Tell Me How to Find People",		"link_chatchannels":"Tell Me About Chatting With Players",		"link_playerjobs":"Tell Me About Finding a Job",		"link_strongholds":"Tell Me About Taking On a Stronghold",		"link_themeparks":"Tell Me About Setting Off On a Quest",		"link_npcmissions":"Tell Me About Talking to an NPC",		"link_missionterminals":"Tell Me About Taking A Mission",		"link_thingstodo":"Tell Me About Things To Do",		"link_scoutromhere":"Tell Me Where I Can Go From Here",		"link_scoutdisciplines":"Tell Me About The Scout Disciplines",		"link_scoutexperience":"Tell Me How to Earn Experience",		"link_scoutcrafting":"Tell Me About Crafting Camps and Traps",		"link_scoutdraftschematics":"Tell Me About Draft Schematics",		"link_scoutharvesting":"Tell Me About Harvesting Creatures and Foraging",		"link_scouttraps":"Tell Me How to Use Traps",		"link_scoutcamps":"Tell Me What's a Camp",		"link_marksmanfromhere":"Tell Me Where I Can Go From Here",		"link_marksmandisciplines":"Tell Me About The Marksman Disciplines",		"link_marksmanexperience":"Tell Me How to Earn Experience",		"link_marksmantactics":"Tell Me About Ranged Tactics",		"link_marksmanarmor":"Tell Me About Marksmen and Armor",		"link_marksmanweapons":"Tell Me About Ranged Weapons",		"link_brawlerfromhere":"Tell Me Where I Can Go From Here",		"link_brawlerdisciplines":"Tell Me About The Brawler Disciplines",		"link_brawlerexperience":"Tell Me How to Earn Experience",		"link_brawlertactics":"Tell Me About Melee Tactics",		"link_brawlerarmor":"Tell Me About Brawlers and Armor",		"link_brawlerweapons":"Tell Me About Melee Weapons",		"link_medicfromhere":"Tell Me Where I Can Go From Here",		"link_medicdisciplines":"Tell Me About the Medical Disciplines",		"link_medicexperience":"Tell Me How to Earn Experience",		"link_medichospitals":"Tell Me About Medical Centers and Camps",		"link_medicforaging":"Tell Me About Foraging and Crafting Stimpacks",		"link_medicdraftschematics":"Tell Me About Medical Draft Schematics",		"link_medicstimpacks":"Tell Me About Stimpacks and Medpacks",		"link_medicdamage":"Tell Me About Damage and Wounds",		"link_entertainerfromhere":"Tell Me Where I Can Go From Here",		"link_entertainerdisciplines":"Tell Me About The Entertainer Disciplines",		"link_entertainerexperience":"Tell Me How to Earn Experience",		"link_entertainercantinas":"Tell Me About Cantinas and Camps",		"link_entertainerwounds":"Tell Me About Wounds and Battle Fatigue",		"link_entertainerinstruments":"Tell Me About Instruments and Dances",		"link_artisanfromhere":"Tell Me Where I Can Go From Here",		"link_artisandisciplines":"Tell Me about The Artisan Disciplines",		"link_artisanexperience":"Tell Me How to Earn Experience",		"link_artisancrafting":"Tell Me How Crafting Works",		"link_artisanresources":"Tell Me Where to Get Resources",		"link_artisandraftschematics":"Tell Me About Draft Schematics",		"link_playingscout":"Teach me about Playing a Scout",		"link_playingmarksman":"Teach me about Playing a Marksman",		"link_playingbrawler":"Teach me about Playing a Brawler",		"link_playingmedic":"Teach me about Playing a Medic",		"link_playingentertainer":"Teach me about Playing an Entertainer",		"link_playingartisan":"Teach me about Playing an Artisan",		"link_professions":"Teach me about my Profession",		"link_finishtour":"Let's Complete the City Tour",		"link_findskilltrainer":"City Tour: My Skill Trainer",		"link_findcantina":"City Tour: The Cantina",		"link_findhospital":"City Tour: The Medical Center",		"link_findcloning":"City Tour: The Cloning Facility",		"link_findbank":"Let's Start the City Tour",		"link_exploring":"Let's Explore the City",		"globalchat":"Staying in contact with players is easy with the use of chat channels and tells.
+
+It's possible to communicate with anyone in the game instantly by sending them a direct tell.  By typing /tell followed by the person's name and your message, you will send a message directly to them regardless of where they are in the game.  Of course, they will have to be online to receive your message.
+
+It's also possible to stay in communication with a group of people regardless of location by using Chat Channels.  You can join any number of Chat Channels you desire.
+
+Now you know how to talk to people, but how do you find specific people in this huge world you're in?  Press the button below to learn more about how to find other players.
+",		"searching":"The Search Tool is a great way to find other players who you may not have met yet.  Using in-game criteria, you can search for players nearby that match your requirements.  This is a great way to find people to group with or players that are aligned with the same faction as you or to locate someone of a specific profession.
+
+There are four primary categories in which to search for someone; Faction, Species, Profession or Title.  Each of these categories can be set to a specific criterion or left open to match anyone.  There are also three extra settings you can search for; people who are Looking For a Group, players flagged as Newbie Helpers or players who are interested in Roleplaying.  Each of these three optional settings can be turned on or off on the Character Tab.
+
+Once you have selected your search criteria, you can press the Search button to begin the search.  All players that match your set criteria will be displayed in the box at the bottom of the window.  Note: this is only a local search so you won't be able to find players across the galaxy using this tool.
+
+When you are ready to learn about your Friends List, press the button below.
+",		"findingpeople":"You're probably beginning to realize just how big this world really is.  Finding people can be quite a daunting task in such a vast place.  Luckily, we've provided you with several tools to make it easier to locate people.
+
+All of the tools we are about to show you are available through the Community Window.  You can open the Community Window using the button on the Toolbar or you can press Ctrl+P.
+
+Press the button below to start learning about the tools available to find other people inside Star Wars Galaxies.
+",		"strongholds":"During your journeys around the galaxy, you will certainly eventually run into a Stronghold somewhere.  Strongholds are extremely difficult NPC lairs. You will likely need several friends to help you attack them.
+
+Press the following button to learn about other kinds of Jobs you can do.
+",		"themeparks":"Occasionally, during your adventures, you'll come across NPCs who will require you to do tasks for them to prove yourself or will have more involved requests than a simple mission. Unlike a mission, you will often find you need to return to the person that initially sent you on the quest before you can complete it.  For more complex quests, you may be required to continue on to talk to other NPCs and performs tasks for them before the quest is complete.  These quests can be fairly involved but can be very rewarding.
+
+You will be able to track your progress in a quest in nearly the same way as you do a mission.  An entry in your Datapad will be attached to a waypoint to the destination of your next objective.  Deletion of the waypoint from your Datapad will end the quest requiring you to return to the person who gave it to you to start over, though you may need to explain why you were unable to complete the task last time.
+
+When you are ready to learn about Strongholds, press the button below.
+",		"matchmaker":"The Matchmaker system allows you to find others who share similar in and out of game interests, using profile criteria that you submit.
+
+Setting your search criteria allows the Matchmaker to notify you whenever nearby players match your profile preferences. You can also make your profile searchable by other players, making the match process even easier!
+
+Experiment with it - you never know who you may find!
+",		"chatchannels":"Ultimately, as a Massively Multiplayer Game, Star Wars Galaxies is a game about the players.  Think about it, you are playing with thousands of other people.  Get to know the people around you, make some friends and try things together, the options are endless.
+
+There are several tools available to you to assist in communicating with the people around you.  Anything you type into the chat interface will be "heard" by all the other players nearby.  If you want to talk to someone specifically, target them and all your chat will then be directed at them.  Other people will still hear you, but they will be able to tell whom you are speaking to.
+
+You can also use emotes to help communicate the emotional context of your conversation.  Perhaps you want to grin or wink at someone.  You could pout or smile while saying something; these things are all possible to do.  Browse the Social section of the Command Window to get an idea of the dozens of different emotes available to you.  In addition to using the command button for the emote, you can use the associated slash-command.  You only need type the name of the emote proceeded by the slash, for example /smile, /grin, or /wink.
+
+There are also emote types that will change the way you are talking.  These emotes are used at the beginning of a chat sentence and will change the context of your sentence.  Some of them will also change the appearance of your chat bubble for added effect.  For example, you could type, "/yell Help me!!" to cause your chat bubble to change and to make your chat audible to people further away.  Or you could type "/growl Leave me alone." to cause your avatar to scowl while saying the sentence.  Experiment a little and see what's possible.  You find that emotes can add a whole new level to your conversations.
+
+Another tool to add an emotional level to your conversation is to set your mood.  Changing your mood will change the way your avatar behaves as well as letting people know in your chat messages.  Moods can change the facial expression of your avatar or cause it to play different idle animations.  For example, if you are angry, your avatar will constantly be scowling or, if you are bored, it will look around more often and tap it's foot.  To change your mood, you only need to choose one from the Mood panel of the Command Window.  Optionally, you can use the /mood command followed by the mood you want to set.  "/mood angry", "/mood happy", "/mood bored" or "/mood none" are all ways to change your mood.
+
+So what if people you want to talk with are not close by?  Press the button below to learn about Global Chat Channels.
+",		"npcmissions":"All throughout the galaxy you will find various NPCs.  These people sometimes have interesting stories to tell or may request a task of you.  These NPC missions are very similar to missions you could receive from a city's Mission Terminal.  Sometimes these missions are a bit more underhanded than those you may receive from a Mission Terminal so be careful whom you talk to or you may find yourself on the wrong side of the law.
+
+Don't forget you can always cancel a mission at anytime after you've accepted it. If you find that the task is beyond your skill or doesn't fit within your personal moral code, you can always cancel without a penalty.  Regardless of the legality of the mission, payment is always guaranteed upon completion and will be automatically deposited in your bank account.
+
+Press the button below to learn about NPC Quests.
+",		"missionterminals":"Missions are a fun way to explore the environment and earn some money.
+
+Located throughout all the major cities are Mission Terminals.  These terminals are connected to the city's Holonet and can provide you with job opportunities.  These missions have been posted by various citizens throughout the city and only wait on an enterprising entrepreneur to accept the job.
+
+When you first look at the Mission Terminal, it will have a list of currently available missions.  You do not have to take the first missions offered to you, however.  You can always search for others if the current missions do not suit you.  Each mission listed in the mission terminal will have a short description of task required as well as the payment offered for completion.
+
+As soon as you accept a mission, it will be downloaded into your personal Datapad.  A waypoint will be set to the first destination you need to go to.  What you need to do at that destination depends on the mission you have chosen; you may need to pick up some sensitive documents or you may need to engage some vicious smugglers.  You can always check the mission data in your Datapad for a reminder of what needs to be done.  Some missions will have several destinations that you need to go to before the mission is completed.  Upon completion of the mission, the agreed upon payment will automatically be deposited into your bank.
+
+You can have two mission contracts active at a time.  You will either need to complete your missions or cancel them before you are permitted to take new ones.
+
+When you are ready, press the button below and we will teach you a bit about NPC missions.
+",		"thingstodo":"Now that you are familiar with playing your chosen profession, it's time to learn a bit about what kinds of activities there are to do in Star Wars Galaxies.
+
+The following sections will give you an idea of only a few of the basic things you can do.  These are just meant as a starting point or a fallback when you feel a bit lost and unsure of how to proceed.  There is no "correct" way to play Star Wars Galaxies, no set path or goals to victory.  Ultimately, you have to decide what you want to do and set your own personal goals to get there.
+
+Do you want to join the Rebellion or the Empire and participate in the Galactic Civil War?  Do you want to start your own Cantina?  Perhaps you want to be the best crafter of weapons or armor?  Or control a galaxy-wide merchant empire?  Any of these things and many, many more are possible. You only need to decide what you want.
+
+When you are ready, press the following button and we'll teach you a bit about Missions and Mission terminals.
+",		"trained":"Learning new skills gives you access to new abilities. Depending on the skill learned, you will gain access to new commands, modifiers, or draft schematics.
+
+Open your Skills window and click on different skill boxes to see the various advancements granted with each skill. As you learn new skills, take the time to examine and experiment with these useful new profession perks.
+",		"qualified":"At every experience plateau, you may qualify for multiple skills. Whenever you earn enough experience to learn a new skill, you will be notified by a system message. 
+
+If the system message doesn't indicate you've qualified for the skill of your choice, you may need to earn more experience. Check your Skills browser (Ctrl-S) to confirm the experience requirements for your chosen skill.
+
+Earning enough experience is only the first step to learning a skill however; you must also locate a qualified skill trainer. Skill trainers are located in major cities, and will train you - for a price. Other players can also act as trainers, teaching you the skills they have learned, and they may be willing to do so at a fraction of the skill trainers' fees.
+",		"advancingcharacter":"The following sections will teach you about the core systems of character advancement.
+",		"scoutfromhere":"There are several advanced professions available to the Scout.
+
+Ranger:  The Ranger profession continues all of the skills and abilities learned by a Scout.  It's an amazing sight to behold the advanced camps and complex traps that a Ranger can create.
+
+Creature Handler:  Using their advanced knowledge of creatures, the Creature Handler can tame and train some of the most vicious creatures in the galaxy.
+
+Bio-Engineer:  Leveraging their medical expertise in addition to their knowledge of creatures, Bio-Engineers can create amazing custom organic components for use in various kinds of crafting.  Bio-Engineers have also mastered the techniques of vat growing creatures that are stronger and faster than wild creatures.  This profession also requires experience in the Medic discipline of Organic Chemistry.
+
+Squad Leader:  The Squad Leader is a master at controlling a tactical situation.  Their extensive knowledge of ranged tactics combined with their survival techniques gives people of this profession a distinct advantage in large combat situations.  The proficient leadership abilities of the master Squad Leader allows them to inspire those under their command to perform beyond their abilities.  This profession also requires experience in the Marksman Ranged Weapon Support discipline.
+
+You are now prepared to begin your career as a Scout.  To learn more about additional things you can do in the world of Star Wars Galaxies, press the button below.
+",		"scoutdisciplines":"There are four disciplines or skill trees inside the Scout profession.
+
+Exploration:  This discipline covers the Scout's ability to negotiate tricky terrain as well as their ability to use the terrain to help conceal themselves from creatures.  As a Scout becomes more proficient in the Exploration skill tree, they gain the ability to mask their scent from creatures, preventing the creature from becoming aware of them, as well as improving the efficiency of their Burst Run ability, allowing them to safely escape any dangerous situations.  Advancement requires Scouting Experience.
+
+Trapping:  This skill tree allows a Scout to create and use special traps.  These traps are only effective against creatures, but are extremely useful nevertheless.  Advancement requires Trapping Experience.
+
+Hunting:  This skill tree governs the Scouts ability to collect resources from the carcasses of the creatures they have killed.  As they become more proficient in Hunting, a Scout is able to collect more usable resources from the creature.  Leveraging their advanced knowledge of creatures, the Hunting skill also grants the Scout combat bonus when fighting against creatures.  Advancement requires Scouting Experience.
+
+Survival:  This is the Scout discipline of creating and using Camps.  This skill also gives a Scout the Forage ability.  With the ability to forage, a scout never need fear about going hungry.  Advancement requires Wilderness Survival Experience.
+
+Press the following button when you are ready to learn about the advanced professions available to the experienced Scout.
+",		"scoutcamps":"Camps are extremely useful mobile bases.
+
+As you explore the wilderness and adventure in dangerous areas, you will surely become tired or wounded.  Camps are vital to be able to recover without the necessity of returning to town.  The only place outside of towns that wounds can be healed are in camps and Scouts are the only ones with the skill to create and deploy these camps.
+
+Camps also provide additional useful functions like minor protections from wandering creatures.  As you become more skilled at creating camps, you will be able to make more and more advanced camps.  Some of these advanced camps are extremely useful.
+
+To deploy a camp, just select the Deploy option from the Radial Menu.
+
+To learn more about the tools of your trade, press the button below.
+",		"scoutdraftschematics":"Draft Schematics are the blueprints for creating items. You can always check what draft schematics you have available by viewing the draft schematic tab on the Datapad (Ctrl+D).
+
+As you gain skill levels in certain Scout skill tree branches, you will acquire new schematics.
+
+What exactly are schematics?  Draft Schematics contain all the needed information for your crafting tool to create an item.  By looking at the schematic, either in your Datapad or Crafting Tool, you'll be able to see what kinds of materials and how much of each the schematic requires.  
+
+The most basic ingredient of all crafted items are raw resources.  Advanced schematics will require higher quantities of resources as well as very specific resources or rare resources.  In addition to raw resources, some schematics require crafted components.  These components are crafted using other Draft Schematics.
+
+You may not always know how to make the component required by your schematic or it may not be worth your time to create it yourself.  In these situations you will want to seek out other players to buy the components from.
+
+When you are ready to learn about how to use these schematics to craft with, press the button below.
+",		"scoutharvesting":"How exactly does a Scout get the resources needed to make the tools they use for survival?  Simple, through harvesting the natural resources around them.
+
+Scouts have the ability to harvest natural resources (meat, hide, and bone) from the creatures they hunt.  These resources can then be used to craft various tools or they can be sold for a profit.  Many other professions require the natural organic resources easily collected by Scouts.  Many a Scout has made a comfortable career of nothing more than harvesting resources to sell.  To collect the resources of a recently killed creature, you only need select the "Harvest Resources" option from the Radial Menu. As sub-menus to the "Harvest Resource" option, you can choose to extract meat, hide or bone, depending on what you need most. Alternatively, you can target the corpse and type /harvest to quickly gather the resources.
+
+The other skill available to a Scout is Foraging for basic foods.  Scouts rarely need fear going hungry for, once they have achieved the first level in the Survival skill, they are able to forage for nearby foods.  To forage, you only need to choose the command from the Command Window.  Optionally, you can forage by typing /forage.
+
+Now that you know how to get the resources, it may be time to put that knowledge into practice.  Press the button below to try your hand at harvesting resources from a live creature.
+",		"playingscout":"The vast wilderness and open sky; that's the home of the Scout.  Big cities, who needs them?  Everything you need can be carried on your back.
+
+We'll now instruct you on all the basic survival techniques of the Scout to prepare you for the life you are about to lead.
+
+Press the button below to start learning about Camps.
+",		"entertainerfromhere":"Entertainers can choose to follow an advanced profession for each of their specialized skills.
+
+Musician:  The Musician continues the use of music to entertain and heal.  Particularly adept musicians can even craft their own instruments to enhance their performances.
+
+Dancer:  The Dancer has chosen to perfect the visual styles of entertainment.  The variety of interesting and exotic dance styles known to master dancers is quite the sight to see.
+
+Image Designer:  Building on a sense of style learned while hairstyling combined with an extensive background of medical knowledge, Image Designers move beyond styling just hair to styling the entire body.  Proficient Image Designers can alter nearly anything about someone's appearance from simple facial adjustments to more radical musculature customizations.  This profession requires being a Master Medic.
+
+You now know everything to get started as an Entertainer.  To learn more about additional things you can do in the world of Star Wars Galaxies, press the button below.
+",		"entertainerdisciplines":"There are four disciplines or skill trees inside the Entertainer profession.
+
+Hairstyling:  This skill tree allows an Entertainer to customize a player's hairstyles.  As you become more proficient, you will be able to experiment with more outrageous styles.
+
+Musicianship:  This is the Entertainer discipline to play music.  A skilled musician is able to play many different songs with many types of instruments.
+
+Dancing:  This discipline is the Entertainers ability to dance.  Dancers work hard to learn many different styles of exotic dances.  As you progress in this discipline, you will learn additional dance styles.
+
+Entertainment Healing:  This skill tree governs the ability to heal Battle Fatigue with your other entertainment skills.  Without this ability, an entertainer is very inefficient at soothing wounds and fatigue away.
+
+Press the following button to learn about the advanced professions available to you once you become an experienced Entertainer.
+",		"entertainercantinas":"Cantinas. Theaters and Camps are the only places others will be able to be healed by your performances.  You are always able to perform wherever you like, but only in a Camp, Theater or Cantina will you be able to heal someone.  Additionally, Battle Fatigue can only be healed in a Cantina.
+
+Camps are made by Scouts and can be set up out in the field to give a temporary base for resting and healing up.  Both Entertainers and Medics can heal wounds while in a Camp.
+
+Cantinas and Theaters are located in every major city and this is the only location that Battle Fatigue can be healed.  You can use the "/find" function to help you locate the local Cantina or Theater.
+
+When you are ready, press the following button and we'll teach you about the types of experience you will earn as an Entertainer.
+",		"entertainerwounds":"What's this I hear about Entertainment Healing?  It's a well known fact that song and dance provide a soothing, relaxing environment that heals mental anguish and relieves stress.
+
+As an Entertainer you will use your dance and music abilities to heal other people.  As others get mind wounds and Battle Fatigue from fighting, they will find themselves in need of your services.  To heal them, you only have to perform.  But they must be actively watching or listening, it's not enough for you to just be nearby.  If someone doesn't know how to actively watch or listen you can tell them to click and hold their cursor on you until the Radial Menu appears. He or she can then select "Listen" if you are playing music or "Watch" if you are dancing.  That's all there is to it, in a short while they will be rejuvenated and ready to take on the world again. Healing Battle Fatigue is crucial for receiving the help of a Medic or a Doctor. If a patient has too many Battle Fatigue points, he or she cannot receive necessary medical treatment. In essence, not only are you providing entertainment for others, you're helping the medical professions as well!
+
+The one caveat to Entertainment Healing is that it must be performed in a Cantina or Camp.  When you are ready to learn more about Cantinas and Camps, press the button below.
+",		"entertainerinstruments":"The tools of your trade; instruments, songs and dances.  You will use these to entertain your customers and keep their spirits up.
+
+The first thing you need to learn is how to start playing a song or  begin dancing.  You should be able to find the "Start Music" and "Start Dance" commands in your command window.  With these you can begin performing.  Remember that you'll need to have an instrument equipped before you can begin playing a song.  An alternative to using the command buttons is to type /startmusic or /startdance in the spatial chat bar.
+
+Once you've activated the Start Music or Start Dance command, you'll get a pop-up window with the list of songs and dances you know.  Choose one from the list to start your performance.  Take note of the names of the song and dances, you'll be able to use them in the future to bypass this dialog window.  If you use the name of the dance or song you want to perform with the console command you will enter into that performance immediately.  For example "/startdance basic" or "/startmusic starwars".
+
+Now that you're performing, you'll probably want to spice the performance up a bit.  The basic songs and dances you start out with are pretty bland, don't worry, you'll learn new ones as you become more proficient.  What you currently have to work with though, are flourishes.  There are eight flourishes you can perform with each song or dance you know.  Learning what these flourishes are and how to use them is what separates a true artist from your run-of-the-mill Entertainer.  To activate a flourish, use one of the flourish commands from the command window while performing.  Alternatively you can type /flourish followed by a number in the command console.  I.E. "/flourish 1"
+
+That's all there is to know to start your career as an Entertainer.  It's pretty simple, but the real trick is knowing how to use the tools available to you to create some true works of art.
+
+Press the button below if you're ready to try your hand at some Entertaining.  After learning a little bit about Gig Mission you'll get the opportunity to try your hand at a Gig.
+",		"playingentertainer":"So you want to be an Entertainer?  That's great!  The world would be a pretty dull place without entertainers to liven things up.
+
+Entertainers are basically a non-combat profession.  That's not to say you can't follow a combat profession as well, but generally wild creatures don't quite appreciate the fine art of entertainment.
+
+What role does an Entertainer fill in Star Wars Galaxies?  Well, Entertainers provide the social core of the galaxy.  Fighting the Galactic Civil War is hard work and people tend to get worn down and stressed out.  What better way to relax than to visit the Cantina and watch visually stimulating dancers and listen to great uplifting music?  That's where you come in; things would get down right hostile in the Cantina if there weren't an Entertainer around to help people stay relaxed.
+ 
+The following sections will teach you about the different facets of the Entertainer profession and what future professions you can pursue.  When you are ready, we'll start by teaching you about Instruments and Dances.
+",		"medicfromhere":"There are several advanced professions available to the Medic.
+
+Doctor:  The Doctor profession grows on the expertise gained as a Medic.  Doctors are proficient at healing severe wounds in addition to the treatment of simple injuries.
+
+Bio-Engineer:  Leveraging their medical expertise in addition to their knowledge of creatures, Bio-Engineers can create amazing custom organic components for use in various kinds of crafting.  Bio-Engineers have also mastered the techniques of vat growing creatures that are stronger and faster than wild creatures.  This profession also requires experience in the Scout disciplines of Hunting and Exploration.
+
+Image Designer:  Building on a sense of style learned while hairstyling combined with an extensive background of medical knowledge, Image Designers move beyond styling just hair to styling the entire body.  Proficient Image Designers can alter nearly anything about someone's appearance from simple facial adjustments to more radical musculature customizations.  This profession requires experience with the Entertainer discipline of Hairstyling.
+
+Combat Medic:  Combat Medics are invaluable on the battlefield.  Their medical abilities combined with their ranged tactics allows the Combat Medic to fulfill both a defensive and offensive role.  Whether it's healing a wounded comrade or preparing a toxic gas weapon, the Combat Medic's skills are always in demand.  This profession also requires being a Master Marksman.
+
+You are now prepared to begin your career as a Medic.  To learn more about additional things you can do in the world of Star Wars Galaxies, press the button below.
+",		"medicdisciplines":"There are four disciplines or skill trees inside the Medic profession.
+
+First Aid:  This skill tree governs the Medic's ability to treat injuries.  With the use of stimpacks, a Medic skilled in First Aid can quickly help patients recover from minor injuries.  This skill does not assist in the treatment of Wounds.
+
+Diagnostics:  This is the discipline that defines how quickly the Medic can treat injuries.  This skill does not effect how fast wounds are treated.
+
+Pharmacology:  Medics with this skill are able to Forage for materials to create medicines.  As a Medic becomes more proficient in Pharmacology, they learn to use medicines more efficiently.
+
+Organic Chemistry:  This is the skill tree that allows a Medic to create their own medicines.
+
+Press the button below to learn about the kinds of advanced professions you can pursue once you have become an experienced Medic.
+",		"medichospitals":"While Stimpacks can be used anywhere to heal a persons injuries, wounds require better facilities to be healed. Medical Centers and Camps are the only places you will be able to heal someone's wounds.
+
+Camps are made by Scouts and can be set up out in the field to give a temporary base for resting and healing up.  Because the facilities are less than ideal at a camp, your ability to heal people will be slightly reduced.  Both Entertainers and Medics can heal wounds while in the Camp.
+
+Medical Centers are located in every major city and are the only place you can heal people without any penalties.  You can use the tools explained earlier to help you locate the local Medical Center.  Because of the ease of locating Medical Centers, they are a good place to be when trying to sell your services.
+
+When you are ready, press the following button and we'll teach you about the types of experience you will earn as a Medic.
+",		"medicforaging":"You can use your Medical Foraging skill to collect the resources you will need to craft medicines.  It's not an efficient way to get the resources you need but will work when you are in a tight spot.  Once you become familiar with the mechanics of the game, you may want to hire a Scout to help you gather the resources you require. Additionally, you can buy resources off the Bazaar which are positioned in each city throughout the world. To use the Medical Forage skill, select the command option from your command window.  Optionally, you can type /medicalforage at the command prompt.
+
+Once you have the necessary resources you can begin crafting a Stimpack.
+
+Use the crafting tool and select the item you wish to craft from the list. You will be taken to the assembly screen and there will be a box with, and in it, the resources that you have that can be used for this schematic. Double click or drag resources into the appropriate boxes. You must use the same resource to fill a slot if it requires more than one resource. This means you cannot take two different types of bone and put them in the same slot. It would need to be a stack of the same resource in order to be used in a single slot. When all slots are full that are required for the item, you need to click assemble. It is possible to fail during the assembly. Once you have succeeded, you will get a screen telling you how the item turned out. Continue on to the next screen in the crafting interface and name your item. After doing this and continuing again, your crafting tool will generate the prototype. You will see the numbers on your crafting tool count down and the item will be deposited in your inventory. Note: the pop up help can be very useful the first couple times you craft and will help guide you through this.
+
+More advanced crafting is possible with specific crafting tools and crafting stations.  Crafting stations are very useful when crafting items and are very easy to use.  You only need to be standing near the correct type of crafting station and your special crafting tool will automatically connect to the station to take advantage of its advanced features. Using a Crafting Station will allow you to experiment with the final product and could increase its value and usability.
+
+When you are ready to learn about Medical Centers and Camps click on the button below.
+",		"medicdraftschematics":"Draft Schematics are the blueprints for creating your medicines. You can check what draft schematics you have by viewing the draft schematic tab on your Datapad (Ctrl+D).
+
+As you gain skill levels in Organic Chemistry, you will acquire new schematics.
+
+So what exactly are these schematics?  Draft Schematics contain all the needed information for your crafting tool to create an item.  By looking at the schematic, either in your Datapad or Crafting Tool, you'll be able to see what kinds of materials and how much of each the schematic requires.  
+
+The most basic ingredient of all crafted items are raw resources.  Advanced schematics will require higher quantities of resources as well as very specific resource types or rare resources.  In addition to raw resources, some schematics require crafted components.  These components are crafted using other Draft Schematics.
+
+You may not always know how to make the component required by your schematic or it may not be worth your time to create it yourself.  In these situations, you will want to seek out other players to buy the components from.
+
+You're probably pretty excited to start crafting some medicines, when you are ready, press the button below and we'll learn how.
+",		"medicstimpacks":"There are two basic types of medicines used in the treatment of patients; Stimpacks and Medpacks.
+
+Stimpacks are extremely useful when out in the field.  These medicines will quickly restore a patient's Health and Action pools.  A person can be kept alive through the use of stimpacks to prevent them from reaching that critical point of incapacitation. Additionally, a medic's important role is to restore both Action and Health to allow the combat-based professions to use their special abilities.
+
+Medpacks are used to heal Health and Action Wounds.  These wounds will permanently reduce a person's pools until they are healed through the skilled use of medpacks.  Too many wounds can severely impact a person's performance.
+
+There are other kinds of advanced medicines to treat specific ailments(ie. poison, disease) but for now, these are the two kinds of medicines you'll need to use.
+
+Now that you know a bit about how to heal others, press the button below and we'll give you a chance to try your skills out.
+",		"medicdamage":"There are three pools in which each person can take damage; Health, Action and Mind.  When any given pool is fully depleted, you will become incapacitated.  Once you have become incapacitated, an NPC or a player can kill you by delivering a death blow. Unless you have a Doctor with you while adventuring, there isn't a conceivable way to "cure" death. However, after your death, you can clone to the nearest Cloning Facility and continue to play Star Wars Galaxies.
+
+In addition to regular damage, people can also take more serious Wounds.  These Wounds don't heal naturally and will require medical attention.  As a Medic, your ability to deal with wounds is rather limited until you advance further in your profession. However, the advanced professions, such as a Doctor or Combat Medic, are more efficient in healing.
+
+Of the three types of damage and wounds that people can get, you will only be able to heal Health and Action.  Mind damage can only be healed by Entertainers.  Additionally, people will get Battle Fatigue over time.  This Battle Fatigue can also only be healed by Entertainers. If not properly treated, Battle Fatigue can interfere with your ability to heal both Health and Action wounds. If you find that your patient has a high amount of Battle Fatigue, you may want to suggest to your patient to look for an Entertainer.
+
+In order to heal damage and wounds, you will need a variety of medicines. Press the button below to learn about the kinds of medicines available to you.
+",		"playingmedic":"Medics are vital in the world of Star Wars Galaxies.  One thing can be always guaranteed, when there's combat, people are going to get hurt and where you have hurt people, Medics are going to be needed.
+
+Are you prepared to fill this crucial role?  In the following sections, we'll teach you about the core aspects of playing a Medic in Star Wars Galaxies.
+
+When you are ready we'll start by teaching you about Damage and Wounds.
+",		"brawlerfromhere":"There are several of advanced professions available to the Brawler.  What you choose to specialize in is up to you.
+
+Teras Kasi Specialist:  The Teras Kasi Specialist is a master of unarmed combat.  Using only their hands and feet, they are able to deal devastating damage to an opponent.  Teras Kasi masters have been known to perform amazing feats, like healing wounds or shaking off stunning blows, with the will of their mind alone.
+
+One-Handed Sword Specialist:  The One-Handed Sword Specialist has mastered all kinds of one-handed sword techniques. 
+
+Two-Handed Sword Specialist:  The Two-Handed Sword Specialist has mastered all kinds of two-handed sword techniques.
+
+Polearm Specialist:  the Polearm Specialist is a master of all polearm style weapons.
+
+Commando:  Commandos are the masters of all known weapon techniques.  Having mastered both the Marksman and Brawler professions, Commandos continue expanding their expertise into the use of heavy weapons and custom crafted grenades.  This profession also requires being a Master Brawler.
+
+Bounty Hunter:  Like the Commando, the Bounty Hunter is proficient in the use of all standard weapons.  However, the Bounty Hunter uses this expertise to track down and capture sentient beings.  Training in the use of tracking droids, the Bounty Hunter is able to locate targets regardless of where they try to hide.  This profession also requires being a Master Brawler.
+
+When you are ready press the button below to learn some more of the general activities available to you in Star Wars Galaxies.
+",		"brawlerdisciplines":"There are four disciplines or skill trees inside the Brawler profession.
+
+Unarmed:  This skill tree covers the techniques and abilities of fighting without any weapons.
+
+One-Handed Sword:  This discipline grants skills and abilities for fighting with one-handed swords.
+
+Two-Handed Sword:  This discipline covers the fighting techniques of two-handed swords.
+
+Polearms:  This skill tree is for advancing your combat abilities with Polearm weapons.
+
+You have learned the basics of playing a Brawler.  When you are ready, press the following button to learn about the advanced profession that are available to the experienced Brawler.
+",		"brawlertactics":"It may seem that there are few tactics available to the Brawler beyond running up and attacking their opponent.  This is not true.  Melee combat tactics are just as vital to the outcome of a battle as ranged combat tactics are to a Marksman, they just tend to be a bit more subtle.
+
+As a Novice Brawler, you start with a few special abilities available to you.  As you gain experience in the various Brawler disciplines, you'll learn more and more abilities.  How and when you use these abilities can make the difference between winning and losing a battle.
+
+Use of a special ability will cost you points from your Health, Action or Mind pools.  Be careful when choosing what special action to perform and know how it's going to affect your combat pools.  Using the wrong special action at the wrong time could leave you vulnerable and could spell your doom.  Carefully weighing whether to use your special abilities and when they'll have the most impact is vital to your success in combat.
+
+When you are ready to try your hand at combat press the button below.  You will learn a little about Destroy Missions and then get a chance to try one.
+",		"brawlerarmor":"Armor can be vital to your survivability.  Because you choose to face your opponents in close combat, chances are you're going to get hit.  Armor will significantly reduce the amount of damage you take.
+
+Different kinds of armor protect against different kinds of damage. Choose wisely when deciding what armor to wear.  Try to know ahead of time what kinds of opponents you are likely to face, as it's not possible to protect yourself against every possible situation.
+
+The protections of armor do come at a price, however.  Most armor is bulky and cumbersome to wear and can interfere with your efficiency at certain tasks.  Each piece of armor has an attribute penalty associated with it.  As you put on more and more armor you will notice that your secondary attributes will decrease (Strength, Constitution, Quickness, Stamina, Focus and Willpower.)  This will cause the costs of special actions to increase and will slow down the rate at which your Health, Action and Mind regenerate.  
+
+Very brave, or foolhardy, Brawlers have been known to fight with little to no armor preferring to rely on their speed and skill to save them.  Don't feel that this is required, however.  Proof of your bravery is of little consequence when you lie dead at your enemy's feet because you chose to forego the protections of armor.
+
+If you are prepared to learn about melee tactics press the button below.
+",		"brawlerweapons":"There are three basic classifications of Brawler weapons; one-handed swords, two-handed swords and polearms.  Keep in mind, Brawlers don't actually require a weapon to be effective.  Some of the most feared Brawlers in the galaxy fight with nothing more than their bare hands and feet.
+
+One-Handed Swords:  This class weapons covers most one-handed weapons.  Anything from a large knife to a laser-sword falls into this group.
+
+Two-Handed Swords:  All large two-handed weapons fall into this class of weapon.  This includes vibro-axes and deadly light sabers.
+
+Polearms:  This classification of brawling covers long pole-style weapons from staffs to vibro-lances.
+
+To learn about armor press the following button.
+",		"playingbrawler":"Ahh, the life of a Brawler.  Up close and personal, that's the honorable way to fight, not hiding behind corners and shooting with blasters.
+
+The path to being a Master Brawler is not an easy one, but what fun would life be without a few risks.
+
+Press the button below to learn more about playing a Brawler.
+",		"marksmanfromhere":"There are lots of advanced professions available to the Marksman.  What you choose to specialize in is up to you.
+
+Pistol Specialist:  This profession opens up even more special abilities and tactical options when wielding a pistol.  Very few opponents will risk closing with a master pistol specialist for fear of never reaching their target.
+
+Carbine Specialist:  Carbine Specialists are the masters of mid-range combat and area effect tactics.  A skilled carbine specialist can devastate large groups of opponents while still keeping them at a distance.
+
+Rifle Specialist:  Master of long-range combat, the Rifle Specialist is truly a fearsome enemy.  Master rifle specialists have been known to kill opponents from such concealed distances that their targets were never even aware of their existence.
+
+Squad Leader:  The Squad Leader is a master at controlling a tactical situation.  Their extensive knowledge of ranged tactics combined with their survival techniques gives people of this profession a distinct advantage in large combat situations.  The proficient leadership abilities of the master Squad Leader allows them to inspire those under their command to perform beyond their abilities.  This profession also requires experience in the Scout Exploration and Survival disciplines.
+
+Combat Medic:  Combat Medics are invaluable on the battlefield.  Their medical abilities combined with their ranged tactics allows the Combat Medic to fulfill both a defensive and offensive role.  Whether it's healing a wounded comrade or preparing a toxic gas weapon, the Combat Medic's skills are always in demand.  This profession also requires being a Master Medic.
+
+Commando:  Commandos are the masters of all known weapon techniques.  Having mastered both the Marksman and Brawler professions, Commandos continue expanding their expertise into the use of heavy weapons and custom crafted grenades.  This profession also requires being a Master Brawler
+
+Bounty Hunter:  Like the Commando, the Bounty Hunter is proficient in the use of all standard weapons.  However, the Bounty Hunter uses his expertise to track down and capture sentient beings.  Training in the use of tracking droids, the Bounty Hunter is able to locate targets regardless of where they try to hide.  This profession also requires being a Master Brawler.
+
+When you are ready press the button below to learn some more of the general activities available to you in Star Wars Galaxies.
+",		"marksmandisciplines":"There are four disciplines or skill trees inside the Marksman profession.
+
+Pistol:  This skill tree governs the use of pistols.  Higher skill levels will allow you to perform additional special abilities while wielding a pistol.  Advancement requires Pistol Experience.
+
+Carbine:  This skill tree governs the use of carbines.  Special carbine abilities become available as you progress in this discipline.  Advancement requires Carbine Experience.
+
+Rifle:  This skill tree is for the use of rifles.  Progression in this discipline will grant you use of special rifle abilities.  Advancement requires Rifle Experience.
+
+Ranged Weapon Support:  This skill tree covers tactics and abilities applicable to all ranged weapon types.  The special abilities granted from this discipline are usable with all ranged weapons.  Advancement requires Combat Experience.
+
+Press the following button when you are ready to learn about the advanced professions available to the experienced Marksman.
+",		"marksmantactics":"As simple as it may sound, Marksmen are ranged fighters and, as such, generally don't fare well when engaged in melee combat.  The most important tactic is to remain at the optimal range of your chosen weapon, because regardless of how powerful that rifle at your side is, it won't do you any good once the enemy is on top of you.  
+
+Various options are available to keep that critical distance from your opponent.  Several special abilities are available to the Novice Marksman to kill their opponent faster and, as you become more experienced, more skills and abilities will become available.  
+
+The most successful Marksmen know how to use the advantages of a group.  Nothing can be more devastating than a well-organized group with Brawlers to pin an opponent down and Marksman to rain massive damage from afar.
+
+Experimentation will most likely be required to see what works for you.  Don't be afraid to stick your neck out there and try.  No worthwhile reward comes without risk.
+
+It's now time to risk a little and put into practice a bit of what you have learned so far.  Press the following button to learn a little about Destroy Missions and to try your hand at a simple sample mission.
+",		"marksmanarmor":"As a Marksman, a core combat class in Star Wars Galaxies, it is important to use the right equipment. This includes both weapons and armor. Armor can greatly increase your survivability in combat and it is advised that you find some when you can.
+
+When you examine a piece of armor, it will have a base effectiveness rating which will tell you the percentage it decreases damage done to you. In addition, it most likely will be more effective against certain damage types dependant on the type of armor.
+
+Be warned, however, that the protections of armor do come at a price.  Most armor is bulky and cumbersome to wear and can interfere with your efficiency at certain tasks.  Each piece of armor has an attribute penalty associated with it.  As you put on more and more armor, you will notice that your secondary attributes will decrease (Strength, Constitution, Quickness, Stamina, Focus and Willpower.)  This will cause the costs of special actions to increase and will slow down the rate at which your Health, Action and Mind regenerate.  In some cases, wearing armor, and penalties associated with it, outweighs the risks of a quick death.
+",		"marksmanweapons":"There are three different schools of ranged weaponry in Star Wars Galaxies.
+
+Pistols: fast firing and good at close range. Optimum range is 25 meters or less.
+
+Carbines: lots of special attacks and effective at medium range. Optimum range is around 40 meters.
+
+Rifles: long ranged combat at its finest. Not as fast as a carbine or pistol but generally deals greater damage at a slower rate of fire. Optimum range is 64 meters.
+",		"playingmarksman":"Marksmen are the masters of ranged combat in Star Wars Galaxies. Be it a blaster pistol or a laser rifle, if you want to deal damage while keeping distance between you and the target, this is the profession for you.
+
+Playing as a Marksman, you should always try to put yourself in the best position to take advantage of your abilities and do as much damage as possible.
+
+In a party, the Marksman is a core damage dealer and skill in the Marksman disciplines is required for many advanced professions.
+",		"artisanfromhere":"Artisans have a lot of options open to them. The ones you decide to pursue are up to you. Below is a list of the different advanced professions available to an Artisan.
+
+Weaponsmith: Crafter of everything from Blaster Rifles to Vibro Axes. The Weaponsmith masters the art of making ranged, melee, and munition weaponry.
+
+Armorsmith: From personal shield generators to personal armor, bone to composite. Armorsmiths offer the galaxies best protection from the dangers you might encounter.
+
+Architect: Want to make houses, factories, and harvesters? The Architect will be in demand as everyone wants a place to call their own.
+
+Droid Engineer: R2, R3, R4, 3PO, CLL8 Load Lifter. Droids are everywhere in Star Wars Galaxies and are highly customizable robotic servants that can assist players in many ways.
+
+Tailor: It's all about style. Tailors can make and customize clothing to give the sense of fashion and style everyone wants.
+
+Chef: Cook in Star Wars Galaxies? You bet. Food and Drinks give stat enhancements to make characters more powerful for a limited time.  Chefs can make everything from full meals to desserts and even mixed drinks.
+
+Merchant: Wheelers and dealers of the galactic marketplace, Merchants specialize in the management and ownership of shops and vendors.
+
+That covers the basics of playing an Artisan, at any time you can review the Holocron to remind yourself about the mechanics of playing an Artisan or to learn other topics.
+
+When you are ready press the button below to learn some more of the general activities available to you in Star Wars Galaxies.
+",		"artisandisciplines":"There are four disciplines or skill trees inside the Artisan profession.
+
+Engineering: This skill tree concentrates on the creation of mechanical type items and is the prerequisite for the Weaponsmith, Armorsmith, Architect, and Droid Engineer professions.
+
+Domestic: This skill tree is specialized on the creation of both clothing and food items and is the prerequisite for the Tailor and Chef.
+
+Business: This is the specialized skill tree for the management of vendors and is prerequisite for the Merchant profession.
+
+Surveying: This skill tree governs how well you use surveying tools and harvesters.
+
+Press the following button when you are ready to learn about the advanced professions available to the experienced Artisan.
+",		"artisancrafting":"Crafting in Star Wars Galaxies is accomplished by using a crafting tool. As a Novice Artisan you will start out using a generic crafting tool that will allow you to craft all kinds of basic items. Later on, as you use more advanced Draft Schematics, you will need to use specific tools to create more complex items.  The complexity of the Draft Schematic will determine what kind of tool you need to craft the item.  Only schematics up to complexity 15 can be crafted with the generic crafting tool.
+
+Use the crafting tool and select the item you wish to craft from the list. You will be taken to the assembly screen and there will be a box with, and in it, the resources that you have that can be used for this schematic. Double click or drag resources into the appropriate boxes. (ie. Metal into a slot requiring metal or polymer into a slot requiring polymer.) You must use the same resource to fill a slot. This means you cannot take two different types of copper and put them in the same slot. It would need to be a stack of the same resource in order to be used in a single slot. When all slots are full that are required for the item, you will need to click assemble. It is possible to fail. Once you have succeeded, you will get a screen telling you how the item turned out. Continue on to the next screen in the crafting interface and name your item. After doing this and continuing again, your crafting tool will generate the prototype. You will see the numbers on your crafting tool count down and the item will be deposited in your inventory. Note: the pop up help can be very useful the first couple times you craft and will help guide you through this.
+
+More advanced crafting is possible with specific crafting tools and crafting stations.  Crafting stations are very useful when crafting items and are very easy to use.  You only need to be standing near the correct type of crafting station and your special crafting tool will automatically connect to the station to take advantage of its advanced features. Using a Crafting Station will allow you to experiment with the final product and could increase its value and usability.  Click the button below to learn more about advanced crafting.
+",		"artisanresources":"You can acquire resources in a number of different ways. You can acquire them yourself with your surveying tools, use a Harvester to get them for you, or purchase them from another player.
+
+The most common way an Artisan gains resources is by surveying and sampling. There are survey tools for each of the inorganic resource types and one for organic flora objects.
+
+The different types are Mineral, Chemical, Gas, Water Vapor, and Flora.
+
+The first time you use your survey tool, you will have to hold down on the tool until "Tool Options" pops up on the radial menu. Click on "Set Range" and choose the one range you have available. (As your Surveying skills increase additional options will become available.) Now that you have done this, you can use the tool. 
+
+Using the Survey Tool causes the surveying window to pop up. On this window you will see a list of the resources you can survey for with this tool. Select one and click survey. If the resource is found in the area it will be displayed on the little map and a waypoint to the highest concentration will be placed. If this is the type of resource you want to acquire then move to that waypoint and survey again. Continue to do this until you reach the highest concentration in your area. Note: Resource pools can go anywhere from 1% to 100% concentration.
+
+Once you find a good concentration, click the get sample button. Your character will automatically begin to attempt to retrieve samples until one of three things happens.
+1) You move
+2) You run out of action or mind pool for sampling
+3) You exhaust the sampleable resource in the immediate area.  
+
+Note, exhausting the sampleable resources in the immediate area doesn't mean that the resource pool is exhausted, only the easily acquired resources near the surface.  Moving just a couple meters is often sufficient to allow you to continue sampling resources.  Harvesters are able to retrieve resources deeper than your surveying tools can and can continue to retrieve resource from a single location until the resource pool is depleted.
+
+Surveying for raw resources can also be a good way to make a little money.  NPCs in Star War Galaxies will sometimes hire you for Survey Missions.  Click the button below to learn more about these Survey Missions.
+",		"artisanexperience":"Artisans gain experience in two different methods.
+
+The first method is by extracting and harvesting resources. Resource harvesting gives the Artisan surveying experience that can be used to go up the survey tree of skills.
+
+The second method is by crafting items. Not just crafting items but crafting items that other people use. This means,  in order to gain experience, you must not just make five survival knives, you need to give or sell these knives to people who will put them to use for you to get experience.
+
+As an Artisan you will only use general crafting experience but as you progress to other professions the experience will become more specific. Examples are Weaponsmiths gaining Weapons Crafting experience, while Architects gain Structure Crafting experience.
+
+Press the button below to learn about the Artisan disciplines.
+",		"artisandraftschematics":"Draft Schematics are the blueprints of Star Wars Galaxies. As an Artisan, you can check what draft schematics you have by viewing the draft schematic tab on the Datapad (Ctrl+D).
+
+As you gain skill levels in the various Artisan skill tree branches, you will acquire new schematics.
+
+So what exactly are these schematics?  Draft Schematics contain all the needed information for your crafting tool to create an item.  By looking at the schematic, either in your Datapad or Crafting Tool, you'll be able to see what kinds of materials and how much of each the schematic requires.  
+
+The most basic ingredient of all crafted items are raw resources.  (We'll teach you more about resources in a moment.)  Advanced schematics will require higher quantities of resources as well as very specific resources or rare resources.  In addition to raw resources, some schematics require crafted components.  These components are crafted using other Draft Schematics.
+
+You may not always know how to make the component required by your schematic or it may not be worth your time to create it yourself.  In these situations, you will want to seek out other players to buy the components from.
+
+You're probably pretty excited to start crafting items right away, but first you are going to need to learn how to get the resources that are needed to craft with.  When you are ready, press the button below and we'll learn how and where to get resources.
+",		"playingartisan":"Artisans play an integral role in Star Wars Galaxies. While primarily a non-combat profession, Artisans are the backbone of the economy.
+
+Want to own a house someday? You will need an Architect. Want to get a new blaster? Better find a Weaponsmith. Need some Armor? You will need to look to an Armorsmith. All of these professions started as Artisans.
+
+The starting Artisan profession will give you a taste of all the facets of the wonderfully complex and interesting crafting system.
+
+The following sections will teach you about the different facets of the Artisan profession and what they can become.  When you are ready, we'll start by teaching you about Draft Schematics.
+",		"findcantina":"When you are ready, we'll show you the way to the nearest Cantina, or Theater in this city.  Pressing the button below will close the Holocron and create a Waypoint to the nearest Cantina or Theater.  Once you have arrived at the establishment, the Holocron will open again and we'll continue the tour.
+",		"findhospital":"When you are ready, we'll show you the way to the nearest Medical Center in this city.  Pressing the button below will close the Holocron and create a Waypoint to the nearest Medical Center.  Once you have arrived at the Medical Center, the Holocron will open again and we'll continue the tour.
+",		"findcloning":"When you are ready, we'll show you the way to the nearest Cloning Facility in this city.  Pressing the button below will close the Holocron and create a Waypoint to the nearest Cloning Facility.  Once you have arrived at the Cloning Facility, the Holocron will open again and we'll continue the tour.
+",		"findbank":"When you are ready, we'll show you the way to the nearest bank in this city.  Pressing the button below will close the Holocron and create a Waypoint to the nearest bank.  Once you have arrived at the bank, the Holocron will open again and we'll continue the tour.
+",		"findskilltrainer":"When you are ready, we'll show you the way to the nearest Skill Trainer for your chosen profession.  Pressing the button below will close the Holocron and create a Waypoint to your Skill Trainer.  Once you have arrived at your Skill Trainer, the Holocron will open again and we'll continue the tour.
+",		"exploring":"We're going to start out by introducing you to the important buildings in your city. You will be visiting these buildings many times while playing Star Wars Galaxies. It's important that you familiarize yourself with their location, appearance, and function.  Don't worry if it takes you a while to remember where these building are. We'll also teach you about the tools available to help you find important things in the game.
+
+Let's start out by getting our bearings. If you hit Ctrl+M, you can open the overhead map of the area around you. This will give you some idea of where you are and what buildings are around you that might not be in view. You may want to spend some time just walking around to get a little more familiar with the city before starting the city tour.  As you walk around town with this map open, you will notice that important areas are marked on the map.
+
+When you are ready press the button below to begin the your tour of the city.
+",		"intheworld":"Here you are, fresh out of the tutorial and just off the shuttle. The sections below one will help you answer the question of "What do I do now?".
+
+We will cover things to help you get going in your starting profession and assist you in finding what you need in your chosen starting city.",		"missions":"Missions are a way for you, as an adventurer, to run errands for NPCs (Non Player Characters) to earn credits and have some fun. You can get missions from a mission terminal or by talking to NPCs
+
+When you get a mission, an entry will be made in your datapad. You can access your datapad by pressing Ctrl+D or by clicking on the little battery icon, located on the button bar, in the bottom right portion of your screen. You can left click and hold on the icon in your datapad to choose options like viewing the mission details.
+
+When you activate a mission waypoint an orange arrow will point the direction to your target. As you get closer to the target, you will see a beam of light coming from the sky directing you to where you want to be.",		"experience":"As you adventure in Star Wars Galaxies you will gain experience. In order to learn new skills and advance your character, you will need to meet the requirements of that skill. Skills have both prerequisite requirements and experience requirements. For instance, you cannot immediately  learn Advanced Carbine Skill; you would have to learn Intermediate Carbine Skill first. The only skills that do not have an experience requirement are the Novice skills of all the starting professions.
+
+What is a Novice skill? A Novice skill is the basic skills a given profession would have as a starting adventurer. For instance, Novice Medic skill will grant the ability to heal wounds and damage, while Novice Entertainer will give the ability to dance and play music.
+
+You can access the skills window by pressing Ctrl+S or by clicking the lightning bolt in the button bar at the bottom right hand corner of your screen. In the skills window, you can view the skills trees for the professions your character has on the "My Professions" tab or by clicking on the "All Professions" tab. You can view the skill trees for all professions in the game.
+
+Let's say we want to learn Novice Scout. We need to find a Scout trainer.  Scout trainers are found in the Commerce Guild. To quickly find a Commerce Guild, you'll want to type /find and select "Commerce Guild" from the window that opens (selecting an option from the "find" window produces a waypoint for your convenience). If we go to the newly-created waypoint, we will find a Scout Trainer inside the building with whom we can converse. Conversing with the trainer will result in several options, one of which is "What skills can I learn". Selecting this option from his conversation list will display the skills he can currently teach, and you can currently learn. For example, a Scout Trainer can teach scout skills, but cannot teach skills that an Entertainer Trainer would teach. 
+
+Clicking on a skill, provided that you have enough experience points and credits, will tell the trainer that you'd like to learn that particular skill.
+
+",		"combat":"Creatures or NPCs (Non Player Characters) that you can attack will have red, or yellow, names above their heads when you target them. To engage in combat, left click on the NPC to select it as your target. You now have two options.
+
+1) left click and hold on the target to pull up the radial menu and select attack.
+2) use the tilde key (~) to open the radial menu and click attack or press the corresponding option number (if attack is on top it would be option one, if attack is the second option it would be two).
+
+Your character will automatically go into combat mode upon selecting attack. Assuming you are in range, your character will begin to attack the target with default attacks. You and your target will continue to exchange attacks until one of you flees or is incapacitated.
+
+Max range is 64m for ranged weapons.
+Max range on most melee weapons is about 3-8m.
+
+The range of your target is displayed in the upper right hand corner by the target's name.
+
+If you are out of range, the accuracy numbers to the left of the target's status bars will show as a --- symbol.",		"equipment":"To use an item or piece of equipment, simply left click and hold on the item in your inventory. The radial menu will pop up displaying the options you have for manipulating that object.
+
+If the object is a piece of clothing, armor or a weapon, you will have the option to equip it. This will place the item onto your character. You can also do this quickly by double clicking the item in your inventory. Items that are currently being worn or are equipped on your character will highlighted in green.
+
+If the object is a piece of food, a medical stim pack, crafting tool or similar item, there will be a "Use" option. If you click your mouse over the use option, more options may appear specific for the item. For instance, you can hold your mouse button on a surveying tool. The "Use" and "Examine" choice will expand from the activated radial menu. If you move your cursor to "Use", and continue to hold down the mouse button, you will additionally receive a new option to choose beneath it.",		"insurance":"When you die, certain items in your inventory take 5% damage. Insuring an item will reduce this to 1% damage (or 0% if you suffer a Faction death). 
+
+You can purchase insurance from the insurance terminals inside of a cloning facility. You have the option of selecting individual items to insure or to simply insure all of your items. Note: Depending on the number of items you have and their value, insurance can be expensive.
+",		"cloning":"Cloning is the term used in Star Wars Galaxies to refer to the system that allows your character to respawn after being killed. When your character dies, a menu will pop up with your cloning options. These options will always include "Clone closest Uninsured". What does that mean? We will explain it.
+
+You can always clone to the nearest cloning facility but let's say that you decided you want to go to a specific place regardless of where you died. To do this you would need to go to the cloning facility in the city you want to respawn in and pay a cloning fee to save your characters clone at that location. Now if you die you will have two options "Clone closest Uninsured" or "Clone designated Uninsured". The designated facility is the one you saved your clone at while the closest will vary depending on your location.
+
+It is of note that just because you save your clone at a location does not mean that you saved your character, you have only specified the prefered location to clone at. When you clone in Star Wars Galaxies you will retain all the experience and skills that you had earned up to the point of your death, however you will also retain all of your wounds.
+
+When cloning without insurance you will receive a waypoint to the location of your corpse. If you proceed back to the location of your death you can loot your corpse and regain any items and cash that were on your character upon death.
+
+Should your cloning options fail to appear for some reason, you can use the command /activateclone
+If that still does not work for you use the emergency only command /activateclone now",		"dying":"In Star Wars Galaxies, when your Health, Mind, or Action pool reaches zero, you will become incapacitated. Being incapacitated is similar to being knocked unconscious and does not mean that your character has died. If you are incapacitated, there will be a timer at the bottom right corner of your screen that will represent how much longer your character will remain in the incapacitated state.
+
+Sometimes creatures, NPCs, or other players might decide to go ahead and actually kill your character after it has been incapacitated.  This is commonly referred to as a "Death Blow". Don't worry - your character is not dead permanently.
+
+When your character has been killed, a menu will pop up with your cloning options. We will cover these options in the next section.",		"bank":"The bank in Star Wars Galaxies has many useful functions for the adventurer. You can use the bank to store money and items safely to free up space in your inventory.
+
+If you double click on a bank terminal, it will open the credit transfer option by default. If you left click and hold on the use option of the radial menu, more options will become open to you. The options available are "Withdraw All Credits", "Join Bank", "Quit Bank", "Safety Deposit Box", and "Withdraw/Deposit".
+
+"Withdraw All Credits" allows you to remove any credits you have in the bank and place it in your cash pool. Note: Trading with players often requires you have cash with you while many terminals and services can draw funds directly from your bank.
+
+In order to access a safety deposit box, you have to join a particular bank. Once you have selected "Join Bank", you will have access to the "Safety Deposit Box" and "Quit Bank" options. The safety deposit box option will open a small window in which you can drag items from your inventory for safekeeping. However, the safety deposit box is limited to a specific planet. For instance, if you "Join Bank" and opt to use the safety deposit box on Tatooine, you cannot access it on Naboo.
+
+"Withdraw/Deposit" is the default action when you double click on a banking terminal and is the option that lets you transfer specific amounts between your cash and bank pools. ",		"buyingitems":"As you are moving around the cities in Star Wars Galaxies, you will see various kind of terminals that will allow you to purchase items and equipment to aid you in your adventure.
+
+To access these terminals and purchase items target the terminal and double-left click on it. A menu listing the items available on this terminal will display. Left click to choose one and then click on the purchase button. The credits for the item will be removed from your character and the item will be placed into your inventory.
+
+Be aware that you can attempt to buy items when your inventory is full. Make sure you keep some room for your purchases.",		"toolbar":"Along the top middle portion of your screen you will see your Toolbar. The Toolbar allows you to place hotkeys (keys to which you have quick access) to abilities and items for easy access. You can add items to your Toolbar by simply left clicking on an item or ability icon and dragging it onto one of the boxes. 
+
+You can instantly access any of these hotkeys by pressing the corresponding function key on your keyboard (F1 through F12). Right clicking on any of these hotkey boxes will bring up an options menu allowing you to perform the hotkey'd action, remove the hotkey, bind the hotkey to a key or enter a description for that hotkey. 
+
+You have a total of six banks of hotkeys that you can toggle with the up and down arrows on the left hand side of the Toolbar or by pressing Ctrl+~ in the default keyboard setup. 
+
+In addition, if you find yourself in need of more Toolbar space, you can left click on the lower portion of the toolbar and drag it down to reveal a second set of hotkey boxes for each bank. This second row of hotkey boxes is accessed by pressing Shift+the corresponding function key (Shift+F1 through Shift+F12).
+
+If you find that using fuction keys are cumbersome to your gameplay, you can reassign your hotkeys to the keys of your choosing. You may do this through your "Options" menu.",		"inventory":"You have a special menu called your "Inventory" that lets you carry the items you find in Star Wars Galaxies. You can reach it either by pressing CTRL-I or by pressing the inventory button on your button bar in the lower left corner of the screen. You can identify the inventory icon, on the button bar, with a suitcase. 
+
+Your Inventory has a limited capacity, and there's a bar at the bottom showing you how much room you've taken up. Items that are currently equipped or are being worn will show up with a green background.
+
+After finding a container or corpse with items in it, you'll probably want to drag those items to your inventory.",		"containers":"Some objects are containers, and one of the choices on the radial menu will be "Open". (If it's an NPC's corpse, the option will be called "Loot" instead, but it means the same thing).
+
+When you open a container, you will see a container window. This window shows you the contents of the container. You can pick things out from the container and drag them into another container or into your inventory.
+",		"conversations":"One of the options on the radial menu for almost every NPC you encounter is "Converse". When you select this option, a special interface will open on top of the selected NPC.
+
+On the left side of this display will be the speech spoken by the NPC, and on the right side will be a multiple choice listing of possible responses you have available. One of the options will be "Stop Conversing", which will end the conversation. You can click on the options while in mouse cursor mode or while in mouselook mode.
+
+You can move around during the conversation, by the way. You don't need to stand still. The conversation will automatically end when you get too far away from the NPC.",		"radialmenu":"If you click and hold down the mouse button while hovering over an object, or NPC, you will get an expanded menu of options. We call this the RADIAL MENU. Options for interacting with the object will appear in a circle around the object.
+
+It can take a little while to fetch all the available options from the server. As long as the blue "downloading" animation is playing, there are still more options that have yet to be displayed. When it stops moving, then you know that all the options have been downloaded.
+
+The option at the top is always the default action that will be performed if you double click on the object.
+
+To choose an option, simply move the mouse to the option you want, and let go of the mouse button once you're over it.
+
+Radial menu options can have submenus as well. If you hover for a moment over a button, you might see additional choices pop up as a submenu on that button.",		"usingobjects":"You can use an object by just double clicking on it with your cursor. You'll notice that when you hover your cursor, or reticle, over an object, the shape of the cursor changes. The shapes indicate what action will be performed when you double-click. For example, a plate with a fork and knife means that double clicking on it will allow you to eat the object. A large, red encircled 'X' means that you'll attack it.
+
+For most beings you see in the cities, the default choice will be to examine the being or converse with it. In some cases, you'll be able to attack it.
+
+There are many more things you can generally do with objects in the world. The next topic, on "The Radial Menu," will explain how you can perform more complex actions on objects.",		"lookatobjects":"To look at objects in Star Wars Galaxies, all you need to do is move your camera until your cursor or reticle is over the thing you want to look at. If it can be interacted with, blue brackets will pop up around it, and the object's name will appear.
+
+If it's a living being, you may also get to see its status. From left to right, the elements that appear beside the name are:
+
+- a number that indicates how accurate you will be trying to hit it with your equipped weapon. If you're out of range, it'll show as three dashes like this: ---
+
+- the being's health, action, and mind stats. These show up as red, green, and blue bars respectively, and are often affectionately called the "HAM bars."
+
+- the "con meter." This is a little colored explosion icon that indicates how tough the being would be in a fight. Green means it's easy, blue somewhat easy, white slightly difficult and yellow through red means it's increasingly tougher to kill.   You probably don't want to tackle anything with a con other than green or blue at first, until you know more about the game.",		"chatwithplayers":"Chatting with other players is very simple. Just type. As soon as you hit the ENTER key, your text will be sent out and can be read by anyone who is nearby.
+
+You'll notice that the text you type appears at the bottom of your screen in what we call the INPUT BAR. This is part of your CHAT BOX. You can see the text that you've spoken, as well as what others have said, in the chat box.
+
+Your text also appears over your head in a CHAT BUBBLE. There's lots of styles and appearances for chat bubbles, which helps to identify the tone of the speaker.
+
+There are a lot of more advanced chat options in Star Wars Galaxies. You can read about them in the Holocron by choosing any of the topics under "Communication" from the topic list to the left.",		"mousemode":"Star Wars Galaxies has a modal interface. This means that you need to hit a key to switch between what we call "mouse cursor mode" and "mouselook mode." Right now, because you have this window open, you are in cursor mode.
+
+Tapping ALT on your keyboard will switch between the two modes. If you think you'll only be in the other mode for a brief moment, you can also hold down ALT to switch, and when you let the key go, you'll switch back automatically. This works regardless of which mode you were in to start with.
+
+When you switch out of mouse cursor mode, all the windows that require a cursor to operate will vanish. Don't worry, they're not gone forever! They'll return automatically when you enter mouse cursor mode again. Try it now, and you should see this Holocron go away, and then return when you switch modes again.
+
+Looking around varies a little bit depending on which mode you are in. If you're in mouse cursor mode, moving the cursor to the edge of the screen will cause the camera to pan in that direction. If you're in mouselook mode, it's even simpler: just moving your mouse will change the direction in which you are looking.
+
+There's a few ways to move around; you can use the mouse or the keyboard to do it.
+
+Regardless of which mode you are in, you can always use the arrow keys to move. 
+
+You can also move using the right mouse button. When you're in mouselook mode, the right mouse button acts exactly like the up arrow--it moves you forward.
+
+When you're in mouse cursor mode, though, pressing on the right mouse button means "move towards the cursor." This works best when you have zoomed out all the way and are looking at your character from overhead.
+
+",		"lookandmove":"Let's try looking around. To do so, simply move the mouse. If you have a cursor up, you'll need to move it until it is pushing on the edges of the screen. You can look up or down or anywhere you want.
+
+If you have a mousewheel on your mouse, you can use it for zooming the camera in and out. Scrolling up will zoom all the way into a first person view, and you can scroll down to zoom all the way out to a fairly large distance. In fact, if you prefer, you can zoom out to there, tilt the camera down, and play the game from an overhead view.
+
+Pressing the up arrow will move you forward in the direction you are currently looking. To change the direction in which you are moving, you will need to look in a new direction. You can do this by moving the mouse around. Pressing the down arrow will move you backward and the left and right arrows will move you sideways.
+
+You can also move using the right mouse button. When you're in mouselook mode, the right mouse button acts exactly like the up arrow--it moves you forward. Right now, because you're reading this Holocron, you happen to be in "mouse cursor mode." The next topic explains what that means.
+",		"tutorialrecap":"This section of the Holocron offers a recap of the tutorial on the space station that occurs right after character creation. It's possible to skip this tutorial, so you may have missed it--but we have you covered.
+
+Simply click through the topics to the left to read through basic instructions on navigation, chatting, and interacting with the world.",		"aboutholocube":"This screen, the Holocron, is an interactive help system. On the left, you see a tree view of categories. You can open up categories by clicking on the yellow squares next to them . Clicking on the category name will display text in this window, related to the subject chosen. You can collapse a category by clicking on the doubled yellow squares.
+
+As with all interactive screens in Star Wars Galaxies, there is a built-in Help function. You can check or uncheck the box in the upper right corner of the window at any time. It will automatically uncheck after you go through the tooltips once.
+
+When you start out in Star Wars Galaxies, we open up the Holocron automatically for you at key points in the game, to guide you through the experience of learning how to play. Everything under the "Where Do I Begin?" section can be considered to be part of a tutorial on how to play Star Wars Galaxies. Even if your particular tutorial experience doesn't take you to every part of this section, we suggest that you may want to glance through it--you never know when you might want to switch profession tracks, for example!
+
+However, the automatic tutorial doesn't even begin to cover all the material in the Holocron. You might want to take the time to explore the rest of the Holocron as well. It serves as an interactive manual, and covers many subjects beyond what the tutorial does, including basic travel guide information about the planets and creatures you may encounter in the game. It even includes a handy Glossary of Terms.",		"welcometoswg":"Star Wars Galaxies is a massively multiplayer online roleplaying game (MMORPG). That means that it's a virtual world on the Internet, to which thousands of players can connect simultaneously and have shared adventures. Everything you do will happen on the game servers, and the game will continue whether or not you are logged on.
+
+You've just left the space station where the Empire processed you as a refugee, and you've been unceremoniously deposited on one of the planets in a starting city. The primary planets in the galaxy each have two or more major cities, and these major cities provide the same basic amenities. We'll take you on a tour of these key locations.
+
+Before going exploring, however, it might be a good idea to take some time to try out all the navigation and interface tips that were given to you in the tutorial. If you need a refresher, this Holocron has a recap of the tutorial, available in the list of topics to the left.
+
+For now, you should try
+
+  -- moving around. The arrow keys always work, regardless of what keyboard mapping you are using.
+  -- getting used to switching between mouse cursor mode and mouselook mode. This is a key part of the interface in Star Wars: Galaxies. By default, changing modes is accomplished with the ALT key.
+  -- speaking out loud. By default, you do this by simply typing.
+
+If you dislike the default keyboard mappings, you can change them to a fresh default set, or map your own. We have default settings for EverQuest players, first-person shooter players, and isometric game players (such as Ultima Online or Lineage). You can learn more about the game interface by selecting the "Interface" topic from the list to your left.
+
+",		"wheredoibegin":"Welcome to Star Wars Galaxies! You have taken your first steps into a galaxy far, far away.
+
+If this is your first time playing, it may seem a little overwhelming.  This help area, the Holocron, is your guide to learning everything you need to know to live in this world.  If at any time you are lost, or you need help on a topic, come to this screen.  You can press Control-H to access the Holocron at any time.  We'll remind you periodically (as you discover new things in the game) about this screen, and lead you back here. If you want to learn more about the Holocron, you can select "About the Holocron" from the topic list to your left.
+
+If you need to go back over what you learned aboard the space station, you can select "A Recap of the Tutorial" from the topic list to your left.
+
+If, on the other hand, you are ready to begin your adventures, press the button below and we'll start out by giving you a tour of your starting city.
+"
+}}

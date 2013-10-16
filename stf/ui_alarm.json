@@ -1,19 +1,6 @@
-[
-'22':'alarm_number',
-'21':'alarm_usage',
-'20':'alarm_noon',
-'19':'alarm_midnight',
-'18':'alarm_pm',
-'17':'alarm_am',
-'16':'alarm_in_invalid',
-'15':'alarm_at_invalid',
-'14':'alarm_maximum_reached',
-'12':'alarm_recurring',
-'11':'alarm_remaining',
-'7':'alarm_id_invalid',
-'6':'alarm_remove',
-'5':'alarm_expired',
-'4':'alarm_title',
-'2':'alarm_id_expires',
-'1':'alarm_none',
-]
+{
+	"stfFile":"ui_alarm",
+	"entries": {
+		"alarm_number":"Alarm %DI",		"alarm_usage":"To set an alarm type /alarmAddIn, /alarmAddInRepeat, /alarmAddtAt, or /alarmAddAtRepeat for parameters. Also see the alarm window.",		"alarm_noon":"Noon",		"alarm_midnight":"Midnight",		"alarm_pm":"PM",		"alarm_am":"AM",		"alarm_in_invalid":"The specified alarm time is invalid. Valid times for the alarm are 0-8760 hours and 0-60 minutes.",		"alarm_at_invalid":"The specified alarm time is invalid.  Valid times for this alarm are 0-23 for hour and 0-59 for minute.",		"alarm_maximum_reached":"You have reached the maximum of %DI alarms. Please remove an existing alarm to add a new alarm.",		"alarm_recurring":"(recurring)",		"alarm_remaining":"(%TT remain)",		"alarm_id_invalid":"Alarm (%DI) is invalid.",		"alarm_remove":"Removed:",		"alarm_expired":"Alarm (%DI) expired: ",		"alarm_title":"List of Alarms
+----------------------------------",		"alarm_id_expires":"Alarm expires",		"alarm_none":"There are no alarms set."
+}}

@@ -1,32 +1,5 @@
-[
-'37':'moderate_failure_ass',
-'36':'moderate_success',
-'34':'moderate_success_exp',
-'32':'success_exp',
-'31':'moderate_failure_exp',
-'30':'internal_failure_exp',
-'29':'great_success_exp',
-'28':'good_success_exp',
-'27':'failure_exp',
-'26':'critical_success_exp',
-'25':'critical_failure_exp',
-'24':'big_failure_exp',
-'22':'success_ass',
-'20':'moderate_success_ass',
-'19':'internal_failure_ass',
-'16':'great_success_ass',
-'14':'good_success_ass',
-'13':'failure_ass',
-'12':'critical_success_ass',
-'11':'critical_failure_ass',
-'10':'big_failure_ass',
-'9':'big_failure',
-'8':'moderate_failure',
-'7':'failure',
-'6':'success',
-'5':'good_success',
-'4':'great_success',
-'3':'critical_failure',
-'2':'critical_success',
-'1':'internal_failure',
-]
+{
+	"stfFile":"craft_results",
+	"entries": {
+		"moderate_failure_ass":"The item assembly was 'ok'.",		"moderate_success":"Moderate Success",		"moderate_success_exp":"The experimentation attempt was a moderate success.",		"success_exp":"The experimentation attempt was a success.",		"moderate_failure_exp":"The experimentation attempt was a moderate failure.",		"internal_failure_exp":"The experimentation attempt suffered an internal failure.",		"great_success_exp":"The experimentation attempt was a great success!",		"good_success_exp":"The experimentation attempt was a good success.",		"failure_exp":"The experimentation attempt was a failure.",		"critical_success_exp":"The experimentation attempt was an amazing success!!!",		"critical_failure_exp":"The experimentation attempt was a critical failure!!",		"big_failure_exp":"The experimentation attempt was a big failure.",		"success_ass":"The item assembly was a success.",		"moderate_success_ass":"The item assembly was a moderate success.",		"internal_failure_ass":"The item assembly attempt suffered an internal failure.",		"great_success_ass":"The item assembly was a great success!",		"good_success_ass":"The item assembly was a good success.",		"failure_ass":"The item assembly was only marginally successful.",		"critical_success_ass":"The item assembly was an amazing success!!!",		"critical_failure_ass":"The item assembly was a critical failure.",		"big_failure_ass":"The item assembly barely succeeded.",		"big_failure":"Big Failure",		"moderate_failure":"Moderate Failure",		"failure":"Failure",		"success":"Success",		"good_success":"Good Success",		"great_success":"Great Success",		"critical_failure":"Critical Failure",		"critical_success":"Amazing Success",		"internal_failure":"Internal Failure"
+}}

@@ -1,3 +1,5 @@
-[
-'1':'test_wing',
-]
+{
+	"stfFile":"space/space_wing",
+	"entries": {
+		"test_wing":"Test Wing Name"
+}}

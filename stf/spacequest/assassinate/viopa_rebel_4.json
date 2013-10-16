@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/viopa_rebel_4",
+	"entries": {
+		"title_d":"The Kuat freighter is transporting something important to the Imperial base in the Lok system. Don't let it reach the base!",		"title":"Lok system: Destroy Kuat Freighter.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Rebel Command: < %TO >",		"quest_target_t":"Freighter spotted, destroy it.",		"quest_target_d":"Wait or search the nearby area of these coordinates and ambush the Kuat freighter when you find it. Although the freighter is well guarded, don't focus on its escort. All that matter is that the freighter is destroyed.",		"quest_location_t":"Lok system.",		"quest_location_d":"The Kuat freighter is on its way to the Imperial base in the Lok system.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"Blasted! It got away! Return to base immediately!",		"escort_wiped_out":"Tactical Computer: < Scans show target vessel escort terminated. No more escort vessels remain. >",		"escort_remaining":"Tactical Computer: < Scans show target vessel escort terminated. %DI escort vessels remain. >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Excellent job! Get out of there pilot, the Empire will try to get revenge.",		"arrival_phase_2":"Location confirmed. Hurry over there and destroy that freighter. Be careful it's heavily guarded!",		"arrival_phase_1":"We are pinpointing the location of the Kuat Freighter now, stand by.",		"Quest Log Data":"Text"
+}}

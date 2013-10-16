@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/stn_dantooine_owner_smuggler_surpriseattack02_tier2_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The owner of the Lord's Mistress has managed to track you to the Dantooine system. He will be able to easily put two and two together. Sadly Hap Daniel must be eliminated.",		"title":"Space Dantooine: Destroy the Lord's Master",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"Return the station with all of your captured booty for the operators.",		"assigned_delayed":"It looks like Hap Daniel, the owner of the Lord's Mistress, has found out where you went. Destroy him before he can report you to the authorities."
+}}

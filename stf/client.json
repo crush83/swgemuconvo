@@ -1,25 +1,7 @@
-[
-'23':'you_cannot_log_out_while_in_combat',
-'22':'group_space_launch_cannot_be_passenger',
-'21':'group_space_launch_invite',
-'20':'near_zone_edge',
-'19':'autopilot_obstacle',
-'18':'too_many_commands_queued_generic',
-'17':'too_many_commands_queued',
-'16':'no_enemy_flags',
-'15':'enemy_flags',
-'14':'con_self',
-'13':'con_6',
-'12':'con_5',
-'11':'con_4',
-'10':'con_3',
-'9':'con_2',
-'8':'con_1',
-'7':'follow_start_prose',
-'6':'follow_stop_prose',
-'5':'group_invite',
-'4':'group_auto_invite_reject',
-'3':'group_auto_invite_reject_prose',
-'2':'input_scheme_confirm_reset_prose',
-'1':'resource_type_label_prose',
-]
+{
+	"stfFile":"client",
+	"entries": {
+		"you_cannot_log_out_while_in_combat":"You cannot log out while in combat.",		"group_space_launch_cannot_be_passenger":"You cannot be a passenger of a ship while the space launch window is open.",		"group_space_launch_invite":"%TT has invited you to launch into space.  Would you like to join?",		"near_zone_edge":"You are nearing the effective limitations of your sublight engine.  Please navigate closer to the core of the system or engage your hyperdrive.",		"autopilot_obstacle":"Obstacle detected.",		"too_many_commands_queued_generic":"Too many commands queued.  A command was dropped.",		"too_many_commands_queued":"Too many commands queued.  Command "%TT" dropped.",		"no_enemy_flags":"You are no longer attackable by enemy players.",		"enemy_flags":"You are now attackable by enemy players.",		"con_self":"***\#. %ST looks super-tough, but you think you are, too.",		"con_6":"***\#. %TT looks like instant death.",		"con_5":"***\#. %TT looks like a tough fight.",		"con_4":"***\#. %TT looks like an even match.",		"con_3":"***\#. %TT would probably be defeated.",		"con_2":"***\#. %TT looks weak to you.",		"con_1":"***\#. %TT is no match for you.",		"follow_start_prose":"You start following %TT.",		"follow_stop_prose":"You stop following %TT.",		"group_invite":"%TT has invited you into a group.  Would you like to join?",		"group_auto_invite_reject":"You have automatically rejected a group invitation.",		"group_auto_invite_reject_prose":"You have automatically rejected %TT's group invitation.",		"input_scheme_confirm_reset_prose":"Resetting your Keymap to %TU will overwrite your current Keymap.
+Reset your Keymap?
+",		"resource_type_label_prose":"%TU, a type of %TT"
+}}

@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/tatooine_imperial_tier3_2",
+	"entries": {
+		"title_d":"Travel to the Endor system and inspect another Rebel Advanced Recon fighter. Command needs more details as to the Rebel operation in the system. Intelligence has a lock on the location of another Rebel Advanced Recon fighter that seems to be a good target.",		"title":"Endor System: Inspect Another Rebel Advanced Recon Fighter",		"split_quest_alert_fail":"",		"split_quest_alert":"Alert! Enemy ships detected incoming at attack speeds. Take evasive action immediately. Destroy all incoming fighters.",		"quest_location_t":"Travel to the Endor System",		"quest_location_d":"Intelligence has located another Rebel Advanced Recon fighter in the Endor system. Travel to the supplied navigaiton waypoint in order to find the second scout.",		"quest_inspect_t":"Inspect the Rebel Advanced Recon Fighter",		"quest_inspect_d":"Disable and inspect the scout for any more data that can be used by command.",		"quest_dock_t":"Transfer the Rebel Orders",		"quest_dock_d":"Once you have found some more information that command can use against the Rebels, dock with the scout and transfer that information to your vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,21 +1,5 @@
-[
-'31':'player_3_2',
-'30':'player_3_1',
-'29':'npc_4_2',
-'28':'npc_4_1',
-'27':'player_2_2',
-'26':'player_1_2',
-'25':'npc_reward_2',
-'24':'npc_3_2',
-'23':'npc_2_2',
-'22':'npc_1_2',
-'21':'player_2_1',
-'20':'player_1_1',
-'19':'npc_reward_1',
-'18':'npc_3_1',
-'17':'npc_2_1',
-'16':'npc_1_1',
-'9':'not_it',
-'2':'cantwork',
-'1':'gotowork',
-]
+{
+	"stfFile":"npc_mission/static_businessman_fetch",
+	"entries": {
+		"player_3_2":"What league are you talking about?",		"player_3_1":"What kind of documents did you have?",		"npc_4_2":"Don't you follow sports at all?  If you did you'd know what I was talking about.",		"npc_4_1":"It was mostly my personal accounting, but there are some sensitive documents in there that I can't discuss.",		"player_2_2":"Nah.  I don't care about sports.",		"player_1_2":"I'll be right back with your ball kid.",		"npc_reward_2":"Here you go.  See I had good seats, and I didn't let them tear it.  You should be able to get something for it if you want.",		"npc_3_2":"That's too bad.  I'll find somebody useful.",		"npc_2_2":"Great!  Hurry back.",		"npc_1_2":"I had an autographed ball from my favorite player in the league, and somebody took it!  If you can get it back for me I'll give you this collector's item ticket from last year's championships.  It's worth plenty.",		"player_2_1":"There's no way.  I'm too tired right now.",		"player_1_1":"I'll be back before you know it.",		"npc_reward_1":"Here you go.  It needs some ink, but you'll never have one better.",		"npc_3_1":"Surely somebody will be able to help me.  Thanks for nothing, though.",		"npc_2_1":"Thank you...I'll be waiting anxiously for your return.",		"npc_1_1":"I had a lot of important paperwork in my briefcase, and now it's gone!  Some thief came by and grabbed it out of my hands.  If you can get it I'll give you this engraved writing stylus I got when I got my promotion.",		"not_it":"No, sorry, that's not the item I was looking for...",		"cantwork":"I understand you're already working for someone else.  Come back when you're done with that job.",		"gotowork":"I need you to finish that task I gave you earlier.  Ok?"
+}}

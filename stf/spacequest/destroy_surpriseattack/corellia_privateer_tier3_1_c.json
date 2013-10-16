@@ -1,14 +1,5 @@
-[
-'12':'unused2_t',
-'11':'unused2_d',
-'10':'unused1_t',
-'9':'unused1_d',
-'8':'title_d',
-'7':'title',
-'6':'split_quest_alert_fail',
-'5':'split_quest_alert',
-'4':'leave_early',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_privateer_tier3_1_c",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Survive the Scavenger attack, then return to your trainer",		"title":"Endor System: Survive the Scavenger Attack",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"\#pcontrast3 CorSec Command: < \#pcontrast1 Good job coming out of that, return to base. \#pcontrast3 > ",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

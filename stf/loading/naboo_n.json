@@ -1,24 +1,6 @@
-[
-'22':'keren',
-'21':'moenia',
-'20':'kadaara',
-'19':'loam_redge',
-'18':'kaja_orzee',
-'17':'lord_hethrir',
-'16':'darth_vader',
-'15':'emperor_palpatine',
-'14':'tusk_cat',
-'13':'peko_peko',
-'12':'narglatch',
-'11':'kaadu',
-'10':'falumpaset',
-'9':'fambaa',
-'8':'gungan',
-'7':'theed_palace',
-'6':'gungan_sacred_place',
-'5':'emperors_retreat',
-'4':'lake_retreat',
-'3':'deeja_peak',
-'2':'theed',
-'1':'naboo',
-]
+{
+	"stfFile":"loading/naboo_n",
+	"entries": {
+		"keren":"Keren",		"moenia":"Moenia",		"kadaara":"Kaadara",		"loam_redge":"Loam Redge",		"kaja_orzee":"Kaja Or'Zee",		"lord_hethrir":"Lord Hethrir",		"darth_vader":"Darth Vader",		"emperor_palpatine":"The Emperor",		"tusk_cat":"Tusk-Cat",		"peko_peko":"Peko-Peko",		"narglatch":"Narglatch",		"kaadu":"Kaadu",		"falumpaset":"Falumpaset",		"fambaa":"Fambaa",		"gungan":"Gungan",		"theed_palace":"Theed Palace",		"gungan_sacred_place":"Gungan Sacred Place",		"emperors_retreat":"Emperor's Retreat",		"lake_retreat":"Lake Retreat",		"deeja_peak":"Dee'ja Peak",		"theed":"Theed",		"naboo":"Naboo
+"
+}}

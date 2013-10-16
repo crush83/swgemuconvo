@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_imperial_4",
+	"entries": {
+		"title_d":"Destroy the Commerce Raider Leader in the Tatooine system. The Commerce Raiders are becoming a problem that is quickly growing out of control. Intelligence has managed to get a lock on where the pirate's leader is laying low. Without their leader, Imperial Command hopes that the pirates will lose a great deal of their effectiveness. You are to destroy this leader. When you complete this mission, return to Lt. Akal Colzet in the Imperial Pilot's Association Hall next to the Bestine Capital building and Lt. Colzet will train you in a new Imperial Pilot skill.",		"title":"Tatooine System: Destroy the Commerce Raider Leader",		"split_quest_alert_fail":"",		"split_quest_alert":"The leader jumped a short distance away so you still have a chance to take him out. Travel to his new location and destroy him.",		"quest_update":"\#pcontrast1 Imperial Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Commerce Raider Leader",		"quest_target_d":"Intercept and destroy the Commerce Raider Leader to the Tatooine system. In order for the Empire to have any control over these nefarious pirates you will have to take out their leader. The pirate is making a run for it so we will update you on his progress by sending you new waypoints as he moves through the sector.",		"quest_location_t":"Travel to the Tatooine System",		"quest_location_d":"Travel to the Tatooine system and intercept the Commerce Raider Leader.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"How could you let him get away? That is unacceptable. You are lucky we are still tracking the leader. Stand by for update to his location.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Escort fighters eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Nice work, pilot. Without their leader the Commerce Raiders will be far less aggressive. Report back to your commander.",		"arrival_phase_2":"We are sending you a navigation waypoint to the leaders current position. He is attempting to make a run for it. We will send you updated navigation waypoints as he progresses through the system. Follow and destroy him.",		"arrival_phase_1":"Stand by. We are scanning the system for the Commerce Raider Leader's position.",		"Quest Log Data":"Text"
+}}

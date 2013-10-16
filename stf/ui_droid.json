@@ -1,25 +1,5 @@
-[
-'23':'help_remove',
-'22':'help_load',
-'21':'help_buttons',
-'20':'help_icons',
-'19':'help_loaded_commands_desc',
-'18':'help_available_commands_desc',
-'17':'help_loaded_commands',
-'16':'help_available_commands',
-'15':'changes_message_post',
-'14':'chip_removed',
-'13':'chip_added',
-'12':'command_added',
-'11':'changes_message_pre',
-'10':'querying_chip_status',
-'9':'no_changes',
-'8':'removed',
-'7':'not_enough_space',
-'6':'loaded',
-'5':'unload_warning',
-'4':'load_warning',
-'3':'loaded_commands',
-'2':'available_commands',
-'1':'caption',
-]
+{
+	"stfFile":"ui_droid",
+	"entries": {
+		"help_remove":"Click this button to unload the selected loaded command.",		"help_load":"Click this button to load the selected command.",		"help_buttons":"This is the list of available buttons.",		"help_icons":"This is the list of available icons.",		"help_loaded_commands_desc":"This describes the selected loaded command.",		"help_available_commands_desc":"This describes the currently selected available command.",		"help_loaded_commands":"This lists all commands that will be in the droid when the changes are committed.",		"help_available_commands":"This is your list of available commands to add in the droid.  It includes not only the commands granted to you by skills, but also any droid programming chips in your inventory.",		"changes_message_post":"Commit these changes?",		"chip_removed":"Chip removed: ",		"chip_added":"Chip added: ",		"command_added":"Command added: ",		"changes_message_pre":"This will make the following changes to the droid:",		"querying_chip_status":"Querying chip status...",		"no_changes":"No changes made to droid.",		"removed":" [Removed]",		"not_enough_space":"There is not enough space to load that item.",		"loaded":" [Loaded]",		"unload_warning":"You do not know this command, and would need to purchase a chip to put it back in your droid.  Proceed?",		"load_warning":"Once this chip has been burned into the droid, it cannot be removed.  It can only be destroyed.  Proceed?",		"loaded_commands":"Loaded Commands",		"available_commands":"Available Commands",		"caption":"Flight Commands"
+}}

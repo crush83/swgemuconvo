@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_inspect_t',
-'7':'quest_inspect_d',
-'6':'quest_dock_t',
-'5':'quest_dock_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/inspect/stn_yavin4_company_all_massassi_tier2_5",
+	"entries": {
+		"title_d":"Your flight computer has a lock on the damaged fighter. Inspect and dock with the vessel to see if you can gain any clues about who they are.",		"title":"Yavin System: Inspect the Damaged Fighter",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The damaged fighter is located inside the Yavin system.",		"quest_inspect_t":"Inspect the Fighter",		"quest_inspect_d":"Disable and inspect the fighter to see if it has any clues about who these fighters are.",		"quest_dock_t":"Dock with the Fighter",		"quest_dock_d":"Dock with the fighter and transfer anything you find to your vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

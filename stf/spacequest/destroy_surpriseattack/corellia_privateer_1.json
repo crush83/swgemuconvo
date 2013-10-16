@@ -1,15 +1,5 @@
-[
-'13':'unused2_t',
-'12':'unused2_d',
-'11':'unused1_t',
-'10':'unused1_d',
-'9':'title_d',
-'8':'title',
-'7':'split_quest_alert_fail',
-'6':'split_quest_alert',
-'5':'quest_update',
-'4':'found_loc',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_privateer_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Defend from the Black Sun Pirate attack.",		"title":"Corellia System: Eliminate Enemy Patrol",		"split_quest_alert_fail":"\#pcontrast3 Sgt Rhea: < \#pcontrast1 You appear to have hit a little snag out there Captain.  Get patched up and run the patrol route again. \#pcontrast3 >",		"split_quest_alert":"\#pcontrast3 Sgt Rhea: < \#pcontrast1 You appear to have hit a little snag out there Captain.  Get patched up and run the patrol route again. \#pcontrast3 >",		"quest_update":"CorSec Command: < %TO >",		"found_loc":"Uploaded new coordinates to your nav computer, proceed immediately.",		"complete":"\#pcontrast3 CorSec Command: < \#pcontrast1 Well done! Return to your superior for your next assignment by travelling to the Corellian Space Station and using /comm. \#pcontrast3 >",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

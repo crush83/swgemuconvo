@@ -1,61 +1,14 @@
-[
-'59':'energymaintenance',
-'58':'notunique',
-'57':'not_enough',
-'56':'invfull',
-'55':'level',
-'54':'gotschematic',
-'53':'invalid',
-'52':'not_a_component',
-'51':'gotpiece',
-'50':'out_of_charges',
-'49':'wpnrate',
-'48':'wpnenergypershot',
-'47':'wpnarmeff',
-'46':'wpnshdeff',
-'45':'wpnmindmg',
-'44':'wpnmaxdmg',
-'43':'shdrecharge',
-'42':'shdfronthp',
-'41':'shdbackhp',
-'40':'reactorenergy',
-'39':'engspeed',
-'38':'engroll',
-'37':'engyaw',
-'36':'engpitch',
-'35':'engdecel',
-'34':'engaccel',
-'33':'commandspeed',
-'32':'caprecharge',
-'31':'capenergy',
-'30':'boosterspeed',
-'29':'boosteraccel',
-'28':'boosterconsumption',
-'27':'boosterrecharge',
-'26':'boosterenergy',
-'25':'reserved',
-'24':'title2',
-'23':'prompt2',
-'22':'title',
-'21':'prompt',
-'20':'armorhpavg',
-'19':'hpavg',
-'18':'bonusapplied',
-'17':'finaloutput',
-'16':'massavg',
-'15':'too_few',
-'14':'too_many',
-'13':'wrong_component_type',
-'12':'already_engineered',
-'11':'not_skilled',
-'10':'weapon_reward_generic',
-'9':'shield_reward_generic',
-'8':'reactor_reward_generic',
-'7':'engine_reward_generic',
-'6':'capacitor_reward_generic',
-'5':'booster_reward_generic',
-'4':'armor_reward_generic',
-'3':'nubian_racing_mod',
-'2':'improved',
-'1':'special',
-]
+{
+	"stfFile":"reverse_engineering_tool",
+	"entries": {
+		"energymaintenance":"\#FFFFFF Optimal Energy Maintenance:",		"notunique":"You lack the 8 specific pieces to reverse engineer this.  Make sure you have one of each fragment.",		"not_enough":"You don't have enough pieces of that to analyze it.",		"invfull":"Your inventory is full, and the object could not be created.",		"level":"You do not have enough skill to reverse engineer items of this level.",		"gotschematic":"You successfully combine the schematic pieces into a KSE Firespray schematic.",		"invalid":"This component does not match the others inside the tool.",		"not_a_component":"This is not a valid component.",		"gotpiece":"You found an odd item inside one of the components!",		"out_of_charges":"This tool is out of charges, and has been destroyed.",		"wpnrate":"\#FFFFFF Optimal Refire Rate:",		"wpnenergypershot":"\#FFFFFF Optimal Energy Per Shot:",		"wpnarmeff":"\#FFFFFF Optimal Weapon Armor Effectiveness:",		"wpnshdeff":"\#FFFFFF Optimal Weapon Shield Effectiveness:",		"wpnmindmg":"\#FFFFFF Optimal Weapon Min Damage:",		"wpnmaxdmg":"\#FFFFFF Optimal Weapon Max Damage:",		"shdrecharge":"\#FFFFFF Optimal Shield Recharge:",		"shdfronthp":"\#FFFFFF Optimal Shield Front Hitpoints:",		"shdbackhp":"\#FFFFFF Optimal Shield Back Hitpoints:",		"reactorenergy":"\#FFFFFF Optimal Reactor Generation:",		"engspeed":"\#FFFFFF Optimal Engine Speed:",		"engroll":"\#FFFFFF Optimal Engine Max Roll:",		"engyaw":"\#FFFFFF Optimal Engine Max Yaw:",		"engpitch":"\#FFFFFF Optimal Engine Max Pitch:",		"engdecel":"\#FFFFFF Optimal Engine Deceleration:",		"engaccel":"\#FFFFFF Optimal Engine Acceleration:",		"commandspeed":"\#FFFFFF Optimal Droid Interface Command Speed:",		"caprecharge":"\#FFFFFF Optimal Capacitor Recharge:",		"capenergy":"\#FFFFFF Optimal Capacitor Energy:",		"boosterspeed":"\#FFFFFF Optimal Booster Speed:",		"boosteraccel":"\#FFFFFF Optimal Booster Acceleration:",		"boosterconsumption":"\#FFFFFF Optimal Booster Consumption:",		"boosterrecharge":"\#FFFFFF Optimal Booster Recharge:",		"boosterenergy":"\#FFFFFF Optimal Booster Energy:",		"reserved":"That is a reserved name.",		"title2":"Name New Component",		"prompt2":"Please enter a name for the reverse engineered component.",		"title":"Reverse Engineering Results",		"prompt":"********************TECHNICAL READOUT********************
+**************REVERSE ENGINEERING PROCESS***************
+*******************FINALIZATION REPORT********************",		"armorhpavg":"\#FFFFFF Optimal Armor Points:",		"hpavg":"\#FFFFFF Optimal Hitpoints:",		"bonusapplied":"Bonus Applied:",		"finaloutput":"\#00ff00 Final Output:",		"massavg":"\#FFFFFF Optimal Mass:",		"too_few":"You have put too few components in the tool.  You need to place a quantity of identical components equal to the reverse engineering level of the components being used.",		"too_many":"You have put too many components in the tool.  You need to place a quantity of identical components equal to the reverse engineering level of the components being used.",		"wrong_component_type":"This component is not designed to go into this analysis tool.",		"already_engineered":"This item is the product of reverse engineering, and cannot be reverse engineered again.",		"not_skilled":"You are not skilled enough to reverse engineer this item.  Your Reverse Engineering skill modifier must at least equal the level of the item.",		"weapon_reward_generic":"Upon disassembling the weapons, you discover that many were made from pieces of a rare weapon type.  You manage to reassemble these into a complete item.",		"shield_reward_generic":"Upon disassembling the shields, you discover that many were made from pieces of a rare shield type.  You manage to reassemble these into a complete item.",		"reactor_reward_generic":"Upon disassembling the reactors, you discover that many were made from pieces of a rare reactor type.  You manage to reassemble these into a complete item.",		"engine_reward_generic":"Upon disassembling the engines, you discover that many were made from pieces of a rare engine type.  You manage to reassemble these into a complete item.",		"capacitor_reward_generic":"Upon disassembling the capacitors, you discover that many were made from pieces of a rare capacitor type.  You manage to reassemble these into a complete item.",		"booster_reward_generic":"Upon disassembling the boosters, you discover that many were made from pieces of a rare booster type.  You manage to reassemble these into a complete item.",		"armor_reward_generic":"Upon disassembling the armor, you discover that many were made from pieces of a rare armor type.  You manage to reassemble these into a complete item.",		"nubian_racing_mod":"Upon disassembling these engines, you discover that one was made from components of
+a Nubian 221 engine.  It appears to be a very fast racing variant, equipped with a TransGalMeg Industries hyperdrive
+that hasn't been used since the days of the Republic.  Though old and bulky, it is a fast engine.
+There are enough pieces here to put the engine back into working shape.  
+
+
+
+",		"improved":"You have successfully reverse engineered the components into a single improved item.",		"special":"You have skillfully created a special component.  A bonus has been applied to the item's statistics."
+}}

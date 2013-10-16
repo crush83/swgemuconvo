@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/chewbacca",
+	"entries": {
+		"npc_11":"Hmph.",		"player_10":"Uh...grr?",		"npc_10":"GrrAAwwrrgh?",		"player_9":"Dear gracious me, I'm so sorry.",		"npc_5":"HHHHHHHHHRRRRRRRRRRAAAAAAAAAAAAAAAAERRRRRRRRRRRRRRRRGGGGGGGGGGGGGHHHHHHHHHH!!!!!",		"player_6":"Ok then.",		"npc_9":"Grrooowwwllll....",		"player_8":"Is that right?",		"npc_8":"Wwwwarrrrggghhhhhhh.",		"player_7":"Whatever you say.",		"npc_4":"Rrrraaaaahhhharrrrrgghh.",		"player_5":"Sorry.  I don't speak Shyriwook.",		"npc_3":"<grunt>",		"npc_7":"Hhhrrrarrraggghhhh.",		"player_4":"Um...sure.",		"npc_6":"Rrrrraaaawwwrrrggghhhh.",		"player_3":"I don't know what I said wrong.",		"npc_2":"Grrrr....",		"player_2":"I don't speak Wookie.",		"player_1":"Um...what?",		"npc_1":"Rrraaargh.  Rrrraaaaawwwwrrrr!"
+}}

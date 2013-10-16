@@ -1,25 +1,6 @@
-[
-'25':'sullustan',
-'24':'ithorian',
-'23':'comprehend',
-'22':'prose_speak',
-'21':'speak',
-'20':'prose_comprehend',
-'19':'not_fluent_in_language',
-'18':'lekku_no_comprehend',
-'17':'usage',
-'16':'basic',
-'15':'lekku',
-'14':'not_spoken_language',
-'12':'language_current',
-'11':'zabrak',
-'10':'ryl',
-'9':'bothese',
-'8':'shyriiwook',
-'7':'moncalamarian',
-'6':'dosh',
-'5':'rodese',
-'3':'fluent_many',
-'2':'fluent_one',
-'1':'spoken_languages',
-]
+{
+	"stfFile":"game_language",
+	"entries": {
+		"sullustan":"Sullustese",		"ithorian":"Ithorese",		"comprehend":"comprehend",		"prose_speak":"You speak %DI",		"speak":"speak",		"prose_comprehend":"and comprehend %DI languages.",		"not_fluent_in_language":"You are not fluent in the language %TT.",		"lekku_no_comprehend":"%TT communicates in a body language that you do not understand.",		"usage":"Usage: /language <language>",		"basic":"Basic",		"lekku":"Lekku",		"not_spoken_language":"%TT is not a language.",		"language_current":"Your current language is %TT.",		"zabrak":"Zabrak",		"ryl":"Ryl",		"bothese":"Bothese",		"shyriiwook":"Shyriiwook",		"moncalamarian":"Mon Calamarian",		"dosh":"Dosh",		"rodese":"Rodese",		"fluent_many":"You are fluent in %DI languages.",		"fluent_one":"You are fluent in 1 language.",		"spoken_languages":"List of Languages
+----------------------------------"
+}}

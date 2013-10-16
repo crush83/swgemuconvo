@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/stn_dantooine_owner_all_repairmission_tier2_4",
+	"entries": {
+		"title_d":"",		"title":"Endor System: Protect Twin Star Shipping",		"split_quest_alert_fail":"",		"split_quest_alert":"Ok, now for your last task, you need to travel to Yavin and see if you can find one of Twin Star's freighters that has been overdue for the past day.",		"quest_update":"Twin Star Shipping: < %TO >",		"quest_location_t":"",		"quest_location_d":"",		"quest_helpallies_t":"",		"quest_helpallies_d":"",		"quest_findbattle_t":"",		"quest_findbattle_d":"",		"found_loc":"The freighter convoy will assemble at this point. Meet them there.",		"enemies_win":"You lost to a bunch of protesters? That not only cost you pride it cost us five freighters.",		"enemies_remain":"Tactical Computer: < %DI enemy fighters remaining. >",		"enemies_arrived":"The Greenburst have arrived. They look like they want trouble.",		"battle_started":"The Greenburst have given up peaceful protest and are now attacking our freighters.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Nice work, pilot. Our fleet is mostly intact and the Greenburst have been taught an important lesson.",		"allies_remain":"Tactical Computer: < %DI freighters remaining. >",		"allies_arrived":"Our fleet is assembled. We expect the Greenburst to show up at any time now."
+}}

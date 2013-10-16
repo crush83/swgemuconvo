@@ -1,31 +1,32 @@
-[
-'29':'busy',
-'28':'bar28',
-'27':'bar27',
-'26':'bar26',
-'25':'bar25',
-'24':'bar24',
-'23':'bar23',
-'22':'bar22',
-'21':'bar21',
-'20':'bar20',
-'19':'bar19',
-'18':'bar18',
-'17':'bar17',
-'16':'bar16',
-'15':'bar15',
-'14':'bar14',
-'13':'bar13',
-'12':'bar12',
-'11':'bar11',
-'10':'bar10',
-'9':'bar9',
-'8':'bar8',
-'7':'bar7',
-'6':'bar6',
-'5':'bar5',
-'4':'bar4',
-'3':'bar3',
-'2':'bar2',
-'1':'bar1',
-]
+{
+	"stfFile":"barada",
+	"entries": {
+		"busy":"I can't talk now, I'm working.",		"bar28":"That's it!  See you back at the palace!
+",		"bar27":"This one's done.  There's more Imperials on the way, cover me while I get the second truck running
+",		"bar26":"Good, you've got parts.  Keep me covered while I get this transport running
+",		"bar25":"You don't seem to have the parts yet.
+",		"bar24":"OK, I'll get the parts.
+",		"bar23":"We're not out of the woods yet.  I'll get the truck, you get the parts.",		"bar22":"You don't know Jabba very well, do you?  Do you think he cares whose responsibility it was?  We'll all get thrown to the Rancor!
+",		"bar21":"What are you going to do?
+",		"bar20":"The shipment wasn't my repsonsibility!
+",		"bar19":"Oh.  A coward.  Well, you can either go get my parts or I can tell Jabba why he didn't get his shipment.
+",		"bar18":"I'm marking their location on your datapad.  Just get my parts back, I don't care how you do it.
+",		"bar17":"I'm not here to hunt down Jawas!
+",		"bar16":"Shall I hunt them down?
+",		"bar15":"Good, you've arrived.  Unfortunately, someone's stolen some of our engine parts.  It looks like Jawa tracks. Miserable little buggers.
+",		"bar14":"Ok.
+",		"bar13":"I don't have any more work for you right now.
+",		"bar12":"Bib Fortuna would like to speak with you again.
+",		"bar11":"Max Rebo, the bandleader, is in need of some assistance I hear.
+",		"bar10":"Go see Ephant Mon.  He has something he needs done.
+",		"bar9":"What should I do now?
+",		"bar8":"Jabba says to tell you thanks.  You've done a good job.
+",		"bar7":"Ok.  Come back and see me when you have time.
+",		"bar6":"Good.  I'm going to input the code to a self destruct device attached to one of Valarian's warehouses.  I just want you to go enter it and blow it up.  Simple enough?  Make sure you leave before that timer goes off!
+",		"bar5":"At the moment I'm a little busy.
+",		"bar4":"Yes sir.
+",		"bar3":"I'm Barada.  Bib says we can trust you, so I have some work for you to do.  Are you ready to do some work?
+",		"bar2":"I have work to do.  Come back when you've helped Yena.
+",		"bar1":"You shouldn't be here.  Go see Bib Fortuna if you need work.
+"
+}}

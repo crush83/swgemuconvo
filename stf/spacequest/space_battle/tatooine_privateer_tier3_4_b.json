@@ -1,28 +1,5 @@
-[
-'26':'title_d',
-'25':'title',
-'24':'split_quest_alert_fail',
-'23':'split_quest_alert',
-'22':'quest_update',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_helpallies_t',
-'18':'quest_helpallies_d',
-'17':'quest_findbattle_t',
-'16':'quest_findbattle_d',
-'15':'found_loc',
-'14':'enemies_win',
-'13':'enemies_remaining',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remaining',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_privateer_tier3_4_b",
+	"entries": {
+		"title_d":"Destroy the Rancor Clan, and keep an eye out for the Lambda Shuttle with a Sienar Systems engineer on board",		"title":"Dathomir Sytem: Destroy the Rancor Clan",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Hutt Forces: < \#pcontrast1 The Imperial craft is not here contact is not here! We need you to search for him. Location information is coming next... \#pcontrast3 >",		"quest_update":"\#pcontrast3Smugglers' Alliance: <%TO>\#pcontrast3",		"quest_location_t":"Dathomir System",		"quest_location_d":"A location of high Rancor Clan influence",		"quest_helpallies_t":"Hutt Forces",		"quest_helpallies_d":"Asssist the Hutt forces in defeating the Rancor Clan",		"quest_findbattle_t":"Battle Waypoint",		"quest_findbattle_d":"Travel here to participate in the battle",		"found_loc":"A critical Hutt ally could be caught in another battle with the Rancor Clan. Go there and see that our side wins!",		"enemies_win":"Our battle group has been defeated! Mission failed!",		"enemies_remaining":"An enemy craft has been destroyed, %DI remain.",		"enemies_remain":"%DI Enemies remain",		"enemies_arrived":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Rancor clan starships detected coming out of hyperspace... \#pcontrast3 >",		"battle_started":"\#pcontrast3 Hutt Forces: < \#pcontrast1 This must be their entire clan here, you better be as good as they say pilot. \#pcontrast3 >",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"The Hutts are victorious! Good job!",		"allies_remaining":"An allied craft has been destroyed, %DI remain.",		"allies_remain":"%DI Allied craft remain",		"allies_arrived":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hutt forces are coming out of hyperspace... \#pcontrast3 >"
+}}

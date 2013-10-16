@@ -1,27 +1,5 @@
-[
-'25':'liquid_mine_heavy',
-'24':'liquid_mine_medium',
-'23':'moisture_mine_heavy',
-'22':'moisture_mine_medium',
-'21':'gas_mine_heavy',
-'20':'gas_mine_small',
-'19':'flora_farm_heavy',
-'18':'flora_farm',
-'17':'small_ore_mine',
-'16':'clothing_factory',
-'15':'creature_farm',
-'14':'flora_farm_small',
-'13':'organic_harvester',
-'12':'heavy_ore_mine',
-'11':'ore_mine',
-'10':'moisture_mine',
-'9':'liquid_mine',
-'8':'wind_generator',
-'7':'solar_generator',
-'6':'photobio_generator',
-'5':'fusion_generator',
-'4':'gas_mine',
-'3':'food_factory',
-'2':'structure_factory',
-'1':'item_factory',
-]
+{
+	"stfFile":"installation_n",
+	"entries": {
+		"liquid_mine_heavy":"Deep Crust Chemical Extractor",		"liquid_mine_medium":"Chemical Extractor",		"moisture_mine_heavy":"High Efficiency Moisture Vaporator",		"moisture_mine_medium":"Moisture Vaporator",		"gas_mine_heavy":"Heavy Natural Gas Processor",		"gas_mine_small":"Personal Natural Gas Processor",		"flora_farm_heavy":"High Capacity Flora Farm",		"flora_farm":"Automated Flora Farm",		"small_ore_mine":"Personal Mineral Extractor",		"clothing_factory":"Wearables Factory",		"creature_farm":"Creature Farm",		"flora_farm_small":"Micro Flora Farm",		"organic_harvester":"Organic Resource Harvester",		"heavy_ore_mine":"Heavy Mineral Mining Installation",		"ore_mine":"Mineral Mining Installation",		"moisture_mine":"Personal Moisture Vaporator",		"liquid_mine":"Personal Chemical Extractor",		"wind_generator":"Wind Generator",		"solar_generator":"Solar Generator",		"photobio_generator":"Photo/Bio Generator",		"fusion_generator":"Fusion-Ion Generator",		"gas_mine":"Natural Gas Processor",		"food_factory":"Food and Chemical Factory",		"structure_factory":"Structure Factory",		"item_factory":"Equipment Factory"
+}}

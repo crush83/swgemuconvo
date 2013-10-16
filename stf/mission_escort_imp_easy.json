@@ -1,7 +1,5 @@
-[
-'5':'escort_imp_easy_5',
-'4':'escort_imp_easy_4',
-'3':'escort_imp_easy_3',
-'2':'escort_imp_easy_2',
-'1':'escort_imp_easy_1',
-]
+{
+	"stfFile":"mission_escort_imp_easy",
+	"entries": {
+		"escort_imp_easy_5":"One of our couriers needs to make a delivery nearby, but needs an escort in order to make sure nothing happens to the package.",		"escort_imp_easy_4":"A visiting dignitary is on the planet and needs an escort to somewhere.  Just take the dignitary wherever it is they want to go, and make sure nothing happens to them.",		"escort_imp_easy_3":"One of our spies in the rebel base needs to deliver a report, but needs an escort away from their current location.  Get the spy and follow our instructions to a safe place.",		"escort_imp_easy_2":"A downed pilot needs an escort to a safe place where a clean transmission can be beamed to a Star Destroyer.  Get the Pilot somewhere that call can be made.",		"escort_imp_easy_1":"A rebel spy has been captured and needs to be taken to a safe location where an extraction team can make a pickup.  You're job is to get the spy to that location."
+}}

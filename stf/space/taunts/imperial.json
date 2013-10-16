@@ -1,22 +1,5 @@
-[
-'111':'death5',
-'110':'death4',
-'109':'death3',
-'108':'death2',
-'107':'death1',
-'106':'entercombat5',
-'105':'entercombat4',
-'104':'entercombat3',
-'103':'entercombat2',
-'102':'entercombat1',
-'101':'hityou5',
-'100':'hityou4',
-'99':'hityou3',
-'98':'hityou2',
-'97':'hityou1',
-'96':'gothit5',
-'95':'gothit4',
-'94':'gothit3',
-'93':'gothit2',
-'92':'gothit1',
-]
+{
+	"stfFile":"space/taunts/imperial",
+	"entries": {
+		"death5":"You will never defeat the Empire, %TU!",		"death4":"I die for the glory of the Empire!",		"death3":"Nooooo!!!",		"death2":"Aaarrrgh!",		"death1":"The Empire will get you for this, %TU!",		"entercombat5":"%TU!  Your death will earn me a promotion!",		"entercombat4":"I have you now, %NU!",		"entercombat3":"Do not attempt to escape, %TU!",		"entercombat2":"%TU, I will destroy you.",		"entercombat1":"ATTENTION!  %TU, Lower your shields and prepare to be destroyed.",		"hityou5":"Now you will die, %NU.",		"hityou4":"This is what happens to those who oppose the Empire!",		"hityou3":"I will not accept your surrender, %TU, you will be destroyed!",		"hityou2":"Now feel the wrath of the Empire, %NU!",		"hityou1":"I have you now!",		"gothit5":"Argh!  I will destroy you for that, %TU!",		"gothit4":"Your feeble skills are no match for the Empire, %NU!",		"gothit3":"Firing on an Imperial ship!?  %TU you will be destroyed for this!",		"gothit2":"%TU!  Hold your fire!",		"gothit1":"You will not defeat me!"
+}}

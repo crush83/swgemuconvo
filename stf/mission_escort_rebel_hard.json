@@ -1,7 +1,5 @@
-[
-'5':'escort_rebel_hard_5',
-'4':'escort_rebel_hard_4',
-'3':'escort_rebel_hard_3',
-'2':'escort_rebel_hard_2',
-'1':'escort_rebel_hard_1',
-]
+{
+	"stfFile":"mission_escort_rebel_hard",
+	"entries": {
+		"escort_rebel_hard_5":"One of our spies has managed to break off from the Imperial Patrol they were scouting with and needs an escort out of the area before the Imperials figure out he's disappeared.",		"escort_rebel_hard_4":"A friend of the general's daughter has been seen by the Empire and we fear they may try torture to find out where our bases are located.  Go get this friend and move them to a safe place.",		"escort_rebel_hard_3":"An Imperial Pilot is defecting to the Alliance and we need someone to escort them to a safer spot.  Get right on it!",		"escort_rebel_hard_2":"A friend of the Commanders has been spotted by the Imperials near the hideout, and may be in danger.  We need someone to escort them to a new location.",		"escort_rebel_hard_1":"The location where we were holding an Imperial spy has somehow leaked out of the base.  Get that spy moved to a new location, far away from there.  We'll tell you where."
+}}

@@ -1,7 +1,7 @@
-[
-'5':'deliver_neutral_hard_2',
-'4':'deliver_neutral_hard_3',
-'3':'deliver_neutral_hard_4',
-'2':'deliver_neutral_hard_1',
-'1':'deliver_neutral_hard_5',
-]
+{
+	"stfFile":"mission_deliver_neutral_hard",
+	"entries": {
+		"deliver_neutral_hard_2":"Important package needs to get to customer. Risk involved. Reliable candidates only.
+",		"deliver_neutral_hard_3":"I have a package that needs to get to an associate. There are factions that will try to intercept it. You better be willing to face danger for the price I'm paying.",		"deliver_neutral_hard_4":"The well being of this entire system could depend on the contents of a package I need delivered to my business partner. Can I trust you to handle it?",		"deliver_neutral_hard_1":"In need of a fast and reliable individual to make an important delivery. Those with fear of danger should not apply.
+",		"deliver_neutral_hard_5":"The government of this planet requires the transport of specific goods between its citizens. Be warned that criminal activity has interrupted this trade route before. "
+}}

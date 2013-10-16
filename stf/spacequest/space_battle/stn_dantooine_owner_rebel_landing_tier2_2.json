@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/stn_dantooine_owner_rebel_landing_tier2_2",
+	"entries": {
+		"title_d":"The Imperials are attacking some of the Dantooine station's supply fleet in retaliation for the loss of one of the freighters. Protect the supply fleet from the Imperial attack.",		"title":"Dantooine System: Protect the Supply Fleet",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Dantooine Station: < %TO >",		"quest_location_t":"Travel to the Dantooine System",		"quest_location_d":"The supply fleet is located inside of the Dantooine system.",		"quest_helpallies_t":"Defeat the Imperial Attackers",		"quest_helpallies_d":"Destroy the Imperial fighters before they destroy the supply fleet.",		"quest_findbattle_t":"Travel to the Supply Fleet",		"quest_findbattle_d":"Travel to the supply fleet and protect them from the Imperial fighters.",		"found_loc":"I have a lock on the supply fleet. Sending you the location now.",		"enemies_win":"Well there went some very valuable ships. I really hope your Rebellion does better protecting its own interests then you did mine.",		"enemies_remain":"Tactical Computer: < %DI enemy fighters remaining. >",		"enemies_arrived":"I am now picking up Imperial fighters moving towards the supply fleet at attack speeds. Protect those freighters!",		"battle_started":"The Imperials are attacking my fleet! You have to protect those unarmed freighters from the TIEs.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Great work. I am going to tell those ships to get out of there before anymore Imperials show up.",		"allies_remain":"Tactical Computer: < %DI freighters remaining. >",		"allies_arrived":"I have a lock on some of my supply fleet. They look pretty beat up but they are intact. Get to them fast and take out any Imperials that try to destroy them."
+}}

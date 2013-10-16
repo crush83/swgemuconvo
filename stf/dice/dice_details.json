@@ -1,18 +1,5 @@
-[
-'16':'eqp_twenty_sided_dice_set_single_s',
-'15':'eqp_dice_configure',
-'14':'eqp_twenty_sided_dice_set_single_d',
-'13':'eqp_twelve_sided_dice_set_single_d',
-'12':'eqp_ten_sided_dice_set_single_d',
-'11':'eqp_six_sided_dice_set_single_d',
-'10':'eqp_one_hundred_sided_dice_set_single_d',
-'9':'eqp_configurable_group_dice_single_d',
-'8':'eqp_chance_cube_single_d',
-'7':'eqp_one_hundred_sided_dice_set_single',
-'6':'eqp_twenty_sided_dice_set_single',
-'5':'eqp_twelve_sided_dice_set_single',
-'4':'eqp_ten_sided_dice_set_single',
-'3':'eqp_six_sided_dice_set_single',
-'2':'eqp_configurable_group_dice_single',
-'1':'eqp_chance_cube_single',
-]
+{
+	"stfFile":"dice/dice_details",
+	"entries": {
+		"eqp_twenty_sided_dice_set_single_s":"Twenty Sided Dice Set",		"eqp_dice_configure":"Configure",		"eqp_twenty_sided_dice_set_single_d":"A set of standard twenty sided dice.",		"eqp_twelve_sided_dice_set_single_d":"A set of standard twelve sided dice.",		"eqp_ten_sided_dice_set_single_d":"A set of standard ten sided dice.",		"eqp_six_sided_dice_set_single_d":"A set of standard six sided dice.",		"eqp_one_hundred_sided_dice_set_single_d":"A set of one hundred sided dice.",		"eqp_configurable_group_dice_single_d":"These are configurable dice.",		"eqp_chance_cube_single_d":"A single chance cube. ",		"eqp_one_hundred_sided_dice_set_single":"One Hundred Sided Dice Set",		"eqp_twenty_sided_dice_set_single":"Twenty Sided Dice Set",		"eqp_twelve_sided_dice_set_single":"Twelve Sided Dice Set",		"eqp_ten_sided_dice_set_single":"Ten Sided Dice Set",		"eqp_six_sided_dice_set_single":"Six Sided Dice Set",		"eqp_configurable_group_dice_single":"Configurable Dice",		"eqp_chance_cube_single":"Chance Cube"
+}}

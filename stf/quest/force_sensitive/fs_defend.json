@@ -1,5 +1,5 @@
-[
-'4':'detail_02',
-'3':'detail_01',
-'1':'summary_01',
-]
+{
+	"stfFile":"quest/force_sensitive/fs_defend",
+	"entries": {
+		"detail_02":"An overwhelming force of mercinaries and criminals are assaulting the village of Aurilia. The villagers are grossly outnumbered. You are tasked with defeating at least twenty-five of the leuitenants leading Mellichae's hired thugs.",		"detail_01":"An overwhelming force of mercinaries and criminals are assaulting the village of Aurilia. The villagers are grossly outnumbered. You are tasked with defeating at least fifty of Mellichae's hired thugs.",		"summary_01":"Defend the village against Mellichae's soldiers!"
+}}

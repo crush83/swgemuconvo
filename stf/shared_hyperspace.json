@@ -1,6 +1,5 @@
-[
-'4':'zone_too_full_use_travel',
-'3':'already_at_point',
-'2':'zone_too_full',
-'1':'not_cleared_for_point',
-]
+{
+	"stfFile":"shared_hyperspace",
+	"entries": {
+		"zone_too_full_use_travel":"Hyperspace activity in that sector is too high for you to calculate safe coordinates to your chosen destination. You can use the Travel button to go to a less populated planetary system.",		"already_at_point":"You are already at that point.",		"zone_too_full":"Hyperspace activity in that sector is too high for you to calculate safe coordinates to your chosen destination, you may have to plan an alternate route through hyperspace.",		"not_cleared_for_point":"You are not cleared for that point."
+}}

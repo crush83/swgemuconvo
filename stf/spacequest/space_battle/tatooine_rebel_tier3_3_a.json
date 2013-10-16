@@ -1,26 +1,5 @@
-[
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_location_t',
-'18':'quest_location_d',
-'17':'quest_helpallies_t',
-'16':'quest_helpallies_d',
-'15':'quest_findbattle_t',
-'14':'quest_findbattle_d',
-'13':'found_loc',
-'12':'enemies_win',
-'11':'enemies_remain',
-'10':'enemies_arrived',
-'9':'battle_started',
-'8':'battle_abandoned',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/tatooine_rebel_tier3_3_a",
+	"entries": {
+		"title_d":"One of our X-Wing squadrons has been ordered to eliminate one of the Empire's guard patrols. The patrol turned out to be a bit larger than expected so they could use your assistance.",		"title":"Dathomir system: Terminate the Imperial patrol.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < The Commando team sent to break out the defector need your help again, stand by for more information. >",		"quest_update":"Scythe Squadron Leader: < %TO >",		"quest_location_t":"Dathomir system.",		"quest_location_d":"With our successful attacks in the Dathomir system lately, the Empire has increased their alert status and the system is more dangerous than ever. Avoid attracting any extra attention at all costs while you are on your way to meet up with the X-Wing squadron.",		"quest_helpallies_t":"Defeat the Imperial patrol.",		"quest_helpallies_d":"With Scythe squadron at your side, bring some punishment on the Imperial filth.",		"quest_findbattle_t":"Battle coordinates.",		"quest_findbattle_d":"The X-Wing squadron codenamed Scythe have set these coordinates as their point of attack. Meet up with them there immediately.",		"found_loc":"Greetings, proceed to this location and assist us in terminating one of the Imperial Patrols.",		"enemies_win":"Pull out pilot! We are doome..",		"enemies_remain":"Rebel Command: < Good, sensors indicate %DI more Imperial ships in the area. >",		"enemies_arrived":"Here they come, prepare for battle everyone.",		"battle_started":"Don't let them get a chance to figure out what's going on, attack, attack!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"That should make the Empire think twice before messing with us again!",		"allies_remain":"Scythe Squadron Leader: < Ack, you Imperial scum, we will avenge him! >",		"allies_arrived":"Good to see you pilot. I heard you were good, will be a pleasure to work with you."
+}}

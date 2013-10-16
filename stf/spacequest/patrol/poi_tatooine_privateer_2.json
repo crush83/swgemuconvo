@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/poi_tatooine_privateer_2",
+	"entries": {
+		"title_d":"You've been given the task to patrol the Valarian-controlled areas surrounding Hutt Claims. Time for a little revenge! You rub your hands together evilly and cackle... at this rate, you probably look as scary as an Overkreetle. May want to work on your scariness rating.",		"title":"Tatoo System: Patrol Valarian-Controlled Areas",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 Hutt Informant:\#pcontrast3 < Watch your back, pilot! Valarians coming in hard and fast! >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Valarian-Controlled Areas",		"quest_patrol_d":"Fly your nifty ship to designated areas sent to you by Garett.",		"quest_location_t":"Tatoo System",		"quest_location_d":"Fly to the Tatoo System for your mission.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

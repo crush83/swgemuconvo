@@ -1,7 +1,5 @@
-[
-'5':'fetch_neutral_easy_2',
-'4':'fetch_neutral_easy_3',
-'3':'fetch_neutral_easy_4',
-'2':'fetch_neutral_easy_1',
-'1':'fetch_neutral_easy_5',
-]
+{
+	"stfFile":"mission_fetch_neutral_easy",
+	"entries": {
+		"fetch_neutral_easy_2":"Aunt Beru needs Blue Milk.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_neutral_easy_3":"Aunt Beru needs Blue Milk.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_neutral_easy_4":"Aunt Beru needs Blue Milk.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_neutral_easy_1":"Aunt Beru needs Blue Milk.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_neutral_easy_5":"Aunt Beru needs Blue Milk.  STUB MISSION DESCRIPTION, REMOVE LATER."
+}}

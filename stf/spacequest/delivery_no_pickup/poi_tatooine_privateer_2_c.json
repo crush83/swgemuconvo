@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_rendezvous2_t',
-'17':'quest_rendezvous2_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_dock2_t',
-'13':'quest_dock2_d',
-'12':'hello_d',
-'11':'found_loc_d',
-'10':'failed_destroyed',
-'9':'docking_started_delivery',
-'8':'docking_complete_delivery',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_delivery',
-]
+{
+	"stfFile":"spacequest/delivery_no_pickup/poi_tatooine_privateer_2_c",
+	"entries": {
+		"title_d":"After smoking some Valarians, you've been ordered to transfer the information directly to Garett. You're beginning to wonder what you're going to get out of this. It had better be good. You've got components to buy.",		"title":"Tatoo System: Transfer the Information to Garett",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Hutt Informant:\#pcontrast3 < %TO >",		"quest_rendezvous2_t":"Find Garett",		"quest_rendezvous2_d":"At this point, you'll need to find Garett. You assume he'll be at the "usual" place.",		"quest_location_t":"Tatoo System",		"quest_location_d":"Travel to the Tatoo System to meet Garett.",		"quest_dock2_t":"Dock with Garett",		"quest_dock2_d":"Dock with Garett by using the /dock command to transfer the information you found off the Valarians.",		"hello_d":"All right, pilot. Let's transfer the information you found off the Valarians.",		"found_loc_d":"A target location has been given to you. Go here and I'll meet you. Stay alert. There could be Valarians on our tail.",		"failed_destroyed":"Pilot! Our cause is lost!",		"docking_started_delivery":"Beginning docking proceedures..",		"docking_complete_delivery":"Thank you, pilot. I must analyze this and pass it on to my superiors. We'll have an attack plan soon. I hope you'll join us.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"blah",		"attack_notify":"blah",		"assigned_delayed":"",		"arrived_at_delivery":"Good. I will appear soon. I must make sure the Valarians aren't tracking us."
+}}

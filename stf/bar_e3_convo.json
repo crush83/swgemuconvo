@@ -1,9 +1,5 @@
-[
-'16':'bar_5',
-'15':'bar_4',
-'14':'bar_3',
-'13':'bar_2',
-'12':'bar_1',
-'18':'bar_7',
-'17':'bar_6',
-]
+{
+	"stfFile":"bar_e3_convo",
+	"entries": {
+		"bar_5":"That's too bad.  There's a ton of work and everybody's leaving town.",		"bar_4":"You have any problem shooting imperials?",		"bar_3":"I'm just here to have a drink.",		"bar_2":"I might be.",		"bar_1":"You looking for work?",		"bar_7":"Go out the front door and down the street.  You'll find a guy there who's been looking to hire some muscle.  Ask him some questions, eh?",		"bar_6":"What kind of work?"
+}}

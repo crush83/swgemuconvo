@@ -1,32 +1,5 @@
-[
-'30':'title_d',
-'29':'title',
-'28':'taunt_5',
-'27':'taunt_4',
-'26':'taunt_3',
-'25':'taunt_2',
-'24':'taunt_1',
-'23':'targets_detected',
-'22':'targets_behind',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_destroy_t',
-'18':'quest_destroy_d',
-'17':'level_increase',
-'16':'level_boss_dead',
-'15':'level_boss',
-'14':'found_loc',
-'13':'duty_update',
-'12':'dd_boss_taunt_5',
-'11':'dd_boss_taunt_4',
-'10':'dd_boss_taunt_3',
-'9':'dd_boss_taunt_2',
-'8':'dd_boss_taunt_1',
-'7':'complete',
-'6':'boss_title_5',
-'5':'boss_title_4',
-'4':'boss_title_3',
-'3':'boss_title_2',
-'2':'boss_title_1',
-'1':'boss_detected',
-]
+{
+	"stfFile":"spacequest/destroy_duty/stn_endor_irs_imp_tier4_1",
+	"entries": {
+		"title_d":"The Zynt'aia are causing problems outside of the Declorian Territory.  Hunt them down and destroy them.",		"title":"Endor System: Duty: Destroy the Zynt'aia Spice Guardians",		"taunt_5":"",		"taunt_4":"",		"taunt_3":"I will add your space junk to my collection.",		"taunt_2":"You had this coming.",		"taunt_1":"At least your death will be swift.",		"targets_detected":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile craft detected on attack vector. \#pcontrast3 >",		"targets_behind":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Hostile craft detected from the rear. \#pcontrast3 >",		"quest_location_t":"Endor System",		"quest_location_d":"The Zynt'aia are not content with their little bit of the system and have spread quite quickly.  Updates to their location will be provided as you complete tasks.",		"quest_destroy_t":"Waypoint",		"quest_destroy_d":"Travel here to engage the targets.",		"level_increase":"\#pcontrast3 Enemy activity has increased. ",		"level_boss_dead":"\#pcontrast3 The advanced craft has been destroyed.",		"level_boss":"\#pcontrast3 An advanced craft has been dispatched. ",		"found_loc":"\#pcontrast3 Nav Computer: < \#pcontrast1 The location to the next encounter has been set. \#pcontrast3 >",		"duty_update":"%TO",		"dd_boss_taunt_5":"",		"dd_boss_taunt_4":"",		"dd_boss_taunt_3":"Run, run while you still can little pilot.",		"dd_boss_taunt_2":"This is our space now.",		"dd_boss_taunt_1":"This is the end, for you!",		"complete":"The Duty is Complete",		"boss_title_5":"Yarrok",		"boss_title_4":"Gabaki",		"boss_title_3":"Nutron",		"boss_title_2":"Sunburn",		"boss_title_1":"Muon",		"boss_detected":"\#pcontrast3 Tactical Computer: < \#pcontrast1 A Zynt'aia Guardian in an advanced fighter has been detected. \#pcontrast3 >"
+}}

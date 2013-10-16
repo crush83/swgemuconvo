@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/tatooine_imperial_tier3_2_a",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The Rebels have sent out a strike team in retaliation for the loss of their scout. Destroy all the Rebel fighters.",		"title":"Endor System: Rebel Counterstrike",		"split_quest_alert_fail":"",		"split_quest_alert":"Scans of Rebel transmissions indicate Rebel communications ship nearby your location. Disable vessel and recover any information from its computers that you can. Stand by for nav location.",		"complete":"You have survived the surprise attack!",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_imperial_tier2_4",
+	"entries": {
+		"title_d":"Kill Colonel Hend in the Dantooine system. It is now obvious that the Colonel was the traitor and has defected to the Rebellion. We have located the Colonel's shuttle inside the Dantooine system and he must pay for his crimes against the Empire.",		"title":"Dantooine System: Execute Colonel Hend",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Imperial High Command:\#pcontrast3 <%TO>",		"quest_target_t":"Execute Colonel Hend",		"quest_target_d":"Intercept and destroy Colonel Hend. He is probably being very wary and will attempt to run if he detects your presence.",		"quest_location_t":"Travel to the Dantooine System",		"quest_location_d":"Travel to the Dantooine system and intercept Colonel Hend's shuttle.",		"quest_escort_t":"Destroy Colonel Hend's Escort",		"quest_escort_d":"All vessels that travel with the Colonel are to be eliminated.",		"failed_escape":"The traitor has escaped! This is a dark day for the Empire. I am sure that your superior will have some questions for you.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Fighter escort has been eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escorts remaining.>",		"destroy_escort":"Scans still indicate that some of Hend's escort remains. Send a clear message and hunt them down like the scum they are.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Justice has been served. You have performed your duty to the upmost, pilot. Make your report to your superior officer.",		"arrival_phase_2":"We have a lock on Hend's shuttle. Immediately proceed to nav location and destroy the traitor and any escort he has with him.",		"arrival_phase_1":"Scanning Dantooine system for that traitor Hend's shuttle.",		"Quest Log Data":"Text"
+}}

@@ -1,20 +1,11 @@
-[
-'18':'jandodonna',
-'17':'imperialoutpost',
-'16':'luke',
-'15':'tankmite',
-'14':'palace_woolamander',
-'13':'blueleaf',
-'12':'rebel_base',
-'11':'whisper_bird',
-'10':'skreeg',
-'9':'choku',
-'8':'stintaril',
-'7':'spined_puc',
-'6':'mawgax',
-'5':'mamien',
-'4':'gackle_bat',
-'3':'crystal_snake',
-'2':'angler',
-'1':'kliknik',
-]
+{
+	"stfFile":"loading/yavin4",
+	"entries": {
+		"jandodonna":"A Star Destroyer captain in the last days of the Old Republic, Jan Dodonna is now one of the Rebel Alliance's finest tacticians. He organized the successful assault on the Death Star, and now supervises the rearguard action covering the Alliance's retreat from Yavin.",		"imperialoutpost":"Though the Rebel Alliance abandoned its Yavin headquarters after the destruction of the Death Star, the Empire has garrisoned stormtroopers here to guard against their return. They still fight skirmishes to clean up the last stubborn Rebels, but Imperial troops generally regard Yavin as punishment duty.",		"luke":"Known to Alliance fighters across the galaxy as a hero of the Battle of Yavin, Luke Skywalker has returned to this remote moon. He seeks lost knowledge of the ancient order of Jedi Knights -- knowledge rumored to be concealed in the mysterious Massassi Temples.",		"tankmite":"Tanc mites are scavengers and carrion eaters that crawl the forest floor. The mites are covered with a rock-hard shell that protects against electricity, fire, and most physical damage.  Though slow and unsteady, tanc mites can survive falls of a hundred meters or more.",		"palace_woolamander":"An ancient structure deep in the jungles of Yavin IV, the Palace of the Woolmander is so named because Alliance engineers who discovered the abandoned site also found a pack of woolamanders hiding within.",		"blueleaf":"The Temple of the Blueleaf Cluster is an ancient structure found in the jungles of Yavin IV. It is reported to have a mysterious crystal housed within...",		"rebel_base":"After the Battle of Yavin, the Rebel Alliance dismantled its facilities at the Great Massassi Temple, retreating to a new, undisclosed location.
+
+However, a remnant force remains at this ancient location, fighting a rearguard action amidst the ponderous stone walls.",		"whisper_bird":"Across Yavin IV, small flocks of the beautiful whisper bird feed on fish and weeds. They are named for their famously silent flight, and their low, sweet song.",		"skreeg":"The skreeg are vicious humanoids that view any approach as encroachment on their territory. Despite their aggressiveness, they are herbivorous, living in small colonies throughout the forests of Yavin IV.",		"choku":"Carnivores and deadly hunters, choku are powerfully muscled creatures that run through the jungles of Yavin IV. ",		"stintaril":"A tree-dwelling rodent, stintaril roam in packs around Yavin IV, eating everything in their path. Their favorite food is the woolamander.",		"spined_puc":"A toad-like amphibian native to Yavin IV, the spined puc is named for the spiny ridges along its back and sides. Each spine carries a powerful toxin capable of blinding the victim.",		"mawgax":"The mawgax is an herbivore that flocks through the forests of Yavin IV. Their sharp beak makes them well able to defend themselves if cornered.",		"mamien":"This solitary creature lives on Yavin IV--it is shy and skittish, and difficult to approach. Ape-like, the mamien will walk on two legs or occasionally four.",		"gackle_bat":"The gackle bat is a nocturnal predator native to Yavin IV. They feed primarily upon stintaril, injecting a muscle relaxant with their fangs.",		"crystal_snake":"Native to Yavin IV, the mildly poisonous crystal snake has refractive scales that render it transparent to the casual eye.",		"angler":"The angler is a crustacean that resembles a spider, bative to the jungles of Yavin IV. It eats primarily fish.",		"kliknik":"A dangerous mantis-like creature that lives in the jungles of Yavin IV, the Klinknik are voracious carnivores.
+
+Living in large underground hives, the Kliknik report solely to their Queen who oversees every last Kliknik.
+
+Xenobiologists have yet to determine whether the Kliknik are sentient, due to the fact that none have returned from their research..."
+}}

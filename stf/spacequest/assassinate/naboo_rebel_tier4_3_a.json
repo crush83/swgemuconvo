@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_rebel_tier4_3_a",
+	"entries": {
+		"title_d":"A Inquisitor tracked our spy and he's getting ready to hyperspace after him in hopes of tracking down our base of operations. You must stop him before he makes the jump.",		"title":"Dathomir system: Stop the Inquisitor from following the Vortex spy.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Brother Extok Evin: < %TO >",		"quest_target_t":"Imperial Inquisitor.",		"quest_target_d":"This Imperial Inquisitor is flying one of the Empires most feared ships, the heavily armed and armored Decimator. He's got a large number of escorts as well so be prepared for a fierce battle.",		"quest_location_t":"Dathomir system.",		"quest_location_d":"As if flying in the dangerous Dathomir system wasn't enough, in this mission you are looking for some of the most vicious foes here.",		"quest_escort_t":"Destroy the escort.",		"quest_escort_d":"The clever Inquisitor has probably made it clear to his escort that if he's destroyed, they are to take off after the spy. We can't take any chances, destroy them all!",		"failed_escape":"We will try and get in contact with our operative and let him know he's been followed. Hopefully we'll be able to before he reach our base.",		"escort_wiped_out":"Brother Extok Evin: < Good job pilot, now get that Inquisitor! >",		"escort_remaining":"Brother Extok Evin: < One more escort remaining, take it out pilot! >",		"destroy_escort":"Excellent work pilot but you can't let those other TIEs escape either!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Excellent work today my friend. Return to base.",		"arrival_phase_2":"Coordinates uploaded, get over there quickly. Him or his escort can not make their hyperspace jump! >",		"arrival_phase_1":"The Inquisitor probably hope that our spy will lead him to our base. We need you to stop him before he jumps to lighspeed.",		"Quest Log Data":"Text"
+}}

@@ -1,56 +1,221 @@
-[
-'56':'forcesensitive_qualifying',
-'55':'forcesensitive_unlocking',
-'54':'forcesensitive_experience',
-'53':'forcesensitive',
-'52':'forcerank_accepting_dark',
-'51':'forcerank_advancement_dark_voting',
-'50':'forcerank_advancement_dark_duels',
-'49':'forcerank_advancement_dark',
-'48':'forcerank_commands',
-'47':'forcerank_losing_experience',
-'46':'forcerank_min_xp',
-'45':'forcerank_demotion',
-'44':'forcerank_advancement_example',
-'43':'forcerank_accepting',
-'42':'forcerank_voting',
-'41':'forcerank_petitioning',
-'40':'forcerank_advancement_light',
-'39':'forcerank',
-'38':'politician',
-'37':'weaponsmith',
-'36':'teraskasiartist',
-'35':'tailor',
-'34':'swordsman',
-'33':'squadleader',
-'32':'smuggler',
-'31':'rifleman',
-'30':'ranger',
-'29':'pistoleer',
-'28':'pikeman',
-'27':'musician',
-'25':'merchant',
-'24':'imagedesigner',
-'23':'fencer',
-'22':'droidengineer',
-'21':'doctor',
-'20':'dancer',
-'19':'creaturehandler',
-'18':'commando',
-'17':'combatmedic',
-'16':'chef',
-'15':'carbineer',
-'14':'bountyhunter',
-'13':'bioengineer',
-'12':'armorsmith',
-'11':'architect',
-'10':'advanced',
-'9':'scout',
-'8':'medic',
-'7':'marksman',
-'6':'entertainer',
-'5':'brawler',
-'4':'artisan',
-'3':'starting',
-'1':'professions',
-]
+{
+	"stfFile":"kb/kb_professions_d",
+	"entries": {
+		"forcesensitive_qualifying":"Once you have unlocked and learned six full branches of Force-sensitive skills, you have completed your Force-sensitive training.  The Path of the Jedi awaits those who are willing to accept the challenge.",		"forcesensitive_unlocking":"Before Force-sensitive skills may be learned, you must first unlock them.  This is done by performing quests in order to gain favor with the Force-sensitive trainer.  Skills are unlocked one branch at a time for each quest completed.  Therefore, you earn the right to train in all four skills within a row upon completing a given quest.  Note that you must still acquire sufficient Force-sensitive experience to learn the skill.",		"forcesensitive_experience":"The experience required to purchase Force-sensitive skills is not directly earned.  Instead, it is converted from existing experience types.  By talking with the appropriate NPC, you can transform any of your existing types into Force-sensitive experience.",		"forcesensitive":"Force-sensitive skills are broken into four disciplines: Combat, Reflex, Crafting, and Senses.  Each skill tree provides minor benefits to its given realm as a result of your affinity to the Force.  Knowledge of those who are willing to teach such skills remains a mystery to most.
+",		"forcerank_accepting_dark":"If you won a petition for a seat in the next rank, you are given one day to accept the promotion.  This is done by selecting 'Accept Promotion' at the Enclave voting terminal.  If this is not done within the one day period, the win is nullified.  In the event that no seats are available during the acceptance period (someone was demoted into that slot), the vote winners are kept in reserve.  Once a slot is freed, each is able to accept a promotion to that open seat immediately without further voting. 
+
+When a Jedi is promoted to a new Rank, he automatically gains the corresponding skill box, receiving all of its benefits.  The Jedi must fulfill the experience and Rank requirements at the time of accepting to receive the promotion.
+",		"forcerank_advancement_dark_voting":"If there are three or more open seats available in the next rank (or if the Jedi is of rank zero), the Jedi will need to petition for a seat in the next rank.   One must enter a petition on the challenge terminal during the petition phase before being able to collect votes from fellow Jedi.  Once the petitioning phase is over, the voting period beings.
+
+A Jedi is eligible to vote for any petition within the Tier that their Rank resides (Tier I: Ranks 1-4; Tier II: Ranks 5-7; Tier III: Ranks 8-9; Tier IV: The Council).  Voting is performed by selecting the Record Vote option on the Enclave voting terminal and selecting a petitioner.  Votes within the petitioning Rank count double.  
+
+Voting lasts for one day after which the petitioning Jedi with the most votes wins.  If there is more than one Rank seat open, enough top vote getters are offered promotions until all of the empty seats have been filled. The winner (or winners) must accept their promotion, and doing so completes the promotion process.  If there are no seats open at the close of voting, the winner is placed in reserve and receives an opportunity to claim the first open seat available without a further vote. 
+
+Should there ever be a time when there are more open seats than there are petitioners, the voting stage is skipped and all petitioners immediately become eligible to accept a promotion.",		"forcerank_advancement_dark_duels":"If two or less seats are open in the Dark Side FRS, any Jedi ranked one or higher may issue a challenge against the next rank using the challenge terminal located inside of the Dark Jedi Enclave.  The challenge terminal will open the arena for challenges once every 30 hours for 1.5 hours.  Once a challenge has been issued anyone from the challenged rank may accept the challenge to defend the honor of their rank.  Challenges stand for one hour after they have been issued.  A rank must answer at least 50% of the challenges issued during a challenge period to avoid incurring any penalties to their 'challenge score'.
+
+Answering a challenge means defending the rank's honor in a 1 vs. 1 duel to the death in the enclave's arena.  Should the challenger win the duel, he will be immediately promoted to the next rank while the rank's defender will be immediately demoted.  If the defender loses their rank in this manner, they will not be able to challenge for a seat again until at least the next challenge period.
+
+If a rank fails to meet the challenge requirement during a challenge period, their challenge score will incur a minus one (-1) penalty.  Once a rank's challenge score falls below minus eight (-8) the entire rank will immediately be demoted to rank zero!  Meeting the requirements for any challenge period will return the rank's challenge score to zero, regardless of where the score was previously.
+",		"forcerank_advancement_dark":"In order to advance a Jedi must first acquire the appropriate amount of Force Rank experience.  This experience is granted from PVP actions, though it can also be lost through PVP defeats as well as by not performing prescribed enclave duties.  Only Jedi within the Force Rank System (aka the FRS) may earn or lose this PVP experience.  Same-side PVP generally does not yield an experience exchange between players, except for a few special case scenarios (such as the voting period's 'sudden death' event) .   Once a Jedi has achieved enough Force Rank experience to gain a new ranking, he may challenge the next rank for a seat if there are less than three open.  If three or more seats are available, the Dark Jedi will need to petition for a seat using the voting terminal in the enclave.",		"forcerank_commands":"The following are some useful commands:
+
+/showCouncilRank  -- Displays all members of Rank I or higher within the Enclave that the Jedi resides.
+
+/showPVPRating  -- Displays the PVP rating of a Jedi.  This rating is a rough measure of battle effectiveness against rival factions.
+",		"forcerank_losing_experience":"Force Rank experience can be lost in the following ways:
+
+Being defeated in combat by a rival faction.  The amount of experience lost is dependent on the killer and the victim's relative power.  The weaker the killer in relation to the victim, the more experience is lost.	
+
+Daily Enclave maintenance.  Maintaining Rank I or higher requires the Jedi to pay an experience cost each day.  The cost increases with Rank.
+
+Missing a Vote.  Jedi of Rank I and higher are expected to vote whenever eligible.  Missing a vote incurs a loss of experience.  The amount lost increases with Rank.
+",		"forcerank_min_xp":"The minimum experience to maintain a given rank is as follows:
+
+Rank I -- 5000
+Rank II -- 15000
+Rank III -- 25000
+Rank IV -- 35000
+Rank V  -- 50000
+Rank VI  -- 70000
+Rank VII  -- 90000
+Rank VIII  -- 130000
+Rank IX  -- 180000
+The Council -- 250000
+Council Leader  -- 400000
+",		"forcerank_demotion":"If experience ever falls below the minimum required to maintain a Rank, the Jedi is immediately demoted.  The skill for that Rank is automatically revoked along with any powers that it granted.  With that slot opened, the standard advancement process to fill it begins.",		"forcerank_advancement_example":"Jedi A is of Rank II.  He has 30,000 experience and is therefore eligible to advance to Rank III.  When an opening within Rank III is created, he petitions for it.  Two other Jedi within his Rank do likewise.  After one day, the voting begins.  Every Jedi in the first Tier (Ranks I, II, III, and IV) is able to vote.  Since this is a promotion into Rank III, the votes of the Jedi in this Rank are doubled.  If Jedi A receives more votes than any other player he earns the right to accept a promotion into Rank III.  The Rank III skill is automatically granted to him when he accepts.",		"forcerank_accepting":"Jedi who have won the vote are given one day to accept the promotion.  This is done by selecting Accept Promotion at the Enclave voting terminal.  If this is not done within the one day period, the win is nullified.  In the event that no seats are available during the acceptance period (someone was demoted into that slot), the vote winners are kept in reserve.  Once a slot is freed, each is able to accept a promotion to that open seat immediately without further voting. 
+
+When a Jedi is promoted to a new Rank, he automatically gains the corresponding skill box, receiving all of its benefits.  The Jedi must fulfill the experience and Rank requirements at the time of accepting to receive the promotion.
+",		"forcerank_voting":"A Jedi is eligible to vote for any petition within the Tier that their Rank resides (Tier I: Ranks 1-4; Tier II: Ranks 5-7; Tier III: Ranks 8-9; Tier IV: The Council).  Voting is performed by selecting the Record Vote option on the Enclave voting terminal and selecting a petitioner.  Votes within the petitioning Rank count double.  
+
+Voting lasts for one day after which the petitioning Jedi with the most votes wins.  If there is more than one Rank seat open, enough top vote getters are offered promotions until all of the empty seats have been filled. The winner (or winners) must accept their promotion, and doing so completes the promotion process.  If there are no seats open at the close of voting, the winner is placed in reserve and receives an opportunity to claim the first open seat available without a further vote. 
+
+Should there ever be a time when there are more open seats than there are petitioners, the voting stage is skipped and all petitioners immediately become eligible to accept a promotion.
+",		"forcerank_petitioning":"When a seat becomes open within a given Rank, a one day period of open petitioning begins. During this open petitioning period, any eligible Jedi may select the Petition option at the Enclave's voting terminal and petition to be voted into the Rank. Eligibility means that a Jedi has the required correct amount of experience to advance and is only one Rank lower than the Rank for which he is petitioning. Once the petitioning phase ends, voting begins.",		"forcerank_advancement_light":"In order to advance a Jedi must first acquire the appropriate amount of Force Rank experience.  This experience is granted from PVP actions, though it can also be lost through PVP defeats as well as by not performing prescribed enclave duties.  Only Jedi within the Force Rank System (aka the FRS) may earn or lose this PVP experience.  Same-side PVP generally does not yield an experience exchange between players.   Once a Jedi has achieved enough Force Rank experience to gain a new ranking, he may petition for a promotion.",		"forcerank":"The Force Rank System (FRS) is a predominantly player versus player (PVP) mechanic that allows a Jedi to advance beyond the rank of Knight.  It consists of two skills trees (one for Light and one for Dark), which are arranged in a pyramid.  Each skill represents a Force Rank.  Experience to attain these skills is given and lost through PVP actions.   Only a set number of players may attain a given rank within each Enclave.  Therefore when a rank is full and a player advances into it, someone from that rank will have been demoted.  Skills within the FRS grant additional power and efficiency to existing Jedi abilities.  These modifiers enable the Force Ranked Jedi to become significantly more powerful than those outside the system.  Jedi who enter the Force Rank System are automatically set as overt for their aligned faction (Rebel for Light and Imperial for Dark).  As long they stay within the FRS, they can not go covert or resign/change factions.",		"politician":"The Politician earns special abilities for managing player cities.  As they progress through their skill tree, the politician gains the ability to place new types of structures in player cities as well as specialize the city's functions in different areas.  Politicians earn experience by participating in weekly mayoral elections.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"weaponsmith":"The Weaponsmiths of Star Wars Galaxies are the combat player's second best friend (next to the Armorsmith).
+
+They craft the weapons that Brawlers and Marksmen use to defeat their enemies on a day to day basis. 
+
+As the Weaponsmith gains skills, they learn to craft more complicated and deadly weapons. The weapons themselves require certifications to be used. As the combatant increases in their skills, they gain additional certifications to use more advanced weapons.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"teraskasiartist":"The Teras Kasi Artist is a hand-to-hand combat death machine. 
+
+No other combat profession can boast the ability to defeat an enemy without the use of a weapon, like the Teras Kasi Artist.
+
+As these characters gain skills, they learn to fight more efficiently with their hands and feet with increased speed, increased accuracy and higher damage per hit.
+
+They also gain many special combat moves that induce stats upon their opponent such as, dizziness, blindness, and sweeping their foe off their feet.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"tailor":"The Tailor profession in Star Wars Galaxies is the only crafter of non-armor wearables. 
+
+Unlike the Armorsmith, whose craft is for protection in battle situations, the Tailors prefer to stick to social clothing, that players like to wear to express their sense of fashion.
+
+As the Tailor characters gain skills, they learn new Draft Schematics which allow them to make more ornate and complicated pieces of clothing. This extension of the Artisan profession focuses on producing day to day clothing that offers absolutely no protection from harm when in battle.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"swordsman":"The Swordsmen in Star Wars Galaxies are the best Two-Handed melee fighters in the galaxy. This class relies on getting fairly close to what they are fighting so they can reach them with their very deadly two-handed swords, axes, and staves.
+
+As the Swordsman advances in skills, they gain more special moves with which to inflict states on their opponents like dizziness, blindness, or even sweep them off their feet. Like other combat professions, the Swordsman gains speed and accuracy mods that make them even more lethal with the two-handed weapons.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.
+",		"squadleader":"The Squad Leader is a character that has teamwork built into their every fiber. 
+
+When you have a Squad leader character as your group leader, your group will become much more deadly, as the Squad Leader profession focuses on group commands that make the group act as one.
+
+Some skills that Squad Leaders can learn deal with group terrain movement bonuses, increasing the group's attack rating, and even the ability to increase the aim of the entire group.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"smuggler":"A Smuggler is a rogue like character who profits from shady deals behind the backs of the authorities.  Transporting everything from illegal weapons to refugees through Imperial blockades, the Smuggler becomes a master of subterfuge and manipulation.  A Novice Smuggler gains the ability to slice simple locking devices (such as containers) and the ability to acquire several questionable spices.
+",		"rifleman":"The Rifleman is an expert in the use of the rifle ranged weapons, plain and simple. 
+
+As a Rifleman, you will gain advancement in your accuracy, speed, counter measures, and your ability to hit a target while running. 
+
+Like all the combat oriented professions, as you move up the skill "onion", you will be granted special combat moves to add to your expertise of eliminating your enemies.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"ranger":"The Ranger is essentially an advanced Scout. As Rangers advance in skills, they become even more efficient in harvesting organic resources, making camps, movement on terrain, and foraging for food.
+
+The Ranger is capable of making the best campsite in the universe that gives the most advantages to healing, as well as repel even the most aggressive of creatures.
+
+The unique survival skill that the Ranger gets is "Camouflage". This enhances the Scout "Maskscent" ability by making the Ranger character virtually invisible to creatures and NPCs. This skill allows the Ranger to move about in even the most hostile areas undetected.
+
+The unique combat skill that the Ranger gains is "Rescue". This ability allows the ranger to redirect attacks performed on a friendly player from any hostile, (including enemy factioned players), and become the target of these attacks. It allows the "rescued" player a chance to get away, to heal themselves, or to just live through the battle.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"pistoleer":"The Pistoleer is an expert in the use of the pistol ranged weapons, plain and simple. 
+
+As a Pistoleer, you will gain advancement in your accuracy, speed, counter measures, and your ability to hit a target while running. 
+
+Like all the combat oriented professions, as you move up the skill "onion", you will be granted special combat moves to add to your expertise of eliminating your enemies.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"pikeman":"The Pikeman in Star Wars Galaxies are the best polearm melee fighters in the galaxy. This class relies on getting fairly close to what they are fighting so they can reach them with their massive polearm axes and lances.
+
+As the Pikeman advances in skills, they gain more special moves with which to inflict states on their opponents like dizziness, blindness, or even sweep them off their feet. Like other combat professions, the Pikeman gains speed and accuracy mods that make them even more lethal with the polearm weapons.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.
+",		"musician":"The Musician profession in Star Wars Galaxies, much like the Dancer, is all about healing people in a fun way.
+
+The Musicians function in the same way that Dancers do, except the Musicians can join with other Musicians and actually hear the difference. When Musicians form groups, they can perform for players that need their mind wounds and battle fatigue healed. 
+
+When players that need healing choose to "listen" to a Musician, or group of Musicians, their wounds slowly get healed. 
+
+Also like Dancers, when Musicians use "Flourishes" while they are performing to heal someone, they will use up extra Action points, and give an extra little burst of healing to the recipient(s). The fun part of this is that the Flourishes also cause the Musician to add a bit of "flare" to their performance for a few seconds. This "flare" is usually both audible and visual. 
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"merchant":"The Merchant profession is Star Wars Galaxies is primarily focused on the buying and selling of goods.
+
+As Merchants gain skills, they gain the ability to have more NPC vendors, they get special pricing on the Commodities Market, and other skills that directly improve their ability to buy and sell goods.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"imagedesigner":"The Image Designer in Star Wars Galaxies is a profession that can actually change the way other players look. 
+
+As the Image Designer progresses up the skill "onion", they gain abilities that allow them to change literally anything on the recipient player, (except their species). Want new hair color? New eye color? How would you like to change your weight? All of these things can be "adjusted" by an experienced Image Designer.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"fencer":"The Fencer is the most proficient class with one-handed melee weapons.  Also referred to as a "One-Handed Melee Weapon Specialist", the Fencer can use any manner of melee weapon that falls into the one-handed category, whether it's bladed, blunt, or both.
+
+As they progress through the skill "onion", players in this profession gain weapon speed, weapon accuracy, and special combat moves.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"droidengineer":"The Droid Engineer has many vital roles in the Star Wars Galaxies universe, as the droids that they make can be used for many purposes.
+
+What a droid can do for the player that purchases it from the Droid Engineer depends on how it was configured. Some examples of what droids can do are; to provide storage space above and beyond what the player can carry, provide datapad space to accomodate more draft schematics, provide mobile hospital services, (see Hospital), and many more.
+
+There is no doubt, the importance of droids in the Star Wars universe is crucial.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.
+",		"doctor":"Plain and simple, the Doctor in Star Wars Galaxies is a healer to which no other class can compare.
+
+Doctors heal players, and they do it fast, and for big increments. They also are the only profession that can heal Poison, cure Disease, and Revive players.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.
+
+",		"dancer":"As a Dancer in Star Wars Galaxies, you are the only profession that can heal the mind wounds, and shock wounds the combat players will accumulate while in battle. This puts you in a very valuable position as players are going to need these wounds healed before they can return to combat. 
+
+Unlike the Medics and Doctors of Star Wars Galaxies, your healing does not come from a crafted stimpack or woundpack. Your healing comes from your ability to dance, and as you progress through the skill "onion", your choices of dances will be more complex, and your ability to heal will become greater.
+
+Healing Battle Fatigue as a Dancer must be done in either a Cantina, a Hotel, or a player house.
+
+Healing Mind Wounds, (blue wounds), can be done in a Cantina, Hotel, player house, or campsite.
+
+Being a Dancer in Star Wars Galaxies can be very rewarding if you are a patient player that likes to socialize and meet others. It also doesn't hurt if you like to help people as well. In the end, your name will become well known and you can have a very rewarding career.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"creaturehandler":"The Creature Handler is the only class that can tame, and keep their own creature pets in Star Wars Galaxies. 
+
+As the Creature Handler moves up in the skill "onion", they gain abilities that allow them to have more pets at the same time, they gain more commands that they can teach their pets, and they gain the ability to tame more advanced creatures.
+
+Creature Handlers typically like Bioengineers as they offer a way for the Creature Handler to tame dangerous beasts, without having to wander into the wild to find them. (See Bioengineer for more details). Once their pets have had a chance to grow a bit while under the care and training of a Creature Handler, they can provide more than adequate assistance in battle to the Handler and their friends.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"commando":"As a Commando, you will be granted abilities that no other combat classes have in their arsenal. 
+
+Someone who chooses this Hybrid profession will become very familiar with the crafting of grenades, as well as become very proficient with throwing grenades accurately at their enemies. 
+
+In addition to this, Commandos are capable of using the devastating rocket launcher with precision, making them the Heavy Weapons specialist in Star Wars Galaxies.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"combatmedic":"The Combat Medic in Star Wars Galaxies is a rather diverse character. As one of the "Hybrid" professions, they not only have excellent ranged weapon skills, (as they are Master Marksman), but their healing ability is only rivaled by Doctors, (because they are Master Medics also).
+
+The role of the Combat Medic involves more than just healing, however. Combat Medics are capable of crafting grenades that can disease enemies, as well as cause massive bleeding that deals Damage Over Time (or DOTs, as some refer to them).
+
+The Combat Medic is also proficient with crafting grenades that they can throw into a group of friendly players and do some Area Effect Healing (AE Healing).
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"chef":"As a Chef in SWG, you will be the only crafter of edible items. You will be crafting food and beverages that temporarily increase the stats of the players that eat them.
+
+As you progress up the skill "onion", your choice of items to create will get more and more complex, and their stat-buffing abilities will become greater as well.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"carbineer":"The Carbineer is an expert in the use of the carbine ranged weapons, plain and simple. 
+
+As a Carbineer, you will gain advancement in your accuracy, speed, counter measures, and your ability to hit a target while running. 
+
+Like all the combat oriented professions, as you move up the skill "onion", you will be granted special combat moves to add to your expertise of eliminating your enemies.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"bountyhunter":"As a Bounty Hunter, your career will be dedicated to tracking and "eliminating" the scourge of the galaxy. Of course, if the price is right, you may be asked to off someone that may not necessarily be all that evil. It's not an easy job, but someone has to do it, right?
+
+With that said, Bounty Hunters will learn the nuances of tracking their prey by special tracking droids, and interrogating informants to get information.  This "Hybrid" profession has very little weakness in battle. Their profession grants them special weapon speeds that make them a tough target to take down in a firefight.
+
+They have access to their own Bounty Hunter mission terminals that give out very profitable rewards for completed missions.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"bioengineer":"The Bio-Engineer is a Creature Handler's best friend. What they do is to sample DNA from living creatures out in the wild, and genetically recreate those creatures in their lab. These creatures, once born, can be sold to and tamed by Creature Handlers as pets, (provided they arre of sufficient level for that particular creature). 
+
+As Bio-Engineers gain skills, they can move on to more fierce and even aggressive creatures, to do their genetics work. They can even attempt to modify the creature's stats to create something better than they started with.
+
+As if this wasn't enough, Bio-Engineers can craft special organic tissue items that can be utilized by both the Chef and the Tailor professions to enhance the items that those two professions create.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"armorsmith":"The Armorsmiths of Star Wars Galaxies are the combat player's best friend. 
+
+They craft the armors that Brawlers and Marksmen wear to protect themselves from incurring massive wounds during hours and hours of combat. Of course, nothing can completely stop a well aimed blaster bolt, but the armor protection can certainly spell the difference between life and death to the combat player.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"architect":"The Architects of Star Wars Galaxies are the primary structure creators of the galaxy. They can craft anything from generators, to fancy furniture, to the largest, most glamorous player houses. 
+
+The crowning achievement of the Architect profession is the ability to craft a Player Association Hall, or Guild Hall as many call them.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"advanced":"Advanced Professions are only attainable once you have met the pre-requisites for that profession. The skills interface window (CTRL-S), has all the skill trees (onions as we call them), with all the information on what is granted with that skill, what is needed to get that skill, and what that skill opens up for you once you have it.
+
+Some Advanced Professions are "Hybrid Professions" which require that you Master two starting professions to be eligible. An example of this would be the Combat Medic, that requires you have Master Marksman and Master Medic to be eligible.
+
+Other Advanced Professions are "Elite Professions" which require you have certain skill branches from specific onions, but NOT require you have Mastered a specific Starting Profession. An example of this would be the Carbineer which requires that you only have all four Carbine skill boxes from the Marksman onion to be eligible, and it is not necessary that you have Master Marksman.
+
+These Advanced Professions are not necessary to achieve success in Star Wars Galaxies. In fact, there may be several very successful players that never go beyond starting professions, they just get very good at playing these professions, and most likely prefer being more well rounded by being Masters of those, instead of going higher in the skill tree.",		"scout":"The Scout is an explorer who is capable of locating valuable resources, moving over difficult terrain more quickly, and harvesting resources off creature corpses. The most balanced of all the Professions, Scouts are well-suited to hit-and-run combat and long-distance treks.  They also have the very useful skill that allows them to craft camp kits, which can be deployed for wilderness survival, as well as craft traps that have various effects on creatures when used.
+
+",		"medic":"Medics are healers who can help replenish the Health and Action pools of other characters. Vital to groups involved in combat, especially during battlefield clashes, Medics are sturdy and intelligent characters. They are certainly capable of holding their own in a fight, but they truly shine when patching up wounded allies. Medics can also provide temporary player buffs (enhancements), as well as craft medicines to help their comrades with pool damage and wounds.",		"marksman":"A Marksman is competent with all manner of ranged weapons. Although every character can use some sort of blaster initially, the Marksman gains special abilities and access to a wider variety of weapons as he or she advances. Marksmen are tough and very agile in combat but they also have fair mental capabilities which allow them to execute their special combat moves.",		"entertainer":"The Entertainer profession fills a necessary role in Star Wars Galaxies by providing player characters with various forms of mental healing and temporary player buffs (enhancements). A player who is mentally fatigued or wounded recovers more quickly when relaxing in the company of an Entertainer. Entertainers aren't necessarily warriors, but they are quick and agile even in combat. They also have surprising mental reserves as well as special skills. Entertainers are the only characters that can dance or play music in Star Wars Galaxies.",		"brawler":"Brawlers are tough warriors designed for melee combat and direct confrontations with enemy forces. Brawlers are very difficult to incapacitate and can act quickly in combat. However, they don't have the mental strength of some other professions.
+
+The Brawler profession is made up of Unarmed Combat, One-Handed Melee Weapons, Two-Handed Melee Weapons, and Polearms. Once you master all of the branches of this skill onion you are eligible for the skill box of Master Brawler.
+
+All information regarding what is granted and when it is granted can be found in the Skills Interface, (CTRL-S) while in game.",		"artisan":"The Artisan is the "crafting" profession in Star Wars Galaxies. The profession's starting attributes reflect a focus on cerebral pursuits. Artisans are quite good at building things, locating resources, and other mental activities. However, they are not designed for direct combat confrontations. Artisans are especially important in Star Wars Galaxies because nearly all of the equipment in the game is created by these characters. Also, as Artisans advance and begin exploring Hybrid and Elite Professions, they gain unique perks--only an Artisan can build certain structures on battlefields, an extremely important role in the Galactic Civil War. ",		"starting":"A Starting Profession automatically assigns your character with basic equipment and clothing, and his or her first Skill. Most importantly, the Starting Profession determines your character's starting Attributes (which are modified by your choice of Species).
+
+These Starting Professions are the base building blocks of what your character aspires to become. Progressing through these Starting Professions opens up options for you to access the Advanced Professions.",		"professions":"Professions can be defined as the career path you have decided to pursue with your avatar. What profession you have decided to follow dictates what kind of player you wish to be. Are you a fighter, a crafter, a healer, a merchant, or a mixture of many of those? We offer you the opportunity to follow any profession path you wish, and combine any professions you wish, provided you have the pre-requisites to do so.
+
+In Star Wars Galaxies, you are able to change what kind of character you have by "surrendering" profession boxes in order to pursue other professions. You can even change the kind of character you have completely by surrendering all of your current skills and trying out a completely different profession, or set of professions if you like. This type of action is a bit drastic, but definitely a possiblity, and easy to do as well!
+
+Professions are split up into two major groups, Starting Professions and Advanced Professions. To see more information on these types of professions, see the sub menus below."
+}}

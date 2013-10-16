@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/stn_endor_irs_imp_tier3_3c",
+	"entries": {
+		"title_d":"The Linear Miasma is a large pocket of space gas comprised mostly of the half million tons of bacta that was released from the destruction of a KDY B-12 Transport 'Suveron'. The cause of detour and subsequent destruction of the transport was reportedly a critical reactor failure. What the Linear researchers study is the unique case of bacta surviving the vacuum of space. Though it is in no way suitable for medicinal use anymore, the cloud is still popular among research communities.",		"title":"Endor System: The Grand Tour - Linear Miasma",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Endor System: < \#pcontrast1 Some researchers at the nebula have sent a distress signal, they are under attack by Zynt`aia Guardians.  Travel to their location and help ensure their safety by destroying the Zynt'aia. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Leg Destination",		"quest_patrol_d":"Travel here to complete this portion of The Grand Tour",		"quest_location_t":"Linear Miasma",		"quest_location_d":"Fly an interrupted patrol to learn about the POI's around the Endor System.  The second stop is the Linear Miasma, a space cloud frequented by research scientists.",		"autorewardsubject":"The Grand Tour",		"autorewardfrom":"Endor Station",		"autorewardbody":"Completion Bonus: Linear Maisma (5000)",		"assigned_delayed":""
+}}

@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'complete',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/naboo_imperial_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Destroy the Rebel ambush. Your patrol route has been successful and, as planned, the Rebels have attacked you. You must destroy the Rebels that have attacked you. Once you have completed this task return to the Tatooine space station, target it by pressing the 'C' key, and use the /comm command and return to your commanding officer.",		"title":"Naboo System: Destroy the Rebel X-wing Ambush",		"split_quest_alert_fail":"This isn't the first time that new pilots have failed their first time out. We expect you to try again until you can get it right. Sending you a new navigation location to another patrol route.",		"split_quest_alert":"",		"complete":"Mission Complete!  Return to base by travelling to the Naboo Space Station, target it by pressing the 'C' key, and using /comm.",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,19 +1,5 @@
-[
-'17':'house_17',
-'16':'house_16',
-'15':'house_15',
-'14':'house_14',
-'13':'house_13',
-'12':'house_12',
-'11':'house_11',
-'10':'house_10',
-'9':'house_9',
-'8':'house_8',
-'7':'house_7',
-'6':'house_6',
-'5':'house_5',
-'4':'house_4',
-'3':'house_3',
-'2':'house_2',
-'1':'house_1',
-]
+{
+	"stfFile":"house_e3_convo",
+	"entries": {
+		"house_17":"Just trust me, get out there and distract those troops and I'll handle the rest.",		"house_16":"Do they have any heavy artillery?",		"house_15":"Wow.  Ok, what do I do?",		"house_14":"That sounds like a suicide mission.",		"house_13":"You're going to distract the imperials while I get my spices into the transport right?",		"house_12":"Anyone who can afford it can have a home like this.  Even you.",		"house_11":"Ok, here's what we do.  You go out there and distract the stormtroopers, and I'll get the rest of the spices off the planet in the transport.",		"house_10":"I'm still not sure what it is you want.",		"house_9":"It certainly is a nice home.",		"house_8":"Sorry.",		"house_7":"Never better.  Now that you're here to help.",		"house_6":"You're going to help me get rid of those imperials who are forcing me to leave my ancestral home.",		"house_5":"What do I look like, some kind of Jedi mind reader?",		"house_4":"Are you ok?",		"house_3":"Why would anyone be waiting for me?",		"house_2":"Wait, I've heard this one before.  The chosen one?",		"house_1":"You're the one I've been waiting for, aren't you?"
+}}

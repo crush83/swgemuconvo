@@ -1,6 +1,5 @@
-[
-'43':'selection',
-'42':'none',
-'45':'title',
-'44':'all',
-]
+{
+	"stfFile":"ui_lottery",
+	"entries": {
+		"selection":"Selection",		"none":"None",		"title":"Lottery",		"all":"All"
+}}

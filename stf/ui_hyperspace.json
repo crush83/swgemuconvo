@@ -1,10 +1,15 @@
-[
-'8':'help_button_hyperspace',
-'7':'help_description',
-'6':'help_planets',
-'5':'loading',
-'4':'hyperspace',
-'3':'selected_point',
-'2':'travel_to',
-'1':'cpt_hyperspace',
-]
+{
+	"stfFile":"ui_hyperspace",
+	"entries": {
+		"help_button_hyperspace":"Travel Through Hyperspace
+
+After selecting a planetary system and hyperspace point as your hyperspace target, use this button to travel through hyperspace to that destination.
+
+Your ship must have a hyperspace drive in order to travel through hyperspace.",		"help_description":"Hyperspace Point Information
+
+This shows information about the hyperspace point you have selected on the galaxy map.",		"help_planets":"Galaxy Map
+
+These are the available planetary systems to which you can travel to through hyperspace.
+
+Select the system to which you wish to travel and then the hyperspace point within that system that will be your point of arrival.",		"loading":"Loading",		"hyperspace":"Hyperspace",		"selected_point":"Selected Point:",		"travel_to":"Travel Information",		"cpt_hyperspace":"System Map"
+}}

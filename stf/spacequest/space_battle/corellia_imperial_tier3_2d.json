@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_location_t',
-'17':'quest_location_d',
-'16':'quest_helpallies_t',
-'15':'quest_helpallies_d',
-'14':'quest_findbattle_t',
-'13':'quest_findbattle_d',
-'12':'found_loc',
-'11':'enemies_win',
-'10':'enemies_remain',
-'9':'enemies_arrived',
-'8':'battle_started',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'allies_win',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_imperial_tier3_2d",
+	"entries": {
+		"title_d":"",		"title":"Protect the Trainees",		"split_quest_alert":"",		"quest_update":"%TO",		"quest_location_t":"",		"quest_location_d":"",		"quest_helpallies_t":"",		"quest_helpallies_d":"",		"quest_findbattle_t":"",		"quest_findbattle_d":"",		"found_loc":"Waypoint to location has been set.",		"enemies_win":"Rebels win, this is a bad thing.",		"enemies_remain":"",		"enemies_arrived":"The Rebels are here",		"battle_started":"The battle has started.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"Go to this waypoing and protect a training wing.",		"allies_win":"Viva La Empire",		"allies_remain":"",		"allies_arrived":"Allies have arrived"
+}}

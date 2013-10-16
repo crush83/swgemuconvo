@@ -1,10 +1,5 @@
-[
-'10':'droid_interface',
-'9':'booster',
-'8':'capacitor',
-'6':'weapon',
-'5':'armor',
-'3':'shield',
-'2':'reactor',
-'1':'engine',
-]
+{
+	"stfFile":"ship_component_n",
+	"entries": {
+		"droid_interface":"Droid Interface",		"booster":"Booster",		"capacitor":"Capacitor",		"weapon":"Weapon",		"armor":"Armor",		"shield":"Shield",		"reactor":"Reactor",		"engine":"Engine"
+}}

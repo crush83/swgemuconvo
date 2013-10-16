@@ -1,24 +1,71 @@
-[
-'22':'keren',
-'21':'moenia',
-'20':'kadaara',
-'19':'loam_redge',
-'18':'kaja_orzee',
-'17':'lord_hethrir',
-'16':'darth_vader',
-'15':'emperor_palpatine',
-'14':'tusk_cat',
-'13':'peko_peko',
-'12':'narglatch',
-'11':'kaadu',
-'10':'falumpaset',
-'9':'fambaa',
-'8':'gungan',
-'7':'theed_palace',
-'6':'gungan_sacred_place',
-'5':'emperors_retreat',
-'4':'lake_retreat',
-'3':'deeja_peak',
-'2':'theed',
-'1':'naboo',
-]
+{
+	"stfFile":"loading/naboo",
+	"entries": {
+		"keren":"The most important trading city on Naboo, Keren is a bustling mercantile hub. Planetary as well as interstellar traders can be found here, amid a wide assortment of (mostly) legal goods and products.  Look here to line up business contacts or a good deal.",		"moenia":"The Empire views Moenia as little more than an artists' retreat and virtually ignores all activity in the city. This has allowed the formation of a small, but influential group of political idealists sympathetic to the Rebellion.",		"kadaara":"A major center of commerce, Kaadara has also become a hub for the criminal element (such as it is on Naboo).   Smugglers, mercenaries and bounty hunters are common here, so steer clear of the seedier areas if there's a price on your head.",		"loam_redge":"Loam Redge has risen through the ranks of the Empire to the position of Chief Inquisitor.
+
+Known for being a stern, yet fair man, Loam is quite effective in retrieving information from dissidents and criminals alike.",		"kaja_orzee":"A strong yet friendly woman, Kaja Or'Zee believes fully in the Empire.  She feels that the New Order will restore peace to the galaxy.
+
+As Head Chamberlain to the Emperor, Kaja sees to it that the Emperor's will is realized.
+
+Disheartened by reports that Rebels destroyed Alderaan, Kaja Or'Zee feels it's her duty to help the Empire win the Galactic Civil War.",		"lord_hethrir":"Lord Hethrir holds the office of Procurator of Justice.  It is his burden to ensure that justice is brought to those who have wronged the Empire.
+
+Having been recently appointed to the position, Lord Hethrir mainly presides over cases that involve Rebel acts of terrorism.
+
+Lord Hethrir claims that his zeal for justice derives from the destruction of his homeworld by Rebels using a biological weapon.",		"darth_vader":"His past as mysterious as the black helmet he wears, Darth Vader is the Emperor's foremost agent.
+
+Vader is known across the Empire as the hero who single-handedly defeated the Jedi Knights, enforcers of the corrupt Old Republic. 
+
+Vader is charged with ferreting out and destroying Rebels.  When he has succeeded, the Emperor will restore peace to the galaxy.",		"emperor_palpatine":"Having served as a politician in the Old Republic, the Emperor rose to power with the sole purpose to restore order to the Galaxy.
+
+The supreme head of the Empire, the Emperor oversees all planets under Imperial control.  
+
+Widespread resistance to his rule has recently erupted into a full-scale Galactic Civil War.",		"tusk_cat":"Fierce hunters, tusk-cats stalk their prey in a variety of different terrains, attacking with claws and namesake tusks.
+
+Over the years the Naboo have domesticated tusk-cats, using them as both riding animals and for herding livestock.",		"peko_peko":"Peko-pekos are large, strong reptavians whose great raucous squawks carry over long distances.
+
+A long tail and spectacular coloration make this creature distinctive and valuable. Among the Gungans the peko-peko is admired for its beauty, whereas the Naboo hunt them for their indigo-sapphire skin.",		"narglatch":"The narglatch is often a solitary hunter that silently stalks and quickly demolishes its prey.
+
+Densely padded feet aid in hunting with stealth, and their large claws are superior killing tools.
+
+It generally avoids deep water, although narglatches are good swimmers if pressed.",		"kaadu":"These agile, fleet-footed, flightless birds are as fast in the water as they are on land.  They are the preferred mount of Gungan soldiers.
+
+The kaadu lay their eggs on land, often in fields, where predators like the peko-peko often eat them.
+
+Fearless creatures, the kaadu will viciously protect their herd if attacked.",		"falumpaset":"These highly intelligent, powerful creatures roam the swamps and plains of the planet in great herds.
+
+The falumpaset is a gigantic quadruped with a distinctive bellowing call that carries for kilometers around.
+
+Falumpasets are domesticated and used as beasts of burden by the Gungans.  However, their temperament is uniformly stubborn and uncooperative.",		"fambaa":"This gigantic sauropod is herbivorous and even-tempered by nature, but fearsome in its appearance.
+
+Fambaa have been domesticated by the Gungans, and carry huge loads such as immense shield generators used by the Gungans. 
+
+While moving underwater, the Gungans abandoned small groups of fambaa, which eventually established their own packs.",		"gungan":"In the past, Gungans took great pains to avoid contact with their Naboo neighbors, and even built huge underwater cities to escape contact.
+
+Since the failed invasion by the Trade Federation, the Gungans have begun to co-exist with their human friends. A few stubborn holdouts remain on both sides.
+",		"theed_palace":"The most elegant and beautiful building complex on Naboo, Theed Palace is where the elected Kings and Queens of Naboo hold court.
+
+From Grand Ballrooms to stunning views of Theed's waterfalls, the Palace is a fitting home for royalty.",		"gungan_sacred_place":"Hidden deep within the swamps, the Sacred Place is the most holy site of the Gungans. The only non-Gungan visitors allowed are the recognized friends and allies of the Gungan people.
+
+During the reign of Queen Amidala, an alliance between the Naboo and the Gungans was forged here.
+
+",		"emperors_retreat":"It is rumored that the Emperor keeps a Retreat on Naboo, a place to which he goes when he wishes to contemplate the future of the Empire.
+
+The stories also say that the Emperor's highest commanders receive their orders from him here.
+
+If this is indeed true, the Retreat would presumably be hidden and heavily guarded by the most elite stormtroopers.",		"lake_retreat":"The Lake Retreat, as it is known, was originally the family home of Naboo's former ruler, Queen Amidala.
+
+With a gazebo built on the waters of the placid lake, the Lake Retreat is the site of many wedding ceremonies.
+
+Given to the Monarchy of Naboo, it is now reserved for the private use of friends, family, and loyal subjects.",		"deeja_peak":"Nestled deep within a mountain valley, Dee'ja Peak is a secluded town, catering to those who wish to get away from it all.
+
+Many residents of Dee'ja Peak wish to live an independent lifestyle, or don't agree with the Queen's support of the Empire.
+
+Dee'ja Peak welcomes everyone, for residents know it's a long way to get there, but well worth the view.",		"theed":"The crown jewel of Naboo, Theed is the cultural and political capital of the planet. Artists from around the galaxy flock to Theed to partake of the rich, creative atmosphere. 
+The Grand Plaza in the city center offers impressive sights of both the Royal Arch and Theed Palace.
+
+",		"naboo":"Many believe no other planet in the known galaxy is as beautiful as Naboo.
+
+A lush, vibrant world, Naboo has two indigenous peoples: the Naboo and the Gungans.
+
+Long-standing tensions between the Naboo and Gungans have eased in the generation since they worked together to defeat the Trade Federation."
+}}

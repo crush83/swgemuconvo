@@ -1,9 +1,5 @@
-[
-'8':'entertainment',
-'7':'fatigue',
-'6':'hospitals',
-'5':'medpacks',
-'4':'stimpacks',
-'3':'wounds',
-'1':'healing',
-]
+{
+	"stfFile":"kb/kb_healing_n",
+	"entries": {
+		"entertainment":"Healing and Entertainers",		"fatigue":"Battle Fatigue",		"hospitals":"Healing in Hospitals and Camps",		"medpacks":"Using Advanced Medpacks",		"stimpacks":"Using Stimpacks",		"wounds":"Healing Stat Wounds",		"healing":"Healing"
+}}

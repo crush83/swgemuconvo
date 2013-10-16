@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/corellia_imperial_tier4_1",
+	"entries": {
+		"title_d":"Insurgent has sent you out on a patrol to investigate the movements of the Velocity mercenary fighters in the region. If you are able to locate an officer you are to disable and inspect that officer's computer database.",		"title":"Dantooine System: Patrol the Dantooine System",		"split_quest_alert_fail":"",		"split_quest_alert":"Your patrol has revealed a Velocity ship with officer markings. Capture and inspect that ship for any information about the mercenaries plot.",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Follow the Patrol Route",		"quest_patrol_d":"When you reach a navigation waypoint you will receive a new one to the next location. Follow the patrol waypoints until you come to the end of your patrol.",		"quest_location_t":"Travel to the Dantooine System",		"quest_location_d":"Travel to the Dantooine system and follow the patrol navigation waypoints. As you reach one navigation waypoint, you will get a new waypoint to the next location on the patrol route.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

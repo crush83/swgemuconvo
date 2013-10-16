@@ -1,22 +1,5 @@
-[
-'111':'death5',
-'110':'death4',
-'109':'death3',
-'108':'death2',
-'107':'death1',
-'106':'entercombat5',
-'105':'entercombat4',
-'104':'entercombat3',
-'103':'entercombat2',
-'102':'entercombat1',
-'101':'hityou5',
-'100':'hityou4',
-'99':'hityou3',
-'98':'hityou2',
-'97':'hityou1',
-'96':'gothit5',
-'95':'gothit4',
-'94':'gothit3',
-'93':'gothit2',
-'92':'gothit1',
-]
+{
+	"stfFile":"space/taunts/generic",
+	"entries": {
+		"death5":"You cannot defeat - Aaarrrrghh!",		"death4":"I'll be back, %TU!",		"death3":"Enough!  It's over!",		"death2":"%NU, you'll never take me alive!",		"death1":"Aaarrrrggghhh...",		"entercombat5":"Are you THE %TU?!  I've heard of you... and now I will destroy you.",		"entercombat4":"Let's see how you do against me, %NU!",		"entercombat3":"I have arrived!  You better flee!",		"entercombat2":"%NU, you'll regret coming here!",		"entercombat1":"I'm going to take you out, %TU!",		"hityou5":"Prepare to die, %NU!",		"hityou4":"Now I've got you!",		"hityou3":"Surrender, %NU!  You're no match for me!",		"hityou2":"DIE!",		"hityou1":"Take that, %TU!",		"gothit5":"Nice shot, but you're no match for me, %NU!",		"gothit4":"I'll get you for that, %TU!",		"gothit3":"Gah!",		"gothit2":"I can shake you!",		"gothit1":"You'll have to do better than that, %NU!"
+}}

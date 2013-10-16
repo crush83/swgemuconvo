@@ -1,69 +1,274 @@
-[
-'67':'space_corellia_4',
-'66':'rori_station_0',
-'65':'talus_station_0',
-'64':'endor_station_0',
-'63':'yavin4_station_0',
-'62':'dathomir_station_0',
-'61':'dantooine_station_0',
-'60':'lok_station_0',
-'59':'naboo_station_0',
-'58':'tatooine_station_0',
-'57':'corellia_station_7',
-'56':'corellia_station_6',
-'55':'corellia_station_5',
-'54':'corellia_station_4',
-'53':'corellia_station_3',
-'52':'corellia_station_2',
-'51':'corellia_station_1',
-'50':'corellia_station_0',
-'49':'space_light1_3',
-'48':'space_light1_2',
-'47':'space_light1_1',
-'46':'space_light1_0',
-'45':'space_heavy1_3',
-'44':'space_heavy1_2',
-'43':'space_heavy1_1',
-'42':'space_heavy1_0',
-'41':'space_endor_3',
-'40':'space_endor_2',
-'39':'space_endor_1',
-'38':'space_endor_0',
-'37':'space_yavin4_3',
-'36':'space_yavin4_2',
-'35':'space_yavin4_1',
-'34':'space_yavin4_0',
-'33':'space_dathomir_3',
-'32':'space_dathomir_2',
-'31':'space_dathomir_1',
-'30':'space_dathomir_0',
-'29':'space_dantooine_3',
-'28':'space_dantooine_2',
-'27':'space_dantooine_1',
-'26':'space_dantooine_0',
-'25':'space_lok_3',
-'24':'space_lok_2',
-'23':'space_lok_1',
-'22':'space_lok_0',
-'21':'space_tatooine_3',
-'20':'space_tatooine_2',
-'19':'space_tatooine_1',
-'18':'space_tatooine_0',
-'17':'space_naboo_3',
-'16':'space_naboo_2',
-'15':'space_naboo_1',
-'14':'space_naboo_0',
-'13':'space_corellia_3',
-'12':'space_corellia_2',
-'11':'space_corellia_1',
-'10':'space_corellia_0',
-'9':'naboo_c',
-'8':'naboo_b',
-'7':'naboo_a',
-'6':'tatooine_f',
-'5':'tatooine_e',
-'4':'tatooine_d',
-'3':'tatooine_c',
-'2':'tatooine_b',
-'1':'tatooine_a',
-]
+{
+	"stfFile":"hyperspace_points_d",
+	"entries": {
+		"space_corellia_4":"Quadrant V: Talus Secta
+
+Inhabitants: the Empire and the Rebellion
+Danger Level: HIGH
+
+Distance to Corellia Space Station: 10836m
+Distance to Talus Space Station: 4642m
+
+Closest hyperspace point to the Talus Space Station, the Talus Secta point is incredibly dangerous. The Empire, in attempt to catch traveling Rebel sympathizers off-gaurd, keep a vigil standpoint very close by. Learning the Empire's vile deeds, the Rebel Alliance has stationed guards next to the Talus Secta, hoping to fight off the Empire and make travel safe for Rebel allies. The ongoing war between the two factions makes traveling to the Talus Secta dangerous for both Rebel and Empire allies alike.",		"rori_station_0":"Space Station, Land Here.",		"talus_station_0":"Space Station, Land Here.",		"endor_station_0":"Space Station, Land Here.",		"yavin4_station_0":"Space Station, Land Here.",		"dathomir_station_0":"Dathomir Space Station. Land Heere",		"dantooine_station_0":"Dantooine Space Station
+
+Dantooine is a remote planet with a small primitive native population.  This space station can provide emergency repairs for a service, or clear you for landing at any of Dantooine's outposts.",		"lok_station_0":"Lok Space Station. Land Here",		"naboo_station_0":"Space Station, Land Here.",		"tatooine_station_0":"Space Station, Land Here.",		"corellia_station_7":"Corellia Space Station
+
+Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.",		"corellia_station_6":"Corellia Space Station
+
+Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.",		"corellia_station_5":"Corellia Space Station
+
+Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.
+",		"corellia_station_4":"Corellia Space Station
+
+Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.",		"corellia_station_3":"Corellia Space Station
+
+Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.",		"corellia_station_2":"Corellia Space Station
+
+Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.",		"corellia_station_1":"Corellia Space Station
+
+Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.",		"corellia_station_0":"Corellia Space Station
+
+Home of the Corellian Security Forces, this space station can provide emergency repairs for a service, as well as clear you for landing at any of Corellia's starports.",		"space_light1_3":"Kessel: Quadrant II",		"space_light1_2":"Kessel: Quadrant III",		"space_light1_1":"Kessel: Quadrant IV",		"space_light1_0":"Kessel: Quadrant I",		"space_heavy1_3":"Deep Space: Unknown Regions / Quadrant II",		"space_heavy1_2":"Deep Space: Unknown Regions / Quadrant III",		"space_heavy1_1":"Deep Space: Unknown Regions / Quadrant IV",		"space_heavy1_0":"Deep Space: Unknown Regions / Quadrant I",		"space_endor_3":"Quadrant IV: Durillium Sea
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Endor Space Station: 11727m
+
+The Durillium Sea is a vast expanse of virtual nothingness. The quadrant is relatively safe for passing travellers and welcomes expansion. Will the Empire seek to claim it?",		"space_endor_2":"Quadrant III: Empire's Justice
+
+Inhabitants: The Empire
+Danger Level: HIGH
+
+Distance to Endor Space Station: 9155m
+
+To those not beloning to the Empire's ranks, the Empire's Justice quadrant could be viewed as highly dangerous. Travel here is not recommended unless the traveller is on the best of term's with the Empire.",		"space_endor_1":"Quadrant II: Area D-435
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Endor Space Station: 5273m
+
+Little to nothing is known about the quadrant. It is uncharacteristic and safe for travel. It would be best, however, to keep navigation computers alert for unexpected enemies in the area.",		"space_endor_0":"Quadrant I: Red Sin Chimaera
+
+Inhabitants: Death Watch
+Danger Level: HIGH
+
+Distance to Endor Space Station: 11739m
+
+Lurking inside the cover of the Red Sin Chimaera Nebula, the Death Watch wait silently, striking at the last moment in hopes of a successful kill. Most think of them as animals, feasting upon the helpless to survive. Although a fair distance away, the Red Sin Chimaera quadrant entry point can give a traveller a run for his money.",		"space_yavin4_3":"Yavin: (RESTRICTED) Quadrant II",		"space_yavin4_2":"Quadrant III: Crimson Flare
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Yavin 4 Space Station: 5407m
+
+Unfortunately, not much is known about the Crimson Flare quadrant. It is wise to travel here, using extreme caution.",		"space_yavin4_1":"Quadrant II: Ferrous Aurora
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Yavin 4 Space Station: 10663m
+
+Lending the quadrant its name, the Ferrous Aurora nebula extends its welcome in an array of radiant, incandescent colors. It is wise not to be fooled by its beauty as the Ni'lyahin Smugglers have claim it as their own.",		"space_yavin4_0":"Quadrant I: Smuggler's Run
+
+Inhabitants: Ni'lyahin Smugglers
+Danger Level: Medium
+
+Distance to Yavin 4 Space Station: 16175m
+
+When the Death Star was finally destroyed, news of its defeat spread like wildfire. It brought many visitors, including the Ni'lyahin Smugglers, hoping to scrounge together pieces from the explosion and sell it on the black market. Today, they prosper, fighting their own war against the Empire and their oppression.",		"space_dathomir_3":"Quadrant IV: Emperor's Hand
+
+Inhabitants: Unknown
+Danger Level: Medium
+
+Distance to Dathomir Space Station: 11077m
+
+Named after the Emperor's unavoidable influence, the Emperor's Hand proves to be dangerous to those unwiling to succumb to the Empire's whims. The fourth quadrant stretches far as do the Emperor's tumultous desires and would be best avoided when making travel plans.",		"space_dathomir_2":"Quadrant III: Dathomir's Vitality
+
+Inhabitants: Dark Veil Order
+Danger Level: HIGH
+
+Distance to Dathomir Space Station: 8273m
+
+Fortunately, not many venture close to the Heart of Dathomir and its clerical inhabitants, the Dark Veil Order. Serving their Queen with passionate ferocity, the Dark Veil Order encircle the Heart of Dathomir, hoping to "sacrifice" victims to the nebula's powerful rage. They believe the Heart of Dathomir nebula consumes the essence of these victims, fueling life into the palpitating mass and protecting the Dark Veil Order from infidels. It is wise not to travel here under any circumstances.",		"space_dathomir_1":"Quadrant II: Empire Blockade
+
+Inhabitants: The Empire
+Danger Level: HIGH
+
+Distance to Dathomir Space Station: 12603m
+
+The second quadrant of Dathomir's system is a considerably dangerous one for those not beloning to the Emperor's ranks. Particularly of note, is the Empire's Blockade that makes its way through the area, crushing all those who stand to oppose it.",		"space_dathomir_0":"Quadrant I: Dark Force
+
+Inhabitants: Empire
+Danger Level: HIGH
+
+Distance to Dathomir Space Station: 10483m
+
+\\Transmission Jammed!\\
+
+From the Imperial Navy...
+
+Receiving ... ... ...
+
+Immediate Notice: All access to this Quadrant is prohibited by law of the Empire. Any vessels found in this sector will be destroyed on sight! Repeat: Cease all immediate travel to this sector. You will be destroyed on sight!",		"space_dantooine_3":"Quadrant IV: Gorvera Space
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Dantooine Space Station: 16240m
+
+Relatively safe, the Gorvera Space quadrant welcomes travellers, providing a scenic view of Dantooine's System. Little else is known about Dantooine's fourth quadrant.",		"space_dantooine_2":"Quadrant III: Isryn's Veil
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Dantooine Space Station: 8596m
+
+Mystery shrouds the third quadrant of Dantooine's System and provides history enthusiasts with little information of the founders of Isryn's Veil. For now, it is safe to travel here. Incidentally, the Empire's eyes may have turned to the Veil as a target of expansion efforts.. Will they succeed?",		"space_dantooine_1":"Quadrant II: Asair's Ribbon
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Dantooine Space Station: 11531m
+
+An uncharted territory in Dantooine's System. The Empire hopes to secure this quadrant within the year's end.",		"space_dantooine_0":"Quadrant I: Dantooine's Wrath
+
+Inhabitants: Hutts, Valarians, the Empire
+Danger Level: HIGH
+
+Distance to Dantooine Space Station: 6788m
+
+The first quadrant of Dantooine, fondly nicknamed "Dantooine's Wrath", is a pit-stop between a sarlacc pit and being trampled on by a Gorax. It is highly recommended that one stay away from the first quadrant unless absolutely necessary. Dantooine's Wrath is laden with fierce Hutt gunships and unmerciless Valarian thugs.",		"space_lok_3":"Quadrant IV: Voria's Ember
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Lok Space Station: 14438m
+
+Although quiet, Voria's Ember remains a testament to the great Rebel Sergeant, Voria Sergar; a horrible loss to the Rebellion. The quadrant was named after her passing.",		"space_lok_2":"Quadrant III: Lurid Dawn
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Lok Space Station: 4944m
+
+Lok's very own dead space. The Rebel Alliance hopes to secure this quadrant for operative expansion within the year's end.",		"space_lok_1":"Quadrant II: Rebellion Blaze
+
+Inhabitants: Rebel Alliance
+Danger Level: Medium
+
+Distance to Lok Space Station: 9837m
+
+The Rebellion Blaze Quadrant is home to loyal members of the Rebel Alliance. Named after the infamous Rebel Gunboat, the Rebellion Blaze, the Alliance has chosen the Lok system as one of its points of operative origin. Members of the Empire are not welcome here and will be hunted down immediately if seen.",		"space_lok_0":"Quadrant I: Nym's Hovel
+
+Inhabitants: Nym's Thugs
+Danger Level: Medium
+
+Distance to Lok Space Station: 12123m
+
+Within the heart of the first quadrant, Nym and his thugs search for unsuspecting enemies. Nym's Hovel has proven to be an ill place for those finding themselves on the wrong side of the notorious pirate.",		"space_tatooine_3":"Quadrant IV: The Outer Rim
+
+Inhabitants: Unknown
+Status: RESTRICTED
+Danger Level: HIGH
+
+Distance to Tatooine Space Station: 9585m
+
+Approved by the Imperial Navy, all travel to this Quadrant is RESTRICTED. Hostile enemies have been seen and it is IMPERATIVE that travel to this Quadrant be ceased! You have been warned.",		"space_tatooine_2":"Quadrant III: Desert Sands
+
+Inhabitants: Unknown
+Danger Level: Medium
+
+Distance to Tatooine Space Station: 8044m
+
+It is unknown if the Desert Sands Quadrant is home to friendly entities. The Imperial Navy has forwarded a word of warning to those looking to travel through the area.",		"space_tatooine_1":"Quadrant II: Deep Sea
+
+Inhabitants: Hutts
+Danger Level: HIGH
+
+Distance to Tatooine Space Station: 11728m
+
+Home to Hutt influence, the Deep Sea Quadrant proves dangerous to  "unapproved" visitors. Unless one has business here, it's best to stay away.",		"space_tatooine_0":"Quadrant I: Miner's Yard
+
+Inhabitants: Miners
+Danger Level: Low
+
+Distance to Tatooine Space Station: 15144m
+
+Tatooine's resource numbers are plumeting daily. It is up to local miners to branch out and collect resources to replenish high demands. Their target: Asteroid Fields.",		"space_naboo_3":"Quadrant IV: Kylantha's Whim
+
+Inhabitants: The Empire
+Danger Level: Medium
+
+Distance to Naboo Space Station: 5244m
+Distance to Rori Space Station: 13463m
+
+Although mostly deserted, one can find a few Imperial patrols circling about Kylantha's Whim. It is rumored that a young and wealthy suitor, infatuated with the Queen Kylantha, claimed he purchased a quadrant for her in Naboo Space, hoping it would bring to light the love he had for her. The Queen kindly refused his offer of marriage, stating her desire to "marry" her people and serve them with all of her time. Crushed, the young man renamed the quadrant to Kylantha's Whim. The quadrant has kept its name ever since.",		"space_naboo_2":"Quadrant III: Sea of Veruna
+
+Inhabitants: Unknown
+Danger Level: Low
+
+Distance to Naboo Space Station: 12762m
+Distance to Rori Space Station: 4268m
+
+The Sea of Veruna proves to be a vast quadrant of dead space. Potentially safe, the hyperspace location is used often by all travellers. Be warned, however, as the Empire hopes to secure it within the year's end.",		"space_naboo_1":"Quadrant II: Penumbra Omen 
+
+Inhabitants: Unknown
+
+Status: TRAVEL PROHIBITED
+Danger Level: HIGH
+
+Distance to Naboo Space Station: 10445m
+Distance to Rori Space Station: 12853m
+
+** Important!! Quadrant II, Code Name Area D-512 has been changed to Code Name "The Penumba Omen Quadrant" effective immediately!!
+
+From the Imperial Navy...
+
+Receiving ... ... ...
+
+Immediate Notice: All access to this Quadrant is prohibited by law of the Empire. Again, Area D-512 is now PROHIBITED to ALL TRAVEL!! Unknown Flying Starships have been found in the area and have proved to be INCREDIBLY DANGEROUS!! Do NOT travel in this Quadrant!!
+
+Code Name for Unknown Starships: Penumbra Omen",		"space_naboo_0":"Quadrant I: Royal Way
+
+Inhabitants: Royal Security Forces of Naboo
+Danger Level: Low
+
+Distance to Naboo Space Station: 3919m
+Distance to Rori Space Station: 12082m
+
+A common sight in Naboo's space, the Royal Security Forces hope to keep the peace by policing approved travel space and "removing" offenders. It would be wise not to travel here if you find yourself on the bad side of the Royal Security Forces.",		"space_corellia_3":"Quadrant IV: Corellia's Own
+
+Inhabitants: CorSec
+Danger Level: Low
+
+Distance to Corellia Space Station: 3874m
+Distance to Talus Space Station: 13582m
+
+If a quadrant in Corellia could be called safe, Corellia's Own is the one. Only patrolled by CorSec, the trade routes from the Corellia Station to the Talus Station are patrolled mostly by trading freighters and civilian craft. Still, Imperial presence is frowned upon here and proves to be hostile to starships openly claiming to be of the Empire.",		"space_corellia_2":"Quadrant III: Binayre Razorcat
+
+Inhabitants: Binayre and Hidden Daggers
+Danger Level: Medium
+
+Distance to Corellia Space Station: 9907m
+Distance to Talus Space Station: 12388m
+
+The Binayre Razorcat is often avoided due to the high density of the pirate factions, Binyare and the Hidden Daggers. Only brave travellers can be found circling the area, fighting off the pirates who dare close in on the defenseless pirates.",		"space_corellia_1":"Quadrant II: Trifecta Star
+
+Inhabitants: Rebel Alliance, Blacksun, Binayre
+Danger Level: Medium
+
+Distance to Corellia Space Station: 15832m
+Distance to Talus Space Station: 11714m
+
+Although deserted to some degree, the Trifecta Star is the nearby home to the Rebel Alliance, the Blacksun and the Binyare. Only under dire cicumstances should one choose to travel to this quadrant. Beware.",		"space_corellia_0":"Quadrant I: CorSec Wing
+
+Inhabitants: CorSec and the Rebellion
+Danger Level: HIGH
+
+Distance to Corellia Space Station: 8765m
+Distance to Talus Space Station: 7702m
+
+Controlled fiercely by both the Rebellion and the CorSec, the CorSec Wing proves dangerous for members of the Empire. The Rebellion is found to be unsympathetic to Imperial starships flying in the CorSec Wing Quadrant and will shoot them down on sight. Beware.",		"naboo_c":"Naboo: Old Trade Federation Route",		"naboo_b":"The public portion of the 'Emperor's Way' is a weapons-hold zone policed by elite TIE squadrons.",		"naboo_a":"The area known as 'Wishing Lake' was first named by deep space mercenaries hired by the Trade Federation for commercial security.",		"tatooine_f":"Tatooine: RESTRICTED WAYPOINT (By order of *Unknown*)",		"tatooine_e":"Tatooine: RESTRICTED NAVIGATION SPACE (By order of Prefect Talmont)",		"tatooine_d":"Tatooine: RESTRICTED ENTRY POINT (By order of the Emperor)",		"tatooine_c":"Tatooine: (Hutt Claim Pending)",		"tatooine_b":"Tatooine: Old Ghosttides Nebula",		"tatooine_a":"Tatooine: Explorers' Grotto"
+}}

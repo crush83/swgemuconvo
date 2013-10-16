@@ -1,30 +1,5 @@
-[
-'66':'prose_cost',
-'65':'trainer_unknown',
-'75':'greeting',
-'62':'no_qualify',
-'61':'surpass_trainer',
-'60':'prose_train_failed',
-'59':'nsf_skill_pts',
-'58':'no_skill_pts',
-'56':'prose_skill_learned',
-'55':'prose_pay',
-'54':'prose_nsf',
-'53':'confirm',
-'76':'chosen_path',
-'77':'no_teach_jedi',
-'50':'success',
-'16':'topped_out',
-'14':'error_grant_skill',
-'13':'msg3_2',
-'12':'msg3_3',
-'11':'msg3_1',
-'10':'msg2_4',
-'9':'msg2_3',
-'8':'msg2_2',
-'7':'msg2_1',
-'6':'msg1_1',
-'5':'error_empty_category',
-'68':'msg_yes',
-'67':'msg_no',
-]
+{
+	"stfFile":"jedi_trainer",
+	"entries": {
+		"prose_cost":"It will cost %DI credits to train in %TO. Would you like to continue?",		"trainer_unknown":"Be mindful of your thoughts. About what are you interested in learning?",		"greeting":"I know why the Force has brought you here. I have forseen your coming. You wish to learn the ways of the Jedi.",		"no_qualify":"You are not yet ready to learn from me. Be mindful of the future, and return to me when you have learned the following skills...",		"surpass_trainer":"Not long ago, you were but the learner. Now you are the master. There is nothing further that I can do for you. May the Force be with you, %TT.",		"prose_train_failed":"You were unable to complete %TO skill training.",		"nsf_skill_pts":"There is a disturbance in the Force. You must first make %DI skill points available before I can train you in %TO.",		"no_skill_pts":"There is a disturbance is the Force. You have no available skill points. I cannot train you at this time.",		"prose_skill_learned":"You successfully train in the %TO skill.",		"prose_pay":"Processing %DI credit payment for %TO training.",		"prose_nsf":"You lack the %DI credits required for training in %TO.",		"confirm":"Are you sure you wish to purchase this skill?",		"chosen_path":"You have already elected a path. You must seek out a new trainer in order to continue training in your chosen course.",		"no_teach_jedi":"I doubt there is anything I can teach in which you would be interested in learning. I am sorry. Perhaps you should find someone else to train you.",		"success":"You have successfully learned the skill.",		"topped_out":"You require no more training from me. You already know that which I can teach.",		"error_grant_skill":"You cannot learn Jedi-related skills with a character that lacks Force capability.",		"msg3_2":"Yes, quiet your mind and concentrate. The Force will guide you.",		"msg3_3":"Allow me to give you some insight to that skill...",		"msg3_1":"You are not ready to receive any more training at this time.",		"msg2_4":"Patience. You must learn patience. Which of my skills would you like to know about?",		"msg2_3":"Be mindful of your thoughts. In which skills are you interested?",		"msg2_2":"Here are the skills on which you should be practicing. I will teach you these when you have enough experience.",		"msg2_1":"You are ready to train in the following skills...",		"msg1_1":"What skills would you like to know more about?",		"error_empty_category":"You are not ready to receive any more training at this time.",		"msg_yes":"Excellent! Clear your mind and concentrate, and we will begin...",		"msg_no":"Yes, it does you well to exercise patience. How else may I be of service?"
+}}

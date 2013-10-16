@@ -1,12 +1,5 @@
-[
-'10':'unused2_t',
-'9':'unused2_d',
-'8':'unused1_t',
-'7':'unused1_d',
-'6':'title_d',
-'5':'title',
-'4':'split_quest_alert_fail',
-'3':'split_quest_alert',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/naboo_rebel_tier3_3_a",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"You're being ambushed by Blacklight assassins. Defend yourself and eliminate the threat pilot!",		"title":"Endor system: Blacklights strike back!",		"split_quest_alert_fail":"",		"split_quest_alert":"Brother Ezkiel: < Holy cow! We may be in over our head! The base is up ahead and the Blacklights are on to you! >",		"complete":"Brother Ezkiel: < Great job pilot, you showed those fools what a real pilot can do! >",		"assigned_delayed":""
+}}

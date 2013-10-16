@@ -1,17 +1,5 @@
-[
-'15':'manfingredients',
-'14':'selling',
-'13':'factories',
-'12':'manfschematics',
-'11':'customization',
-'10':'experimentation',
-'9':'assembly',
-'8':'toolsandstations',
-'7':'harvesters',
-'6':'foraging',
-'5':'harvesting',
-'4':'sampling',
-'3':'findingresources',
-'2':'draftschematics',
-'1':'crafting',
-]
+{
+	"stfFile":"kb/kb_crafting_n",
+	"entries": {
+		"manfingredients":"Manufacturing Schematic Ingredients",		"selling":"Selling Your Crafted Goods",		"factories":"Automated Factories",		"manfschematics":"Manufacturing Schematics",		"customization":"Crafting Customization Phase",		"experimentation":"Crafting Experimentation Phase",		"assembly":"Crafting Assembly Phase",		"toolsandstations":"Crafting Tools and Stations",		"harvesters":"Using Automated Harvesters",		"foraging":"Foraging for Organic Resources",		"harvesting":"Resource Harvesting from Creatures",		"sampling":"Surveying and Sampling",		"findingresources":"Finding the Resources Required",		"draftschematics":"Understanding Draft Schematics",		"crafting":"Crafting Items"
+}}

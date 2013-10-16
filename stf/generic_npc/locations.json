@@ -1,7 +1,5 @@
-[
-'5':'bye',
-'4':'ok',
-'3':'no',
-'2':'yes',
-'1':'greet',
-]
+{
+	"stfFile":"generic_npc/locations",
+	"entries": {
+		"bye":"Ok, good bye.",		"ok":"What can I help you with?",		"no":"I'm doing all right.",		"yes":"Yes, I'm lost...",		"greet":"Hello.  Can I help you find something?"
+}}

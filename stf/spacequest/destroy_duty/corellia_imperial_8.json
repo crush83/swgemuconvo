@@ -1,33 +1,5 @@
-[
-'31':'title_d',
-'30':'title',
-'29':'taunt_5',
-'28':'taunt_4',
-'27':'taunt_3',
-'26':'taunt_2',
-'25':'taunt_1',
-'24':'targets_detected',
-'23':'targets_behind',
-'22':'quest_location_t',
-'21':'quest_location_d',
-'20':'quest_destroy_t',
-'19':'quest_destroy_d',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'duty_update',
-'13':'dd_boss_taunt_5',
-'12':'dd_boss_taunt_4',
-'11':'dd_boss_taunt_3',
-'10':'dd_boss_taunt_2',
-'9':'dd_boss_taunt_1',
-'8':'complete',
-'7':'boss_title_5',
-'6':'boss_title_4',
-'5':'boss_title_3',
-'4':'boss_title_2',
-'3':'boss_title_1',
-'2':'boss_detected',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy_duty/corellia_imperial_8",
+	"entries": {
+		"title_d":"Travel to the Corellia system and destroy Hidden Daggers. The Rebels have many allies in the Corellian system and they are trying to gain more. They have been in negotiations with the Hidden Daggers in an attempt to gain their support. Send a message to the Hidden Daggers that any assistance they give to the Rebellion will have dire consequences.",		"title":"Corellia System: Destroy the Hidden Daggers Duty",		"taunt_5":"",		"taunt_4":"The hidden daggers will not be stopped!",		"taunt_3":"I will decorate my house with what is left of your ship.",		"taunt_2":"I have first call on the spare parts.",		"taunt_1":"This one is no match for me.",		"targets_detected":"\#pcontrast1Tactical Computer:\#pcontrast3 < Vessels bearing marks of the Hidden Daggers spotted > ",		"targets_behind":"\#pcontrast1 Tactical Computer:\#pcontrast3 < Be aware, vessels trying to target this ship with their weapon systems. Attack orginating direction 180 degrees. > ",		"quest_location_t":"Travel to the Corellian System",		"quest_location_d":"The Hidden Daggers are stationed in the Corellian system. Locate their fighters in that region and destroy them. Once you arrive in the system, Intelligence has supplied us with locations to known Hidden Dagger hot spots.",		"quest_destroy_t":"Destroy the Hidden Daggers",		"quest_destroy_d":"Destroy any Hidden Dagger fighter you find in any of the hot spot areas. Be on the look out for their ace pilots whom will come after you if you cause enough trouble.",		"level_increase":"The enemy has taken notice of your actions, be on guard.",		"level_boss_dead":"These simple pirates were no match for your superior fighting skills.",		"level_boss":"\#pcontrast1 Tactical Computer:\#pcontrast3 < %TO has shown up on the scanners, be ready >",		"found_loc":"Next location of pirate activity has been uploaded to your nav computer.",		"duty_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"dd_boss_taunt_5":"",		"dd_boss_taunt_4":"",		"dd_boss_taunt_3":"I'm going to chop you up and feed you to my Gronda!",		"dd_boss_taunt_2":"Are you going to attack or stare at me all day?",		"dd_boss_taunt_1":"Do they send children to fight their wars now?",		"complete":"Long range scans show no more pirate activity in the area, return to base.",		"boss_title_5":"Dark Assassin",		"boss_title_4":"Shadow Knife",		"boss_title_3":"Dancing Dagger",		"boss_title_2":"Deadly Blade",		"boss_title_1":"Nights Blade",		"boss_detected":"\#pcontrast1 Tactical Computer:\#pcontrast3 < Hostile craft on approach path. > ",		"Quest Log Data":"Text"
+}}

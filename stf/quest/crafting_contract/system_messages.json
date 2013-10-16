@@ -1,13 +1,5 @@
-[
-'11':'pay_msg',
-'10':'required',
-'9':'complete',
-'8':'of',
-'7':'items_remaining',
-'6':'job_complete',
-'5':'cannot_remove',
-'4':'already_complete',
-'3':'not_crafter',
-'2':'not_crafted',
-'1':'wrong_item',
-]
+{
+	"stfFile":"quest/crafting_contract/system_messages",
+	"entries": {
+		"pay_msg":"You have received %DI credits as payment for your services.",		"required":"required",		"complete":"Complete",		"of":"of",		"items_remaining":"You need %DI more item(s) to complete this order.",		"job_complete":"JOB COMPLETE: All items needed for this order have been added to the crate.",		"cannot_remove":"Items for this crafting order cannot be removed once they are placed in the crate.",		"already_complete":"The order is already complete. No further items can be placed in the crate.",		"not_crafter":"You are not the creator of this item. It cannot be placed in the crate.",		"not_crafted":"Only crafted items can be placed in the crate.",		"wrong_item":"This item cannot be placed in that crate."
+}}

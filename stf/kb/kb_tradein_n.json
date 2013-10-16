@@ -1,3 +1,5 @@
-[
-'1':'tradein',
-]
+{
+	"stfFile":"kb/kb_tradein_n",
+	"entries": {
+		"tradein":"Pet Trade-In System"
+}}

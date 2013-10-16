@@ -1,13 +1,5 @@
-[
-'11':'unused2_t',
-'10':'unused2_d',
-'9':'unused1_t',
-'8':'unused1_d',
-'7':'title_d',
-'6':'title',
-'5':'split_quest_alert_fail',
-'4':'split_quest_alert',
-'3':'leave_early',
-'2':'complete',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/destroy_surpriseattack/stn_dantooine_owner_smuggler_surpriseattack01_tier2_1",
+	"entries": {
+		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Your acts of piracy have gained the attention of the CorSec. They cannot be allowed to report in to your actions. Destroy them all.",		"title":"Space Corellia: Destroy the CorSec Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"There will be no witnesses to your actions. Travel to the Tatooine system, inspect, and pickup the brandy for the Lord's Mistress.",		"leave_early":"",		"complete":"CorSec fighters have been eliminated.",		"assigned_delayed":""
+}}

@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_inspect_t',
-'7':'quest_inspect_d',
-'6':'quest_dock_t',
-'5':'quest_dock_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/inspect/stn_dantooine_owner_smuggler_inspect02_tier2_1",
+	"entries": {
+		"title_d":"The Dantooine station owner also wants some Corellian Brandy for his private use. He discovered that the Lord's Mistress is carrying some very fine brandy and wants you to get him some of it.",		"title":"Tatooine System: Inspect the Lord's Mistress",		"split_quest_alert_fail":"",		"split_quest_alert":"Return to the Dantooine system with the brandy.",		"quest_location_t":"Travel to the Tatooine System",		"quest_location_d":"The Lord's Mistress is located in the Tatooine system.",		"quest_inspect_t":"Inspect the Lord's Mistress",		"quest_inspect_d":"Inspect the vessel and make sure that it still has the load of Corellian Brandy on it.",		"quest_dock_t":"Dock with the Lord's Mistress",		"quest_dock_d":"Dock with the ship and transfer some of the brandy onto your vessel. Once completed return to the Dantooine station.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

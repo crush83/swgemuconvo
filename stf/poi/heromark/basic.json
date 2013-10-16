@@ -1,33 +1,5 @@
-[
-'31':'r_m_relatestory',
-'30':'m_youareahero2',
-'29':'m_youareahero',
-'28':'m_heroreturned',
-'27':'m_chatter_4',
-'26':'m_chatter_3',
-'25':'m_chatter_2',
-'24':'m_chatter_1',
-'23':'m_herotalk11',
-'22':'r_m_herotalk10',
-'21':'m_herotalk10',
-'20':'r_m_herotalk9',
-'19':'m_herotalk9',
-'18':'r_m_herotalk8',
-'17':'m_herotalk8',
-'16':'r_m_herotalk7',
-'15':'m_herotalk7',
-'14':'r_m_herotalk6',
-'13':'m_herotalk6',
-'12':'m_herotalk5',
-'11':'r_m_empirebad',
-'10':'r_m_empiregood',
-'9':'m_herotalk4',
-'8':'r_m_herotalk3',
-'7':'m_herotalk3',
-'6':'r_m_herotalk2',
-'5':'m_herotalk2',
-'4':'r_m_herotalk1',
-'3':'m_herotalk1',
-'2':'r_m_greet',
-'1':'m_greet',
-]
+{
+	"stfFile":"poi/heromark/basic",
+	"entries": {
+		"r_m_relatestory":"Relate the tales of your adventures.",		"m_youareahero2":"You have done great things in the name of the light.  I am honored to be in your presence.  Take my Symbol of Heroism and let it remind you of your cause.  Do not forget why you fight.  Good luck, young warrior.",		"m_youareahero":"I see the marks you bear.  An act of honor.  An act of courage.  An act of intellect.  An act of altruism.  Can it be?  Have I found the one I have sought for so long?",		"m_heroreturned":"Ah!  The hero returns!  It is good to see you are still well.",		"m_chatter_4":"I feel tired.  Maybe I'll lay down for a bit.",		"m_chatter_3":"Do I know you?  Did I know you?  I often forget things.",		"m_chatter_2":"Where did I put that pot at?",		"m_chatter_1":"Looks like another storm.",		"m_herotalk11":"Go then.  One cannot become a hero by spending all day chatting with a crazed old man...and may the force be with you.",		"r_m_herotalk10":"I will seek to prove my character.",		"m_herotalk10":"I wasn't always an old man.  Many years ago I won many a campaign against the forces of darkness.  I wore the symbol about my neck as a reminder of my cause.  I would pass this thing to the one I believe capable of continuing my work.",		"r_m_herotalk9":"What is the Symbol of Heroism?",		"m_herotalk9":"Return to me when you have proven the measure of your character.  An act of honor.  An act of intellect.  An act of courage.  An act of altruism.  Demonstrate to me these characteristics and I will bestow upon you the Symbol of Heroism.",		"r_m_herotalk8":"I will do these things.",		"m_herotalk8":"Travel the world.  Perform acts that demonstrate your heroism.  Through these actions you will be transformed.  A hero must be honorable, intelligent, courageous, and altruistic.  You must seek to help the world despite the cost.",		"r_m_herotalk7":"How do I prove that I am a hero?",		"m_herotalk7":"A noble intent, but intentions in the face of a challenge are as dust upon a Tatooine windstorm.  One must act and through ones actions one might be proven a hero.",		"r_m_herotalk6":"I wish to become a hero.",		"m_herotalk6":"It is my belief that the galaxy is in dire need of heros.  Those individuals who have demonstrated beyond doubt their dedication to the path of light.  You are brash and young, but perhaps one day you will become a hero and bring light to this darkened place.",		"m_herotalk5":"I have no interest in bandying words with you, child.  Educate yourself...seek out enlightenment...then perhaps we might have a civilized discussion.",		"r_m_empirebad":"You speak truly.  The Empire rules ruthlessly and unjustly.",		"r_m_empiregood":"You speak boldly of what you know little of.  The Empire has brought justice and peace to much of the civilized galaxy.",		"m_herotalk4":"Pirates and criminals travel freely.  The Old Republic has been shattered.  The Jedi have been hunted to all but extinction.  Over all of this hangs the shadow of the Empire.",		"r_m_herotalk3":"Dark times? What do you know of dark times?",		"m_herotalk3":"Such talk.  Mind your manners child.  I philosophize of the state of our worlds.  Of these dark times.",		"r_m_herotalk2":"What do you philosophize about, old man...that is if the winds haven't scoured your mind clean by now.",		"m_herotalk2":"I am able to watch after myself.",		"r_m_herotalk1":"Out here in the wilderness? Alone?",		"m_herotalk1":"Merely an old man.  I keep to myself and tend my books.  I think.  I philosophize.",		"r_m_greet":"I was adventuring and happened across it.  I came to see who lived here.",		"m_greet":"Well met, traveler.  What brings you to my small and lonely abode?"
+}}

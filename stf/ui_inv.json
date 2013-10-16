@@ -1,10 +1,15 @@
-[
-'8':'inventory_full',
-'7':'help_viewer',
-'6':'help_buttoneq',
-'5':'help_details',
-'4':'help_change_view',
-'3':'help_info',
-'2':'help_capacity',
-'1':'help_icons',
-]
+{
+	"stfFile":"ui_inv",
+	"entries": {
+		"inventory_full":"Inventory Overloaded - Cannot Move",		"help_viewer":"When this viewer is visible, you can drag items onto it to equip the items.",		"help_buttoneq":"This button is used to toggle the larger view of your avatar.",		"help_details":"Details View
+
+The details view allows you to see more information at once.",		"help_change_view":"Use this button to toggle the container view between icons and details.",		"help_info":"This icon displays the current container you are viewing.  If you are viewing the contents of your inventory, a picture of your avatar is shown here.
+
+If you are viewing the contents of a nested container, click the button here to change the view to the parent container.",		"help_capacity":"This indicator shows the Current and Maximum capacity of this container.",		"help_icons":"Icon View
+
+This is the icon view of the contents of a container.
+
+If you are viewing your inventory, then the items shown here are the items you are carrying and wearing.  Items you are currently wearing are highlighted.
+
+You can right-click or left-click-and-hold to get a radial menu for any of the items here."
+}}

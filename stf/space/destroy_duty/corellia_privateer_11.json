@@ -1,27 +1,5 @@
-[
-'25':'taunt_5',
-'24':'taunt_4',
-'23':'taunt_3',
-'22':'taunt_2',
-'21':'taunt_1',
-'20':'targets_behind',
-'19':'targets_detected',
-'18':'level_increase',
-'17':'level_boss_dead',
-'16':'level_boss',
-'15':'found_loc',
-'14':'dd_boss_taunt_5',
-'13':'dd_boss_taunt_4',
-'12':'dd_boss_taunt_3',
-'11':'dd_boss_taunt_2',
-'10':'dd_boss_taunt_1',
-'9':'complete',
-'8':'boss_title_5',
-'7':'boss_title_4',
-'6':'boss_title_3',
-'5':'boss_title_2',
-'4':'boss_title_1',
-'3':'boss_detected',
-'2':'duty_update',
-'1':'title',
-]
+{
+	"stfFile":"space/destroy_duty/corellia_privateer_11",
+	"entries": {
+		"taunt_5":"I have crushed greater things than you! In fact, I shot a Womprat back on Tatooine last week!",		"taunt_4":"You're fighting a uphill battle , and the hill just got steeper!",		"taunt_3":"You always have to interfere, well this time you stuck your nose too deep!",		"taunt_2":"I will shred your ship, fool!",		"taunt_1":"You think you can match the skill of Nym's pirates? I think not!",		"targets_behind":"Tactical Computer: < Be aware, vessels trying to target this ship with their weapon systems. Attack originating direction 180 degrees. >",		"targets_detected":"Tactical Computer: < Vessels fitting hunted ship profile on attack vector, weapon systems armed. >",		"level_increase":"Nym's men are sending more reinforcements in responce to our attacks.",		"level_boss_dead":"Amazing! Nym will not forget this day. Stand by for further orders.",		"level_boss":"Superior Command: < The Hidden Daggers has sent %TO to bring you down, proceed with caution. >",		"found_loc":"New coordinates of pirate activity has been uploaded to your nav computer. Go get them!",		"dd_boss_taunt_5":"I've never seen those moves from a  petty pilot before. No matter, prepare to die!",		"dd_boss_taunt_4":"Your flying skills remind me of a one winged Mynock!",		"dd_boss_taunt_3":"The cat becomes the mouse. The tables are turned, scum!",		"dd_boss_taunt_2":"Your just another kill mark on my ship, fool!",		"dd_boss_taunt_1":"Muahahaha!",		"complete":"Fantastic job pilot, we struck a huge blow to Nym today. Return to base for a well earned rest.",		"boss_title_5":"Kyax UnNamed (Nym's Dark Enforcer)",		"boss_title_4":"Atias Burninglight (Nym's Dark Enforcer)",		"boss_title_3":"Morar Deathslayer (Nym's Dark Enforcer)",		"boss_title_2":"Geian Bladewrite (Nym's Dark Enforcer)",		"boss_title_1":"Ponias MorningGlory (Nym's Dark Enforcer)",		"boss_detected":"Tactical Computer: < Vessel with veteran insignias on attack vector, weapon systems armed. >",		"duty_update":"Superior Command: < %TO >",		"title":"Strike a blow to Nym's Pirates."
+}}

@@ -1,14 +1,5 @@
-[
-'12':'title_d',
-'11':'title',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/corellia_imperial_4",
+	"entries": {
+		"title_d":"The rebels have been testing a new space craft in the Corellian sector. The Empire is well aware of the existance of this starfighter and wants to send a message to the rebels. You are to travel to the testing area for the B-Wing prototype and destroy the test ship.",		"title":"Destroy B-Wing Prototype",		"split_quest_alert":"",		"quest_location_t":"Travel to the Corellian Sector",		"quest_location_d":"The B-Wing is being tested in the Corellian sector out past the local security buoys in order to avoid detection. Imperial Intelligence has been aware of this testing grounds since the project launched and has all the information they need from the prototype. Travel to the Nav locaiton supplied to you to reach the trainer grounds.",		"quest_destroy_t":"Destroy the B-Wing Prototype",		"quest_destroy_d":"Once you have reached the testing area show the rebels that the Empire is not afraid of their new bomber. Destroy the ship. Once you are done return to your commanding officer.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

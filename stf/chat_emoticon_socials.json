@@ -1,90 +1,405 @@
-[
-'103':'yawn',
-'102':'tsktsk',
-'101':'stretch',
-'100':'callstop',
-'99':'stomp',
-'98':'snap',
-'97':'sigh',
-'96':'salute',
-'95':'rofl',
-'94':'preen',
-'93':'shrug',
-'92':'pout',
-'91':'peyoo',
-'90':'omg',
-'89':'nose',
-'88':'jk',
-'87':'hiss',
-'86':'hiccup',
-'85':'helpme',
-'84':'hearnoevil',
-'83':'headache',
-'81':'grovel',
-'80':'greet',
-'79':'going',
-'78':'giggle',
-'77':'flail',
-'76':'fistpalm',
-'75':'fidget',
-'74':'shiver',
-'73':'eyeroll',
-'72':'duck',
-'71':'down',
-'70':'disagree',
-'69':'demure',
-'68':'cower',
-'67':'cough',
-'66':'contemplate',
-'65':'closeeyes',
-'64':'clap',
-'63':'calm',
-'62':'cackle',
-'61':'burp',
-'60':'bowhead',
-'59':'bow',
-'58':'boogie',
-'57':'bonk',
-'56':'boggle',
-'55':'blink',
-'54':'blame',
-'53':'belch',
-'52':'beckon',
-'51':'bye',
-'50':'bang',
-'49':'bak',
-'48':'bad',
-'47':'ache',
-'46':'nod',
-'45':'shake',
-'44':'love',
-'43':'shush',
-'42':'nausea',
-'41':'snore',
-'40':'curse',
-'39':'steam',
-'37':'laugh',
-'35':'groan',
-'34':'rose',
-'33':'blush',
-'32':'eyebrow',
-'31':'ponder',
-'29':'eek',
-'28':'drool',
-'27':'snarl',
-'16':'cry',
-'15':'smirk',
-'14':'raspberry',
-'13':'tongue',
-'12':'halo',
-'11':'gape',
-'10':'surprised',
-'9':'kiss',
-'8':'fume',
-'7':'evilgrin',
-'6':'grin',
-'4':'frown',
-'3':'wink',
-'2':'beam',
-'1':'smile',
-]
+{
+	"stfFile":"chat_emoticon_socials",
+	"entries": {
+		"yawn":"yawn
+exhausted
+sleepy
+for bed
+go to bed",		"tsktsk":"tsk
+tsktsk
+nuh
+shame on",		"stretch":"stretch
+exercise
+outdoors
+outside
+lazy
+slacker
+slacking
+lazing",		"callstop":"stop!",		"stomp":"tantrum
+selfish
+frustrating",		"snap":"aha",		"sigh":"sigh
+ahhh
+ahh
+ahhhh
+mmm
+mm
+mmmm",		"salute":"sir!",		"rofl":"rofl
+rotfl",		"preen":"pretty?
+attractive?
+me?
+cute?
+tease",		"shrug":"dunno",		"pout":"*pout*
+phooey
+darn
+durn
+meanie",		"peyoo":"stink
+stinks
+smelly
+peeyoo
+peyoo
+peeyou",		"omg":"omg
+gosh
+golly
+gee
+no way!",		"nose":"smell
+smells
+odor
+odour",		"jk":"jk
+kidding
+joking
+joke
+funny",		"hiss":"boo
+booo
+hiss",		"hiccup":"hic
+*hic*
+drunk",		"helpme":"help!",		"hearnoevil":"lalalalalalala
+lalalalalala
+lalalalala
+lalalala
+lalala
+lala",		"headache":"headache
+migraine",		"grovel":"beg
+begging
+please?",		"greet":"hi
+hiya
+hello
+heya
+hey there
+look, it's
+look it's",		"going":"going!
+win!
+yes!
+yeah!",		"giggle":"hee
+heehee",		"flail":"crazy?
+crazy!
+run!
+hurry!",		"fistpalm":"definitely
+gotta!
+must!
+will!
+got to
+now!",		"fidget":"when?
+soon?
+yet?",		"shiver":"cold
+freezing
+icy
+snowing
+snow
+chilly
+nervous
+worried
+worry",		"eyeroll":"puhlease
+puh-lease
+puhleaze
+puh-leaze
+careless
+thoughtless
+jealous
+envy
+envious
+cocky",		"duck":"duck!",		"down":"right here
+around here",		"disagree":"disagree
+dislike
+don't agree",		"demure":"shy
+like you",		"cower":"scary
+scared
+freaked
+scares
+freaks me",		"cough":"ahem",		"contemplate":"think
+ponder
+contemplate",		"closeeyes":"tired",		"clap":"bravo
+brava
+bravissimo
+bravissima
+excellent
+encore",		"calm":"calm",		"cackle":"muhaha
+muhahahaha
+muhahaha
+muha",		"burp":"yum
+tasty
+yummy
+hungry
+to eat
+to drink",		"bowhead":"sadness
+mourning
+regret",		"bow":"honor
+pleasure
+greetings
+nice to meet
+great to meet
+wonderful to meet
+good to meet",		"boogie":"whoohoo
+woohoo
+whoo
+yay
+yayy
+yayyy
+whooo
+pwned",		"bonk":"doh
+doh!
+absentminded
+absent-minded
+forgetful
+fogetting
+forgot
+spaced it",		"boggle":"confused
+lost
+baffled
+baffling
+confusing
+itch
+wondering
+puzzled
+puzzling",		"blink":"huh",		"blame":"fault
+blame
+if you hadn't",		"belch":"urp
+*burp*
+*burrp*",		"beckon":"cmere
+c'mere
+come here
+come over here",		"bye":"bye
+seeya
+laterz
+cya
+goodbye
+see you
+see ya
+c ya
+good bye
+farewell
+til later",		"bang":"headbanging
+rocking
+rockin",		"bak":"here!",		"bad":"bad
+not good",		"ache":"ow
+oww
+owww
+ouch
+owie
+ouchie
+that hurt",		"nod":"(Y)
+K
+OK
+right
+Y
+yeah
+yep
+yes
+yup
+yeppers
+uh huh",		"shake":"(N)
+no
+nope
+nah
+nay
+n
+nono
+not
+wrong
+don't",		"love":"(L)
+love
+luv
+love you",		"shush":":$
+:-$
+sh
+shh
+shhh
+shhhh
+shush
+hush",		"nausea":":&
+:-&
+(&)",		"snore":"|)
+|-)
+bored
+boring
+dull",		"curse":">:O
+>:o
+stang
+blast
+e chu ta
+sithspawn 
+sithspit
+carbon flush
+meatbag",		"steam":"x(
+X(
+:@
+hate
+mad",		"laugh":":))
+lol
+hah
+ha
+haha",		"groan":":/
+=/
+groan
+dismayed
+dismay
+sorry!",		"rose":"-<@
+@>-
+@};-
+(F)",		"blush":"*^_^*
+*o_o*
+*O_O*
+:")
+oops
+ooops
+oopsie
+whoops
+wups
+embarassed
+embarrassed
+embarased
+embarrased
+ashamed
+shame
+messed up",		"eyebrow":"-_^
+^_-
+o_^
+^_o
+O_^
+^_O
+:\
+=\
+oh?
+really?
+sure?
+careful
+sarcasm
+sarcastic
+irony
+ironic",		"ponder":".oO
+hm
+hmm
+hmmm
+um
+umm
+ummm
+hurm
+erm
+ambivalent
+unsure",		"eek":"8o
+eek
+ack",		"drool":":o~
+:O~",		"snarl":":[
+=[
+angry
+mad",		"cry":":((
+:'(
+:,(
+='(
+=,(
+aww
+aw
+awwww
+whaa
+waah
+waa
+waaah
+want to cry",		"smirk":":|
+=|",		"raspberry":":P~
+:p~
+:b~
+=P~
+=p~
+=b~
+ack
+pbbt
+pbt
+pbbbt
+pft
+pfft
+pffft",		"tongue":":P
+:p
+:b
+=P
+=p
+=b
+yuck
+yuk
+ugh
+disgusting
+gross
+disgusted",		"halo":"o:)
+O:)
+o=)
+O=)
+(a)
+(A)
+innocent",		"gape":":O
+=O
+way!
+you're kidding
+yer kidding",		"surprised":":o
+=o
+wow
+amazing
+amazed
+shocked
+aghast
+floored
+surprised",		"kiss":":x
+:X
+:*
+kiss you",		"fume":">:(
+>=(
+grr
+gr
+grrr
+grrrr",		"evilgrin":">:)
+>=)
+(6)
+heheh
+hehe",		"grin":":>
+=>
+heh
+hehe",		"frown":":(
+=(
+ugh
+yuck
+ugly
+bad
+died
+dead
+corpse
+incap
+incapped
+incapacitated
+cr
+hate
+sad
+depressed
+annoyed
+annoying
+disappointing
+disppointed
+hopeless
+offended
+offends
+offensive
+rude
+sexist
+misogynistic
+misogynist
+hates
+hated",		"wink":";)
+hee
+kiss?",		"beam":":D
+=D
+awesome
+cool
+ecstatic
+thrilled",		"smile":":)
+=)
+happy
+glad
+good
+great
+thank
+thanks
+appreciate
+amusing
+amused
+approve
+approved
+cheerful
+forgive
+nice"
+}}

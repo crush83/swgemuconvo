@@ -1,120 +1,27 @@
-[
-'118':'m1_sympathizer_invalid',
-'117':'m1_sympathizer_complete',
-'116':'unused5',
-'115':'unused4',
-'114':'unused3',
-'113':'email_body',
-'112':'email_subject',
-'111':'disk_encoded_text',
-'110':'disk_encoded_title',
-'109':'disk_decoded_text',
-'108':'disk_decoded_title',
-'107':'m1_sympathizer_greeting',
-'106':'m2_lydasaved_done_response',
-'105':'m2_lydasaved_done',
-'104':'m2_lydasaved_info2a_response',
-'103':'m2_lydasaved_info2a',
-'102':'m2_lydasaved_info2_response',
-'101':'m2_lydasaved_info2',
-'100':'m2_lydasaved_info1a_response',
-'99':'m2_lydasaved_info1a',
-'98':'m2_lydasaved_info1_response',
-'97':'m2_lydasaved_info1',
-'96':'m2_lydasaved',
-'95':'commander_imperial_response',
-'94':'m5_finish',
-'93':'m5_active_restart_response',
-'92':'m5_active_restart',
-'91':'m5_active_abort_response',
-'90':'m5_active_abort',
-'89':'m5_active_working_response',
-'88':'m5_active_working',
-'87':'m5_active',
-'86':'m5_refused_no_response',
-'85':'m5_refused_no',
-'84':'m5_refused_info1_response',
-'83':'m5_refused_info1',
-'82':'m5_refused_yes_response',
-'81':'m5_refused_yes',
-'80':'m5_refused',
-'79':'m5_begin_no_response',
-'78':'m5_begin_no',
-'77':'m5_begin_info1_response',
-'76':'m5_begin_info1',
-'75':'m5_begin_yes_response',
-'74':'m5_begin_yes',
-'73':'m5_begin_undeclared',
-'72':'m5_begin',
-'71':'m4_finish_incomplete',
-'70':'m4_finish',
-'69':'m3_finish',
-'68':'m3_active_restart_response',
-'67':'m3_active_restart',
-'66':'m3_active_abort_response',
-'65':'m3_active_abort',
-'64':'m3_active_working_response',
-'63':'m3_active_working',
-'62':'m3_active',
-'61':'m3_begin_no_response',
-'60':'m3_begin_no',
-'59':'m3_begin_yes_response',
-'58':'m3_begin_yes',
-'57':'m3_begin',
-'56':'m2_finish_no_response',
-'55':'m2_finish_no',
-'54':'m2_finish_yes_response',
-'53':'m2_finish_yes',
-'52':'m2_finish',
-'51':'m2_active_restart_response',
-'50':'m2_active_restart',
-'49':'m2_active_abort_response',
-'48':'m2_active_abort',
-'47':'m2_active_working_response',
-'46':'m2_active_working',
-'45':'m2_active',
-'44':'m2_refused_no_response',
-'43':'m2_refused_no',
-'42':'m2_refused_info2_response',
-'41':'m2_refused_info2',
-'40':'m2_refused_info1_response',
-'39':'m2_refused_info1',
-'38':'m2_refused_yes_response',
-'37':'m2_refused_yes',
-'36':'m2_refused',
-'35':'m2_begin_no_response',
-'34':'m2_begin_no',
-'33':'m2_begin_info2_response',
-'32':'m2_begin_info2',
-'31':'m2_begin_info1_response',
-'30':'m2_begin_info1',
-'29':'m2_begin_yes_response',
-'28':'m2_begin_yes',
-'27':'m2_begin_encoded',
-'26':'m1_refused_no_response',
-'25':'m1_refused_no',
-'24':'m1_refused_yes_response',
-'23':'m1_refused_yes',
-'22':'m1_refused_info1_response',
-'21':'m1_refused_info1',
-'20':'m1_refused',
-'19':'m2_begin',
-'18':'rebel_friend_response',
-'17':'m1_finish_decoded',
-'16':'m1_finish_encoded',
-'15':'m1_active_restart_response',
-'14':'m1_active_restart',
-'13':'m1_active_abort_response',
-'12':'m1_active_abort',
-'11':'m1_active_working_response',
-'10':'m1_active_working',
-'9':'m1_active',
-'8':'m1_begin_no_response',
-'7':'m1_begin_no',
-'6':'m1_begin_yes_response',
-'5':'m1_begin_yes',
-'4':'m1_begin_info1_response',
-'3':'m1_begin_info1',
-'2':'m1_begin',
-'1':'coordinator_imperial_response',
-]
+{
+	"stfFile":"theme_park/alderaan/act2/rebel_missions",
+	"entries": {
+		"m1_sympathizer_invalid":"I'm sorry, I can't chat right now.  I'm waiting for a friend to arrive.",		"m1_sympathizer_complete":"What are you waiting for.  You need to get that disk to the Alliance.",		"unused5":"",		"unused4":"",		"unused3":"",		"email_body":"The Imperial Security Bureau has released the following public alert-
+
+Be on the lookout for a Rebel operative named Lyda Skims (Codename: Skimmer).
+
+This woman is responsible for stealing documents relating to the DEAD EYE project. These documents are believed to be in the hands of Rebel forces. 
+
+We have received intelligence that indicates the Rebellion has been searching for Dr. Vacca due to his involvement with DEAD EYE. We assure you that Vacca remains safe from harm.
+
+To take an active role in assisting the Empire with this most important case, please seek out an Imperial Coordinator for further instructions. Coordinators have been dispatched to Naboo, Tatooine, and Rori for easy access.
+
+It has been reported that Rebel Coordinators on Corellia, Tatooine and Talus also seek Lyda.
+
+[For more information on the Cries of Alderaan Story, please visit http://www.starwarsgalaxies.com]
+",		"email_subject":"Imperial HoloVision News Alert",		"disk_encoded_text":"--'''''''' '''' '''': ' ''''''''' ''' ''''' '''' '' ''''''' '''''''''' ''''''. '''' ''' ''' '''' '''''' ' ''' ''''''''' ''' ' ''''' ''''' ''' '''''''''''' '' '''' '''''''. ' ''''' ''''' ' ''' ''''' '''''''. '''' '''' ' '''''' '' '''' '''''' ''' '''''''. '''' ''''' '''' '' '''' '''''''''''''! '' '''', ''' ' '''''' ''' ''''''''' '''' '''' '''''' '''' '''' '''''''''. 
+
+'''' '' '''' '''' ''''' ''''' ''' '''''''. '''' ''' '' ' '''''''' '''' ''''''''' '' '' ''''''''''' ''''' ''. '''''. '' ''''''''' '''''''', '''''''''' '''' ''' '''''''''''' ''' '''''''' ''''' ''''' '' '''''' '''''' ''' '' ''''' ''''' ''' '''''''''. ''''''' '''' ''', ''' '''''' ''''' '' '''' '''' ''' '''''''' ''''' '''' ' ''''' '''''''. ' ''' ''''''' '''' '' '' '''''''' '' ' '''''' '''''''. 
+
+'' ''''''' '''' ' ''' '' ''''''''''' '' '''''''' ''' ''''''' '' '''''' '' '''' '''' '''''' '''''' ' ''''. '' '''' ' '''' ''''''' '''''. ''''' '''' '''' '' '''' ''' ''' '''''' ''' ''' ''''''' ''' ''''''''''' '' '''''''' ''''' '''''' '''''''' '' ''' ''''. ''' '''' '' ''' '''' ''' '' ''' '''' ''' '' '''' '' ''' '' ''' '''''''''' ''''' '''' '' ''' '''' '''' '''' '' ''''. '''' ''' ' '''' '''. '''''''.
+",		"disk_encoded_title":"Dead Eye Disk [encoded]",		"disk_decoded_text":"--ALLIANCE EYES ONLY: I apologize for using such an obscure encryption scheme. This was the only crypto I had available and I can't allow the interception of this message. I don't think I can avoid capture. It's only a matter of time before I'm spotted. I've never seen so many stormtroopers! In fact, I'm a little bit flattered that I've caused this much commotion. 
+
+This is what I've found about the project. Dead Eye is a powerful drug developed by an Alderaanian named Dr. Vacca. By improving eyesight, increasing hand eye coordination and reducing scope drift it grants deadly aim to those under its influence. Through Dead Eye, the Empire hopes to turn even the lowliest grunt into a super soldier. A new recruit will be as accurate as a combat veteran. 
+
+It doesn't take a lot of imagination to envision the results of facing an army that rarely misses a shot. We face a very serious peril. Vacca must hold no love for the Empire and I'm certain the destruction of Alderaan still weighs bitterly on his mind. I'm sure we can turn him to our side and we must or all of the sacrifices we've made so far will have been in vain. Tell mom I love her. SKIMMER.",		"disk_decoded_title":"Dead Eye Disk [decoded]",		"m1_sympathizer_greeting":"You're from the Alliance? Oh good. Lyda... I mean, Skimmer, told me that someone from the Alliance might try to contact me. She gave me this disk in case something happened to her but it's encoded. She said the Alliance would be able to crack it.",		"m2_lydasaved_done_response":"Good. Report back to the Rebel Coordinator who sent you here that I'm ready to come back in. You will be told what to do next.",		"m2_lydasaved_done":"I have to go and tell the Alliance you're all right.",		"m2_lydasaved_info2a_response":"Not a chance. He's a good man who joined the Empire before he realized what kind of people they are. If he turned me in, it was only because he had no choice. I'm sure of it. I even think he might be willing to help the rebellion once his tour's up.",		"m2_lydasaved_info2a":"Did this officer know you're a Rebel?",		"m2_lydasaved_info2_response":"Well, I had become close friends with one of the Imperial officers. When they discovered his security cylinders were used to access the Dead Eye plans, he knew I was the only one who could have taken them. I'm pretty sure he had to turn me in or they would think he was a spy.",		"m2_lydasaved_info2":"How did your cover get blown?",		"m2_lydasaved_info1a_response":"It was all about Dead Eye. A report on the project and Dr. Vacca's past. Not enough to duplicate the process, just how it works and some details like the fact that it uses some rare plant that used to grow on Alderaan.",		"m2_lydasaved_info1a":"That file was about Dead Eye?",		"m2_lydasaved_info1_response":"I'd been assigned some safe, boring undercover work. Just watch and report on troop movements at an Imperial signals facility. One night this file got routed to my station. It looked important, so I stole Wes's...uh...my supervisor's security cylinder to decode it and make a copy. It was a little outside my mission profile, but it seemed important.",		"m2_lydasaved_info1":"What happened on your mission?",		"m2_lydasaved":"Thanks for the assist. I thought I was bantha fodder for sure that time. The Empire must have a reward out for me. If you're here you got my message to the Alliance. Thanks. I owe you two, I guess.",		"commander_imperial_response":"You've got a lot of nerve trying to talk to me. You think we don't know how much you've done for the Empire? You better leave unless you like the thought of spending your golden years floating in bacta.",		"m5_finish":"I'm glad you made it back here. I wanted to thank you personally for your hard work on this. If Dr. Vacca can be persuaded to join the Rebellion, it will make a huge impact on the war. Good job.",		"m5_active_restart_response":"I've uploaded the most recent intel we have on the relay facility. You should be able to find it now.",		"m5_active_restart":"I need to get my mission profile updated.",		"m5_active_abort_response":"That's too bad. Come back when you're able to help out.",		"m5_active_abort":"I'm not able to do this mission now.",		"m5_active_working_response":"Do what you have to. This one is important to the Princess.",		"m5_active_working":"Not yet. I'm working on it.",		"m5_active":"Have you sent the message yet?",		"m5_refused_no_response":"If you change your mind come see me, but time is running out.",		"m5_refused_no":"I don't think I'm ready yet.",		"m5_refused_info1_response":"Fine, but headstrong as ever. She is already requesting more assignments. She should be careful what she wishes for. This isn't her first time jumping to light speed without checking her charts.",		"m5_refused_info1":"How is Lyda doing?",		"m5_refused_yes_response":"Excellent. The Princess wants us to deliver this coded message to Dr. Vacca to convince him to join the Alliance. To do so, you'll need to take over an Imperial relay station and use this interface override device to send the message. Be warned, when you attack the station's guards, you will be a target for any other Imperial in the galaxy. Be sure you want to do this. May the Force Be With You.",		"m5_refused_yes":"I want to finish what I started.",		"m5_refused":"You're still here? Look, I don't have a lot of time for you unless you have decided to help us with this mission. I know you've done a lot for us already. But I need to know, are you onboard or not?",		"m5_begin_no_response":"If you change your mind come see me, but time is running out.",		"m5_begin_no":"I don't think I'm ready yet.",		"m5_begin_info1_response":"Fine, but headstrong as ever. She is already requesting more assignments. She should be careful what she wishes for. This isn't her first time jumping to light speed without checking her charts.",		"m5_begin_info1":"How is Lyda doing?",		"m5_begin_yes_response":"Excellent. The Princess wants us to deliver this coded message to Dr. Vacca to convince him to join the Alliance. To do so, you'll need to take over an Imperial relay station and use this interface override device to send the message. Be warned, when you attack the station's guards, you will be a target for any other Imperial in the galaxy. Be sure you want to do this. May the Force Be With You.",		"m5_begin_yes":"I want to finish what I started.",		"m5_begin_undeclared":"The information you delivered is significant. Unfortunately, we can't trust the next part of the operation to anyone who hasn't officially joined the Alliance. Securing Dr. Vacca's cooperation is too important to give to just anyone.",		"m5_begin":"Oh yes, you're the one who found Lyda. We're all glad she's safe. It's only right that you take on the last part of this operation. Are you up for it?",		"m4_finish_incomplete":"I'm sorry I don't have time to talk to you now. Why don't you go find one of our Rebel Coordinators? They may have something for you to do.",		"m4_finish":"You've got info on Lyda and Dead Eye? We've been waiting for you! We'll process the data and comm the Princess to see how to proceed! Talk to me in a little bit. We might have one final mission for you.",		"m3_finish":"I heard from the Commander that you were able to find him. I hope the mission went well. We could use some good news around here.",		"m3_active_restart_response":"Data pad troubles? That happens I suppose. I'll give you updated coordinates, but don't lose it again.",		"m3_active_restart":"I need the location of the Commander again",		"m3_active_abort_response":"That's too bad. Come back when you are able to help the cause.",		"m3_active_abort":"I'm not able to do this mission now.",		"m3_active_working_response":"Keep up the good work. We're counting on you.",		"m3_active_working":"Not yet. I'm working on it.",		"m3_active":"Have you finished the mission yet?",		"m3_begin_no_response":"I'm sorry to hear that. If you change your mind, come back. I'll have something for you.",		"m3_begin_no":"I can't help you right now.",		"m3_begin_yes_response":"Good. I'll give you the coordinates of the Commander's current location. Bring him the disk and he'll take over from there.",		"m3_begin_yes":"I'm up for anything.",		"m3_begin":"If you're available we still need someone to bring this information about Lyda and Dead Eye to our commander. He may have another mission for you if you're willing to do some traveling.",		"m2_finish_no_response":"I'm sorry to hear that. If you change your mind, come back. I'll have something for you.",		"m2_finish_no":"I can't help you right now.",		"m2_finish_yes_response":"Good. I'll give you the coordinates of the Commander's current location. Bring him the disk and he'll take over from there.",		"m2_finish_yes":"I'm up for anything",		"m2_finish":"Lyda's alive? Thank the stars. We'll send out a team to get her right away. You do good work. If you're up for it we need someone to deliver this disk and report to one of our Rebel Commanders about Lyda and project Dead Eye.",		"m2_active_restart_response":"Things change out in the field. I'll upload our latest information to your datapad. Done. You've got our latest information. Good luck.",		"m2_active_restart":"I think I need updated intel.",		"m2_active_abort_response":"I understand. Come find me if you change your mind. We need a lot of help on this one.",		"m2_active_abort":"I'm not going to be able to finish the mission.",		"m2_active_working_response":"The imperials are after her, so don't waste any time.",		"m2_active_working":"Not yet. I'm working on it.",		"m2_active":"Have you found skimmer yet?",		"m2_refused_no_response":"I understand. If you change your mind, come find me.",		"m2_refused_no":"I don't have the time to do that now.",		"m2_refused_info2_response":"Don't know. Not much data on it yet. All I know is that I don't want the Imperials to be any more accurate than they already are. I'd like to get Dr. Vacca on our side if we could.",		"m2_refused_info2":"What do you think of this Dead Eye project?",		"m2_refused_info1_response":"Not much. She's related to two Alliance pilots who died flying for us. Her brother was on Alderaan when it was destroyed by the Empire. Later her father was killed during the assault on the Death Star. I just hope he got a chance to know it was destroyed before his B-wing was blown up.",		"m2_refused_info1":"What do you know about Skimmer?",		"m2_refused_yes_response":"Excellent. Make sure she's still there and then report back to me.",		"m2_refused_yes":"I'll go find her.",		"m2_refused":"I hope you've changed your mind about helping us find Skimmer. She's still out there somewhere and we need to find her before the Imperials do.  Are you willing to help?",		"m2_begin_no_response":"I understand. If you change your mind, come find me.",		"m2_begin_no":"I don't have the time to do that now.",		"m2_begin_info2_response":"Don't know. Not much data on it yet. All I know is that I don't want the Imperials to be any more accurate than they already are. I'd like to get Dr. Vacca on our side if we could.",		"m2_begin_info2":"What do you think of this Dead Eye project?",		"m2_begin_info1_response":"Not much. She's related to two Alliance pilots who died flying for us. Her brother was on Alderaan when it was destroyed by the Empire. Later her father was killed during the assault on the Death Star. I just hope he got a chance to know it was destroyed before his Y-wing was blown up.",		"m2_begin_info1":"What do you know about Skimmer?",		"m2_begin_yes_response":"Excellent. Make sure she's still there and then report back to me.",		"m2_begin_yes":"I'll go find her.",		"m2_begin_encoded":"I'm very busy coordinating missions. Unless you have a decoded Dead Eye data disk for me, there's not much to discuss. Come back when you've decoded it.",		"m1_refused_no_response":"I'm sorry to hear that. Skimmer's stumbled onto something big. If you change your mind, let me know.",		"m1_refused_no":"I'm not ready to help yet.",		"m1_refused_yes_response":"Great! We think Skimmer may have recently contacted one of her close friends. Go to these coordinates and see of Skimmer has been in touch and report back here with any information you uncover.",		"m1_refused_yes":"I'd like to help.",		"m1_refused_info1_response":"We're trying to locate one of our operatives code named Skimmer and we have a lot of tips to follow up. It has to do with this Dead Eye project we've been hearing about.",		"m1_refused_info1":"What's going on?",		"m1_refused":"I hope you've changed your mind and can help us out. We need every loyal operative we can find right now.",		"m2_begin":"Excellent. This message is from Skimmer. She's hiding outside the city and says she has information on Dead Eye. Can you head to these coordinates and make sure she's still there? We don't want to send a team to a place she left twelve cycles ago.",		"rebel_friend_response":"You're from the Alliance? Oh good. Lyda...I mean, Skimmer, told me that someone from the Alliance might try to contact me. She gave me this disk in case something happened to her but it's encoded. She said the Alliance would be able to crack it.",		"m1_finish_decoded":"Good work. We'll analyze this information and decide on a plan. Come back in a little while and we'll have more information for you.",		"m1_finish_encoded":"Good Work! Wait a pulse, this disk has been locked with an old Imperial code! We have schematics for this model of coder, but the parts are obsolete. I bet only local gangs or scavengers would have some of this stuff. I'll give you the schematics, but you'll have to locate the parts and put a decoder together before we can read this intel. Report back to me when you have the disk decoded.",		"m1_active_restart_response":"Very well. I've uploaded our latest intel to your datapad. You should be able to continue your mission now. May the Force be with you.",		"m1_active_restart":"I need my mission profile updated.",		"m1_active_abort_response":"I understand. Come find me if you change your mind. We need a lot of help on this one.",		"m1_active_abort":"I'm not going to be able to finish the mission.",		"m1_active_working_response":"Time's of the essence here, so do your best.",		"m1_active_working":"I'm still looking for her.",		"m1_active":"Have you talked to Skimmer's friend yet?",		"m1_begin_no_response":"I'm sorry to hear that. Skimmer's stumbled onto something big. If you change your mind, let me know.",		"m1_begin_no":"I'm not ready to help yet.",		"m1_begin_yes_response":"Great! We think Skimmer may have recently contacted one of her close friends. Go to these coordinates and see of Skimmer has been in touch and report back here with any information you uncover.",		"m1_begin_yes":"I'd like to help.",		"m1_begin_info1_response":"We're trying to locate one of our operatives code named Skimmer and we have a lot of tips to follow up. It has to do with this Dead Eye project we've been hearing about.",		"m1_begin_info1":"What's going on?",		"m1_begin":"I hope you're here to help. We're stretched thin looking for Skimmer.",		"coordinator_imperial_response":"You seem to be more interested in helping the Empire. Why don't you come back when you've come to your senses."
+}}

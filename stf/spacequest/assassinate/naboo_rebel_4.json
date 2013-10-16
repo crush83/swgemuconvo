@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/naboo_rebel_4",
+	"entries": {
+		"title_d":"This Veteran TIE commander has been a problem for too long. Your orders are to eliminate this threat to the Alliance. When you complete this mission, return to V3-FX in Moenia and V3-FX will train you in a new Rebel Alliance Pilot Skill.",		"title":"Naboo system: Hunt down the Imperial Veteran.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < It looks like the TIE Veteran had a malfunction and you will get another shot at him pilot. Don't mess up this time! >",		"quest_update":"Rebel Command: < %TO >",		"quest_target_t":"TIE Veteran commander.",		"quest_target_d":"Your target is in sight. Intercept and destroy it!",		"quest_location_t":"Naboo system.",		"quest_location_d":"The Naboo system is crawling with the Imperial scum, be careful out there.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"You let him get away pilot! Return to base immediately.",		"escort_wiped_out":"Tactical Computer: < Scans show target vessel escort terminated. No more escort vessels remain. >",		"escort_remaining":"Tactical Computer: < Scans show target vessel escort terminated. %DI escort vessels remain. >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Excellent work pilot! The Empire won't underestimate the Alliance again. Return to base pilot.",		"arrival_phase_2":"Found him. Proceed to these coordinates and terminate him. We will update your coordinates as he's moving.",		"arrival_phase_1":"Stand by while we track down the TIE Veteran.",		"Quest Log Data":"Text"
+}}

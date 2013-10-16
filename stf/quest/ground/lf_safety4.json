@@ -1,9 +1,5 @@
-[
-'7':'task01_journal_entry_title',
-'6':'task01_journal_entry_description',
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/lf_safety4",
+	"entries": {
+		"task01_journal_entry_title":"Return to Gerak Vertimis",		"task01_journal_entry_description":"Now that you have the datapad, return to Gerak Vertimis so he can decipher its contents.",		"task00_journal_entry_title":"Find Main Brigand Camp",		"task00_journal_entry_description":"One of these brigands must have information about their main camp.  Kill them until you find a datapad with the waypoint.",		"journal_entry_title":"Safety Measures Part 4",		"journal_entry_description":"Kill brigands until you find a datapad.  Return it to Gerak in Bestine.",		"category":"Ground Quest"
+}}

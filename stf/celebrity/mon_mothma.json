@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/mon_mothma",
+	"entries": {
+		"npc_11":"Then I hope we are allies.  ",		"player_10":"I know you and what you do.",		"npc_10":"Then you're safe for now.  Try not to ask too many questions in the future.",		"player_9":"I just know your name.",		"npc_5":"Some people know my name.  Some know my occupation.  Hopefully you aren't a threat to me, I'd hate for us to be enemies.",		"player_6":"Mon Mothma?  I have heard of you!",		"npc_9":"Sometimes.  But there are so many things happening so quickly right now that it's becoming easier and harder at the same time.  I know, that doesn't make much snese does it?",		"player_8":"Do you find it difficult to stay hidden?",		"npc_8":"Many people would die if I simply gave that information to everyone who asked.  I won't tell you just yet, but maybe if I get to know you better.",		"player_7":"What is your job?",		"npc_4":"I'm not surprised.  I try to stay out of the public eye for the most part.  Comes with the job.",		"player_5":"I don't think so.",		"npc_3":"My name is Mon Mothma.  I don't think you would have heard of me.",		"npc_7":"Thank you again.  I'm going to blush.",		"player_4":"You're sweet.",		"npc_6":"Good.  Now I must get back to work.",		"player_3":"Ok, will do.",		"npc_2":"Anytime.  Just let me know if you need anything.",		"player_2":"Who are you?",		"player_1":"That's nice, but no thanks.  I'm fine.",		"npc_1":"Hello.  And welcome.  Is there something I can do for you?"
+}}

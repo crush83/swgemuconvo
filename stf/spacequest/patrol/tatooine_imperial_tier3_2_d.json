@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/tatooine_imperial_tier3_2_d",
+	"entries": {
+		"title_d":"Command wants you to patrol the area looking for Rebel activity while they inspect the data you recovered.",		"title":"Endor System: Patrol the Endor System",		"split_quest_alert_fail":"",		"split_quest_alert":"Calling all Imperial pilots. 3rd TIE Wing has encountered heavy Rebel resistance. All available pilots are to proceed immediately to the following location.",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Follow the Patrol Route",		"quest_patrol_d":"When you reach a navigation waypoint you will receive a new one to the next location. Follow the patrol waypoints until you come to the end of your patrol.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"Remain in the Endor system and follow the patrol navigation waypoints. As you reach one navigation waypoint, you will get a new waypoint to the next location on the patrol route.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_privateer_tier1_4a",
+	"entries": {
+		"title_d":"Destroy a Black Sun ace as they travel through the Tatooine System. When you complete this mission, return to Dravis in back room of the Mos Eisley cantina and Dravis will train you in a new Pilot skill.",		"title":"Tatooine System: Eliminate the Black Sun Ace",		"split_quest_alert_fail":"\#pcontrast3 Dravis: < \#pcontrast1 You appear to have hit a little snag out there.  Get patched up and take down that Ace. \#pcontrast3 >",		"split_quest_alert":"\#pcontrast3 Dravis: < \#pcontrast1 You appear to have hit a little snag out there.  Get patched up and take down that Ace. \#pcontrast3 >",		"quest_update":"\#pcontrast3 < %TO >",		"quest_target_t":"Black Sun Ace",		"quest_target_d":"A Black Sun ace terrorizing the Smuggler Alliance trade lanes",		"quest_location_t":"Tatooine System",		"quest_location_d":"Near a trade route in the Tatooine System",		"quest_escort_t":"Black Sun Fighter",		"quest_escort_d":"The Ace's Escort, should be easy targets. Must be destroyed to complete the mission",		"failed_escape":"\#pcontrast3 Smuggler Alliance: < \#pcontrast1 This Ace will return for some more kills on our freighters.  Most unacceptable. \#pcontrast3 >",		"escort_wiped_out":"\#pcontrast3 Tactical Computer: < \#pcontrast1 All escorting craft have been destroyed. \#pcontrast3 >",		"escort_remaining":"\#pcontrast3 Tactical Computer: < \#pcontrast1 An escorting craft has been destroyed, %DI remain. \#pcontrast3 >",		"destroy_escort":"\#pcontrast3 Smuggler Alliance: < \#pcontrast1 Good job on taking out that Ace, now finish off her escort. \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"\#pcontrast3 Smuggler Alliance: < \#pcontrast1 Feels good to have a little less competition. Bring it home now Captain. \#pcontrast3 >",		"arrival_phase_2":"\#pcontrast3 Smuggler Alliance: < \#pcontrast1 Ok, the Black Sun group has arrived.  Leave no survivors. \#pcontrast3 >",		"arrival_phase_1":"\#pcontrast3 Smuggler Alliance: < \#pcontrast1 The Ace will be entering your area shortly, be ready. \#pcontrast3 >",		"Quest Log Data":"Text"
+}}

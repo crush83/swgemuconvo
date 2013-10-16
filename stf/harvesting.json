@@ -1,9 +1,5 @@
-[
-'7':'busy',
-'6':'in_water',
-'5':'inside',
-'4':'swimming',
-'3':'found_crustaceans',
-'2':'found_mollusks',
-'1':'found_nothing',
-]
+{
+	"stfFile":"harvesting",
+	"entries": {
+		"busy":"You are already searching the area for shellfish.",		"in_water":"You must be standing in water to use this device.",		"inside":"You cannot use this device while indoors.",		"swimming":"You cannot use this device while swimming.",		"found_crustaceans":"You managed to locate some crustaceans.",		"found_mollusks":"You managed to locate some mollusks.",		"found_nothing":"You were unable to locate any resources."
+}}

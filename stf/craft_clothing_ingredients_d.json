@@ -1,49 +1,21 @@
-[
-'47':'armor_segment_kashyyykian_hunting_advanced',
-'46':'armor_segment_kashyyykian_hunting',
-'45':'armor_segment_kashyyykian_black_mtn_advanced',
-'44':'armor_segment_kashyyykian_black_mtn',
-'43':'armor_segment_kashyyykian_ceremonial_advanced',
-'42':'armor_segment_kashyyykian_ceremonial',
-'41':'padding_segment',
-'40':'clothing_treatment_crystalline',
-'39':'leather_heavy_duty',
-'38':'clasp_heavy_duty',
-'37':'schematic_belt_s05_quest',
-'36':'schematic_dress_s08_quest',
-'35':'schematic_apron_s01_quest',
-'34':'schematic_bandolier_s02_quest',
-'33':'schematic_backpack_s03_quest',
-'32':'schematic_backpack_s06_quest',
-'31':'schematic_bandolier_s04_quest',
-'30':'armor_segment_padded_acklay',
-'29':'armor_segement_composite_krayt',
-'28':'armor_segement_chitin_kliknick',
-'27':'armor_segement_padded_rancor',
-'26':'armor_segment_bone_donkuwah',
-'25':'armor_segment_bone',
-'24':'armor_segment_chitin',
-'23':'armor_segment_chitin_advanced',
-'22':'armor_segment_bone_advanced',
-'21':'armor_segment_padded_advanced',
-'20':'armor_segment_padded',
-'19':'armor_segment_composite_advanced',
-'18':'armor_segment_composite',
-'17':'reinforced_fiber_panels',
-'16':'metal_fasteners',
-'15':'fiberplast_panel',
-'14':'trim',
-'13':'synthetic_cloth',
-'12':'structure_panel',
-'11':'structural_strapping',
-'10':'shoe_sole',
-'9':'refined_textile',
-'8':'refined_hide',
-'7':'lining',
-'6':'jewelry_setting',
-'5':'component_base',
-'4':'color_panel',
-'3':'cargo_pocket',
-'2':'body',
-'1':'binding_and_reinforcement',
-]
+{
+	"stfFile":"craft_clothing_ingredients_d",
+	"entries": {
+		"armor_segment_kashyyykian_hunting_advanced":"An advanced segment of Kashyyykian Hunting armor.",		"armor_segment_kashyyykian_hunting":"A segment of Kashyyykian Hunting armor.",		"armor_segment_kashyyykian_black_mtn_advanced":"An advanced segment of Kashyyykian Black Mountain armor.",		"armor_segment_kashyyykian_black_mtn":"A segment of Kashyyykian Black Mountain armor.",		"armor_segment_kashyyykian_ceremonial_advanced":"An advanced segment of Kashyyykian Ceremonial armor.",		"armor_segment_kashyyykian_ceremonial":"A segment of Kashyyykian Ceremonial armor.",		"padding_segment":"A square of padded fabric. It appears as if it might be used in the construction of a piece of armor.",		"clothing_treatment_crystalline":"This nebulizer is used to deliver a liquid concentration containing micro-crystals during the tailoring of clothing. The treatment helps give the garment a lustrous shine, as well as prevent wear and tear on outfits that are meant for active use.",		"leather_heavy_duty":"A large portion of thick leather. This could probably be used in the tailoring of clothing or accessories.",		"clasp_heavy_duty":"A strong metal clasp, primarily used in the tailoring of clothing and accessories.",		"schematic_belt_s05_quest":"This document contains the information necessary to craft a Demolitionist's Belt.
+
+You must be at least a Novice Tailor to understand the intricate details in this document.",		"schematic_dress_s08_quest":"This document contains the information necessary to craft an Exquisite Dancer's Leotard.
+
+You must be a Master Tailor to understand the intricate details in this document.",		"schematic_apron_s01_quest":"This document contains the information necessary to craft a Crafter's Apron.
+
+You must be a Master Tailor to understand the intricate details in this document.",		"schematic_bandolier_s02_quest":"This document contains the information necessary to craft a Droidsmith's Tool Set.
+
+You must be at least a Novice Tailor to understand the intricate details in this document.",		"schematic_backpack_s03_quest":"This document contains the information necessary to craft a Lightweight Military Pack.
+
+You must be at least a Novice Tailor to understand the intricate details in this document.",		"schematic_backpack_s06_quest":"This document contains the information necessary to craft a Spec-Ops Field Agent Pack.
+
+You must be at least a Novice Tailor to understand the intricate details in this document.",		"schematic_bandolier_s04_quest":"This document contains the information necessary to craft a Weaponsmith's Tool Set.
+
+You must be at least a Novice Tailor to understand the intricate details in this document.",		"armor_segment_padded_acklay":"This Acklay hide could make an effective padded armor segment.",		"armor_segement_composite_krayt":"Some remains from a Krayt dragon that are suitable for use as a composite armor segment.",		"armor_segement_chitin_kliknick":"Some remains from a Kliknik that are suitable for use as a chitin armor segment.",		"armor_segement_padded_rancor":"Some remains from a Rancor that are suitable for use as a padded armor segment.",		"armor_segment_bone_donkuwah":"Some remains from a Donukwah which are suitable for use as a bone armor segment.",		"armor_segment_bone":"A segment of bone armor.",		"armor_segment_chitin":"A segment of chitin armor.",		"armor_segment_chitin_advanced":"An advanced segment of chitin armor.",		"armor_segment_bone_advanced":"An advanced segment of bone armor.",		"armor_segment_padded_advanced":"An advanced segment of padded armor.",		"armor_segment_padded":"A segment of padded armor.",		"armor_segment_composite_advanced":"An advanced segment of composite armor.",		"armor_segment_composite":"A segment of composite armor.",		"reinforced_fiber_panels":"A metal woven reinforced cloth panel used in making highly wear resistant clothing.",		"metal_fasteners":"Small metal fasteners that can be used as buttons or snaps on clothing.",		"fiberplast_panel":"A woven panel of cloth made from fiberplast.  Used extensively in the tailoring of clothing.",		"trim":"Some trim.  This is used in tailoring.",		"synthetic_cloth":"This is a swath of synthetic cloth.",		"structure_panel":"A structure panel.",		"structural_strapping":"Some structural strapping.",		"shoe_sole":"A sole of a shoe.",		"refined_textile":"A swath of refined textile (weaved fabric).",		"refined_hide":"This is a patch of refined hide.",		"lining":"Lining.",		"jewelry_setting":"A setting for jewelry placement.",		"component_base":"A component base.",		"color_panel":"A color panel.",		"cargo_pocket":"This is a cargo pocket.",		"body":"Forms the body of the item itself.
+",		"binding_and_reinforcement":"Strengthens seams and edges of materials used and reinforces normally hard-wearing spots.
+"
+}}

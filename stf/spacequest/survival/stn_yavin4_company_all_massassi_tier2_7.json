@@ -1,28 +1,5 @@
-[
-'26':'transmission_start',
-'25':'transmission_received',
-'24':'trans_update',
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_reachpoint_t',
-'17':'quest_reachpoint_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_defendpoint_t',
-'13':'quest_defendpoint_d',
-'12':'outofrange_failed',
-'11':'outofrange',
-'10':'mission_complete',
-'9':'found_loc',
-'8':'first_attack',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_loc',
-]
+{
+	"stfFile":"spacequest/survival/stn_yavin4_company_all_massassi_tier2_7",
+	"entries": {
+		"transmission_start":"\#FF0000 Flight Computer:\#FF0000 \#pcontrast3 < Transmission link up established. Stand by for transmission updates. > \#pcontrast3",		"transmission_received":"\#FF0000 Flight Computer:\#FF0000 \#pcontrast3 < Transmission completed. Decrypting now. > \#pcontrast3",		"trans_update":"\#FF0000 Flight Computer:\#FF0000 \#pcontrast3 < %DI percent of the transmission completed. > \#pcontrast3",		"title_d":"You have detected a signal coming from the Corellia system to this location. The signal is weak but you think you could tap into it.",		"title":"Yavin System: Intercept the Massassi Transmission",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#FF0000 Flight Computer:\#FF0000 < %TO >",		"quest_reachpoint_t":"Travel to Signal Location",		"quest_reachpoint_d":"Your computer has determined the location of the strongest signal strength. Travel to that point and tap into the signal.",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"The signal is being beamed into the Yavin system.",		"quest_defendpoint_t":"Intercept the Transmission",		"quest_defendpoint_d":"The computer estimates that it will take about five minutes in order to get the entire broadcast. Remain in the area until it is completely intercepted.",		"outofrange_failed":"The signal has stopped broadcasting. Transmission incomplete. Return to Yavin station.",		"outofrange":"Signal interupted. Return immediately to optimum transmission location in order to reestablish a link.",		"mission_complete":"Transmission completed. Transmission appears to be orders from the Deep Corellia Mining Co. to agents posing as Massassi to drive the Yavin Mining Co. out of business. They are trying to take over the rich mining operations on Yavin 4.",		"found_loc":"Optimum transmission interception point calculated. Move to this location to intercept signal.",		"first_attack":"Enemy fighters have detected your presence. Remain in the area until the transmission is completed but defend yourself against all attacking craft.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer:\#pcontrast3 < Enemy fighters eliminated. >\#pcontrast3 \#pcontrast1",		"attack_notify":"\#pcontrast1 Tactical Computer:\#pcontrast3 < Enemy fighters detected. >\#pcontrast3 \#pcontrast1",		"assigned_delayed":"",		"arrived_at_loc":"You have reach the optimum transmission point. Stand by for the interception of the signal to begin."
+}}

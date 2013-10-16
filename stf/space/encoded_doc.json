@@ -1,17 +1,16 @@
-[
-'15':'event_ghostship',
-'14':'trigger_ghostship',
-'13':'toofar_ghostship',
-'12':'need_waypoint',
-'11':'action_wrong_planet',
-'10':'read',
-'9':'distress_signal',
-'8':'waypoint_exists',
-'7':'stored_waypoint',
-'6':'wrong_planet',
-'5':'use',
-'4':'store_waypoint',
-'3':'close',
-'2':'text_ghostship',
-'1':'title_ghostship',
-]
+{
+	"stfFile":"space/encoded_doc",
+	"entries": {
+		"event_ghostship":"A black ship approaches from the void, shields and weapons charged.
+It unleashes its first attack even as your targeting computer identifies it as the 'Duskrunner.'",		"trigger_ghostship":"You engage a false distress signal, hoping to attract the attention of the legendary Duskrunner.",		"toofar_ghostship":"You need to get closer to the waypoint before you try and signal the ghost ship.",		"need_waypoint":"You need to read the document and retrieve the waypoint data before you can do that.",		"action_wrong_planet":"You aren't anywhere close to the location indicated in the document.",		"read":"Read",		"distress_signal":"Signal Distress",		"waypoint_exists":"You already have a waypoint to that location in your datapad.",		"stored_waypoint":"A waypoint to the coordinates in the document has been created.",		"wrong_planet":"The coordinates stored in the file don't refer to any location in this area.",		"use":"Use",		"store_waypoint":"Retrieve Waypoint",		"close":"Close",		"text_ghostship":"[This document contains a fragment of the book "Mystery of the Duskrunner."  A favorite legend among pirates in the Tatooine sector.]
+
+...
+
+No one ever saw the Duskrunner again after that fateful day.  The black void just seemed to swallow up the old pirate.  Her captain never launched a distress beacon, most likely consigned to go down with the ship as is the ancient tradition.  The legend, quietly whispered in the back of the more questionable cantinas, says that such a dishonorable old bandit was denied that honorable fate.  They say the Duskrunner still haunts unused Tatooine shipping lanes.  That she appears every once in a while to prey on unsuspecting ships that cross her path.
+
+This historian does not place any faith in the wild tales of drunken pirates, but the legend is alive and well even today.
+
+[A small subfile also exists in the fragment's registery.]
+
+"...I know what I saw and I saw the Duskrunner!  I've stored the coordinates in this file.  They say she can't be killed, but that she'll pay a portion of her loot to any man brave enough to hunt her down and take her on!  A false distress signal in the right place...this is our chance..."",		"title_ghostship":"Mystery of the Duskrunner"
+}}

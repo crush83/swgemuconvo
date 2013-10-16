@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_tier3_4_c",
+	"entries": {
+		"title_d":"Destroy the Karthakk Queen in the Lok system. Nym's freighter fleet is in ruins and his fighters have been greatly reduced. We have learned from the pilot of the smuggler vessel you captured that Nym received a gift from the Rebels to help seal the now defunct deal. A gunboat was given to him by the Rebellion. We a ship of that power Nym will be able to quickly regain control and rebuild his fleet.",		"title":"Lok System: Destroy the Karthakk Queen",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Karthakk Queen",		"quest_target_d":"Iintercept and destroy the gunship in the Lok system. Nym is aware of the danger his ships are in and is trying to get this vessel out of the system before anymore damage can be done.",		"quest_location_t":"Remain in the Lok System",		"quest_location_d":"Remain in the Lok system and intercept the Karthakk Queen.",		"quest_escort_t":"Destroy the Escort Fighters",		"quest_escort_d":"Destroy all vessels traveling with the Gunship as well.",		"failed_escape":"Your mission was clear. Take out that ship and you let it get away. With that vessel Nym can easily resupply and be back in operation in no time. Report back to your superior.",		"escort_wiped_out":"Tactical Computer: <Enemy escorts eliminated.>",		"escort_remaining":"Tactical Computer: <%DI escorts remaining.>",		"destroy_escort":"Since you are there, you should also destroy that vessels escorts.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"If Nym doesn't get the point that we don't want him assisting the Rebellion now he will have to be eliminated. Head for home.",		"arrival_phase_2":"Location of vessel and it's escort transmitted. Eliminate that vessel at all costs.",		"arrival_phase_1":"Getting a lock on your target vessel. Stand by.",		"Quest Log Data":"Text"
+}}

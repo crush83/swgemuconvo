@@ -1,15 +1,14 @@
-[
-'13':'captain_ackbar',
-'12':'dantari_village',
-'11':'voritor',
-'10':'thune',
-'9':'quenker',
-'8':'piket',
-'7':'remnants_of_kun',
-'6':'huurton',
-'5':'bol',
-'4':'jedi_temple',
-'3':'dantari',
-'2':'rebel_base',
-'1':'dantooine',
-]
+{
+	"stfFile":"loading/dantooine",
+	"entries": {
+		"captain_ackbar":"When the Empire captured Mon Calamari, this decorated officer became Grand Moff Tarkin's pilot and personal slave. The Rebel Alliance rescued Ackbar just before Tarkin took command of the Death Star. Now the Calamari officer aids the Alliance with his detailed knowledge of the Imperial war machine. He hopes to re-establish an Alliance base on Dantooine.",		"dantari_village":"The natives of Dantooine build primitive mud huts and cave shelters decorated with icons of ancestral spirits. Because Dantari tribes are nomadic, they desert and re-occupy whole villages seemingly at random.",		"voritor":"Solitary hunters of the plains of Dantooine, the voritor lizards are venomous predators. They move slowly until they come in for the kill.",		"thune":"Thune graze the grasslands of Dantooine in small herds. They are typically not aggressive, but can be fearsome opponents when angered.",		"quenker":"The quenker, or "plated rat", is found on many worlds, but has become endemic in the hospitable climate and grasslands of Dantooine. Their tough plated hide makes them aggressive vermin. They travel in groups and can be quite dangerous.",		"piket":"The piket is a long-necked creature living on the plains of Dantooine. Herd animals, the piket tend to travel in small groups, and are not typically aggressive.",		"remnants_of_kun":"Followers of the Sith Lord Exar Kun, who once trained on Dantooine, the Remnants of Kun are untrained wielders of the Dark Side of the Force. They come to explore the ruins of the Jedi Temple, seeking knowledge of the Force.",		"huurton":"Huurton are canine predators on the grasslands of Dantooine. They run down their prey, and are not averse to stealing the carcasses of kills from other predators.",		"bol":"These large creatures on the grasslands of Dantooine are the favorite foods of voritor lizards and huurton.
+
+They are generally passive, though they will defend themselves if the herd is threatened.",		"jedi_temple":"Long ago, the evil Sith Exar Kun trained at the Jedi Temple on Dantooine under Jedi Master Vodo-Siosk Baas.
+
+Over the centuries the Temple has fallen into ruins.",		"dantari":"The primitive Dantari roam in tribes across the surface of Dantooine.
+
+Little is known of the Dantari culture.",		"rebel_base":"Dantooine holds an abandoned Rebel base. The Alliance evacuated before the Empire could discover its location.",		"dantooine":"Inhabited by the primitive Dantari, Dantooine is a world of rolling plains.
+
+Long ago, Dantooine served as a Jedi training center, and the ruins of the Jedi Temple still exist.
+"
+}}

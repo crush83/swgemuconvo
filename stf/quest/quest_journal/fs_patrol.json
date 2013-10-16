@@ -1,26 +1,5 @@
-[
-'25':'patrol_journal_d_finish',
-'23':'patrol_journal_finish',
-'22':'patrol_journal_start',
-'21':'patrol_journal_20_n',
-'20':'patrol_journal_19_n',
-'19':'patrol_journal_18_n',
-'18':'patrol_journal_17_n',
-'17':'patrol_journal_16_n',
-'16':'patrol_journal_15_n',
-'15':'patrol_journal_14_n',
-'14':'patrol_journal_13_n',
-'13':'patrol_journal_12_n',
-'12':'patrol_journal_11_n',
-'11':'patrol_journal_10_n',
-'10':'patrol_journal_9_n',
-'9':'patrol_journal_8_n',
-'8':'patrol_journal_7_n',
-'7':'patrol_journal_6_n',
-'6':'patrol_journal_5_n',
-'5':'patrol_journal_4_n',
-'4':'patrol_journal_3_n',
-'3':'patrol_journal_2_n',
-'2':'patrol_journal_d',
-'1':'patrol_journal_1_n',
-]
+{
+	"stfFile":"quest/quest_journal/fs_patrol",
+	"entries": {
+		"patrol_journal_d_finish":"You have completed the quest to patrol for enemy forces. You may now talk to Noldan about training in ranged accuracy Force sensitive skills.",		"patrol_journal_finish":"Quest Complete",		"patrol_journal_start":"Village Patrols",		"patrol_journal_20_n":"Extra Patrols ( 10 / 10 )",		"patrol_journal_19_n":"Extra Patrols ( 9 / 10 )",		"patrol_journal_18_n":"Extra Patrols ( 8 / 10 )",		"patrol_journal_17_n":"Extra Patrols ( 7 / 10 )",		"patrol_journal_16_n":"Extra Patrols ( 6 / 10 )",		"patrol_journal_15_n":"Extra Patrols ( 5 / 10 )",		"patrol_journal_14_n":"Extra Patrols ( 4 / 10 )",		"patrol_journal_13_n":"Extra Patrols ( 3 / 10 )",		"patrol_journal_12_n":"Extra Patrols ( 2 / 10 )",		"patrol_journal_11_n":"Extra Patrols ( 1 / 10 )",		"patrol_journal_10_n":"Patrol ( 10 / 10 )",		"patrol_journal_9_n":"Patrol ( 9 / 10 )",		"patrol_journal_8_n":"Patrol ( 8 / 10 )",		"patrol_journal_7_n":"Patrol ( 7 / 10 )",		"patrol_journal_6_n":"Patrol ( 6 / 10 )",		"patrol_journal_5_n":"Patrol ( 5 / 10 )",		"patrol_journal_4_n":"Patrol ( 4 / 10 )",		"patrol_journal_3_n":"Patrol ( 3 / 10 )",		"patrol_journal_2_n":"Patrol ( 2 / 10 )",		"patrol_journal_d":"Patrol all eight points.  Standing orders are to subdue any hostiles you come across, unless the hostiles are part of a raid force. Any groups larger than three should be avoided so intelligence can be gathered. We cannot gather information if they are dead. Report back after all points are complete.",		"patrol_journal_1_n":"Patrol ( 1 / 10 )"
+}}

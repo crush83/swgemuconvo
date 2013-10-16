@@ -1,20 +1,155 @@
-[
-'18':'moderating',
-'17':'search',
-'16':'friendslist',
-'15':'matchmaking',
-'14':'findingfriends',
-'13':'channels',
-'12':'mail',
-'11':'tell',
-'10':'distant',
-'9':'spatial',
-'8':'chatbox',
-'7':'socials',
-'6':'sayalts',
-'5':'moods',
-'4':'shortcuts',
-'3':'multichatboxes',
-'2':'sample',
-'1':'communication',
-]
+{
+	"stfFile":"kb/kb_communication_d",
+	"entries": {
+		"moderating":"You can set your channel to Private or Moderated. A Private channel can only be accessed by those who have been invited to join the room, while a Moderated channel allows anyone to visit. For either channel, you have the power to remove anyone who misbehaves.
+
+The owner of the channel is automatically assigned moderator powers over the channel. The moderator powers include:
+
+- Inviting and Uninviting another player into a Private Channel
+
+- Kicking another player out of a channel
+
+- Giving or Revoking another player moderator privileges
+
+- Destroying the Channel
+
+",		"search":"The Search page allows you to find specific types of players in your area. To use the search function, choose the traits you're looking for (example: Medic), then click on the Search button. The search function will only show you those that meet the criteria you have designated.
+
+You can quickly search for players in your Chatbox using these commands:
+
+/who [character's first name] : This will show you if the character is online
+(example: /who Vemerik) - This will tell you if Vemerik is online
+
+/who [part of a name] : This will show you anyone online with those characters
+(example: /who Meri) - this will show anyone with the letters in "meri" in that order
+
+/who [species name] : This will show you anyone online in your area of that species
+(example: /who rodian) - This will show you all the Rodians in your area
+
+/who [profession] : This will show you anyone online in your area of that profession
+(example: /who entertainer) This will show you all the Entertainers in your area
+
+/who lfg : This will show you anyone in your area that is Looking For a Group (lfg). You can set yourself to "lfg" by typing /lfg (typing it again turns it off)
+
+/who helper : This will show you anyone in your area that identifies themselves as a "helper" for newbies. You can set yourself to "helper" by typing /helper (typing it again turns it off)
+
+
+",		"friendslist":"Your Friends list helps you to keep track of any friends you make in the game. You can see which of your friends are online on the Friends screen of the Community Window (default CTRL P).
+
+To add a character to your friends list, type in the first name of that character in the field at the bottom of the Friends screen. You can also do it in the chatbox by typing: /addfriend [character's first name]
+
+Example: /friend Vemerik - this will now add Vemerik to your Friends list.
+
+You can select a friend by clicking on them (or choose all of them by clicking on Select All). Once you have the friend selected, you can then send them a message or an in-game email.
+",		"matchmaking":"If you are looking for someone to adventure with, or are just interested in meeting people who match your personality, you can use the Matchmaking service.
+
+The first page is the Personal screen. This is where you can choose traits that you are looking for in a friend. Once you have chosen the options of what you are looking for, you can then adjust the Sensitivity. This will determine how closely the potential person will need to match what you have chosen (if you put the Sensitivity to 100 percent, then your potential friend will have to match every single last trait you selected). When you are done, you can also click on the Make My Profile Searchable to allow others to search for you, as well.
+
+The Match History screen will show you the list of people that match your preferences. It will also show you how long ago the search was made.
+
+The Character screen is where you can define what other people see about your character. Information provided in this screen is what the various Search commands draw from. Here is where you can designate what title you will go by, if you have any special badges, or if you're looking for a group to join. You can also designate whether you are a Role-Player or a Newbie Helper (someone who likes helping new players learn how to play).",		"findingfriends":"While you adventure throughout the galaxy, you will run across hundreds of other people doing the same. The Community icon will help you sort out your encounters. (You can also press Ctrl+C to reach the screen.)
+
+Sometimes, you will want to look for someone who matches your personality, or perhaps you already have made a lot of friends and need to keep track of them. You can also quickly look to see if there is someone nearby that you want to talk to, rather than running around looking for them.
+",		"channels":"Star Wars Galaxies supports a global chat system with multiple channels or "rooms". While Spatial, Combat, and Group chat are provided by default, players are also able to join other channels, and even create and run their own rooms.
+
+To create a new Chat Channel tab, press and hold the right mouse button on any existing Channel tab to see a list of options. Select Create Tab, and a new Channel tab titled "None" will appear. Double-click on the new tab to rename it and define the types of information it displays.
+
+To join and create new channels or Chat rooms, you need to access the Channel Browser. To find the Channel Browser, click and hold the left mouse button on a Chat tab, and then choose Join Chat Channel. It's sometimes helpful to create a new, empty tab for this purpose. ",		"mail":"The in-game mail function, represented by an icon of an envelope, will allow you to send and receive messages from other players in the Star Wars Galaxies game. To begin using it, you can click on the icon in the toolbar, or you can press Ctrl+E.
+
+If you have a message waiting for you, the icon will flash to notify you of the new message. To read the message, click on the e-mail and the message text will appear at the bottom of the screen.
+
+To send a message, click on New. In the "To" field, type in the name of the character you wish to send the email to (you only need to enter the first name of the character). If you wish to send the message to more than one person, type in a semicolon (;) after the person's name, then type in the next name.
+
+Type your message that you wish to give and then click on the Send button. If you wish to add any attachments (such as waypoints), drag the icon of what you wish to send into the Attachment field.
+
+",		"tell":"If you wish to send a message to someone in the game and they are not within hearing distance (or maybe you wish it to be secret), you can send a tell.
+
+A tell can only be seen by the person you are sending the message to, and does not appear as a chat bubble over your head. Make sure you are sending the tell to the right person, or you might embarrass yourself.
+
+To send a tell, type /tell followed by a space then the name of the character you wish to send the message to. After you have done that, put a space and type your message.
+
+Format: /tell [character's name] [message]
+Example: /tell Vemerik I need help with these dewbacks!
+
+In the above example, someone sent a tell to Vemerik asking him for help with Dewbacks. Remember, put a space between /tell, then name, and the message.
+
+If you receive a Tell from someone, you can send them a Reply. A reply works the same exact way as a tell, except you type /reply instead of /tell.
+
+Format: /reply [character's name] [message]
+Example: /reply Aldalad No problem! I'll be right there!
+
+Once you have mastered how to send Tells and Replies you can use shortcuts to type it faster. Using the same format as above, instead of typing /tell you can shorten it to /t. The same goes for replies. Instead of typing /reply, you can shorten it to /r.
+
+Examples:
+/t Vemerik Thanks a lot for saving me! I thought I was banthafodder!
+/r Aldalad No problem. Let's group together and get the rest of those dewbacks!
+",		"distant":"Sometimes you will find that you wish to speak to a person who is not in your immediate vicinity. If you need to send a message to someone who is not standing near you, there are two ways you can go about it. You can send the person a /tell if they are online, or you can send them an in-game email if they are not online.
+",		"spatial":"All conversation and important information occurring within a 50-meter radius around you will appear within this channel. Socials, emotes, default "say" chat, and any tells or system messages (such as notification that you've earned XP) you might receive will be shown here.
+",		"chatbox":"Your Chatbox is one of the primary ways in which you will communicate information between the world and other players in Star Wars Galaxies. Located at the bottom of the screen, it is separated into two parts: the Text field and the Input field.
+
+In the Text field, you will see everything from Combat messages to people saying hello you. All conversations will appear in your Chatbox, as will any searches, player reactions, skill increases, etc.
+
+The Input field is where you will issue any text-based commands. The most common usage is to type out what you are saying to other players, but it can be used to issue shortcuts, special skills, etc. Basically, whenever you have to "type" something, then Input field is where enter the information.
+
+The default use of the Chatbox only requires you to type something in. Anything you type in the Chatbox will appear in the world as if your character said it, with a text bubble over their head. 
+
+In order to send special messages (like shouting) or commands (such as starting to dance), you will need to start the line with a  /  (forward slash). If you do not use a slash before you type something in, your character will say it with a text bubble above their head.
+",		"socials":"Socials are special animations or text messages designed for social interaction. Each social has a special command associated with it.
+
+To use a social, simply type /[social action]
+Example: /wave will wave to someone or /cheer will cheer for someone
+
+For some socials, you can target another person to perform that social directed towards them. All you need to do is follow the social with their name, such as /[social action] [character's name]
+Example: /dance will cause you to dance for joy, whereas /dance Vemerik will cause you to dance for joy with the character Vemerik
+
+To see a full list of emotes, type /socials or open the Abilities screen (Ctrl+A keys) and click on the Socials tab.
+
+",		"sayalts":"Depending on your set mood, or if you use special types of speech other than the default  "say", your chat bubble will appear differently to others.
+
+Various moods will cause the bubble to take on various shapes that increase the effect of your visual features. Whether the bubble appears jagged, spiked, or round will depend on how you are expressing yourself to others.
+
+Some examples of the Chat Bubbles changing shapes:
+
+/say is the default round bubble
+
+/shout causes the bubble to take a jagged look around the edges
+
+/whisper uses dotted lines for the edges to indicate you speaking in low tones
+
+In order to make a "thinking" thought bubble, use a colon before typing. To think out loud that you're feeling uneasy, you would type : I have a bad feeling about this...
+
+",		"moods":"While chatting, you can set your character's mood to visually express your feelings. Moods are expressed only to other player characters in the game, and do not affect the non-player characters.
+
+To set a mood for you character, type /mood [moodname]. 
+Example: /mood happy   or  /mood sad
+
+To set a neutral mood, type /mood none.
+
+Once you set your mood, your facial expression will change and your chat will reflect your mood. You can change your mood at anytime. 
+
+To apply a mood to a specific chat message, type /[mood name] followed by [/chat type], and then your message.
+Example: /happy /say Hello!  - This will say to everyone nearby "Hello!" in a happy mood.
+
+Type /moods for a full list of the available moods. You can also refer to the Moods tab in the Abilities screen (Ctrl+A keys) for the same list.
+",		"shortcuts":"Every mood and social is available in your Abilities screen (Ctrl+A). You can left-click on any Mood or Social icon and drag it into your toolbar to assign that chat command to one of your function keys (F1 through F12). You can then use the corresponding function key to use the social or change your mood.",		"multichatboxes":"At the top of the Chat window are two tabs that allow you to cycle between two different default Chat channels. A chat channel is like an online chat room. The two default channels are:
+
+Spatial: All conversation and important information occurring within a 50-meter radius around you will appear within this channel.
+
+Combat: Displays combat information, including damage data. System messages and tells are reproduced here. 
+
+When you join a group, you automatically get a new channel titled Group which will display all group chat.
+
+You can separate any number of chat tabs into actual windows by pressing down on the right mouse button on that tab, then dragging it onto the screen. When you let go of the button, you will have created another window that you can place on your screen where you'd like.
+
+If you no longer want multiple Chatboxes, you can drag the tab of that window back into the first box to combine the two. If you no longer want the additional window at all, you can click on the X to permanently close the window.
+
+You can modify a channel tab by simply double clicking on it. A menu will appear, offering you ways to customize the tab to your liking.
+
+You can create new tabs by holding down left mouse button on an exiting tab. From the menu that appears choose Create Tab. Double-click on the new tab that appears, then choose to change its name to one of your liking.
+",		"sample":"Sample Page Text",		"communication":"The chat system for Star Wars Galaxies is designed to be robust and versatile. By default, you can chat simply by typing.
+
+Chat automatically appears in your Chat Input bar. When you hit the Enter key, whatever you've typed appears in the Chat window of those around you. Chat messages also appear in Chat bubbles above your head.
+
+You can also use special commands, also known as "slash commands", because they are always preceded by a  /  (forward slash). For a list of all the slash commands, type /socials.
+"
+}}

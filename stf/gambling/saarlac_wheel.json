@@ -1,50 +1,11 @@
-[
-'48':'set_saarlac_pool_title',
-'47':'set_saarlac_pool_min',
-'46':'set_oasis_pool_title',
-'45':'set_oasis_pool_min',
-'44':'saarlac_pool_min_set',
-'43':'oasis_pool_min_set',
-'42':'jabba_pool_min_set',
-'41':'pool_minimum',
-'40':'total_funds',
-'39':'set_jabba_pool_title',
-'38':'set_jabba_pool_min',
-'37':'menu_pool_minimum_saarlac',
-'36':'menu_pool_minimum_oasis',
-'35':'menu_pool_minimum_jabba',
-'34':'menu_pool_reset',
-'33':'menu_admin',
-'32':'cant_do_maintenance',
-'31':'pools_reset',
-'30':'stats',
-'29':'not_an_admin',
-'28':'insufficient_funds_start',
-'27':'insufficient_funds',
-'26':'no_casino',
-'25':'bet_push_to_jabba_other',
-'24':'bet_push_to_oasis_other',
-'23':'bet_push_to_oasis_self',
-'22':'bet_push_to_jabba_self',
-'21':'bet_push_to_pit_other',
-'20':'bet_push_self',
-'19':'bet_push_other',
-'18':'bet_push_to_pit_self',
-'17':'jackpot_won_other',
-'16':'jackpot_won_self',
-'15':'bet_lost_other',
-'14':'bet_payed_other',
-'13':'bet_lost_self',
-'12':'bet_payed_self',
-'11':'saarlac_pool_max',
-'10':'oasis_pool_max',
-'9':'jabba_pool_max',
-'8':'saarlac_pool_empty',
-'7':'oasis_pool_empty',
-'6':'jabba_pool_empty',
-'5':'bet_placed_other',
-'4':'bet_placed_self',
-'3':'bet_already_placed',
-'2':'invalid_bet',
-'1':'wheel_spin',
-]
+{
+	"stfFile":"gambling/saarlac_wheel",
+	"entries": {
+		"set_saarlac_pool_title":"Saarlac Pool Minimum",		"set_saarlac_pool_min":"Enter the minimum Saarlac Pool amount.
+
+(Warning! Increasing the minimum above zero may result in a negative house edge.)",		"set_oasis_pool_title":"Oasis Pool Minimum",		"set_oasis_pool_min":"Enter the minimum Oasis Pool amount.
+
+(Warning! Increasing the minimum above zero may result in a negative house edge.)",		"saarlac_pool_min_set":"Saarlac Pool minimum set to %DI.",		"oasis_pool_min_set":"Oasis Pool minimum set to %DI.",		"jabba_pool_min_set":"Jabba Pool minimum set to %DI.",		"pool_minimum":"Pool Minimum",		"total_funds":"Total Funds",		"set_jabba_pool_title":"Jabba Pool Minimum",		"set_jabba_pool_min":"Enter the minimum Jabba Pool amount.
+
+(Warning! Increasing the minimum above zero may result in a negative house edge.)",		"menu_pool_minimum_saarlac":"Set Saarlac Pool Minimum",		"menu_pool_minimum_oasis":"Set Oasis Pool Minimum",		"menu_pool_minimum_jabba":"Set Jabba Pool Minimum",		"menu_pool_reset":"Reset Pools",		"menu_admin":"Table Status",		"cant_do_maintenance":"You cannot do maintenance on the table while it is running.",		"pools_reset":"The pools have been reset.",		"stats":"Saarlac Wheel Status",		"not_an_admin":"You must be an admin to do that.",		"insufficient_funds_start":"There are insufficient funds available to start this game.  Please try again later.",		"insufficient_funds":"There are insufficient funds to cover your bet.",		"no_casino":"Unable to find the table's parent building.  The game has been halted.",		"bet_push_to_jabba_other":"... %DI credits of %TU's lost bet has been pushed into Jabba's Palace.",		"bet_push_to_oasis_other":"... %DI credits of %TU's lost bet has been pushed into the Oasis.",		"bet_push_to_oasis_self":"... %DI credits of your lost bet has been pushed into the Oasis.",		"bet_push_to_jabba_self":"... %DI credits of your lost bet has been pushed into Jabba's Palace.",		"bet_push_to_pit_other":"... %DI credits of %TU's lost bet has been pushed into the Saarlac Pit.",		"bet_push_self":"Your bet of %DI credits has been pushed to %TO.",		"bet_push_other":"%TU's bet of %DI credits has been pushed to %TO.",		"bet_push_to_pit_self":"... %DI credits of your lost bet has been pushed into the Saarlac Pit.",		"jackpot_won_other":"** %TU has won the %TO jackpot! **",		"jackpot_won_self":"** You have won the %TO jackpot! **",		"bet_lost_other":"%TU has lost %DI credits on %TO.",		"bet_payed_other":"%TU has won %DI credits on %TO!",		"bet_lost_self":"You have lost %DI credits on your %TO bet.",		"bet_payed_self":"You have won %DI credits from your %TO bet.",		"saarlac_pool_max":"You bet has exceeded the maximum payable bet of %DI credits for the current Jabba Palace jackpot.  Your bet has been reduced to this value.",		"oasis_pool_max":"You bet has exceeded the maximum payable bet of %DI credits for the current Oasis jackpot.  Your bet has been reduced to this value.",		"jabba_pool_max":"You bet has exceeded the maximum payable bet of %DI credits for the current Jabba Palace jackpot.  Your bet has been reduced to this value.",		"saarlac_pool_empty":"You cannot make that bet since the Saarlac Pit is empty.",		"oasis_pool_empty":"You cannot make that bet since the Oasis is empty.",		"jabba_pool_empty":"You cannot make that bet since Jabba's Palace is empty.",		"bet_placed_other":"%TU places a bet on %TO.",		"bet_placed_self":"You place a bet on %TO.",		"bet_already_placed":"A bet has already been placed on %TO.",		"invalid_bet":"That is not a valid bet.",		"wheel_spin":"*** %TO ***"
+}}

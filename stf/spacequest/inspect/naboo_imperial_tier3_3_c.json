@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/naboo_imperial_tier3_3_c",
+	"entries": {
+		"title_d":"During the attacks on the crippled shuttle, the Rebel pilots where sending signals to what appears to be a command vessel. Hunt down that vessel and inspect it for any information that we can find useful.",		"title":"Dathomir System: Inspect the Rebel Command Vessel",		"split_quest_alert_fail":"",		"split_quest_alert":"Nice work, pilot. Fly that information back to the Naboo system for immediate transfer to a shuttle.",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"The Rebel command vessel appears to still be in the Dathomir system. You will be supplied with a navigation waypoint to its most recent location.",		"quest_inspect_t":"Disable the Rebel Command Vessel",		"quest_inspect_d":"Disable the Rebel command vessel and inspect it for any information on the Rebel operations in the system.",		"quest_dock_t":"Transfer the Encrypted Rebel Reports",		"quest_dock_d":"Dock with the Rebel command vessel and transfer the reports to your vessel.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

@@ -1,18 +1,5 @@
-[
-'16':'nym',
-'15':'gurk',
-'14':'gurnaset',
-'13':'spined_snake',
-'12':'pharple',
-'11':'perlek',
-'10':'langlatch',
-'9':'kusak',
-'8':'flit',
-'7':'kimogila',
-'6':'vesp',
-'5':'droideka',
-'4':'general_otto',
-'3':'imperial_base',
-'2':'nym_stronghold',
-'1':'snorbal',
-]
+{
+	"stfFile":"loading/lok_n",
+	"entries": {
+		"nym":"Nym",		"gurk":"Gurk",		"gurnaset":"Gurnaset",		"spined_snake":"Spined Snake",		"pharple":"Pharple",		"perlek":"Perlek",		"langlatch":"Langlatch",		"kusak":"Kusak",		"flit":"Flit",		"kimogila":"Kimogila",		"vesp":"Vesp",		"droideka":"Droideka",		"general_otto":"General Otto",		"imperial_base":"Imperial Base",		"nym_stronghold":"Nym's Stronghold",		"snorbal":"Snorbal"
+}}

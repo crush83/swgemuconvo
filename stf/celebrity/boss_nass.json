@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/boss_nass",
+	"entries": {
+		"npc_11":"What kinda monster yousa thinking me?",		"player_10":"How bout other Gungans?",		"npc_10":"Meesa no think so.",		"player_9":"You wouldn't eat me, right?",		"npc_5":"Meesa eat fish, eopie, whatever meesa find.",		"player_6":"What do you eat?",		"npc_9":"That would be me!",		"player_8":"Oh, right.  King of the Gungans.",		"npc_8":"Better be believing it!",		"player_7":"Yes, yes, of course you are.",		"npc_4":"That why meesa in charge.",		"player_5":"Yes, I'm sure you're quite strong.",		"npc_3":"Meesa big Gungan.  Meesa strong Gungan.",		"npc_7":"Meesa speaking very well!  Thankyouverymuch.",		"player_4":"Gungan.  You guys don't speak basic very well.",		"npc_6":"Meesa thought so.",		"player_3":"Oh, nothing.",		"npc_2":"Another one?  What yousa meanin?",		"player_2":"You're a Gungan?",		"player_1":"Oh dear.  Another one.",		"npc_1":"Boss Nass.  Thatsa meesa name."
+}}

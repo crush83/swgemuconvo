@@ -1,17 +1,8 @@
-[
-'15':'dalyrake',
-'14':'rebel_hideout',
-'13':'selonians',
-'12':'kor_vella',
-'11':'beldonna_mercenaries',
-'10':'lord_nyax_cult',
-'9':'razor_cat',
-'8':'drall',
-'7':'corellian_butterflies',
-'6':'agrilat_swamp',
-'5':'corellia',
-'4':'bela_vistal',
-'3':'tyrena',
-'2':'coronet',
-'1':'slice_hound',
-]
+{
+	"stfFile":"loading/corellia",
+	"entries": {
+		"dalyrake":"This carnivorous arachnoid can grow up to two meters tall. It eats fish (it can survive underwater indefinitely), small reptavians, and tabages. Suspicious and defensive, the dalyrake attacks with strong claws and ink-like venom. Connoisseurs consider its meat delicious.",		"rebel_hideout":"With the Empire's strength felt across the galaxy, independent-minded Corellia has provided a temporary shelter for the Rebel Alliance. At this safe house Princess Leia Organa of Alderaan makes plans to take advantage of the Alliance's recent victory at the Battle of Yavin.",		"selonians":"These serious-minded natives of Selonia in the Corellian system live in extended families called septs. A single fertile female rules the sept, while sterile females maintain the burrows. Because they regard the outside world as dangerous, only specially trained sterile females have contact with outsiders.",		"kor_vella":"Despite its transformation into a thriving economic hub, Kor Vella still maintains a rustic charm.  Many of the settlement's original buildings still stand, and the residents maintain historic areas throughout the city.  Kor Vella also lacks the huge skyscrapers that dominate the skyline of most other Corellian cities.",		"beldonna_mercenaries":"A group of mercenaries formed by Liiria Beldonna.  Sometimes these mercenaries help keep the peace, but they always act at the bidding of their current employer, who may have violent aims.",		"lord_nyax_cult":"A cult surrounds the ancient figure of Lord Nyax. Not much is known about these fanatics except that they are rare, remote, and dangerous.",		"razor_cat":"The razor cat is a vicious creature that hunts in the remote grassy plains of Corellia. Razor Cats can be found alone, with mates, or in packs. Adventurers are discouraged from engaging a pack for they aid each other in combat.",		"drall":"The Drall are a species of people native to the planet Drall in the Corellian system. Though they are generally reclusive and peaceful, some Drall visit or live on Corellia, and some have shown hostility towards native Corellians. ",		"corellian_butterflies":"Beautiful yet vicious winged creatures that come in a wide variety of castes: drones, workers, warriors, defenders, and monarchs.  Woe to the adventurer who mistakes a group of drones for a pack of defenders, as some types of butterflies are particularly powerful.",		"agrilat_swamp":"A dangerous yet beautiful crystal swamp in the remote regions of Corellia, the Agrilat Swamp is home to many dangerous creatures and a sanctuary for smugglers.",		"corellia":"The legendary homeworld of Han Solo, Corellia is at the center of galactic travel -- many travellers stop over on Corellia in their journey towards remote planets. Some of the world's beauties are exceedingly dangerous, such as the famous Agrilat Crystal Swamps. Few adventurers dare journey there.",		"bela_vistal":"Nestled in a serene mountain valley, Bela Vistal is considered to be an ideal tourism destination for those on a modest budget.  Its isolation and tall mountains have made it a favorite for hikers and climbers, but the fresh air and clean valleys surrounding it are refreshing to many other types of adventurers and travelers.",		"tyrena":"Tyrena is popular among adventurers because it is relatively close to many of Corellia's most exciting attractions. Tyrena serves as an excellent staging ground for slice-hound hunting expeditions and trips to the planet's stunning Gold Beaches.",		"coronet":"Coronet City is the capital city of Corellia and the nexus of the entire Corellian system. "The Jewel of Corellia" is a bustling metropolis that attracts entrepreneurs, merchants, tourists -- and smugglers -- from all five worlds of the Corellian system and across the galaxy.",		"slice_hound":"The slice hound's name derives from the spikes that cover its body. But even deadlier are its jagged teeth and its shrewd ways of hunting.
+
+Slice hounds attack anything smaller than they are. When they're hungry enough, nothing is safe.
+"
+}}

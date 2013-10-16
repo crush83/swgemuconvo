@@ -1,16 +1,15 @@
-[
-'14':'command_tab_macro',
-'13':'command_tab_other',
-'12':'command_tab_chatter',
-'11':'command_tab_astromech',
-'10':'command_tab_space',
-'9':'command_tab_mood',
-'8':'command_tab_social',
-'7':'command_tab_combat',
-'6':'help_other',
-'5':'help_macro_new',
-'4':'help_macro',
-'3':'help_mood',
-'2':'help_social',
-'1':'help_combat',
-]
+{
+	"stfFile":"ui_command",
+	"entries": {
+		"command_tab_macro":"macro",		"command_tab_other":"other",		"command_tab_chatter":"chatter",		"command_tab_astromech":"astromech",		"command_tab_space":"space",		"command_tab_mood":"mood",		"command_tab_social":"social",		"command_tab_combat":"combat",		"help_other":"This tab holds miscellaneous commands that don't fit under any other category.",		"help_macro_new":"Click this button to access the window where you can build macros.",		"help_macro":"This tab lets you create and reference macros.
+
+Macros are a sequence of commands executed together.  For instance, you might create a macro to display a greeting and play a bow animation.  Once created, macros can be used like any other command.",		"help_mood":"This tab displays the various moods your character can adopt.
+
+Setting a mood causes your character's face to smile when happy, frown when sad, etc...  Once a mood is set, it remains until a different mood is set.  Your character's mood is also displayed when speaking.  If you type "Hi" and have the Happy mood set, your character may say - Character says "Hi", happily.",		"help_social":"The second tab displays socials.
+
+These are commands that let you interact with other players.  You can bow, dance, flirt, reassure, and taunt players, among many others.  Some of these also have animations that will play when executed.  The lower window displays the text that will be displayed.",		"help_combat":"This is your CommandBrowser. 
+
+All of your available commands are available here.  Commands can be dragged to your toolbar for easy access.   
+
+This first tab displays your combat commands.  Selecting a command displays for specific information for it.  As you purchase skills, new commands may be added to this list."
+}}

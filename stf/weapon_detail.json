@@ -1,178 +1,93 @@
-[
-'176':'weapon_trajectory_computer',
-'175':'weapon_targeting_computer',
-'174':'weapon_mount_light',
-'173':'weapon_mount',
-'172':'weapon_high_power_module',
-'171':'warhead_stabilizer',
-'170':'warhead_light',
-'169':'warhead_heavy',
-'168':'warhead_fusing_mechanism',
-'167':'warhead_chemical',
-'166':'voltage_inducer',
-'165':'victor_baton_gaderiffi',
-'164':'vibroknuckler',
-'163':'vibro_unit',
-'162':'turbo_laser_gun_tube',
-'161':'tuning_cell',
-'160':'sword_nyax',
-'159':'sword_lightsaber_training',
-'158':'sword_lightsaber_lance',
-'157':'sword_lightsaber_gen5_2h',
-'156':'sword_lightsaber_gen5',
-'155':'sword_lightsaber_gen4_2h',
-'154':'sword_lightsaber_gen4',
-'153':'sword_lightsaber_gen3_2h',
-'152':'sword_lightsaber_gen3',
-'151':'sword_lightsaber_gen2_2h',
-'150':'sword_lightsaber_gen2',
-'149':'sword_lightsaber_gen1_2h',
-'148':'sword_lightsaber_gen1',
-'147':'sword_lightsaber_2h',
-'146':'sword_lightsaber',
-'145':'sword_curved_nyax',
-'144':'sword_core',
-'143':'sword_blade_ryyk',
-'142':'sword_blade_rantok',
-'141':'sword_2h_scythe',
-'140':'sword_2h_maul',
-'139':'sword_2h_katana_quest',
-'138':'sword_2h_katana',
-'137':'sword_2h_cleaver',
-'136':'sword_2h_blacksun_hack',
-'135':'sword_2h_axe_quest',
-'134':'sword_2h_axe',
-'133':'sword_02',
-'132':'sword_01',
-'131':'stock_unit',
-'130':'shield_generator_personal_imperial_test',
-'129':'shield_generator_personal_c',
-'128':'shield_generator_personal_b',
-'127':'scope_weapon',
-'126':'rocket_launcher',
-'125':'rifle_victor_tusken',
-'124':'rifle_tusken',
-'123':'rifle_tenloss_dxr6_disruptor',
-'122':'rifle_t21',
-'121':'rifle_spraystick',
-'120':'rifle_sg82',
-'119':'rifle_quest_tusken',
-'118':'rifle_lightning',
-'117':'rifle_laser_noob',
-'116':'rifle_laser',
-'115':'rifle_jawa_ion',
-'114':'rifle_flame_thrower',
-'113':'rifle_ewok_crossbow',
-'112':'rifle_e11',
-'111':'rifle_dlt20',
-'110':'rifle_cdef',
-'109':'rifle_bowcaster',
-'108':'rifle_berserker',
-'107':'rifle_beam',
-'106':'rifle_acid_beam',
-'105':'projectile_rifle_barrel',
-'104':'projectile_pistol_barrel',
-'103':'projectile_feed_mechanism',
-'102':'pistol_tangle',
-'101':'pistol_striker_noob',
-'100':'pistol_striker',
-'99':'pistol_srcombat',
-'98':'pistol_scout_blaster_corsec',
-'97':'pistol_scout_blaster',
-'96':'pistol_scout',
-'95':'pistol_scatter',
-'94':'pistol_republic_blaster_quest',
-'93':'pistol_republic_blaster',
-'92':'pistol_power5',
-'91':'pistol_launcher',
-'90':'pistol_geonosian_sonic_blaster',
-'89':'pistol_fwgs',
-'88':'pistol_fwg5_quest',
-'87':'pistol_fwg5',
-'86':'pistol_fgws',
-'85':'pistol_dx2',
-'84':'pistol_dl44_metal',
-'83':'pistol_dl44',
-'82':'pistol_dh17',
-'81':'pistol_de_10',
-'80':'pistol_d18',
-'79':'pistol_cdef_corsec',
-'78':'pistol_cdef',
-'77':'pistol',
-'76':'mine_xg',
-'75':'mine_drx',
-'74':'mine_a_v',
-'73':'metal_fasteners',
-'72':'laser_rifle',
-'71':'laser_magnetic_flashback_supressor',
-'70':'laser_cannon_gun_tube',
-'69':'laser_cannon_cooling_sleve',
-'68':'laser_cannon_cooling_sleeve',
-'67':'lance_vibrolance',
-'66':'lance_vibro_axe',
-'65':'lance_staff_wood_s2',
-'64':'lance_staff_wood_s1',
-'63':'lance_staff_metal',
-'62':'lance_staff_janta',
-'61':'lance_nightsister',
-'60':'lance_lightsaber_gen5',
-'59':'lance_lightsaber_gen4',
-'58':'lance_lightsaber_gen3',
-'57':'lance_lightsaber_gen2',
-'56':'lance_lightsaber_gen1',
-'55':'lance_lightsaber',
-'54':'lance_controllerfp_nightsister',
-'53':'lance_controllerfp',
-'52':'lance_controller',
-'51':'knife_vibroblade_quest',
-'50':'knife_vibroblade',
-'49':'knife_survival',
-'48':'knife_stone',
-'47':'knife_janta',
-'46':'knife_donkuwah',
-'45':'knife_dagger',
-'44':'heavy_particle_beam',
-'43':'heavy_lightning_beam',
-'42':'heavy_acid_beam',
-'41':'grenade_thermal_detonator',
-'40':'grenade_proton',
-'39':'grenade_imperial_detonator',
-'38':'grenade_glop',
-'37':'grenade_fragmentation_light',
-'36':'grenade_fragmentation',
-'35':'grenade_cryoban',
-'34':'grenade_bug_bomb',
-'33':'galven_tube_circuits',
-'32':'fwg5_pistol',
-'31':'enhanced_destructive_pulse_channeling',
-'30':'energization_crystals',
-'29':'current_motivator',
-'28':'chemical_dispersion_mechanism',
-'27':'cargo_pocket',
-'26':'carbine_nym_slugthrower',
-'25':'carbine_laser',
-'24':'carbine_elite',
-'23':'carbine_ee3',
-'22':'carbine_e11_victor_quest',
-'21':'carbine_e11_quest',
-'20':'carbine_e11',
-'19':'carbine_dxr6',
-'18':'carbine_dh17_snubnose',
-'17':'carbine_dh17_black',
-'16':'carbine_dh17',
-'15':'carbine_cdef_corsec',
-'14':'carbine_cdef',
-'13':'capacitor_bank',
-'12':'blaster_rifle_barrel',
-'11':'blaster_power_handler',
-'10':'blaster_pistol_barrel',
-'9':'blaster_pistol_barel',
-'8':'blacksun_razor',
-'7':'bestine_quest_sword',
-'6':'baton_stun',
-'5':'baton_gaderiffi',
-'4':'axe_vibro',
-'3':'axe_heavy_duty',
-'2':'ammo_projectile_entanglement',
-'1':'ammo_projectile',
-]
+{
+	"stfFile":"weapon_detail",
+	"entries": {
+		"weapon_trajectory_computer":"A weapon's trajectory computer can help determine the trajectory of a target.",		"weapon_targeting_computer":"A weapon's targeting computer helps determine the range to the target, and can greatly help a gunner's accuracy.",		"weapon_mount_light":"A mount for use with lighter weapons.",		"weapon_mount":"A mount that allows a weapon to be attached to it.",		"weapon_high_power_module":"A high-powered weapon module.",		"warhead_stabilizer":"This device is necessary to keep the warhead's payload stable during motion and launch.",		"warhead_light":"This warhead is designed for minimum collateral damage.",		"warhead_heavy":"This warhead is designed for a massive explosion.",		"warhead_fusing_mechanism":"This is responsible for the warhead fuse's ignition.",		"warhead_chemical":"This warhead is designed to disperse lethal chemicals.",		"voltage_inducer":"A voltage inducer.",		"victor_baton_gaderiffi":"Black Metal Gaderiffi Baton seems to have been made with an ink-like metal. It is light, durable and well-balanced.",		"vibroknuckler":"A blunt melee weapon equipped with a vibro-unit.  These are held in one hand, and can badly injure or kill an enemy.",		"vibro_unit":"A vibro-unit can turn a normal blade or axe into a much more destructive weapon by creating thousands of microscopic vibrations a second, greatly improving its cutting ability.",		"turbo_laser_gun_tube":"This is the gun tube for a turbolaser.",		"tuning_cell":"A tuning cell.",		"sword_nyax":"A sword used by a follower of Nyax.",		"sword_lightsaber_training":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold one crystal.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_lance":"A lightsaber lance.",		"sword_lightsaber_gen5_2h":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold five crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen5":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold five crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen4_2h":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold five crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen4":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold five crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen3_2h":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold four crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen3":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold four crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen2_2h":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold three crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen2":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold three crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen1_2h":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold two crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"sword_lightsaber_gen1":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold two crystals.
+
+A Traditional Jedi weapon, it consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured.  The only energy loss occurs when the blade strikes an object causing crystal decay. 
+
+",		"sword_lightsaber_2h":"A two-handed lightsaber.",		"sword_lightsaber":"A lightsaber.",		"sword_curved_nyax":"A sword used by a follower of Lord Nyax.",		"sword_core":"The core of a sword.",		"sword_blade_ryyk":"A weapon that finds its origin on Kashyyyk, the ryyk blade is the traditional melee weapon carried by a Wookiee.  Ryyk blades can vary in design based on their specific origin, but generally consist of sharpened blades with hide-wrapped grips.",		"sword_blade_rantok":"This forged steel sword was the traditional weapon of the Unfyr Warriors of the Ka'hren.",		"sword_2h_scythe":"A scythe blade.",		"sword_2h_maul":"Although they are invariably destructive in close-quarter combat, Battle Hammers may vary greatly in effectiveness depending on the quality of the materials used and the skill of the Weaponsmith.  Mauls and battle hammers are designed to deliver extra-heavy blows in melee combat, leaving bone-crushing damage in their wake.",		"sword_2h_katana_quest":"A long and gently curved sword, exceedingly sharp and sturdy, making it a dangerous weapon in close combat.
+
+This particular weapon has a narrow groove running down the flat of the blade. Bleeding may occur in the target when struck by this sword.
+
+This weapon requires the Brawler skill Two-Handed 2 in order to wield it proficiently.",		"sword_2h_katana":"Swords can vary greatly in effectiveness depending on the quality of the materials used and the skill of the Weaponsmith.  Some swords can be exceedingly sharp and sturdy, making them dangerous weapons in close combat.",		"sword_2h_cleaver":"Swords can vary greatly in effectiveness depending on the quality of the materials used and the skill of the Weaponsmith.  Some swords can be exceedingly sharp and sturdy, making them dangerous weapons in close combat.",		"sword_2h_blacksun_hack":"The Executioner's Hack is a favorite weapon of Black Sun operatives.  It's balanced as a two-handed weapon, and its light weight allows it to be used like a sword.
+
+This weapon requires Swordsman - Techniques II for certification.",		"sword_2h_axe_quest":"Axes can vary greatly in effectiveness depending on the quality of the materials used and the skill of the Weaponsmith.  The heft of the axe, combined with its razor-sharp edge makes it a devastating weapon for medium-ranged combat.
+
+This battleaxe, having previously been used by the Gamorrean guards in Jabba's palace, is tarnished and unclean. The tainted edge of this weapon may infect the target with disease when struck.
+
+This weapon requires the Brawler skill Two-Handed 2 in order to wield it proficiently.",		"sword_2h_axe":"Axes can vary greatly in effectiveness depending on the quality of the materials used and the skill of the Weaponsmith.  The heft of the axe, combined with its razor-sharp edge makes it a devastating weapon for medium-ranged combat.",		"sword_02":"Swords can vary greatly in effectiveness depending on the quality of the materials used and the skill of the Weaponsmith.  Some swords can be exceedingly sharp and sturdy, making them dangerous weapons in close combat.",		"sword_01":"Swords can vary greatly in effectiveness depending on the quality of the materials used and the skill of the Weaponsmith.  Some swords can be exceedingly sharp and sturdy, making them dangerous weapons in close combat.",		"stock_unit":"A stock unit, used in rifle assembly.",		"shield_generator_personal_imperial_test":"A high-powered personal shield generator unit, used to reduce damage and increase the wearer's odds of surviving hostile encounters. It's a test prototype developed by the top scientists of the Empire.",		"shield_generator_personal_c":"A high-powered personal shield generator unit, used to reduce damage and increase the wearer's odds of surviving hostile encounters.",		"shield_generator_personal_b":"A medium-powered personal shield generator unit, used to reduce damage and increase the wearer's odds of surviving hostile encounters.",		"scope_weapon":"A weapon's scope can increase its accuracy, if used.",		"rocket_launcher":"An extremely destructive weapon, a rocket launcher is not meant to be used by those who are unknowledgeable with its intricacies.",		"rifle_victor_tusken":"The Lithitanium Rifle appears to be a direct copy of the Tusken Rifle, though built with an unknown metal component. It is light and well-balanced.",		"rifle_tusken":"A Tusken Raider's rifle.",		"rifle_tenloss_dxr6_disruptor":"Utilizing an oversized XCiter, the actuating blaster module can process a much greater volume of blaster gas, resulting in a devistating shot. 
+
+This weapon requires Rifleman Counter-Sniping II to use.",		"rifle_t21":"A T21 rifle.",		"rifle_spraystick":"A Spraystick rifle.",		"rifle_sg82":"A SG82 rifle.",		"rifle_quest_tusken":"The ancient long-rifle of a dreaded Tusken King who plagued the first settlers in Bestine for many cycles.",		"rifle_lightning":"Emits bursts of concentrated electrical energy.",		"rifle_laser_noob":"Laser rifles are designed for good damage at medium to long range.",		"rifle_laser":"Laser rifles are designed for good damage at medium to long range.",		"rifle_jawa_ion":"A Jawa Ionization rifle, these are generally cheaply made but are often effective at disabling droids and machinery.",		"rifle_flame_thrower":"Produces a stream of fire by igniting flammable liquid held under high pressure.",		"rifle_ewok_crossbow":"The primitive crossbow weapon is a stunning testament to Ewok ingenuity. Carefully constructed of endorian hardwood, the device features with a heavy resin-coated sinew that can shoot small, stone projectiles at lethal velocities.",		"rifle_e11":"An E11 rifle.",		"rifle_dlt20":"A DLT20 rifle.",		"rifle_cdef":"A CDEF rifle.",		"rifle_bowcaster":"The bowcaster is the traditional ranged weapon of Wookiees, and is quite powerful in the right hands.",		"rifle_berserker":"A slugthrower, mostly used by Imperial Special Tactical Forces.
+
+This weapon requires Rifle Abilities III to use.",		"rifle_beam":"Emits a searing energy beam.",		"rifle_acid_beam":"This weapon discharges lethal pulses of concentrated acid, and powerful streams of corrosive liquid.",		"projectile_rifle_barrel":"Projectile rifle barrels guide and direct projectiles that are propelled via a rifle's firing mechanism.",		"projectile_pistol_barrel":"Projectile pistol barrels guide and direct projectiles that are propelled via a pistol's firing mechanism.",		"projectile_feed_mechanism":"A projectile weapon's feed mechanism.",		"pistol_tangle":"A tangle pistol.",		"pistol_striker_noob":"A Striker pistol.",		"pistol_striker":"A Striker pistol.",		"pistol_srcombat":"A SR Combat pistol.",		"pistol_scout_blaster_corsec":"A Corsec-issued scout blaster pistol.",		"pistol_scout_blaster":"A Scout Blaster pistol.",		"pistol_scout":"A Scout pistol.",		"pistol_scatter":"Spreads blaster bolts over a wider area than standard pistols.",		"pistol_republic_blaster_quest":"The venerable Naboo Security Forces side-arm.
+
+This particular weapon has been fit with an inducer. The larger, faster energy bolt may cause bleeding in the target when hit.
+
+This weapon requires the Marksman skill Pistols 3 in order to wield it proficiently.",		"pistol_republic_blaster":"The venerable Naboo Security Forces side-arm.",		"pistol_power5":"A Power5 pistol.",		"pistol_launcher":"Fires a suite of small target-seeking rockets with explosive tips.",		"pistol_geonosian_sonic_blaster":"Emits a concentration of sonic energy within a plasma containment sphere.  On striking the target, the sphere is broken releasing an omnidirectional blast of sonic energy.
+
+This weapon requires Pistol Techniques II to use.",		"pistol_fwgs":"A FWGS pistol.",		"pistol_fwg5_quest":"A FWG5 pistol.
+
+This particular weapon has been crafted with ultra-lightweight materials. This provides the user with greater accuracy and mobility.
+
+",		"pistol_fwg5":"A FWG5 pistol.",		"pistol_fgws":"A FWGS pistol.",		"pistol_dx2":"A DX2 pistol.",		"pistol_dl44_metal":"A DL-44 pistol.",		"pistol_dl44":"A DL-44 pistol",		"pistol_dh17":"A DH17 pistol.",		"pistol_de_10":"The DE-10 pistol is used mainly by Death Watch soldiers.  Its blue bolts are common sights to their enemies, and its hefty weight gives it a feeling of being a formidable weapon in trained hands.
+
+This weapon requires Master Pistoleer for Certification.",		"pistol_d18":"A D18 pistol.",		"pistol_cdef_corsec":"A Corsec-issued CDEF pistol.",		"pistol_cdef":"A CDEF pistol.",		"pistol":"A small gun that can be fired with one hand, good for medium range combat.",		"mine_xg":"A XG mine can inflict heavy damage to unsuspecting enemies.",		"mine_drx":"A DRX mine can inflict heavy damage to unsuspecting enemies.",		"mine_a_v":"An anti-vehicular mine can cause intensely destructive damage to enemy vehicles.",		"metal_fasteners":"Metal fasteners used as snaps and buttons on clothing.",		"laser_rifle":"A laser rifle.",		"laser_magnetic_flashback_supressor":"A crescent-shaped device at the end of some laser barrels, a flashback suppressor is designed to prevent occasionally unstable laser beams from damaging the barrel.",		"laser_cannon_gun_tube":"A gun-tube for a laser cannon.",		"laser_cannon_cooling_sleve":"Laser cannons generate excessive heat while in use, and cooling sleeves are an important part of the sophisticated cooling system that is used to protect sensitive internal components.",		"laser_cannon_cooling_sleeve":"Laser cannons generate excessive heat while in use, and cooling sleeves are an important part of the sophisticated cooling system that is used to protect sensitive internal components.",		"lance_vibrolance":"A powered weapon that vibrates rapidly upon impact dramatically increasing the amount of damage delivered while minimizing the effort required by the wielder.",		"lance_vibro_axe":"A vibro axe is a mundane-looking weapon with an ultrasonic generator in the handle. The ultrasonics reverberate along the blade edge, granting the user greater cutting power with less effort. It is among the deadliest weapons in close combat. ",		"lance_staff_wood_s2":"An effective weapon crafted with a solid wooden shaft, flexible metallic core, durable iron surface, and crystalline balance tabs.",		"lance_staff_wood_s1":"An effective weapon crafted from a solid, yet slightly flexible piece of wood.",		"lance_staff_metal":"A carefully balanced long metal shaft capable of delivering a crushing blow.",		"lance_staff_janta":"A Janta staff.",		"lance_nightsister":"A Nightsister energy lance.
+
+This weapon required Advanced Polearm Stances to use.",		"lance_lightsaber_gen5":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold five crystals.
+
+A Modified Jedi weapon which has a second emitter matrix on the opposite end of the handgrip creating a double-blade. It consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the series of crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured. The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"lance_lightsaber_gen4":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold five crystals.
+
+A Modified Jedi weapon which has a second emitter matrix on the opposite end of the handgrip creating a double-blade. It consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the series of crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured. The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"lance_lightsaber_gen3":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold four crystals.
+
+A Modified Jedi weapon which has a second emitter matrix on the opposite end of the handgrip creating a double-blade. It consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the series of crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured. The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"lance_lightsaber_gen2":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold three crystals.
+
+A Modified Jedi weapon which has a second emitter matrix on the opposite end of the handgrip creating a double-blade. It consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the series of crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured. The only energy loss occurs when the blade strikes an object causing crystal decay.
+",		"lance_lightsaber_gen1":"This lightsaber will not power on without one color crystal inside.  This version of saber may hold two crystals.
+
+A Modified Jedi weapon which has a second emitter matrix on the opposite end of the handgrip creating a double-blade. It consists of a cylindrical handle in which sophisticated circuits channel a beam of light through a series of crystals.  These crystals modulate the blade's size and amplitude. When activated, internal power cells create photoelectric energy which is focused through the series of crystals.  The energy is formed into a tight, parallel beam of coherent packets. These packets are emitted through a positively-charged continuous energy lens which projects the packets away from the lightsaber. The packets are almost immediately attracted back to the lightsaber by a negatively-charged high-energy flux aperture, and then continually recycled to create the glowing blade. The packets are recycled by a superconductor back into the power cell for re-energizing. The entire process is completely contained. No heat is generated and no energy is lost, since the light in the blade is recaptured. The only energy loss occurs when the blade strikes an object causing crystal decay.
+
+",		"lance_lightsaber":"A two-bladed lightsaber. An elegant weapon from ancient times. Not as clumsy or random as a blaster.",		"lance_controllerfp_nightsister":"A Nightsister lance.",		"lance_controllerfp":"A FP lance controller.",		"lance_controller":"A lance controller.",		"knife_vibroblade_quest":"A standard dagger-looking weapon with an ultrasonic generator in the hilt. The ultrasonics reverberate along the blade edge, granting the user greater cutting power with less effort.
+
+This particular weapon has a serrated blade that may cause the target to bleed when struck.
+
+This weapon requires the Brawler skill One-Handed 2 in order to wield it proficiently.",		"knife_vibroblade":"A standard dagger-looking weapon with an ultrasonic generator in the hilt. The ultrasonics reverberate along the blade edge, granting the user greater cutting power with less effort.",		"knife_survival":"A survival knife is all substance, no style. Small, light, and capable of doing decent damage.",		"knife_stone":"A stone knife",		"knife_janta":"A Janta knife.",		"knife_donkuwah":"A Donkuwah stone knife.",		"knife_dagger":"A modern dagger, as much style as substance.",		"heavy_particle_beam":"Emits a deadly particle blast.",		"heavy_lightning_beam":"Produces a massive discharge of focused electrical energy.",		"heavy_acid_beam":"Projects a high-velocity stream of acid.",		"grenade_thermal_detonator":"Thermal detonators explosions unleash superheated plasma singeing anything nearby. To throw a grenade, click on it in your inventory and choose "throw".  Alternately, drag it into your toolbar, then use the corresponding toolbar key during combat to throw it. Grenades usually come in a stack.",		"grenade_proton":"Proton grenades create large explosions from a small nuclear device. To throw a grenade, click on it in your inventory and choose "throw".  Alternately, drag it into your toolbar, then use the corresponding toolbar key during combat to throw it. Grenades usually come in a stack.",		"grenade_imperial_detonator":"From time to time, Imperial Troops require a modest explosive weapon in their typical daily duties.  When such an explosive is required, the standard imperial detonator usually does the trick.",		"grenade_glop":"The glop grenade uses its relatively small explosive charge to disperse its deadly chemical payload in the area of the grenade upon detonation, immediately affecting those nearby. To throw a grenade, click on it in your inventory and choose "throw".  Alternately, drag it into your toolbar, then use the corresponding toolbar key during combat to throw it. Grenades usually come in a stack.",		"grenade_fragmentation_light":"The C12 Fragmentation Grenade is a variant of hand-thrown explosive charge which fills its immediate area with high-speed projectiles upon detonation. To throw the grenade, click on it in your inventory and choose "throw".  Alternately, drag it into your toolbar, then use the corresponding toolbar key during combat to throw it. Grenades usually come in a stack.",		"grenade_fragmentation":"The C22 Fragmentation Grenade, a more powerful version of the C12, is a variant of hand-thrown explosive charge which fills its immediate area with high-speed projectiles upon detonation. To throw the grenade, click on it in your inventory and choose "throw".  Alternately, drag it into your toolbar, then use the corresponding toolbar key during combat to throw it. Grenades usually come in a stack.",		"grenade_cryoban":"A vicious weapon that collects and freezes any moisture in an area so swiftly that the resulting violent explosion sends shards of ice flying in all directions. To throw a grenade, click on it in your inventory and choose "throw".  Alternately, drag it into your toolbar, then use the corresponding toolbar key during combat to throw it. Grenades usually come in a stack.",		"grenade_bug_bomb":"The Zicx-bug bomb is comprised of living "zicx" (native to the planet Tatooine) suspended in the mysterious digestive fluid of a Sarlacc. The weapon sports an explosive durasteel shrapnel casing and employs a firing mechanism common to the bulk of Imperial ordnance.",		"galven_tube_circuits":"These galven circuits help maintain a laser beam's cohesion over incredible distances.  These circuits are placed inside of a galven tube alongside galven coils, in line with the laser barrel.   Regular blasters generally have a more simplified version of this technology, compared to what is required for laser weaponry.",		"fwg5_pistol":"A FWG5 pistol.",		"enhanced_destructive_pulse_channeling":"This device is a component of some explosive devices that serves to improve the initial shock-wave propogation from a high-order detonation.",		"energization_crystals":"Energization crystals can greatly increase the effectiveness of laser and blaster weapons.",		"current_motivator":"A current motivator.",		"chemical_dispersion_mechanism":"This mechanism is responsible for a weapon's chemical dispersion.",		"cargo_pocket":"A cargo pocket component",		"carbine_nym_slugthrower":"A deadly slug-thrower carbine fashioned by the infamous pirate Nym. Special features include a liquid piston shock-absorbing stock assembly, and advanced heat dissipation system for greater firepower for longer bursts than most carbines.
+
+",		"carbine_laser":"A laser carbine is a medium-sized ranged weapon that deals out more damage than most laser pistols.",		"carbine_elite":"An Elite carbine.",		"carbine_ee3":"An EE3 carbine.",		"carbine_e11_victor_quest":"The Lithitanium Carbine seems to have been created with a rare metal. It is light and seems to be well-balanced.",		"carbine_e11_quest":"An E11 carbine.
+
+This particular weapon has been fit with an inducer. The larger, faster energy bolt may cause bleeding in the target when hit.
+
+This weapon requires the Marksman skill Carbine 2 in order to wield it proficiently.",		"carbine_e11":"An E11 carbine.",		"carbine_dxr6":"A DXR6 carbine.",		"carbine_dh17_snubnose":"A snub-nosed DH17 carbine.",		"carbine_dh17_black":"A polished black DH17 carbine.",		"carbine_dh17":"A DH17 carbine.",		"carbine_cdef_corsec":"A Corsec-issued CDEF carbine.",		"carbine_cdef":"A CDEF carbine.",		"capacitor_bank":"A capacitor bank",		"blaster_rifle_barrel":"An elongated metal tube that focuses and directs the energy from a blaster towards its intended target.",		"blaster_power_handler":"This helps to regulate a blaster's power output.",		"blaster_pistol_barrel":"A metal tube that focuses and directs the energy from a blaster towards its intended target.",		"blaster_pistol_barel":"A metal tube that focuses and directs the energy from a blaster towards its intended target.",		"blacksun_razor":"A razor knuckler favored by Black Sun thugs and assassins.  The polished steel blades and edges gleam when held in the light.",		"bestine_quest_sword":"A prized weapon of ages past. The weapon is well-worn which suggests that it has seen many battles and was created out of tough, black metal. On the handle, a small plate can be seen, inscribed with the name "Justicator".",		"baton_stun":"A short, powered club that can deliver a significant charge when it strikes a target.",		"baton_gaderiffi":"Commonly known as the gaffi stick, this is the traditional weapon of the Tusken Raiders of Tatooine.  These are crafted from scrap metal scavenged from wrecked or abandoned vehicles and machinery in the Tatooine wastes.",		"axe_vibro":"A vibro axe is a mundane-looking weapon with an ultrasonic generator in the handle. The ultrasonics reverberate along the blade edge, granting the user greater cutting power with less effort. It is among the deadliest weapons in close combat. ",		"axe_heavy_duty":"A large, sturdy combat axe that lacks the complexity of its modern vibro-weapon counterparts, yet remains a dangerous weapon.",		"ammo_projectile_entanglement":"Ammunition used in entanglement projectile weapons.",		"ammo_projectile":"Basic ammunition used in projectile weapons."
+}}

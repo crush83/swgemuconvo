@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_rebel_tier4_4_a",
+	"entries": {
+		"title_d":"In our campaign to prevent the new Imperial space station from ever being built in the Lok system, we have decided to attack some of their freighters with building materials.",		"title":"Endor system: Make sure the Imperial freighters never reach Lok.",		"split_quest_alert_fail":"",		"split_quest_alert":"Worvog Arkon < The Empire is counter-attacking! The good news is that our reinforcements are almost there! >",		"quest_update":"Worvog Arkon < %TO >",		"quest_target_t":"Imperial Freighter.",		"quest_target_d":"Your target of destruction is an Imperial Heavy Freighter. Although they are not dangerous they can withstand a lot of damage and it's sure to be heavily guarded.",		"quest_location_t":"Endor system.",		"quest_location_d":"For some reason the Imperial presence is heavy in the Endor system. To top it off their construction freighters are heavily guarded.",		"quest_escort_t":"Annihilate any trace of the fleet.",		"quest_escort_d":"You are ordered to annihilate that entire fleet, not just the freighter.",		"failed_escape":"They got away! Return to base, we are going to have to formulate a new plan.",		"escort_wiped_out":"Worvog Arkon: < Fantastic! Only one to go! >",		"escort_remaining":"Worvog Arkon: < Keep at it my friend, there's %DI ships remaining that need to be destroyed! >",		"destroy_escort":"Good work but I'm afraid that command wants that fleet annihilated!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Great job my friend! If nothing else, we have delayed any expansion ideas the Empire had in the Lok system.",		"arrival_phase_2":"We found them. Be careful though, we are picking up some strange ship signatures that we haven't encountered before.",		"arrival_phase_1":"We are tracking the Imperial freighters now, stand by.",		"Quest Log Data":"Text"
+}}

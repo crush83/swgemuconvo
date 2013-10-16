@@ -1,3 +1,5 @@
-[
-'1':'fort_tusken_completed',
-]
+{
+	"stfFile":"dungeon_strings",
+	"entries": {
+		"fort_tusken_completed":"Great Work! The Tusken Raiders have been vanquished. For now..."
+}}

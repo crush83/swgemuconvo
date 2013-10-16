@@ -1,8 +1,5 @@
-[
-'6':'leaving',
-'5':'groupchat',
-'4':'grouplist',
-'3':'joining',
-'2':'forming',
-'1':'grouping',
-]
+{
+	"stfFile":"kb/kb_group_n",
+	"entries": {
+		"leaving":"Leaving a Group",		"groupchat":"Group Chat",		"grouplist":"Group List",		"joining":"Joining a Group",		"forming":"Forming a Group",		"grouping":"Grouping"
+}}

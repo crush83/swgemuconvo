@@ -1,19 +1,5 @@
-[
-'18':'search',
-'17':'friendslist',
-'16':'matchmaking',
-'15':'findingfriends',
-'14':'moderating',
-'13':'channels',
-'12':'mail',
-'11':'tell',
-'10':'distant',
-'9':'socials',
-'8':'sayalts',
-'7':'moods',
-'6':'spatial',
-'5':'shortcuts',
-'4':'multichatboxes',
-'3':'chatbox',
-'1':'communication',
-]
+{
+	"stfFile":"kb/kb_communication_n",
+	"entries": {
+		"search":"Searching for Players",		"friendslist":"Using the Friends List",		"matchmaking":"Using Matchmaking",		"findingfriends":"Finding Friends",		"moderating":"Moderating a Chat Channel",		"channels":"Using Chat Channels",		"mail":"Using In-Game Mail",		"tell":"Using Tells",		"distant":"Distant Communication",		"socials":"Using Socials",		"sayalts":"Using Special Chat Bubbles",		"moods":"Using Moods",		"spatial":"Understanding Spatial Chat",		"shortcuts":"Chatbox Shortcuts",		"multichatboxes":"Using Multiple Chatboxes",		"chatbox":"Understanding Your Chatbox",		"communication":"Communication"
+}}

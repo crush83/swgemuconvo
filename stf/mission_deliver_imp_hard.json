@@ -1,7 +1,5 @@
-[
-'5':'deliver_imp_hard_2',
-'4':'deliver_imp_hard_3',
-'3':'deliver_imp_hard_4',
-'2':'deliver_imp_hard_1',
-'1':'deliver_imp_hard_5',
-]
+{
+	"stfFile":"mission_deliver_imp_hard",
+	"entries": {
+		"deliver_imp_hard_2":"An operative working directly under Lord Vader requires your assistance in transporting a vital package. Rebels may try to intercept you en route. Die before allowing the rebels to take the package or you will assuredly die afterward once Lord Vader finds out about your failure.",		"deliver_imp_hard_3":"To expose rebel sympathizers, the Emperor has allowed information to leak that you will be transporting a strategically vital package. This is a trap. The cargo your contact will give you is essentially worthless. Eliminate any rebels who try to intercept you. ",		"deliver_imp_hard_4":"The rebels are intending to steal valuable imperial cargo from one of our less protected subjects. The subject has been informed and is considered inconsequential. Take his cargo by the order of the Emperor and deliver it to a more secure location.",		"deliver_imp_hard_1":"The Emperor himself commands you to assist in the transportation of top-secret cargo. You will receive the item and further instructions upon meeting with your contact. Long live the Emperor.",		"deliver_imp_hard_5":"Members of the Hutt Cartel have been targeting Imperial citizens transporting goods across this planet. We need you to take over one of these deliveries and report any suspicious activities while en route. It is time we wiped the plague of unregulated crime from this system for good."
+}}

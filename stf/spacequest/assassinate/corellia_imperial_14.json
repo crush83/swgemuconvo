@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_14",
+	"entries": {
+		"title_d":"Black Epsilon has reports that a Rebel bomber squadron is traveling through the Corellian system. This bomber group is very dangerous to Imperial interests and must be eliminated. Track down the squadron, destroy their leader, and all that fly with him.",		"title":"Corellian System: Eliminate the Rebel Bomber Leader",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_target_t":"Kill the Rebel Bomber Leader",		"quest_target_d":"Intercept and destroy the Rebel bomber leader in the Corellian system. Without their flight leader the combat capabilities of the bomber squadrons in the system will be greatly diminished.",		"quest_location_t":"Travel to the Corellian System",		"quest_location_d":"Travel to the Corellian system and intercept the bomber squadron. Command will update you with their progress as they travel through the system.",		"quest_escort_t":"Destroy the Bomber Squadron",		"quest_escort_d":"Even without their leader, this squadron is still very dangerous and cannot be allowed to remain. You must also destroy all members of the squad.",		"failed_escape":"You let those bombers escape? Do you have any idea how much trouble they can cause unchecked! Return to your superior immediately.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Escort bombers eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort bombers remaining.>",		"destroy_escort":"You have taken out their squad leader but there are still several Y-wings left. Completely eliminate them.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Nice work, pilot. That is what being in Black Epsilon is all about. Return home and report to your superior officer",		"arrival_phase_2":"We have a lock on the squadron. Intercept and destroy immediately.",		"arrival_phase_1":"Scanning sector for current location of the rebel bomber squadron.",		"Quest Log Data":"Text"
+}}

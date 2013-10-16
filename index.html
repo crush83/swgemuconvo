@@ -81,9 +81,8 @@
 
         $(document).on("click", ".searchStf", function(e) {
             $.getJSON("stf/" + stfChooser.text().substring(0, stfChooser.text().length - 4) + ".json", function (data) {
-                console.log(data);
                 //Now we want to populate the #repository with the entries.
-                //conversationEditor.fillRepository(data);
+                conversationEditor.fillRepository(data);
             });
         });
         

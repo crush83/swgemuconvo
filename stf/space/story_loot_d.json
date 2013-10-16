@@ -1,44 +1,661 @@
-[
-'42':'systemmessage',
-'41':'template_d',
-'40':'loot_naboo_series_tinrilo',
-'39':'loot_tatooine_series_tinrilo',
-'38':'loot_endor_series_tinrilo',
-'37':'loot_endor_artisan2',
-'36':'loot_endor_artisan',
-'35':'loot_dantooine_warren',
-'34':'loot_dantooine_slave',
-'33':'loot_dantooine_scavengers3',
-'32':'loot_dantooine_scavengers2',
-'31':'loot_dantooine_scavengers',
-'30':'loot_dantooine_rebel2',
-'29':'loot_dantooine_rebel',
-'28':'loot_dantooine_mining2',
-'27':'loot_dantooine_mining',
-'26':'loot_dantooine_junk3',
-'25':'loot_dantooine_junk2',
-'24':'loot_dantooine_junk',
-'23':'loot_dantooine_imp2',
-'22':'loot_dantooine_imp',
-'21':'loot_dantooine_force',
-'20':'loot_dantooine_blacksun2',
-'19':'loot_dantooine_blacksun',
-'18':'loot_dantooine_anthro2',
-'17':'loot_dantooine_anthro',
-'16':'loot_naboo_rsf',
-'15':'loot_naboo_imperial',
-'14':'loot_naboo_miner',
-'13':'loot_naboo_droid',
-'12':'loot_naboo_borvo',
-'11':'loot_naboo_civspeeder',
-'10':'loot_tatooine_blacksun2',
-'9':'loot_all_freighter_2',
-'8':'loot_tatooine_valarian',
-'7':'loot_tatooine_rebel',
-'6':'loot_tatooine_mining',
-'5':'loot_tatooine_imp',
-'4':'loot_tatooine_hutt',
-'3':'loot_tatooine_blacksun',
-'2':'loot_tatooine_bestine_pirates',
-'1':'loot_all_freighter',
-]
+{
+	"stfFile":"space/story_loot_d",
+	"entries": {
+		"systemmessage":"You have received %DI credits.",		"template_d":"Used to store information.",		"loot_naboo_series_tinrilo":"[Translating.. ... ...]
+
+I've lived most my life on this green planet. Naboo is a calm, peaceful place. But it always hasn't been so. War struck the planet many years ago, before my time. I'm glad it's still here. I couldn't have picked a better place to spend my life. Perfect for one who would like to live out his or her days in solitude with a backdrop of indescribable beauty. My friend, Pisk, has left for Dathomir. We've decided to meet up at the cantina in Bestine after our explorations have been drawn to a close.  I'll have to trust him when he says he'll be safe. Hm.. bah! Onto the tour of Naboo, my home planet.
+
+104.923 - Dark Prophet and the Altar of Evil (-1636, 0, -4033)
+
+Hm.. silly title for a place emitting an unnatural evil. I approached the momument quietly, having seen the glimmer of a dark figure in the distance. A lone man, silhouetted by the birth of night, stood quietly, staring at the altar for quite some time. Despite my continuing approach, he did not even bother to notice me. I wondered what his story was, but didn't dare to ask. The eerie existence of the lifeless statues, the ever-burning flame casting a dance of light and shadow across the stone surfaces, never thwarted the beauty of the rolling hills and the happy fluttering of blue butterflies. Unfortunately, the unraveling of this place would have to wait. I don't think anyone would like to fight toe-to-toe with a dark prophet.
+
+089.244 - Lone Droideka (-630, 0, 3982)
+
+One of the many remnants to the Clone Wars. A fierce warrior, the droideka rolled into battle, popping up and emitting energy shields which helped aide them against the Gungan advancements. I'm surprised the droid hasn't been taken and is still here among the nature and the flowers of Naboo. Many here hold history sacred and it is why I love this planet so dearly. I wonder what this particular droideka saw in its lifetime? Now, it lays here, apart of the world and among other articles of discarded 'trash'. Nothing, in my mind, is trash.. it's all a part of history.
+
+101.561 - Ongoing Struggle (963, 261, -1346)
+
+The Galactic Civil War.. now, that's history for you. Throughout the galaxy, you'll find many pockets of strife pertaining to this ongoing phenomenon. On Naboo, I was able to find this one. I was amazed to find it still crawling with inhabitants and my suprise was what nearly gave me away to the Alliance. Another site I won't be able to readily explore. I'll try again later, I suppose. However, from my vantage point I could see many skulls peppering the landscape. It seemed to have been a brutal battle from what I could see. It was a brief visit nonethless, but a point of interest I'll visit again.
+
+My plan was to visit Rori next, but I think I'll stick to the main planets for now. I'll have to visit them at another date. My next destination is Corellia, home of the Alliance.
+
+Tinrilo "Adventi" x'Rilsam
+Explorer Extraordinaire",		"loot_tatooine_series_tinrilo":"[Translating .. ... ..]
+
+Ah.. my calling; to adventure. This log marks my first exploration, in a series of many, of the Tatooine planet. I'm here to find those little pieces of history we often forget and have left behind. Each moment of our lives leaves a footprint for others to follow, windows through which one can taste a piece of what we have experienced. Tatooine is rich with history and I'm here to uncover it. Dodging the common horrors of the planet, I hope to come out in one piece and with a little more information about the world around us. 
+
+But who really am I? I am Tinrilo "Adventi" x'Rilsam, self-proclaimed Explorer Extraordinaire. Of course, I was not always an explorer. I've recently retired from the Royal Security Forces on Naboo, having served in many battles, wars and grusome memories I'd like to forget. I'm old in age and in spirit, although moreso the latter; I've lived my life and I've seen great things. I've seen my children thrive, peace achieved. I'm an old veteran of life. Finally, I can turn my eye to my passion and dedicate the rest of my existence to it. History.. those fine threads of the past we often severe, delicate tunnels to the fading memories just beyond our reach. Bah! Enough of my ramblings. Let's see what we find today. Destination.. Tatooine!
+
+230.341 - Spy's Haven (5943, 180, -3828)
+
+Equipped with expensive computers and gadgets, I found what I'd like to call "Spy's Haven" while exploring the deserts in the south eastern area, near Mos Eisley. While approaching, I could see the jawa closing in, barely able to keep their tricky little hands to themselves as the computers went about their business. Obviously, the site was "fresh". I assumed it had only been abandoned for one, maybe two days. Even with my advanced slicing skills, the computers refused to release their information. I'm going to assume that members of the Alliance were stationed here before run off by the local wild life. On to more interesting subjects..
+
+456.076 - Mosor's Maze (-3043, 0, -5127)
+
+I nearly smacked into Mosor's Maze while trying to escape the local wildlife on my speeder. The bowcats are indeed a fickle, dangerous creature. I was able to duck into the mouth of the maze and hide while the bowcats past me by. Luckily, this trusty maze had been here when I needed it. I remember playing here as a kid, getting lost for hours. To rekindle the memories (history in of itself!), I decided to test it out myself. Unlike my childhood, I was able to get out of the maze easily. Ah, the memories.. Rumor tells us the story behind such a design of the imagination, although not a happy story at best. It is said Mosor came home from war and found his wife with his best officer, Polen. Previously, Polen had to be dismissed due to an "accident". Enraged, Mosor had the maze built as a momument to his promise of revenge. It was on the night of its completion that Mosor drugged his wife and her lover on Vasarian Brandy, dragging them to the maze in the whispering darkness of the night. He sealed them in thereafter, leaving them to die in the heat of Tatooine merciless gaze. The walls of the maze have since been brought down, but no corpses were found. Are the rumors true? Or was it just a tale our mothers told us to keep us out of there? I guess we'll never know.
+
+076.341 - Hero's Grave (-3675, 38, -1649)
+
+The Hero's Grave. I received the location from a friend of mine who also retired to persue history. Clues left by the keepers of this site tell us it is a grave, belonging to some of the first settlers of Tatooine. Small graves surround a center stone which we believe may house the remains of the leader. Much is unknown about this place.. Unfortunately, any evidence left from history, save from the small carvings in the rocks, has been stolen long ago and only tall stones remain as a testiment to their glory and achievements.
+
+For now, we leave Tatooine. I am headed to Naboo while my partner in history is traveling to Dathomir. I wish him well and safety.
+
+Tinrilo "Adventi" x'Rilsam
+Explorer Extraordinaire
+",		"loot_endor_series_tinrilo":"[Translating... ... ..]
+
+During my travels to, and on, the moon of Endor, I've run across some interesting areas. I plan to go back with a few of my friends and poke around. So far, I've found tidbits and clues to the stories surrounding these areas.  It's truly fascinating.
+
+098.456 - Crash Site (4746, 13, 2077)
+
+From the overgrown remains, I was able to recover a datadisk that happened to be in a undisturbed lockbox. What a lucky find, I thought! The disk was badly damaged from the crash, but I was able to extract a chunk of information from it with hours of effort. The crash site was of a starship, named 'the Jade Starunner', and belonged to a war hero, Vendi Kjleno. Unfortunately, I couldn't find enough information about the war hero, only that he was in the Battle of Yavin4. Attempting to escape from Imperial threat in the Endor System, the war hero couldn't shake the Imperial officer and met his doom, crashing on the lovely green moon. Sudden, heavy rainfall prevented me from spending anymore time at this particular site.
+
+076.290 - Imperial Survey Party (2663, 1, -4127)
+
+A difficult find, indeed. Hidden in a copse of dense trees, I found this particular site after falling down a steep hill, crashing face first into the small river below. Interestingly enough, this site seems fairly new. I can't imagine an assignment that would send Imperial officers to such an uncharted area. The minimal amount of damage indicates that the creatures responsible were small. (Ewoks?) I am unsure if the Gorax are in the area, but the damage would be far spread if it was, indeed, a Gorax responsible.
+
+045.709 - Solitary Hutt (-1795, 396, 6014)
+
+An evil looking place. Skulls of past victories litter this site, casting a haunting aura and providing a perfect place for the Korga to mingle. On Endor, I find myself crawling to the top of rocky hills just to see what might be beyond the ridge. Imagine my surprise when, on reaching the top of a particularly trecherous hill of loose rock, I am immeditely attacked by Korga. I barely left with my skin in tact. I was able, while fleeing for my life, to get a quick glance of the area. Again, this will be one of those sites I return to with a horde of friends.
+
+I'll continue to find interesting areas. Adventure is my life.
+
+Tinrilo "Adventi" x'Rilsam
+Explorer Extraordinaire
+",		"loot_endor_artisan2":"[Subject: Just keeping in touch..]
+
+Well, we had our annual Sabaac game a few days ago. It was a very fun time. We had a great turn out of ten folks and played all night, stuffing ourselves with Blap Biscuits, Etost'Ew Zann, Kanali Wafers and so much more! The drinks brought by Jkenkii were another highlight of the evening and ranged from Bantha Blasters to Vasarian Brandy. O'pianl went home with most of our credits as he won three out of five games. We're thinking about holding more games more often. Send in your opinions. Tell us what you think and if you'd be interested! Until next time!
+
+Ghendin Firequis",		"loot_endor_artisan":"[Shipment Catalog]
+
+567.098
+Name: Cimeron Starship 9
+Captain: Ningenta Starfighter
+
+Carrying: One (1) cargo box of hot pants.
+               One (1) cargo box of melons.
+               One (1) cargo box of bantha dolls.
+
+Destination: Endor, Tatooine, Corellia",		"loot_dantooine_warren":"[Report: Assassin Attacks]
+
+Just as we thought.. I've received several memos today regarding the Force Assassin attacks over the last few days. We have to be kept on alert. We've claimed this area for our experiments and research. Any signs left of their outpost has been cleared away.  It was quite the sight, I must say. The scavenger droids came out of no where and removed all the debris. We didn't have to do a thing. I wonder what they do with it all? Anyway.. keep your eyes open. Spare no one.
+
+\\Transmission Ended.\\",		"loot_dantooine_slave":"[Subject: Imperial Decree]
+
+This notification is to let you know that the "Empire", as we know and love them, has decreed our past time of slave trading "illegal". The council has agreed to follow this new "law" as it stands. However, before you all sigh with despair and lament becoming a loyal, law-abiding citizen, I'll have you know we've changed our "loot" to spice. Still illegal, still just as fun. And much more, shall we say, concealable. No doubt an Imperial Officer will stop you one of these days. Just in case that happens, we've stocked all starships with "fake" cargo. The cargo boxes have false compartments in which we can hide spice with the legal loot on top. Thanks to our crafty engineers, it works perfectly. These new cargo boxes have gone through rigorous testing to guarantee safe and effective illegal trading. On your next shift, come by the base to receive your new shipments.
+
+Happy spice trading to all!
+
+Antage Oran
+"The Boss"",		"loot_dantooine_scavengers3":"[Translating to Common.. ... ....]
+
+[Analysis]
+
+Subject: Rock Sample 657.980
+
+Kerol Firegem Crystalline Ore: 5%
+Stygium Amorphous Gemstone: 15%
+Amorphous Gemstone: 25%
+Siliclastic Ore: 45%
+
+Status: Unsuitable
+
+---
+
+Subject: Rock Sample
+
+Extrusive Ore: 34%
+Siliclastic Ore: 15%
+Kammris Iron: 51%
+
+Status: Suitable
+
+\\Target Acquired.. Sending notification.\\
+",		"loot_dantooine_scavengers2":"[Translating.. ... ...]
+[Subject: Trade Agreement: Nym]
+
+.. Alliance Agreement ..
+
+The undersigned proclaim alliance in which these requirements are imperative. If the following requirements and/or agreement are broken, the alliance will be null and void.
+
+Rights of Travel - None shall intrude upon each other's airpsace with intention of hostility. Any shots fired, accidentially or on purpose, in the undersigned's airspace will render the alliance null and void.
+
+Rights of Trade - Each establishment has the right to trade, or refuse trade, with the undersigned.
+
+Rights of Alliance - The undersigned have the right to render the alliance null and void at any time.
+
+Restrictions: The said alliance is not an entitlement to have an ally against enemies. The alliance describes trade situations only.
+
+Undersigned,
+
+X10-700 "Destroyer" 
+Detritus Satellites
+Area D-513
+056.397
+
+Vors d'Oesti
+Nym's Commander",		"loot_dantooine_scavengers":"[Translating.. ... ...]
+[Subject: Trade Agreement: Black Sun]
+
+.. Alliance Agreement ..
+
+The undersigned proclaim alliance in which these requirements are imperative. If the following requirements and/or agreement are broken, the alliance will be null and void.
+
+Rights of Travel - None shall intrude upon each other's airpsace with intention of hostility. Any shots fired, accidentially or on purpose, in the undersigned's airspace will render the alliance null and void.
+
+Rights of Trade - Each establishment has the right to trade, or refuse trade, with the undersigned.
+
+Rights of Alliance - The undersigned have the right to render the alliance null and void at any time.
+
+Restrictions: The said alliance is not an entitlement to have an ally against enemies. The alliance describes trade situations only.
+
+Undersigned,
+
+X10-700 "Destroyer" 
+Detritus Satellites
+Area D-513
+056.397
+
+Tvinii Blackrunn
+Black Sun",		"loot_dantooine_rebel2":"[Daily Log]
+
+This morning, I was notified that my assignment has changed. I'm suppose to report directly, and immediately, to a Brother Vrovel on the planet of Dantooine. I'm traveling there now. I've heard about this Brother Vrovel before and his gang, claiming to be of the Alliance. These "Vortex" people. Needless to say, they give me the creeps. I've heard that this 'Brother' character is a little bit of a nut. But I trust my superior's judgement. Supposedly, the "Vortex" are lacking experience pilots. I guess I'm one of the first to go. We'll see how this pans out. He's a little obsessed with the Dark Force thing, and these so-called "Imperial Insquisition". Something about a planet named Vortex, and a library of knowledge. Weird things have been happening recently. I really don't feel safe anymore. 
+
+Ahinu Ranz
+Rebel Pilot
+
+",		"loot_dantooine_rebel":"[Notice]
+
+Reporting Wit "Rill" Lloelt from Rebel Alliance..
+
+As we speak, our brethren are launching an attack on the Imperial forces surrounding our once-mighty station. Like festering parasites, the thugs of our Dantooine System are swarming around the carcass of our head quarters, feeding off the bits and pieces left behind after the blast. As we all know, many of our men were lost during this cowardly attack. We must fight back! We must show them that the Alliance will not be easily faultered. We must defend the sanctity, the memory, of our brethren. We must secure the station and bring it back to its glory. For the Alliance!
+
+Wit "Rill" Lloelt
+High Commander
+Rebel Alliance
+
+
+",		"loot_dantooine_mining2":"[Receipt from 'Fix it Up Starship Co.']
+
+Item                                                           
+----
+Cygnus Mark III Shields
+  * Action: OK
+  * Cost: 0 cr
+
+Koensayr Ion Accelerator 3
+  * Action/Status: OK
+  * Cost: 0 cr
+
+Corellian Enhanced Elite Plastisteel
+  * Action/Status: Cracked/Repaired
+  * Cost: 3000 cr
+
+Cygnus HD-5 Engines
+  * Action/Status: Leaking/Repaired
+  * Cost: 4500 cr
+
+MandalMotors DXR-3 Reactor
+  * Action/Status: OK
+  * Cost: 0 cr
+
+Koensayr Tuned Mark III Capacitor
+  * Action/Status: OK
+  * Cost: 0 cr
+
+
+Total: 7500 cr
+Status: PAID
+
+
+Thank you for choosing 'Fix it Up Starship Co.'! We appreciate your business!
+
+Signed,
+
+Ruw Ems
+Miner
+",		"loot_dantooine_mining":"[Customer Service Correspondence]
+
+Greetings Vas,
+
+I'm very sorry to hear of your misfortune regarding the 'Oaughe's Shipping' company and your run-ins with the Valarians. We know how the Valarians can be! We'll replace your 'Kuat Systems Engineering Custom LX-11 Reactor' free of cost. Just send us your receipt and we'll send it out immediately. Thank you for contacting Mig's Bits 'n' Parts!
+
+Eisu Taist
+Customer Service Rep
+Mig's Bits 'n' Parts
+
+-- Message --
+From: Oraka Deln
+To: Mig's Bits 'n' Parts
+
+This morning, I received my 'Kuat Systems Engineering Custom LX-11 Reactor' (Serial Number 1-0Gh5) from 'Oaughe's Shipping'. I was so excited to finally get it. I've been waiting for this model since I can remember. Well, imagine my distress when my new reactor blew while I was being chased by a Valarian thug! I was almost killed. 'Oaughe's Shipping' claims full responsibility. It seems the person piloting the delivery starship was.. drunk on brandy. I must say, I'll never use that shipping company again. The reactor is beyond repair. Please tell me you can help me with this.
+
+Sincerely,
+
+Vas Slis
+Miner
+
+",		"loot_dantooine_junk3":"[The memory disk is hot to the touch. You really did a number on that junk dealer. Maybe you should be a little nicer, huh? Popping the disk into the system's computer results in a whirling 'please wait, loading' sort of sound. Thinking.. can this computer be any slower? The computer finally spits out the information. It seems to be a daily log of some sort.]
+
+045.624
+Author: Angl Eoni
+Subject: Their doubts..
+
+As I suspected, they doubt me. They doubt the validity of my claim, the new strain of copper I found. Sure, I have tie-ins with the Hutts. So what? Sure, I steal from the guild. So what? Okay, so maybe they have reasons to doubt me. I don't necessarily have the best track record. But they don't know about the thefts.. do they? I really don't like being doubted. Hmm.. which reminds me, I have a meeting this evening with my Hutt contact. I have a few ideas up my sleeves. They really shouldn't doubt me. I hate being doubted. We'll have to see what the 'consequences' will be for them..
+
+Angl Eoni
+Junk Dealer",		"loot_dantooine_junk2":"[Private Message]
+
+Yiri, thank you for your concerns. We'll have to see what we can do about the situation. However, we have our doubts about any type of 'ploy' idea. Her finds have sky-rocketed our sales recently. Still, we've been hearing more and more rumors about this. We'll definitely look into the matter. Thank you again for your concerns.
+
+Iarda Ninn
+Chief Telecomminucator
+O.S.S. Guild
+
+'.. can't have too much junk in your life.' - C.C. Smayl
+
+
+-- Message --
+From: Ysere z'Ceq
+Sent: 098.451
+To: Iarda Ninn
+Subject: My concerns..
+
+What's with this new strain of copper I keep hearing about? I have my suspicions about this Angl Eoni character. She found it? Of all people? You know she has information ties with the Hutts! I really think this is some ploy they devised to rake in the credits. I still don't know. We should at least hire an investigator and find out what's really going on. Just my two credits.
+
+Yiri Osth
+Junk Dealer
+
+",		"loot_dantooine_junk":"[Information Holocast]
+
+I hope this holocast reaches everyone with hopes of good health and fortune to all. Thanks to Angl Eoni's discovery, we've made new friends with the Aii`tkian Anthropology Guild. As you know, a new strain of copper was found just last week during one of our visits to the Wall of Dantooine. The new strain of copper has been named 'Conductive Borcarbitic Copper'. The Aii`tkian Anthropology Guild, who's specialty is molecular study, is continuing their studies at this time. Due to our trade agreement with the famous Anthropology guiild, we should see a rise in our sales. We'll continue to extract samples of the copper during our daily trips to the Wall of Dantooine.
+
+This week, we've found some interesting objects. We'll disclose the information in this evening's meeting. If you have any concerns, or questions, feel free to contact me.
+
+Iarda Ninn
+Chief Holocomminucator
+O.S.S. Guild
+
+'.. can't have too much junk in your life.' - C.C. Smayl
+",		"loot_dantooine_imp2":"045.103
+
+Dear Diary,
+
+I had a pretty horrible day. I got demoted at the Imperial Navy today from Officer to Rookie (something about spice? whatever!). My wife left me. I was mugged today by Spice Fiends (what's with the spice these days?!) in Tatooine by the Bestine Starport. Then, I came home and read my mail. My house is being forclosed on and my vendors ran out of inventory during the week I was gone!
+
+Boy, I'm sure glad I saved 15% on my ship insurance by switching to 'McCheepii's Insurance'.
+
+I hope tomorrow is better.
+
+With love,
+
+Benni Vlinn
+Officer-turned-rookie",		"loot_dantooine_imp":".. Imperial Daily News ..
+
+Local News:
+
+[Thefts Continue]
+In the Dantoone System, locals say there are still acts of theft being committed within the Dantooine System. 'We're trying to clean the mess up as soon as possible', Major Jen Kynlaz says. 'It's unfortunate that the locals have to bring themselves this low'. Even still, scavengers can be seen stealing the various parts from the destroyed Rebel Base in the system. Officials say they're going to put a stop to this as soon as possible. But will they be able to?
+
+[Officials Still Suspicious]
+Officials are said to be suspicious of the local slade trader's sect, the Zel'iphian Slave Traders Guild, of trading slaves even though the Empire officially stated their trades 'illegal'. 'Our sources are still investigating the issue', Officer Vghand of the Imperial Navy says. 'They won't be able to get away with it for too long.' The Zel'iphian Slave Traders still deny any claim to trading slaves.
+
+[New Strain of Copper Found]
+The Aii`tkian Anthropologists in Area D-502 have found a new strain of copper thanks to the O.S.S. "Junk Dealers" Guild. The scientists believe the new copper will be used effectively for starship shields and various parts. Local shipwrights tell us its the answer to their hopes and dreams. 'It has a large range of quality,' says a local shipwright, Tenna Ghii'anna, 'and has a lot of attributes. We'll have to see how it works with our schematics. I'm hopeful, though.' Scientists will continue their experiments.
+
+[Imperial Navy Continues to Recruit]
+New recruits flood our systems by the day. Officials say, however, that they fear the Rebel Alliance has caught on to their brilliant idea. 'We had hoped to bring in new recruits to the Imperial Navy,' says Recruiting Officer Limna Renence, 'but we fear that the Rebels have followed our idea. Now, we have to compete for new recruits.' Locals say the more 'neutral' factions of the galaxy have started to recruit as well. Will space be overcrowded?
+
+[Rodian Makes Off With Spice]
+Local rodian, Cien Wenzz, was seen last night looting a freighter filled with spice. Locals say he disabled the freighter, docked with it and stole all the spice it was carrying to Dantooine. If you've seen him, please contact the Imperial Navy. Cien is said to have emerald skin, pink eyes, and is of medium build. Keep an eye out for Cien Wenzz.
+
+Next issue of Imperial Daily News discusses.. 
+
+- News: What's in store for Endor?
+- Tips: Keeping your Stormtrooper armor looking new and polished
+- Local: Best place to get TIE repairs
+
+And more!! Subcribe today!",		"loot_dantooine_force":"[The computer almost chokes as the data disk is fed into the receiving mechanism. Time to get a new computer?]
+
+Receiving.. .. ......
+
+[Translating Aurebesh]
+
+Receiving .. .. ......
+
+(Writ of Execution)
+
+Target: Any Member of the Warrens Assault Squad
+
+It is our duty to destroy the Warrens Assault Squad. Our assassins are handling the fools that still thrive on the ground even as we speak. They are parasites that must be eliminated. Their actions against us cannot be ignored nor tolerated. We will take possession of our base once more and eradicate any sign of the Warrens Assault Squad. We will become victorious!
+
+In victory,
+
+Nvon FlameStalker 
+Force Tyrant",		"loot_dantooine_blacksun2":"045.671
+
+Ah, the 'Detritus Satellites'. A peculiar "collection" of droids, if you will. The rumors have been proven true. We, the Black Sun, have formed an alliance with these little maggots. Amusing, if you ask me. What could we, the mighty Black Sun, possibly want from them? It must have something to do with their little mockup of an "outpost". It seems these little sentient bits n' bolts have a way with electrical currents, harnessing their power to aid their technology with weapons systems. All I could want with them and their technology is to see how much of an explosion they would cause under the heat of my fire. But alas the "Alliance" will not allow it. Pity. Perhaps I'll be able to pick off a few "under the radar". As soon as the alliance ends, my Black Sun friends and I are going to have a lesson in targeting practice.
+
+For the Black Sun,
+
+A'kiian "Maleficus" Bloodlight
+Black Sun",		"loot_dantooine_blacksun":".. Alliance Agreement ..
+
+The undersigned proclaim alliance in which these requirements are imperative. If the following requirements and/or agreement are broken, the alliance will be null and void.
+
+Rights of Travel - None shall intrude upon each other's airpsace with intention of hostility. Any shots fired, accidentially or on purpose, in the undersigned's airspace will render the alliance null and void.
+
+Rights of Trade - Each establishment has the right to trade, or refuse trade, with the undersigned.
+
+Rights of Alliance - The undersigned have the right to render the alliance null and void at any time.
+
+Restrictions: The said alliance is not an entitlement to have an ally against enemies. The alliance describes trade situations only.
+
+Undersigned,
+
+X10-700 "Destroyer" 
+Detritus Satellites
+Area D-513
+056.397
+
+Tvinii Blackrunn
+Black Sun",		"loot_dantooine_anthro2":"[New Copper Strain Experiments]
+
+Subject: Conductive Borcarbitic Copper
+Test 1: Ion Cannon
+Description: We were able to effectively extract more samples of the Conductive Borcarbitic Copper from the Wall of Dantooine asteroids. The asteroid field is rich with this new strain of copper. The samples were melted down to produce a ball of copper with which we were able to conduct several tests on. In fact, even the melting process of the samples was able to give us an idea of how powerful this new copper could be. It was able to resist high temperatures of heat. We think the copper could be used as a great component for creating shields for a starship. See following tests for more information on attributes.
+
+Subject: Conductive Borcarbitic Copper
+Test 2: Blaster
+Description: On our second run, we extracted another sample from the asteroids of the Wall of Dantooine. Again, we melted the samples to produce a lump at which we could fire with a normal blaster. Odd occurrence, however, as the copper easily melted this time whereas before it took several hours to produce a lump on which we could conduct our tests. It seems Conductive Borcarbitic Copper has a large range in the resource quality spectrum. We're going to continue our experiments.
+
+* Note: I've gathered notes from various scientists regarding our new copper. They were each given a sample on which to conduct their own private tests. Our tests were tried in a safe environment with heavy weapons and a large staff of our trusted scientists.
+
+Attribute 1: Cold Resistance
+Attribute 2: Toughness
+Attribute 2: Heat Resistance
+
+** Note: Of course, these are not all the attributes associated with the Conductive Borcarbitic Copper. There could be more. The attributes numbers, again, seem to range greatly from sample to sample. We'll continue our tests.
+
+*** Note: Because our team is fluent in the molecular level of anthropology, we will continue to experiment with this new strain of copper until we get some scientists familiar with resources on our site.
+
+
+Signed,
+
+Dr. Kynas
+
+Aii`tkian Anthropologists
+Molecular Team
+Area D-502",		"loot_dantooine_anthro":"[Daily Log] 
+
+Dr. Y'tinv
+023.768
+Area D-502
+Aii'tkian Anthropology Guild
+
+Today, we were given a new assignment from our professor, Dr. Kynas. It was a different assignment than we were used to. Because my team and I are fluent in the knowledge of molecular anthropology, we were assigned to examine a new strain of copper that we're now calling 'Conductive Borcarbitic Copper'. At this time, we're trying to discover its origin. One of the members of the O.S.S. Guild of Area D-502 found a particularly odd artifact with the molecules of this particular copper attached to it. It's truly fascinating. The O.S.S. Guild of Area D-502 (they actually like to be called just plain "Junk Dealers") found the artifact in the Wall of Dantooine, fused, or half melted, to an asteroid. There could be more of this Conductive Borcarbitic Copper out there, but the "Junk Dealers" only care about the artifacts. With an alliance, both of our establishments could receive what they hope to find from the Wall of Dantooine. We'll see how it goes. In the meantime, we'll continue to study the new strain of copper. So far it seems resistant to our Ion laser tests. See future correspondence about these particular tests.
+
+
+",		"loot_naboo_rsf":"[Receiving... .. .. Translating Rodian into Common]
+
+\\ Patrol Report //
+
+Another day, another patrol. But, suprisingly, this old patrol route proved to be different today. You see, you'll often find me reading a book while on my patrol. It's easy. Just set the controls to Auto-Pilot and look up from your book a few times. Reading.. yeah, that gets old after awhile. During my trip to Tatooine, I bought this nifty gadget from the local jawa trader. It scans frequencies and transmits the data to your computer. Today, I received the following transmission from my trusty gadget:
+
+--
+
+** Emer..ency Re..t **
+
+Name: Captain Silv...e
+Pr...ty: H..h
+Type: Unkno.... F..ying St..hip
+
+\\COM..TION APPR..D BY THE IMP..L N..Y\\
+
+Attention!! This is Captain Silverline, Imperial Authoritarian of the Emperor's Navy.  While patrolling Area D-512, we spotted a group of unidentified flying starships. *static* I lost most of...lligans! We've ado.. code name f...tarships: Penumbra Omen. Avoid the..osts, my friends. The leade...lled Penumbra Omen only bri...e "OT-Violator". Their stars...utt smuggler's starcraft, althoug...utt would be flying any of those ships, at least.. not lik...lmost seemed.. mechanical. Still, it is imper....ditionally, we've re..rant IV Area D-512 to the "Penumbra Omen Quadrant" to further wa...uits. [Transmission Ends]
+
+--
+
+Hmm.. that didn't work as well as I had thought. Oh well. I'm almost tempted to take this gadget back to the jawa I bought it from. But then again, these Penumbra Omen folks... they sound pretty interesting. Quadrant "Penumbra Omen", huh? Might want to check it out.
+
+Over and out,
+
+Fghai'g Windrunner
+Royal Security Forces
+
+
+
+
+",		"loot_naboo_imperial":"** Emergency Report **
+
+Name: Captain Silverline
+Priority: High
+Type: Unknown Flying Starship
+
+\\COMMUNICATION APPROVED BY THE IMPERIAL NAVY\\
+
+Attention!! This is Captain Silverline, Imperial Authoritarian of the Emperor's Navy.  While patrolling Area D-512, we spotted a group of unidentified flying starships. They only spat out threats in response to our friendly hails which resulted in hostile, open fire directed toward us. I lost most of my men to these.. holligans! We've adopted a code name for these starships: Penumbra Omen. Avoid them at all costs, my friends. The leader of the so-called Penumbra Omen only briefly identified itself as the "OT-Violator". Their starships seem to be like that of a Hutt smuggler's starcraft, although I certainly doubt any Hutt would be flying any of those ships, at least.. not like that. Their personality almost seemed.. mechanical. Still, it is imperative that we avoid these things before we learn more about them. Additionally, we've renamed Quadrant IV Area D-512 to the "Penumbra Omen Quadrant" to further warn our new recruits.
+
+That's all we have to report for now.
+
+Captain Silverline
+Imperial Authoritarian
+Imperial Navy",		"loot_naboo_miner":"\\Extraction Report
+
+Number of Transports: 6
+
+Below is the item number of the resource delivered, the name of the captain and squad and time for your conveinence. Please let me know if this is what you're expecting. Due to the hightened number of attacks on our miners and demand of resources, we're experiencing some problems with performance. We need to hire more miners. And those damn Royal Forces need to do their job! Although, now that I think of it, they might be pressed as well. Too many thugs to keep in line.
+
+045.178 Shipment of Doonium Iron - Serial Number 45321 delivered by: Captin Klaihd of Miner's Guild, Area G-79L
+045.260 Shipment of Linksteel Aluminum - Serial Number 78912 delivered by: Lieutenant Hykal Mi'na of Area TY-79
+045.345 Shipment of Amorphous Gemstone - Serial Number 125 delivered by: Ty'nia Sunchaser of IronFleck Marauder Miner's Guild
+045.400 Shipment of Muon Gold - Serial Number (Unknown) delivered by: Kven Y'lon of Hutt Syndicate ***
+045.540 Shipment of Lommite Carbonate Ore - Serial Number 450 delivered by: IronFleck Marauder Miner's Guild
+045.600 Shipment of Bronzium Iron - Serial Number 57965 delivered by: Cczinace Coldstar, Area DF-567
+
+*** Note: One of the more odd occurrences today. Where did this guy come from? It was quite an amusing conversation actually. Appearantly, Kven Y'lon, as he called himself, accidentially mistook our mining outpost for a Hutt drop-off spot. It's been too hectic lately and I really didn't feel like alerting the Imperial Navy or doing the extensive amount paperwork needed to report the crime. I let him go. Kven left in a hurry, but left some spice with us. A quiet thanks, maybe? Oh well. By the way, the spice is missing now. I wonder where it could have gone?
+
+
+Penace Coldflame
+
+Chief Administrative Assistant
+IronFleck Marauder Miner's Guild
+",		"loot_naboo_droid":"[It's fairly difficult to make out the contents of this datadisk, its information appears to be encrypted. The computer makes a disgruntled *beep* as the disk is popped into it. It takes a considerably long moment for the computer to do anything. What's wrong with this thing? Piece of junk! No, pounding on it won't do any good. Ah, finally. The computer springs to life, spewing out the brief holocomm image of a 4-LOM droid. The image quickly disappears and the computer mumbles an incoherent string of what one might think is a communication of some sort. The words that can be made out, however, have been translated by the computer, although somewhat poorly.]
+
+//Royal Security Forces... *static* new recruits...
+//Our resources.. *incoherent language* must defend..
+//4-LOM.. *incoherent* assassin model..
+//New recruits... *long string of babble*
+//Destroy them all..
+
+//Transmission Ends.",		"loot_naboo_borvo":"\\Inventory Report\\
+
+\\Target: Civilian Trade Route (Code Name: Inte'kepta Way)
+\\Activity: Civilian Speeders, Freighters, Royal Security Forces
+
+** Notes: Just another day on the Inte'kepta Way. The Royal Security Forces seem to be more.. forceful lately. Unfortunately, Squad 56-TY was unable to successfully "secure" any freighters or civilian speeders today. It seems the Forces have hired new recruits. They're fresh and bright-eyed. Obviously, they haven't had their high spirits crushed yet. We'll see how excited they are to fly after we, Borvo's thugs, have taken a few of them out.
+
+\\Inventory: None (See note above)
+
+Bven Ji'ontha
+Squad 56-TY Leader",		"loot_naboo_civspeeder":"-- Data Entry 045.937 --
+
+I'm unnerved. It seems that the infamous trade route, called the Inte'kepta Way, that I travel on frequently has become deathly quiet. I can almost predict the second I'm usually attacked by a wandering Hutt thug or Black Sun fiend. But not today. I wonder if it has to do with the Empire's new recruits. They seem to be cleaning up things lately. Or is it that the Empire is actually doing their job, protecting this trade route? I'm not sure. Anyway..
+
+Today, I'm traveling to Rori. I'm visiting my sister for her birthday. She should be pretty excited. She hasn't seen me in a few years. With all this getting attacked, I haven't had much time to do anything else than fleeing with my life. I'm still keeping my guard up. Just in case. Until then..
+
+Nik'ta Tylaina
+Artisan of Naboo",		"loot_tatooine_blacksun2":"- Dancer's Woe: A Sorrowful Story -
+
+I just got the news from my sister, who is a wonderful dancer by the way, that the "Black Sun" aren't a dancing squad at all. I can't believe my brother would play such a horrible trick on me. I'm so going to get my revenge on him. Oh, I know! Have an image designer completely change his look while he sleeps! Oh, that's real good. Or I can tell the Imperial officer in our neighborhood that he has contraband in his room. That'll get him! Still, the sweet song of revenge doesn't help my plight. How do I tell these Black Sun thugs that I'm merely a dancer, hoping to find a dance troupe to travel with? I mean, how would they understand? They hurt people and stuff! Ugh, that brother of mine.. Going to have to figure a way out of this one. I'll keep you updated, diary. Until next time!
+
+Dancer Vee'anna",		"loot_all_freighter_2":"[The memory disk makes a low humming sound as it's processed into the computer. In an instant, a holocomm image materializes and depicts a group of young star pilots, laughing and obviously excited about something. The voices start out as static, then mold into a coherent conversation:]
+
+Young Pilot 1 (male): How do I work this thing?
+Young Pilot 2 (male): Let me see that!
+Young Pilot 3 (female): Kual, you couldn't work that thing if your life depended on it!
+
+(all laugh)
+
+Kual: I think it's working now. Serranna, John, come here!
+John: Good work, man! (pats Kual on the back)
+Serranna: (fluffs her hair and clears her throat)
+Kual: Hello out there! We're the--
+Serranna: Are we recording already?!
+Kual: Yes, pay attention. (ahem) We're the crew of the Kl-708, Trade Guild Freighter.
+Serranna: Indeed, we are! (takes the holocron from Kual) John, what are we transporting today?
+John: Well, Serranna, we have on board.. (turns to rummage around in the boxes at his feet) this lovely painting, a rug and some.. what's this? Could it be? Vasarian Brandy! Oh, this is good stuff.
+Kual: Guys! Would you stop clowning around with that stuff! Give me the holocron!
+
+(Serranna and John giggle as they break open the bottle of Vasarian Brandy)
+
+Kual: Do you see what I go through? (speaking to the listener of the holocomm)
+Serranna: Oh stop! You know you want some. It makes our long journey to Dantooine that much easier.
+John: Agreed!
+Kual: I guess. I am a little paranoid and grumpy.
+(John takes the holocron away from Kual and mumbles to it)
+John: Shh. Don't tell anyone we're drinking this brandy!
+Serranna: What're we going to do when we get to Dantooine?
+Kual: See the sights, of course! I've never been there.
+John: Me either. Ah well. (turns to the holocron) This is the crew aboard the KL-708 Trade Guild Freighter, signing out.
+
+\\Transmission ends and the holocomm image disappears.",		"loot_tatooine_valarian":"- Mining -
+
+A New Recruit's Guide to Mining
+
+Welcome to the wonderful world of mining! It's a road that leads to adventure and bountiful loot for both your Trade Guild and yourself! Below are some topics you might find useful.
+
+- How To Mine: In 1, 2, 3 steps!
+- Space Slugs! Oh no! What to do in a Space Slug Emergency
+- Attacked? Maneuvers you might find useful
+- "Eject" is your friend
+- Don't steal your guild's loot! How to Avoid Temptation..",		"loot_tatooine_rebel":"-- Daily Log --
+
+Ahh, I've finally been released and authorized to fly again. My last run-in with the Empire left me in terrible shape. I was able to eject from my starship. It was unfortunately left in ruins. I was happy to hear, however, that my next assignment was to report under Major Eker. He's leading the rescue in the Yavin4 System, helping our Alliance brethren out of the treacherous system and away from the Empire's reach. I hope I can get to Yavin4 without incident. It would be nice to return to the thing I love most; trying my wings in space.
+
+Here's to the Alliance!
+
+Signed,
+
+Slia "Pebbles" Jacinth
+Rookie Pilot",		"loot_tatooine_mining":"-- Report from the Frontier Mining Co. --
+
+Reporting Officer: Karrik Vin'tular
+Report 1: Inventory
+Report 2: Activity
+
+* Inventory *
+
+The following is a list of cargo I have authorized to be shipped to various destinations.
+
+056.670 - 5 Shipments of Extrusive Ore (Destination: Tatooine)
+056.770 - 10 Shipments of Duralumin Aluminum (Destination: Talus)
+056.810 - 20 Shipments of Fermionic Siliclastic Ore (Destination: Corellia)
+056.890 - 14 Shipments of Kerol Firegem Crystalline Ore (Destination: Tatooine)
+056.910 - 50 Shipments of Kammris Iron (Destination: Yavin4)
+056.1020 - 25 Shipments of Polymetric Radioactive (Destination: Dantooine)
+
+* Activity *
+
+The area seems to be quiet. However, I have seen an influx of starships, belonging to the unheard of "Smuggler's Alliance", the Rebel Alliance and the Empire. Some sort of recruitment? We're usually attacked. But I think I've heard about a new shipment of paintings and rugs coming from the Trade Guild's freighters. I hear items are pretty rare finds. I've been meaning to investigate, but haven't had the time. We're getting huge orders for more resources and our miners are forced to work overtime. Seems several new folks have started their careers as Shipwrights. It's definitely a good deal for us. The more orders, the more money we can get for upgrades and better security. That's all I have to report for today.
+
+Signed,
+
+Karrik Vin'tular
+Frontier Mining Co.",		"loot_tatooine_imp":"** Notice to all Personnel
+
+I'm sure you've all heard the rumors. Yes, we're finally opening our ranks to new recruits. Many species from all walks of life, from the worthless peasant to the weathered combatant, have flocked to our recruiters in hopes of starting a new life with the Empire. Some of you may have to teach them the ropes. Try to overlook what you usually wouldn't tolerate. They're learning. If they accidentially shoot your TIE, just remember it can all be repaired. 
+
+As for other news, I have a feeling the Rebels have followed our glorious steps and have started recruiting as well. Keep an eye out for suspicious activity. 
+
+New Opportunities: Be a role model for a new recruit today! Visit your local recruiting officer to sign up to be a mentor. You'll definitely get incentives for serving the Empire in this way.
+
+For the Empire,
+
+Wen Farhope
+Sergeant of the Empire",		"loot_tatooine_hutt":"-- Log --
+
+Name: Ninure Lou'ina
+Assignment: "Smuggler"
+
+098.760 Got the assignment sent to me from my boss. I hate being interrupted while harassing freighters.
+098.790 I'm at the location where I'm suppose to meet this "smuggler". The boss probably wants more spice. I don't doubt he's addicted to what he's been selling. Disgrace.
+098.820 No smuggler. Still waiting. I could be getting priceless paintings from freighters if it weren't for this "assignment".
+098.850 Finally. The Smuggler arrived, claiming he was late because of a run-in with the Empire new recruit pilots. Whatever.
+098.920 I docked my ship to take a look what was in the shipment, to see what I've been wasting my time on. Looks like ship parts to me. How boring.
+098.950 Going to the boss. I think another Hutt buddy was laughing at me. I always get stuck doing stupid assignments.
+098.1025 I'm under attack! Trying to see who's attacking me. I can't shake them off! Pretty good at flying, I see. Computer identifying the attacker. It's a...
+
+\\Transmission ended.",		"loot_tatooine_blacksun":"-- Area G-12 Report --
+
+Enemies Vanquished: 10 (5 Imperials, 2 Rebels, 2 Smugglers, 1 Black Sun)
+
+* Note: I'm getting a little worried for our squad here in area G-12. There seems to be a huge amount of recruits coming from the Empire. We've only seen a few from the Rebels, but we think there will be more. Also, we've shot down a few claiming to be from the "Smuggler's Alliance", whatever that is.  We'll definitely keep en eye out few these new recruits. They don't seem to be very good.. yet.
+
+** Note: I have no idea how one of our own was shot down by another Black Sun. I'm pretty sure it was SunCat. She's hated Vinstrosa since the day she met her. Vinstrosa hasn't reported in for several hours. I'm going to fear for the worst. We'll have to dicuss what we're going to do with SunCat. She's pretty cocky and the fact that she actually reported killing another Black Sun, makes me wonder. Of course, she said it was an "accident". I don't think anyone believes her..
+
+*** Update: Make sure to send a message to me if you plan on going to the freighter raid in a few days. We've got word that the freighters have received new shipments. We're pretty excited. If you don't tell me you're coming, you can't go. Send me a notice soon.
+
+Sincerely,
+
+Akon Sunchaser
+Black Sun Ace Officer",		"loot_tatooine_bestine_pirates":"** Warning! **
+
+We just got a warnin' from one o'our leaders that teh Imperials, Rebels, an' Neutral pilot guilds hav' been recruitin' new members. What does this mean fer us? More loot!! Be on teh look out fer untrained pilots. They should be easy pickin's fer us. We're bettin' them ships parts are worth a penny to those worthless jawas too. If yeh shoot alot of them new pilots, keep a point count. We'll see who gets teh most points! Here's the tally system we're gonna use:
+
+Imps - 15 points
+Rebs - 10 points ('cause they're kinda wimpy)
+Neuts - 10 (they kinda wimpy too)
+
+Oh, and, Vsin "Cannon" Starbomber, don't cheat. This is a fair, honest game 'tween fellow pirates. And if yeh use missles, it be 2 points off yer score. Gotta gim 'em a chance, right? HA HA!!
+
+Happy huntin',
+
+Po "Big Guns" Mc'annon
+Second in Charge
+",		"loot_all_freighter":"-- Inventory Report --
+
+"Nebula Orchid" - Painting
+
+An artistic approach to depict the delicacy of the rare Nebula Orchid. Painted by B'lina Ko'aka. Due to the limited number of these paintings created, it is the constant target of many thefts. The serial number for this particular painting is 103/3000.
+
+"High Commander T'lnia" - Painting
+
+A highly-praised painting of the High Commander T'lnia of the CorSec Security Force. The pictorialization was created to commemorate the passing of this great leader in the Battle of Yavin4. Only a few of these paintings had been created before the Empire labeled the design, and ideal, "illegal". The serial number for this artwork is 2/35.
+
+"Lady T'lnia" - Painting
+
+The second of the series "The T'lnia Family". Wife to the High Commander T'lnia, the Lady T'lnia fought by her lover's side in the Battle of Yavin4. Legend says the Lady T'lnia was a part of the Jedi Order, schooling young force-sensitive children how to harness their power to defeat the forces of evil. Again, the Empire deemed this particular painting "illegal" immediately after its first debut. The serial number for this painting is 5/40.
+
+"Generic Advertisment" - Painting
+
+A painting depicting a common space scene, with a station orbiting a planet. This painting is used as a generic "welcome" to all who visit. It can be found in cantinas, more commonly. There seems to be no serial number.
+
+"Transport Ship" - Painting
+
+Used for teaching engineers, this painting is often hung in the worker's stations, providing a detailed representation of a Transport Ship. No serial number is attached to this painting.
+
+"Fighter Pilot" - Painting
+
+"A dedication to all the proud fighter pilots in our galaxy" is inscribed on the frame of the painting. The serial number is 2163/10000.
+
+"Red-Thread" rug - Rug
+
+Made from dyed bantha hair, this rug is praised for its craftsmanship and is used to characterize many a home. We currently have twelve of these rugs in our cargo. They seem to be quite popular.
+
+"Soft Fiber" rug - Rug
+
+Incredibly soft to the touch, this rug comes in a rustic color. Only the more wealthy folk seem to be able to afford this rug as it is very rare and takes many years to complete. The rug has been hand-woven.
+
+
+\\\Authorization to Travel: DENIED BY IMPERIAL LAW!
+\\\Authorization to Travel: Approved by Trade Guild
+
+** Note: To continue trading "illegal" goods, you'll probably want to avoid all Imperial influence. You could be arrested. Again, if you travel with illegal goods, you're taking a risk and could be arrested.
+
+Signed,
+
+X'iak Sinae 
+
+Trade Guild Commissioner"
+}}

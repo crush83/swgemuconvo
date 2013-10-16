@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/c_sink_reb_space",
+	"entries": {
+		"title_d":"Travel to the Corellia system, hunt down, and destroy five Hidden Dagger Leaders. You will receive navigational points of common Hidden Dagger activity. When you complete this mission, return to Acun Solari in Tyrena on Corellia.",		"title":"Corellia System: Seek and Destroy 5 Hidden Dagger Leaders.",		"split_quest_alert_fail":"",		"split_quest_alert":"You should not let them get the better of you.  Go back out there do your duty!",		"quest_location_t":"Travel to the Corellia System",		"quest_location_d":"The Hidden Daggers tend to hunt in the Corellia system.  Go there to kill their leaders.",		"quest_destroy_t":"Destroy 5 Hidden Dagger Leaders",		"quest_destroy_d":"In an effort to cripple the Hidden Daggers, destroy five of their Leaders.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

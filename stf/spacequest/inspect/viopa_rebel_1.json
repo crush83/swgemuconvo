@@ -1,18 +1,5 @@
-[
-'16':'title_d',
-'15':'title',
-'14':'split_quest_alert_fail',
-'13':'split_quest_alert',
-'12':'quest_update',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/viopa_rebel_1",
+	"entries": {
+		"title_d":"Nym pirates have found a stranded Imperial "Lambda" shuttle. You're ordered to travel to it and hack its on board computer and see if there's any useful information in it.",		"title":"Lok system: Steal Imperial information.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < Scan show multiple incoming TIE fighters! Get rid of them fast and then get out of there! >",		"quest_update":"Rebel Command: < %TO >",		"quest_location_t":"Lok system.",		"quest_location_d":"The area of the Lok system that the stranded shuttle is in should be relatively safe from pirates. Unfortunately, the Empire is most likely sending a rescue team to the area so keep your eyes open for them. It is our hope that they have not already reached it but if they have, search the nearby area for the shuttle, destroy its escorts and disable it so you can get the data we need.",		"quest_inspect_t":"Inspect the Imperial 'Lambda' shuttle.",		"quest_inspect_d":"Inspect the Imperial shuttle to make sure it got what we want. If it does and you haven't disabled it already, do so, then dock and transfer the data over to your ship. To target specific components on a star ship, input the bracket commands ( ] or [ ) to your tactical computer. This will all be easier if you have destroyed it's escort as docking under enemy fire is not recommended.",		"quest_dock_t":"Correct shuttle, dock and transfer data.",		"quest_dock_d":"It is the correct Imperial shuttle. Disable and dock with it so that you can hack and transfer the data to your ship, then hurry out of there.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

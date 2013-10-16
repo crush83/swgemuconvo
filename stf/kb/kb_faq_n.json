@@ -1,11 +1,5 @@
-[
-'9':'trouble',
-'8':'gameplay',
-'7':'pa',
-'6':'cs',
-'5':'houses',
-'4':'faq',
-'3':'servers',
-'2':'events',
-'1':'unity',
-]
+{
+	"stfFile":"kb/kb_faq_n",
+	"entries": {
+		"trouble":"In-Game Trouble Shooting",		"gameplay":"Gameplay",		"pa":"Player Association Hall Information",		"cs":"Customer Service Information",		"houses":"Houses and Items",		"faq":"Frequently Asked Questions (FAQ)",		"servers":"Servers",		"events":"Events",		"unity":"Unity"
+}}

@@ -1,32 +1,5 @@
-[
-'30':'you_suck',
-'29':'title_d',
-'28':'title',
-'27':'split_quest_alert_fail',
-'26':'split_quest_alert',
-'25':'quest_update',
-'24':'quest_location_t',
-'23':'quest_location_d',
-'22':'quest_helpallies_t',
-'21':'quest_helpallies_d',
-'20':'quest_findbattle_t',
-'19':'quest_findbattle_d',
-'18':'no_you_suck',
-'17':'lets_go',
-'16':'gonna_kill_u',
-'15':'found_loc',
-'14':'enemies_win',
-'13':'enemies_remain',
-'12':'enemies_arrived',
-'11':'die',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'actually_you_suck',
-]
+{
+	"stfFile":"spacequest/space_battle/test_space_battle",
+	"entries": {
+		"you_suck":"West side!!!",		"title_d":"1",		"title":"Destroy the Rebels!",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":" \#pcontrast3 Imperial Command: < \#pcontrast1 %TO \#pcontrast3 >",		"quest_location_t":"2",		"quest_location_d":"2",		"quest_helpallies_t":"4",		"quest_helpallies_d":"4",		"quest_findbattle_t":"3",		"quest_findbattle_d":"3",		"no_you_suck":"East Side!!!!",		"lets_go":"Let's go, punk.",		"gonna_kill_u":"I'm gonna kill u Rebs.",		"found_loc":"The Rebels will be here soon! We're dispatching a group of TIE fighters to assist you. Head to your new waypoint to meet them.",		"enemies_win":"You've sustained too many loses. Retreat!",		"enemies_remain":" \#pcontrast3 Tactical Computer: < \#pcontrast1 %DI enemies remain. \#pcontrast3 >",		"enemies_arrived":"The Rebels are here! Prepare for their attack!",		"die":"Waste the rebs! DIE!@#$@",		"battle_started":"Let's get ready to ruuuumble!",		"battle_abandoned":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"The Rebels have been defeated.",		"allies_remain":" \#pcontrast3 Tactical Computer: < \#pcontrast1 %DI allies remain. \#pcontrast3 >",		"allies_arrived":"The TIE fighters have exited lightspeed.",		"actually_you_suck":"U suxxor."
+}}

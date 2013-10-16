@@ -1,24 +1,5 @@
-[
-'22':'title_d',
-'21':'title',
-'20':'split_quest_alert_fail',
-'19':'split_quest_alert',
-'18':'quest_update',
-'17':'quest_target_t',
-'16':'quest_target_d',
-'15':'quest_location_t',
-'14':'quest_location_d',
-'13':'quest_escort_t',
-'12':'quest_escort_d',
-'11':'failed_escape',
-'10':'escort_wiped_out',
-'9':'escort_remaining',
-'8':'destroy_escort',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'assigned_delayed',
-'3':'assassinate_success',
-'2':'arrival_phase_2',
-'1':'arrival_phase_1',
-]
+{
+	"stfFile":"spacequest/assassinate/rori_station_reb_storyquest_01_c",
+	"entries": {
+		"title_d":"The Rori Station's new supplier of repair droids has doubts about your ability to help keep future shipments safe. Prove yourself by defeating Black Sun pirates in combat.",		"title":"Naboo system: Hunt Black Sun pirates.",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 Station Command:\#pcontrast3 Your next mission is to prove yourself against a squad of Borvo's pirates.",		"quest_update":"\#pcontrast1 Station Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy Black Sun Squad Leader",		"quest_target_d":"Destroy the Black Sun squad leader.",		"quest_location_t":"Naboo System",		"quest_location_d":"The Naboo System is full of dangerous elements. Defeat a squad of Black Sun pirates.",		"quest_escort_t":"Destroy the entire Black Sun squad.",		"quest_escort_d":"Destroy all ships in the Black Sun squadron. Make sure none escape.",		"failed_escape":"You let them escape! Return to the station for further instructions. Hopefully, we'll try again.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy Black Sun fighters eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI Black Sun fighters remaining.>",		"destroy_escort":"The entire squad must be eradicated.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Good work, pilot. That proves you can handle Black Sun pirates.",		"arrival_phase_2":"Nav location to the target squad has been located. Proceed with extreme prejudice.",		"arrival_phase_1":"Scanning system for a Black Sun squadron. Stand by to proceed with the attack."
+}}

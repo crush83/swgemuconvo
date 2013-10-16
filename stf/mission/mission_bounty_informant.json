@@ -1,30 +1,5 @@
-[
-'28':'informant_find_harder',
-'27':'informant_find_easier',
-'26':'target_location_received',
-'25':'target_medium_5',
-'24':'target_medium_4',
-'23':'target_medium_3',
-'22':'target_medium_2',
-'21':'target_medium_1',
-'20':'target_hard_yavin4_1',
-'19':'target_hard_tatooine_1',
-'18':'target_hard_talus_1',
-'17':'target_hard_rori_1',
-'16':'target_hard_naboo_1',
-'15':'target_hard_endor_1',
-'14':'target_hard_dathomir_1',
-'13':'target_hard_corellia_1',
-'12':'target_hard_5',
-'11':'target_hard_4',
-'10':'target_hard_3',
-'9':'target_hard_2',
-'8':'target_hard_1',
-'7':'target_easy_5',
-'6':'target_easy_4',
-'5':'target_easy_3',
-'4':'target_easy_2',
-'3':'target_easy_1',
-'2':'target_biological_signature',
-'1':'informant_list_title',
-]
+{
+	"stfFile":"mission/mission_bounty_informant",
+	"entries": {
+		"informant_find_harder":"Woah! I'm not handling this case. Go find a more experienced handler.",		"informant_find_easier":"I don't deal with bounty hunters of your caliber. Go find a neophyte handler.",		"target_location_received":"Target Waypoint Received.",		"target_medium_5":"Your target is proving somewhat elusive. I believe they are still in the area, but you'll need their bio-signature to track them down with a probe droid. Allow me to upload it to your datapad...",		"target_medium_4":"You shouldn't have dawdled. Your target knows you're looking for them, and they've bolted. Here's their bio-signature, and good luck.",		"target_medium_3":"Why, oh why, does everyone always come to me? This is getting insupportable. Anyway, I can't help you except for this bio-signature. Your quarry is making themselves as scarce as possible--they know you're coming.",		"target_medium_2":"Yeah, I know. You're lookin' for someone. Well, I can't find 'em. Not entirely, anyway. I do have a bio-sig for 'em though. You kin use it with a probe droid if you kin spend the money.",		"target_medium_1":"The guild tells me you're looking for someone. I've talked with my informants and sliced into the imperial holonet. Your target knows someone is after them and is making it difficult for me to keep track of them. I'll upload their biological signature to your datapad so you can use probe droids to track them.",		"target_hard_yavin4_1":"The only other information I have right now is that your target was last tracked entering Yavin IV space.",		"target_hard_tatooine_1":"The only other information I have right now is that your target was last tracked entering Tatooine space.",		"target_hard_talus_1":"The only other information I have right now is that your target was last tracked entering Talus space.",		"target_hard_rori_1":"The only other information I have right now is that your target was last tracked entering Rori space.",		"target_hard_naboo_1":"The only other information I have right now is that your target was last tracked entering Naboo space.",		"target_hard_endor_1":"The only other information I have right now is that your target was last tracked entering Endor space.",		"target_hard_dathomir_1":"The only other information I have right now is that your target was last tracked entering Dathomir space.",		"target_hard_corellia_1":"The only other information I have right now is that your target was last tracked entering Corellian space.",		"target_hard_5":"I fear the odds are against you this time, my friend. Not only has your quarry seemingly vanished into thin air, but I've heard not a single word as to whether they have gone offworld or not. I fear the best I can do is offer this biological signature. I wish you the best of luck!",		"target_hard_4":"Even high and mighty bounty hunters need to move faster than this, you know. Your quarry's gone. I have no idea where. But I have a biological signature. So here you go, put it in your datapad, and good luck with the probe droids.",		"target_hard_3":"Always a pleasure to help a distinguished bounty hunter such as yourself! Your quarry this time has gone to ground, and you'll need this biological signature for your probe droids. I'm sure it'll be no problem for someone like you though.",		"target_hard_2":"Yer in big trouble. I'm ain't envyin' ya this one, never mind how high the guild thinks of ya! Yer target knows yer out fer blood. Gone to ground, they have. Yer going to be needin' this bio-sig for yer probe droids. Good luck.",		"target_hard_1":"The guild must think highly of you to give you this mission. Your target knows we're after them and is avoiding all contact with the imperial holo-net. I'm transmitting your target's biological signature to your datapad for use in a probe droid. You're going to have to use Imperial probots to discover what planet your target is on.",		"target_easy_5":"The guild tells me you're looking for someone. I've talked with my informants and tracked down your target. They're not trying to stay hidden so tracking them down shouldn't be a problem. I'll transmit their location to your datapad.",		"target_easy_4":"You're late. The information required is uploading to your datapad as we speak. The guild contacted me in advance of your arrival. Next time, be prompt.",		"target_easy_3":"Looking for someone, huh? And you need my help. Everyone always needs my help. Well, I already know who you want, and as usual, I can help. Just ask nicely next time. I'm uploading the stuff to your datapad now.",		"target_easy_2":"So, the guild informs that you seek a particularly elusive quarry. It doesn't speak too well for your investigative skills, my friend, that I was able to track them down in such short order! Let me simply upload the details to your datapad...",		"target_easy_1":"Lookin' for someone, eh? So th' guild tells me, anyhoo. Well, I think I might be able to help ya. I kin upload the info to yer datapad...",		"target_biological_signature":"Biological Signature Received:",		"informant_list_title":"Your Informants:"
+}}

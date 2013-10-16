@@ -1,22 +1,5 @@
-[
-'111':'death5',
-'110':'death4',
-'109':'death3',
-'108':'death2',
-'107':'death1',
-'106':'entercombat5',
-'105':'entercombat4',
-'104':'entercombat3',
-'103':'entercombat2',
-'102':'entercombat1',
-'101':'hityou5',
-'100':'hityou4',
-'99':'hityou3',
-'98':'hityou2',
-'97':'hityou1',
-'96':'gothit5',
-'95':'gothit4',
-'94':'gothit3',
-'93':'gothit2',
-'92':'gothit1',
-]
+{
+	"stfFile":"space/taunts/blacksun_low",
+	"entries": {
+		"death5":"Your day will come!",		"death4":"You'll pay for this!",		"death3":"The Black Sun will avenge me!",		"death2":"Argh!!! You got me...",		"death1":"Nooooo!",		"entercombat5":"Let's see how you fare against the Black Sun!",		"entercombat4":"You're no match for a Black Sun starfighter!",		"entercombat3":"Whoever you are, you are mine!",		"entercombat2":"You are a nobody!  I will destroy you!",		"entercombat1":"Fool!  You face the Black Sun!",		"hityou5":"HA HA HA HA HA!",		"hityou4":"DIE! DIE! DIE!",		"hityou3":"You were a worthy advisary, but now you die!",		"hityou2":"You can't take much more of this!",		"hityou1":"You're going down!",		"gothit5":"Lucky shot!",		"gothit4":"Hey!  That won't be easy to repair...",		"gothit3":"Alright!  No more mister nice guy!",		"gothit2":"Is that the best you can do?",		"gothit1":"Your weapons are weak!"
+}}

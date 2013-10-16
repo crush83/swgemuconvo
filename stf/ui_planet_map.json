@@ -1,21 +1,19 @@
-[
-'19':'help_tree',
-'18':'help_zoom',
-'17':'help_here',
-'16':'help_map',
-'15':'refresh',
-'14':'popup_waypoint_deactivate',
-'13':'popup_waypoint_activate',
-'12':'popup_waypoint_destroy',
-'11':'popup_waypoint_set_name',
-'10':'popup_waypoint_create',
-'9':'show_all_waypoints',
-'8':'exit',
-'7':'show_names',
-'6':'show_all_cities',
-'5':'locations',
-'4':'location_types',
-'3':'waiting_locations',
-'2':'tooltip_map',
-'1':'tree_all',
-]
+{
+	"stfFile":"ui_planet_map",
+	"entries": {
+		"help_tree":"All registered Map Locations are displayed here.
+
+Your Waypoints are also included.
+
+Select a Category or Subcategory to display a group of Map Locations on the Map to the left.  Select a single Map Location to view it by itself.
+
+You can right-click Map Locations in this display for a popup menu that will allow you to manage your Waypoints.",		"help_zoom":"This is the Map Zoom Slider.
+
+Use it to Zoom the Map view in or out.",		"help_here":"You are here.",		"help_map":"This is the Planetary Map.
+
+You can use it to find Locations and manage your Waypoints.
+
+Right-click on the map for a popup menu that will allow you to create, destroy, rename, and activate Waypoints.",		"refresh":"Refresh",		"popup_waypoint_deactivate":"Deactivate Waypoint",		"popup_waypoint_activate":"Activate Waypoint",		"popup_waypoint_destroy":"Destroy Waypoint",		"popup_waypoint_set_name":"Set Waypoint Name",		"popup_waypoint_create":"Create Waypoint",		"show_all_waypoints":"Show All Waypoints",		"exit":"Exit",		"show_names":"Show Names",		"show_all_cities":"Show All Cities",		"locations":"Find a Location:",		"location_types":"Location Types",		"waiting_locations":"Downloading planetary location data...",		"tooltip_map":"Click and drag to pan the map.
+Double click to zoom toward click point.
+Right click on a location or the map to edit waypoints.",		"tree_all":"All"
+}}

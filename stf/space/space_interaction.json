@@ -1,331 +1,88 @@
-[
-'329':'pob_lot_returned',
-'328':'your_ship_esploded',
-'327':'wrong_repair_kit',
-'326':'wrong_parking_location',
-'325':'wrong_faction',
-'324':'wpn_fire_fail_power',
-'323':'wpn_fire_fail_missile_target',
-'322':'wpn_fire_fail_missile_self',
-'321':'wpn_fire_fail_missile_range',
-'320':'wpn_fire_fail_missile_acquire',
-'319':'wpn_fire_fail_disabled',
-'318':'wpn_fire_fail_ammo',
-'317':'weapon',
-'316':'wait_for_taunt',
-'315':'vrepairo_target_pc',
-'314':'vrepairo_repair_target_invalid',
-'313':'vrepairo_cant_repair_npc',
-'312':'vampiric_success',
-'311':'vampiric_slight_fail',
-'310':'vampiric_repair_useless_abort',
-'309':'vampiric_repair_underway',
-'308':'vampiric_repair_other_underway',
-'307':'vampiric_repair2',
-'306':'vampiric_repair',
-'305':'vampiric_other_repair_useless_abort',
-'304':'vampiric_great_success',
-'303':'vampiric_good_success',
-'302':'vampiric_big_fail',
-'301':'vampiric_abort',
-'300':'use_escape_hatch',
-'299':'unmute_droid',
-'298':'unable_to_call_repairship',
-'297':'turret_upper',
-'296':'turret_occupied',
-'295':'turret_lower',
-'294':'turret_disabled',
-'293':'toomanyships',
-'292':'too_many_pobs',
-'291':'too_far',
-'290':'terminal_pob_ship',
-'289':'taunt_too_long',
-'288':'taunt_on',
-'287':'taunt_off',
-'286':'target_too_far',
-'285':'target_not_ship',
-'284':'target_not_access_point',
-'283':'target_an_access_point',
-'282':'systems_not_ready',
-'281':'systems_disabled_strike_pack',
-'280':'systems_disabled_repair_abort',
-'279':'systems_disabled_pirate_raid',
-'278':'strikeforce_withdrawing',
-'277':'strike_bomber_destroyed',
-'276':'space_yacht',
-'275':'space_waypoint_syntax',
-'274':'shipoperations_falcon',
-'273':'ship_droid_set',
-'272':'shield',
-'271':'select_droid_for_ship',
-'270':'scramming_reactor',
-'269':'say_yes',
-'268':'retire_waypoint_btn',
-'267':'retire_warning_title',
-'266':'retire_rebel_warning',
-'265':'retire_neutral_warning',
-'264':'retire_imperial_warning',
-'263':'repairo_out_of_range',
-'262':'repairo_cant_heal_enemy',
-'261':'repairo_beginning',
-'260':'repaired_x_component_damage_destroy_kit',
-'259':'repaired_x_component_damage',
-'258':'repaired_x_chassis_damage_destroy_kit',
-'257':'repaired_x_chassis_damage',
-'256':'repaired_x_armor_component_damage_destroy_kit',
-'255':'repaired_x_armor_component_damage',
-'254':'repair_single_kit',
-'253':'repair_otw',
-'252':'repair_arrive_hyperspace',
-'251':'repair_all_kits',
-'250':'repair',
-'249':'reloaded_x_missile_ammo',
-'248':'reloaded_x_countermeasure_ammo',
-'247':'rebel_wp_name',
-'246':'reactor_standby',
-'245':'reactor_stabilized',
-'244':'reactor_pumped_already',
-'243':'reactor_normalizing',
-'242':'reactor',
-'241':'power_spike',
-'240':'pob_loot',
-'239':'plasma_leak_end',
-'238':'plasma_leak_begin',
-'237':'plasma_conduit_burst8',
-'236':'plasma_conduit_burst7',
-'235':'plasma_conduit_burst6',
-'234':'plasma_conduit_burst3',
-'233':'plasma_conduit_burst2',
-'232':'plasma_conduit_burst19',
-'231':'plasma_conduit_burst18',
-'230':'plasma_conduit_burst17',
-'229':'plasma_conduit_burst16',
-'228':'plasma_conduit_burst15',
-'227':'plasma_conduit_burst14',
-'226':'plasma_conduit_burst13',
-'225':'plasma_conduit_burst12',
-'224':'plasma_conduit_burst1',
-'223':'plasma_conduit_burst0',
-'222':'pirate_raid_systems_not_ready',
-'221':'pirate_raid_not_enemy',
-'220':'pilot_ship',
-'219':'pilot_command_timer_compelete',
-'218':'pilot_command_delay_some',
-'217':'pilot_command_delay_bit',
-'216':'pilot_command_delay',
-'215':'packed',
-'214':'operations',
-'213':'not_missile_ammo',
-'212':'not_hyperspacing',
-'211':'not_group_leader_for_formation',
-'210':'not_enough_lots',
-'209':'not_certified_device',
-'208':'not_an_astromech_for_space',
-'207':'not_ammo',
-'206':'none_around_pirate_raid',
-'205':'noadd',
-'204':'no_working_ship',
-'203':'no_use_terminal_incapacitated',
-'202':'no_use_terminal_dead',
-'201':'no_use_terminal_combat',
-'200':'no_turret',
-'199':'no_travel_basic',
-'198':'no_trap_in_space',
-'197':'no_survey_in_space',
-'196':'no_space_expansion',
-'195':'no_ship_certification',
-'194':'no_ship',
-'193':'no_shield_energy',
-'192':'no_rename_space',
-'191':'no_placing_structures_in_space',
-'190':'no_moving_turret',
-'189':'no_moving_operations',
-'188':'no_moving',
-'187':'no_kits',
-'186':'no_hyperspace_yet',
-'185':'no_hyperspace_ship_damaged',
-'184':'no_hyperdrive',
-'183':'no_ground_vehicle_in_space',
-'182':'no_front_shield_energy',
-'181':'no_fish_in_space',
-'180':'no_fireworks_in_space',
-'179':'no_escape_pod_owner',
-'178':'no_droid_commands',
-'177':'no_droid_command_module',
-'176':'no_destroy_in_flight',
-'175':'no_damage_to_repair',
-'174':'no_cert_on_receiver',
-'173':'no_capacitor_energy',
-'172':'no_booster',
-'171':'no_basics',
-'170':'no_back_shield_energy',
-'169':'no_ammo_allowed',
-'168':'no_action_station',
-'167':'newbie_ship',
-'166':'neutral_wp_name',
-'165':'need_flight_computer',
-'164':'need_astromech',
-'163':'nblast_unknown_failure',
-'162':'nblast_systems_disabled',
-'161':'nblast_skill_abort_fail',
-'160':'nblast_skill_abort',
-'159':'nblast_not_ready',
-'158':'nblast_no_nebula',
-'157':'nblast_execute',
-'156':'nblast_calling',
-'155':'nblast_already',
-'154':'mute_droid',
-'153':'missile_full_no_reload',
-'152':'memory_chip_transfer',
-'151':'memory_chip_program',
-'150':'memory_chip_burnt',
-'149':'memory_chip_analyze',
-'148':'lwpt',
-'147':'launch_space_tatooine_2',
-'146':'launch_space_naboo_2',
-'145':'launch_space_corellia_2',
-'144':'jstart_target_pc',
-'143':'jstart_target_no_shield',
-'142':'jstart_systems_disabled',
-'141':'jstart_recipient_alert',
-'140':'jstart_out_of_range',
-'139':'jstart_not_ready',
-'138':'jstart_not_charged',
-'137':'jstart_no_target',
-'136':'jstart_no_shield',
-'135':'jstart_invalid_target',
-'134':'jstart_failure',
-'133':'jstart_cant_repair_npc',
-'132':'jstart_cant_heal_enemy',
-'131':'jstart_big_failure2',
-'130':'jstart_big_failure',
-'129':'jstart_beginning',
-'128':'jam_cleared',
-'127':'items_in_ship',
-'126':'incorrect_ammo',
-'125':'imperial_wp_name',
-'124':'iff_spoofing_unsuccessful',
-'123':'iff_spoofed_already',
-'122':'iff_spoofed',
-'121':'iff_spoof_dont_bother',
-'120':'hyperspace_route_calculation_8',
-'119':'hyperspace_route_calculation_7',
-'118':'hyperspace_route_calculation_6',
-'117':'hyperspace_route_calculation_5',
-'116':'hyperspace_route_calculation_4',
-'115':'hyperspace_route_calculation_3',
-'114':'hyperspace_route_calculation_2',
-'113':'hyperspace_route_calculation_1',
-'112':'hyperspace_route_begin',
-'111':'hyperspace_ready',
-'110':'hyperspace_not_ready',
-'109':'hyperspace_in_progress',
-'108':'hyperspace_aborted',
-'107':'hyperdrive_recharged',
-'106':'hull_breach_damage',
-'105':'hull_breach',
-'104':'fix_plasma_conduit_destroy',
-'103':'fix_plasma_conduit',
-'102':'fix_hull',
-'101':'failed_to_create_controller',
-'100':'escort_ship_destroyed',
-'99':'epulse_systems_disabled',
-'98':'epulse_not_ready',
-'97':'epulse_not_enemy',
-'96':'epulse_not_charged',
-'95':'epulse_firing',
-'94':'epulse_already',
-'93':'engine',
-'92':'energy_pulse_failure',
-'91':'energy_pulse_big_failure',
-'90':'emergency_weapons',
-'89':'emergency_thrust',
-'88':'emergency_shields',
-'87':'emergency_reset',
-'86':'email_subject_trainer',
-'85':'email_subject_3',
-'84':'email_subject_2',
-'83':'email_subject_1',
-'82':'email_sender_trainer',
-'81':'email_sender_3',
-'80':'email_sender_2',
-'79':'email_sender_1',
-'78':'email_body_trainer',
-'77':'email_body_3',
-'76':'email_body_2',
-'75':'email_body_1',
-'74':'ejecting',
-'73':'eject_in_5',
-'72':'eject_in_30',
-'71':'eject_in_20',
-'70':'eject_in_10',
-'69':'eject',
-'68':'droid_ready',
-'67':'droid_not_certified',
-'66':'droid_interface_disabled_no_equip',
-'65':'droid_interface_disabled',
-'64':'droid_interface',
-'63':'droid_delay_ready',
-'62':'droid_component_too_damaged',
-'61':'droid_component_not_installed',
-'60':'droid_command_weapons_too_damaged',
-'59':'droid_command_fail_no_interface',
-'58':'droid_command_fail_no_droid',
-'57':'droid_command_fail_no_command',
-'56':'droid_command_fail_interface_disabled',
-'55':'droid_command_delay',
-'54':'do_reactor_pump_two',
-'53':'do_reactor_pump_one',
-'52':'damage_left_component_armor',
-'51':'damage_left_component',
-'50':'damage_left_chassis',
-'49':'countermeasure_full_no_reload',
-'48':'conduit_burst',
-'47':'components_installed',
-'46':'component_not_installed',
-'45':'component_already_modified',
-'44':'complete_repair',
-'43':'certification_ship_none',
-'42':'certification_ordnance_none',
-'41':'capacitor',
-'40':'cant_transfer_active_computer',
-'39':'cant_be_moving',
-'38':'calling_repair_ship',
-'37':'calling_pirate_raid',
-'36':'calling_in_repair_ship',
-'35':'calling_bomberstrike',
-'34':'booster_pilot_only',
-'33':'booster_not_ready',
-'32':'booster_low_energy',
-'31':'booster_energy_depleted',
-'30':'booster_disabled',
-'29':'booster',
-'28':'bomberstrike_none_available',
-'27':'bomberstrike_bad_skillcheck',
-'26':'bombers_mission_complete',
-'25':'bombers_evacuating',
-'24':'bombers_arriving',
-'23':'bomber_systems_not_ready',
-'22':'bomber_not_enemy_2',
-'21':'bomber_not_enemy_1',
-'20':'bomber_down',
-'19':'blank_taunt',
-'18':'beginning_reactor_restart',
-'17':'autopilot_engaged',
-'16':'autopilot_disengaged',
-'15':'armor',
-'14':'ammo_bay_jam',
-'13':'ammo_bay_full',
-'12':'ammo_added_to_bay',
-'11':'already_rerouting_systems',
-'10':'already_pirate_raid',
-'9':'already_emerg_wpn',
-'8':'already_emerg_shlds',
-'7':'already_emerg_engines',
-'6':'already_ejecting',
-'5':'already_bmbr_strike',
-'4':'already_active_navicomp3',
-'3':'already_active_navicomp2',
-'2':'already_active_navicomp',
-'1':'aborting_reactor_pump',
-]
+{
+	"stfFile":"space/space_interaction",
+	"entries": {
+		"pob_lot_returned":"A housing-lot requirement that had been utilized by your ship's interior space has been returned to you. You can still store objects inside your ship.",		"your_ship_esploded":"Your ship has been destroyed. You have been towed to the nearest space station for repairs. You can either repair your ship at the station or transport to the closest available planet for additional services. To talk to the station, target it and use /comm.",		"wrong_repair_kit":"That repair kit is not the correct type to fix this component.",		"wrong_parking_location":"Your ship is not parked here. (Examine the Ship Control Device to see where it is actually parked)",		"wrong_faction":"You cannot use this station because you are not the correct faction.",		"wpn_fire_fail_power":"Your capacitor doesnt not have enough power for this weapon.",		"wpn_fire_fail_missile_target":"You have no target for your missiles.",		"wpn_fire_fail_missile_self":"You can't fire missiles at yourself!",		"wpn_fire_fail_missile_range":"Your target is out of range of your missiles.",		"wpn_fire_fail_missile_acquire":"You have not yet acquired your target.",		"wpn_fire_fail_disabled":"Your weapon is disabled.",		"wpn_fire_fail_ammo":"Your weapon is out of ammo.",		"weapon":"weapon",		"wait_for_taunt":"You must wait before you can taunt again.",		"vrepairo_target_pc":"(Find a player-controlled ship to repair.)",		"vrepairo_repair_target_invalid":"You must have a valid look-at target to use this ability.",		"vrepairo_cant_repair_npc":"The pilot of your currently targeted ship cannot allow you to repair them.",		"vampiric_success":"Repairs completed.",		"vampiric_slight_fail":"Repairs completed at the cost of a small amount of additional damage.",		"vampiric_repair_useless_abort":"There isn't a large enough difference between your healthy and unhealthy components to make it worth proceeding. Aborting Process.",		"vampiric_repair_underway":"Pulling parts from other systems to partially repair your worst system",		"vampiric_repair_other_underway":"Pulling parts from your systems to partially repair your target's worst system.",		"vampiric_repair2":"Some damage will be incurred.",		"vampiric_repair":"Re-routing heavily damaged systems through other systems.",		"vampiric_other_repair_useless_abort":"There isn't a large enough difference between your healthy and the recipients's unhealthy components to make it worth proceeding. Aborting Process.",		"vampiric_great_success":"Repairs completed, with excellent results.",		"vampiric_good_success":"Repairs completed, with good results.",		"vampiric_big_fail":"Catastrophic Failure! Repairs completed, but significant additional damage suffered!",		"vampiric_abort":"Catastrophic Failure! ABORTING to avoid additional damage!",		"use_escape_hatch":"You must use the escape pod hatch to launch an escape pod.",		"unmute_droid":"Granting flight-computer/astromech vocalization authorization.",		"unable_to_call_repairship":"Unable to call in the repair vessel. You are currently engaged in combat maneuvers with enemy vessels and repairship can't defend itself.",		"turret_upper":"Enter upper turret.",		"turret_occupied":"That turret is currently in use so you cannot enter.",		"turret_lower":"Enter lower turret.",		"turret_disabled":"This turret is currently disabled and cannot be used.",		"toomanyships":"You have too many ships in your datapad already!",		"too_many_pobs":"You cannot launch another ship with an interior. Empty out one of your other ships and you may take off with this ship.",		"too_far":"You are too far away from the station to perform this action.",		"terminal_pob_ship":"Ship Permissions Terminal",		"taunt_too_long":"Your taunt cannot be longer than 64 characters.",		"taunt_on":"Space Combat taunts are now enabled.",		"taunt_off":"Space Combat taunts are now disabled.",		"target_too_far":"That is too far away to repair.",		"target_not_ship":"This command can only be executed on targets that are spacecraft.",		"target_not_access_point":"That is not repairable with this kit.",		"target_an_access_point":"To use a repair kit like this you must target a repair access point.",		"systems_not_ready":"This ship's systems are unable to throw that much power around right now.",		"systems_disabled_strike_pack":"Your ship's systems are currently disabled. Unable to access communications to send strike package request.",		"systems_disabled_repair_abort":"Your ship's systems are currently disabled. Unable to begin repair.",		"systems_disabled_pirate_raid":"Your ship's systems are currently disabled. Unable to access communications to send call for assistance.",		"strikeforce_withdrawing":"The Support Team is now exiting the area.",		"strike_bomber_destroyed":"A strike package bomber was just destroyed!",		"space_yacht":"The Sorosuub Yacht cannot be re-deeded!",		"space_waypoint_syntax":"[SYNTAX] /waypoint <x> <y> <z>",		"shipoperations_falcon":"Enter Operations Station",		"ship_droid_set":"Droid has been set as space droid.",		"shield":"shield generator",		"select_droid_for_ship":"Set as Astromech/Flight-Computer for Space Ship",		"scramming_reactor":"Uncontrolled reactor overload spike detected. SCRAMMING REACTOR!",		"say_yes":"You must use "/escapePod yes" to eject.",		"retire_waypoint_btn":"Get Waypoint",		"retire_warning_title":"Surrender Skill",		"retire_rebel_warning":"You cannot manually surrender pilot skills.
+
+If you wish to retire from the Rebel Navy, you should speak to the recruiter for the Rebel Alliance on Corellia. If you need a waypoint to the location of your local recruiter, please press the "Get Waypoint" button below.",		"retire_neutral_warning":"You cannot manually surrender pilot skills.
+
+If you wish to retire your pilot skills, you should speak to the recruiter for the Pilot's Guild on Tatooine. If you need a waypoint to the location of your local recruiter, please press the "Get Waypoint" button below.",		"retire_imperial_warning":"You cannot manually surrender pilot skills.
+
+If you wish to retire from the Imperial Navy, you should speak to the navy recruiter for the Empire on Naboo. If you need a waypoint to the location of your local recruiter, please press the "Get Waypoint" button below.",		"repairo_out_of_range":"Either your ship or the target ship aren't positioned close enough to the repair target to begin the procedure.",		"repairo_cant_heal_enemy":"Repair target is identified as a possible enemy. Aborting procedure.",		"repairo_beginning":"Beginning repair procedure.",		"repaired_x_component_damage_destroy_kit":"You have fixed %DI points of damage on the %TO. The repair kit is used up.",		"repaired_x_component_damage":"You have fixed %DI points of damage on the %TO.",		"repaired_x_chassis_damage_destroy_kit":"You have fixed %DI points of chassis damage. The repair kit is used up.",		"repaired_x_chassis_damage":"You have fixed %DI points of chassis damage.",		"repaired_x_armor_component_damage_destroy_kit":"You have fixed %DI points of armor damage on the %TO. The repair kit is used up.",		"repaired_x_armor_component_damage":"You have fixed %DI points of armor damage on the %TO.",		"repair_single_kit":"Repair - 1 Kit",		"repair_otw":"You've already tried to call in a repair vessel!!! You'll have to wait for it to wait for it to arrive.",		"repair_arrive_hyperspace":"Repair ship now arriving from hyperspace.",		"repair_all_kits":"Repair - Full",		"repair":"Repair",		"reloaded_x_missile_ammo":"You have loaded %DI of %TO into your missile launcher.",		"reloaded_x_countermeasure_ammo":"You have loaded %DI of %TO into your countermeasure launcher.",		"rebel_wp_name":"Rebel Alliance Recruiter",		"reactor_standby":"Reactor systems resetting. Stand By...",		"reactor_stabilized":"Reactor settings have stabilized",		"reactor_pumped_already":"You've already tried to pump the Reactor!!! Wait for things to settle down before trying again.",		"reactor_normalizing":"Reactor settings beginning to return to normal...",		"reactor":"reactor",		"power_spike":"Power spike underway!",		"pob_loot":"Loot container",		"plasma_leak_end":"You have successfully escaped the scorching flames of the plasma leak.",		"plasma_leak_begin":"This area of the ship has a PLASMA LEAK! It begins to scorch the flesh from your bones!",		"plasma_conduit_burst8":"A droid/flight-computer interface conduit has burst!",		"plasma_conduit_burst7":"A booster conduit has burst!",		"plasma_conduit_burst6":"A capacitor conduit has burst!",		"plasma_conduit_burst3":"A shield conduit has burst!",		"plasma_conduit_burst2":"A shield conduit has burst!",		"plasma_conduit_burst19":"A weapon conduit has burst!",		"plasma_conduit_burst18":"A weapon conduit has burst!",		"plasma_conduit_burst17":"A weapon conduit has burst!",		"plasma_conduit_burst16":"A weapon conduit has burst!",		"plasma_conduit_burst15":"A weapon conduit has burst!",		"plasma_conduit_burst14":"A weapon conduit has burst!",		"plasma_conduit_burst13":"A weapon conduit has burst!",		"plasma_conduit_burst12":"A weapon conduit has burst!",		"plasma_conduit_burst1":"An engine conduit has burst!",		"plasma_conduit_burst0":"A reactor conduit has burst!",		"pirate_raid_systems_not_ready":"A pirate raid cannot be called at the moment.",		"pirate_raid_not_enemy":"You'll never be able to talk the pirates into attacking THAT.",		"pilot_ship":"Pilot Ship",		"pilot_command_timer_compelete":"Everything's in order after the last pilot command. Ready to execute a new one!",		"pilot_command_delay_some":"It looks like you might be ready in a couple more minutes...",		"pilot_command_delay_bit":"It looks like you might be ready in just a minute.",		"pilot_command_delay":"You're still recovering from your last trick, and you need to wait before you can perform another",		"packed":"You have successfully packed this ship into a deed!",		"operations":"Operations Chair",		"not_missile_ammo":"This is not ammo.",		"not_hyperspacing":"You can't cancel anything because you aren't calculating a hyperspace route.",		"not_group_leader_for_formation":"You must be the leader of a group to assign a formation.",		"not_enough_lots":"This ship requires a lot. You do not have any left and cannot create it.",		"not_certified_device":"You aren't certified to operate this device.",		"not_an_astromech_for_space":"You cannot set that as your active space-useable astromech or flight computer.",		"not_ammo":"That is not ammunition and cannot be loaded into an ammo bay.",		"none_around_pirate_raid":"There are no pirates within navigation distance that are willing to come to your aid.",		"noadd":"This device cannot go there!",		"no_working_ship":"This ship requires a working engine and reactor to be flyable.",		"no_use_terminal_incapacitated":"You cannot use this terminal while incapacitated.",		"no_use_terminal_dead":"You cannot use this terminal while dead.",		"no_use_terminal_combat":"You cannot use this terminal while in combat.",		"no_turret":"This turret is not useable as there is no weapon installed.",		"no_travel_basic":"You cannot travel with this ship as it has no hyperdrive.",		"no_trap_in_space":"You may not use traps in space.",		"no_survey_in_space":"You may not survey or sample resources in space.",		"no_space_expansion":"You do not currently own the space expansion. Go to your local software store and purchase Jump To Lightspeed to launch into space.",		"no_ship_certification":"You are not certified to pilot this ship.",		"no_ship":"You cannot take off because you do not have a ship.",		"no_shield_energy":"Your shields do not have enough energy to do that.",		"no_rename_space":"You cannot rename a ship while you are in space.",		"no_placing_structures_in_space":"You may not place structures in space.",		"no_moving_turret":"You must be standing still to use a turret.",		"no_moving_operations":"You must be standing still to use an operations station.",		"no_moving":"You must be standing still to pilot a ship.",		"no_kits":"You do not have any repair kits for this type of component.",		"no_hyperspace_yet":"You cannot jump to hyperspace yet. Hyperspace route calculations are not yet complete. They will be completed in %DI seconds.",		"no_hyperspace_ship_damaged":"You cannot jump to hyperspace because your ship is disabled.",		"no_hyperdrive":"This ship is not capable of jumping to hyperspace.",		"no_ground_vehicle_in_space":"Ground vehicles may not be used in space.",		"no_front_shield_energy":"Your front shield does not have enough energy to do that.",		"no_fish_in_space":"A fishing pole is insufficient for fishing in space.",		"no_fireworks_in_space":"You may not launch fireworks in space.",		"no_escape_pod_owner":"You cannot use this command as you are not the ship owner.",		"no_droid_commands":"You don't know any droid commands to program this chip with.",		"no_droid_command_module":"This flight-computer/astromech will not be able to control your ship's subsystems until you install a droid command interface.",		"no_destroy_in_flight":"You cannot destroy the ship you are currently flying.",		"no_damage_to_repair":"That component is not damaged.",		"no_cert_on_receiver":"Warning: The newOwner does NOT have the appopriate certification for the object you are trying to give!",		"no_capacitor_energy":"Your weapon capacitor does not have enough energy to do that.",		"no_booster":"Your ship does not have a booster.",		"no_basics":"This type of ship is not permitted in these areas. ",		"no_back_shield_energy":"Your back shield does not have enough energy to do that.",		"no_ammo_allowed":"You cannot put this ammo into that slot.",		"no_action_station":"You cannot perform this action while you are occupying a ship station.",		"newbie_ship":"You cannot redeed a starter ship!",		"neutral_wp_name":"Pilot's Guild Recruiter",		"need_flight_computer":"You must use a Flight Computer and not an Astromech for this purpose.",		"need_astromech":"You must use an Astromech and not a Flight Computer for this purpose.",		"nblast_unknown_failure":"SYSTEM FAILURE. Secondary system overides engaging. ABORTING N-BLAST!",		"nblast_systems_disabled":"Your ship's systems are currently disabled. Unable to trigger an n-blast.",		"nblast_skill_abort_fail":"EMERGENCY! BACK-BLAST REACTION PATTERN DETECTED. NBLAST PROGRAM ABORT FAILED!!",		"nblast_skill_abort":"EMERGENCY! BACK-BLAST REACTION PATTERN DETECTED. ABORTING NBLAST PROGRAM!",		"nblast_not_ready":"The energy capacitor has not stored up enough energy yet for an ignition-level pulse. ABORTING N-BLAST!",		"nblast_no_nebula":"Your ship must have access to the reactive trace elements located within a nebula in order to trigger an n-blast.",		"nblast_execute":"NBLAST program executing...",		"nblast_calling":"Standy... beginning ignition source procedures.",		"nblast_already":"You're already executing an nblast.",		"mute_droid":"Removing flight-computer/astromech vocalization authorization",		"missile_full_no_reload":"You cannot add more missiles to that launcher until the current pack is consumed.",		"memory_chip_transfer":"Transfer Memory Chip to Datapad",		"memory_chip_program":"Program Droid Memory Chip",		"memory_chip_burnt":"Command has been burnt into memory chip.",		"memory_chip_analyze":"Analyze",		"lwpt":"Spacestation",		"launch_space_tatooine_2":"You have been launched into the Space Tatooine Tutorial zone. This is a zone specifically for new players. You will launch here until you receive your first tier 1 skill.",		"launch_space_naboo_2":"You have been launched into the Space Naboo Tutorial zone. This is a zone specifically for new players. You will launch here until you receive your first tier 1 skill.",		"launch_space_corellia_2":"You have been launched into the Space Corellia Tutorial zone. This is a zone specifically for new players. You will launch here until you receive your first tier 1 skill.",		"jstart_target_pc":"(Find a player-controlled ship to jumpstart.)",		"jstart_target_no_shield":"The target has no shields to recharge.",		"jstart_systems_disabled":"Your ship's systems are currently disabled. Unable to begin jumpstart program.",		"jstart_recipient_alert":"Your ship's shields have just received a boost in charge by %TO.",		"jstart_out_of_range":"Either your ship or the target ship aren't positioned close enough to the jumpstart target to begin the procedure.",		"jstart_not_ready":"Jumpstart program unable to execute. Required parameters not in compliance.",		"jstart_not_charged":"The energy capacitor has not stored up enough energy yet for a significant pulse. JUMPSTART PROGRAM ABORT!",		"jstart_no_target":"You must have a target to use the JumpStart program.",		"jstart_no_shield":"The command you are attempting to use requires that you have shields to contribute energy from, yet you have none.",		"jstart_invalid_target":"Targeting systems unable to resolve target. ERROR! JUMPSTART PROGRAM ABORT!",		"jstart_failure":"An unknown systems failure caused the JumpStart program to abort itself before the accumulated energy was transmitted.",		"jstart_cant_repair_npc":"The pilot of your currently targeted ship cannot allow you to recharge their shields.",		"jstart_cant_heal_enemy":"Jumpstart target is identified as a possible enemy. Aborting procedure.",		"jstart_big_failure2":"Energy accumulator has back-flashed and ship's sub-systems have been damaged!",		"jstart_big_failure":"WARNING! WARNING! CRITICAL MALFUCTION!",		"jstart_beginning":"Beginning jumpstart procedure.",		"jam_cleared":"The %TO that jammed one of your ammo bays has been cleared. 
+",		"items_in_ship":"You cannot pack this ship into a deed until you have removed all items from its interior.",		"incorrect_ammo":"This is not the correct ammo pack for this bay.",		"imperial_wp_name":"Imperial Navy Recruiter",		"iff_spoofing_unsuccessful":"Your attackers aren't falling for your IFF transponder spoofing.",		"iff_spoofed_already":"You've already tried to scramble your IFF Transponder!!! Nobody's going to fall for that again, at least not for a while.",		"iff_spoofed":"IFF Transponder settings spoofed. That ought to confuse them for a moment or so!",		"iff_spoof_dont_bother":"Spoofing the IFF only has an effect when someone's currently attacking you. ",		"hyperspace_route_calculation_8":"                                1",		"hyperspace_route_calculation_7":"                                2",		"hyperspace_route_calculation_6":"                                3",		"hyperspace_route_calculation_5":"                                4",		"hyperspace_route_calculation_4":"Hyperspace route calculation complete. Jumping to Hyperspace in 5.",		"hyperspace_route_calculation_3":"Hyperspace route calculating. Status: 75%",		"hyperspace_route_calculation_2":"Hyperspace route calculating. Status: 50%",		"hyperspace_route_calculation_1":"Hyperspace route calculating. Status: 25%",		"hyperspace_route_begin":"Hyperspace route calculations begun. Status: 0%",		"hyperspace_ready":"Hyperspace route calculations complete.",		"hyperspace_not_ready":"You cannot jump to hyperspace yet. You must wait %DI more seconds.",		"hyperspace_in_progress":"You cannot choose another destination as a route is already being calculated.",		"hyperspace_aborted":"Hyperspace calculations aborted. ",		"hyperdrive_recharged":"Hyperdrive recharged.",		"hull_breach_damage":"<HULL BREACH!> You choke from lack of air.",		"hull_breach":"HULL BREACH! The ship atmosphere is leaking into space. Find the Hull Access panel and patch the leak.",		"fix_plasma_conduit_destroy":"You succesfully patch the broken plasma conduit. The repair kit is consumed in the process.",		"fix_plasma_conduit":"You succesfully patch the broken plasma conduit.",		"fix_hull":"You succesfully patch the hull leak. The repair kit is consumed in the process.",		"failed_to_create_controller":"Failed to create a valid controller device for the navicomp.",		"escort_ship_destroyed":"A strike package escort fighter was just destroyed!",		"epulse_systems_disabled":"Your ship's systems are currently disabled. Unable to trigger an energy pulse.",		"epulse_not_ready":"Energy pulse not ready at the moment.",		"epulse_not_enemy":"Non-Enemy units detected in primary effect radius. Secondary system overides engaging. E-PULSE ABORT!",		"epulse_not_charged":"The energy capacitor has not stored up enough energy yet for a significant pulse. E-PULSE ABORT!",		"epulse_firing":"Standby for pulse... firing capacitor actuators.",		"epulse_already":"You're already executing an e-pulse.",		"engine":"engine",		"energy_pulse_failure":"WARNING.WARNING.WARNING. E-PULSE EXECUTION FAILURE.",		"energy_pulse_big_failure":"WARNING.WARNING.WARNING. EMERGENCY SHUNT FAILURE! SYSTEM DAMAGE INCURRED!",		"emergency_weapons":"Diverting emergency power to the weapons from other systems!",		"emergency_thrust":"Diverting emergency power to the engines from other systems!",		"emergency_shields":"Diverting emergency power to the shields from other systems!",		"emergency_reset":"System power resetting. Power settings restoring to default conditions.",		"email_subject_trainer":"Flight Status: Approved",		"email_subject_3":"JOIN T####>> TRANSMISSION INTERRUPTED <<####",		"email_subject_2":"Opportunities for Privateer Pilots! (FW: Pilots' Guild shut down by order of The Emperor)",		"email_subject_1":"JOIN THE IMPERIAL NAVY",		"email_sender_trainer":"Flight Authorization Center",		"email_sender_3":"Unknown Transmission Source!",		"email_sender_2":"Freelance Pilot's Guild",		"email_sender_1":"The Office of the Imperial Navy",		"email_body_trainer":"Your Flight Status is Approved!
+
+Thank you for your voluntary participation. Please take a moment to review these general hints and tips to help you become a courteous citizen pilot.
+Note: If you ever need HELP press Control+H to bring up your holocron. Find the topic you are interested in studying on the left side of the holocron viewer. Click the subject line to expand all related sub-topics.
+
+[FLIGHT CONTROLS RECAP]
+     Increase Speed - UP ARROW / 'W'
+     Decrease Speed - DOWN ARRORW / 'S'
+     Roll clockwise - RIGHT ARROW / 'E'
+     Roll counter-clockwise - LEFT ARROW / 'Q'
+     Yaw left - Mouse / Joystick / 'A'
+     Yaw right - Mouse / Joystick / 'D'
+
+[TARGETING]
+     TAB - Target nearest enemy starship
+     X - Target ships in front of you
+     C - Target capital ships and space stations
+
+[COMMUNICATIONS]
+     Backslash - Comm space station (also use "/comm")
+
+",		"email_body_3":"From the De####>> TRANSMISSION SOURCE JAMMED <<####
+>>@#
+>>##
+>>#
+
+.. ATTENTION ALL FREE PILOTS! The Rebel Alliance needs you!
+
+   You don't know me. My name is J'pai Brek. I'm a new pilot coordinator for the Rebel Alliance. My apologies for jamming your incoming email and attaching this viral communique - but it's what I have to do if I want to stay alive. You are receiving this message because our comm scans indicate that you have been the target of an Imperial Navy recruitment effort. Please...before you make a terrible, irreversible mistake - consider joining the Rebel Alliance and becoming a champion of freedom, peace, and tolerance.
+   
+   Come to Corellia...you will find me there, or visit your local Rebel Alliance Pilot trainer.  I need to stay on the move, but if you act quickly, you can meet me in the park preserve across the street from the Tyrena Starport.
+
+###>>
+##>>
+#>>
+#
+#
+#of the Emperor,
+
+      - Grand Admiral of the Imperial Navy
+",		"email_body_2":"(Communication Approved by the Office of the Imperial Navy)
+
+Greetings fellow Pilot!
+     I am Gil Burtin, founder and president of the Freelance Pilots Guild. By the will of the Emperor, our private pilots organization has been disbanded. Although this does significantly affect the economic status of free pilots throughout the galaxy, the wisdom of our beloved Emperor cannot, and should not be challenged under any circumstances.
+    Since we received the order we have worked dilligently to place our pilots within honorable organizations that support the Empire and its good works. I am quite proud to say that literally ALL of our constituent members have been offered paid positions within the Naboo Royal Security Forces, CorSec, and a handful of independent shipping organizations.
+    Of course, all top skilled pilots should find their home in the Imperial Navy - prosecuting the war against the dread 'rebellion.' Those who do not meet the criteria for joining the Imperial Navy should come see us! We can get you placed in a job where you are paid well for doing what you love to do!
+
+   We are holding a Pilots' Reception at the Bestine Hotel on Tatooine.
+   Please come by and chat, or visit a member of the Freelance Pilots' Guild near you!
+   See you,
+
+   - Gil Burtin
+   Founder / President
+   Freelance Pilots Guild",		"email_body_1":"From the Desk of Admiral Cilas Veckon
+
+RE: Your Obligation to the Imperial Navy
+
+Dear Citizen pilot,
+   It is a dark time for those who cleave to the pillar principles of the Empire. Without heroic intervention by citizen pilots such as you, this horrid 'rebellion' could prove to be the final undoing of our civilization, our liberty... our very lives. Hired killers have taken aim against  the selfless agents of our government, and have threatened to plunge us head-long into anarchy.
+   Moreover, sensing their despicable opportunities in this 'rebellion,' vast armies of corrupt criminal pirates, smugglers, and assassins have banded together to further tear the fabric of Imperial decency.
+   Your Emperor needs you. Your courage. Your skill.
+
+   Several of our most capable pilot recruiters have been dispatched to educate and inform all citizens of the galaxy who have the mettle to fly for the Empire. 
+   Commander Gunham can be found on the steps of the Bestine capital building - willing to offer his time, and his wealth of experience as a pilot recruiter. 
+   Also, Commander Zhanks has volunteered to spread the word in Kor Vella, Corellia. You will find him welcoming new recruits in the lobby of the Kor Vella hotel.
+   And finally, our key recruitment officer, Commander Landau, will be on-duty at the steps of Theed Palace until further notice.
+
+   Visit one of these recruiters or your local Imperial Pilot trainer today!
+
+   For the Emperor,
+
+          - Admiral Cilas Veckon
+             Chief of Imperial Navy Recruitment
+             Office of the Imperial Navy",		"ejecting":"EJECTING!",		"eject_in_5":"5 seconds to escape pod launch.",		"eject_in_30":"Escape pod activated. 30 Seconds until escape pod launch.",		"eject_in_20":"20 Seconds until escape pod launch.",		"eject_in_10":"10 Seconds until escape pod launch.",		"eject":"Launch Escape Pod",		"droid_ready":"Your flight-computer/astromech is ready for another command.",		"droid_not_certified":"You are not certified to equip this level flight-computer/astromech on your starship.",		"droid_interface_disabled_no_equip":"The droid interface on this ship is disabled. It must be fixed before a flight-computer/astromech can be installed.",		"droid_interface_disabled":"Your droid interface is currently disabled. Your droid will not be able to control ship subsystems until the interface is repaired.",		"droid_interface":"droid interface",		"droid_delay_ready":"Droid command completed. Ready for new command.",		"droid_component_too_damaged":"You cannot modify that %TO because it is too damaged for this command.",		"droid_component_not_installed":"You cannot modify a component that is not installed on your ship.",		"droid_command_weapons_too_damaged":"You cannot modify the power levels on ship's weapon suite because it is too damaged for this command.",		"droid_command_fail_no_interface":"Droid commands are non functional because you do not have a droid interface installed.",		"droid_command_fail_no_droid":"You must have a flight-computer/droid to activate droid commands.",		"droid_command_fail_no_command":"Your flight-computer/droid is not programmed to do that action.",		"droid_command_fail_interface_disabled":"You cannot do flight-computer/droid commands as your droid interface is disabled.",		"droid_command_delay":"Your flight-computer/astromech cannot perform another command for %DI seconds.",		"do_reactor_pump_two":"Injectors Re-Initialized outside parameters! Power output spike detected!",		"do_reactor_pump_one":"Manual override of reactant injector controls initiated.",		"damage_left_component_armor":"Not all armor damage was repaired. %DI points of armor damage remain.",		"damage_left_component":"Not all damage was repaired. %DI points of damage remain on the %TO. 
+",		"damage_left_chassis":"You did not have enough repair kits to completely repair your Chassis. %DI points of damage remain.",		"countermeasure_full_no_reload":"You cannot add more countermeasures to that launcher until the current pack is consumed.",		"conduit_burst":"                  WARNING! WARNING! WARNING!
+      A %TO has been damaged! A Plasma leak has occurred!
+                  WARNING! WARNING! WARNING!",		"components_installed":"You cannot pack this ship until all components have been removed from the ship.",		"component_not_installed":"Trying to damage a component which is not installed.",		"component_already_modified":"You cannot alter an already modified component. Normalize this component to apply another effect.",		"complete_repair":"Your ship has been completely repaired.",		"certification_ship_none":"You are not certified to use the ship you are attempting to access.",		"certification_ordnance_none":"You are not certified to manipulate the ship equipment you are attempting to access.",		"capacitor":"capacitor",		"cant_transfer_active_computer":"Warning: You cannot transfer a Flight-Computer's memory Core that has already been activated by a pilot.",		"cant_be_moving":"Unable to call in the repair vessel. You are currently moving, and you must be stopped before the repair ship can find and assist you.",		"calling_repair_ship":"Calling in a repair vessel. Stand by while inquiries are made on SupportNet.",		"calling_pirate_raid":"Transmitted call for assistance on commonly-used pirate frequencies.",		"calling_in_repair_ship":"Repair vessel is on its way. Hold tight till it arrives.",		"calling_bomberstrike":"Transmitted target I.D. to Sector Command. Bomber Strike Package re-directed to your location.",		"booster_pilot_only":"Only the pilot may use a booster.",		"booster_not_ready":"Your booster is not ready to restart... please wait.",		"booster_low_energy":"Your booster has insufficient energy to activate.",		"booster_energy_depleted":"Booster energy depleted.",		"booster_disabled":"Your booster is disabled.",		"booster":"booster",		"bomberstrike_none_available":"There are no strike assets currently available to fulfill your support request.",		"bomberstrike_bad_skillcheck":"You fumbled your command code authorization transmission, and are not being cleared for strike asset allocation.",		"bombers_mission_complete":"The last target assignment has been destroyed. We will execute a withdrawal from this sector.",		"bombers_evacuating":"Casualty numbers are unacceptable, and Command has ordered us to withdraw. You are on your own.",		"bombers_arriving":"Bomber Fireteam Arriving. Beginning offensive operations now!",		"bomber_systems_not_ready":"You cannot call in a strike package right now.",		"bomber_not_enemy_2":"Request for bomber Strike Package denied.",		"bomber_not_enemy_1":"Transmitted target I.D. does not match a known enemy vessel configuration.",		"bomber_down":"I'm hit!!!! Systems are failing!!! AHHHHH!!!!",		"blank_taunt":"You must include a taunt to actually send a messager. Format: /taunt <message>",		"beginning_reactor_restart":"Reactor restart sequence beginning... Stand By...",		"autopilot_engaged":"Autopilot Engaged.",		"autopilot_disengaged":"Autopilot Disengaged.",		"armor":"armor",		"ammo_bay_jam":"CATASTROPHE! Your ammo feed mechanism has jammed while trying to load %TO. Remove the jammed ammunition from the bay to fix the feed mechanism.",		"ammo_bay_full":"This ammo bay is full and cannot hold any more ammunition.",		"ammo_added_to_bay":"Ammunition added to ammo bay.",		"already_rerouting_systems":"The ship's systems are already being rerouted to equalize operational capabilities.",		"already_pirate_raid":"All of the pirates willing to come to your aid are already assisting.",		"already_emerg_wpn":"This ship's systems must steady themselves before you can dump that much raw power into the weapons again.",		"already_emerg_shlds":"This ship's systems must steady themselves before you can dump that much raw power into the shields again.",		"already_emerg_engines":"This ship's systems must steady themselves before you can dump that much raw power into the engines again.",		"already_ejecting":"You have already initiated an ejection sequence.",		"already_bmbr_strike":"You've already called in a strike team and Command won't release an additional force to you.",		"already_active_navicomp3":"You must get rid of the old one before you can activate this one.",		"already_active_navicomp2":"You can only have a single active flight computer at a time.",		"already_active_navicomp":"You already have an initialized and active flight computer.",		"aborting_reactor_pump":"The reactor is already operating outside of normal parameters. Unable to pump the reactant injectors. Aborting!"
+}}

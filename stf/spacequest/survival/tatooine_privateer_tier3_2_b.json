@@ -1,28 +1,5 @@
-[
-'26':'transmission_start',
-'25':'transmission_received',
-'24':'trans_update',
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_reachpoint_t',
-'17':'quest_reachpoint_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_defendpoint_t',
-'13':'quest_defendpoint_d',
-'12':'outofrange_failed',
-'11':'outofrange',
-'10':'mission_complete',
-'9':'found_loc',
-'8':'first_attack',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_loc',
-]
+{
+	"stfFile":"spacequest/survival/tatooine_privateer_tier3_2_b",
+	"entries": {
+		"transmission_start":"Survival Started",		"transmission_received":"Survival Complete",		"trans_update":"%DI/60 recieved.",		"title_d":"Go make your presence known at the Witchblood Clan burial grounds to occupy them while Hutt forces infiltrate their stronghold",		"title":"Dathomir System: Provide a distraction at the Witchblood Clan Burial Grounds",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast3 < \#pcontrast1 %TO \#pcontrast3 >",		"quest_reachpoint_t":"Burial Ground",		"quest_reachpoint_d":"Travel to this location to begin the operation",		"quest_location_t":"Dathomir System",		"quest_location_d":"The spaceborne burial ground of the Dathomir Witchblood Clan",		"quest_defendpoint_t":"Burial Ground",		"quest_defendpoint_d":"Stay at this location until you are given instruction to leave",		"outofrange_failed":"\#pcontrast3 Beissa: < \#pcontrast1 You went too far from the burial zone! Witchblood scouts are returning to their base. The mission is scrapped! \#pcontrast3 >",		"outofrange":"\#pcontrast3 Beissa: < \#pcontrast1 Get back to the pirates' burial zone! If the Witchblood disengage, they'll find us and the mission will be lost! \#pcontrast3 >",		"mission_complete":"\#pcontrast3 Beissa: < \#pcontrast1 Great work! We've set all the detonators at their stronghold. We're clearing out so we can set off the charges.  Meet us back at Jabba's Palace \#pcontrast3 >",		"found_loc":"\#pcontrast3 Beissa: < \#pcontrast1 Fly to that location and keep the Witchblood clan busy. We'll sneak into their hidden base, and set detonators! \#pcontrast3 >",		"first_attack":"\#pcontrast3 Beissa: < \#pcontrast3 All right! Here they come! Keep them busy while we work our way into their base... \#pcontrast3 >",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast3 Beissa: < \#pcontrast1 Stay focused, and stay alive.  We need them focused on you and not us. \#pcontrast3 >",		"attack_notify":"\#pcontrast3 Tactical Computer: < \#pcontrast3 Hyperspace signatures detected in close proximity. \#pcontrast3 >",		"assigned_delayed":"",		"arrived_at_loc":"\#pcontrast3 Beissa: < \#pcontrast1 Okay! You've entered the Witchblood clan's sacred burial zone... they're sure to descend on you shortly.  I wouldn't want to be you right now. \#pcontrast3 >"
+}}

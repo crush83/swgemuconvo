@@ -1,18 +1,18 @@
-[
-'17':'collector_body',
-'16':'collector_subject',
-'15':'welcome_body',
-'13':'welcome_subject',
-'12':'social_entertainer_subject',
-'11':'science_medic_subject',
-'10':'outdoors_scout_subject',
-'9':'combat_marksman_subject',
-'8':'combat_brawler_subject',
-'7':'crafting_artisan_subject',
-'6':'science_medic_body',
-'5':'combat_brawler_body',
-'4':'combat_marksman_body',
-'3':'social_entertainer_body',
-'2':'outdoors_scout_body',
-'1':'crafting_artisan_body',
-]
+{
+	"stfFile":"newbie_tutorial/newbie_mail",
+	"entries": {
+		"collector_body":"You are using the Star Wars Galaxies Collector's Edition.  This character has a special item which is only available to Collector's Edition Users.",		"collector_subject":"Collector's Edition",		"welcome_body":"You have taken your first steps into the immense universe of Star Wars. This game mail is meant to give you a quick welcome and overview. If you need additional details on anything about the game, don't be afraid to bring up the Holocron (default: CTRL H). It offers easy-to-navigate chapters that not only teach you the game, but also gives you starting missions.
+
+Unlike many other games, there is no 'one' way to play Star Wars Galaxies. You will be able to live in and interact with the Star Wars universe in a way you never have been able to before.
+
+If you are looking for a little direction to get started, we recommend finding a local mission terminal to take some missions. After making some credits doing simple delivery or destroy missions, you may want to start upgrading your equipment. Eventually, you'll want to converse with non-player characters to find more interesting and lucrative missions or you may want to head to the adventure Theme Parks like Jabba's Palace on Tatooine.
+
+After that, you goals are largely determined by what you are interested in. For example, you may want to join the Rebellion or Empire and work your way up through the military ranks. You may wish to master multiple professions and become renown throughout the galaxy for your skills. You may want to acquire, make, or sell the best equipment in the galaxy. You might want to explore the ten worlds and find a perfect spot to build your home. You may even want to try to unlock the secret to opening a second character slot that is Force-sensitive (warning: this is extremely difficult, mysterious and dangerous). The choice is really up to you.
+ 
+Your best source for in-depth information on the game will come from other players. You can find players who are ready and willing to answer your questions right now by typing /who newbiehelper. Simply pick one off the list in your chat window and send your question by typing: /tell [player name] I'm new, could you please help me?
+
+As a final note, the game is designed around the recommended default Star Wars Galaxies controls. However if you are more comfortable with a different control set up (EQ style, FPS style or Isometric style), you can quickly remap the entire keyboard layout in the Option menus (default CTRL ) - Controls tab - Keymap button - use the dropdown menu).
+
+On behalf of the entire development team, thank you and enjoy your time in Star Wars Galaxies. May the Force be with you.
+",		"welcome_subject":"Welcome to Star Wars Galaxies",		"social_entertainer_subject":"Local Cantina Seeks Entertainer",		"science_medic_subject":"There are injured people that need your attention!",		"outdoors_scout_subject":"Good scouts are hard to come by",		"combat_marksman_subject":"There's no match for a good blaster",		"combat_brawler_subject":"So you like to hit people",		"crafting_artisan_subject":"You're going to need some money!",		"science_medic_body":"A good medic is hard to come by, so you'll always be in demand.  You can heal people at the local hospital, and there are always plenty of wounded to tend to.  If you don't feel comfortable charging for your services, maybe you should take a mission from the local mission terminal to earn some cash.   You're going to need to buy supplies to heal people, after all.",		"combat_brawler_body":"A brawler like yourself can earn good money by doing missions for people.  Just ask around to see if anyone has anything they need you to do, or seek out a mission terminal.  Careful not to get in over your head though.",		"combat_marksman_body":"Marksmen are always in demand.  Seek out a mission terminal or just ask around town to see if anyone has anything they need shot.  You're just the person to do it!",		"social_entertainer_body":"After a hard day's work everyone needs a chance to relax and unwind... and you're just the person they need to see.  Your services will always be in demand at the local cantina, and if you don't like working for tips then you could seek out a mission from the local mission board.  You might even find a mission custom-tailored for a person of your obvious talent!",		"outdoors_scout_body":"Well don't stand around here reading the holonet all day long - get out there and Scout.  Artisans will need the hides that only you can provide, so remember to harvest resources from the creatures and bring their hides back to the commodities market.  You can even earn some money along the way by taking a mission.  Why don't you stop by a mission terminal on your way out of town?",		"crafting_artisan_body":"You've got the tools to survey for all the resources you need... except hides!  If you want to advance as an artisan, you'd better make some cash to trade for the hides you'll need.  Then you can buy hides at the commodities market.  Maybe there are some missions you can do to earn some money.  Seek out a mission terminal and begin your career as a crafter."
+}}

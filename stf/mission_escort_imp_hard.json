@@ -1,7 +1,5 @@
-[
-'5':'escort_imp_hard_1',
-'4':'escort_imp_hard_5',
-'3':'escort_imp_hard_4',
-'2':'escort_imp_hard_3',
-'1':'escort_imp_hard_2',
-]
+{
+	"stfFile":"mission_escort_imp_hard",
+	"entries": {
+		"escort_imp_hard_1":"Someone from Lord Vader's ship has personally requested an escort for someone on the planet.  Make sure they reach their destination with no problems.",		"escort_imp_hard_5":"Someone from Lord Vader's ship has personally requested an escort for someone on the planet.  Make sure they reach their destination with no problems.",		"escort_imp_hard_4":"Someone from Lord Vader's ship has personally requested an escort for someone on the planet.  Make sure they reach their destination with no problems.",		"escort_imp_hard_3":"Someone from Lord Vader's ship has personally requested an escort for someone on the planet.  Make sure they reach their destination with no problems.",		"escort_imp_hard_2":"Someone from Lord Vader's ship has personally requested an escort for someone on the planet.  Make sure they reach their destination with no problems."
+}}

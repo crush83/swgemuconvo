@@ -1,10 +1,5 @@
-[
-'8':'not_space_terminal',
-'7':'target_not_server_object',
-'6':'invalid_target',
-'5':'cannot_manipulate_slot',
-'4':'cannot_manipulate',
-'3':'not_enough_money',
-'2':'access_granted',
-'1':'access_expired',
-]
+{
+	"stfFile":"player/player_utility",
+	"entries": {
+		"not_space_terminal":"[%TO] is not a space terminal.",		"target_not_server_object":"This is not a valid target for a command.",		"invalid_target":"Target for this command is invalid.",		"cannot_manipulate_slot":"This slot cannot be manipulated by you.",		"cannot_manipulate":"This object cannot be manipulated by you.",		"not_enough_money":"You don't have enough money to pay the access fee.",		"access_granted":"You have been allowed access to the structure.",		"access_expired":"Your access to this structure has expired."
+}}

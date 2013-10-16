@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/naboo_rebel_2",
+	"entries": {
+		"title_d":"We want to show the Empire that they are not untouchable in the Naboo system. Hunt down four TIE fighters and destroy them. That should be a sufficient wake up call for the Empire. When you complete this mission, return to V3-FX in Moenia for your next assignment.",		"title":"Naboo system: Hunt the TIE Fighters.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < Don't let them defeat you pilot. Get back out there and show them that the Alliance fold for no one! >",		"quest_location_t":"Naboo system.",		"quest_location_d":"The Naboo system is always dangerous for us. It has a high concentration of Imperial forces and is rumored to be the Emperors home away from home.",		"quest_destroy_t":"TIE Fighter.",		"quest_destroy_d":"The Imperial TIE fighter is built to be cheap and reliable. It doesn't have a shield system or heavy armor but it makes up for that in speed and agility. Lone TIE fighters are hard to come by, they usually travel in big packs to be more of a threat.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

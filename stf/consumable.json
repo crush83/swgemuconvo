@@ -1,4 +1,5 @@
-[
-'2':'none',
-'1':'exam_attrib_mod',
-]
+{
+	"stfFile":"consumable",
+	"entries": {
+		"none":"None",		"exam_attrib_mod":"ATTRIBUTE MODIFIERS"
+}}

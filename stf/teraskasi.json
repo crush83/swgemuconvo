@@ -1,21 +1,5 @@
-[
-'19':'forceofwill_exceptional',
-'18':'forceofwill_normal',
-'17':'forceofwill_marginal',
-'16':'forceofwill_crit_fail',
-'15':'forceofwill_unavailable',
-'14':'forceofwill_lost',
-'13':'powerboost_mind',
-'12':'powerboost_active',
-'11':'powerboost_fail',
-'10':'forceofwill_unsuccessful',
-'9':'forceofwill_fail',
-'8':'forceofwill',
-'7':'powerboost_end',
-'6':'powerboost_wane',
-'5':'powerboost_begin',
-'4':'prose_curewound',
-'3':'med_fail',
-'2':'med_end',
-'1':'med_begin',
-]
+{
+	"stfFile":"teraskasi",
+	"entries": {
+		"forceofwill_exceptional":"Through precise focus and concentration, you recapacitate with nominal side effects.",		"forceofwill_normal":"You recapacitate with a marginal groginess.",		"forceofwill_marginal":"A strong sense of fatigue overcomes you as you return to consciousness.",		"forceofwill_crit_fail":"You strain to bring yourself back to consciousness.",		"forceofwill_unavailable":"Force of Will is unavailable for %TO",		"forceofwill_lost":"You have already expired your opportunity for forced recapacitation.",		"powerboost_mind":"[meditation] You currently lack the mental capacity to focus your energies.",		"powerboost_active":"[meditation] You are unable to channel your energies any further.",		"powerboost_fail":"You must be meditating to perform that command.",		"forceofwill_unsuccessful":"You are unable to keep yourself centered, and become lost in unconsciousness.",		"forceofwill_fail":"You must be incapacitated to perform that command.",		"forceofwill":"Via supreme fortitude, you return from the brink of unconsciousness.",		"powerboost_end":"[meditation] You feel the effects of mental focus come to an end.",		"powerboost_wane":"[meditation] You feel the effects of your mental focus begin to wane.",		"powerboost_begin":"[meditation] You focus your mental energies into your physical form.",		"prose_curewound":"[meditation] Your %TO wounds heal by %DI points.",		"med_fail":"You cannot meditate in your current condition.",		"med_end":"You stop meditating.",		"med_begin":"You begin to meditate."
+}}

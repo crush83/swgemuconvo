@@ -1,19 +1,5 @@
-[
-'17':'confirm_transaction',
-'16':'cannot_use',
-'15':'can_use',
-'14':'not_certified',
-'13':'not_in_inv',
-'12':'succeed',
-'11':'inv_full',
-'10':'no_deeds',
-'9':'too_many_pobs',
-'8':'bought_chassis',
-'7':'npc_name',
-'6':'failed',
-'5':'no_money',
-'4':'already_have',
-'3':'btn_buy',
-'2':'buy_ship_prompt',
-'1':'buy_ship_title',
-]
+{
+	"stfFile":"chassis_npc",
+	"entries": {
+		"confirm_transaction":"Confirm Transaction",		"cannot_use":"It appears you are NOT certified to use the ship you are about to buy.  Are you sure you want to complete this transaction?",		"can_use":"It appears you are certified to use the ship you are about to buy.  Are you sure you want to complete this transaction?",		"not_certified":"You would not be able to fly that ship if you unpacked it.",		"not_in_inv":"The blueprints you are trying to convert are not in your inventory.  I cannot work with these.",		"succeed":"You successfully add a ship control device to your datapad.",		"inv_full":"You would have no room for these blueprints if I gave them to you.",		"no_deeds":"Oh, I'm sorry, but you don't seem to be carrying any valid ship blueprints.",		"too_many_pobs":"You already have one multi-person craft in your datapad.  You do not have room for another.",		"bought_chassis":"Congratulations on your purchase.  Happy flying!",		"npc_name":"Chassis Dealer",		"failed":"Failed to create ship.",		"no_money":"You don't have enough money for that purchase.  Stop wasting my time.",		"already_have":"You already have too many ships!",		"btn_buy":"Buy Chassis",		"buy_ship_prompt":"Please select a ship chassis you would like to purchase.",		"buy_ship_title":"Ship Chassis Sales"
+}}

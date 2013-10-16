@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/corellia_privateer_2",
+	"entries": {
+		"title_d":"Visit some of the provided waypoints and destroy any Black Sun presence you find there. When you complete this mission, return to Sergeant Rhea in Coronet for your next assignment.",		"title":"Corellia System: Search for and Destroy Black Sun Pirates",		"split_quest_alert_fail":"\#pcontrast3 Sgt Rhea: < \#pcontrast1 You appear to have hit a little snag out there Captain.  Get patched up and hunt those Black Sun down. \#pcontrast3 >",		"split_quest_alert":"\#pcontrast3 Sgt Rhea: < \#pcontrast1 You appear to have hit a little snag out there Captain.  Get patched up and hunt those Black Sun down. \#pcontrast3 >",		"quest_location_t":"Corellia System",		"quest_location_d":"Search the provided system waypoints for concentrations of Black Sun activity.",		"quest_destroy_t":"Areas of Black Sun Activity",		"quest_destroy_d":"Black Sun Pirates have been reported at or around these areas, destroy them if present.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

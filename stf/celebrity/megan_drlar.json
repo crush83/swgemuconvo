@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/megan_drlar",
+	"entries": {
+		"npc_11":"Me too.  Talk to you later if you live that long.",		"player_10":"I'm done.",		"npc_10":"My guys are here to collect salvage, but don't think that means they're pushovers.  They'll take you down if I give the word.  Got it?",		"player_9":"Your team?",		"npc_5":"Good, cause I wouldn't have let you.  And neither would my team.",		"player_6":"I'm not.",		"npc_9":"That's right.  I run a tight group here.  We're gonna make a bundle.",		"player_8":"Salvage team?",		"npc_8":"Pieces of the Death Star.  They're ours for the taking.",		"player_7":"What stuff?",		"npc_4":"Heh.  From collecting my due.  My salvage team is gonna reap the rewards of this stuff.",		"player_5":"Stop you from what?",		"npc_3":"I don't need to hear it.  As long as you're not here to stop me.",		"npc_7":"That debris is worth cold hard credits and I intend to cash out.   Just stay out of the way, all right?",		"player_4":"Debris?",		"npc_6":"Money.  Parts of the Death Star that fell to the planet.  They're worth a lot to the right bidders.  And they're all mine, so stay out of my way and stay out of my people's way.",		"player_3":"Jungle?",		"npc_2":"Well, that can get you killed.  Do you know what there is around here?",		"player_2":"I'm part of a group...",		"player_1":"I'm here on my own.",		"npc_1":"Who do you work for?  Speak up!"
+}}

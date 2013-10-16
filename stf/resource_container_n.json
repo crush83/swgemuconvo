@@ -1,24 +1,5 @@
-[
-'22':'energy_gas_small',
-'21':'energy_gas_large',
-'20':'energy_liquid_small',
-'19':'energy_liquid_large',
-'18':'energy_radioactive_small',
-'17':'energy_radioactive_large',
-'16':'energy_solid_small',
-'15':'energy_solid_large',
-'14':'inorganic_chemicals_small',
-'13':'inorganic_chemicals_large',
-'12':'inorganic_gas_small',
-'11':'inorganic_gas_large',
-'10':'inorganic_minerals_small',
-'9':'inorganic_minerals_large',
-'8':'inorganic_water_small',
-'7':'inorganic_water_large',
-'6':'organic_food_small',
-'5':'organic_food_large',
-'4':'organic_hide_small',
-'3':'organic_hide_large',
-'2':'organic_structure_small',
-'1':'organic_structure_large',
-]
+{
+	"stfFile":"resource_container_n",
+	"entries": {
+		"energy_gas_small":"Reactive gases",		"energy_gas_large":"Large crate: reactive gases",		"energy_liquid_small":"Reactive chemicals",		"energy_liquid_large":"Large crate: reactive chemicals",		"energy_radioactive_small":"Radioactive materials",		"energy_radioactive_large":"Large crate: radioactive materials",		"energy_solid_small":"Solid fuels",		"energy_solid_large":"Large crate: solid fuels",		"inorganic_chemicals_small":"Inert chemicals",		"inorganic_chemicals_large":"Large crate: inert chemicals",		"inorganic_gas_small":"Inert gases",		"inorganic_gas_large":"Large crate: inert gases",		"inorganic_minerals_small":"Minerals",		"inorganic_minerals_large":"Large crate: minerals",		"inorganic_water_small":"Water",		"inorganic_water_large":"Large crate: water",		"organic_food_small":"Edible materials",		"organic_food_large":"Large crate: edible materials",		"organic_hide_small":"Hide",		"organic_hide_large":"Large crate: hide",		"organic_structure_small":"Organic structural materials",		"organic_structure_large":"Large crate: organic structural materials"
+}}

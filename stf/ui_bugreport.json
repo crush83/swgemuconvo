@@ -1,34 +1,11 @@
-[
-'803':'severity',
-'802':'system',
-'801':'unknown',
-'800':'canbypass',
-'397':'feedback',
-'798':'sevcrash',
-'797':'skills',
-'796':'options',
-'795':'crafting',
-'794':'combat',
-'793':'travel',
-'792':'chatmail',
-'791':'none',
-'790':'instructions',
-'789':'infotext',
-'47':'yes',
-'46':'sound',
-'45':'send',
-'44':'repeatable',
-'43':'other',
-'42':'no',
-'41':'hardware',
-'40':'gameplay',
-'39':'description',
-'38':'crash',
-'37':'cancel',
-'36':'bugtype',
-'35':'art',
-'34':'cpt_bugreport',
-'799':'cantbypass',
-'805':'bugsubtype',
-'804':'mission',
-]
+{
+	"stfFile":"ui_bugreport",
+	"entries": {
+		"severity":"Severity",		"system":"Game System (if any)",		"unknown":"Unknown",		"canbypass":"Can bypass",		"feedback":"Feedback",		"sevcrash":"Causes Crash",		"skills":"Skills",		"options":"Options",		"crafting":"Crafting",		"combat":"Combat",		"travel":"Travel",		"chatmail":"Chat/Mail",		"none":"None",		"instructions":"Instructions",		"infotext":"We use bug reports to address issues with Star Wars Galaxies, but we are unable to respond directly to bug reports.  If you need immediate assistance, please create a Customer Service Ticket.
+
+When entering bugs please follow the guidelines listed below.  The more information you can give us about each bug, the better chance we have of tracking down and fixing the problem.  
+- Please use plain simple, complete sentences.
+- Please provide as much detailed information as you can.
+- If a developer can't see a problem on their machine, fixing it is difficult.  Use step by step instructions to assist in accurately reproduce bugs.
+- Include only one bug per submission.",		"yes":"Yes",		"sound":"Sound",		"send":"Send",		"repeatable":"Is this bug repeatable?",		"other":"Other",		"no":"No",		"hardware":"Hardware",		"gameplay":"Gameplay",		"description":"Description of the bug",		"crash":"Crash",		"cancel":"Cancel",		"bugtype":"Category",		"art":"Art",		"cpt_bugreport":"Bug Reporting",		"cantbypass":"Cannot  be bypassed",		"bugsubtype":"Subcategory",		"mission":"Mission"
+}}

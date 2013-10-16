@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/yavin_rebel_14",
+	"entries": {
+		"title_d":"An Imperial shuttle has malfunctioned in the Yavin system. The Alliance need to establish a new blockade run and by getting data from this spy shuttle that should be a lot easier. It won't stay immobilized for long though as the Empire without a doubt has sent a rescue team.",		"title":"Yavin system: Steal patrol routes from Imperial spy shuttle.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Yavin system.",		"quest_location_d":"With the heavy Imperial presence in the Yavin system that shuttle won't stay immobile for long. If it's not at the location when you get there the rescue team already got to it. If so, search the nearby area until you find it, destroy its escort, disable, inspect and dock with it if it's the correct shuttle.",		"quest_inspect_t":"Inspect the shuttle.",		"quest_inspect_d":"Inspect the shuttle to make sure it has the routes of the Imperial patrols. If it does, disable it and dock to transfer the data. To target specific components on a star ship, input the bracket commands ( ] or [ ) to your tactical computer.",		"quest_dock_t":"Steal the patrol route data.",		"quest_dock_d":"Dock and let your droid hack their computer for the patrol routes. If you haven't destroyed its escort already, it's probably a good idea to do so before docking.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

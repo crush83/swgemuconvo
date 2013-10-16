@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/corellia_imperial_tier3_3_a",
+	"entries": {
+		"title_d":"Eliminate the Rebel emissary as he moves through the Yavin systsem. With the information on the attack gathered from the freighter, Black Espilon has managed to determine where the Rebel emissary is. Without the Emissary the Rebels will have a hard time keeping Nym's support.",		"title":"Yavin System: Eliminate the Rebel Emissary",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Rebel Emissary",		"quest_target_d":"Intercept the Rebel emissary in the Yavin system and kill him. Without his influence it is almost assured that Nym will withdraw his support.",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"Remain in the Yavin system and eliminate the emissary. It would seem that the emissary is attempting to flee the system.",		"quest_escort_t":"Destroy the Escort Fighters",		"quest_escort_d":"Make sure that all of the emissary's escort fighters are destroyed as well. Once you have completed this task return to your commander.",		"failed_escape":"You let him get away! Now we have to wait for another opportunity to try to break the alliance. Report your failure to your commander.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy escort fighter eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"Just to be safe take out the escort fighters as well. We cannot be to careful with this situation.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Good work, pilot. Without that rebel officer working as a go between, Nym is likely to pull out of the system. Return to your commander.",		"arrival_phase_2":"Nav location to the target vessel has been located. Proceed with extreme prejudice.",		"arrival_phase_1":"Scanning system for the emissaries ship. Stand by to proceed with destoying his ship.",		"Quest Log Data":"Text"
+}}

@@ -1,23 +1,23 @@
-[
-'21':'fs_craft_puzzle_terminal',
-'20':'crowd_pleaser_music_reward',
-'19':'crowd_pleaser_dance_reward',
-'18':'fs_crafting4_computer_core',
-'17':'fs_crafting4_downed_satellite',
-'16':'fs_reflex_supply_crate',
-'15':'fs_craft_puzzle_solid_state_array',
-'14':'fs_craft_puzzle_signal_amp',
-'13':'fs_craft_puzzle_gyro_receiver',
-'12':'fs_craft_puzzle_decryption_chip',
-'11':'fs_craft_puzzle_config_processor',
-'10':'fs_craft_puzzle_calibrator',
-'9':'fs_craft_puzzle_analyzer',
-'8':'hero_of_tatooine_mark_altruism',
-'7':'hero_of_tatooine_mark_courage',
-'6':'hero_of_tatooine_mark_honor',
-'5':'hero_of_tatooine_mark_intellect',
-'4':'contract_crate',
-'3':'hero_of_tatooine_explosives',
-'2':'hero_of_tatooine_rock_crevice',
-'1':'hero_of_tatooine_explosives_crate',
-]
+{
+	"stfFile":"quest_item_d",
+	"entries": {
+		"fs_craft_puzzle_terminal":"This terminal displays the overal status of the sensor array, as well as providing information about and access to the various components installed in the array.",		"crowd_pleaser_music_reward":"This document contains the necessary information needed to learn the western style of music.
+
+Due to the difficult nature of this performance, only experienced musicians will find it possible to learn this style of music.",		"crowd_pleaser_dance_reward":"This document contains the necessary information needed to learn the theatrical style dance.
+
+Due to the difficult nature of this performance, only experienced dancers will find it possible to learn this style of dance.",		"fs_crafting4_computer_core":"A computer core salvaged from a damaged satellite.",		"fs_crafting4_downed_satellite":"This satellite fell from the sky and has long since been abandoned by whoever originally owned it. The satellite is quite damaged and beyond repair, but it is possible that some parts may still be worth salvaging.",		"fs_reflex_supply_crate":"This is a supply crate that was salvaged from a wrecked transport.",		"fs_craft_puzzle_solid_state_array":"This is the main component of any array oriented tramsmission equipment. Solid state transmitters are arranged and alligned for a broad range of communication capabilites.
+
+This is a component of a sensor array.",		"fs_craft_puzzle_signal_amp":"This component boosts the signal of both outgoing and incoming transmissions. Outgoing data is boosted to assist in long range transmission, and incoming data is analyzed for lost information and amplified for usability.
+
+This is a component of a sensor array.",		"fs_craft_puzzle_gyro_receiver":"This component includes a broad spectrum receiver unit that is able to be angled to any direction for the most accurate and efficient data reception possible. 
+
+This is a component of a sensor array.",		"fs_craft_puzzle_decryption_chip":"This component is necessary to decode potentially sensitive data. The chip takes encrypted data and converts it to a usable format.
+
+This is a component of a sensor array.
+
+",		"fs_craft_puzzle_config_processor":"This component takes real-time configuration data from a user input terminal and applies it immediately to the equipment into which it is installed. This eliminates the need for slower manual configuration.
+
+This is a component of a sensor array.",		"fs_craft_puzzle_calibrator":"This device is used to calibrate the various settings of components that are to be used in precision equipment.",		"fs_craft_puzzle_analyzer":"This device is capable of analyzing the construction techniques and core materials of an item. The resulting output is a detailed description of the resources needed and the steps required to craft that item. The object being analyzed is destroyed in this process.
+
+Be aware that this device can be used only with the items for which it was designed.",		"hero_of_tatooine_mark_altruism":"The bearer of this mark has proven outstanding altruism against overwhelming odds.",		"hero_of_tatooine_mark_courage":"The bearer of this mark has proven outstanding courage in the face of imminent danger.",		"hero_of_tatooine_mark_honor":"The bearer of this mark has proven outstanding honor when faced with difficult decisions.",		"hero_of_tatooine_mark_intellect":"The bearer of this mark has proven outstanding intellect when presented with a complex problem.",		"contract_crate":"This small crate is used to hold and transport items for a crafting job order. When the crate has been filled with the specified number of items, return to the person that gave you the job order for your payment.",		"hero_of_tatooine_explosives":"This device contains a large explosive charge that is attached to a smaller timing unit.",		"hero_of_tatooine_rock_crevice":"There is a small crevice behind this rock.  It looks like there might be enough room to cram a small object in there.",		"hero_of_tatooine_explosives_crate":"A large traveling crate.  It looks like it has been here for a very long time, and seems as if it might fall apart at any moment."
+}}

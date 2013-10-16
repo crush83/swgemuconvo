@@ -1,6 +1,5 @@
-[
-'4':'kill_credit',
-'3':'task_failure',
-'2':'quest_journal_updated',
-'1':'task_complete',
-]
+{
+	"stfFile":"quest/quests",
+	"entries": {
+		"kill_credit":"You gain credit for the quest %TO. Total left: %DI",		"task_failure":"You have failed your task.",		"quest_journal_updated":"Your quest journal has been updated.",		"task_complete":"You have completed your task!"
+}}

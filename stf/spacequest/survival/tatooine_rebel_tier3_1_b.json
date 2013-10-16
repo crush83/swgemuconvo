@@ -1,28 +1,5 @@
-[
-'26':'transmission_start',
-'25':'transmission_received',
-'24':'trans_update',
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_reachpoint_t',
-'17':'quest_reachpoint_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_defendpoint_t',
-'13':'quest_defendpoint_d',
-'12':'outofrange_failed',
-'11':'outofrange',
-'10':'mission_complete',
-'9':'found_loc',
-'8':'first_attack',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_loc',
-]
+{
+	"stfFile":"spacequest/survival/tatooine_rebel_tier3_1_b",
+	"entries": {
+		"transmission_start":"Gunboat Captain: < We need about three minutes pilot, hang in there! >",		"transmission_received":"Gunboat Captain: < Nav computer finished, prepare for jump to lightspeed! >",		"trans_update":"Gunboat Captain: < Our nav computer is calculating jump, %DI percent done. >",		"title_d":"The Empire has caught up to what's going on and are launching a full scale attack to destroy the gunboat you delivered the codes to. Cover the gunboats escape.",		"title":"Dathomir system: Defend the gunboat.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < Our infiltrators succeded their mission but they have been discovered, you need to help them out! >",		"quest_update":"Gunboat Captain: < %TO >",		"quest_reachpoint_t":"Coordinates of intercept.",		"quest_reachpoint_d":"Our reconnaissance ships tell us that these coordinates will put your right in between the incoming TIE's and our fleeing gunboat.",		"quest_location_t":"Dathomir system.",		"quest_location_d":"As if the Dathomir system wasn't dangerous enough, several squadrons of TIE's are heading your way! We know we're asking a lot pilot but you have to cover the escape of our gunboat, we need those codes!",		"quest_defendpoint_t":"Defend the area.",		"quest_defendpoint_d":"Don't let any of the Imperial fighters get past you. Our gunboat need about three minutes to calculate their jump to lightspeed.",		"outofrange_failed":"Gunboat Captain: < We are taking heavy damage from TIE Bombers! Perform emergency hyp..sp..e... >",		"outofrange":"Gunboat Captain: < Move back to the Intercept coordinates or they will slip by! >",		"mission_complete":"Gunboat Captain: < Great job pilot, we are out of here! >",		"found_loc":"We calculated some coordinates to intercept the incoming TIE-Fighters.",		"first_attack":"They are almost upon you pilot, our thoughts are with you...",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"Tactical Computer: < No more fighter vessels within sensor range. >",		"attack_notify":"Tactical Computer: < Incoming fighter vessels. Scans show weapons armed. >",		"assigned_delayed":"",		"arrived_at_loc":"Intercept the incoming TIE ships at this location."
+}}

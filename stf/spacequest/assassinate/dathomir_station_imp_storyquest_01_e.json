@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/dathomir_station_imp_storyquest_01_e",
+	"entries": {
+		"title_d":"The captive Black Sun pirate has somehow escaped. Track him down and destroy him before he makes good on his getaway.",		"title":"Dathomir System: Eliminate the Escaping Black Sun Pirate",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Station Command:\#pcontrast3 <%TO>",		"quest_target_t":"Destroy the Escaping Black Sun Pirate",		"quest_target_d":"Intercept the escaping Black Sun pirate and kill him. He cannot be allowed to escape and must be an example for others.",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"Remain in the Dathomir system and eliminate the escaping Blacksun pirate.",		"quest_escort_t":"Destroy the Escort Fighters",		"quest_escort_d":"Make sure that all of the escaping pirate's escort fighters are destroyed as well. Once you have completed this task return to the station commander.",		"failed_escape":"You let him get away! Pray that we can get another fix on his location or this will failure be reflected on your performance review. Report your failure to the station commander.",		"escort_wiped_out":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy escort fighter eliminated.>",		"escort_remaining":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI escort fighters remaining.>",		"destroy_escort":"Just to be safe take out the escort fighters as well. We cannot be to careful with this situation.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Good work, pilot. No one escapes from the Empire's mighty grasp. Return to the station commander.",		"arrival_phase_2":"Nav location to the target vessel has been located. Proceed with extreme prejudice.",		"arrival_phase_1":"Scanning system for the escaping pirate. Stand by to proceed with destoying his ship.",		"Quest Log Data":"Text"
+}}

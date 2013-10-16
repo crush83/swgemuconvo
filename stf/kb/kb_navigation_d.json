@@ -1,42 +1,133 @@
-[
-'41':'garage',
-'40':'findmedicalcenter',
-'39':'barracks',
-'38':'tavern',
-'37':'medicalcenter',
-'36':'hotel',
-'35':'starport',
-'34':'university',
-'33':'commerceguild',
-'32':'combatguild',
-'31':'theater',
-'30':'hospital',
-'29':'shuttleport',
-'28':'bank',
-'27':'cantina',
-'26':'cloningfacility',
-'25':'buildings',
-'24':'battlefields',
-'23':'findstrongholds',
-'22':'pois',
-'21':'creaturelairs',
-'20':'npclairs',
-'19':'creatures',
-'18':'npcs',
-'17':'terminalsbazaar',
-'16':'terminalsinsurance',
-'15':'terminalscloning',
-'14':'terminalsbank',
-'13':'terminalshuttleport',
-'12':'terminalsstarport',
-'11':'terminalsmissiont',
-'10':'findterminals',
-'9':'findplayers',
-'8':'thingstofind',
-'7':'longdistancetravel',
-'6':'waypoints',
-'5':'overheadmap',
-'4':'planetarymap',
-'3':'radar',
-'1':'navigation',
-]
+{
+	"stfFile":"kb/kb_navigation_d",
+	"entries": {
+		"garage":"To find a garage in another city, open your planetary map, (CTRL-V), click the "Parking Garage" sub menu on the right side and select the garage that you would like to locate.
+
+Press the button below to find the nearest Parking Garage.",		"findmedicalcenter":"To find a Medical Center in another city, open your planetary map, (CTRL-V), click the "Medical Center" sub menu on the right side, and select which city's Medical Center you would like to locate.
+
+Press the button below to find the nearest Medical Center.",		"barracks":"To find Barracks in another city, open your planetary map, (CTRL-V), click the "Barracks" sub menu on the right side, and select which city's Barracks you would like to locate.
+
+Press the button below to find the nearest Barracks.
+
+",		"tavern":"To find a Tavern in another city, open your planetary map, (CTRL-V), click the "Tavern" sub menu on the right side, and select which city's Tavern you would like to locate.
+
+Press the button below to find the nearest Tavern.
+
+",		"medicalcenter":"To find a Medical Center in another city, open your planetary map, (CTRL-V), click the "Medical Center" sub menu on the right side, and select which city's Medical Center you would like to locate.
+
+Press the button below to find the nearest Medical Center.
+
+",		"hotel":"To find a Hotel in another city, open your planetary map, (CTRL-V), click the "Hotel" sub menu on the right side, and select which city's Hotel you would like to locate.
+
+Press the button below to find the nearest Hotel.
+
+",		"starport":"To find a Starport in another city, open your planetary map, (CTRL-V), click the "Starport" sub menu on the right side, and select which city's Starport you would like to locate.
+
+Press the button below to find the nearest Starport.
+
+",		"university":"To find a University in another city, open your planetary map, (CTRL-V), click the "Guild:University" sub menu on the right side, and select which city's University you would like to locate.
+
+Press the button below to find the nearest University.
+
+",		"commerceguild":"To find a Commerce Guild in another city, open your planetary map, (CTRL-V), click the "Guild:Commerce" sub menu on the right side, and select which city's Commerce Guild you would like to locate.
+
+Press the button below to find the nearest Commerce Guild.
+
+",		"combatguild":"To find a Combat Guild in another city, open your planetary map, (CTRL-V), click the "Guild:Combat" sub menu on the right side, and select which city's Combat Guild you would like to locate.
+
+Press the button below to find the nearest Combat Guild.
+
+",		"theater":"To find a Theater in another city, open your planetary map, (CTRL-V), click the "Guild:Theater" sub menu on the right side, and select which city's Theater you would like to locate.
+
+Press the button below to find the nearest Theater.
+
+",		"hospital":"To find a Medical Center in another city, open your planetary map, (CTRL-V), click the "Medical Center" sub menu on the right side, and select which city's Medical Center you would like to locate.
+
+Press the button below to find the nearest Medical Center.
+
+",		"shuttleport":"To find a Shuttleport in another city, open your planetary map, (CTRL-V), click the "Shuttleport" sub menu on the right side, and select which city's Shuttleport you would like to locate.
+
+Press the button below to find the nearest Shuttleport.
+
+",		"bank":"To find a Bank in another city, open your planetary map, (CTRL-V), click the "Bank" sub menu on the right side and select which city's Bank you would like to locate.
+
+Press the button below to find the nearest Bank.
+
+",		"cantina":"To find a Cantina in another city, open your planetary map, (CTRL-V), click the "Cantina" sub menu on the right side, and select which city's Cantina you would like to locate.
+
+Press the button below to find the nearest Cantina.
+
+",		"cloningfacility":"To find a Cloning Facility in another city, open your planetary map, (CTRL-V), click the "Cloning Facility" sub menu on the right side, and select which city's Cloning Facility you would like to locate.
+
+Press the button below to find the nearest Cloning Facility.
+
+",		"buildings":"Finding buildings in Star Wars Galaxies is very easy if you know how to use the /find command. Check the building types below to see how to find each kind of building.",		"battlefields":"PVE and PVP Battlefields are recognizable by the ring of banners that encircles them. Once you reach the outer ring, you will be prompted to choose a side before joining the battle. If you are already factioned, you will enter on the side to which you are declared.",		"findstrongholds":"Strongholds are large compounds that will be very hard to overcome alone. A suggestion would be to bring friends with you and explore the areas outside of cities with caution.
+
+You never know, you just might come across one.",		"pois":"Finding Points of Interest (POIs) is simply a matter of exploring the world. If you should be exploring a planet and see a structure or cluster of structures, it's most likely a POI.",		"creaturelairs":"Creature lairs are found outside of towns in the wilderness areas. They are typically surrounded by the creatures that they have spawned, and if attacked will spawn more creatures. ",		"npclairs":"NPC lairs are few and far between. These consist of the Emperor's Retreat, the Darklighter Estate, and many others. You will have to consult other player explorers to discover the locations of these uncommon locations.",		"creatures":"Creatures can be found in many places. Some are in the city streets, some are in caves and dungeons, but most are scattered outside of towns on every planet in the galaxy.",		"npcs":"NPCs or Non-Player Characters are scattered all over the game.  Some are there to train you, some give you missions, and some just have the job of bringing a city to life, by walking around, having a chat with another NPC, or just patrolling the city streets.",		"terminalsbazaar":"Bazaar terminals can most often be found around the outside of Starports. Sometimes they are right near the door, sometimes around the back, but usually always near the Starports. 
+
+If the town you are in does not have a Starport, then try looking around the Shuttleport.
+",		"terminalsinsurance":"Insurance terminals can only be found inside Cloning Facilities. 
+
+While Cloning terminals only apply to the facility that they are in, Insurance is universal. If you should die with insured items on you, they will be on you when you clone, no matter where that is.",		"terminalscloning":"Cloning terminals can only be found at Cloning Facilities. Cloning terminals only represent the Cloning Facility that they are located inside of. For instance you can't pay for cloning on Naboo, while you are on Tatooine. ",		"terminalsbank":"Bank terminals can be found at the bank. Check your map to locate the closest bank, or use the "Bank" submenu in the "Finding Buildings" section.",		"terminalshuttleport":"All Shuttleport terminals can always be found at the Shuttleports themselves.",		"terminalsstarport":"Starport terminals can only be found inside the Starports.",		"terminalsmissiont":"Mission terminals can usually be found scattered throughout the cities. There is no guaranteed place you can find them in every city, but there are typically some by the main entrances to every city in the galaxy. Special "Faction" Mission terminals are only found in specific, but appropriate places. For instance, there is an Imperial Mission terminal located at the Imperial base just up the hill from Bestine on Tatooine.",		"findterminals":"Finding Terminals in Star Wars Galaxies can be a bit tricky at first, but once you get the hang of it, it's easy.
+
+Check the links below to learn more about the locations of specific types of terminals.",		"findplayers":"Finding other players in Star Wars Galaxies is very easy.
+
+In your tool bar (lower right part of your screen by default), there is a "Community" button you can press to open the Community Interface. You can also access the Community Interface by hitting CTRL-P. 
+
+Once in this interface, there are several tabs that refer to your character, your Friends list, your Ignore list, etc. One of the tabs is called "Search", and by pressing it, you can search for other players.
+
+You can set certain filters to search by Faction, Species, Profession, Title, whether they are looking for a group, or if they are a Newbie Helper, or even if they are a roleplayer.
+
+Once you have selected your criteria, just press the "Search" button and the results of your search are displayed in the field below.
+",		"thingstofind":"How do I find things in Star Wars Galaxies? 
+
+Click on one of the options below to find out.",		"longdistancetravel":"Traveling Long Distances in Star Wars Galaxies can be accomplished in a few ways.
+
+First and foremost, you can choose to run. This method is the least expensive, in fact, it can cost you nothing, but it takes the most time. When running through the wilds, be sure to remember that there are creatures out there that might not appreciate you running through their territory. Althought, running is the least expensive method of travel, it will not, obviously, get you from one planet to another.
+
+Another method of travel is using the Shuttleports and Starports to move from different cities on the same planet, or to go from planet to planet.
+
+Shuttleports will offer you safe passage from the city you are in, to any other city on the same planet, which has a Shuttleport or Starport. Please remember that Shuttleports cannot leave the planet you are on.
+
+Starports on the other hand can take you to other Starports, whether on the same planet you are on, or another planet. Keep in mind that every Starport may not have access to every other Starport on every other planet. For instance, hard to reach planets, like Endor, are not reachable from every location. It's up to you to find your way to those locations.
+
+Traveling by Shuttleport and Starport does cost credits. As a rule, the farther you want to go, the more credits it takes to get there.
+
+
+The third means of traveling long distance is by mounts or vehicles.
+
+",		"waypoints":"Star Wars Galaxies has an extensive waypoint system that is meant to make navigation around the massive worlds an easy task.
+
+To create a waypoint, all you need to do is to open up your Datapad, by either selecting the Datapad icon in the icon toolbar, or by hitting CTRL-D while in game.
+
+Once inside the Datapad, make sure you have the "Data" tab selected and then click the "New Waypoint" button. This will create a waypoint at your present coordinates for future use. To activate this waypoint, all you need to do is left click and hold on the waypoint icon and select "Activate". The waypoint will appear as a shaft of light at that spot, and will appear as a tick on your radar until you either "Deactivate" it or destroy that waypoint.
+
+Activating, Deactivating, and Destroying waypoints can be done to any waypoint in your Datapad. Another option you have when you bring up the radial menu on a waypoint is "Set Name". This feature is exceptionally nice as you can name your created waypoints something that makes more sense to you when you have to identify waypoints at a glance in the future. ",		"overheadmap":"You can access the Overhead Map by hitting CTRL-M while in game. This map is used primarily in cities, or inside of buildings to help you navigate them easier. 
+
+You can zoom in and out in this map by holding CTRL and using the mouse wheel backwards and forwards. 
+
+In this map, you see the shapes of the buildings around you, with the names of the buildings (if they have names), in the middle of their shape. Your character is represented by a small, white, arrow on this map with the arrow pointing in the direction you are facing. This tool can be invaluable for helping you navigate through unfamiliar cities and finding the necessary buildings.
+
+To close this map, just hit CTRL-M once more.",		"planetarymap":"The Planetary Map is accessible by hitting CTRL-V while in game, or by selecting the icon on the far left of your icon toolbar (default location is the lower right of your screen). Once open, you have an overhead representation of the planetary map grid. 
+
+While hovering your mouse cursor over the areas of the map that don't have visible icons on it, it appears as an open hand icon. By left click dragging you can move the map around a bit within this interface. By double clicking on any spot on the map you zoom into that spot. Zooming in and out can also be accomplished by using the Zoom Slider underneath the map section of this screen. 
+
+By right clicking on any section of the map field, you will get the name of what you are clicking on. For instance, if it's not over an icon it will show the planet name. If it's over an icon, it will give the name of what that icon represents. Underneath the name, you also get a "create waypoint" option that allows you to make a waypoint at that spot so you can navigate to it.
+
+On the right side of the Planetary Map is the Locations Menu. By clicking  on the folders in this menu, you open them up and can select any one of the preset locations on the planet. When you click on a partcular item, the icons for that item appear on the map. Once on the map, you can right click on the one you wish to go to and create a waypoint there for easy navigation.
+
+Underneath the Location Menu are filter boxes that you can check or uncheck to either show or hide certain features on the map.
+
+Of course, there is also a "show help" option in this interface to further assist you in this interface.
+",		"radar":"Your Radar is located in the lower left corner of your screen, (by default).
+
+You can move your radar around the screen and place wherever you like by moving your cursor over it until the yellow crosshairs appear, pressing and holding the left mouse button and dragging to the desired screen position. When you have the radar where you want it, release the left mouse button and the radar will stay in that spot.
+
+On your radar screen, you will see four points along the edge that don't resemble any English letters that we would normally associate with a compass. The three stacked, horizontal lines represent North on the radar. Like a compass, moving clockwise from North, the next mark will be East, the mark at the bottom represents South, then the last mark represents West.
+
+The topmost position on your radar represents what heading your camera is pointing at all times. As you rotate your camera, your radar will rotate accordingly.
+
+To change the scope of your radar reading, there are two buttons that you can click with your cursor that will change the scope of what your radar is detecting. The buttons are located along the right side of the radar screen, the (+) is near the top right, and the (-) is near the bottom right. The smallest scope you can set your radar at is 32m, and the largest scope is 1024m. This indicates the radius distance, or the distance from the center of the radar screen to the edge of the radar screen.
+
+You can resize the radar on your HUD by Hovering the cursor near the edge of it until you get the resize option. Then, left click and drag to increase or decrease the size of your radar until you reach the desired size. ",		"navigation":"Navigation in Star Wars Galaxies can be quite overwhelming at first, but once you start to grasp how to interpret the windows, you will discover that it's actually very easy."
+}}

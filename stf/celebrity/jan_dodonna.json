@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/jan_dodonna",
+	"entries": {
+		"npc_11":"I worry about the universe sometimes...and this is why.",		"player_10":"No, I'm serious.",		"npc_10":"Well, keep it to yourself, that's my advice.  People don't like a tough guy unless they need one.  Or unless they really are bad people.",		"player_9":"Maybe a little.",		"npc_5":"That's a bit negative isn't it?  Surely you're just saying that to sound tough...",		"player_6":"I assume they're enemies.",		"npc_9":"Well, I'm just a silly old man sometimes.  But don't look at people too negatively.  Sometimes they can surprise you.",		"player_8":"That seems unwise.",		"npc_8":"I hope so.  But I also hope for the best all the time.  ",		"player_7":"That's encouraging.",		"npc_4":"You're probably the better man for it.  Me, I just can't think of people negatively until they've done something to lose my trust.",		"player_5":"I never make assumptions.",		"npc_3":"Until they prove otherwise.  Don't you?",		"npc_7":"That's why I do it.",		"player_4":"Well, thanks.  That's nice of you.",		"npc_6":"Just a tired old soldier.",		"player_3":"Ah.  And who are you?",		"npc_2":"Probably not.  Just being friendly is all. ",		"player_2":"Do you assume everyone's a friend?",		"player_1":"Do I know you?",		"npc_1":"How are things going friend?"
+}}

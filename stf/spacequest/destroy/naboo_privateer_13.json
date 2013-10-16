@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/naboo_privateer_13",
+	"entries": {
+		"title_d":"Clear the area of Ay'Nat activity",		"title":"Naboo System: Search For and Destroy Ay'Nat Ghost Fighters.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Naboo System",		"quest_location_d":"Search the system for areas of Ay'Nat activity",		"quest_destroy_t":"Search and Destroy",		"quest_destroy_d":"A pair of locations known for Ay'Nat Ghost activity",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

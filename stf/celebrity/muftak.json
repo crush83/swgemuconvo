@@ -1,7 +1,5 @@
-[
-'5':'npc_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/muftak",
+	"entries": {
+		"npc_3":"I don't think so.",		"npc_2":"No thanks.",		"player_2":"Buy me a drink?",		"player_1":"How bout some friendly chatter?",		"npc_1":"I'm just here to have a drink."
+}}

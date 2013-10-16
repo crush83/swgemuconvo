@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/poi_tatooine_general_1",
+	"entries": {
+		"title_d":"The Most Eisley Police Captain, Kelen Wordkal, personally overlooks the process for clearing freighters to their destinations. It is normal protocal for the freighters to report back to the captain when they have reached their destination. However, as of late, the freighters that have been cleared to venture through the Ghost Tides Nebula to the mining station beyond have never returned nor have they checked in with the captain. Kelen Wordkal fears the worst. It is your duty to unravel the mystery of the Ghost Tides Nebula Disappearances.",		"title":"Tatoo System: Patrol the Ghost Tides",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast1 Mos Eisley Captain:\#pcontrast3 < Pilot! I'm detecting enemy vessels with armed weapon systems coming your way! >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol the Ghost Tide Nebula",		"quest_patrol_d":"Patrol the Ghost Tide Nebula and keep your systems alert for suspicious activity.",		"quest_location_t":"Tatoo System",		"quest_location_d":"If in another system, travel to the Tatoo System by using your hyperspace map (by pressing "H") and clicking a Hyperspace point.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

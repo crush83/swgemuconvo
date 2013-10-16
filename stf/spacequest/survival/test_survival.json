@@ -1,28 +1,5 @@
-[
-'26':'transmission_start',
-'25':'transmission_received',
-'24':'trans_update',
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_reachpoint_t',
-'17':'quest_reachpoint_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_defendpoint_t',
-'13':'quest_defendpoint_d',
-'12':'outofrange_failed',
-'11':'outofrange',
-'10':'mission_complete',
-'9':'found_loc',
-'8':'first_attack',
-'7':'autorewardsubject',
-'6':'autorewardfrom',
-'5':'autorewardbody',
-'4':'attack_stopped',
-'3':'attack_notify',
-'2':'assigned_delayed',
-'1':'arrived_at_loc',
-]
+{
+	"stfFile":"spacequest/survival/test_survival",
+	"entries": {
+		"transmission_start":" \#pcontrast3 Comm Computer: < \#pcontrast1 Rebel transmission detected. Recording started. \#pcontrast3 >",		"transmission_received":" \#pcontrast3 Comm Computer: < \#pcontrast1 100% of transmission received. Checksum validation complete. Transmission is authentic. \#pcontrast3 >",		"trans_update":" \#pcontrast3 Comm Computer: < \#pcontrast1 %DI% of Rebel transmission received. \#pcontrast3 >",		"title_d":"1",		"title":"Intercept the Rebel transmission.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":" \#pcontrast3 Imperial Command: < \#pcontrast1 %TO \#pcontrast3 >",		"quest_reachpoint_t":"3",		"quest_reachpoint_d":"3",		"quest_location_t":"2",		"quest_location_d":"2",		"quest_defendpoint_t":"4",		"quest_defendpoint_d":"4",		"outofrange_failed":" \#pcontrast3 Comm Computer: < \#ff0000 Transmission signal lost! \#pcontrast3 >",		"outofrange":" \#pcontrast3 Comm Computer: < \#ff0000 Transmission signal fading. Signal is too distant! \#pcontrast3 >",		"mission_complete":"Good job, return to base with the transmission!",		"found_loc":"We've found an ideal location to intercept the Rebel beam-wave transmission. Go there now.",		"first_attack":"System scans have detected Rebel ships at lightspeed moving in your direction. You've been detected. Defend yourself, but get that transmission!",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":" \#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy attack wing has been eliminated. \#pcontrast3 >",		"attack_notify":" \#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy ships detected on attack vector. \#pcontrast3 >",		"assigned_delayed":"",		"arrived_at_loc":"The Rebel transmission will be easy to intercept here. Don't stray too far from this point. The transmission should start at any moment."
+}}

@@ -1,5 +1,5 @@
-[
-'4':'arrow',
-'3':'claw',
-'2':'wall',
-]
+{
+	"stfFile":"space/space_formation",
+	"entries": {
+		"arrow":"Arrow",		"claw":"Claw",		"wall":"Wall"
+}}

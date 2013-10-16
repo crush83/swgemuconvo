@@ -1,12 +1,5 @@
-[
-'11':'away_from_keyboard_automatic_time_one',
-'10':'away_from_keyboard_automatic_off',
-'9':'away_from_keyboard_automatic_on',
-'8':'away_from_keyboard_automatic_disabled',
-'7':'away_from_keyboard_on',
-'6':'away_from_keyboard_off',
-'5':'away_from_keyboard_default_message',
-'4':'away_from_keyboard_automatic_response_prefix',
-'3':'away_from_keyboard_automatic_time_invalid',
-'2':'away_from_keyboard_automatic_time_many',
-]
+{
+	"stfFile":"ui_afk",
+	"entries": {
+		"away_from_keyboard_automatic_time_one":"You will automatically be set to away from keyboard status in %DI minute of inactivity.",		"away_from_keyboard_automatic_off":"Your status is no longer automatically marked as away from keyboard.",		"away_from_keyboard_automatic_on":"Your status is now automatically marked as away from keyboard.",		"away_from_keyboard_automatic_disabled":"Automatic away from keyboard status is disabled.",		"away_from_keyboard_on":"You are now away from the keyboard.",		"away_from_keyboard_off":"You are no longer away from the keyboard.",		"away_from_keyboard_default_message":"I am currently away from the keyboard.",		"away_from_keyboard_automatic_response_prefix":"AFK auto-response: ",		"away_from_keyboard_automatic_time_invalid":"The valid time range before away from keyboard status is automatically enabled is 0 - 30 minutes. A time of 0 disables automatic afk status.",		"away_from_keyboard_automatic_time_many":"You will automatically be set to away from keyboard status in %DI minutes of inactivity."
+}}

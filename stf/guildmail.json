@@ -1,23 +1,6 @@
-[
-'21':'decline_target_text',
-'20':'decline_target_subject',
-'19':'accept_target_text',
-'18':'accept_target_subject',
-'17':'leave_text',
-'16':'leave_subject',
-'15':'leaderchange_text',
-'14':'leaderchange_subject',
-'13':'namechange_text',
-'12':'namechange_subject',
-'11':'decline_text',
-'10':'decline_subject',
-'9':'kick_text',
-'8':'kick_subject',
-'7':'accept_text',
-'6':'accept_subject',
-'5':'sponsor_text',
-'4':'sponsor_subject',
-'3':'disband_not_enough_members_text',
-'2':'disband_text',
-'1':'disband_subject',
-]
+{
+	"stfFile":"guildmail",
+	"entries": {
+		"decline_target_text":"%TU has declined your sponsorship for %TT.",		"decline_target_subject":"Guild Sponsorship Declined",		"accept_target_text":"%TU has accepted you into %TT as a member.",		"accept_target_subject":"Accepted to Guild",		"leave_text":"%TU has removed themselves from the guild.",		"leave_subject":"Member Left Guild",		"leaderchange_text":"%TU is the new guild leader.",		"leaderchange_subject":"Guild Leader Changed",		"namechange_text":"%TO has renamed the guild to %TU <%TT>.
+",		"namechange_subject":"Guild Name Changed",		"decline_text":"%TU has turned down %TT for membership in the guild.",		"decline_subject":"Sponsored Guild Member Turned Down",		"kick_text":"%TU has removed %TT from the guild.",		"kick_subject":"Guild Member Removed",		"accept_text":"%TU has accepted %TT into the guild as a member.",		"accept_subject":"New Guild Member Accepted",		"sponsor_text":"%TU has sponsored %TT for membership in the guild.",		"sponsor_subject":"Guild Sponsorship",		"disband_not_enough_members_text":"The guild has been disbanded due to lack of members.",		"disband_text":"The guild has been disbanded by %TU.",		"disband_subject":"Guild Disbanded"
+}}

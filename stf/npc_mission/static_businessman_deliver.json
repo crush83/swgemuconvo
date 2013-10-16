@@ -1,21 +1,5 @@
-[
-'31':'player_3_2',
-'30':'player_3_1',
-'29':'npc_4_2',
-'28':'npc_4_1',
-'27':'player_2_2',
-'26':'player_1_2',
-'25':'npc_reward_2',
-'24':'npc_3_2',
-'23':'npc_2_2',
-'22':'npc_1_2',
-'21':'player_2_1',
-'20':'player_1_1',
-'19':'npc_reward_1',
-'18':'npc_3_1',
-'17':'npc_2_1',
-'16':'npc_1_1',
-'9':'not_it',
-'2':'cantwork',
-'1':'gotowork',
-]
+{
+	"stfFile":"npc_mission/static_businessman_deliver",
+	"entries": {
+		"player_3_2":"What is the item exactly?",		"player_3_1":"What was in the briefcase?",		"npc_4_2":"It's an autographed trophy from some sports figure.  I don't know who he is, but I want to get it to him so he can sell it.",		"npc_4_1":"All the paperwork that needs to be signed at the meeting.  It's vitally important that it get there.",		"player_2_2":"Sorry, I'm a bit busy at the moment.",		"player_1_2":"No problem.  I was looking for something to do.",		"npc_reward_2":"Here you go.  See I had good seats, and I didn't let them tear it.  You should be able to get something for it if you want.",		"npc_3_2":"That's too bad.  I'll find somebody useful.",		"npc_2_2":"Great.  I'll make sure he gets the message that you're coming.",		"npc_1_2":"My partner was on his way to an auction to sell off some of our assets.  We need the money to keep our business afloat, but he forgot one of the items we were selling.  Can you take it to him?  He's right outside of town.",		"player_2_1":"Nah, I don't feel like it.",		"player_1_1":"Sure I'll drop it off.",		"npc_reward_1":"Here you go.  It needs some ink, but you'll never have one better.",		"npc_3_1":"Well, if you can't help me I hope I can find someone who can.",		"npc_2_1":"Excellent.  He'll pay you when you make the delivery.",		"npc_1_1":"My partner needs to get his briefcase back!  He left for a meeting without it.  If you can take it to him I'll have him give you some engraved pens from our company business.",		"not_it":"No, sorry, that's not the item I was looking for...",		"cantwork":"I understand you're already working for someone else.  Come back when you're done with that job.",		"gotowork":"I need you to finish that task I gave you earlier.  Ok?"
+}}

@@ -1,5 +1,5 @@
-[
-'3':'rebel',
-'2':'imperial',
-'1':'neutral',
-]
+{
+	"stfFile":"pvp_factions",
+	"entries": {
+		"rebel":"Rebel",		"imperial":"Imperial",		"neutral":"Neutral"
+}}

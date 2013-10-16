@@ -1,15 +1,5 @@
-[
-'13':'title_d',
-'12':'title',
-'11':'split_quest_alert_fail',
-'10':'split_quest_alert',
-'9':'quest_location_t',
-'8':'quest_location_d',
-'7':'quest_destroy_t',
-'6':'quest_destroy_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/destroy/master_rebel_1",
+	"entries": {
+		"title_d":"Admiral Willham has formulated a plan to take control of the Kessel system for the Alliance. You have been ordered to weaken the Imperial forces who have already taken up positions inside the system. The black holes in the system make it impossible to get a lock on individual ships so it will be nessecary to seek and destroy all targets involved. You are required to hunt down fighters and smaller, none capital, command vessels. The vessels that you are required to destroy are TIE variants and the Imperial Gunboats.",		"title":"Kessel System: Seek and Destroy Imperial Fighters",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Travel to the Kessel System",		"quest_location_d":"The target area is the Kessel system. You are to travel to Kessel and attack any of the Imperial forces that are within the system. This should weaken the Imperials, so that they are unable to properly fortify the system.",		"quest_destroy_t":"Destroy Thirty Imperial Fighters",		"quest_destroy_d":"Hunt down and destroy any 30 Imperial Gunboats, TIE Advanced fighters, TIE Aggressor fighters, TIE Interceptors, or TIE Oppressors.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

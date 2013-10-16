@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_location_t',
-'9':'quest_location_d',
-'8':'quest_inspect_t',
-'7':'quest_inspect_d',
-'6':'quest_dock_t',
-'5':'quest_dock_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/inspect/stn_endor_irs_imp_tier3_2b",
+	"entries": {
+		"title_d":"On command by Admiral Kilnstrider, inspect the suspicious ship near a distant nebula.",		"title":"Endor System: Intrigue",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Kilnstrider: < \#pcontrast1 I suspected as much. Wait, we have a ship moving fast from that location.  Get into persuit, do not let them get away Captain. \#pcontrast3 >",		"quest_location_t":"Endor System",		"quest_location_d":"a Nebula in the Endor System just outside of normal sensor sweeps.",		"quest_inspect_t":"Inspection",		"quest_inspect_d":"Target the craft and use the default 'I' key or /inspect to determine what cargo they possess.",		"quest_dock_t":"Dock",		"quest_dock_d":"If the target has the cargo you are interested in, disable them by targeting either the engines or reactor with the default component cycle keys '[' or ']', once the ship is disabled you can pull up close and with the ship targeted use the /dock command to retrieve the cargo.",		"autorewardsubject":"Intrigue",		"autorewardfrom":"Endor Station",		"autorewardbody":"Completion Bonus: Intrigue (5000)",		"assigned_delayed":""
+}}

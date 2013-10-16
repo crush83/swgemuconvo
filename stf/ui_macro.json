@@ -1,5 +1,17 @@
-[
-'3':'help_text',
-'2':'help_icon',
-'1':'help_name',
-]
+{
+	"stfFile":"ui_macro",
+	"entries": {
+		"help_text":"This is the actual macro definition.
+
+Here is an example macro:
+Hi there;
+/stand;
+/pause 3;
+/bow %TT;
+
+The first line is a text string that is spoken as spacial chat.  The second line calls the command Stand.  The third line makes the macro wait 3 seconds.  The final line makes your character bow to your current target.  See your documentation for more information about macros.",		"help_icon":"Select an icon to associate with this macro.",		"help_name":"This is the Macro page.
+
+You can create and edit macros here.
+
+This first entry is the name of the macro.  It must be one word."
+}}

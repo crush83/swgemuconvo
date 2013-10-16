@@ -1,27 +1,5 @@
-[
-'25':'heavy_weapon_accuracy',
-'24':'heavy_weapon_speed',
-'23':'thrown_speed',
-'22':'thrown_accuracy',
-'21':'carbine_accuracy',
-'20':'carbine_speed',
-'19':'mask_scent',
-'18':'melee_defense',
-'17':'onehandmelee_accuracy',
-'16':'onehandmelee_speed',
-'15':'pistol_accuracy',
-'14':'pistol_speed',
-'13':'polearm_accuracy',
-'12':'polearm_speed',
-'11':'ranged_accuracy',
-'10':'rifle_accuracy',
-'9':'rifle_speed',
-'8':'twohandmelee_accuracy',
-'7':'twohandmelee_speed',
-'6':'unarmed_accuracy',
-'5':'unarmed_speed',
-'4':'consume',
-'3':'ranged_defense',
-'2':'melee_accuracy',
-'1':'base',
-]
+{
+	"stfFile":"skill_buff_d",
+	"entries": {
+		"heavy_weapon_accuracy":"By increasing the focus of your observation power, this supplement increases your accuracy with heavy weapons.",		"heavy_weapon_speed":"Once the deltoids expand the speed with which you can fire heavy weapons increases.",		"thrown_speed":"The Brachii muscles contract faster after an injection of this compound, allowing you to throw weapons faster.",		"thrown_accuracy":"By increasing the vision of your eyes and making it easier to track targets, this solution increases your accuracy with thrown weapons.",		"carbine_accuracy":"By aligning the muscle mass of the wrist and forearm you can fire a carbine weapon with greater accuracy.",		"carbine_speed":"By increasing the muscle mass of the wrist and forearm you can fire a carbine weapon with greater speed.",		"mask_scent":"This liquid contains specially designed pheremones that hide the smells normally produced by a living organism, allowing them to hide from creatures that use scent to track predators and prey.",		"melee_defense":"By thickening the skin for a short period of time your defense against melee attacks is increased.",		"onehandmelee_accuracy":"With the triceps stretched to above normal standards your accuracy improves with one handed weapons.",		"onehandmelee_speed":"By increasing the flexibility of your tendons you become faster with one handed weapons.",		"pistol_accuracy":"By increasing your focused vision you can become more accurate with pistols using this formula.",		"pistol_speed":"By increasing the muscle tension in your fingers you can increase the speed with which you fire a pistol.",		"polearm_accuracy":"Your accuracy with a polearm is increased with the use of this shot, giving your biceps a temporary boost.",		"polearm_speed":"By expanding different parts of the muscles in specific ways the speed with which you can wield a long weapon (pole-arm) is increased.",		"ranged_accuracy":"The accuracy of your attacks with all ranged weapons is improved with this formula that enhances your long range vision for a short time.",		"rifle_accuracy":"Your accuracy with the rifle is improved by this chemical by allowing your vision to focus at a longer range than normal.",		"rifle_speed":"By increasing the metacarpal muscles reaction time you can increase the speed with which you can fire a rifle.",		"twohandmelee_accuracy":"By enlarging the ligaments of your muscles for a brief time you can hit more accurately with heavy two-handed weapons.",		"twohandmelee_speed":"By increasing the tension in your muscles you can attack with heavy two-handed weapons faster than normal.",		"unarmed_accuracy":"By increasing your focus this chemical makes your unarmed attacks more accurate.",		"unarmed_speed":"By increasing muscle flexibility you can increase the speed with which you make unarmed attacks.",		"consume":"You feel enhanced!",		"ranged_defense":"The synthesized Muscle Stimulant (or SMS) enhances your ranged defenses for a short period of time.",		"melee_accuracy":"This vapor improves your focus and enhances your melee combat accuracy for a short while.",		"base":"These items enhance your skills."
+}}

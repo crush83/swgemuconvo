@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/corellia_rebel_tier3_1_a",
+	"entries": {
+		"title_d":"Even though the captured the spy, the presence of Imperial fighters shows that he had already managed to contact his contractors. We can't take any chances and need to do a emergency evacuation of our fleet. You need to help by clearing out any Imperial ships in the escape route. Travel ahead of the fleet and purge any Imperial ships you come across.",		"title":"Yavin system: Clear escape route in front of escaping Rebel fleet.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < Scans show a Imperial patrol heading in your direction. Take them out before they spot our fleet. >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Follow the uploaded coordinates.",		"quest_patrol_d":"We are uploading the coordinates of the blockade run on the fly. Follow the waypoints as they appear and terminate any Imperial presence quickly.",		"quest_location_t":"Yavin system.",		"quest_location_d":"Moving this massive fleet out of the Yavin system will be very difficult. There's an enormous Imperial presence in this system. It is our hope that you will clear any small patrols of Imperial ships and the Empire will just take it as a minor attack and not send a big backup before the fleet can sneak out.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

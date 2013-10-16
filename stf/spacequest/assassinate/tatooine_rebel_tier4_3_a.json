@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_rebel_tier4_3_a",
+	"entries": {
+		"title_d":"The Imperial space station commander is trying to escape! Eliminate him before he can jump to lightspeed!",		"title":"Endor system: Prevent the station commander from escaping.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"General Ufwol: < %TO >",		"quest_target_t":"Station commander.",		"quest_target_d":"The station commander is travelling in a heavily armored and armed shuttle model 'Lambda'. He's also got a large escort so prepare for a difficult battle.",		"quest_location_t":"Endor system.",		"quest_location_d":"Most of the Imperial forces are either fleeing or trying to get reinforcements. The area still have a lot of them though so stay on your toes!",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"Bah, he got away! This will go in to your record pilot. Return to base.",		"escort_wiped_out":"General Ufwol: < His escort is terminated, now take that shuttle down! >",		"escort_remaining":"General Ufwol: < Concentrate on the commander pilot, you can't let him get away. >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Excellent pilot, looks like I sent the right man for the job. Return to base.",		"arrival_phase_2":"This is the last known location of the commander, intercept and destroy his shuttle!",		"arrival_phase_1":"Several of the station officers are trying to escape. We're sending you after the commander, don't disappoint me pilot.",		"Quest Log Data":"Text"
+}}

@@ -1,27 +1,5 @@
-[
-'25':'title_d',
-'24':'title',
-'23':'split_quest_alert_fail',
-'22':'split_quest_alert',
-'21':'quest_update',
-'20':'quest_location_t',
-'19':'quest_location_d',
-'18':'quest_helpallies_t',
-'17':'quest_helpallies_d',
-'16':'quest_findbattle_t',
-'15':'quest_findbattle_d',
-'14':'found_loc',
-'13':'enemies_win',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remain',
-'2':'allies_arrived',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/space_battle/corellia_imperial_tier3_2_c",
+	"entries": {
+		"title_d":"Remain in the Yavin system and help the Hutts beat Nym in a battle. You will receive a navigation waypoint to the place where the battle is going to take place. Travel to this location and wait for the arrival of the Hutts and Nym's men. When the battle is joined, assist the Hutts on destroying Nym's men before Nym's men can wipe out the Hutts. If all of the Hutts die then you will have lost the battle. Be very careful because the Hutts are not friendly and will fire on you.",		"title":"Yavin System: Help the Hutts Battle Nym's Forces",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Black Epsilon Command:\#pcontrast3 <%TO>",		"quest_location_t":"Remain in the Yavin System",		"quest_location_d":"Remain in the Yavin system and assist the Hutts in destroying Nym's men. Travel to the navigation waypoint that you will receive to the battle location.",		"quest_helpallies_t":"Help the Hutts Defeat Nym's Men",		"quest_helpallies_d":"Once at the battle location, wait for the arrival of Nym's forces and for the battle to start. Destroy all of Nym's men before they can destroy all of the Hutts. The Hutts are outnumbered so your assistance is important. Becareful, since the Hutts are not friendly to the Empire they may open fire on you.",		"quest_findbattle_t":"Travel to the Battle Location",		"quest_findbattle_d":"Travel to the supplied navigation waypoint that will be given to you. This waypoint will lead you to the location that the battle will take place.",		"found_loc":"Located coordinates of projected attack by Nyms forces. Assist the Hutt defenders in the area. Remember the Hutts are not friendlies and will fire on you. Do not destroy any of the Hutt defenders.",		"enemies_win":"Blast it! Nym has won the day. Now they have the confidence that they can fight both the Empire and Hutt forces. This operation is a failure. Report back to your superior.",		"enemies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI Nym fighters remaining.>",		"enemies_arrived":"Nym's forces have jumped into the system. They are heading towards the Hutts at attack speeds.",		"battle_started":"Nym's forces have engaged the Hutts. Make sure that the Hutts are victorious.",		"battle_abandoned":"What are you doing? You left the Hutt forces outnumbered and outclassed. Nym needs to fear the Hutts not think of them as easy prey. This is unacceptable! Report back to your commanding officer.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"allies_win":"Nice work. Nym's forces have been wiped out. They will have to think twice about operating in this system with both the Imperial and Hutts fighting them. Make a full report back to your superior.",		"allies_remain":"\#pcontrast1 Tactical Computer:\#pcontrast3 <%DI Hutt fighters remaining.>",		"allies_arrived":"The Hutt force has grouped and is waiting for Nym to attack.",		"Quest Log Data":"Text"
+}}

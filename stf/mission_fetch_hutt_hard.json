@@ -1,7 +1,5 @@
-[
-'5':'fetch_hutt_hard_2',
-'4':'fetch_hutt_hard_3',
-'3':'fetch_hutt_hard_4',
-'2':'fetch_hutt_hard_1',
-'1':'fetch_hutt_hard_5',
-]
+{
+	"stfFile":"mission_fetch_hutt_hard",
+	"entries": {
+		"fetch_hutt_hard_2":"Bring Jabba some chocolate covered Frogs.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_hutt_hard_3":"Bring Jabba some chocolate covered Frogs.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_hutt_hard_4":"Bring Jabba some chocolate covered Frogs.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_hutt_hard_1":"Bring Jabba some chocolate covered Frogs.  STUB MISSION DESCRIPTION, REMOVE LATER.",		"fetch_hutt_hard_5":"Bring Jabba some chocolate covered Frogs.  STUB MISSION DESCRIPTION, REMOVE LATER."
+}}

@@ -1,20 +1,5 @@
-[
-'18':'title_d',
-'17':'title',
-'16':'surpriseattacksubject',
-'15':'surpriseattackfrom',
-'14':'surpriseattackbody',
-'13':'surprise_attack_alert',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/tatooine_privateer_1",
+	"entries": {
+		"title_d":"Travel smuggler route, keep a watch for Black Sun raiders. When you complete this mission, return to Dravis in back room of the Mos Eisley cantina for your next assignment.",		"title":"Tatooine System: Patrol Smuggler's Alliance Route",		"surpriseattacksubject":"Enemy Ships Detected",		"surpriseattackfrom":"Targeting Computer",		"surpriseattackbody":"Sensors have located a wing of 4 pirate ships moving to attack.",		"surprise_attack_alert":"Pirate wing detected.  They are moving to attack!",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Enemy craft detected on attack vector. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"When you reach a patrol waypoint you will receive a new one to your next location. Follow each of the patrol waypoints until you reach the end of your patrol.  This is the first of four special assignments given to you by Dravis of the Smuggler's Alliance. When you complete this mission, return to Dravis in back room of the Mos Eisley cantina for your next assignment.  After you complete these four special assignments, Dravis will train you in a new Pilot skill.",		"quest_location_t":"Tatooine System",		"quest_location_d":"Smugglers Alliance route in the Tatooine System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

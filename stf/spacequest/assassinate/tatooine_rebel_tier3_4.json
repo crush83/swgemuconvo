@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_rebel_tier3_4",
+	"entries": {
+		"title_d":"An Imperial fighter pilot is on his way to be decorated for his victories against us. Let's send a message to the Empire they will not forget by making sure he never reaches his award ceremony.",		"title":"Endor system: Terminate the Imperial "Hero".",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < We need some scan data from a region in this sector, stand by for new coordinates. >",		"quest_update":"Rebel Command: < %TO >",		"quest_target_t":"Imperial fighter pilot officer.",		"quest_target_d":"This Imperial officer is not on his way to an award ceremony for nothing. He's flying one of the deadly TIE Advanced models and he's a skilled pilot so be swift, effective and careful.",		"quest_location_t":"Endor system.",		"quest_location_d":"The Endor system is fairly unknown to us but initial intel shows that the Empire has been gathering an unusually large force here. For now, it remains a mystery as to why but for you, this means extra caution is to be used.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"He got away. Oh well, we'll get him the next time.",		"escort_wiped_out":"Tactical Computer: < Scans show only battle functioning vessel in area is main target. >",		"escort_remaining":"Tactical Computer: < Scans show one of main targets escort vessels terminated. >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Beautifully done pilot, I would love to see the faces of the officers at that ceremony when they hear about this.",		"arrival_phase_2":"Alright, proceed to intercept him. We will update you with new coordinates as he is moving.",		"arrival_phase_1":"We are pinpointing the location of their 'Hero' now. He's using some sort of scrambler, so we are not sure what kind of escort he has.",		"Quest Log Data":"Text"
+}}

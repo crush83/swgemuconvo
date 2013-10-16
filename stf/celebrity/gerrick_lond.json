@@ -1,23 +1,5 @@
-[
-'21':'npc_11',
-'20':'player_10',
-'19':'npc_10',
-'18':'player_9',
-'17':'npc_5',
-'16':'player_6',
-'15':'npc_9',
-'14':'player_8',
-'13':'npc_8',
-'12':'player_7',
-'11':'npc_4',
-'10':'player_5',
-'9':'npc_3',
-'8':'npc_7',
-'7':'player_4',
-'6':'npc_6',
-'5':'player_3',
-'4':'npc_2',
-'3':'player_2',
-'2':'player_1',
-'1':'npc_1',
-]
+{
+	"stfFile":"celebrity/gerrick_lond",
+	"entries": {
+		"npc_11":"Hm.  And that is where you shall find him.",		"player_10":"Well, I guess I'll go check at the palace then.",		"npc_10":"It's a nervous tick.  Hm.  I assure you.  Nothing more.  Hm.",		"player_9":"Why do you keep saying Hm?",		"npc_5":"Hm?  We don't expect the Master.  He comes and goes at his pleasure.  We strive only to serve.  Hm.",		"player_6":"When do you expect him?",		"npc_9":"I would feel pity for anyone who thought they could take the Palace back away from the master.  Hm?  Oh yes.  Much pity.",		"player_8":"He stole it.  What if someone steals it from him?",		"npc_8":"Oh, those spider droids? Hm? Believe me when I tell you that they know their place there.",		"player_7":"What about the monks?",		"npc_4":"The old B'omarr monastery?  Hm...Believe me, it is Jabba's Palace.  No more, and no less.",		"player_5":"You know that's actually a monastery, right?",		"npc_3":"I'm sorry, but Master is away at the Palace.",		"npc_7":"On occasion.  Mostly we do business from here, and keep Jabba's guests very comfortable.  Hm.",		"player_4":"Does he ever come here?",		"npc_6":"Well now you do.  Hm.",		"player_3":"No, I just didn't know.",		"npc_2":"Hm?  Yes.  Of course he does.  Why?  Shouldn't he?  Hm?",		"player_2":"I'm here to see Jabba.",		"player_1":"Jabba has a town house?",		"npc_1":"Welcome to Jabba's town house.  What can be done for you?  Hm?"
+}}

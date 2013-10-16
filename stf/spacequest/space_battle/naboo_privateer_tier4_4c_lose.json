@@ -1,28 +1,5 @@
-[
-'26':'title_d',
-'25':'title',
-'24':'split_quest_alert_fail',
-'23':'split_quest_alert',
-'22':'quest_update',
-'21':'quest_location_t',
-'20':'quest_location_d',
-'19':'quest_helpallies_t',
-'18':'quest_helpallies_d',
-'17':'quest_findbattle_t',
-'16':'quest_findbattle_d',
-'15':'found_loc',
-'14':'enemies_win',
-'13':'enemies_remaining',
-'12':'enemies_remain',
-'11':'enemies_arrived',
-'10':'battle_started',
-'9':'battle_abandoned',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'allies_win',
-'3':'allies_remaining',
-'2':'allies_remain',
-'1':'allies_arrived',
-]
+{
+	"stfFile":"spacequest/space_battle/naboo_privateer_tier4_4c_lose",
+	"entries": {
+		"title_d":"A final battle against the Black Sun in the Yavin System",		"title":"Yavin System: Final Battle Against the Black Sun",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"%TO",		"quest_location_t":"Yavin System",		"quest_location_d":"A battle point in the Yavin System",		"quest_helpallies_t":"RSF Forces",		"quest_helpallies_d":"Your allies in this battle",		"quest_findbattle_t":"Battle point",		"quest_findbattle_d":"Travel here to engage the Black Sun",		"found_loc":"\#pcontrast3 RSF Command: < \#pcontrast1 This will be a great battle Captain, represent the RSF proudly. \#pcontrast3 >",		"enemies_win":"\#pcontrast3 RSF Command: < \#pcontrast1 We are routed, this is horrible. \#pcontrast3 >",		"enemies_remaining":"An enemy craft has been destroyed, %DI remain.",		"enemies_remain":"%DI Hostil craft remain",		"enemies_arrived":"\#pcontrast3 RSF Forces: < \#pcontrast1 I have never seen this many Black Sun in one place before. \#pcontrast3 >",		"battle_started":"\#pcontrast3 RSF Forces: < \#pcontrast1 Engaging hostiles now. \#pcontrast3 >",		"battle_abandoned":"\#pcontrast3 You have abandoned the battle, the mission is a failure.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"Prepare for Space Battle",		"allies_win":"\#pcontrast3 RSF Command: < \#pcontrast1 Huzzah, that will be the end of them.  Return to base Captain. \#pcontrast3 >",		"allies_remaining":"An allied craft has been destroyed, %DI remain.",		"allies_remain":"%DI Allied craft remian",		"allies_arrived":"\#pcontrast3 RSF Command: < \#pcontrast1 The attack group is moving into position now. \#pcontrast3 >"
+}}

@@ -1,29 +1,5 @@
-[
-'27':'transmission_start',
-'26':'transmission_received',
-'25':'trans_update',
-'24':'title_d',
-'23':'title',
-'22':'split_quest_alert_fail',
-'21':'split_quest_alert',
-'20':'quest_update',
-'19':'quest_reachpoint_t',
-'18':'quest_reachpoint_d',
-'17':'quest_location_t',
-'16':'quest_location_d',
-'15':'quest_defendpoint_t',
-'14':'quest_defendpoint_d',
-'13':'outofrange_failed',
-'12':'outofrange',
-'11':'mission_complete',
-'10':'found_loc',
-'9':'first_attack',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'attack_stopped',
-'4':'attack_notify',
-'3':'assigned_delayed',
-'2':'arrived_at_loc',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/survival/tatooine_imperial_tier3_3_c",
+	"entries": {
+		"transmission_start":"Transmission Status: <Scanning area for Rebel command vessel.  Complete scan should take about 10 minutes.>",		"transmission_received":"Transmission Status: <Transmission Completed. Location of Rebel command vessel discovered.>",		"trans_update":"Transmission Status: <%DI percent of system scan completed.>",		"title_d":"Travel to the Endor system and start the system scan at the ambush point. When you enter the Endor system you will receive a navigation waypoint to the ambush point. Travel to this waypoint and wait for the scan to begin. In order to succeed, you need to stay near the navigation waypoint. If you move to far away you will receive a warning message for you to return. Once the scan begins the Rebels will send out fighters to attack you. Defend yourself against attack but do not leave the area until the scan is completed.",		"title":"Endor System: Scanning System for Rebel Command",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast1 Storm Squadron Command:\#pcontrast3 <%TO>",		"quest_reachpoint_t":"Travel to the Ambush Point",		"quest_reachpoint_d":"Once you have arrived at the navigation waypoint, wait until the scan begins. Once the scan begins, you will need to remain in the area until it completes. You will receive regular updates on how long you have until the operation is over. If you move to far away from the navigation waypoint you will receive a warning message. If you remain outside of the area for to long the mission will fail.",		"quest_location_t":"Remain in the Endor System",		"quest_location_d":"Remain in the Endor system and scan from the ambush point. Once in the Endor system you will receive a navigation waypoint to the ambush point. Travel to that location and wait for the scan to begin.",		"quest_defendpoint_t":"Defend the Ambush Point",		"quest_defendpoint_d":"When you begin the scan you can expect to be attacked by Rebel fighters falling into our ambush. Defend yourself but do not leave the area until the operation is completed.",		"outofrange_failed":"We lost the transmission because you moved too far away. Report to your superior immediately.",		"outofrange":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Tranmission interrupted. Return to ambush point immediately.>",		"mission_complete":"Location of Rebel primary command vessel located and sent to Imperial High Command. Report back to your superior for further instructions.",		"found_loc":"Ambush location discovered. Updating the navigation computer.",		"first_attack":"Enemy fighters located. Incoming at high speeds.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"attack_stopped":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Attack wave destroyed.>",		"attack_notify":"\#pcontrast1 Tactical Computer:\#pcontrast3 <Enemy fighters located. Incoming at high speeds.>",		"assigned_delayed":"",		"arrived_at_loc":"Arrived at ambush location. Scanning for enemy fighters.",		"Quest Log Data":"Text"
+}}

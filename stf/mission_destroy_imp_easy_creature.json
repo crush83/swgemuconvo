@@ -1,7 +1,5 @@
-[
-'5':'destroy_imp_easy_creature_5',
-'4':'destroy_imp_easy_creature_4',
-'3':'destroy_imp_easy_creature_3',
-'2':'destroy_imp_easy_creature_2',
-'1':'destroy_imp_easy_creature_1',
-]
+{
+	"stfFile":"mission_destroy_imp_easy_creature",
+	"entries": {
+		"destroy_imp_easy_creature_5":"Scans of this area indicate wildlife that is hazardous to our future development.  We need someone reliable to clear the area of this wildlife.",		"destroy_imp_easy_creature_4":"An Imperial Research Facility lost power for a couple of hours, and during the confusion a group of animals escaped the laboratory.  They probably haven't gone far, but they could be dangerous to the local ecology.  We need these animals destroyed as soon as possible.",		"destroy_imp_easy_creature_3":"A number of power cables have been chewed through at an Imperial Detention Facility.  We suspect that the creatures involved have a nest in the area nearby.  This nest must be eliminated without delay.",		"destroy_imp_easy_creature_2":"One of our scout patrols indicates that there is an over abundance of animals infesting this location.  That area is designated as a possible site for a forward military location.  We need someone to clear the area before the construction can begin.",		"destroy_imp_easy_creature_1":"An imperial medical facility is reporting a pest problem.  Apparently the local wildlife has taken a liking to the power generators.  Please exterminate this pest problem."
+}}

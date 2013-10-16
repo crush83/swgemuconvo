@@ -1,9 +1,5 @@
-[
-'7':'not_imperial',
-'6':'emperor',
-'5':'lord_hethrir',
-'4':'vader',
-'3':'loam_redge',
-'2':'veers',
-'1':'kaja_orzee',
-]
+{
+	"stfFile":"theme_park_imperial/warning",
+	"entries": {
+		"not_imperial":"Sorry, only Imperial employees are allowed to work for us.",		"emperor":"You do not yet have permission to access this area.",		"lord_hethrir":"You may not enter the secure area until Lord Hethrir has deemed you worthy.",		"vader":"Only Lord Vaderand his personal charges have access to this area.",		"loam_redge":"You can not enter the library until Loam Redge gives you permission.",		"veers":"You can not enter the Throne Room until Veers gives you permission.",		"kaja_orzee":"You can not enter the main hall without permission from Kaja Or'Zee."
+}}

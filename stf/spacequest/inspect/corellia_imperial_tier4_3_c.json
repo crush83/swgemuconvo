@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/corellia_imperial_tier4_3_c",
+	"entries": {
+		"title_d":"A Velocity mercenary flight commander has been spotted in the Dathomir system. Intercept, disable, and inspect his vessel for who ever he is getting his orders from.",		"title":"Dathomir System: Inspect the Velocity Mercenary Flight Commander",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"Remain in the Dathomir System",		"quest_location_d":"The commander's ship is located inside the Dathomir system. Intercept his vessel near the supplied navigation waypoint.",		"quest_inspect_t":"Inspect the Velocity Mercenary Flight Commander",		"quest_inspect_d":"Once the commander is disabled, inspect it to find out who is sending him his orders.",		"quest_dock_t":"Transfer the Orders",		"quest_dock_d":"Dock with the disabled commander and transfer the orders to your fighter.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

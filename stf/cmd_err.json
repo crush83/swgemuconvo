@@ -1,11 +1,5 @@
-[
-'9':'unstick_request_cancelled',
-'8':'unstick_request_complete',
-'7':'unstick_in_progress',
-'6':'ability_prose',
-'5':'state_prose',
-'4':'target_range_prose',
-'3':'target_type_prose',
-'2':'locomotion_prose',
-'1':'success_prose',
-]
+{
+	"stfFile":"cmd_err",
+	"entries": {
+		"unstick_request_cancelled":"Unstick request was cancelled",		"unstick_request_complete":"Unstick complete",		"unstick_in_progress":"Unstick in progress",		"ability_prose":"You do not have sufficient abilities to %TO.",		"state_prose":"You cannot %TO while %TU.",		"target_range_prose":"Your target is too far away to %TO.",		"target_type_prose":"Your target for %TO was invalid.",		"locomotion_prose":"You cannot %TO while %TU.",		"success_prose":"The command %TO was a success."
+}}

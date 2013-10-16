@@ -1,16 +1,5 @@
-[
-'14':'title_d',
-'13':'title',
-'12':'split_quest_alert_fail',
-'11':'split_quest_alert',
-'10':'quest_target_t',
-'9':'quest_target_d',
-'8':'quest_patrol_t',
-'7':'quest_patrol_d',
-'6':'quest_location_t',
-'5':'quest_location_d',
-'4':'autorewardsubject',
-'3':'autorewardfrom',
-'2':'autorewardbody',
-'1':'assigned_delayed',
-]
+{
+	"stfFile":"spacequest/patrol/stn_yavin4_company_smuggler_tier2_2",
+	"entries": {
+		"title_d":"The Yavin 4 Mining Company has hired you to delivery a 'secret' package to a contact of theirs in the Naboo system. You are to fly an assigned route so that the contact knows you are the ship he wants to meet with. Avoid any contact with security but if nessecary destroy any vessels that try to interfer.",		"title":"Naboo System: Travel the Assigned Route",		"split_quest_alert_fail":"",		"split_quest_alert":"Royal Security Force fighters detected. They must not be allowed to report in to your presence. Destroy them all.",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Follow the Assigned Patrol",		"quest_patrol_d":"Travel from nav point to nav point until the Yavin 4 Mining Company's man in Naboo makes contact with you.",		"quest_location_t":"Travel to the Naboo System",		"quest_location_d":"You are to meet the contact in the Naboo system.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+}}

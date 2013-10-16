@@ -1,3 +1,23 @@
-[
-'1':'planets',
-]
+{
+	"stfFile":"kb/kb_planets_d",
+	"entries": {
+		"planets":"The Galaxy in Star Wars Galaxies currently encompasses ten worlds, each with uniquely varied terrain and inhabitants.
+
+Five of the planets are eligible as starting locations for players:
+
+   - Tatooine, a desert world on the Outer Rim
+   - Corellia, a Core world and hub of industry
+   - Naboo, a pastoral world
+   - Rori, a moon of Naboo
+   - Talus, a sister planet to Corellia
+
+Five more worlds are less civilized, and offer greater dangers for the unwary. Some of these worlds can only be reached by chartering special flights, as they are under interdiction by the Empire.
+
+   - Dantooine, a world of grassy plains
+   - Yavin IV, until recently a Rebel base of operations
+   - Dathomir, an Imperial prison planet
+   - Lok, a world inhabited by pirates and criminals
+   - The forest moon of Endor, mysteriously blockaded by Imperial forces
+
+Read on below for further details about these worlds."
+}}

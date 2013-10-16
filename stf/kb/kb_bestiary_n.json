@@ -1,5 +1,5 @@
-[
-'3':'faction',
-'2':'xenobiology',
-'1':'bestiary',
-]
+{
+	"stfFile":"kb/kb_bestiary_n",
+	"entries": {
+		"faction":"Faction Standing",		"xenobiology":"A Xenobiology Primer",		"bestiary":"The Galaxy's Inhabitants"
+}}

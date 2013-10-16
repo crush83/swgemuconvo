@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_target_t',
-'10':'quest_target_d',
-'9':'quest_patrol_t',
-'8':'quest_patrol_d',
-'7':'quest_location_t',
-'6':'quest_location_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/patrol/corellia_imperial_tier3_1",
+	"entries": {
+		"title_d":"An Alliance has been built between the Rebels and Nym. Their combined forces are causing a great deal of havok with the Imperial salvage operation in the Yavin system. Black Epsilon has been brought  in to try force Nym to break off his direct alliance with the Rebellion. In order to start this operation command needs to gather intelligence on thier joint operation so you are going out on patrol to find a Rebel officer who might have access to that information.",		"title":"Yavin System: Patrol the Yavin System",		"split_quest_alert_fail":"",		"split_quest_alert":"Scans indicate a Rebel officer nearby. Disable and inspect the rebel officer for any information relating to their alliance with Nym.",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Follow the Patrol Route",		"quest_patrol_d":"When you reach a navigation waypoint you will receive a new one to the next location. Follow the patrol waypoints until you come to the end of your patrol.",		"quest_location_t":"Travel to the Yavin System",		"quest_location_d":"Travel to the Yavin system and follow the patrol navigation waypoints. As you reach one navigation waypoint, you will get a new waypoint to the next location on the patrol route.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}

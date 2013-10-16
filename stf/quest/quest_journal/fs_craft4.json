@@ -1,20 +1,15 @@
-[
-'29':'quest_finished_d',
-'28':'quest_finished_n',
-'27':'main_d',
-'26':'main_n',
-'25':'quest07_d',
-'24':'quest06_d',
-'23':'quest05_d',
-'22':'quest04_d',
-'21':'quest03_d',
-'20':'quest02_d',
-'19':'quest01_d',
-'18':'quest07_n',
-'17':'quest06_n',
-'16':'quest05_n',
-'15':'quest04_n',
-'14':'quest03_n',
-'13':'quest02_n',
-'12':'quest01_n',
-]
+{
+	"stfFile":"quest/quest_journal/fs_craft4",
+	"entries": {
+		"quest_finished_d":"You have helped the Aurilia chief engineer replace the damaged computer core and in doing so have unlocked the ability to use the crafting mastery repair skills.",		"quest_finished_n":"Quest Complete and Skill Branch Unlocked: Crafting Mastery: Repair",		"main_d":"During the large-scale attacks that have recently plagued the village of Aurillia, the village's primary computer system and its computer core were badly damaged. The computer is currently running on its reserve core but won't last much longer, and therefore a new core must be acquired as soon as possible. 
+
+Thanks to the current ongoing attacks, the newly appointed chief engineer is unable to attend to the damaged computer core by finding a replacement. He has asked you to do so for him.",		"main_n":"Find a replacement computer core for the village of Aurilia computers.",		"quest07_d":"The people of the village wish to reward you for your aid to them, but you must have room in your inventory for it. Make some room and then speak again to the chief engineer.",		"quest06_d":"Bring the newly configured computer core to Aurilia's chief engineer so that he may use it to stabilize the village's primary computers.",		"quest05_d":"Modify the replacement computer core's interface so that it will be configured to be used with the computers of Aurilia. Do so by choosing the menu options under "Reconfigure Interface" from the computer core's radial menu.
+
+You will need to rewire the replacement computer core to match that of the village computers. There are four indicators on the core that will be lit when it has been properly configured.
+
+To reconfigure the core, you will need to connect four wires in the proper order to contacts on the core. There are red wires, yellow wires, and blue wires.  Each color set of of wires connects to a different power source, and any combination of the wires may be used to reconfigure the computer core. 
+
+When you have the wires configured the way you desire, you may test the configuration to see if it is correct. For each wire that is connected to the correct contact, one of the four indicators will be lit. If the correct type of wire is used but is connected to the wrong contact, then one of the indicators will flicker. You can use this feedback to determine the final configuration of the interface for the new computer core.
+
+Be careful though... each time you test your configuration, power is sent through the core.  An incomplete configuration can damage the core. This is reported as 'Circuit Integrity' which gives the percentage chance that the core is still viable. Be sure to keep an eye on this value. On average, a core can survive 6 - 7 attempts without sigificant damage, but beyond that you risk frying the computer core's circuits and rendering it useless.",		"quest04_d":"Use your tracking device to locate the fallen satellite. Once found, retrieve the computer core so that it may be used as a replacement in the village of Aurilia on Dathomir.",		"quest03_d":"Go to any starport ticket droid and request their assistance to obtain the rights to an abandoned satellite. Doing so will provide you with tracking data for your satellite tracking device and will allow you to locate the fallen satellite.",		"quest02_d":"Complete the satellite tracking device kit. Doing so will provide you with the means to find a downed satellite from which you could find a replcement computer core.",		"quest01_d":"Go to Keren on Naboo, Coronet on Corellia, or Mos Entha on Tatooine and speak to a gadget specialist to seek help finding a replacement computer core for the village of Aurilia on Dathomir. The Aurilia chief engineer can provide you with a waypoint to one of these locations if you wish. Simply speak with him.",		"quest07_n":"Make Space for Your Reward",		"quest06_n":"Bring the New Core to Aurilia's Chief Engineer",		"quest05_n":"Reconfigure the Computer Core's Interface",		"quest04_n":"Find the Fallen Satellite and Retrieve the Computer Core",		"quest03_n":"Obtain the Rights to an Abandoned Satellite",		"quest02_n":"Complete the Tracking Device Kit",		"quest01_n":"Find a Gadget Specialist"
+}}

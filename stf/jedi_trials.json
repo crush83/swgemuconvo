@@ -1,159 +1,207 @@
-[
-'160':'padawan_trials_started_not_eligible',
-'159':'peoples_soldier_03',
-'158':'force_shrine_wisdom_15',
-'157':'force_shrine_wisdom_14',
-'156':'force_shrine_wisdom_13',
-'155':'force_shrine_wisdom_12',
-'154':'force_shrine_wisdom_11',
-'153':'force_shrine_wisdom_10',
-'152':'force_shrine_wisdom_9',
-'151':'force_shrine_wisdom_8',
-'150':'force_shrine_wisdom_7',
-'149':'force_shrine_wisdom_6',
-'148':'force_shrine_wisdom_5',
-'147':'force_shrine_wisdom_4',
-'146':'force_shrine_wisdom_3',
-'145':'force_shrine_wisdom_2',
-'144':'padawan_trials_tell_about_restart',
-'143':'force_shrine_wisdom_1',
-'142':'padawan_trials_received_the_ring',
-'141':'padawan_trials_trial_failed_second',
-'140':'padawan_trials_trial_failed_first',
-'139':'padawan_trials_restart_confirmation',
-'138':'padawan_trials_abort_confirmation',
-'137':'padawan_trials_trial_restarted',
-'136':'padawan_trials_aborted',
-'135':'button_abort_padawan',
-'134':'button_restart',
-'133':'the_ring_03',
-'132':'surveyor_03',
-'131':'spice_mom_03',
-'130':'sob_story_03',
-'129':'politician_03',
-'128':'pannaqa_03',
-'127':'old_musician_03',
-'126':'kill_sludge_panther_03',
-'125':'kill_falumpaset_03',
-'124':'kill_baz_nitch_03',
-'123':'chef_03',
-'122':'bad_cat_03',
-'121':'artist_03',
-'120':'architect_03',
-'119':'successful_search_msg',
-'118':'already_searched',
-'117':'padawan_trials_being_removed_revoked',
-'115':'craft_lightsaber_02',
-'114':'craft_lightsaber_01',
-'113':'kill_falumpaset_02',
-'112':'kill_falumpaset_01',
-'111':'kill_sludge_panther_02',
-'110':'kill_sludge_panther_01',
-'109':'kill_baz_nitch_02',
-'108':'kill_baz_nitch_01',
-'107':'the_ring_02',
-'106':'the_ring_01',
-'105':'politician_02',
-'104':'politician_01',
-'103':'surveyor_02',
-'102':'surveyor_01',
-'101':'spice_mom_02',
-'100':'spice_mom_01',
-'99':'sob_story_02',
-'98':'sob_story_01',
-'97':'peoples_soldier_02',
-'96':'peoples_soldier_01',
-'95':'old_musician_02',
-'94':'old_musician_01',
-'93':'pannaqa_02',
-'92':'pannaqa_01',
-'91':'chef_02',
-'90':'chef_01',
-'89':'bad_cat_02',
-'88':'bad_cat_01',
-'87':'artist_02',
-'86':'artist_01',
-'85':'architect_02',
-'84':'architect_01',
-'83':'padawan_trials_being_removed',
-'82':'padawan_trials_no_longer_eligible',
-'81':'padawan_trials_progress',
-'80':'padawan_trials_return_to_npc',
-'79':'padawan_trials_completed',
-'78':'padawan_trials_trial_failed_final',
-'77':'padawan_trials_next_trial',
-'76':'padawan_trials_intro_msg',
-'75':'padawan_trials_title',
-'74':'padawan_trials_start_query',
-'73':'knight_trials_intro_shortened',
-'72':'faction_wrong_light',
-'71':'faction_wrong_dark',
-'70':'faction_wrong_choice_dark',
-'69':'faction_wrong_choice_light',
-'68':'knight_trials_start_query',
-'67':'button_no',
-'66':'button_yes',
-'65':'button_next_page',
-'64':'button_close',
-'63':'knight_trials_intro_original',
-'62':'empty',
-'61':'knight_trials_being_removed',
-'60':'knight_trials_no_longer_eligible',
-'59':'knight_trials_completed_dark',
-'58':'knight_trials_current_trial_complete',
-'56':'knight_trial_header_02',
-'55':'knight_trials_progress',
-'54':'knight_trial_header_01',
-'53':'knight_shrine_reminder',
-'52':'knight_shrine_wrong',
-'50':'stintaril_prowler',
-'49':'graul_marauder',
-'48':'enraged_kimogila',
-'47':'blurrg_raptor',
-'46':'peko_peko_albatross',
-'45':'nightsister_elder',
-'44':'ancient_bull_rancor',
-'43':'deathwatch_overlord',
-'42':'geonosian_bunker_acklay',
-'41':'corvette_super_battle_droid',
-'40':'tusken_raider',
-'39':'kiin_dray',
-'38':'giant_canyon_krayt',
-'37':'corvette_officer_light',
-'36':'corvette_officer_dark',
-'35':'high_general_light',
-'34':'high_general_dark',
-'33':'enemy_soldier_light',
-'32':'enemy_soldier_dark',
-'31':'lok',
-'30':'dathomir',
-'29':'dantooine',
-'28':'endor',
-'27':'yavin4',
-'26':'rori',
-'25':'talus',
-'24':'corellia',
-'23':'naboo',
-'22':'tatooine',
-'21':'knight_trials_intro_msg_end',
-'20':'knight_trials_next_trial_title',
-'19':'knight_trials_next_trial_msg_end',
-'18':'knight_trials_next_trial_msg',
-'17':'knight_trials_completed_light',
-'16':'council_choice_msg',
-'15':'force_shrine_title',
-'14':'council_chosen_light',
-'13':'council_chosen_dark',
-'12':'council_choice_delayed',
-'11':'button_darkside',
-'10':'button_lightside',
-'9':'button_cancel',
-'8':'button_okay',
-'7':'knight_trials_intro_msg',
-'6':'knight_trials_title',
-'5':'from_unknown',
-'4':'force_shrine_d',
-'3':'force_shrine_n',
-'2':'show_respect',
-'1':'meditate',
-]
+{
+	"stfFile":"jedi_trials",
+	"entries": {
+		"padawan_trials_started_not_eligible":"You do not meet the skill requirements for being in the Jedi Padawan trials despite having completed the tasks asked of you by the village of Aurilia.  
+
+To be eligible for the Jedi Padawan trials, you must have six complete Force Sensitive branches.
+
+To undertake the Jedi Padawan trials, you must once again meet the expected skill requirements.  Once you do, meditate at any Force shrine to begin the trials.",		"peoples_soldier_03":"A soldier named Torin Gundo seeks your assistance in recovering some stolen supplies.",		"force_shrine_wisdom_15":"To wait and watch is difficult, but must be mastered.",		"force_shrine_wisdom_14":"The Force surrounds, penetrates, and binds the galaxy together.",		"force_shrine_wisdom_13":"He who gambles on the unknown will most often lose.",		"force_shrine_wisdom_12":"The ability to speak does not make you intelligent.",		"force_shrine_wisdom_11":"Keep your concentration here and now where it belongs.",		"force_shrine_wisdom_10":"Luminous beings we are... not this crude matter.",		"force_shrine_wisdom_9":"Only you will ever know your own heart.",		"force_shrine_wisdom_8":"Even when fighting the great sabercat, it is best not to turn your back upon the lowly serpent.",		"force_shrine_wisdom_7":"Thinking about the Force accomplishes nothing. One must take action.",		"force_shrine_wisdom_6":"Many of the truths one clings to depend greatly on one's point of view.",		"force_shrine_wisdom_5":"There are always more questions then answers.",		"force_shrine_wisdom_4":"Making an error is not a problem. Not learning from it is.",		"force_shrine_wisdom_3":"The Force is a poweful ally. And a terrible foe.",		"force_shrine_wisdom_2":"Do or do not. There is no try.",		"padawan_trials_tell_about_restart":"Should you desire to do so, you can reset your current trial task back to its beginning by meditating at any Force shrine and selecting the Restart Trial option.",		"force_shrine_wisdom_1":"Patience is not a gift, but a lesson to be relearned daily.",		"padawan_trials_received_the_ring":"After the thug falls, you take the wedding ring out of his dead, cooling hand and put it in a safe place.",		"padawan_trials_trial_failed_second":"The path of a Jedi is not an easy one, but must be marked with tolerance and understanding. You have again gone astray.
+
+Ponder what you have learned from your actions and then visit a Force shrine to attempt this trial again. 
+
+Failing once more will result in your expulsion from these trials.",		"padawan_trials_trial_failed_first":"You have failed to resolve your trial task in a manner worthy of a Jedi. 
+
+Ponder what you have learned from your actions and then visit a Force shrine to attempt this trial again. 
+
+Failing twice more will result in your expulsion from these trials.",		"padawan_trials_restart_confirmation":"Restarting your current Jedi Padawan trial task will erase all of your progress on that task to this point. 
+
+Are you certain you wish to restart your current task?",		"padawan_trials_abort_confirmation":"Quitting the Jedi Padawan trials will remove all progress you've made up to this point in the trials, though you will remain eligilbie to attempt them again in the future should you wish to do so.
+
+Are you certain you wish to quit the Jedi Padawan trials?",		"padawan_trials_trial_restarted":"Your current Jedi Padawan trial task has been reset back to the beginning. Meditate at any Force shrine to restart it.",		"padawan_trials_aborted":"You have successfully abandoned the Jedi Padawan trials. This has erased all previous progess toward completing the trials.
+
+If you wish to start again, simply meditate at any Force shrine.",		"button_abort_padawan":"Quit Padawan Trials",		"button_restart":"Restart Current Trial",		"the_ring_03":"Keicho wants you to retrieve a ring that he lost. This ring is the wedding ring of his wife's mother.",		"surveyor_03":"A surveyor, Par Doiae, has asked your help in clearing a sharnaff bull from a site where he needs to work.",		"spice_mom_03":"Sola Nosconda has asked you to pick up some supplies for her and bring them to her.",		"sob_story_03":"Erim Thelcar asks that you find her brother... or at least her brothers remains... and retrieve a blaster that is a family heirloom.",		"politician_03":"A politician named Kaul Dysen would like your help destroying a bloodseeker mite that is wreaking havoc in the area.",		"pannaqa_03":"Pannaqa, a farmer, has asked for your help in getting a part he needs for his vibro-tiller.",		"old_musician_03":"An elderly musician named Grizzlo has asked that you find any remaining members from his long forgotten musical group.",		"kill_sludge_panther_03":"An ecologist named Luha Kellaro has asked you to kill 20 sludge panthers.
+
+Total killed so far: ",		"kill_falumpaset_03":"A naturalist named Braganta has asked you to kill 20 falumpasets.
+
+Total killed so far: ",		"kill_baz_nitch_03":"An environmentalist named Menchi has asked you to kill 20 baz nitches.
+
+Total killed so far: ",		"chef_03":"A chef named Seevi Nyed wants you to stop a lowlife who stole his baked goods.",		"bad_cat_03":"An actor named Yvana Bailer wants you to help put an end to a rampaging predator cat that has escaped.",		"artist_03":"An artist, Sathme Forr, has requested your help in getting her supplies from her assistant.",		"architect_03":"An architect, Kant Graf, has asked you to clear some land so that he may build there.",		"successful_search_msg":"Among the remains of Josef Thelcar, you find the blaster that Erim asked you to recover. It looks damaged and no longer useful, but bears markings that are probably a family crest. You worry that placing the fragile blaster in your inventory might damage it further, so you stow it in a safe place.",		"already_searched":"You have already searched the remains of Josef Thelcar. There is nothing else of interest.",		"padawan_trials_being_removed_revoked":"You no longer meet the requirements for being in the Jedi Padawan trials and are therefore expelled from them. This includes having your Jedi Initiate status revoked.
+
+To be eligible for the Jedi Padawan trials, you must have six complete Force Sensitive branches.
+
+Should you again meet these requirements in the future, you may restart the  Jedi Padawan trials at that time.",		"craft_lightsaber_02":"Well done. Your first lightsaber is now complete. Before you may use it, though, it requires a Force crystal. 
+
+As your next task, obtain and tune a Force crystal for use with your lightsaber.",		"craft_lightsaber_01":"Thanks to your progress thus far, you have been granted the rank of Jedi Initiate. With this honor comes the ability to craft your first lightsaber. 
+
+Such is your next task... to craft yourself a lightsaber.",		"kill_falumpaset_02":". Once there, a waypoint will be uploaded to your datapad leading you to a naturalist named Braganta in the city of ",		"kill_falumpaset_01":"A Jedi must understand that there are times when a greater good outweighs a lesser evil.
+
+Travel to the planet ",		"kill_sludge_panther_02":". Once there, a waypoint will be uploaded to your datapad leading you to an ecologist named Luha Kellaro in the city of ",		"kill_sludge_panther_01":"A Jedi must do whatever is possible to protect the natural order of the universe.
+
+Travel to the planet ",		"kill_baz_nitch_02":". Once there, a waypoint will be uploaded to your datapad leading you to an environmentalist named Menchi in the city of ",		"kill_baz_nitch_01":"A Jedi must be an able and courageous warrior.
+
+Travel to the planet ",		"the_ring_02":". Once there, a waypoint will be uploaded to your datapad leading you to a man named Keicho in the city of ",		"the_ring_01":"A Jedi must be willing to put himself in danger in order to do what is right.
+
+Travel to the planet ",		"politician_02":". Once there, a waypoint will be uploaded to your datapad leading you to a politician named Kaul Dysen in the city of ",		"politician_01":"A Jedi should be equally a public servant and a public defender.
+
+Travel to the planet ",		"surveyor_02":". Once there, a waypoint will be uploaded to your datapad leading you to a surveyor named Par Doiae in the city of ",		"surveyor_01":"A Jedi should be prepared to undertake that which others will not.
+
+Travel to the planet ",		"spice_mom_02":". Once there, a waypoint will be uploaded to your datapad leading you to a woman named Sola Nosconda in the city of ",		"spice_mom_01":"A Jedi should always strive for understanding rather than blind faith.
+
+Travel to the planet ",		"sob_story_02":". Once there, a waypoint will be uploaded to your datapad leading you to a young woman named Erim Thelcar in the city of ",		"sob_story_01":"A Jedi should remain calm in the face of emotion.
+
+Travel to the planet ",		"peoples_soldier_02":". Once there, a waypoint will be uploaded to your datapad leading you to an old soldier named Torin Gundo in the city of ",		"peoples_soldier_01":"A Jedi must put aside personal feelings when aiding someone they might not find appealing.
+
+Travel to the planet ",		"old_musician_02":". Once there, a waypoint will be uploaded to your datapad leading you to a retired musician named Grizzlo the city of ",		"old_musician_01":"A Jedi must always display respect and dignity when interacting with others.
+
+Travel to the planet ",		"pannaqa_02":". Once there, a waypoint will be uploaded to your datapad leading you to a farmer named Pannaqa in the village of ",		"pannaqa_01":"A Jedi should always be willing to lend a helping hand whenever possible.
+
+Travel to the planet ",		"chef_02":". Once there, a waypoint will be uploaded to your datapad leading you a chef named Seevi Nyed in to the city of ",		"chef_01":"A Jedi must recognize chaos but not become a part of it.
+
+Travel to the planet ",		"bad_cat_02":". Once there, a waypoint will be uploaded to your datapad leading you to an actor named Yvana Bailer in the city of ",		"bad_cat_01":"A Jedi must do everything possible to keep innocent civilians from being in danger.
+
+Travel to the planet ",		"artist_02":". Once there, a waypoint will be uploaded to your datapad leading you to an artist named Sathme Forr in the city of ",		"artist_01":"A Jedi must understand the motivations and desires of others without becoming emotianlly involved.
+
+Travel to the planet ",		"architect_02":". Once there, a waypoint will be uploaded to your datapad leading you to an architect by the name of Kant Graf in the city of ",		"architect_01":"A Jedi must gather all possible information before making a decision.
+
+Travel to the planet ",		"padawan_trials_being_removed":"You no longer meet the requirements for being in the Jedi Padawan trials and are therefore expelled from them.
+
+To be eligible for the Jedi Padawan trials, you must have six complete Force Sensitive branches.
+
+Should you again meet these requirements in the future, you may restart the  Jedi Padawan trials at that time.",		"padawan_trials_no_longer_eligible":"You no longer meet the requirements for being in the Jedi Padawan trials and are therefore in danger of being disqualified from continuing.
+
+To be eligible for the Jedi Padawan trials, you must have six complete Force Sensitive branches.
+
+If you wish to retain your current progress, you must once again be eligible for the Padawan trials before completing your current trial.",		"padawan_trials_progress":"You have defeated your target and made progress in your Jedi Padawan trial.",		"padawan_trials_return_to_npc":"Return to the person who gave you your trial task.",		"padawan_trials_completed":"Congratulations, you have completed the Jedi Padawan trials and are now a Jedi! In doing so, you also have achieved the title of Jedi Padawan and have been given a Jedi Padawan robe!
+
+You are now eligible to learn Force disciplines. These abilities will help enable you to reach your full potential as a Jedi.
+
+May the Force guide you and be with you.",		"padawan_trials_trial_failed_final":"You have yet again failed to follow the path expected of a Jedi. Therefore you are being expelled from the Jedi Padawan trials.
+
+If you so choose, you may begin the Jedi Padawan trials anew with a blank slate. To do so, meditate at any Force shrine whenever you are ready.",		"padawan_trials_next_trial":"You have done well and successfully completed the trial you faced. To undertake your next trial, simply meditate at any Force shrine.",		"padawan_trials_intro_msg":"Greetings and welcome to the next step in your development as someone sensitive to the Force. You are being offered an opportunity to expand your abilities as a Jedi Padawan. If you are worthy, that is.
+
+Should you decide to accept this offer, you will undergo the Jedi Padawan Trials.  These will involve a variety of tasks that will test your mettle, integrity, and ability to make choices worthy of a Jedi. 
+
+To begin your trials, simply meditate at any Force shrine. A waypoint to the closest Force shrine from where you are now has been uploaded to your datapad, but you may visit any of the Force shrines in the galaxy to begin your trials.",		"padawan_trials_title":"Jedi Padawan Trials",		"padawan_trials_start_query":"You are eligible to undertake the Jedi Padawan trials. Would you like to start them?",		"knight_trials_intro_shortened":"Greetings young Jedi. You have achieved a deep and unyielding connection to the Force. Your sensitivity to the Force has not gone unnoticed. It is time that you learn of others like you and join a reborn Jedi Order. The Hidden Council has felt your presence; they know of your potential. Unfortunately, so too does the Dark Council...
+
+The Hidden Council and its dark counterpart are vying against one another for control of the Force. They both seek to grow their ranks, but seek only those deemed worthy. Should you wish to join either enclave, you must display courage, might, and resourcefulness while battling a variety of adversaries. Will you undertake these trials? If so, journey to ",		"faction_wrong_light":"To become a Light Jedi, you cannot be a member of the Empire. You must revoke your status as an Imperial in order to continue.",		"faction_wrong_dark":"To become a Dark Jedi, you cannot be a member of the Rebel Alliance. You must revoke your status as a Rebel in order to continue.",		"faction_wrong_choice_dark":"If you wish to join the Dark Side, you cannot be a member of the Rebel Alliance. You must choose to join the Light Side or you must revoke your status as a Rebel in order to join the Dark Side. 
+
+Meditate at any Force shrine to again make a choice.",		"faction_wrong_choice_light":"If you wish to join the Light Side, you cannot be a member of the Empire. You must choose to join the Dark Side or you must revoke your status as an Imperial in order to join the Light Side. 
+
+Meditate at any Force shrine to again make a choice.",		"knight_trials_start_query":"You are eligible to undertake the Jedi Council battle trials. Would you like to start them?",		"button_no":"No",		"button_yes":"Yes",		"button_next_page":"Next Page",		"button_close":"Close",		"knight_trials_intro_original":"Greetings young Jedi,
+
+You have achieved a deep and unyielding connection to the Force. It is time that you learn of others like youself and join a reborn Jedi Order. The Emperor would have the galaxy believe that the Jedi are all but wiped out; that his vicious Jedi Purge wiped the Empire clean of all Jedi traditions and teachings. This is not so. Though they remain hidden, small enclaves of Jedi still struggle to survive. They have even formed the Hidden Council in remembrance of the great Jedi Council that once upheld peace and justice throughout the galaxy.   
+
+Your sensitivity to the Force has not gone unnoticed. The Hidden Council has felt your presence growing. They know of your great potential. Unfortunately, so too does the Dark Council...
+
+Since the fall of the Jedi Order and the disappearance of Master Yoda and others of his great wisdom, an increasing number of Force wielders have succumbed to the dark side. These so-called "Dark Jedi" revel in destruction and seek only power. They have banded together to further their own evil ends, forming an enclave of their own where they plot against the rest of the galaxy.
+
+The Hidden Council and its dark counterpart are vying against one another for control of the Force. Both seek to grow their ranks, but only the worthy shall gain entrance. As such, should you wish to join either enclave, you must display courage, might, and resourcefulness while battling a variety of adversaries. Accept the challenge and defeat each opponent set before you, and only then will you  be invited to join one of these councils. During your journey, you will also be forced to choose between the path of the true Jedi, and the road to the dark side.
+
+Will you undertake the Jedi trials? If so, journey to ",		"empty":"",		"knight_trials_being_removed":"You no longer meet the requirements for being in the Jedi Council battle trials and are therefore expelled from them.
+
+Should you again meet these requirements in the future, you may restart the Jedi Council battle trials at that time.",		"knight_trials_no_longer_eligible":"You no longer meet the requirements for being in the Jedi Council battle trials and are therefore in danger of being disqualified from continuing.
+
+If you wish to retain your current progress, you must once again be eligible for the Jedi Council battle trials before completing your current trial.",		"knight_trials_completed_dark":"Impressive. You have pleased your masters on the Dark Council and have been accepted into their ranks. They reward you with the title of Jedi Knight. So that others will learn to fear you, you have also been given a Jedi Knight robe.
+
+The Dark Council believes in domination through the dark side. Their enclave is on Yavin 4, and a waypoint to that enclave has been uploaded to your datapad.
+
+May the Force be yours without fear, compromise, or mercy.
+",		"knight_trials_current_trial_complete":"Well done! This trial is complete. Your next battle trial awaits.
+
+",		"knight_trial_header_02":"[Words form within your mind]
+
+",		"knight_trials_progress":"You have defeated your target and made progress in the Jedi Council battle trials.",		"knight_trial_header_01":"[A voice you cannot identify speaks to you]
+
+",		"knight_shrine_reminder":"Your path to begin the Jedi Council battle trials awaits you at a Force shrine on %TO.",		"knight_shrine_wrong":"You will find the path you seek at another shrine on this planet.",		"stintaril_prowler":"Defeat eight stintaril prowlers of Yavin 4.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Stintaril prowlers defeated: ",		"graul_marauder":"Defeat two graul marauders of Dantooine.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Graul marauders defeated: ",		"enraged_kimogila":"Defeat three enraged kimogilas of Lok.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Enraged kimogilas defeated: ",		"blurrg_raptor":"Defeat three blurrg raptors of Endor.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Blurrg raptors defeated: ",		"peko_peko_albatross":"Defeat two peko peko albatrosses of Naboo.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Peko peko albatrosses defeated: ",		"nightsister_elder":"Defeat a Nightsister elder of Dathomir.
+
+Meditating at any Force shrine will repeat this message.",		"ancient_bull_rancor":"Defeat eight ancient bull rancors of Dathomir.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Ancient bull rancors defeated: ",		"deathwatch_overlord":"Defeat a Death Watch Overlord from the Death Watch compound on Endor.
+
+Meditating at any Force shrine will repeat this message.",		"geonosian_bunker_acklay":"Defeat an acklay from the Geonosian bunker on Yavin 4.
+
+Meditating at any Force shrine will repeat this message.",		"corvette_super_battle_droid":"Defeat two super battle droids on a Corellian corvette.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Super battle droids defeated: ",		"tusken_raider":"Defeat nineteen Tusken Raiders from Tatooine.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Tusken Raiders defeated: ",		"kiin_dray":"Defeat the giant gaping spider of Dathomir known as Kiin'Dray.
+
+Meditating at any Force shrine will repeat this message.",		"giant_canyon_krayt":"Defeat a giant canyon krayt dragon from Tatooine.
+
+Meditating at any Force shrine will repeat this message.",		"corvette_officer_light":"Imperial forces are known to have captured many Alliance corvettes. Highly trained Novatroopers are the primary Imperial troops used to board and take control of Rebel starships. Infiltrate an Imperial controlled Corellian corvette and defeat four Elite Novatrooper Commanders. You will recognize an Elite Novatrooper Commander by their black armor with a golden pauldron.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Elite Novatrooper Commanders defeated: ",		"corvette_officer_dark":"The Rebel Alliance is known to use Corellian corvettes as mobile bases for the gathering of military intelligence and to coordinate the movement of Rebel forces. Infiltrate these Rebel Corellian corvettes and kill four Rebel Rear Admirals.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Rebel Rear Admirals killed: ",		"high_general_light":"By causing turmoil among the leaders of Imperial forces, you can stall their efforts and save the lives of Rebel soldiers and innocent civilians. Achieve this by defeating 22 Imperial officers. Your targets are Imperial Generals, Imperial High Generals, and Imperial Surface Marshals.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Imperial officers defeated: ",		"high_general_dark":"Your next trial is to strike at the leadership of Rebel Alliance troops. By sowing confusion and chaos among their troops, the Rebels will be less prepared to stand against the Empire. You will do this by killing 22 Rebel officers. Your targets are Rebel Generals, Rebel High Generals, and Rebel Surface Marshals.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Rebel officers killed: ",		"enemy_soldier_light":"The Hidden Council offers support to the Rebel Alliance whenever possible, though it is rare that any members of the Alliance actually know that the council even exists. 
+
+Be that as it may, as one who aspires to join the Hidden Council, your next trial is to strike a blow against the Empire. When you have defeated 47 Stormtrooper Commandos, this battle trial will be complete.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Stormtrooper Commandos defeated: ",		"enemy_soldier_dark":"Though Jedi are universally hunted by Imperial forces, members of the Dark Council have chosen to align themselves with the Empire. Their hope is to show that they are worthy allies to the Empire. Or such is their claim... Few know the true nature of their ambition.
+
+As one who has chosen to pursue the dark side, your next battle trial is to hunt and kill Rebel commandos. When 47 Rebel Commandos have fallen to you, this battle trial will be complete.
+
+Meditating at any Force shrine will repeat this message as well as reveal your current progress.
+
+Rebel Commandos killed: ",		"lok":"Lok",		"dathomir":"Dathomir",		"dantooine":"Dantooine",		"endor":"Endor",		"yavin4":"Yavin 4",		"rori":"Rori",		"talus":"Talus",		"corellia":"Corellia",		"naboo":"Naboo",		"tatooine":"Tatooine",		"knight_trials_intro_msg_end":"and find the Force shrine that will begin the battle trials. And may the Force be with you.",		"knight_trials_next_trial_title":"Finding your next battle trial...",		"knight_trials_next_trial_msg_end":". When you find that shrine and meditate at it, your battle trials will continue.",		"knight_trials_next_trial_msg":"Well done! This Jedi Council battle trial is complete.
+
+To learn what will next be asked of you, journey to another part of the galaxy where a Force shrine awaits you on",		"knight_trials_completed_light":"Congratulations, you have completed the Hidden Council's trials and are now a member of that esteemed group! In doing so, you also have achieved the title of Jedi Knight and have been given a Jedi Knight robe!
+
+The Hidden Council is a noble order of protectors unified by their belief and observance of the Force. Their enclave is on Yavin 4, and a waypoint to that enclave has been uploaded to your datapad.
+
+May the Force guide you and be with you.
+",		"council_choice_msg":"The Force has drawn you here and a choice must now be made. 
+
+Will you follow the Light Side of the Force? Serenity, peace, and knowledge.
+
+Or will you follow the Dark Side of the Force? Passion, emotion, and power.",		"force_shrine_title":"Meditating at a Force shrine...",		"council_chosen_light":"Your chosen path is to join the Light Jedi council. Complete these battle trials and that pathway will open before you.",		"council_chosen_dark":"Your desire is to join the Dark Jedi council. Complete these battle trials and that desire will be within your grasp.",		"council_choice_delayed":"You did not choose a Jedi council to join. When you are ready to decide, meditate at any force shrine and again the choice will be offered.",		"button_darkside":"Dark Jedi Council",		"button_lightside":"Light Jedi Council",		"button_cancel":"Cancel",		"button_okay":"Okay",		"knight_trials_intro_msg":"Greetings young Jedi,
+
+You have achieved a deep and unyielding connection to the Force. It is time that you learn of others like youself and join a reborn Jedi Order. The Emperor would have the galaxy believe that the Jedi are all but wiped out; that his vicious Jedi Purge wiped the Empire clean of all Jedi traditions and teachings. This is not so. Though they remain hidden, small enclaves of Jedi still struggle to survive. They have even formed the Hidden Council in remembrance of the great Jedi Council that once upheld peace and justice throughout the galaxy.   
+
+Your sensitivity to the Force has not gone unnoticed. The Hidden Council has felt your presence growing. They know of your great potential. Unfortunately, so too does the Dark Council...
+
+Since the fall of the Jedi Order and the disappearance of Master Yoda and others of his great wisdom, an increasing number of Force wielders have succumbed to the dark side. These so-called "Dark Jedi" revel in destruction and seek only power. They have banded together to further their own evil ends, forming an enclave of their own where they plot against the rest of the galaxy.
+
+The Hidden Council and its dark counterpart are vying against one another for control of the Force. Both seek to grow their ranks, but only the worthy shall gain entrance. As such, should you wish to join either enclave, you must display courage, might, and resourcefulness while battling a variety of adversaries. Accept the challenge and defeat each opponent set before you, and only then will you  be invited to join one of these councils. During your journey, you will also be forced to choose between the path of the true Jedi, and the road to the dark side.
+
+Will you undertake the Jedi trials? If so, journey to ",		"knight_trials_title":"Jedi Council Battle Trials",		"from_unknown":"Unknown",		"force_shrine_d":"A mysterious and timeworn shrine of unknown origin or purpose.",		"force_shrine_n":"a mysterious shrine",		"show_respect":"To properly meditate here, you must do so respectfully.",		"meditate":"Meditate"
+}}

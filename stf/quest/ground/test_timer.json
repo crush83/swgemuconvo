@@ -1,7 +1,5 @@
-[
-'5':'task00_journal_entry_title',
-'4':'task00_journal_entry_description',
-'3':'journal_entry_title',
-'2':'journal_entry_description',
-'1':'category',
-]
+{
+	"stfFile":"quest/ground/test_timer",
+	"entries": {
+		"task00_journal_entry_title":"Test Timer Task",		"task00_journal_entry_description":"Wait 0 to 10 seconds for this task to complete.",		"journal_entry_title":"Test Timer Quest",		"journal_entry_description":"Just stand there.",		"category":"Kashyyyk"
+}}

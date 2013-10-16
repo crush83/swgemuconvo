@@ -1,8 +1,5 @@
-[
-'10':'mnu_remove_powerup',
-'9':'prose_remove_powerup',
-'8':'prose_apply_restricted',
-'7':'prose_already_powered',
-'5':'prose_pup_expire',
-'4':'prose_pup_apply',
-]
+{
+	"stfFile":"powerup",
+	"entries": {
+		"mnu_remove_powerup":"Remove Powerup",		"prose_remove_powerup":"You detach the powerup from your %TT.",		"prose_apply_restricted":"You cannot apply %TU to %TT.",		"prose_already_powered":"Your %TT already has a powerup!",		"prose_pup_expire":"The powerup on your %TT has expired.",		"prose_pup_apply":"You powerup your %TT with %TU."
+}}

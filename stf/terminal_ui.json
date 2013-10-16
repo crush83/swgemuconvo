@@ -1,8 +1,5 @@
-[
-'6':'insure_all_confirm',
-'5':'insure_all_d_suffix',
-'4':'insure_all_d_prefix',
-'3':'insure_all_t',
-'2':'no_insurable_items',
-'1':'shipping_options',
-]
+{
+	"stfFile":"terminal_ui",
+	"entries": {
+		"insure_all_confirm":"Are you sure?",		"insure_all_d_suffix":" credits.",		"insure_all_d_prefix":"You are about to insure all your items. The total cost is ",		"insure_all_t":"Confirm Insure All",		"no_insurable_items":"You do not have any items that can be insured.",		"shipping_options":"Shipping Options"
+}}

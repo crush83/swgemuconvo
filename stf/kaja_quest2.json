@@ -1,7 +1,5 @@
-[
-'5':'kaja3',
-'4':'kaja2',
-'3':'kaja1_reply2',
-'2':'kaja1_reply1',
-'1':'kaja1',
-]
+{
+	"stfFile":"kaja_quest2",
+	"entries": {
+		"kaja3":"That's fine.  We'll keep tabs on him until you're ready to go.",		"kaja2":"Good.  I'll give you his last known coordinates as a waypoint on your datapad.  Bring him to justice swiftly!",		"kaja1_reply2":"I don't have time right now.",		"kaja1_reply1":"I'll get him.",		"kaja1":"We now know who the assassin was who was paid to kill the governor.  We want you to track him down."
+}}

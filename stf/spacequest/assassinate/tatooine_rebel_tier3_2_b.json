@@ -1,25 +1,5 @@
-[
-'23':'title_d',
-'22':'title',
-'21':'split_quest_alert_fail',
-'20':'split_quest_alert',
-'19':'quest_update',
-'18':'quest_target_t',
-'17':'quest_target_d',
-'16':'quest_location_t',
-'15':'quest_location_d',
-'14':'quest_escort_t',
-'13':'quest_escort_d',
-'12':'failed_escape',
-'11':'escort_wiped_out',
-'10':'escort_remaining',
-'9':'destroy_escort',
-'8':'autorewardsubject',
-'7':'autorewardfrom',
-'6':'autorewardbody',
-'5':'assigned_delayed',
-'4':'assassinate_success',
-'3':'arrival_phase_2',
-'2':'arrival_phase_1',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/assassinate/tatooine_rebel_tier3_2_b",
+	"entries": {
+		"title_d":"We want to keep this winning streak going and we have the perfect target. An Imperial Inquisitor is in transit through the Dantooine system. Eliminate him and it will put fear through out the ranks of the Empire.",		"title":"Dantooine system: Defeat Imperial Inquisitor in the Dantooine sector.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < While you are here, there's a squad of B-Wing bombers that could use help getting past some Imperial fighters. >",		"quest_update":"Rebel Command: < %TO >",		"quest_target_t":"Imperial Inquisitor.",		"quest_target_d":"Imperial Inquisitors are as skilled as they are ruthless. They are equipped with the best equipment and heavily guarded so this won't be easy. You've done well so far though, don't let us down now.",		"quest_location_t":"Dantooine system.",		"quest_location_d":"The Dantooine system is not considered to have a heavy Imperial presence but an Inquisitor never travels alone. Don't let your guard down pilot.",		"quest_escort_t":"",		"quest_escort_d":"",		"failed_escape":"Bah! He got away! Maybe there is more to the rumor of the Inquisitors invincibility than we thought.",		"escort_wiped_out":"Rebel Command: < Very good, the Inquisitor will be a easy target without his escort, go get him! >",		"escort_remaining":"Rebel Command: < Excellent, there is %DI of the escort remaining. The most important is the Inquisitor though, don't let him get away! >",		"destroy_escort":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"assassinate_success":"Fantastic! Eliminating a member of the Inquisition will strike fear in the Empire, they are regarded as untouchable by their own.",		"arrival_phase_2":"Alright, one of our sensor vessels have locked on to him now. Chase him down and defeat him pilot, good luck!",		"arrival_phase_1":"Good, you are here. We are tracking a high prize officer of the Empire, an Imperial Inquisitor. If you can defeat him, it would be a hard blow to the Empire.",		"Quest Log Data":"Text"
+}}

@@ -1,17 +1,5 @@
-[
-'15':'title_d',
-'14':'title',
-'13':'split_quest_alert_fail',
-'12':'split_quest_alert',
-'11':'quest_location_t',
-'10':'quest_location_d',
-'9':'quest_inspect_t',
-'8':'quest_inspect_d',
-'7':'quest_dock_t',
-'6':'quest_dock_d',
-'5':'autorewardsubject',
-'4':'autorewardfrom',
-'3':'autorewardbody',
-'2':'assigned_delayed',
-'1':'Quest Log Data',
-]
+{
+	"stfFile":"spacequest/inspect/corellia_rebel_tier3_2",
+	"entries": {
+		"title_d":"The Endor system is fairly uncharted to us. We've spotted some Hutt smugglers though and if anyone have information about the system, it would be them. Your mission is to try and find one of their smugglers with Endor system data in their computer and steal it from them.",		"title":"Endor system: Find out what the Hutt smugglers know about the system.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Fleet Command: < Somehow the Hutts have information about the Imperial Navy moving in on our position! Deliver this data to our fleet in the Lok sector. >",		"quest_location_t":"Endor system.",		"quest_location_d":"We don't have much information about the Endor system currently and hope that you can get us some data from the Hutt smugglers in this sector.",		"quest_inspect_t":"Inspect Hutt Spice Smugglers.",		"quest_inspect_d":"Inspect Hutt Spice Smugglers until you find one that is carrying system reconnaissance data in their computer. When you find one, disable and dock with it to transfer the data to your ship.",		"quest_dock_t":"System reconnaissance data.",		"quest_dock_d":"When you have disabled and inspected a Hutt smuggler with system reconnaissance data in their computer, dock with them and transfer it to your ship.",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+}}
