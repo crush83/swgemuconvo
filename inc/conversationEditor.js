@@ -93,8 +93,41 @@
 	    },
 	    
 	    saveProgress: function () {
-	        console.log("progress saved.");
-	        console.log({html: $("#canvas").html()});
+	        
+	        var save = {
+	            selectedStf: $(".stfChooser").text(),
+	            conversation: []
+	        };
+	        
+	        $("#canvas .stfEntry").each(function(k, v) {
+	            var $v = $(v);
+	            
+	            var obj = {
+	                id: $v.attr('id'),
+	                stf: $v.attr('data-stf'),
+	                x: $v.position().left,
+	                y: $v.position().top,
+	                connections: []
+	            }
+	            
+	            var connections = jsPlumb.getConnections({source: obj.id});
+	            
+	            for (var i = 0; i < connections.length; i++) {
+	                obj.connections.push(connections[i].targetId);
+	            }
+	            
+	            console.log(obj);
+	            
+	            save.conversation.push(obj);
+	        });
+	        
+	        conversationEditor.onResetCanvasClicked();
+	        
+	        //load them.
+	        
+	        
+	        
+	        $("#savedProgress").show().fadeOut(2000);
 	    },
 	    
 	    onSaveProgressClicked: function (e) {

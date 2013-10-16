@@ -440,3 +440,18 @@ BODY {
 	font-size: 0.9em;
 	color: #999;
 }
+
+#savedProgress {
+	display: none;
+	position: absolute;
+	top: 5%;
+	left: 50%;
+	max-width: 300px;
+	width: 300px;
+	margin-left: -150px;
+	padding: 5px 10px;
+	background-color: #000000;
+	text-align: center;
+	color: #ffffff;
+	z-index: 500;
+}
