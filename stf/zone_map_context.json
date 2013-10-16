@@ -1,0 +1,11 @@
+[
+'45':'waypoint_destroy',
+'21':'target',
+'43':'waypoint_activate',
+'42':'waypoint_create',
+'44':'waypoint_deactivate',
+'39':'autopilot',
+'48':'reset_camera',
+'47':'waypoint_create_at_focus_marker',
+'46':'waypoint_set_name',
+]

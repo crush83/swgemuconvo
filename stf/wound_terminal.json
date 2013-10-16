@@ -1,0 +1,14 @@
+[
+'12':'beta_terminal_wound',
+'11':'inflict_wound_willpower',
+'10':'inflict_wound_focus',
+'9':'inflict_wound_mind',
+'8':'inflict_wound_stamina',
+'7':'inflict_wound_quickness',
+'6':'inflict_wound_action',
+'5':'inflict_wound_constitution',
+'4':'inflict_wound_strength',
+'3':'inflict_wound_health',
+'2':'inflict_wound',
+'1':'inflict_damage',
+]

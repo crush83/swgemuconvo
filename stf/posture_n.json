@@ -1,0 +1,17 @@
+[
+'15':'dead',
+'14':'incapacitated',
+'13':'knockeddown',
+'12':'ridingcreature',
+'11':'drivingvehicle',
+'10':'skillanimating',
+'9':'sitting',
+'8':'lyingdown',
+'7':'flying',
+'6':'climbing',
+'5':'blocking',
+'4':'sneaking',
+'3':'prone',
+'2':'crouched',
+'1':'upright',
+]

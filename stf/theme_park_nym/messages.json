@@ -1,0 +1,17 @@
+[
+'15':'inventory_fiull_imggcu',
+'14':'inventory_full_gas',
+'13':'inventory_full_hd',
+'12':'need_passkey',
+'11':'acquired_hard_drive',
+'10':'acquired_imggcu',
+'9':'all_nym_needed',
+'8':'acquired_gas',
+'7':'acquired_memory',
+'6':'card_loser',
+'5':'card_tie',
+'4':'card_winner',
+'3':'cant_get_filter',
+'2':'cant_get_module',
+'1':'hack_computer',
+]

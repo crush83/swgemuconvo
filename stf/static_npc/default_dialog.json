@@ -1,0 +1,10 @@
+[
+'8':'its_ok',
+'7':'too_strong',
+'6':'too_weak',
+'5':'npc_continue',
+'4':'npc_quit',
+'3':'player_continue',
+'2':'player_quit',
+'1':'quit_quest',
+]

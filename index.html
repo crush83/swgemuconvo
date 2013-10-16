@@ -8,6 +8,7 @@
     <script type="text/javascript" src="lib/jquery-ui.js"></script>
     <script type="text/javascript" src="lib/jquery.jsplumb.js"></script>
     <script type="text/javascript" src="lib/lua.js"></script>
+    <script type="text/javascript" src="inc/stf-files.js"></script>
 </head>
 <body>
     <div id="toolbar">
@@ -18,6 +19,7 @@
         </div>
         <ul>
             <li><a href="javascript:void(0)">Demo</a></li>
+            <li><a href="javascript:void(0)">Save Progress</a></li>
             <li><a href="javascript:void(0)">Move All To Canvas</a>
             <li><a href="javascript:void(0)">Reset Canvas</a></li>
             <li><a href="javascript:void(0)">Clear All Connections</a></li>
@@ -78,16 +80,15 @@
         });
 
         $(document).on("click", ".searchStf", function(e) {
-            $.post("inc/getstf.php", {stfFile: stfChooser.text()}, function(data) {
+            $.getJSON("stf/" + stfChooser.text().substring(0, stfChooser.text().length - 4) + ".json", function (data) {
+                console.log(data);
                 //Now we want to populate the #repository with the entries.
-                conversationEditor.fillRepository(data);
+                //conversationEditor.fillRepository(data);
             });
         });
         
-        $.post("inc/getfiles.php", function(data) {
-            files = data.files;
-            cache = data.files;
-        });
+        files = window.stfFiles;
+        cache = window.stfFiles;
 
         stfChooser.keyup(function(e) {
             var val = $(this).text();

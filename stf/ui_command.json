@@ -1,0 +1,16 @@
+[
+'14':'command_tab_macro',
+'13':'command_tab_other',
+'12':'command_tab_chatter',
+'11':'command_tab_astromech',
+'10':'command_tab_space',
+'9':'command_tab_mood',
+'8':'command_tab_social',
+'7':'command_tab_combat',
+'6':'help_other',
+'5':'help_macro_new',
+'4':'help_macro',
+'3':'help_mood',
+'2':'help_social',
+'1':'help_combat',
+]

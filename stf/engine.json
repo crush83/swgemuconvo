@@ -1,0 +1,12 @@
+[
+'12':'screenshot_failed_unknown_format',
+'11':'screenshot_failed_write_problem',
+'10':'screenshot_failed_wrong_format',
+'9':'screenshot_failed_unknown',
+'8':'screenshot_failed_off_desktop',
+'7':'desktop_same_not_32',
+'6':'desktop_too_small_not_32',
+'5':'desktop_same',
+'3':'desktop_too_small',
+'1':'desktop_not_32bit',
+]

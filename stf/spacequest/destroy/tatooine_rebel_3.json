@@ -1,0 +1,17 @@
+[
+'15':'title_d',
+'14':'title',
+'13':'split_quest_alert_fail',
+'12':'split_quest_alert',
+'11':'quest_t',
+'10':'quest_location_t',
+'9':'quest_location_d',
+'8':'quest_destroy_t',
+'7':'quest_destroy_d',
+'6':'quest_d',
+'5':'autorewardsubject',
+'4':'autorewardfrom',
+'3':'autorewardbody',
+'2':'assigned_delayed',
+'1':'Quest Log Data',
+]

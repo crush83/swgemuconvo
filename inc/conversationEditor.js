@@ -1,6 +1,6 @@
 ;(function () {
 
-	var curColourIndex = 1, maxColourIndex = 24, nextColour = function() {
+	var curColourIndex = 1, maxColourIndex = 24, nextColour = function () {
 		var R,G,B;
 		R = parseInt(128+Math.sin((curColourIndex*3+0)*1.3)*128);
 		G = parseInt(128+Math.sin((curColourIndex*3+1)*1.3)*128);
@@ -16,21 +16,24 @@
 	var overlay = $("#overlay").hide();
 	var script = {};
 	var map = {};
+	var autoSaveInterval = 60000; //Auto save interval in ms.
 	
 	window.conversationEditor = {
 	    grid: {x: 10, y: 10},
 	    
-	    init: function() {
+	    init: function () {
 	        $("#toolbar A:contains('Generate Lua')").on("click", conversationEditor.onGenerateLuaClicked);
 	        $("#toolbar A:contains('About')").on("click", conversationEditor.onAboutClicked);
 	        $("#toolbar A:contains('Move All To Canvas')").on("click", conversationEditor.onMoveAllToCanvasClicked);
 	        $("#toolbar A:contains('Reset Canvas')").on("click", conversationEditor.onResetCanvasClicked);
 	        $("#toolbar A:contains('Clear All Connections')").on("click", conversationEditor.onClearAllConnectionsClicked);
 	        $("#toolbar A:contains('Demo')").on("click", conversationEditor.onDemoClicked);
+	        $("#toolbar A:contains('Save Progress')").on("click", conversationEditor.onSaveProgressClicked);
 	        
 	        //Add close buttons to all the dialog boxes.
 	        var closeButton = $('<div class="closeButton">x</div>');
-	        $(".dialog").append(closeButton.clone().click(function(e) {
+	        
+	        $(".dialog").append(closeButton.clone().click(function (e) {
 	            overlay.hide();
 	            $(this).parent().hide();
 	        }));
@@ -41,13 +44,13 @@
             });
 
 	        //Standard connection click event.
-            jsPlumb.bind("click", function(connection) {
+            jsPlumb.bind("click", function (connection) {
                 connection.target.removeClass("convo-option");
                 jsPlumb.detach(connection);
             });
 
             //Standard connection created event.
-            jsPlumb.bind("jsPlumbConnection", function(conn) {
+            jsPlumb.bind("jsPlumbConnection", function (conn) {
                 //Can't create a connection to itself...
                 if (conn.source.attr("id") == conn.target.attr("id")) {
                     jsPlumb.detach(conn);
@@ -65,9 +68,12 @@
 
                 conn.connection.setPaintStyle({strokeStyle:nextColour()});
             });
+            
+            //Start automatic saves.
+            setInterval(conversationEditor.saveProgress, autoSaveInterval);
 	    },
 	    
-	    fillRepository: function(data) {
+	    fillRepository: function (data) {
 	        var container = $(".container", repository).empty();
 	        
 	        for (key in data.entries) {
@@ -86,18 +92,27 @@
 	        }
 	    },
 	    
-	    onDemoClicked: function(e) {
+	    saveProgress: function () {
+	        console.log("progress saved.");
+	        console.log({html: $("#canvas").html()});
+	    },
+	    
+	    onSaveProgressClicked: function (e) {
+	        conversationEditor.saveProgress();
+	    },
+	    
+	    onDemoClicked: function (e) {
 	        //Run a clickable demo of the conversation.
 	        alert("Coming in futurde version!");
 	    },
 	    
-	    onResetCanvasClicked: function(e) {
+	    onResetCanvasClicked: function (e) {
 	        //Delete all the stf entries from the canvas.
 	        jsPlumb.deleteEveryEndpoint();
 	        $("#canvas .stfEntry").remove();
 	    },
 	    
-	    onMoveAllToCanvasClicked: function(e) {
+	    onMoveAllToCanvasClicked: function (e) {
 	        //We want to clone one of each stfentry in the #repository to the #canvas.
 	        $("#repository .stfEntry").each(function(k, v) {
 	            var obj = $(v).clone();
@@ -107,16 +122,16 @@
 	        });
 	    },
 	    
-	    onAboutClicked: function(e) {
+	    onAboutClicked: function (e) {
 	        overlay.show();
 	        $("#about").show().css("left", $(document).width() / 2 - $("#about").width() / 2);
 	    },
 	    
-	    onClearAllConnectionsClicked: function(e) {
+	    onClearAllConnectionsClicked: function (e) {
 	        jsPlumb.detachEveryConnection();
 	    },
 	    
-	    onGenerateLuaClicked: function(e) {
+	    onGenerateLuaClicked: function (e) {
 	        if ($("#scriptName DIV").text() == "") {
 	            alert("You must provide a name for your script.\n\nPlease make sure this name is unique, as it will be the referenced name of the conversation template.\n\n\"ConversationTemplate\" will automatically be appended to the name when the script is generated.");
 	            $("#scriptName DIV").focus();
@@ -133,7 +148,7 @@
 	        scriptWindow.show().css("left", $(document).width() / 2 - scriptWindow.width() / 2);
 	    },
 	    
-	    addCanvasObject: function(obj, pos) {
+	    addCanvasObject: function (obj, pos) {
 	        obj.addClass("convo-dialog")
 	            .append('<div class="closeButton">X</div>')
 	            .append('<div class="endPoint"></div>');
@@ -170,7 +185,7 @@
             });
 	    },
 	    
-	    onStfEntryCloseClicked: function(e) {
+	    onStfEntryCloseClicked: function (e) {
 	        e.preventDefault();
             var parent = $(this).parent();
             var connections = jsPlumb.getConnections({target: parent.attr("id")});
@@ -199,7 +214,7 @@
             parent.remove();
 	    },
 	    
-	    writeScript: function() {
+	    writeScript: function () {
 	        var scriptName = $("#scriptName DIV").text() + "ConversationTemplate";
 
 	        var script  = "<span class=\"com\">--Generated by SWGEmu Conversation Editor</span>\r\n";

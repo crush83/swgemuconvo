@@ -1,0 +1,14 @@
+[
+'12':'shields_main_detail',
+'11':'defenses_main_detail',
+'10':'shields',
+'9':'defenses',
+'8':'get_shield_schematics_detail',
+'7':'get_defense_schematics_detail',
+'6':'get_shield_schematics',
+'5':'get_defense_schematics',
+'4':'shields_detail',
+'3':'defenses_detail',
+'2':'shields_main',
+'1':'defenses_main',
+]

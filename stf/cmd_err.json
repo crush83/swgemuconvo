@@ -1,0 +1,11 @@
+[
+'9':'unstick_request_cancelled',
+'8':'unstick_request_complete',
+'7':'unstick_in_progress',
+'6':'ability_prose',
+'5':'state_prose',
+'4':'target_range_prose',
+'3':'target_type_prose',
+'2':'locomotion_prose',
+'1':'success_prose',
+]

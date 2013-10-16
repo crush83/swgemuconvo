@@ -1,0 +1,12 @@
+[
+'11':'away_from_keyboard_automatic_time_one',
+'10':'away_from_keyboard_automatic_off',
+'9':'away_from_keyboard_automatic_on',
+'8':'away_from_keyboard_automatic_disabled',
+'7':'away_from_keyboard_on',
+'6':'away_from_keyboard_off',
+'5':'away_from_keyboard_default_message',
+'4':'away_from_keyboard_automatic_response_prefix',
+'3':'away_from_keyboard_automatic_time_invalid',
+'2':'away_from_keyboard_automatic_time_many',
+]

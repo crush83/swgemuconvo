@@ -1,0 +1,14 @@
+[
+'12':'combat_healing_d_finish',
+'11':'healing_puzzle_d_finish',
+'10':'combat_healing_n_finish',
+'9':'healing_puzzle_n_finish',
+'8':'healing_puzzle_n_3',
+'7':'healing_puzzle_n_2',
+'6':'healing_puzzle_d',
+'5':'healing_puzzle_n_1',
+'4':'combat_healing_d_2',
+'3':'combat_healing_d_1',
+'2':'combat_healing_n_2',
+'1':'combat_healing_n_1',
+]

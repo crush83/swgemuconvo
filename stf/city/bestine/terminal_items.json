@@ -1,0 +1,12 @@
+[
+'10':'history_disk_found_already',
+'9':'history_disk_found',
+'8':'inv_full',
+'7':'searched',
+'6':'receivemsg',
+'5':'receive1',
+'4':'receive',
+'3':'fail',
+'2':'download_complete',
+'1':'download',
+]

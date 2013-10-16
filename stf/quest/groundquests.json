@@ -1,0 +1,8 @@
+[
+'9':'timer_timertext',
+'8':'retrieve_item_counter',
+'7':'destroy_and_loot_counter',
+'6':'destroy_counter',
+'5':'retrieve_item_fail',
+'4':'retrieve_item_success',
+]

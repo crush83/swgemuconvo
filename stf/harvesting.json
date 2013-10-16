@@ -1,0 +1,9 @@
+[
+'7':'busy',
+'6':'in_water',
+'5':'inside',
+'4':'swimming',
+'3':'found_crustaceans',
+'2':'found_mollusks',
+'1':'found_nothing',
+]

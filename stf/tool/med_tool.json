@@ -1,0 +1,12 @@
+[
+'22':'mnu_diagnose',
+'21':'menu_tendwound',
+'20':'menu_tenddamage',
+'19':'not_enough_mind',
+'18':'has_no_wounds',
+'17':'no_wounds',
+'16':'not_that_attribute',
+'15':'must_have_medikit',
+'24':'battle_fatigue',
+'23':'other_players_only',
+]

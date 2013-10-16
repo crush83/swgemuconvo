@@ -1,0 +1,15 @@
+[
+'13':'unused2_t',
+'12':'unused2_d',
+'11':'unused1_t',
+'10':'unused1_d',
+'9':'title_d',
+'8':'title',
+'7':'split_quest_alert_fail',
+'6':'split_quest_alert',
+'5':'quest_update',
+'4':'found_loc',
+'3':'duty_update',
+'2':'complete',
+'1':'assigned_delayed',
+]

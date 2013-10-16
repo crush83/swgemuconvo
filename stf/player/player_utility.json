@@ -1,0 +1,10 @@
+[
+'8':'not_space_terminal',
+'7':'target_not_server_object',
+'6':'invalid_target',
+'5':'cannot_manipulate_slot',
+'4':'cannot_manipulate',
+'3':'not_enough_money',
+'2':'access_granted',
+'1':'access_expired',
+]

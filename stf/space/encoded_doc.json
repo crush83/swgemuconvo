@@ -1,0 +1,17 @@
+[
+'15':'event_ghostship',
+'14':'trigger_ghostship',
+'13':'toofar_ghostship',
+'12':'need_waypoint',
+'11':'action_wrong_planet',
+'10':'read',
+'9':'distress_signal',
+'8':'waypoint_exists',
+'7':'stored_waypoint',
+'6':'wrong_planet',
+'5':'use',
+'4':'store_waypoint',
+'3':'close',
+'2':'text_ghostship',
+'1':'title_ghostship',
+]

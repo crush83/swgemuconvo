@@ -1,0 +1,13 @@
+[
+'11':'sui_prompt2',
+'10':'sui_prompt1',
+'9':'sui_title',
+'8':'msg_learned_command',
+'7':'msg_learned_schematic',
+'6':'msg_already_have_command',
+'5':'msg_already_have_schematic',
+'4':'msg_not_enough_xp',
+'3':'msg_no_xp',
+'2':'msg_no_min_skill',
+'1':'menu_learn',
+]

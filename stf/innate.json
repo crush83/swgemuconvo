@@ -1,0 +1,16 @@
+[
+'14':'innate_na',
+'13':'innate_wait',
+'12':'roar_active',
+'11':'roar_wait',
+'10':'equil_wait',
+'9':'equil_active',
+'8':'vit_active',
+'7':'vit_wait',
+'6':'regen',
+'5':'equil',
+'4':'vit',
+'3':'roar',
+'2':'regen_active',
+'1':'regen_wait',
+]

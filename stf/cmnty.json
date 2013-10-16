@@ -1,0 +1,12 @@
+[
+'14':'friend_fail_already_in_list_old',
+'13':'friend_not_found',
+'10':'friend_duplicate',
+'9':'friend_fail_is_ignored',
+'7':'ignore_duplicate',
+'6':'ignore_added',
+'5':'ignore_removed',
+'4':'friend_removed',
+'3':'friend_added',
+'1':'ignore_not_found',
+]

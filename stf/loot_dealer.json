@@ -1,0 +1,14 @@
+[
+'12':'sell_title',
+'11':'sell_prompt',
+'10':'prose_sold_junk',
+'9':'prose_sold_all_junk',
+'8':'prose_no_sale',
+'7':'prose_no_buy_all',
+'6':'prose_no_all_sale',
+'5':'prose_no_buy',
+'4':'prose_junk_sold',
+'3':'no_items',
+'2':'btn_sell_all',
+'1':'btn_sell',
+]

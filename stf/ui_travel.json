@@ -1,0 +1,14 @@
+[
+'12':'help_roundtrip',
+'11':'help_planet',
+'10':'help_map',
+'9':'help_location',
+'8':'help_cost',
+'7':'label_planet',
+'6':'label_city',
+'5':'exit',
+'4':'roundtrip',
+'3':'cost',
+'2':'purchase',
+'1':'ticket_purchase',
+]

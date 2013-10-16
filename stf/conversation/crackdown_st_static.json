@@ -1,0 +1,13 @@
+[
+'11':'salute_name',
+'10':'salute',
+'9':'loiter_s2',
+'8':'loiter_s1',
+'7':'bark_s3',
+'6':'bark_s2',
+'5':'bark_s1',
+'4':'follow_lost',
+'3':'follow_giveup',
+'2':'follow_start',
+'1':'rebel_breach',
+]

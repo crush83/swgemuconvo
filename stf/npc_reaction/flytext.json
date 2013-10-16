@@ -1,0 +1,16 @@
+[
+'16':'yum',
+'15':'nothungry',
+'14':'confused',
+'13':'nofood',
+'12':'repaired',
+'11':'recharged',
+'10':'low_power',
+'9':'nobattery',
+'8':'toofar',
+'5':'fail',
+'4':'success',
+'3':'afraid',
+'2':'threaten',
+'1':'alert',
+]

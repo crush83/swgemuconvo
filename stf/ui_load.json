@@ -1,0 +1,7 @@
+[
+'5':'playerready',
+'4':'terraingenerated',
+'3':'worldloaded',
+'2':'filecachingcomplete',
+'1':'serverobjectsreceived',
+]

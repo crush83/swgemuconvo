@@ -1,0 +1,15 @@
+[
+'13':'attack_stopped',
+'12':'attack_notify',
+'11':'first_attack',
+'10':'outofrange_failed',
+'9':'outofrange',
+'8':'quest_update',
+'7':'mission_complete',
+'6':'transmission_received',
+'5':'trans_update',
+'4':'transmission_start',
+'3':'arrived_at_loc',
+'2':'found_loc',
+'1':'title',
+]

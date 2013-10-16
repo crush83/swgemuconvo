@@ -1,0 +1,16 @@
+[
+'14':'not_here',
+'13':'not_dueling',
+'12':'cancel_target',
+'11':'cancel_self',
+'10':'reject_target',
+'9':'reject_self',
+'8':'end_target',
+'7':'end_self',
+'6':'accept_target',
+'5':'accept_self',
+'4':'already_challenged',
+'3':'already_dueling',
+'2':'challenge_target',
+'1':'challenge_self',
+]
