@@ -127,6 +127,7 @@
 	        
 	        
 	        
+	        
 	        $("#savedProgress").show().fadeOut(2000);
 	    },
 	    
