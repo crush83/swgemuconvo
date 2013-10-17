@@ -201,7 +201,6 @@ BODY {
 	border-top: 2px solid #8bd;
 	padding-top: 0.5em;
 	color: #ffffff;
-	font-size: 0.8em;
 }
 
 #repository .container .no-results {
@@ -209,10 +208,12 @@ BODY {
 	text-shadow: -1px -1px 0 rgba(0,0,0,.25);
 	font-weight: bold;
 	text-align: center;
+	font-size: 0.8em;
 }
 
 #canvas {
-	position: absolute;
+	position: fixed;
+	overflow: scroll;
 	right: 0;
 	bottom: 0;
 	top: 3.125em;
@@ -286,24 +287,60 @@ BODY {
 }
 
 
-
-
-
-
-
-
-
-
-
 .stf-entry {
 	list-style-type: none;
 	padding: 5px;
 	border: 2px solid #8bd;
 	border-radius: 5px;
 	background-color: #479;
-	max-width: 250px;
 	color: #fff;
 	margin: 5px 0;
 	cursor: move;
 	z-index: 100;
+	font-size: 0.6em;
+	max-width: 300px;
+}
+
+#canvas .stf-entry {
+	position: absolute;
+	padding-right: 20px;
+	margin: 0;
+	min-height: 2em;
+	width: 200px;
+}
+
+#canvas .stf-entry.drag-hover {
+	border.color: #fff;
+}
+
+.stf-entry .close-button {
+	position: absolute;
+	right: 3px;
+	top: 3px;
+	line-height: 8px;
+	font-size: 8px;
+	color: #8bd;
+	padding: 1px 3px;
+	border: 1px solid transparent;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.stf-entry .close-button:hover {
+	border-color: #8bd;
+	color: #fff;
+}
+
+.stf-entry .end-point {
+	display: block;
+	position: absolute;
+	border: 1px solid #8bd;
+	border-radius: 7px;
+	background-color: #58a;
+	width: 7px;
+	height: 7px;
+	right: 5px;
+	top: 48%;
+	cursor: pointer;
+	z-index: 250;
 }
