@@ -4,7 +4,10 @@
 	
 	var defaults = {
 		grid: {x: 10, y: 10},
-		autosaveInterval: 60000
+		autosaveInterval: 60000,
+		placeholders: {
+			repositoryContainer: '<div class="no-results">No results found.</div>'
+		}
 	}
 	
 	ConversationEditor = function () {	
@@ -27,6 +30,10 @@
 		this.ui.repository = $('#repository');
 		this.ui.stfChooser = $('.stfChooser', this.ui.repository).on('keyup', $.proxy(this.onStfChooserKeyUp, this));
 		this.ui.stfSearch  = $('.searchStf', this.ui.repository).on('click', $.proxy(this.onStfSearchButtonClicked, this));
+		this.ui.stfResults = $('#stfChooserResults')
+			.offset({left: this.ui.stfChooser.offset().left, top: this.ui.stfChooser.offset().top + this.ui.stfChooser.outerHeight(true)})
+			.on('click', 'a', $.proxy(this.onStfChooserResultClicked, this));
+		this.ui.stfContainer = $('.container', this.ui.repository).html(this.placeholders.repositoryContainer);
 		this.ui.canvas = $('#canvas');
 		
 		this.ui.saveProgressButton = $('#save-progress-button').on('click', $.proxy(this.onSaveProgressButtonClicked, this));
@@ -42,57 +49,91 @@
 		console.log("Saving.");
 	};
 	
+	ConversationEditor.prototype.populateRepository = function (data) {
+		var html = '';
+		
+		for (var key in data.entries) {
+			var entry = data.entries[key];
+			
+			html += '<div class="stf-entry" data-stf="' + key + '">' + entry + '</div>';
+		}
+		
+		this.ui.stfContainer.html(html);
+	};
+	
 	/**
 	 * Event handlers for the StfChooser
 	 */
 	ConversationEditor.prototype.onStfChooserKeyUp = function (e) {
 		var str = this.ui.stfChooser.text();
 		
-		if (str.length < 3) return;
+		this.ui.stfResults.empty();
 		
-		for (var i = 0; i < stfFiles.length; i++) {
-			var stf = stfFiles[i];
-			
-			if (stf.indexOf(str) === 0) {
-				//Update the stf results window.
+		if (str.length > 3) {
+			for (var i = 0; i < stfFiles.length; i++) {
+				var stf = stfFiles[i];
+				
+				if (stf.indexOf(str) === 0)
+					this.ui.stfResults.append('<a href="javascript:void(0)">' + stf + '</a>');
 			}
+		}
+		
+		if (this.ui.stfResults.children().length > 0) {
+			this.ui.stfResults.show();
+		} else {
+			this.ui.stfResults.hide();
 		}
 	};
 	
+	ConversationEditor.prototype.onStfChooserResultClicked = function (e) {
+		this.ui.stfChooser.text($(e.target).text());
+		this.ui.stfResults.hide().empty();
+	};
+	
 	ConversationEditor.prototype.onStfSearchButtonClicked = function (e) {
-		console.log("Clicked stf search.");
+		this.ui.stfContainer.empty().html('<span class="icon-spinner" style="display: inline-block"></span> Loading ...');
+
+		var t = this;
+		var deg = 0;
+		var id = setInterval(function () { deg+=10; if (deg > 360) deg = 0; $('.icon-spinner', t.ui.stfContainer).css('transform', 'rotate(' + deg + 'deg)'); }, 10);
+
+		
+		$.getJSON('stf/' + this.ui.stfChooser.text() + '.json')
+			.always(function () {
+				clearInterval(id);
+				t.ui.stfContainer.empty();
+			})
+			.done(function (data) {
+				t.populateRepository(data);
+			})
+			.fail(function () {
+				t.ui.stfContainer.html(t.placeholders.repositoryContainer);
+			});
 	};
 	
 	/**
 	 * Click handlers for menu bar buttons.
 	 */
 	ConversationEditor.prototype.onSaveProgressButtonClicked = function (e) {
-		console.log("Save progress.")
 		this.save();
 	};
 	
 	ConversationEditor.prototype.onMoveAllToCanvasButtonClicked = function (e) {
-		console.log("Move all to canvas.");
 	};
 	
 	ConversationEditor.prototype.onResetCanvasButtonClicked = function (e) {
-		console.log("Reset canvas.");
 	};
 	
 	ConversationEditor.prototype.onClearAllConnectionsButtonClicked = function (e) {
-		console.log("Clear all connections.");
 	};
 
 	ConversationEditor.prototype.onGenerateScriptButtonClicked = function (e) {
-		console.log("Generate script.");
 	};
 	
 	ConversationEditor.prototype.onSettingsButtonClicked = function (e) {
-		console.log("Settings.");
 	};
 	
 	ConversationEditor.prototype.onAboutButtonClicked = function (e) {
-		console.log("About.");
 	};
 	
 })(jQuery, jsPlumb.getInstance(), undefined);

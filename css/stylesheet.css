@@ -164,6 +164,53 @@ BODY {
 	color: #adf;
 }
 
+#stfChooserResults {
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 2;
+	margin: 2px 0 0 0;
+	border: 2px solid #8bd;
+	background-color: #69b;
+	max-height: 15em;
+	overflow: scroll;
+	overflow-x: hidden;
+	border-radius: 5px 0 0 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,.3);
+}
+
+#stfChooserResults a {
+	display: block;
+	text-decoration: none;
+	font-size: 0.6em;
+	color: #adf;
+	font-weight: bold;
+	padding: 0.25em;
+	padding-right: 2em;
+	max-width: 35em;
+}
+
+#stfChooserResults a:hover {
+	background-color: #8bd;
+	color: #fff;
+}
+
+#repository .container {
+	margin-top: 1em;
+	border-top: 2px solid #8bd;
+	padding-top: 0.5em;
+	color: #ffffff;
+	font-size: 0.8em;
+}
+
+#repository .container .no-results {
+	color: #8bd;
+	text-shadow: -1px -1px 0 rgba(0,0,0,.25);
+	font-weight: bold;
+	text-align: center;
+}
+
 #canvas {
 	position: absolute;
 	right: 0;
@@ -224,7 +271,7 @@ BODY {
 
 #about { display: none; }
 
-#savedProgress {
+#saved-progress {
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -232,4 +279,30 @@ BODY {
 	padding: 1em;
 	color: #fff;
 	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.stf-entry {
+	list-style-type: none;
+	padding: 5px;
+	border: 2px solid #8bd;
+	border-radius: 5px;
+	background-color: #479;
+	max-width: 250px;
+	color: #fff;
+	margin: 5px 0;
+	cursor: move;
+	z-index: 100;
 }
