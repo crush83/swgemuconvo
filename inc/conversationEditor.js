@@ -4,7 +4,7 @@
 	
 	var defaults = {
 		grid: {x: 10, y: 10},
-		autosaveInterval: 60000,
+		autosaveInterval: 30000,
 		placeholders: {
 			repositoryContainer: '<div class="no-results">No results found.</div>'
 		}
@@ -23,7 +23,7 @@
 	ConversationEditor.prototype.initialize = function () {		
 		this.initializeInterface();
 		
-		this.intervalId = setInterval(this.save, this.autosaveInterval);
+		this.intervalId = setInterval($.proxy(this.save, this), this.autosaveInterval);
 	};
 	
 	ConversationEditor.prototype.initializeInterface = function () {
@@ -35,6 +35,7 @@
 			.on('click', 'a', $.proxy(this.onStfChooserResultClicked, this));
 		this.ui.stfContainer = $('.container', this.ui.repository).html(this.placeholders.repositoryContainer);
 		this.ui.canvas = $('#canvas');
+		this.ui.progressSavedMessage = $('#saved-progress').disableSelection();
 		
 		this.ui.saveProgressButton = $('#save-progress-button').on('click', $.proxy(this.onSaveProgressButtonClicked, this));
 		this.ui.moveAllToCanvasButton = $('#move-all-to-canvas-button').on('click', $.proxy(this.onMoveAllToCanvasButtonClicked, this));
@@ -46,7 +47,7 @@
 	};
 	
 	ConversationEditor.prototype.save = function () {
-		console.log("Saving.");
+		this.ui.progressSavedMessage.stop(false, true).show().fadeOut(3000);
 	};
 	
 	ConversationEditor.prototype.populateRepository = function (data) {
