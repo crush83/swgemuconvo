@@ -313,6 +313,25 @@ BODY {
 	border.color: #fff;
 }
 
+.stf-entry.convo-option {
+	background-color: #797;
+	border-color: #575;
+}
+
+.stf-entry.convo-option .close-button {
+	color: #575;
+}
+
+.stfEntry.convo-option .close-button:hover {
+	border-color: #575;
+	color: #fff;
+}
+
+.stfentry.convo-option .end-point {
+	border: 1px solid #575;
+	background-color: #797;
+}
+
 .stf-entry .close-button {
 	position: absolute;
 	right: 3px;

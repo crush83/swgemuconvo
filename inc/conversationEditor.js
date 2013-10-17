@@ -191,19 +191,59 @@
 	};
 	
 	ConversationEditor.prototype.onConnectionCreated = function (connection) {
+	    if (connection.source.attr("id") == connection.target.attr("id")) {
+            jsPlumb.detach(conn);
+            return false;
+        }
+        
+        if (connection.source.hasClass("convo-option") && connection.target.hasClass("convo-option")) {
+            jsPlumb.detach(conn); //Delete the connection.
+            return false;
+        }
+        
+        if (connection.source.hasClass("convo-dialog"))
+            connection.target.removeClass("convo-dialog").addClass("convo-option");
+        
 	    connection.connection.setPaintStyle({strokeStyle: '#8bd'});
 	};
 	
 	ConversationEditor.prototype.onConnectionClicked = function (connection) {
-	    
+	    connection.target.removeClass("convo-option");
+	    jsPlumb.detach(connection);
 	};
 	
 	ConversationEditor.prototype.onCloseButtonClicked = function (e) {
+	    e.preventDefault();
 	    
+	    var parent = $(this).parent();
+	    var connections = jsPlumb.getConnections({target: parent.attr('id')});
+	    
+	    for (var i = 0; i < connections.length; i++) {
+	        jsPlumb.detach(connections[i]);
+	    }
+	    
+	    connections = jsPlumb.getConnections({source: parent.attr('id')});
+	    
+	    for (var i = 0; i < connections.length; i++) {
+	        var connection = connections[i];
+	        var target = connection.target;
+	        
+	        target.removeClass('convo-option').addClass('convo-dialog');
+	        
+	        var targetConnections = jsPlumb.getConnections({source: target.attr('id')});
+	        
+	        for (var k = 0; k < targetConnections.length; k++) {
+	            jsPlumb.detach(targetConnections[k]);
+	        }
+	        
+	        jsPlumb.detach(connection);
+	    }
+	    
+	    parent.remove();
 	};
 	
 	ConversationEditor.prototype.onMaxConnectionsReached = function (info, e) {
-	    
+	    console.log("Max connections reached.");
 	};
 	
 	/**
@@ -214,12 +254,20 @@
 	};
 	
 	ConversationEditor.prototype.onMoveAllToCanvasButtonClicked = function (e) {
+	    this.ui.stfContainer.children().each(function (k, v) {
+	        
+	    });
 	};
 	
 	ConversationEditor.prototype.onResetCanvasButtonClicked = function (e) {
+	    jsPlumb.deleteEveryEndpoint();
+	    this.ui.canvas.empty();
 	};
 	
 	ConversationEditor.prototype.onClearAllConnectionsButtonClicked = function (e) {
+	    if (confirm("Are you sure you want to detach all the connections in this conversation?\n\nThis action is irreversible.")) {
+	        jsPlumb.detachEveryConnection();
+	    }
 	};
 
 	ConversationEditor.prototype.onGenerateScriptButtonClicked = function (e) {
